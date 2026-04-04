@@ -1,37 +1,37 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitehead,Dan,Cosmics,M Open,00:35:17
-2,Leslie,Nick,Ochil Hill runners,M Open,00:36:37
-3,Scarborough,Linton,Perth RoadRunners,M Open,00:38:31
-4,Mackenzie,Donald,Lomond Hill Runners,M Vet,00:38:41
-5,Anderson,Iain,N/A,M Vet,00:39:10
-6,Scott,Tom,Fife AC,M Vet,00:39:30
-7,Leonard,Paul,Dundee Hawkhill Harriers,M Vet,00:39:55
-8,Oldham,Veronique,Cosmics,F Vet,00:41:02
-9,Magill,Andrew,N/A,M Open,00:41:28
-10,Ferguson,Stephen,Perth RoadRunners,M Vet,00:41:51
-11,Smith,Bill,Fife AC,M Vet,00:41:51
-12,Kerr,Stuart,Dundee Hawkhill Harriers,M Vet,00:41:55
-13,Mitchell,Dave,Dundee Hawkhill Harriers,M Vet,00:42:12
-14,Higginbottom,Jacqui,Carnethy,F Vet,00:42:34
-15,Matthews,Steve,N/A,M Open,00:43:13
-16,Forte,Phil,Dundee Hawkhill Harriers,M Vet,00:43:20
-17,Davidson,Richard,Dundee RoadRunners,M Vet,00:43:59
-18,Oparka,Richard,N/A,M Open,00:44:09
-19,Wilson,Colin,Carnethy Hill runners,M Vet,00:45:07
-20,Robertson,Doug,Fife AC,M Vet,00:45:12
-21,Kay,Harry,Dundee RoadRunners,M Vet,00:45:45
-22,Omand,Elaine,N/A,F Open,00:46:41
-23,Irving,John,Dundee RoadRunners,M Open,00:48:16
-24,Ritchie,Hilary,Fife AC,F Vet,00:48:24
-25,Graham,Robyn,Fife AC,F Open,00:49:21
-26,Cromar,Steve,Dundee Hawkhill Harriers,M Vet,00:49:30
-27,Love,Craig,Dundee Hawkhill Harriers,M Open,00:49:34
-28,Sangster,Gillian,Arbroath Footers,F Vet,00:49:38
-29,Wilson,Joan,Carnethy Hill runners,F Vet,00:49:47
-30,Walker,William,N/A,M Vet,00:50:13
-31,Lamor,Katherine,Dundee RoadRunners,F Vet,00:50:34
-32,Thornton,Robert,Fife AC,M Vet,00:54:19
-33,Fraser,Ronald,N/A,M Vet,00:54:23
-34,Archibald,Steve,Dundee RoadRunners,M Vet,00:56:13
-35,Mitchell,Gary,N/A,M Open,00:56:23
-36,Ryder,Ursula,Dundee RoadRunners,F Vet,01:04:42
+1,Whitehead,Dan,Cosmics,M,00:35:17
+2,Leslie,Nick,Ochil Hill runners,M,00:36:37
+3,Scarborough,Linton,Perth RoadRunners,M,00:38:31
+4,Mackenzie,Donald,Lomond Hill Runners,M40,00:38:41
+5,Anderson,Iain,N/A,M40,00:39:10
+6,Scott,Tom,Fife AC,M40,00:39:30
+7,Leonard,Paul,Dundee Hawkhill Harriers,M40,00:39:55
+8,Oldham,Veronique,Cosmics,F40,00:41:02
+9,Magill,Andrew,N/A,M,00:41:28
+10,Ferguson,Stephen,Perth RoadRunners,M40,00:41:51
+11,Smith,Bill,Fife AC,M40,00:41:51
+12,Kerr,Stuart,Dundee Hawkhill Harriers,M40,00:41:55
+13,Mitchell,Dave,Dundee Hawkhill Harriers,M40,00:42:12
+14,Higginbottom,Jacqui,Carnethy,F40,00:42:34
+15,Matthews,Steve,N/A,M,00:43:13
+16,Forte,Phil,Dundee Hawkhill Harriers,M40,00:43:20
+17,Davidson,Richard,Dundee RoadRunners,M40,00:43:59
+18,Oparka,Richard,N/A,M,00:44:09
+19,Wilson,Colin,Carnethy Hill runners,M40,00:45:07
+20,Robertson,Doug,Fife AC,M40,00:45:12
+21,Kay,Harry,Dundee RoadRunners,M40,00:45:45
+22,Omand,Elaine,N/A,F,00:46:41
+23,Irving,John,Dundee RoadRunners,M,00:48:16
+24,Ritchie,Hilary,Fife AC,F40,00:48:24
+25,Graham,Robyn,Fife AC,F,00:49:21
+26,Cromar,Steve,Dundee Hawkhill Harriers,M40,00:49:30
+27,Love,Craig,Dundee Hawkhill Harriers,M,00:49:34
+28,Sangster,Gillian,Arbroath Footers,F40,00:49:38
+29,Wilson,Joan,Carnethy Hill runners,F40,00:49:47
+30,Walker,William,N/A,M40,00:50:13
+31,Lamor,Katherine,Dundee RoadRunners,F40,00:50:34
+32,Thornton,Robert,Fife AC,M40,00:54:19
+33,Fraser,Ronald,N/A,M40,00:54:23
+34,Archibald,Steve,Dundee RoadRunners,M40,00:56:13
+35,Mitchell,Gary,N/A,M,00:56:23
+36,Ryder,Ursula,Dundee RoadRunners,F40,01:04:42

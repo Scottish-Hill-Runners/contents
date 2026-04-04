@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Rees,Logan,Fife AC,M,00:30:09
-2,Rees,Tristan,Fife AC,MU18,00:30:35
-3,Rees,George,Fife AC,MU18,00:30:58
+2,Rees,Tristan,Fife AC,M18,00:30:35
+3,Rees,George,Fife AC,M18,00:30:58
 4,Cassidy,Scott,Fife AC,M,00:32:44
 5,Foster,George,Dundee Hawkhill,M,00:33:11
 6,Prentice,Paul,Unattached,M,00:33:18
@@ -9,19 +9,19 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Baxter,Grant,Ochil Hill Runners,M40,00:33:46
 9,Anderson,Iain,Dundee Hawkhill,M40,00:34:30
 10,Knox,Jonathan,Anster Haddies,M50,00:34:53
-11,Fernando,Sam,Fife AC,MU18,00:35:02
+11,Fernando,Sam,Fife AC,M18,00:35:02
 12,Malcolm,Bruce,Corstorphine,M50,00:35:23
 13,Henry,Peter,Deeside Runners,M,00:35:33
-14,Harris,Tom,Unattached,MU18,00:35:36
+14,Harris,Tom,Unattached,M18,00:35:36
 15,Love,Craig,Dundee Hawkhill,M40,00:35:38
 16,Pringle,Stuart,Deeside Runners,M,00:35:52
 17,Martin,Tony,Falkland Trail Runners,M60,00:35:54
 18,Taylor,Keith,Fife AC,M,00:36:06
-19,Ingledew,Fergus,Fife AC,MU18,00:36:44
+19,Ingledew,Fergus,Fife AC,M18,00:36:44
 20,MacDonald,Mike,Unattached,M40,00:36:46
 21,Kemp,Allan,Kinross Road Runners,M,00:37:03
-22,Nicholson,Emily,Pitreavie,FU18,00:37:11
-23,Morris,Craig,Fife AC,MU18,00:37:18
+22,Nicholson,Emily,Pitreavie,F18,00:37:11
+23,Morris,Craig,Fife AC,M18,00:37:18
 24,Strachan,Scott,Kinross Road Runners,M40,00:37:21
 25,Johns,Andy,Kinross Road Runners,M40,00:37:29
 26,Rees,Halina,Fife AC,F,00:37:31
@@ -60,7 +60,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 59,Denovan,John,Wee County Harriers,M,00:41:23
 60,Barbour,Alastair,Unattached,M,00:41:26
 61,Kemp,Graeme,Kinross Road Runners,M,00:41:34
-62,Wyse,Ross,Fife AC,MU18,00:41:36
+62,Wyse,Ross,Fife AC,M18,00:41:36
 63,Cowan,David,Fife AC,M50,00:41:37
 64,Davidson,Richard,Dundee Hawkhill,M50,00:41:39
 65,Weir,Jonathan,Unattached,M,00:41:46
@@ -68,7 +68,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 67,Brown,Jamie,HBT,M,00:43:00
 68,Martin,Margaret,Fife AC,F50,00:43:05
 69,Norrie,David,Perth Road Runners,M60,00:43:11
-70,Chalmers,David,Kinross Road Runners,MU18,00:43:15
+70,Chalmers,David,Kinross Road Runners,M18,00:43:15
 71,Cessford,Lee,Falkland Trail Runners,M40,00:43:18
 72,Smith,Brian,Fife AC,M50,00:43:20
 73,Reed,Paul,Dundee Road Runners,M40,00:43:26
@@ -80,7 +80,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 79,Wood,Adrian,Falkland Trail Runners,M40,00:43:57
 80,McGowan,Alan,Carnegie Harriers,M,00:43:59
 81,Cooper,Meike,Unattached,F,00:44:05
-82,Nicoll,Laura,Tayside Orienteers,FU18,00:44:16
+82,Nicoll,Laura,Tayside Orienteers,F18,00:44:16
 83,Manson,Fiona,Perth Road Runners,F40,00:44:18
 84,Johnston,Zoey,Falkland Trail Runners,F,00:44:31
 85,Redfern,Colin,Unattached,M40,00:44:37
@@ -139,8 +139,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 138,Eaton,Sarah,Kinross Road Runners,F50,00:59:55
 139,Smith,Norman,Kinross Road Runners,M70,01:00:04
 140,Gibson,Annie,Falkland Trail Runners,F50,01:00:28
-141,Howe,Joe,Falkland Trail Runners,MU18,01:01:22
-142,Hall,Fraser,Unattached,MU18,01:02:00
+141,Howe,Joe,Falkland Trail Runners,M18,01:01:22
+142,Hall,Fraser,Unattached,M18,01:02:00
 143,Hall,Richard,Unattached,M40,01:02:01
 144,Fernando,Kate,Fife AC,F40,01:02:22
 145,Thornton,Bob,Fife AC,M50,01:04:20

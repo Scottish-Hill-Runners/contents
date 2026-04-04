@@ -1,13 +1,13 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wright,Joseph,Deeside Runners,M,00:29:39
-2,Downey,Jonathon,Kilmarnock Harriers,MU20,00:30:50
-3,Pagett,Harris,Strathearn Harriers,MU20,00:31:43
+2,Downey,Jonathon,Kilmarnock Harriers,M20,00:30:50
+3,Pagett,Harris,Strathearn Harriers,M20,00:31:43
 4,McInally,Ralf,Strathearn Harriers,M,00:31:56
 5,Hutson,Liam,Fife AC,M,00:32:21
 6,Gough,Tom,Fife AC,M,00:33:09
 7,Goddard,Ollie,Unattached,M,00:33:35
 8,Wright,Andrew,PH Racing,M40,00:33:40
-9,Thomas,Lachlan,Ross County,MU20,00:34:03
+9,Thomas,Lachlan,Ross County,M20,00:34:03
 10,Allingham,Fred,Unattached,M,00:34:21
 11,Baxter,Grant,Ochil Hill Runners,M50,00:34:43
 12,Turnbull,Jonathan,Strathearn Harriers,M40,00:34:49
@@ -15,9 +15,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Show,Ruairidh,Lochaber AC,M,00:35:58
 15,Duncan,Eric,Highland Hill Runners,M50,00:36:18
 16,Barclay,Glenn,Fife AC,M,00:36:26
-17,McAdam,Ewan,Fife AC,MU20,00:36:51
+17,McAdam,Ewan,Fife AC,M20,00:36:51
 18,Alsopp,David,Kirkintilloch Olympians,M50,00:36:59
-19,Thomas,Kaeden,Ross County,MU20,00:37:19
+19,Thomas,Kaeden,Ross County,M20,00:37:19
 20,Newton,Matt,Kinross Road Runners,M40,00:37:24
 21,Rennie,Willie,PH Racing,M50,00:37:35
 22,Dozier,Laura,Carnethy HRC,F,00:37:58

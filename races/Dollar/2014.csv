@@ -6,23 +6,23 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 5,Greig,Kyle,Metro Aberdeen,M,1:13:10
 6,Fallas,Andrew,Carnethy,M,1:13:13
 7,Donnelly,Morgan,Borrowdale Fell Runners,M40,1:13:17
-8,Crickmore,Jonathan,HBT,MU23,1:14:38
+8,Crickmore,Jonathan,HBT,M23,1:14:38
 9,Gray,Karl,Calder Valley,M40,1:15:15
 10,Bogle,Allan,City of Derry,M,1:15:26
 11,Kay,Darren,Calder Valley,M40,1:15:47
 12,Little,Robert,Dark Peak,M,1:16:42
-13,Neill,William,Mercia,MU23,1:16:49
+13,Neill,William,Mercia,M23,1:16:49
 14,Richmond,Kenny,Shettleston Harriers,M40,1:16:54
 15,Taggart,Lloyd,Manx Fell Runners,M40,1:17:00
 16,Davies,Jim,Borrowdale Fell Runners,M40,1:17:09
 17,Normand,Andrew,Carnethy,M,1:17:22
-18,Waldie,James,HBT,MU23,1:17:25
+18,Waldie,James,HBT,M23,1:17:25
 19,Mikkelsen-Barron,Martin,Borrowdale Fell Runners,M,1:17:27
 20,McLeod,Alasdair,Shettleston Harriers,M,1:17:32
 21,Hukins,Ben,Cambuslang Harriers,M,1:17:34
 22,Liston,Andrew,Fife AC,M,1:17:40
 23,Bowie,Jon,Mercia,M,1:17:54
-24,Wright,Jack,Ambleside,MU23,1:18:05
+24,Wright,Jack,Ambleside,M23,1:18:05
 25,Steede,Jonny,Glens Runners,M,1:18:13
 26,Heneghan,John,Pudsey & Bramley,M,1:18:29
 27,Hodges,Pete,Dark Peak,M,1:18:32
@@ -34,7 +34,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Smith,Tom,Lochaber AC,M40,1:19:43
 34,Lennox,Gordon,Inverness Harriers,M,1:19:55
 35,Whiteside,Iain,Carnethy,M,1:20:02
-36,Lamb,Mark,Keswick AC,MU23,1:20:05
+36,Lamb,Mark,Keswick AC,M23,1:20:05
 37,Reid,Michael,Carnethy,M,1:20:23
 38,Connaghan,John,Shettleston Harriers,M40,1:21:43
 39,Fulton,David,HBT,M,1:22:34
@@ -44,7 +44,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 43,Robinson,Chris,Ambleside,M40,1:23:28
 44,Oates,Todd,Ambleside,M,1:23:37
 45,Mattocks,Craig,Gala Harriers,M40,1:23:43
-46,Gilmore,Andrew,Highland Hill Runners,MU23,1:23:51
+46,Gilmore,Andrew,Highland Hill Runners,M23,1:23:51
 47,Hammond,John,Carnethy,M,1:23:55
 48,Wilkinson,Victoria,Bingley Harriers,F,1:24:16
 49,Rawlik,Konrad,Carnethy,M,1:24:29
@@ -119,13 +119,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 118,McVey,Alex,Carnethy,M,1:36:24
 119,Whitehouse,Anthony,Totley AC,M60,1:36:28
 120,Kirby,Graham,Fife AC,M40,1:36:35
-121,Watson,Charlotte,Edinburgh Uni H&H,FU23,1:36:41
+121,Watson,Charlotte,Edinburgh Uni H&H,F23,1:36:41
 122,Keeling,David,Cheshire Hill Racers,M50,1:36:44
 123,McDonald,Dennis,Cosmics,M50,1:36:50
 124,Rimmer,Greg,Dark Peak,M50,1:36:57
 125,Oldham,Veronique,Cosmics,F40,1:37:03
 126,Gray,Robert,Todmorden Harriers,M,1:37:09
-127,Jackson,Nichola,Preston Harriers,FU23,1:37:13
+127,Jackson,Nichola,Preston Harriers,F23,1:37:13
 128,Kay,Ashley,Dark Peak,M50,1:37:32
 129,Myers,Gill,Wharfedale Harriers,F50,1:37:49
 130,Cowper,Stephen,Milburn Harriers,M40,1:38:05

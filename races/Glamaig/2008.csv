@@ -1,83 +1,83 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,ms,00:49:39
-2,Keith,Alec,HBT,m40,00:51:04
-3,Riddle,Kenny,Highland HR,m40,00:54:29
-4,Fallon,Steven,Carnethy HRC,m40,00:55:06
-5,Smith,Alan,Deeside R,m40,00:55:30
-6,Gallagher,Ronnie,Carnethy HRC,m40,00:57:24
-7,Smith,Tom,Lochaber AC,ms,00:58:57
-8,Faulkner,Paul,Unattached,ms,00:59:36
-9,Brookes,Rob,Cosmic HB,ms,01:00:08
-10,Shaw,Richard,Lochaber AC,m40,01:01:28
-11,Wilkinson,Barry,Borrowdale FR,m40,01:01:37
-12,Ward,Peter,Lochaber AC,ms,01:01:48
-13,Bannerman,Ross,Highland HR,ms,01:01:54
-14,Contier,Gilles,Skye & Lochalsh RC,m40,01:01:57
-15,Kennedy,Scott,Skye & Lochalsh RC,ms,01:02:07
-16,MacBeath,Niall,Lochaber AC,m40,01:02:23
-17,Kennedy,Ali,Lochaber AC,m40,01:02:43
-18,Delaney,Kevin,Skye & Lochalsh RC,m50,01:03:13
-19,Anderson,Russell,Moorfoot R,m40,01:05:13
-20,Rogers,David,Westerlands CCC,m40,01:06:20
-21,Inglis,Ricky,Local,ms,01:06:57
-22,Butterwaite,Nick,Unattached,m40,01:10:30
-23,O'Donnaghaile,Alasdair,Local,ms,01:10:58
-24,Gibson,Willie,Carnethy HRC,m50,01:11:01
-25,Blackhall,Keith,Lochaber AC,ms,01:11:32
-26,O'Sullivan,Shuan,Cosmic HB,ms,01:11:54
-27,Harley,Tom,HELP,m50,01:12:02
-28,Williams,Gareth,Cybi,ms,01:12:16
-29,Shepherd,Andrew,Carnethy HRC,m40,01:12:22
-30,Manning,Bruce,Cosmic HB,m50,01:12:54
-31,Larmour,Colin,Cosmic HB,m40,01:13:54
-32,Brett,Alex,Highland HR,m50,01:14:19
-33,Hunter,Stuart,Cosmic HB,m40,01:14:29
-34,Noble,Lois,Cosmic HB,f40,01:15:42
-35,Simpson,Stuart,Ochil HR,ms,01:16:31
-36,Duncan,David,Ochil HR,m50,01:16:55
-37,Blackhall,Amanda,Lochaber AC,fs,01:17:11
-38,Wilson,Colin,Carnethy HRC,m40,01:17:13
-39,MacSween,Alisdair,Skye & Lochalsh RC,m40,01:18:54
-40,Murphy,Craig,Victoria Park AC,ms,01:19:34
-41,Henry,Peter,Deeside R,ms,01:20:07
-42,Earnshaw,Colin,Unattached,ms,01:20:27
-43,Stewart,Jim,Lochaber AC,m50,01:22:06
-44,McCluskie,Robert,Local,m40,01:22:24
-45,Brennan,Brian,Westerlands CCC,m50,01:22:26
-46,Murdoch,Raymond,Lochaber AC,m50,01:22:47
-47,Rose,Elaine,Pennine FR,f40,01:23:14
-48,Halls,Monty,Unattached,m40,01:23:26
-49,Stewart,Elaine,Cosmic HB,f50,01:24:30
-50,McIvor,Murdo,Unattached,ms,01:25:10
-51,Lowrie,Fiona,Unattached,fs,01:26:35
-52,O'Dolan,Carroll,Unattached,m40,01:27:00
-53,Noble,Keith,Unattached,m40,01:28:03
-54,Milne,Bruce,Unattached,m40,01:28:04
-55,Headley,Phillipa,Carnethy HRC,fs,01:28:13
-56,Smith,Tilly,Deeside R,f40,01:30:07
-57,Wilson,Joan,Carnethy HRC,f40,01:30:15
-58,Stayt,David,Skye & Lochalsh RC,m40,01:30:59
-59,Kennedy,Nancy,Lochaber AC,f50,01:32:57
-60,Clunas,Gillian,Cosmic HB,f50,01:35:56
-61,MacDermid,Arlene,Lochaber AC,f40,01:37:18
-62,Body,Jenny,Cosmic HB,fs,01:37:55
-63,Maclean,Donald,Local,m40,01:38:05
-64,Maclean,Neil,British Legion,m40,01:38:05
-65,Gibson,Billy,Local,ms,01:38:06
-66,Brookes,Liz,Unattached,fs,01:40:21
-67,Paterson,Jamie,Local,mj,01:41:15
-68,Nicolson,Neil,Unattached,ms,01:46:17
-69,Jarvis,Bernard,Holme Pierpont,m60,01:49:16
-70,Edwards,Christopher,Team Slig,ms,01:56:41
-71,O'Sullivan,Sarah,Cosmic HB,fs,01:59:16
-72,O'Donnaghaile,Peter,Local,m40,02:03:22
-73,MacDonald,Donna,Lochaber AC,fs,02:04:45
-74,Gifford,Virginia,Local,fs,02:10:35
-75,Jones,Jonah,British Legion,m40,02:10:59
-76,Murdoch,Elma,Lochaber AC,f50,02:17:44
-77,Kennedy,Teresa,Lochaber AC,f40,02:17:44
-78,Buchanan,Pauline,Unattached,fs,02:19:15
-79,Macleod,Brian,Local,ms,02:32:16
-80,Warby,Tony,Unattached,m50,02:32:52
-81,Le,Colin,Unattached,m40,02:46:34
-82,Tough,Michael,Team Slig,ms,?
+1,Marshall,Brian,HELP,M,00:49:39
+2,Keith,Alec,HBT,M40,00:51:04
+3,Riddle,Kenny,Highland HR,M40,00:54:29
+4,Fallon,Steven,Carnethy HRC,M40,00:55:06
+5,Smith,Alan,Deeside R,M40,00:55:30
+6,Gallagher,Ronnie,Carnethy HRC,M40,00:57:24
+7,Smith,Tom,Lochaber AC,M,00:58:57
+8,Faulkner,Paul,Unattached,M,00:59:36
+9,Brookes,Rob,Cosmic HB,M,01:00:08
+10,Shaw,Richard,Lochaber AC,M40,01:01:28
+11,Wilkinson,Barry,Borrowdale FR,M40,01:01:37
+12,Ward,Peter,Lochaber AC,M,01:01:48
+13,Bannerman,Ross,Highland HR,M,01:01:54
+14,Contier,Gilles,Skye & Lochalsh RC,M40,01:01:57
+15,Kennedy,Scott,Skye & Lochalsh RC,M,01:02:07
+16,MacBeath,Niall,Lochaber AC,M40,01:02:23
+17,Kennedy,Ali,Lochaber AC,M40,01:02:43
+18,Delaney,Kevin,Skye & Lochalsh RC,M50,01:03:13
+19,Anderson,Russell,Moorfoot R,M40,01:05:13
+20,Rogers,David,Westerlands CCC,M40,01:06:20
+21,Inglis,Ricky,Local,M,01:06:57
+22,Butterwaite,Nick,Unattached,M40,01:10:30
+23,O'Donnaghaile,Alasdair,Local,M,01:10:58
+24,Gibson,Willie,Carnethy HRC,M50,01:11:01
+25,Blackhall,Keith,Lochaber AC,M,01:11:32
+26,O'Sullivan,Shuan,Cosmic HB,M,01:11:54
+27,Harley,Tom,HELP,M50,01:12:02
+28,Williams,Gareth,Cybi,M,01:12:16
+29,Shepherd,Andrew,Carnethy HRC,M40,01:12:22
+30,Manning,Bruce,Cosmic HB,M50,01:12:54
+31,Larmour,Colin,Cosmic HB,M40,01:13:54
+32,Brett,Alex,Highland HR,M50,01:14:19
+33,Hunter,Stuart,Cosmic HB,M40,01:14:29
+34,Noble,Lois,Cosmic HB,F40,01:15:42
+35,Simpson,Stuart,Ochil HR,M,01:16:31
+36,Duncan,David,Ochil HR,M50,01:16:55
+37,Blackhall,Amanda,Lochaber AC,F,01:17:11
+38,Wilson,Colin,Carnethy HRC,M40,01:17:13
+39,MacSween,Alisdair,Skye & Lochalsh RC,M40,01:18:54
+40,Murphy,Craig,Victoria Park AC,M,01:19:34
+41,Henry,Peter,Deeside R,M,01:20:07
+42,Earnshaw,Colin,Unattached,M,01:20:27
+43,Stewart,Jim,Lochaber AC,M50,01:22:06
+44,McCluskie,Robert,Local,M40,01:22:24
+45,Brennan,Brian,Westerlands CCC,M50,01:22:26
+46,Murdoch,Raymond,Lochaber AC,M50,01:22:47
+47,Rose,Elaine,Pennine FR,F40,01:23:14
+48,Halls,Monty,Unattached,M40,01:23:26
+49,Stewart,Elaine,Cosmic HB,F50,01:24:30
+50,McIvor,Murdo,Unattached,M,01:25:10
+51,Lowrie,Fiona,Unattached,F,01:26:35
+52,O'Dolan,Carroll,Unattached,M40,01:27:00
+53,Noble,Keith,Unattached,M40,01:28:03
+54,Milne,Bruce,Unattached,M40,01:28:04
+55,Headley,Phillipa,Carnethy HRC,F,01:28:13
+56,Smith,Tilly,Deeside R,F40,01:30:07
+57,Wilson,Joan,Carnethy HRC,F40,01:30:15
+58,Stayt,David,Skye & Lochalsh RC,M40,01:30:59
+59,Kennedy,Nancy,Lochaber AC,F50,01:32:57
+60,Clunas,Gillian,Cosmic HB,F50,01:35:56
+61,MacDermid,Arlene,Lochaber AC,F40,01:37:18
+62,Body,Jenny,Cosmic HB,F,01:37:55
+63,Maclean,Donald,Local,M40,01:38:05
+64,Maclean,Neil,British Legion,M40,01:38:05
+65,Gibson,Billy,Local,M,01:38:06
+66,Brookes,Liz,Unattached,F,01:40:21
+67,Paterson,Jamie,Local,M16,01:41:15
+68,Nicolson,Neil,Unattached,M,01:46:17
+69,Jarvis,Bernard,Holme Pierpont,M60,01:49:16
+70,Edwards,Christopher,Team Slig,M,01:56:41
+71,O'Sullivan,Sarah,Cosmic HB,F,01:59:16
+72,O'Donnaghaile,Peter,Local,M40,02:03:22
+73,MacDonald,Donna,Lochaber AC,F,02:04:45
+74,Gifford,Virginia,Local,F,02:10:35
+75,Jones,Jonah,British Legion,M40,02:10:59
+76,Murdoch,Elma,Lochaber AC,F50,02:17:44
+77,Kennedy,Teresa,Lochaber AC,F40,02:17:44
+78,Buchanan,Pauline,Unattached,F,02:19:15
+79,Macleod,Brian,Local,M,02:32:16
+80,Warby,Tony,Unattached,M50,02:32:52
+81,Le,Colin,Unattached,M40,02:46:34
+82,Tough,Michael,Team Slig,M,?

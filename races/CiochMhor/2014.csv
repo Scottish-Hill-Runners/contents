@@ -1,48 +1,48 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Campbell,Ross,HHR,Sen,01:12:07
-2,MacRae,Andrew,Inverness Harriers,Sen,01:12:22
-3,Trevelyan,Jack,HHR,Sen,01:13:00
-4,Wilby,David,HHR,Sen,01:15:13
-5,Malcolm,Stuart,HHR,MV40,01:16:42
-6,Taylor,Luke,HHR,Sen,01:18:10
-7,Gorman,Manny,Westerlands,MV40,01:18:12
-8,Nixon,Ross,Inverness Harriers,MV40,01:18:42
-9,MacLean,Paul,Lochaber,Sen,01:19:48
-10,Nicolson,William,HHR,Sen,01:19:48
-11,McIntyre,Steven,HHR,Sen,01:21:00
-12,Macdonald,Dougie,HHR,MV40,01:21:40
-13,Green,Colin,Moray,MV40,01:23:30
-14,Mackie,Chris,Unatt,Sen,01:23:36
-15,Krogulec,Waldemar,HHR,Sen,01:23:40
-16,Forrest,Stuart,HHR,Sen,01:25:03
-17,Newlands,Brian,NHH,Sen,01:25:18
-18,Treweeke,Andy,Unatt,MV50,01:25:39
-19,Urquhart,Johnn,Unatt,MV40,01:26:16
-20,Popple,Steve,HHR,MV40,01:27:05
-21,Taylor,Gordie,HHR,MV50,01:27:21
-22,Blackwood,Susan,Unatt,FV40,01:27:45
-23,Worsley,Steve,Inverness Harriers,MV50,01:28:05
-24,Thomson,Stuart,Nairn,Sen,01:29:56
-25,McDonald,Colin,Tinto,MV40,01:30:03
-26,Lamont,Alan,Lochaber,Sen,01:30:09
-27,Pearks,David,Unatt,MV40,01:30:12
-28,McKinnon,Barrie,Lochaber,Sen,01:31:08
-29,Till,Neill,Skye,Sen,01:31:44
-30,Patterson,George,Moravian,MV40,01:31:53
-31,Mackay,Ben,HHR,Sen,01:35:42
-32,Cameron,James,Unatt,MOpen,01:36:47
-33,Harrison,Simon,North H,MV50,01:36:50
-34,Chandler,Dave,HHR,Sen,01:37:58
-35,McArthur,Keith,MRR,MV50,01:38:38
-36,Connor,Julia,Tinto,FV40,01:38:48
-37,Arthur,Graham,HHR,MV60,01:40:55
-38,MacDonald,Lynsey,Inverness Harriers,Fsen,01:42:24
-39,Till,Dave,Skye,MV50,01:49:26
-40,Grant,Kirstin,Nairn,FSen,01:49:52
-41,Williams,Rupert,Cosmics,MV50,01:52:07
-42,Cook,Alan,Tain R,MV50,01:52:56
-43,MacKinnon,Vikki,Lochaber,Sen,01:53:00
-44,Ross,Lee,Inverness Harriers,FV50,02:04:02
-45,Ross,Iain,Inverness Harriers,MV50,02:04:17
-46,Coelho,Jenni,MRR,FV50,02:16:08
-47,Ryder,Walter,Morpeth,MV70,02:22:28
+1,Campbell,Ross,HHR,M,01:12:07
+2,MacRae,Andrew,Inverness Harriers,M,01:12:22
+3,Trevelyan,Jack,HHR,M,01:13:00
+4,Wilby,David,HHR,M,01:15:13
+5,Malcolm,Stuart,HHR,M40,01:16:42
+6,Taylor,Luke,HHR,M,01:18:10
+7,Gorman,Manny,Westerlands,M40,01:18:12
+8,Nixon,Ross,Inverness Harriers,M40,01:18:42
+9,MacLean,Paul,Lochaber,M,01:19:48
+10,Nicolson,William,HHR,M,01:19:48
+11,McIntyre,Steven,HHR,M,01:21:00
+12,Macdonald,Dougie,HHR,M40,01:21:40
+13,Green,Colin,Moray,M40,01:23:30
+14,Mackie,Chris,Unatt,M,01:23:36
+15,Krogulec,Waldemar,HHR,M,01:23:40
+16,Forrest,Stuart,HHR,M,01:25:03
+17,Newlands,Brian,NHH,M,01:25:18
+18,Treweeke,Andy,Unatt,M50,01:25:39
+19,Urquhart,Johnn,Unatt,M40,01:26:16
+20,Popple,Steve,HHR,M40,01:27:05
+21,Taylor,Gordie,HHR,M50,01:27:21
+22,Blackwood,Susan,Unatt,F40,01:27:45
+23,Worsley,Steve,Inverness Harriers,M50,01:28:05
+24,Thomson,Stuart,Nairn,M,01:29:56
+25,McDonald,Colin,Tinto,M40,01:30:03
+26,Lamont,Alan,Lochaber,M,01:30:09
+27,Pearks,David,Unatt,M40,01:30:12
+28,McKinnon,Barrie,Lochaber,M,01:31:08
+29,Till,Neill,Skye,M,01:31:44
+30,Patterson,George,Moravian,M40,01:31:53
+31,Mackay,Ben,HHR,M,01:35:42
+32,Cameron,James,Unatt,M,01:36:47
+33,Harrison,Simon,North H,M50,01:36:50
+34,Chandler,Dave,HHR,M,01:37:58
+35,McArthur,Keith,MRR,M50,01:38:38
+36,Connor,Julia,Tinto,F40,01:38:48
+37,Arthur,Graham,HHR,M60,01:40:55
+38,MacDonald,Lynsey,Inverness Harriers,F,01:42:24
+39,Till,Dave,Skye,M50,01:49:26
+40,Grant,Kirstin,Nairn,F,01:49:52
+41,Williams,Rupert,Cosmics,M50,01:52:07
+42,Cook,Alan,Tain R,M50,01:52:56
+43,MacKinnon,Vikki,Lochaber,M,01:53:00
+44,Ross,Lee,Inverness Harriers,F50,02:04:02
+45,Ross,Iain,Inverness Harriers,M50,02:04:17
+46,Coelho,Jenni,MRR,F50,02:16:08
+47,Ryder,Walter,Morpeth,M70,02:22:28

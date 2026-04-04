@@ -1,69 +1,69 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Simpson,Stuart,Ochil Hill Runners,Snr,00:48:25
-2,Stevenson,John,Ochil Hill Runners,Vet 40,00:48:51
-3,Fallon,Steven,Carnethy Hill Runners,Vet 40,00:50:06
-4,McCloone,Michael,Greenock Glenpark,Snr,00:51:13
-5,Bonnyman,Brian,Westerlands Cross Country Club,Snr,00:51:59
-6,White,David,J.W. Kilmarnock Harriers,Snr,00:52:38
-7,Roper,Marc,Giffnock North,Vet 40,00:52:51
-8,Ross,Dougal,Bellahouston Harriers,Snr,00:53:00
-9,Reid,Don,Westerlands Cross Country Club,Vet 40,00:53:17
-10,Fleming,Peter,Unattached,Snr,00:53:29
-11,Brunton,Alasdair,Shettleston Harriers,Snr,00:53:41
-12,Smith,Tom,Westerlands Cross Country Club,Snr,00:53:55
-13,Duffy,John,Shettleston Harriers,Vet 40,00:54:18
-14,Cowper,Stephen,Milburn Harriers,Vet 40,00:54:29
-15,McAffrey,Gordon,Clydesdale Harriers,Vet 50,00:55:05
-16,Divers,Michael,Clydesdale Harriers,Vet 40,00:55:11
-17,Jamieson,David,Shettleston Harriers,Vet 40,00:55:28
-18,Gorgas,Steffen,Westerlands Cross Country Club,Snr,00:55:36
-19,Hall,Simon,Unattached,Vet 40,00:55:49
-20,Duncan,David,Ochil Hill Runners,Vet 50,00:56:06
-21,Triger,Simon,Westerlands,Snr,00:56:11
-22,Palmer,Helen,Bellahouston Harriers,Snr L,00:56:17
-23,McQuatter,Rob,Westerlands Cross Country Club,Snr,00:56:35
-24,MacLeod,Murdo,Westerlands Cross Country Club,Vet 50,00:57:09
-25,Scott,Alan,Bellahouston Harriers,Snr,00:57:28
-26,Houston,Val,Westerlands Cross Country Club,Snr L,00:57:35
-27,Murray,Alasdair,J.W. Kilmarnock Harriers,Snr,00:57:44
-28,Buchanan,Hugh,Central A.C.,Snr,00:57:52
-29,Reid,Martin,Westerlands Cross Country Club,Vet 40,00:57:55
-30,Dunn,Michael,Greenock Glenpark Harriers,Vet 50,00:57:56
-31,Pugh,Rod,J.W. Kilmarnock Harriers,Vet 50,00:58:59
-32,Ballarini,Paolo,Westerlands Cross Country Club,Snr,00:59:33
-33,Bell,Stephen,Westerlands Cross Country Club,Vet 40,00:59:37
-34,Arnott,Luke,Westerlands Cross Country Club,Snr,00:59:43
-35,McLaughlin,Danny,Greenock Glenpark,Vet 50,00:59:45
-36,Holmwood,Ellie,Westerlands Cross Country Club,Snr L,00:59:51
-37,Pendenis,Jaques,Unattached,Snr,01:00:10
-38,Begley,Tommy,Irvine A.C.,Snr,01:00:29
-39,Abram,Michael,Arran Runners,Vet 50,01:01:13
-40,Orr,Johnston,Unattached,Snr,01:01:13
+1,Simpson,Stuart,Ochil Hill Runners,M,00:48:25
+2,Stevenson,John,Ochil Hill Runners,M40,00:48:51
+3,Fallon,Steven,Carnethy Hill Runners,M40,00:50:06
+4,McCloone,Michael,Greenock Glenpark,M,00:51:13
+5,Bonnyman,Brian,Westerlands Cross Country Club,M,00:51:59
+6,White,David,J.W. Kilmarnock Harriers,M,00:52:38
+7,Roper,Marc,Giffnock North,M40,00:52:51
+8,Ross,Dougal,Bellahouston Harriers,M,00:53:00
+9,Reid,Don,Westerlands Cross Country Club,M40,00:53:17
+10,Fleming,Peter,Unattached,M,00:53:29
+11,Brunton,Alasdair,Shettleston Harriers,M,00:53:41
+12,Smith,Tom,Westerlands Cross Country Club,M,00:53:55
+13,Duffy,John,Shettleston Harriers,M40,00:54:18
+14,Cowper,Stephen,Milburn Harriers,M40,00:54:29
+15,McAffrey,Gordon,Clydesdale Harriers,M50,00:55:05
+16,Divers,Michael,Clydesdale Harriers,M40,00:55:11
+17,Jamieson,David,Shettleston Harriers,M40,00:55:28
+18,Gorgas,Steffen,Westerlands Cross Country Club,M,00:55:36
+19,Hall,Simon,Unattached,M40,00:55:49
+20,Duncan,David,Ochil Hill Runners,M50,00:56:06
+21,Triger,Simon,Westerlands,M,00:56:11
+22,Palmer,Helen,Bellahouston Harriers,F,00:56:17
+23,McQuatter,Rob,Westerlands Cross Country Club,M,00:56:35
+24,MacLeod,Murdo,Westerlands Cross Country Club,M50,00:57:09
+25,Scott,Alan,Bellahouston Harriers,M,00:57:28
+26,Houston,Val,Westerlands Cross Country Club,F,00:57:35
+27,Murray,Alasdair,J.W. Kilmarnock Harriers,M,00:57:44
+28,Buchanan,Hugh,Central A.C.,M,00:57:52
+29,Reid,Martin,Westerlands Cross Country Club,M40,00:57:55
+30,Dunn,Michael,Greenock Glenpark Harriers,M50,00:57:56
+31,Pugh,Rod,J.W. Kilmarnock Harriers,M50,00:58:59
+32,Ballarini,Paolo,Westerlands Cross Country Club,M,00:59:33
+33,Bell,Stephen,Westerlands Cross Country Club,M40,00:59:37
+34,Arnott,Luke,Westerlands Cross Country Club,M,00:59:43
+35,McLaughlin,Danny,Greenock Glenpark,M50,00:59:45
+36,Holmwood,Ellie,Westerlands Cross Country Club,F,00:59:51
+37,Pendenis,Jaques,Unattached,M,01:00:10
+38,Begley,Tommy,Irvine A.C.,M,01:00:29
+39,Abram,Michael,Arran Runners,M50,01:01:13
+40,Orr,Johnston,Unattached,M,01:01:13
 41,Buchanan,Andrina,Central A.C.,Vet 40 L,01:01:56
-42,Adams,David,Hamilton A.C.,Vet 60,01:02:05
-43,Johnston,Stephen,Milburn Harriers,Vet 40,01:02:55
-44,Orr,Robin,Clydeside Orienteers,Vet 40,01:03:04
-45,Mattheson,Stuart,Bellahouston Harriers,Snr,01:03:08
-46,Bull,Matthew,Westerlands Cross Country Club,Snr,01:04:23
-47,Fraser,Iain,Irvine A.C.,Vet 40,01:04:50
-48,Orr,Hollie,Clydeside Orienteers,Snr L,01:05:23
-49,MacFarlane,Brian,Unattached,Snr,01:06:21
-50,Trevail,Tim,St Piran's Invitation,Snr,01:06:53
-51,Orr,Graeme,Westerlands Cross Country Club,Vet 50,01:07:23
-52,Goodall,Carol,Westerlands Cross Country Club,Snr L,01:07:58
-53,Kirk,Cathy,Westerlands Cross Country Club,Snr L,01:08:10
-54,Clough,Andrew,F.R.A.,Vet 40,01:09:52
-55,Smith,Donald,Westerlands Cross Country Club,Vet 60,01:10:00
-56,McManus,Ian,Irvine A.C.,Vet 60,01:10:23
+42,Adams,David,Hamilton A.C.,M60,01:02:05
+43,Johnston,Stephen,Milburn Harriers,M40,01:02:55
+44,Orr,Robin,Clydeside Orienteers,M40,01:03:04
+45,Mattheson,Stuart,Bellahouston Harriers,M,01:03:08
+46,Bull,Matthew,Westerlands Cross Country Club,M,01:04:23
+47,Fraser,Iain,Irvine A.C.,M40,01:04:50
+48,Orr,Hollie,Clydeside Orienteers,F,01:05:23
+49,MacFarlane,Brian,Unattached,M,01:06:21
+50,Trevail,Tim,St Piran's Invitation,M,01:06:53
+51,Orr,Graeme,Westerlands Cross Country Club,M50,01:07:23
+52,Goodall,Carol,Westerlands Cross Country Club,F,01:07:58
+53,Kirk,Cathy,Westerlands Cross Country Club,F,01:08:10
+54,Clough,Andrew,F.R.A.,M40,01:09:52
+55,Smith,Donald,Westerlands Cross Country Club,M60,01:10:00
+56,McManus,Ian,Irvine A.C.,M60,01:10:23
 57,MacPherson,Helen,Westerlands Cross Country Club,Vet 50 L,01:10:32
 58,McAdam,Pauline,Westerlands Cross Country Club,Vet 50 L,01:11:24
-59,Reynolds,Andrew,Milocarion A.C.,Vet 40,01:12:02
-60,Laurie,Warl,Unattached,Vet 40,01:12:16
+59,Reynolds,Andrew,Milocarion A.C.,M40,01:12:02
+60,Laurie,Warl,Unattached,M40,01:12:16
 61,Screiber,Jo,Pudsey and Bramley,Vet 40 L,01:12:46
-62,King,Alex,Ochil Hill Runners,Vet 40,01:13:31
-63,Taylor,Andy,Unattached,Vet 40,01:13:59
-64,Wilson,Stevie,Clydeside Orienteers,Vet 40,01:14:35
-65,Turnbull,Drew,Westerlands Cross Country Club,Vet 60,01:16:20
-66,Stuart,Hugh,Greenock Glenpark,Vet 40,01:22:07
-67,Benny,Graham,Westerlands Cross Country Club,Vet 50,01:32:42
-68,Macfarlane,Max,Kilbarchan,Vet 50,01:41:05
+62,King,Alex,Ochil Hill Runners,M40,01:13:31
+63,Taylor,Andy,Unattached,M40,01:13:59
+64,Wilson,Stevie,Clydeside Orienteers,M40,01:14:35
+65,Turnbull,Drew,Westerlands Cross Country Club,M60,01:16:20
+66,Stuart,Hugh,Greenock Glenpark,M40,01:22:07
+67,Benny,Graham,Westerlands Cross Country Club,M50,01:32:42
+68,Macfarlane,Max,Kilbarchan,M50,01:41:05

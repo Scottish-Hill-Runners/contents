@@ -1,9 +1,9 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gillespie,Matthew,Glasgow Uni H&H,M,0:27:25
-2,Stevenson,Jamie,Ochil Hill Runners,MJ,0:28:23
-3,Rankin,Garry,Kilbarchan,MJ,0:28:44
+2,Stevenson,Jamie,Ochil Hill Runners,M16,0:28:23
+3,Rankin,Garry,Kilbarchan,M16,0:28:44
 4,Whitehead,Dan,Cosmics,M,0:28:45
-5,Gatens,Adam,Westerlands,MJ,0:29:28
+5,Gatens,Adam,Westerlands,M16,0:29:28
 6,Sullivan,Matthew,Shettleston,M,0:30:00
 7,Ross,Dougal,Bellahouston RR,M,0:30:40
 8,McLennan,Ross,Ochil Hill Runners,M,0:30:44
@@ -15,9 +15,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,MacMahon,Ken,Westerlands,M,0:31:48
 15,Stevenson,John,Ochil Hill Runners,M40,0:31:49
 16,Adams,Neil,Westerlands,M,0:31:50
-17,Scott-Park,Chris,Unattached,MJ,0:31:51
+17,Scott-Park,Chris,Unattached,M16,0:31:51
 18,Buchanan,Catriona,Central AC,F,0:31:52
-19,Lawrie,Scott,Kirkintilloch Olympians,MJ,0:31:54
+19,Lawrie,Scott,Kirkintilloch Olympians,M16,0:31:54
 20,Owens,Kevin,Springburn Harriers,M,0:32:11
 21,Lorimer,Hayden,HBT,M,0:32:37
 22,Gilkison,Alan,Westerlands,M40,0:32:39
@@ -33,7 +33,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Dickson,David,Garscube Harriers,M50,0:34:12
 33,Anderson,Russell,Moorfoot Runners,M50,0:34:13
 34,Weirs,Callum,Kirkintilloch Olympians,M,0:34:20
-35,Rankin,Christina,Kilbarchan,FJ,0:34:36
+35,Rankin,Christina,Kilbarchan,F16,0:34:36
 36,Giarchi,Karl,Helensburgh AAC,M,0:34:41
 37,O`Shea,Emma,Deeside Runners,F,0:34:48
 38,Gwynne,Neal,Unattached,M,0:34:52
@@ -47,7 +47,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 46,Gillen,Kenny,Unattached,M,0:36:20
 47,Morrice,Lynn,Portobello,F,0:36:21
 48,Halpin,Derek,Clydesdale Harriers,M40,0:36:26
-49,Watson,Adam,Unattached,MJ,0:36:27
+49,Watson,Adam,Unattached,M16,0:36:27
 50,Clugston,Andrew,Kilbarchan,M,0:36:35
 51,Howat,Gordon,Helensburgh AAC,M,0:36:37
 52,Duncan,David,Ochil Hill Runners,M50,0:36:45
@@ -71,18 +71,18 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 70,Ogilvie,Jim,Kilbarchan,M40,0:38:01
 71,Gaughan,Adrian,Milburn Harriers,M40,0:38:02
 72,Doherty,Martin,Stirling University,M40,0:38:04
-73,McIntyre,Gordon,Cambuslang Harriers,MJ,0:38:06
+73,McIntyre,Gordon,Cambuslang Harriers,M16,0:38:06
 74,Brown,Jamie,HBT,M,0:38:10
 75,Brotherston,Chris,Bellahouston RR,M40,0:38:11
 76,McQuater,Rob,Westerlands,M40,0:38:19
-77,Stark,Fraser,Glasgow Academy,MJ,0:38:27
+77,Stark,Fraser,Glasgow Academy,M16,0:38:27
 78,O`Brien,Paul,Corstorphine,M50,0:38:35
 79,Gallagher,Gordon,Kilbarchan,M,0:38:43
 80,Dunlop,Fiona,Unattached,F40,0:38:52
 81,Brennan,Brian,Westerlands,M50,0:38:58
-82,McColl,Ross,Glasgow Academy,MJ,0:39:04
+82,McColl,Ross,Glasgow Academy,M16,0:39:04
 83,Martin,Ron,Ochil Hill Runners,M40,0:39:07
-84,Evans,Neah,Glasgow Uni H&H,FJ,0:39:28
+84,Evans,Neah,Glasgow Uni H&H,F16,0:39:28
 85,Nash,Simon,Central AC,M40,0:39:33
 86,Lindsay,Susan,Ochil Hill Runners,F40,0:39:40
 87,Bremetie,David,Ochil Hill Runners,M40,0:39:42

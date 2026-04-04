@@ -2,8 +2,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Campbell,Craig,Inverness Harriers,M,00:29:22
 2,Crampton,Neal,Pudsey & Bramley,M,00:29:42
 3,Paterson,Robby,Forres Harriers,M,00:29:50
-4,Benton,Josh,Deeside Runners,MJ,00:31:45
-5,Williamson,Clyde,Cosmics,MJ,00:32:33
+4,Benton,Josh,Deeside Runners,M16,00:31:45
+5,Williamson,Clyde,Cosmics,M16,00:32:33
 6,Rogan,Paul,Moray Road Runners,M40,00:32:43
 7,Barclay,David,Garioch Road Runners,M40,00:33:32
 8,Williamson,Jason,Cosmics,M40,00:34:29
@@ -22,7 +22,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Duffy,Gregory,Unattached,M,00:43:03
 22,Henry,Sara,Deeside Runners,F,00:43:15
 23,Entwistle,Marie,Deeside Runners,F40,00:43:26
-24,Benton,Tom,Deeside Runners,MJ,00:44:18
+24,Benton,Tom,Deeside Runners,M16,00:44:18
 25,Duncan,David,Ochil Hill Runners,M60,00:44:36
 26,Logan,Will,Unattached,M,00:44:51
 27,Phillips,Robert,Unattached,M,00:45:08
@@ -32,7 +32,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 31,Bird,Chris,Unattached,M50,00:46:15
 32,Glen,Jane,Deeside Runners,F40,00:46:24
 33,Oliver,David,Deeside Runners,M50,00:48:16
-34,Benton,Anna,Deeside Runners,FJ,00:49:49
+34,Benton,Anna,Deeside Runners,F16,00:49:49
 35,Steyleman,Maarten,Unattached,M,00:51:46
 36,Oliver,Jane,Deeside Runners,F50,00:52:17
 37,Mehers,Michelle,Unattached,F,00:54:27

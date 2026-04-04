@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside,M19,00:42:57 - Record
+1,Simpson,Robbie,Deeside,M19,00:42:57
 2,Mitchell,Craig,Lochaber,M,00:47:35
 3,Tomison,Craig,Tobermory High HS,M17,00:48:29
 4,Poll,Bruce,Lochaber,M,00:48:33
@@ -12,7 +12,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 11,Wallace,Ben,Lochaber,M,00:50:06
 12,MacIntyre,Steven,Highland,M,00:50:36
 13,Gunn,Tark,Lochaber,M,00:50:37
-14,Meekin,Nicola,Lochaber,F,00:50:40 - Record
+14,Meekin,Nicola,Lochaber,F,00:50:40
 15,Shaw,Richard,Lochaber,M40,00:51:16
 16,Kennedy,Ali,Lochaber,M40,00:53:44
 17,Binnie,John,Lochaber,M40,00:53:56

@@ -1,64 +1,64 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Hill,Chris,Cosmic HB,SM(1),00:48:03
-2,Weir,Dave,Forres Harrs,SVM(1),00:48:44
-3,Abraham,Ben,Cosmic HB,SM(2),00:49:42
-4,Whitehead,Clare,Deeside Runs,SL(1),00:50:07
-5,Tomlin,Chris,Cosmic HB,VM(1),00:51:19
-6,Smith,Stuart,Cosmic HB,SM(2),00:51:50
-7,Williamson,Jason,Cosmic HB,VM(2),00:52:40
-8,Smith,Alan,Deeside Runs,SVM(2),00:53:01
-9,Easton,Neil,Cosmic HB,SM(3),00:53:20
-10,Ingram,Barry,Metro Abdn,SM(4),00:53:31
-11,Pringle,Stuart,Unattached,SM(5),00:53:56
-12,Gaastra,Alex,Unattached,SM(6),00:53:56
-13,Brian,Tom,Metro Abdn,SM(7),00:54:00
-14,Jones,Roland,Unattached,VM(3),00:54:24
-15,Mandell,Nick,Deeside Runs,VM(4),00:54:34
-16,Jack,Tony,Metro Abdn,VM(5),00:55:03
-17,Wheater,James,Unattached,SM(8),00:55:25
-18,Smith,Stephen,Unattached,SM(9),00:55:40
-19,Lang,Richard,Cosmic HB,VM(6),00:55:46
-20,Addy,Steve,Cosmic HB,SM(10),00:56:36
-21,Bass,Owen,Deeside Runs,SVM(3),00:56:45
-22,Murray,Rab,The Darkside,VM(6),00:57:01
-23,Britten,Chris,Unattached,SM(11),00:57:44
-24,Paterson,Robbie,Forres Harrs,SM(12),00:57:59
-25,Rennie,Nick,Unattached,VM(7),00:58:09
-26,Larmour,Colin,Cosmic HB,VM(8),00:58:21
-27,Clark,David,Garioch RR,VM(9),00:58:38
-28,MacKenzie,Ruth,Deeside Runs,VL(1),00:58:50
-29,Ingram,Richard,Unattached,SM(13),01:00:15
-30,MacGregor,James,Aberdeen AAC,VM(10),01:00:55
-31,Dewhurst,David,Chapel Cheetahs,VM(11),01:01:26
-32,Lamza,Ernie,Unattached,SVM(4),01:01:53
-33,Dalop,Kilian,Unattached,SM(14),01:02:25
-34,Duncan,David,Unattached,SVM(5),01:02:45
-35,Newman,Miles,Deeside Runs,VM(12),01:03:00
-36,Rogan,Kirsty,Forres Harrs,SL(2),01:03:35
-37,Burgess,Warren,Deeside Runs,SVM(6),01:04:03
-38,Gutteridge,Gary,Cosmic HB,SVM(7),01:04:18
-39,Hamilton,Anita,Cosmic HB,SVL(1),01:04:30
-40,Manning,Bruce,Cosmic HB,SVM(8),01:04:53
-41,Black,Colleen,The Darkside,SL(3),01:05:11
-42,Morris,Pamela,Metro Abdn,SL(4),01:05:22
-43,Crossland,Alex,Cosmic HB,SM(15),01:05:32
-44,Samuel,Scott,Unattached,SM(16),01:06:15
-45,Watt,Mike,The Darkside,VM(13),01:07:03
-46,Millet,Nic,Unattached,SM(17),01:08:04
-47,Cran,Ian,Garioch RR,SVM(9),01:08:20
-48,Lamza,Mark,Unattached,SM(18),01:08:42
-49,Stewart,Elaine,Cosmic HB,SVL(2),01:08:50
-50,Brown,Roger,The Darkside,SM(19),01:08:56
-51,Campbell,Liz,Unattached,SL(5),01:09:20
-52,Watt,Gillian,Garioch RR,SVL(3),01:09:39
-53,Clunas,Gillian,Cosmic HB,SVL(4),01:11:58
-54,Fraser,Olwen,The Darkside,VL(2),01:13:11
-55,Angus,Mel,Aberdeen AAC,VL(3),01:13:42
-56,Rattray,Mairi,Unattached,SL(6),01:14:53
-57,More,Callum,Unattached,SVM(10),01:16:45
-58,Kennedy,Hannah,Cosmic HB,SVL(5),01:17:22
-59,Jones,Vicky,Unattached,VL(4),01:20:16
-60,Simpson,Sandra,Fat Bobs,VL(5),01:23:04
-61,Rattray,Catriona,Unattached,VL(6),01:23:54
-62,More,Sheila,Unattached,SVL(5),01:31:59
-63,Fraser,Alison,Garioch Gazelles,VL(7),01:33:08
+1,Hill,Chris,Cosmic HB,M,00:48:03
+2,Weir,Dave,Forres Harrs,M40,00:48:44
+3,Abraham,Ben,Cosmic HB,M,00:49:42
+4,Whitehead,Clare,Deeside Runs,F,00:50:07
+5,Tomlin,Chris,Cosmic HB,M40,00:51:19
+6,Smith,Stuart,Cosmic HB,M,00:51:50
+7,Williamson,Jason,Cosmic HB,M40,00:52:40
+8,Smith,Alan,Deeside Runs,M40,00:53:01
+9,Easton,Neil,Cosmic HB,M,00:53:20
+10,Ingram,Barry,Metro Abdn,M,00:53:31
+11,Pringle,Stuart,Unattached,M,00:53:56
+12,Gaastra,Alex,Unattached,M,00:53:56
+13,Brian,Tom,Metro Abdn,M,00:54:00
+14,Jones,Roland,Unattached,M40,00:54:24
+15,Mandell,Nick,Deeside Runs,M40,00:54:34
+16,Jack,Tony,Metro Abdn,M40,00:55:03
+17,Wheater,James,Unattached,M,00:55:25
+18,Smith,Stephen,Unattached,M,00:55:40
+19,Lang,Richard,Cosmic HB,M40,00:55:46
+20,Addy,Steve,Cosmic HB,M,00:56:36
+21,Bass,Owen,Deeside Runs,M40,00:56:45
+22,Murray,Rab,The Darkside,M40,00:57:01
+23,Britten,Chris,Unattached,M,00:57:44
+24,Paterson,Robbie,Forres Harrs,M,00:57:59
+25,Rennie,Nick,Unattached,M40,00:58:09
+26,Larmour,Colin,Cosmic HB,M40,00:58:21
+27,Clark,David,Garioch RR,M40,00:58:38
+28,MacKenzie,Ruth,Deeside Runs,F40,00:58:50
+29,Ingram,Richard,Unattached,M,01:00:15
+30,MacGregor,James,Aberdeen AAC,M40,01:00:55
+31,Dewhurst,David,Chapel Cheetahs,M40,01:01:26
+32,Lamza,Ernie,Unattached,M40,01:01:53
+33,Dalop,Kilian,Unattached,M,01:02:25
+34,Duncan,David,Unattached,M40,01:02:45
+35,Newman,Miles,Deeside Runs,M40,01:03:00
+36,Rogan,Kirsty,Forres Harrs,F,01:03:35
+37,Burgess,Warren,Deeside Runs,M40,01:04:03
+38,Gutteridge,Gary,Cosmic HB,M40,01:04:18
+39,Hamilton,Anita,Cosmic HB,F40,01:04:30
+40,Manning,Bruce,Cosmic HB,M40,01:04:53
+41,Black,Colleen,The Darkside,F,01:05:11
+42,Morris,Pamela,Metro Abdn,F,01:05:22
+43,Crossland,Alex,Cosmic HB,M,01:05:32
+44,Samuel,Scott,Unattached,M,01:06:15
+45,Watt,Mike,The Darkside,M40,01:07:03
+46,Millet,Nic,Unattached,M,01:08:04
+47,Cran,Ian,Garioch RR,M40,01:08:20
+48,Lamza,Mark,Unattached,M,01:08:42
+49,Stewart,Elaine,Cosmic HB,F40,01:08:50
+50,Brown,Roger,The Darkside,M,01:08:56
+51,Campbell,Liz,Unattached,F,01:09:20
+52,Watt,Gillian,Garioch RR,F40,01:09:39
+53,Clunas,Gillian,Cosmic HB,F40,01:11:58
+54,Fraser,Olwen,The Darkside,F40,01:13:11
+55,Angus,Mel,Aberdeen AAC,F40,01:13:42
+56,Rattray,Mairi,Unattached,F,01:14:53
+57,More,Callum,Unattached,M40,01:16:45
+58,Kennedy,Hannah,Cosmic HB,F40,01:17:22
+59,Jones,Vicky,Unattached,F40,01:20:16
+60,Simpson,Sandra,Fat Bobs,F40,01:23:04
+61,Rattray,Catriona,Unattached,F40,01:23:54
+62,More,Sheila,Unattached,F40,01:31:59
+63,Fraser,Alison,Garioch Gazelles,F40,01:33:08

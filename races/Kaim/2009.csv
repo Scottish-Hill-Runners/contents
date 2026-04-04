@@ -1,21 +1,21 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Taggart,Lloyd,Dark Peak,M,0:29:04
-2,Simpson,Robbie,Deeside Runners,MU20,0:30:26
+2,Simpson,Robbie,Deeside Runners,M20,0:30:26
 3,Chepelin,Oleg,Shettleston,M,0:30:42
 4,Wright,Andrew,Carnegie Harriers,M,0:33:01
 5,Richmond,Kenny,Bellahouston RR,M,0:33:27
 6,Butler,Ian,Shettleston,M,0:33:39
 7,Smith,Alan,Deeside Runners,M40,0:34:15
-8,Emsley,Nick,Arran Runners,MU20,0:34:27
+8,Emsley,Nick,Arran Runners,M20,0:34:27
 9,McCall,Andy,Greenock Glenpark,M,0:34:31
 10,Birnie,Andy,Bellahouston RR,M40,0:35:20
 11,Ross,Dougal,Bellahouston RR,M,0:35:40
 12,Ross,Craig,Bellahouston RR,M,0:36:11
-13,Paul,Cameron,Arran Runners,MU20,0:36:26
+13,Paul,Cameron,Arran Runners,M20,0:36:26
 14,O`Neill,Owen,Westerlands,M,0:36:32
 15,Thompson,Paul,Helensburgh AAC,M50,0:36:36
 16,Barnett,Gary,Unattached,M,0:37:31
-17,Cherry,Alan,Ayr Seaforth,MU20,0:37:43
+17,Cherry,Alan,Ayr Seaforth,M20,0:37:43
 18,Watson,Edward,Unattached,M,0:37:45
 19,MacMahon,Ken,Bellahouston RR,M,0:37:49
 20,Glendinning,Greig,Bellahouston RR,M,0:38:31
@@ -58,7 +58,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 57,MacPherson,Helen,Westerlands,F50,0:47:23
 58,McLay,Matthew,Strathearn Harriers,M,0:48:05
 59,Smith,Tilly,Deeside Runners,F40,0:48:36
-60,Athorne,Katie,Garscube Harriers,FU20,0:48:42
+60,Athorne,Katie,Garscube Harriers,F20,0:48:42
 61,McCarlie,Billy,Unattached,M50,0:49:05
 62,Gore,Tommy,Glasgow Uni H&H,M,0:49:23
 63,Emsley,Paul,Arran Runners,M50,0:49:31

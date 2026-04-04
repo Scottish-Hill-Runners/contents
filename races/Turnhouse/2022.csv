@@ -1,14 +1,14 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde AC,M,00:22:17
 2,Masson,Alistair,Carnethy,M,00:24:38
-3,Wright,Angus,Team East Lothian AC,M U23,00:24:54
+3,Wright,Angus,Team East Lothian AC,M23,00:24:54
 4,Hugtenburg,Kai,HBT,M,00:25:44
-5,Malcolm,Gregor,HBT,M U23,00:26:22
+5,Malcolm,Gregor,HBT,M23,00:26:22
 6,Rigg,Will,Carnethy,M,00:27:05
 7,Wainwright,Sam,Ochil Hill Runners,M,00:27:19
 8,Bryce,Andy,Royal Marines Running Assoc,M,00:27:24
 9,Chepelin,Oleg,HBT,M,00:27:42
-10,Fairgrieve,Ewan,Unattached,M U23,00:28:16
+10,Fairgrieve,Ewan,Unattached,M23,00:28:16
 11,Hughes,Richie,Northumberland Fell Runners,M,00:28:18
 12,Laverick,Benjamin,Unattached,M,00:28:18
 13,Macleod,Scott,Edinburgh AC,M,00:29:03
@@ -22,12 +22,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Bothwell,Alexander,Unattached,M,00:30:39
 22,Weir,Jonathan,Unattached,M40,00:30:42
 23,Kitchin,Sam,Lasswade AC,M,00:30:43
-24,Shepherd,Sorcha,Edinburgh AC,F U23,00:30:51
+24,Shepherd,Sorcha,Edinburgh AC,F23,00:30:51
 25,Baldwin,Alex,Edinburgh RC,M,00:30:53
 26,Finn,Chris,Unattached,M,00:30:54
-27,Griffiths,William,Edinburgh AC,M U23,00:31:01
+27,Griffiths,William,Edinburgh AC,M23,00:31:01
 28,Christian,Donald,Unattached,M40,00:31:13
-29,Paterson,Isla,Gala Harriers,F U23,00:31:29
+29,Paterson,Isla,Gala Harriers,F23,00:31:29
 30,Duncan,Nicola,Carnethy,F40,00:31:33
 31,Hanson,Beth,Ambleside AC,F,00:31:38
 32,Brodie,Stuart,Ochil Hill Runners,M40,00:31:53
@@ -39,7 +39,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Reid,Don,Westerlands CCC,M60,00:32:53
 39,Wilkinson,Owen,Carnethy,M,00:33:06
 40,McKiddie,Christopher,Westerlands CCC,M40,00:33:31
-41,Fabio,Perron,Unattached,M U23,00:33:39
+41,Fabio,Perron,Unattached,M23,00:33:39
 42,Turner,Judith,PH Racing,F40,00:33:40
 43,Knox,Lizzie,Carnethy,F,00:33:45
 44,Cain,Pete,Carnethy,M60,00:33:46

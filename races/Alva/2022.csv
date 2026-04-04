@@ -13,9 +13,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Knox,Thomas,Anster Haddies,M,00:24:07
 13,Pennington,Brian,Howgill Harriers,M45,00:24:34
 14,Greenwood,Sean,Rossendale Harriers,M,00:24:41
-15,Horne,Arran,Northern Fells FR,MU23,00:24:48
+15,Horne,Arran,Northern Fells FR,M23,00:24:48
 16,Henderson,Scott,Westerlands CCC,M45,00:25:05
-17,Thorpe,Alfie,Furness Fell Runners,MU23,00:25:19
+17,Thorpe,Alfie,Furness Fell Runners,M23,00:25:19
 18,Gibbons,Iain,Ilkley Harriers,M50,00:25:36
 19,Gard-Storry,Bobby,Ochil Hill Runners,M,00:25:46
 20,Holt,Ashley,Rossendale Harriers,M45,00:25:59
@@ -60,7 +60,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 59,Marshall,Judith,Settle Harriers,F45,00:36:39
 60,Calvert,Mike,Howgill Harriers,M50,00:36:45
 61,Bagnall,Jess,Settle Harriers,F40,00:36:48
-62,Grundy,Benjamin,Wharfedale Harriers,MU23,00:36:54
+62,Grundy,Benjamin,Wharfedale Harriers,M23,00:36:54
 63,Boyd,Chris,Unattached,M40,00:36:55
 64,Ashworth,Collette,Ochil Hill Runners,F45,00:37:38
 65,Pearman,Amy,Helm Hill,F40,00:37:42

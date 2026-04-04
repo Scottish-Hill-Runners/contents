@@ -2,11 +2,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Dunn,Alistair,Kendal AC,M,00:20:07
 2,Symonds,Andrew,Unattached,M,00:20:36
 3,Doyle,Chris,Ulverston,M,00:20:43
-4,Lennox,Jethro,Shettleston,S,00:20:59
+4,Lennox,Jethro,Shettleston,M,00:20:59
 5,Mason,Ted,Appletreewick,M,00:21:05
 6,Whitehead,Dan,Cosmics,M,00:21:14
 7,Wright,Andrew,Ron Hill Cambuslang,M,00:21:22
-8,Croasdale,Mark,Lancaster,First vet,00:21:45
+8,Croasdale,Mark,Lancaster,M40,00:21:45
 9,Prasad,Prasad,Unattached,M,00:22:32
 10,Athersmith,Matthew,Unattached,M,00:24:21
 11,Holt,Jack,Unattached,M,00:24:29
@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,McCrow,Ron,Unattached,M,00:26:38
 19,Broadbent,Chris,Unattached,M,00:26:58
 20,Law,William,Unattached,M,00:27:02
-21,Stuart,Emma,Unattached,First lady,00:27:04
+21,Stuart,Emma,Unattached,F,00:27:04
 22,Morrison,Alex,Unattached,M,00:27:21
 23,Allen,Dave,Unattached,M,00:27:28
 24,Proctor,Ben,Unattached,M,00:27:31
@@ -48,5 +48,5 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 47,Coffey,Michael,Unattached,M,00:38:25
 48,Lund,Brian,Unattached,M,00:38:27
 49,Cowborough,Craig,Unattached,M,00:39:23
-50,Rooke,Kane,Unattached,MU23,00:40:35
+50,Rooke,Kane,Unattached,M23,00:40:35
 51,Glennie,Gordon,Unattached,M,00:49:05

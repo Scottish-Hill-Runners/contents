@@ -1,8 +1,8 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Ascroft,Jon,Carnethy,SM,02:38:38
+1,Ascroft,Jon,Carnethy,M,02:38:38
 2,Fallon,Steven,Carnethy,M40,02:43:18
 3,Bass,Owen,Deeside Runners,M40,02:50:52
-4,Symonds,Andrew,Carnegie H,SM,02:54:23
+4,Symonds,Andrew,Carnegie H,M,02:54:23
 5,Weetman,Ian,unattached,M40,03:04:00
 6,Reid,Don,Westerlands,M40,03:04:56
 7,Stevenson,Jim,Irvine,M50,03:08:54
@@ -11,14 +11,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,Hulme,Martin,Corstorphine,M50,03:11:39
 11,Brannan,Tosh,Lothian,M40,03:14:29
 12,Abram,Michael,Arran Runners,M50,03:14:29
-13,McKendrick,Scott,Westerlands,SM,03:17:10
+13,McKendrick,Scott,Westerlands,M,03:17:10
 14,Rogers,David,Westerlands,M40,03:17:18
-15,Gorgas,Steffen,Westerlands,SM,03:17:38
+15,Gorgas,Steffen,Westerlands,M,03:17:38
 16,Barrie,Stewart,H.B.T.,M40,03:20:09
 17,Donnelly,John,Westerlands,M40,03:25:47
-18,Begley,Tommy,Irvine,SM,03:37:59
-19,Fraser,Garry,unattached,SM,03:52:29
-20,Heron,Gregor,Carnethy,SM,03:53:45
+18,Begley,Tommy,Irvine,M,03:37:59
+19,Fraser,Garry,unattached,M,03:52:29
+20,Heron,Gregor,Carnethy,M,03:53:45
 21,Diver,Michael,Clydesdale H,M40,03:54:12
 22,Johnston,Stephen,Millburn H,M40,04:19:35
 23,Kaushal,Jason,Westerlands,M40,04:34:01

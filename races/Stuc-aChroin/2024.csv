@@ -11,7 +11,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,Wilson,Felix,Carnethy HRC,M,02:20:07
 11,Taylor,Luke,Highland Hill Runners,M,02:22:10
 12,Smith,Aidan,Carnethy HRC,M,02:23:04
-13,MacPherson,Chris,The Green Runners,MS,02:24:31
+13,MacPherson,Chris,The Green Runners,M,02:24:31
 14,Fallas,Andrew,Carnethy HRC,M40,02:24:56
 15,Hooper,Sam,Carnethy HRC,M,02:25:17
 16,Molina,Rodrigo Lara,Carnethy HRC,M,02:28:25
@@ -27,7 +27,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 26,Tresidder,Es,Lochaber AC,M,02:34:16
 27,Cameron,Hamish,Unattached,M,02:34:21
 28,Harding,Iain,Highland Hill Runners,M,02:34:48
-29,Mclaren,Jamie,Unattached,MU16,02:36:05
+29,Mclaren,Jamie,Unattached,M16,02:36:05
 30,Turnbull,Jonathan,Strathearn Harriers,M40,02:37:10
 31,Crowe,Jamie,Central AC,M,02:38:03
 32,Mccomb,Lewis,Central AC,M,02:38:42
@@ -74,7 +74,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 73,Gillies,Jenny,Unattached,F,03:07:46
 74,Hill,Christopher,Cosmic Hillbashers,M,03:08:06
 75,Shaw,Mark,Lochaber AC,M55,03:09:42
-76,Knox,Rosie,Carnethy HRC,FJ,03:11:11
+76,Knox,Rosie,Carnethy HRC,F16,03:11:11
 77,Short,Kenny,Teviotdale Harriers,M40,03:11:16
 78,Wilson,Stewart,Highland Hill Runners,M40,03:11:21
 79,Kirk,Lachlan,Stonehaven RC,M,03:11:39

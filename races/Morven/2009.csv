@@ -1,51 +1,51 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitehead,Dan,Cosmic Hillbashers,MS,00:47:10
-2,Bartlett,Graeme,Forres Harriers,MV,00:47:11
-3,Sullivan,Matthew,Shettleston Harriers,MS,00:49:58
-4,Williamson,Jason,Cosmic Hillbashers,MS,00:50:06
-5,Felter,Johannes,Unattached,MS,00:52:06
-6,Love,Craig,Dundee Hawkhill Harriers,MS,00:52:20
-7,McDonald,Dennis,Cosmic Hillbashers,MV,00:52:32
-8,Van Gompel,Roger,Dundee Hawkhill Harriers,MS,00:53:23
-9,Kerridge,Donald,Deeside Runners,MV,00:54:59
-10,Pelap,Colin,Unattached,MS,00:55:13
-11,Smith,Stephen,Unattached,MS,00:55:25
-12,Bass,Owen,Deeside Runners,MV,00:55:32
-13,Mardall,Nick,Deeside Runners,MV,00:56:22
-14,Coles,Rob,Cosmic Hillbashers,MSV,00:56:53
-15,Oldham,Véronique,Cosmic Hillbashers,FV,00:58:25
-16,Mackenzie,Ruth,Deeside Runners,FV,00:58:26
-17,Smith,Alex,Unattached,MS,00:59:04
-18,Hirst,David,Deeside Runners,MV,00:59:06
-19,Jermieson,Ashley,Cosmic Hillbashers,MSV,01:00:05
-20,Mitchell,Dave,Dundee Hawkhill Harriers,MV,01:00:22
-21,Erskine,Alec,Unattached,MV,01:00:26
-22,Holt,Thor,Unattached,MS,01:00:56
-23,Morgan,Dougal,Unattached,MV,01:01:49
-24,Duncan,David,Ochil Hillrunners,MSV,01:03:21
-25,Gutteridge,Gary,Cosmic Hillbashers,MSV,01:03:34
-26,Macgregor,James,Garioch Road Runners,MV,01:04:16
-27,Taylor,Colin,Cosmic Hillbashers,MV,01:04:33
-28,Williams,Rupert,Unattached,MV,01:05:12
-29,McLeod,Roddy,Unattached,MV,01:05:18
-30,Noble,Lois,Cosmic Hillbashers,FV,01:05:23
-31,Reid,Colin,Cosmic Hillbashers,MV,01:05:32
-32,Ingram,Richard,Garioch Road Runners,MS,01:05:33
-33,Kerridge,Jane,Deeside Runners,FSV,01:05:38
+1,Whitehead,Dan,Cosmic Hillbashers,M,00:47:10
+2,Bartlett,Graeme,Forres Harriers,M,00:47:11
+3,Sullivan,Matthew,Shettleston Harriers,M,00:49:58
+4,Williamson,Jason,Cosmic Hillbashers,M,00:50:06
+5,Felter,Johannes,Unattached,M,00:52:06
+6,Love,Craig,Dundee Hawkhill Harriers,M,00:52:20
+7,McDonald,Dennis,Cosmic Hillbashers,M,00:52:32
+8,Van Gompel,Roger,Dundee Hawkhill Harriers,M,00:53:23
+9,Kerridge,Donald,Deeside Runners,M,00:54:59
+10,Pelap,Colin,Unattached,M,00:55:13
+11,Smith,Stephen,Unattached,M,00:55:25
+12,Bass,Owen,Deeside Runners,M,00:55:32
+13,Mardall,Nick,Deeside Runners,M,00:56:22
+14,Coles,Rob,Cosmic Hillbashers,M40,00:56:53
+15,Oldham,Véronique,Cosmic Hillbashers,F,00:58:25
+16,Mackenzie,Ruth,Deeside Runners,F,00:58:26
+17,Smith,Alex,Unattached,M,00:59:04
+18,Hirst,David,Deeside Runners,M,00:59:06
+19,Jermieson,Ashley,Cosmic Hillbashers,M40,01:00:05
+20,Mitchell,Dave,Dundee Hawkhill Harriers,M,01:00:22
+21,Erskine,Alec,Unattached,M,01:00:26
+22,Holt,Thor,Unattached,M,01:00:56
+23,Morgan,Dougal,Unattached,M,01:01:49
+24,Duncan,David,Ochil Hillrunners,M40,01:03:21
+25,Gutteridge,Gary,Cosmic Hillbashers,M40,01:03:34
+26,Macgregor,James,Garioch Road Runners,M,01:04:16
+27,Taylor,Colin,Cosmic Hillbashers,M,01:04:33
+28,Williams,Rupert,Unattached,M,01:05:12
+29,McLeod,Roddy,Unattached,M,01:05:18
+30,Noble,Lois,Cosmic Hillbashers,F,01:05:23
+31,Reid,Colin,Cosmic Hillbashers,M,01:05:32
+32,Ingram,Richard,Garioch Road Runners,M,01:05:33
+33,Kerridge,Jane,Deeside Runners,F40,01:05:38
 34,Bowie,Tom,Carnegie Harriers,MHV,01:05:59
-35,Elder,Bob,Cosmic Hillbashers,MSV,01:07:13
+35,Elder,Bob,Cosmic Hillbashers,M40,01:07:13
 36,Love,Charlie,Dundee Hawkhill Harriers,MHV,01:07:43
-37,Henderson,Bill,Carnethy,MSV,01:07:55
-38,Macaulay,Allan,Carnegie Harriers,MSV,01:08:05
-39,Cran,Ian,Garioch Road Runners,MSV,01:08:29
-40,Mackenzie,Iain,Deeside Runners,MV,01:08:41
-41,Smith,Tilly,Deeside Runners,FV,01:08:45
-42,Bass,Ursula,Deeside Runners,FV,01:08:45
-43,Chalmers,George,Unattached,MV,01:13:04
-44,Smith,Ann,Cosmic Hillbashers,FV,01:14:51
-45,Angus,Mel,Unattached,FV,01:14:54
-46,Russell,Jane,Unattached,FS,01:16:26
-47,Singleton,Emily,Unattached,FS,01:16:51
-48,Hay,Kelly,Unattached,FS,01:18:42
-49,Oliver,Jane,Deeside Runners,FSV,01:24:16
-50,Reynolds,Colin,Carnegie Harriers,MS,01:28:19
+37,Henderson,Bill,Carnethy,M40,01:07:55
+38,Macaulay,Allan,Carnegie Harriers,M40,01:08:05
+39,Cran,Ian,Garioch Road Runners,M40,01:08:29
+40,Mackenzie,Iain,Deeside Runners,M,01:08:41
+41,Smith,Tilly,Deeside Runners,F,01:08:45
+42,Bass,Ursula,Deeside Runners,F,01:08:45
+43,Chalmers,George,Unattached,M,01:13:04
+44,Smith,Ann,Cosmic Hillbashers,F,01:14:51
+45,Angus,Mel,Unattached,F,01:14:54
+46,Russell,Jane,Unattached,F,01:16:26
+47,Singleton,Emily,Unattached,F,01:16:51
+48,Hay,Kelly,Unattached,F,01:18:42
+49,Oliver,Jane,Deeside Runners,F40,01:24:16
+50,Reynolds,Colin,Carnegie Harriers,M,01:28:19

@@ -2,28 +2,28 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gilmore,Andrew,Carnethy,M,00:05:14
 2,Fraser,Gary,Ochils,M40,00:05:23
 3,McVey,Alex,Carnethy,M,00:05:27
-4,Elder,David,Lomond HR,MJ,00:05:29
+4,Elder,David,Lomond HR,M16,00:05:29
 5,Luetchford,Alex,EUH&H,M,00:05:45
 6,Johnston,Mark,Carnethy,M40,00:05:47
 7,Gardner,Peter,HBT,M,00:05:55
 8,Brodie,Stuart,Ochils,M,00:05:57
 9,Fallon,Steven,Carnethy,M50,00:05:58
-10,Braby,Liam,Carnethy,MJ,00:05:58
+10,Braby,Liam,Carnethy,M16,00:05:58
 11,Knox,Thomas,Anster Haddies,M,00:06:03
 12,Nash,Graham,Carnethy,M40,00:06:03
 13,Beard,Stephen,Carnethy,M,00:06:04
 14,Harrison,James,Corstorphine,M,00:06:06
-15,Campbell,Callum,Corstorphine,MJ,00:06:07
+15,Campbell,Callum,Corstorphine,M16,00:06:07
 16,Davis,Duncan,Carnethy,M40,00:06:14
 17,Hope,Niall,Helensburgh,M,00:06:21
 18,MacInnes,Alasdair,Westerlands,M,00:06:22
 19,Knox,Jonathan,Anster Haddies,M50,00:06:22
 20,Whitlie,Stewart,Carnethy,M50,00:06:24
 21,Burnett,Neil,Carnethy,M40,00:06:25
-22,Addison,Stephen,Corstorphine,MJ,00:06:31
+22,Addison,Stephen,Corstorphine,M16,00:06:31
 23,Jones,Matthew,Carnethy,M,00:06:31
 24,Gilmore,Neil,Carnethy,M50,00:06:31
-25,Greens,Michael,Penicuik,MJ,00:06:34
+25,Greens,Michael,Penicuik,M16,00:06:34
 26,Vaughan-Jackson,Huw,HBT,M,00:06:39
 27,Chisholm,Neil,Unattached,M,00:06:41
 28,Waterhouse,Bob,Carnethy,M60,00:06:41
@@ -42,13 +42,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Downie,Chris,Penicuik,M50,00:07:10
 42,Duncan,David,Ochils,M60,00:07:12
 43,Cameron,Gordon,Carnethy,M50,00:07:25
-44,Campbell,Fergus,Corstorphine,MJ,00:07:44
-45,Knox,Rosie,Anster Haddies,FJ,00:07:47
-46,Knox,Lizzie,Anster Haddies,FJ,00:07:47
+44,Campbell,Fergus,Corstorphine,M16,00:07:44
+45,Knox,Rosie,Anster Haddies,F16,00:07:47
+46,Knox,Lizzie,Anster Haddies,F16,00:07:47
 47,Dunn,Nicola,Carnethy,F40,00:07:55
 48,Bouchier,Shane,Carnethy,M,00:08:04
 49,Harrington,David,Carnethy,M40,00:08:04
-50,Cameron,Charlie,Corstorphine,MJ,00:08:07
+50,Cameron,Charlie,Corstorphine,M16,00:08:07
 51,Husband,Jessica,EUH&H,F,00:08:20
 52,McPherson,Hugh,Tinto HR,M60,00:08:21
 53,Maass,Digby,Carnethy,M60,00:08:44

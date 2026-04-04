@@ -1,55 +1,55 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,McCall,Andrew,Greenock Glenpark,Snr,00:46:01
-2,Campbell,Graeme,Highland Hill Runners,Snr,00:46:26
-3,Rodwell,Damon,Westerlands,Snr,00:47:56
-4,Scott,Nigel,Westerlands,Snr,00:48:05
-5,Stevenson,John,Ochil Hill Runners,Vet 40,00:49:34
-6,Petrie,Donald,Kilbarchan,Vet 40,00:51:00
-7,Theaker,Damien,Helensburgh AAC,Vet 40,00:51:40
-8,Maclean,Paul,Lochaber AC,Snr,00:52:14
-9,White,David,J W Kilmarnock Harriers,Snr,00:52:17
-10,Munro,Graham,Lochaber AC,Snr,00:52:33
-11,Glencourse,Colin,Unattached,Snr,00:52:44
-12,Anderson,Russell,Moorfoot Runners,Vet 40,00:52:53
-13,McLaughlin,Danny,Greenock Glenpark,Vet 40,00:53:31
-14,Pearson,Laurie,Bellahouston Harriers,Snr,00:53:49
-15,Calderwood,Craig,Clydesdale Harriers,Snr,00:54:10
-16,Dunn,Mick,Greenock Glenpark,Vet 50,00:54:16
-17,Gorgas,Steffen,Westerlands,Vet 40,00:54:40
-18,McInroy,Ross,Helensburgh AAC,Vet 50,00:55:32
-19,Reid,Don,Westerlands,Vet 40,00:56:08
-20,Laverty,Hugh,Unattached,Vet 40,00:56:09
-21,Macleod,Murdo,Westerlands,Vet 50,00:56:11
-22,Triger,Simon,Westerlands,Snr,00:57:05
-23,Donelly,John,Westerlands,Vet 40,00:57:15
+1,McCall,Andrew,Greenock Glenpark,M,00:46:01
+2,Campbell,Graeme,Highland Hill Runners,M,00:46:26
+3,Rodwell,Damon,Westerlands,M,00:47:56
+4,Scott,Nigel,Westerlands,M,00:48:05
+5,Stevenson,John,Ochil Hill Runners,M40,00:49:34
+6,Petrie,Donald,Kilbarchan,M40,00:51:00
+7,Theaker,Damien,Helensburgh AAC,M40,00:51:40
+8,Maclean,Paul,Lochaber AC,M,00:52:14
+9,White,David,J W Kilmarnock Harriers,M,00:52:17
+10,Munro,Graham,Lochaber AC,M,00:52:33
+11,Glencourse,Colin,Unattached,M,00:52:44
+12,Anderson,Russell,Moorfoot Runners,M40,00:52:53
+13,McLaughlin,Danny,Greenock Glenpark,M40,00:53:31
+14,Pearson,Laurie,Bellahouston Harriers,M,00:53:49
+15,Calderwood,Craig,Clydesdale Harriers,M,00:54:10
+16,Dunn,Mick,Greenock Glenpark,M50,00:54:16
+17,Gorgas,Steffen,Westerlands,M40,00:54:40
+18,McInroy,Ross,Helensburgh AAC,M50,00:55:32
+19,Reid,Don,Westerlands,M40,00:56:08
+20,Laverty,Hugh,Unattached,M40,00:56:09
+21,Macleod,Murdo,Westerlands,M50,00:56:11
+22,Triger,Simon,Westerlands,M,00:57:05
+23,Donelly,John,Westerlands,M40,00:57:15
 24,Houston,Valerie,Westerlands,LVet 40,00:58:05
-25,Cortial,Johnannes,Westerlands,Snr,00:58:05
-26,Diver,Michael,Clydesdale Harriers,Vet 40,00:58:14
-27,Millen,Blair,Westerlands,Snr,01:00:34
-28,Calder,Dave,Westerlands,Vet 40,01:00:37
-29,Fraser,Iain,Irvine AC,Vet 40,01:00:46
-30,Simpson,Stuart,Ochil Hill Runners,Snr,01:01:06
-31,Miller,Catriona,Westerlands,Snr L,01:01:07
-32,Pugh,Rod,J W Kilmarnock Harriers,Vet 50,01:01:31
-33,Maclean,Andrew,Greenock Glenpark,Snr,01:03:25
-34,Johnson,Stephen,Milburn Harriers,Vet 40,01:04:10
-35,Brennan,Brian,Westerlands,Vet 50,01:04:38
-36,Anderson,Alan,Westerlands,Vet 40,01:05:43
-37,Orr,Graham,Westerlands,Vet 50,01:06:07
-38,Finbar,Malcom,Shettleston,Vet 50,01:06:40
-39,Kirk,Katherine,Westerlands,Snr L,01:06:56
-40,Adams,David,Hamilton Harriers,Vet 60,01:07:22
-41,Broni,David,Westerlands,Vet 40,01:08:01
+25,Cortial,Johnannes,Westerlands,M,00:58:05
+26,Diver,Michael,Clydesdale Harriers,M40,00:58:14
+27,Millen,Blair,Westerlands,M,01:00:34
+28,Calder,Dave,Westerlands,M40,01:00:37
+29,Fraser,Iain,Irvine AC,M40,01:00:46
+30,Simpson,Stuart,Ochil Hill Runners,M,01:01:06
+31,Miller,Catriona,Westerlands,F,01:01:07
+32,Pugh,Rod,J W Kilmarnock Harriers,M50,01:01:31
+33,Maclean,Andrew,Greenock Glenpark,M,01:03:25
+34,Johnson,Stephen,Milburn Harriers,M40,01:04:10
+35,Brennan,Brian,Westerlands,M50,01:04:38
+36,Anderson,Alan,Westerlands,M40,01:05:43
+37,Orr,Graham,Westerlands,M50,01:06:07
+38,Finbar,Malcom,Shettleston,M50,01:06:40
+39,Kirk,Katherine,Westerlands,F,01:06:56
+40,Adams,David,Hamilton Harriers,M60,01:07:22
+41,Broni,David,Westerlands,M40,01:08:01
 42,Calder,Muffy,Westerlands,Lvet 40,01:08:21
-43,Willis,Simon,Westerlands,Vet 40,01:08:42
-44,Tweedie,Hilary,Westerlands,Snr L,01:09:06
-45,Macfarlane,Brian,Unattached,Snr,01:10:11
+43,Willis,Simon,Westerlands,M40,01:08:42
+44,Tweedie,Hilary,Westerlands,F,01:09:06
+45,Macfarlane,Brian,Unattached,M,01:10:11
 46,McAdam,Pauline,Westerlands,LVet 50,01:10:22
-47,Talbot,Anna,Westerlands,Snr L,01:10:35
-48,Rudzinski,Peter,Clydesdale Harriers,Vet 50,01:12:14
-49,Turnbull,Drew,Westerlands,Vet 60,01:13:00
+47,Talbot,Anna,Westerlands,F,01:10:35
+48,Rudzinski,Peter,Clydesdale Harriers,M50,01:12:14
+49,Turnbull,Drew,Westerlands,M60,01:13:00
 50,Macpherson,Helen,Westerlands,LVet 40,01:13:09
 51,Mclaughlin,Pat,Westerlands,LVet 50,01:21:50
 52,Crockard,Rosie,Westerlands,LVet 40,01:27:10
-53,Benny,Graham,Westerlands,Vet 50,01:27:41
-54,Spark,William,Scottish Vet Harriers,Vet 60,01:28:03
+53,Benny,Graham,Westerlands,M50,01:27:41
+54,Spark,William,Scottish Vet Harriers,M60,01:28:03

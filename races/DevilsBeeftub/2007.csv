@@ -8,7 +8,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 7,Campbell,Graeme,Ochil Hill Runners,M,0:21:16
 8,Fallon,Steven,Carnethy,M40,0:21:35
 9,Smith,Tom,Lochaber AC,M,0:21:40
-10,McCall,Andrew,Greenock Glenpark Harriers,Mu23,0:21:41
+10,McCall,Andrew,Greenock Glenpark Harriers,M23,0:21:41
 11,Smith,Alan,Deeside Runners,M40,0:22:05
 12,Bell,Matt,Edinburgh AC,M,0:22:10
 13,Scott,Nigel,Westerlands,M,0:22:17
@@ -24,9 +24,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Anderson,Laurie,Lomond Hill Runners,M40,0:24:19
 24,Life,Alan,Clayton Le Moors,M40,0:24:34
 25,Roper,Marc,Westerlands,M40,0:24:37
-26,Sullivan,Matthew,Shettleston Harriers,Mu23,0:24:42
+26,Sullivan,Matthew,Shettleston Harriers,M23,0:24:42
 27,Lang,Richard,Cosmics,M,0:24:50
-28,McLoone,Michael,Greenock Glenpark Harriers,Mu23,0:24:56
+28,McLoone,Michael,Greenock Glenpark Harriers,M23,0:24:56
 29,Mykura,Willie,Carnethy,M40,0:24:57
 30,Milligan,Douglas,Solway,M60,0:25:01
 31,Waterhouse,Bob,Carnethy,M50,0:25:08

@@ -1,12 +1,12 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,MS,01:02:46
-2,Whitelaw,Mark,Annan & District AC,MS,01:05:48
+1,Marshall,Brian,HELP,M,01:02:46
+2,Whitelaw,Mark,Annan & District AC,M,01:05:48
 3,Davis,Adrian,Carnethy,M40,01:05:52
-4,Robinson,Mike,Dark Peak,MS,01:06:20
+4,Robinson,Mike,Dark Peak,M,01:06:20
 5,Bennet,Sandy,Carnegie Harriers,M40,01:07:07
 6,Anderson,Adam,Carnethy,M,01:09:13
 7,Riach,Dave,Westerlands,M,01:09:36
-8,Mykura,Jill,Carnethy,FS,01:10:19
+8,Mykura,Jill,Carnethy,F,01:10:19
 9,Maclean,Paul,Lochaber AC,M,01:11:22
 10,Murgatroyd,Ian,Fugitives,M40,01:12:23
 11,Holt,Luke,Unattached,M,01:12:53
@@ -15,7 +15,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Fairgrieve,Andy,Annan & District AC,M,01:14:25
 15,Bearhop,Derek,Carnethy,M40,01:14:54
 16,Gorgas,Steffen,Westerlands,M,01:15:27
-17,Robertson,Shiona,Westerlands,FS,01:15:50
+17,Robertson,Shiona,Westerlands,F,01:15:50
 18,Taylor,Natt,Girvan AAC,M50,01:15:59
 19,Patterson,Ian,Whisky Chasers,M,01:15:59
 20,McCulloch,Tom,Ayr Seaforth,M50,01:16:19
@@ -26,7 +26,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Guy,Roger,Annan & District AC,M,01:25:48
 26,Priestly,Nigel,Annan & District AC,M,01:26:20
 27,MacEwan,John,Ochil Hill Runners,M,01:27:41
-28,Miller,Catriona,Westerlands,FS,01:29:23
+28,Miller,Catriona,Westerlands,F,01:29:23
 29,Simpson,Alex,Unattached,M,01:30:12
 30,Anderson,Adam,Dumfries RC,M60,01:33:17
 31,Mcmanus,Ian,Irvine AC,M60,01:37:09

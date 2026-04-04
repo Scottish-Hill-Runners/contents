@@ -1,29 +1,28 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Campbell,Graeme,Highland Hillrunners,M Record,01:08:38
-2,Donnelly,Colin,Lochaber AC,MV,01:08:53
-3,Keith,Alec,Inverness Harriers,MV,01:09:29
+1,Campbell,Graeme,Highland Hillrunners,M,01:08:38
+2,Donnelly,Colin,Lochaber AC,M,01:08:53
+3,Keith,Alec,Inverness Harriers,M,01:09:29
 4,Raistrick,Paul,Highland Hillrunners,M,01:12:19
-5,Smith,Alan,Deeside,MV,01:12:54
+5,Smith,Alan,Deeside,M,01:12:54
 6,MacLean,Paul,Lochaber AC,M,01:14:18
 7,Bannerman,Ross,Highland Hillrunners,M,01:14:20
-8,Speight,Neil,Highland Hillrunners,MV,01:14:53
+8,Speight,Neil,Highland Hillrunners,M,01:14:53
 9,Smith,Tom,Lochaber AC,M,01:16:29
 10,Ward,Peter,Unattached,M,01:19:21
 11,Williams,Fran,Highland Hillrunners,M,01:18:45
-12,McLeod,Angus,Highland Hillrunners,MV,01:20:25
-13,Duncan,David,Ochil Hillrunners,MV50,01:25:19
-14,McNab,Graham,Unattached,MV,01:25:24
-15,Delaney,Kevin,Skye and Lochalsh AC,MV,01:26:29
+12,McLeod,Angus,Highland Hillrunners,M,01:20:25
+13,Duncan,David,Ochil Hillrunners,M50,01:25:19
+14,McNab,Graham,Unattached,M,01:25:24
+15,Delaney,Kevin,Skye and Lochalsh AC,M,01:26:29
 16,Raffe,David,Unattached,M,01:28:12
-17,Edge,Glen,Skye and Lochalsh AC,MV,01:31:40
+17,Edge,Glen,Skye and Lochalsh AC,M,01:31:40
 18,Patterson,Eilidh,Highland Hillrunners,F,01:33:17
 19,Hodges,Adrian,Forres Harriers,M,01:34:12
-20,Adams,Ian,Lochaber AC,MV,01:36:07
-21,Wilson,Colin,Carnethy,MV,01:36:16
-22,MacDonald,Hamish,Aberdeen AAC,MV,01:46:29
-23,Wilson,Joan,Carnethy,FV,01:47:07
-24,MacKay,Rod,Unattached,MV50,01:50:43
+20,Adams,Ian,Lochaber AC,M,01:36:07
+21,Wilson,Colin,Carnethy,M,01:36:16
+22,MacDonald,Hamish,Aberdeen AAC,M,01:46:29
+23,Wilson,Joan,Carnethy,F,01:47:07
+24,MacKay,Rod,Unattached,M50,01:50:43
 25,Smith,Tilly,Deeside,F,01:51:58
 26,Clarke,Andrew,Highland Hillrunners,M,01:53:58
 27,Fraser,Graham,Unattached,M,01:56:27
-28,,,Unattached,M,NULL

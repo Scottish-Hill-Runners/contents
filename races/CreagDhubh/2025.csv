@@ -33,7 +33,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Hayman,James Luca,Unattached,M,00:39:03
 33,Smith,Alan,Deeside Runners,M60,00:39:29
 34,Patton,Simon,Dark Peak Fell Runners,M50,00:39:31
-35,Rodgers,David,Lochaber AC,JM,00:39:34
+35,Rodgers,David,Lochaber AC,M16,00:39:34
 36,Falk,Seb,Unattached,M40,00:39:45
 37,Bennet,Donald,Orion Harriers,M,00:41:00
 38,Fitchie,Martin,Cumbernauld AAC,M40,00:41:20
@@ -43,8 +43,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 42,Rodger,Emma,Lochaber AC,F40,00:42:34
 43,Bryan-Jones,Ali,Unattached,M50,00:42:38
 44,Forrest,Stuart,Highland Hill Runners,M40,00:42:43
-45,Whitfield,Aidan,Tyne Bridge Harriers,MJ,00:42:46
-46,Gorman,Maisy,DDJC,JF,00:42:53
+45,Whitfield,Aidan,Tyne Bridge Harriers,M16,00:42:46
+46,Gorman,Maisy,DDJC,F16,00:42:53
 47,Davies,Beckie,DDJC,F,00:42:56
 48,Mackintosh,Alasdair,Unattached,M,00:43:01
 49,Crewe,Ruth,Highland Hill Runners,F,00:43:06

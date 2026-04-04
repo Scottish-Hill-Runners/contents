@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Rodgers,David,Lochaber AC,M Record,00:41:36
+1,Rodgers,David,Lochaber AC,M,00:41:36
 2,Mitchell,Craig,Lochaber AC,M,00:43:38
 3,Hepburn,John,Lochaber AC,M40,00:43:51
 4,Kennedy,Peter,Lochaber AC,M,00:44:48
@@ -10,7 +10,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 9,Cant,Stephen,Lochaber AC,M,00:49:37
 10,Duncan,David,Ochil Hill Runners,M50,00:50:07
 11,Macbeath,Niall,Lochaber AC,M,00:50:07
-12,Scott,Dawn,Lochaber AC,F Record,00:50:39
+12,Scott,Dawn,Lochaber AC,F,00:50:39
 13,Whyte,Ken,Lochaber AC,M50,00:53:06
 14,Maitland,John,Lochaber AC,M40,00:53:17
 15,Forster,Damian,Lochaber AC,M,00:54:05

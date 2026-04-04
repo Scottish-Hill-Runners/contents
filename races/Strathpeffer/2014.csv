@@ -5,7 +5,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 4,Nicolson,William,Highland Hill Runners,M40,0:28:12
 5,Wilby,Andrew,Highland Hill Runners,M40,0:28:18
 6,Whiteside,Gavin,Highland Hill Runners,M,0:28:35
-7,Taylor,Luke,Highland Hill Runners,MU20,0:28:42
+7,Taylor,Luke,Highland Hill Runners,M20,0:28:42
 8,Smith,Alan,Deeside Runners,M50,0:29:09
 9,Krogulec,Waldemar,Highland Hill Runners,M,0:29:26
 10,Forrest,Stuart,Highland Hill Runners,M,0:29:38
@@ -13,7 +13,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Cumming,Mike,Highland Hill Runners,M40,0:30:19
 13,Worsley,Steven,Inverness Harriers,M50,0:31:14
 14,Cowie,Hector,Unattached,M,0:31:49
-15,Cowie,Lachlan,Unattached,MU20,0:31:59
+15,Cowie,Lachlan,Unattached,M20,0:31:59
 16,Fraser,Catriona,Inverness Harriers,F,0:32:13
 17,Lyons,Karen,Highland Hill Runners,F40,0:32:52
 18,Taylor,Gordie,Lochaber AC,M50,0:33:26

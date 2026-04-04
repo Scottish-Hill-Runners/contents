@@ -2,7 +2,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Battle,Hamish,Metro Aberdeen RC,M,00:34:33
 2,Taylor,Luke,Highland Hill Runners,M,00:35:16
 3,Manson,Iain,Unattached,M,00:35:48
-4,Wright,Joseph,Deeside Runners,MJ,00:36:38
+4,Wright,Joseph,Deeside Runners,M16,00:36:38
 5,Mitchell,John,Cosmics,M,00:38:02
 6,Tomlin,Chris,Cosmics,M40,00:38:11
 7,Easton,Neil,Stonehaven Running Club,M,00:38:37
@@ -24,7 +24,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 23,McKane,Jonny,Unattached,M,00:43:54
 24,Coles,Rob,Cosmics,M60,00:43:58
 25,Weir,Kenneth,Unattached,M,00:44:05
-26,Campbell,Eilidh,Unattached,FJ,00:44:24
+26,Campbell,Eilidh,Unattached,F16,00:44:24
 27,Bryce,Rebecca,Cosmics,F,00:44:28
 28,Entwistle,Marie,Deeside Runners,F40,00:44:38
 29,Dunn,Sarah,Deeside Runners,F40,00:44:47
@@ -37,7 +37,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 36,Coombs,Roger,Deeside Runners,M50,00:46:42
 37,Bedford,Tom,Unattached,M,00:47:26
 38,Hamilton,Ian,Deeside Runners,M50,00:47:44
-39,Mason,Abigail,Deeside Runners,FJ,00:47:58
+39,Mason,Abigail,Deeside Runners,F16,00:47:58
 40,Mason,John,Banchory Runners,M50,00:48:05
 41,Hare,Rolfe,Deeside Runners,M50,00:48:59
 42,Dee Arthur,Coralie,Unattached,F,00:49:22

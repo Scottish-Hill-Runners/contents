@@ -1,6 +1,6 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Dunn,Alastair,Helm Hill Runners,M40,0:21:16
-2,Hall,James,Wharfedale Harriers,MU23,0:21:18
+2,Hall,James,Wharfedale Harriers,M23,0:21:18
 3,Whitlie,Stewart,Carnethy,M50,0:21:36
 4,Wright,Andrew,PH Racing,M,0:21:49
 5,Mason,Ted,Wharfedale Harriers,M,0:22:20
@@ -9,13 +9,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 8,Robinson,Mike,Dark Peak,M40,0:23:12
 9,Fulton,David,HBT,M,0:23:22
 10,Fraser,Gary,Ochil Hill Runners,M40,0:24:08
-11,Bulmer,Declan,Wharfedale Harriers,MU23,0:24:18
+11,Bulmer,Declan,Wharfedale Harriers,M23,0:24:18
 12,Lambert,Paul,Settle Harriers,M45,0:24:23
 13,Campbell,Graeme,Ochil Hill Runners,M,0:24:38
 14,Baxter,Grant,Ochil Hill Runners,M40,0:25:11
 15,Smithies,Stephen,Calder Valley,M45,0:25:25
 16,Cowan,David,Fife AC,M50,0:26:53
-17,Rankin,Christina,Kilbarchan,FU23,0:27:08
+17,Rankin,Christina,Kilbarchan,F23,0:27:08
 18,Martin,Ryan,Unattached,M40,0:27:13
 19,Gibbons,Iain,Ilkley Harriers,M40,0:27:25
 20,Crabtree,Paul M,Wharfedale Harriers,M45,0:27:58
@@ -55,11 +55,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Hall,Roger,Wharfedale Harriers,M60,0:39:07
 55,Crabtree,Caren,Wharfedale Harriers,F,0:40:02
 56,Grassl,Peter,Unattached,M40,0:40:43
-57,Rankin,Garry,Kilbarchan,MU23,0:41:15
+57,Rankin,Garry,Kilbarchan,M23,0:41:15
 58,Parker,Nicholas,Garscube Harriers,M45,0:41:27
 59,Simpson,David,Unattached,M,0:42:17
 60,Harrison,Caroline,Wharfedale Harriers,F40,0:43:19
-61,Cunningham,Jack,Unattached,MU23,0:43:19
+61,Cunningham,Jack,Unattached,M23,0:43:19
 62,Johnstone,Stuart,Wharfedale Harriers,M45,0:44:47
 63,Hargreaves,Lynda,Wharfedale Harriers,F45,0:45:43
 64,Robertson,Sarah,Unattached,F45,0:46:27

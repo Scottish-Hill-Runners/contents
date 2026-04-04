@@ -1,109 +1,109 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Owens,Tom,Shettleston,M,00:28:31
 2,Marshall,Brian,HELP,M,00:29:37
-3,Simpson,Robbie,Deeside,MU23,00:29:53
-4,Chepelin,Oleg,Shettleston,MU23,00:30:05
+3,Simpson,Robbie,Deeside,M23,00:29:53
+4,Chepelin,Oleg,Shettleston,M23,00:30:05
 5,Wright,Andrew,Carnegie Harriers,M,00:30:33
 6,Symonds,Andy,Carnegie Harriers,M,00:31:11
-7,Davenhill,Anesti,Shettleston,V40,00:31:18
-8,Whitlie,Stewart,Carnethy,V40,00:31:35
+7,Davenhill,Anesti,Shettleston,M40,00:31:18
+8,Whitlie,Stewart,Carnethy,M40,00:31:35
 9,Wiseman,Bob,Ochil,M,00:31:38
-10,Tullie,Douglas,Edinburgh University HH,MU23,00:31:41
+10,Tullie,Douglas,Edinburgh University HH,M23,00:31:41
 11,Richmond,Kenny,Bellahouston RR,M,00:31:48
 12,Eiser,Dave,Ochil,M,00:31:49
-13,Evans,Donald,Westerlands,MU23,00:32:50
-14,Fallon,Steven,Carnethy,V40,00:32:59
+13,Evans,Donald,Westerlands,M23,00:32:50
+14,Fallon,Steven,Carnethy,M40,00:32:59
 15,Winter,Steven,Shettleston,M,00:33:00
-16,Gallagher,Ronnie,Carnethy,V40,00:33:28
-17,Smith,Alan,Deeside,V40,00:33:29
-18,Anderson Jnr,Adam,Carnethy,V40,00:33:42
+16,Gallagher,Ronnie,Carnethy,M40,00:33:28
+17,Smith,Alan,Deeside,M40,00:33:29
+18,Anderson Jnr,Adam,Carnethy,M40,00:33:42
 19,Whitehead,Claire,Cosmics,F,00:34:04
-20,Laing,Martin,Fife AC,V50,00:34:07
-21,Birnie,Andy,Bellahouston RR,V40,00:34:22
+20,Laing,Martin,Fife AC,M50,00:34:07
+21,Birnie,Andy,Bellahouston RR,M40,00:34:22
 22,Reid,Nick,Bellahouston RR,M,00:34:29
 23,Poll,Bruce,Lochaber AC,M,00:34:40
-24,Scott,David,Ochil,V50,00:34:41
-25,Simpson,Peter,Carnegie Harriers,V50,00:34:42
-26,Anderson,Russell,Moorfoot,V40,00:35:51
-27,Pryde,Gordon,Lomond HR,V50,00:36:01
-28,Neilson,Norman,Dumfries RC,V40,00:36:04
-29,Maxwell,Fiona,Shettleston,FV40,00:36:11
+24,Scott,David,Ochil,M50,00:34:41
+25,Simpson,Peter,Carnegie Harriers,M50,00:34:42
+26,Anderson,Russell,Moorfoot,M40,00:35:51
+27,Pryde,Gordon,Lomond HR,M50,00:36:01
+28,Neilson,Norman,Dumfries RC,M40,00:36:04
+29,Maxwell,Fiona,Shettleston,F40,00:36:11
 30,Holt,Luke,Solway,M,00:36:18
-31,Malcolmson,Craig,Dumfries RC,V40,00:36:21
-32,Horsefield,Richard,Dark Peak,V40,00:36:23
-33,Stevenson,Ben,Ochil,MU23,00:36:26
-34,Maxwell,Bill,Shettleston,V50,00:36:27
-35,Flynn,Martin,U/A,V50,00:36:47
+31,Malcolmson,Craig,Dumfries RC,M40,00:36:21
+32,Horsefield,Richard,Dark Peak,M40,00:36:23
+33,Stevenson,Ben,Ochil,M23,00:36:26
+34,Maxwell,Bill,Shettleston,M50,00:36:27
+35,Flynn,Martin,U/A,M50,00:36:47
 36,Walker,Craig,U/A,M,00:36:54
-37,Bass,Owen,Deeside,V40,00:36:57
-38,Reid,Don,Westerlands,V50,00:37:09
-39,Patterson,Malcolm,Shettleston,V50,00:37:19
-40,Fairgrieve,Andy,ADAC,V40,00:37:24
-41,Scott,Tom,Fife AC,V50,00:37:35
-42,Dickson,David,Garscube Harriers,V50,00:37:39
+37,Bass,Owen,Deeside,M40,00:36:57
+38,Reid,Don,Westerlands,M50,00:37:09
+39,Patterson,Malcolm,Shettleston,M50,00:37:19
+40,Fairgrieve,Andy,ADAC,M40,00:37:24
+41,Scott,Tom,Fife AC,M50,00:37:35
+42,Dickson,David,Garscube Harriers,M50,00:37:39
 43,Spence,Allan,ADAC,M,00:37:47
-44,Robson,John,ADAC,V50,00:37:49
-45,Milligan,Douglas,Solway,V60,00:38:19
-46,Pflanz,Sebastian,Dumfries RC,V40,00:38:21
-47,Macdonald,Kenny,Carnegie Harriers,V40,00:38:38
+44,Robson,John,ADAC,M50,00:37:49
+45,Milligan,Douglas,Solway,M60,00:38:19
+46,Pflanz,Sebastian,Dumfries RC,M40,00:38:21
+47,Macdonald,Kenny,Carnegie Harriers,M40,00:38:38
 48,Jones,David,U/A,M,00:38:39
 49,Love,Craig,Dundee,M,00:38:48
-50,Stevenson,John,Ochil,V40,00:38:50
-51,Irving,Roger,ADAC,V40,00:38:51
-52,Higginbottom,Jacqui,Carnethy,FV40,00:38:53
-53,Buchanan,Catriona,Central AC,FU23,00:38:56
-54,Murgatroyd,Ian,Solway,V40,00:39:00
-55,Mitchell,Dave,Dundee,V40,00:39:00
+50,Stevenson,John,Ochil,M40,00:38:50
+51,Irving,Roger,ADAC,M40,00:38:51
+52,Higginbottom,Jacqui,Carnethy,F40,00:38:53
+53,Buchanan,Catriona,Central AC,F23,00:38:56
+54,Murgatroyd,Ian,Solway,M40,00:39:00
+55,Mitchell,Dave,Dundee,M40,00:39:00
 56,Miller,Neil,U/A,M,00:39:13
-57,Mortlock,Simon,Dumfries RC,V40,00:39:23
+57,Mortlock,Simon,Dumfries RC,M40,00:39:23
 58,Birnie,Emma,Bellahouston RR,F,00:39:27
 59,Whitelaw,Mark,ADAC,M,00:39:59
 60,Finlay,Alayne,Ochil,F,00:40:01
-61,Duncan,David,Ochil,V50,00:40:04
-62,Wilson,Colin,Carnethy,V40,00:40:11
+61,Duncan,David,Ochil,M50,00:40:04
+62,Wilson,Colin,Carnethy,M40,00:40:11
 63,Begley,Tommy,Irvine AC,M,00:40:27
-64,Milne,Bruce,Carnethy,V40,00:40:27
+64,Milne,Bruce,Carnethy,M40,00:40:27
 65,Hossack,Colin,U/A,M,00:40:30
 66,Conway,Craig,Shettleston,M,00:40:31
-67,Byron,Marcus,Tynedale,V40,00:40:39
-68,Semple,Hamilton,Westerlands,V50,00:40:41
-69,Goldsworthy,John,Galloway Harriers,V50,00:41:03
-70,Riddell,Duncan,Maryhill Harriers,V40,00:41:16
-71,Green,Bob,Solway,V50,00:41:30
-72,Gilmour,Colin,U/A,V40,00:41:47
+67,Byron,Marcus,Tynedale,M40,00:40:39
+68,Semple,Hamilton,Westerlands,M50,00:40:41
+69,Goldsworthy,John,Galloway Harriers,M50,00:41:03
+70,Riddell,Duncan,Maryhill Harriers,M40,00:41:16
+71,Green,Bob,Solway,M50,00:41:30
+72,Gilmour,Colin,U/A,M40,00:41:47
 73,O'Connor,Michael,Carnethy,M,00:41:58
-74,Henderson,Stuart,Solway,V40,00:42:09
-75,Brennan,Brian,Westerlands,V50,00:42:13
-76,McLean,Herbie,Lothian,V60,00:42:19
+74,Henderson,Stuart,Solway,M40,00:42:09
+75,Brennan,Brian,Westerlands,M50,00:42:13
+76,McLean,Herbie,Lothian,M60,00:42:19
 77,Morrow,Robert,U/A,M,00:42:35
 78,Hutton,Paul,Carnegie Harriers,M,00:43:00
-79,Schreiber,Jo,Lochaber AC,FV40,00:43:13
-80,Hamilton,Anita,Cosmics,FV50,00:43:16
-81,Singh,Shirley,U/A,FV40,00:43:37
-82,Parker,Craig,Hardrock Harr,V40,00:44:00
+79,Schreiber,Jo,Lochaber AC,F40,00:43:13
+80,Hamilton,Anita,Cosmics,F50,00:43:16
+81,Singh,Shirley,U/A,F40,00:43:37
+82,Parker,Craig,Hardrock Harr,M40,00:44:00
 83,Reynolds,Colin,Carnegie Harriers,M,00:44:17
-84,Burt,Louise,Fife AC,FV40,00:44:53
-85,Scott,Jocelyn,Fife AC,FV50,00:44:55
-86,Murdoch,Ray,Lochaber AC,V60,00:45:08
-87,Noble,Lois,Cosmics,FV40,00:45:14
-88,Ritchie,Hillary,Fife AC,FV40,00:45:17
-89,Diver,Michael,Clydesdale,V40,00:45:27
-90,Love,Charlie,Dundee,V60,00:45:30
+84,Burt,Louise,Fife AC,F40,00:44:53
+85,Scott,Jocelyn,Fife AC,F50,00:44:55
+86,Murdoch,Ray,Lochaber AC,M60,00:45:08
+87,Noble,Lois,Cosmics,F40,00:45:14
+88,Ritchie,Hillary,Fife AC,F40,00:45:17
+89,Diver,Michael,Clydesdale,M40,00:45:27
+90,Love,Charlie,Dundee,M60,00:45:30
 91,Wilson,Alison,U/A,F,00:45:36
-92,Priestley,Nigel,ADAC,V50,00:45:47
-93,Friend,Kate,Carnethy,FV40,00:46:29
-94,Drain,Alex,Troon Tortoises,V50,00:46:36
-95,Pugh,Roderick,Kilmarnock,V50,00:46:57
-96,Smithard,Phil,Carnegie Harriers,V60,00:46:59
-97,West,Alison,Carnegie Harriers,FV50,00:47:05
-98,Gatehouse,Richard,Lomand HR,V50,00:47:16
-99,Wilson,Joan,Carnethy,FV40,00:47:27
-100,Downie,Tim,Troon Tortoises,V50,00:47:28
-101,Smith,Tilly,Deeside,FV40,00:47:31
+92,Priestley,Nigel,ADAC,M50,00:45:47
+93,Friend,Kate,Carnethy,F40,00:46:29
+94,Drain,Alex,Troon Tortoises,M50,00:46:36
+95,Pugh,Roderick,Kilmarnock,M50,00:46:57
+96,Smithard,Phil,Carnegie Harriers,M60,00:46:59
+97,West,Alison,Carnegie Harriers,F50,00:47:05
+98,Gatehouse,Richard,Lomand HR,M50,00:47:16
+99,Wilson,Joan,Carnethy,F40,00:47:27
+100,Downie,Tim,Troon Tortoises,M50,00:47:28
+101,Smith,Tilly,Deeside,F40,00:47:31
 102,Laidlaw,Anita,Fife AC,F,00:47:37
-103,Clark,Kenneth,U/A,V50,00:47:41
-104,Cromar,Steve,Dundee,V70,00:47:50
-105,Macdonald,Deborah,HBT,FV40,00:47:56
+103,Clark,Kenneth,U/A,M50,00:47:41
+104,Cromar,Steve,Dundee,M70,00:47:50
+105,Macdonald,Deborah,HBT,F40,00:47:56
 106,Milligan,Nicola,Bellahouston RR,F,00:47:59
 107,Fischer,Christine,Bellahouston RR,F,00:48:04
 108,Anderson,Joanne,Carnethy,F,00:48:10
@@ -111,30 +111,30 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 110,Harper,Brain,ADAC,M,00:48:40
 111,Gauld,Aaron,U/A,M,00:48:42
 112,Kelly,Samantha,U/A,F,00:49:02
-113,Milmoe,Michael,Forres Harr,V50,00:49:26
-114,Stokoe,Deborah,Westerlands,FU23,00:49:31
-115,Thin,Joanne,Carnethy,FV40,00:49:40
+113,Milmoe,Michael,Forres Harr,M50,00:49:26
+114,Stokoe,Deborah,Westerlands,F23,00:49:31
+115,Thin,Joanne,Carnethy,F40,00:49:40
 116,McNulty,Ian,Dundee,M,00:50:00
 117,Milligan,John,Bellahouston RR,M,00:50:04
-118,Davidson,Iain,Girvan,V40,00:50:37
-119,Macdonald,Rory,HBT,V50,00:50:41
-120,Evans,Neah,U/A,FU23,00:50:42
-121,Smith,Janice,HBT,FV50,00:51:01
+118,Davidson,Iain,Girvan,M40,00:50:37
+119,Macdonald,Rory,HBT,M50,00:50:41
+120,Evans,Neah,U/A,F23,00:50:42
+121,Smith,Janice,HBT,F50,00:51:01
 122,Magor,Maggie,Central AC,F,00:51:13
-123,Jardine,Jimmy,Lochaber AC,V60,00:51:16
-124,Bass,Ursula,Deeside,FV40,00:51:19
-125,Evans,Ros,U/A,FV50,00:51:40
-126,Anderson Snr,Adam,Dumfries RC,V60,00:52:07
-127,Winning,Jim,Beacon,V50,00:52:50
-128,Lloyd-Evans,Ann,Fife AC,FU23,00:52:53
-129,Robson,Jean,ADAC,FV50,00:53:58
-130,Plant,Ros,Dumfries RC,FV40,00:54:00
+123,Jardine,Jimmy,Lochaber AC,M60,00:51:16
+124,Bass,Ursula,Deeside,F40,00:51:19
+125,Evans,Ros,U/A,F50,00:51:40
+126,Anderson Snr,Adam,Dumfries RC,M60,00:52:07
+127,Winning,Jim,Beacon,M50,00:52:50
+128,Lloyd-Evans,Ann,Fife AC,F23,00:52:53
+129,Robson,Jean,ADAC,F50,00:53:58
+130,Plant,Ros,Dumfries RC,F40,00:54:00
 131,Paul,Brenda,Westerlands,F,00:55:39
-132,Oliver,Jane,Deeside,FV50,00:55:42
-133,Lemoncello,Phyllis,Fife AC,FV60,01:00:09
-134,Gibson,Phil,Galloway Harriers,V50,01:02:44
-135,Murdoch,Elma,Lochaber AC,FV50,01:04:44
+132,Oliver,Jane,Deeside,F50,00:55:42
+133,Lemoncello,Phyllis,Fife AC,F60,01:00:09
+134,Gibson,Phil,Galloway Harriers,M50,01:02:44
+135,Murdoch,Elma,Lochaber AC,F50,01:04:44
 136,Heron,Gregor,Carnethy,M,01:05:00
 137,Ascroft,Lorna,Carnethy,F,01:05:00
-138,Thomas,Ranjit,U/A,V40,01:05:00
+138,Thomas,Ranjit,U/A,M40,01:05:00
 139,Britton,James,Moorfoot,M,01:05:00

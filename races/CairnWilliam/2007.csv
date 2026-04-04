@@ -1,40 +1,40 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitehead,Dan,Cosmic HB,SM(1) Record,00:46:18
-2,Bartlett,Graeme,Forres Harrs,SM(2),00:48:21
-3,Greig,Kyle,Forres Harrs,SM(3),00:48:30
-4,Williamson,Jason,Cosmic HB,SM(4),00:48:34
-5,Varney,Keith,Cosmic HB,SVM(1),00:49:24
-6,Gooch,Daniel,Deeside Runs,SM(5),00:50:01
-7,Lorimer,Hayden,Hunters BT,SM(6),00:52:15
-8,McDonald,Dennis,Cosmic HB,VM(1),00:52:18
-9,Armitage,Sonia,Cosmic HB,VL(1) Record,00:53:51
-10,Hirst,David,Deeside Runs,VM(2),00:54:14
-11,Ingram,Barry,Fraserburgh,SM(7),00:54:27
-12,Bass,Owen,Deeside Runs,VM(3),00:54:44
-13,Smith,Stephen,Tri CG,SM(8),00:54:57
-14,Lang,Richard,Cosmic HB,SM(9),00:55:03
-15,Henry,Peter,Deeside Runs,SM(10),00:56:14
-16,McGregor,James,Garioch RR,VM(4),00:56:25
-17,Duncan,David,Ochil HR,SVM(2),00:57:26
-18,MacKenzie,Ruth,Deeside Runs,VL(2),00:57:34
-19,Hughes,Gary,Deeside Runs,SM(11),00:57:57
-20,Kennedy,Richard,Dundee,VM(5),00:58:08
-21,Milne,Graham,Unattached,SVM(3),00:58:27
-22,McLeod,Roddy,Metro Abdn,VM(6),00:59:25
-23,O'Sullivan,Sean,Cosmic HB,SM(12),01:00:52
-24,Colgrove,John,Cosmic HB,SVM(4),01:01:22
-25,Ingram,Jim,Fraserburgh,SVM(5),01:01:32
-26,Williams,Rupert,Unattached,VM(7),01:02:32
-27,Gutteridge,Gary,Cosmic HB,SVM(6),01:02:38
-28,Morrison,Graham,Unattached,VM(8),01:03:33
-29,Litterick,Tom,Aberdeen AAC,VM(9),01:04:11
-30,Davidson,Ian,Unattached,VM(10),01:04:29
-31,Taylor,Colin,Cosmic HB,VM(11),01:05:43
-32,Henderson,Bill,Carnethy,SVM(7),01:05:54
-33,Watson,Ralph,Unattached,VM(12),01:06:28
-34,Bryce,Murray,Cosmic HB,SVM(8),01:06:40
-35,Oliver,David,Deeside Runs,VM(13),01:08:52
-36,Ingram,Richard,Garioch RR,SM(13),01:10:13
-37,Clunas,Gillian,Cosmic HB,VL(3),01:15:13
-38,Martin,Clare,Deeside Runs,VL(4),01:15:59
-39,Oliver,Jane,Deeside Runs,VL(5),01:30:11
+1,Whitehead,Dan,Cosmic HB,M,00:46:18
+2,Bartlett,Graeme,Forres Harrs,M,00:48:21
+3,Greig,Kyle,Forres Harrs,M,00:48:30
+4,Williamson,Jason,Cosmic HB,M,00:48:34
+5,Varney,Keith,Cosmic HB,M,00:49:24
+6,Gooch,Daniel,Deeside Runs,M,00:50:01
+7,Lorimer,Hayden,Hunters BT,M,00:52:15
+8,McDonald,Dennis,Cosmic HB,M40,00:52:18
+9,Armitage,Sonia,Cosmic HB,F40,00:53:51
+10,Hirst,David,Deeside Runs,M40,00:54:14
+11,Ingram,Barry,Fraserburgh,M,00:54:27
+12,Bass,Owen,Deeside Runs,M40,00:54:44
+13,Smith,Stephen,Tri CG,F,00:54:57
+14,Lang,Richard,Cosmic HB,M,00:55:03
+15,Henry,Peter,Deeside Runs,M,00:56:14
+16,McGregor,James,Garioch RR,M40,00:56:25
+17,Duncan,David,Ochil HR,M40,00:57:26
+18,MacKenzie,Ruth,Deeside Runs,F40,00:57:34
+19,Hughes,Gary,Deeside Runs,M,00:57:57
+20,Kennedy,Richard,Dundee,M40,00:58:08
+21,Milne,Graham,Unattached,M40,00:58:27
+22,McLeod,Roddy,Metro Abdn,M40,00:59:25
+23,O'Sullivan,Sean,Cosmic HB,M,01:00:52
+24,Colgrove,John,Cosmic HB,M40,01:01:22
+25,Ingram,Jim,Fraserburgh,M40,01:01:32
+26,Williams,Rupert,Unattached,M40,01:02:32
+27,Gutteridge,Gary,Cosmic HB,M40,01:02:38
+28,Morrison,Graham,Unattached,M40,01:03:33
+29,Litterick,Tom,Aberdeen AAC,M40,01:04:11
+30,Davidson,Ian,Unattached,M40,01:04:29
+31,Taylor,Colin,Cosmic HB,M40,01:05:43
+32,Henderson,Bill,Carnethy,M40,01:05:54
+33,Watson,Ralph,Unattached,M40,01:06:28
+34,Bryce,Murray,Cosmic HB,M40,01:06:40
+35,Oliver,David,Deeside Runs,M40,01:08:52
+36,Ingram,Richard,Garioch RR,M40,01:10:13
+37,Clunas,Gillian,Cosmic HB,F40,01:15:13
+38,Martin,Clare,Deeside Runs,F40,01:15:59
+39,Oliver,Jane,Deeside Runs,F40,01:30:11

@@ -3,107 +3,107 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,Whitehead,Dan,Cosmic Hill Bashers,M,00:26:03
 3,Greig,Kyle,Forres Harriers,M,00:27:30
 4,Rennison,Chris,Pitreavie,M,00:27:54
-5,Crowe,Jamie,Dundee HH,J,00:28:10
-6,Cooper,Mark,Perth RR,MV,00:28:31
+5,Crowe,Jamie,Dundee HH,M16,00:28:10
+6,Cooper,Mark,Perth RR,M,00:28:31
 7,Williams,Phil,Central,M,00:28:39
 8,Winter,Stephen,Shettleston,M,00:28:40
-9,Buchanan,Peter,Portobello,MV,00:28:43
-10,Laing,Martin,Forfar AC,MSV,00:29:02
+9,Buchanan,Peter,Portobello,M,00:28:43
+10,Laing,Martin,Forfar AC,M40,00:29:02
 11,O'Brien,Chris,Corstorphine,M,00:29:14
-12,Scott,Tom,Forfar AC,MSV,00:29:16
-13,Phillips,Derek,Perth RR,MSV,00:29:19
-14,Walker,Craig,Unattached,MV,00:29:29
-15,Crowe,Des,Dundee HH,MV,00:29:31
+12,Scott,Tom,Forfar AC,M40,00:29:16
+13,Phillips,Derek,Perth RR,M40,00:29:19
+14,Walker,Craig,Unattached,M,00:29:29
+15,Crowe,Des,Dundee HH,M,00:29:31
 16,Anderson,Iain,Unattached,M,00:29:35
 17,Carrick,William,Two Scotts,M,00:29:46
-18,McKenzie,Donald,Lomond H,MV,00:29:49
+18,McKenzie,Donald,Lomond H,M,00:29:49
 19,Taylor,Ewan,Unattached,M,00:30:00
-20,McIntosh,Derek,Perth RR,MV,00:30:19
-21,Burns,Alan,Perth RR,MV,00:30:22
-22,Bennet,Sandy,Carnegie,MV,00:30:41
+20,McIntosh,Derek,Perth RR,M,00:30:19
+21,Burns,Alan,Perth RR,M,00:30:22
+22,Bennet,Sandy,Carnegie,M,00:30:41
 23,Love,Craig,Dundee HH,M,00:30:53
-24,Leonard,Paul,Dundee HH,MV,00:31:08
+24,Leonard,Paul,Dundee HH,M,00:31:08
 25,Johns,Andy,Kinross RR,M,00:31:13
 26,McNulty,Ian,Dundee HH,M,00:31:26
-27,Milne,Bruce,Carnethy,MV,00:31:31
-28,Dryden,Jimmy,Unattached,MV,00:31:33
+27,Milne,Bruce,Carnethy,M,00:31:31
+28,Dryden,Jimmy,Unattached,M,00:31:33
 29,Millington,Andrew,Perth RR,M,00:32:02
-30,Higginbottom,Jackie,Carnethy,FV,00:32:10
-31,Anderson,Laurie,Fife,MV,00:32:18
+30,Higginbottom,Jackie,Carnethy,F,00:32:10
+31,Anderson,Laurie,Fife,M,00:32:18
 32,Horsburgh,Steven,Unattached,M,00:32:22
-33,Mitchell,Dave,Dundee HH,MV,00:32:31
-34,Kerr,Stuart,Dundee HH,MSV,00:32:42
+33,Mitchell,Dave,Dundee HH,M,00:32:31
+34,Kerr,Stuart,Dundee HH,M40,00:32:42
 35,Mason,David,Lithgae H,M,00:32:44
 36,Blake,Sarah,Penicuik,F,00:32:51
-37,Low,John,Anster Haddies,MV,00:32:56
-38,Mason,Alan,Carnegie,MV,00:32:58
-39,Haig,Peter,Strathearn Harriers,MV,00:33:00
-40,Hanlon,Dave,Dundee HH,MSV,00:33:04
-41,Duncan,David,Ochil,MV,00:33:11
-42,Roberts,Clive,Unattached,MSV,00:33:17
+37,Low,John,Anster Haddies,M,00:32:56
+38,Mason,Alan,Carnegie,M,00:32:58
+39,Haig,Peter,Strathearn Harriers,M,00:33:00
+40,Hanlon,Dave,Dundee HH,M40,00:33:04
+41,Duncan,David,Ochil,M,00:33:11
+42,Roberts,Clive,Unattached,M40,00:33:17
 43,Orr,Gavid,Harmeny,M,00:33:32
-44,Wilson,Colin,Perth RR,MV,00:33:32
+44,Wilson,Colin,Perth RR,M,00:33:32
 45,Blake,Kate,Kinross RR,F,00:33:34
-46,Thompson,Fabian,Carnegie,FV,00:33:39
-47,Ross,Tom,Fife AC,MSV,00:33:42
+46,Thompson,Fabian,Carnegie,F,00:33:39
+47,Ross,Tom,Fife AC,M40,00:33:42
 48,Provan,Louise,Fife AC,F,00:33:51
-49,Frame,David,Tayside Orienteers,MSV,00:33:52
-50,Wooler,Grant,Perth RR,MV,00:33:59
+49,Frame,David,Tayside Orienteers,M40,00:33:52
+50,Wooler,Grant,Perth RR,M,00:33:59
 51,Irving,Ramond,Unattached,M,00:34:01
 52,Soutar,Darren,Unattached,M,00:34:02
-53,Dryden,Reggan,Unattached,J,00:34:03
-54,McIntosh,Colin,Anster H,MSV,00:34:05
-55,Semple,Hamilton,Westerlands,MSV,00:34:11
+53,Dryden,Reggan,Unattached,M16,00:34:03
+54,McIntosh,Colin,Anster H,M40,00:34:05
+55,Semple,Hamilton,Westerlands,M40,00:34:11
 56,Cooper,Meike,Perth RR,F,00:34:11
-57,Fitzpatrick,Pat,Ochil,MSV,00:34:18
+57,Fitzpatrick,Pat,Ochil,M40,00:34:18
 58,Sharp,Scott,Perth RR,M,00:34:20
-59,Derwent,David,Ochil,MV,00:34:33
-60,Smith,Bill,Fife AC,MV,00:34:43
-61,O'Brien,Paul,Corstorphine,MSV,00:34:47
+59,Derwent,David,Ochil,M,00:34:33
+60,Smith,Bill,Fife AC,M,00:34:43
+61,O'Brien,Paul,Corstorphine,M40,00:34:47
 62,Main,Alaster,Dundee HH,M,00:35:09
-63,Milne,Ron,Forfar RR,MSV,00:35:18
-64,Jablinski,Derek,Lomond,MSV,00:35:48
+63,Milne,Ron,Forfar RR,M40,00:35:18
+64,Jablinski,Derek,Lomond,M40,00:35:48
 65,Brown,Jamie,Unattached,M,00:35:53
-66,Ritchie,Hilary,Fife AC,FSV,00:35:58
+66,Ritchie,Hilary,Fife AC,F40,00:35:58
 67,Graham,Robyn,Fife AC,F,00:36:13
 68,McLay,Matt,Strathearn,M,00:36:21
-69,Ternent,Danny,Perth RR,MV,00:36:24
+69,Ternent,Danny,Perth RR,M,00:36:24
 70,Turner,David,Unattached,M,00:36:47
-71,Wordsworth,Andy,HBT,MV,00:36:47
-72,Scott,Jocelyn,Fife AC,FSV,00:36:51
-73,MacGuire,Jillian,Unattached,FV,00:37:09
+71,Wordsworth,Andy,HBT,M,00:36:47
+72,Scott,Jocelyn,Fife AC,F40,00:36:51
+73,MacGuire,Jillian,Unattached,F,00:37:09
 74,Weir,Jonathon,Unattached,M,00:37:10
-75,Nash,Simon,Central AC,MV,00:37:14
-76,Radley,Andrew,Perth SH,MV,00:37:14
-77,Wilson,Joan,Perth RR,FV,00:37:26
-78,Love,John,Dundee HH,MSV,00:37:29
-79,Bussey,James,Strathearn,MV,00:37:44
-80,Johnson,Alister,Unattached,MSV,00:38:01
+75,Nash,Simon,Central AC,M,00:37:14
+76,Radley,Andrew,Perth SH,M,00:37:14
+77,Wilson,Joan,Perth RR,F,00:37:26
+78,Love,John,Dundee HH,M40,00:37:29
+79,Bussey,James,Strathearn,M,00:37:44
+80,Johnson,Alister,Unattached,M40,00:38:01
 81,Gillian,William,Unattached,M,00:38:05
-82,Ritchie,Peter,Perth RR,MV,00:38:16
+82,Ritchie,Peter,Perth RR,M,00:38:16
 83,Jarvis,Laura,Unattached,F,00:38:27
 84,Monteith,Debrah,Carnethy,F,00:39:12
-85,Thornton,Robert,Perth RR,MSV,00:39:19
-86,Cromar,Steve,Dundee HH,MSV,00:39:20
-87,Buchan,Graham,Unattached,MV,00:39:31
-88,Evans,Catherine,Unattached,FV,00:39:51
-89,Francis,Dave,Fife AC,MV,00:39:58
-90,McCulbin,Ian,Lomond,MSV,00:40:05
-91,Douglas,Clare,Perth RR,FV,00:40:29
+85,Thornton,Robert,Perth RR,M40,00:39:19
+86,Cromar,Steve,Dundee HH,M40,00:39:20
+87,Buchan,Graham,Unattached,M,00:39:31
+88,Evans,Catherine,Unattached,F,00:39:51
+89,Francis,Dave,Fife AC,M,00:39:58
+90,McCulbin,Ian,Lomond,M40,00:40:05
+91,Douglas,Clare,Perth RR,F,00:40:29
 92,Crighton,Marian,Perth RR,F,00:40:33
 93,Meek,Frances,Fife AC,F,00:40:36
 94,Johnson,Sheila,Unattached,FVS,00:41:11
-95,Duncan,Roddy,Unattached,MV,00:41:16
-96,Sword,Laurence,Unattached,MV,00:41:29
-97,King,Alex,Ochil,MV,00:41:43
-98,Gillies,Elaine,Tayside Orienteers,FV,00:41:44
-99,Fraser,Ron,Unattached,MSV,00:41:45
-100,Venison,Graham,Fife AC,MSV,00:42:07
+95,Duncan,Roddy,Unattached,M,00:41:16
+96,Sword,Laurence,Unattached,M,00:41:29
+97,King,Alex,Ochil,M,00:41:43
+98,Gillies,Elaine,Tayside Orienteers,F,00:41:44
+99,Fraser,Ron,Unattached,M40,00:41:45
+100,Venison,Graham,Fife AC,M40,00:42:07
 101,Buchan,Ross,Unattached,M,00:43:23
-102,Cormack,Christine,Unattached,FV,00:44:45
-103,Start,Bob,Fife AC,MSV,00:45:43
-104,Dixon,Angela,Unattached,FSV,00:47:24
+102,Cormack,Christine,Unattached,F,00:44:45
+103,Start,Bob,Fife AC,M40,00:45:43
+104,Dixon,Angela,Unattached,F40,00:47:24
 105,Sullivan,Elizabeth,Unattached,F,00:52:31
-106,Sullivan,David,Deeside,MV,00:52:31
-107,West,Joanne,Unattached,FSV,00:54:04
-108,Fearan,Melaine,Unattached,FSV,00:54:04
+106,Sullivan,David,Deeside,M,00:52:31
+107,West,Joanne,Unattached,F40,00:54:04
+108,Fearan,Melaine,Unattached,F40,00:54:04

@@ -1,80 +1,80 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Haines,Hector,HBT,MS,02:40:42
-2,Anthony,Alasdair,Ochil,MS,02:42:13
-3,Harris,Mark,Lomond Hill Runners,MV,02:50:15
-4,Reid,Michael,Carnethy,MS,02:52:42
-5,Bellamy,Gwyn,Westies,MS,02:52:44
-6,Whitlie,Stewart,Carnethy,MSV,02:53:16
-7,Paris,Jasmin,Carnethy,FS,02:56:05
-8,Gilmore,Andrew,Carnethy,MS,02:57:01
-9,Riach,David,Westies,MV,03:09:31
-10,Smith,Alan,Deeside Runners,MSV,03:11:14
-11,Gay,Jon,Lochaber,MV,03:13:27
-12,White,David,Kilmarnock Harriers,MV,03:15:19
-13,Love,Craig,Dundee Hawkhill Harriers,MV,03:15:33
-14,Darlng,Chris,Lomond Hill Runners,MS,03:17:18
-15,Baum,Diane,Lochaber,FS,03:18:53
-16,Rowland,Ian,Dunbar,MSV,03:20:19
-17,Priestly,Andrea,Ochil,FV,03:20:25
-18,Dobson,Jacob,Kinross Road Runners,MS,03:22:02
-19,Cox,Andrew,Moorfoot Runners,MS,03:29:19
-20,Hardie,James,Carnethy,MS,03:29:37
-21,Malcolm,John,Lothian,MS,03:30:49
-22,Crozier,James,Lomond Hill Runners,MV,03:31:37
-23,Hynd,Will,Moorfoot Runners,MSV,03:31:59
-24,Robinson,Madeline,Helensburgh AAC,FS,03:32:35
-25,Watkins,Robin,Eden Runners,MS,03:34:59
-26,Preiss,Alastair,Ochil,MV,03:37:13
-27,McClelland,Morag,HBT,FS,03:37:53
-28,Andrew,Mike,Carnethy,MSV,03:39:01
-29,Peters,Steven,Dundee Road Runners,MS,03:39:50
-30,Bedson,Carl,Glossopdale,MV,03:41:46
-31,Mitchell,Dave,Dundee Hawkhill Harriers,MSV,03:43:49
-32,Scott,David,Ochil,MSV,03:46:01
-33,Duncan,David,Ochil,M60+,03:49:38
-34,Buchanan,Peter M,Ochil,MSV,03:49:39
-35,Gilmore,Neil,Carnethy,MSV,03:50:14
-36,Kenyon,Oliver,HBT,MS,03:50:15
-37,Gilmore,Iain,Carnethy,MS,03:55:37
-38,Renville,Alan,Carnethy,MV,03:55:41
-39,Cameron,Ewan,Unattached,MS,03:55:51
-40,Omand,Elaine,Dundee Road Runners,FS,03:56:22
-41,Thomas,Jamie,Dunbar,MS,03:56:35
-42,Jones,Matthew,Carnethy,MS,03:56:50
-43,Kelsall,Fiona,Ochil,FV,03:56:53
-44,Mahoney,Lorna,Milburn Harriers,FV,03:57:12
-45,Hartree,Mark,Carnethy,MV,03:58:16
-46,Ingram,Richard,Gairloch,MV,04:01:21
-47,King,Steven,Carnegie,MV,04:02:34
-48,Mitchell,Neill,Fife AC,MV,04:04:03
-49,Hetherington,Michelle,Helensburgh AAC,FSV,04:05:02
-50,Inman,Janine,Forth Valley Orienteers,FS,04:05:21
-51,McNeil,Gordon,Wee County Harriers,MV,04:06:51
-52,urquhart,john,Unattached,MV,04:07:27
-53,Dickson,David,Westies,MSV,04:07:37
-54,Baxter,Katy,Ochil,FS,04:08:20
-55,Schneider,Mike,Unattached,MS,04:12:20
-56,Stevenson,Jim,Beacon Runners,MV,04:14:27
-57,Turnbull,Billy,Wee County Harriers,MSV,04:15:27
-58,Sword,Lawrence,Unattached,MS,04:15:56
-59,Vencovsky,Daniel,Unattached,MS,04:16:06
-60,Rogers,David,Westies,MSV,04:16:43
-61,lyons,bob,Carnethy,MSV,04:21:24
-62,Frydrych,Thomas,Unattached,MV,04:22:52
-63,Johnson,Simon,Ochil,MV,04:23:40
-64,dooner,creagh,Unattached,MS,04:23:44
-65,Beedie,Iain,Lomond Hill Runners,MV,04:25:07
-66,Nash,Simon,Ochil,MV,04:26:25
-67,Gaff,Melanie,Lauderdale Limpers,FS,04:29:14
-68,Thomson,Iain,Carnegie,M60+,04:30:21
-69,McInally,John,Westies,MV,04:31:52
-70,Weir,Jonathan,Unattached,MS,04:39:13
-71,Butler,Thomas,Ochil,MV,04:45:01
-72,Dunnachie,Stephen,Unattached,MS,04:51:03
-73,Reid,Graeme,Unattached,MV,04:51:05
-74,Wallace,Craig,Vegan Runners,MS,04:53:00
-75,Bowie,Tom,Carnegie,M60+,05:02:05
-76,Furmage,George,Wee County Harriers,MS,05:06:38
-77,Wilson,Scott,Wee County Harriers,MV,05:06:40
-78,McAlpine,Roddy,Unattached,MSV,05:10:16
-79,Wray,Alex,Stirling Triathlon,MS,05:22:26
+1,Haines,Hector,HBT,M,02:40:42
+2,Anthony,Alasdair,Ochil,M,02:42:13
+3,Harris,Mark,Lomond Hill Runners,M,02:50:15
+4,Reid,Michael,Carnethy,M,02:52:42
+5,Bellamy,Gwyn,Westies,M,02:52:44
+6,Whitlie,Stewart,Carnethy,M40,02:53:16
+7,Paris,Jasmin,Carnethy,F,02:56:05
+8,Gilmore,Andrew,Carnethy,M,02:57:01
+9,Riach,David,Westies,M,03:09:31
+10,Smith,Alan,Deeside Runners,M40,03:11:14
+11,Gay,Jon,Lochaber,M,03:13:27
+12,White,David,Kilmarnock Harriers,M,03:15:19
+13,Love,Craig,Dundee Hawkhill Harriers,M,03:15:33
+14,Darlng,Chris,Lomond Hill Runners,M,03:17:18
+15,Baum,Diane,Lochaber,F,03:18:53
+16,Rowland,Ian,Dunbar,M40,03:20:19
+17,Priestly,Andrea,Ochil,F,03:20:25
+18,Dobson,Jacob,Kinross Road Runners,M,03:22:02
+19,Cox,Andrew,Moorfoot Runners,M,03:29:19
+20,Hardie,James,Carnethy,M,03:29:37
+21,Malcolm,John,Lothian,M,03:30:49
+22,Crozier,James,Lomond Hill Runners,M,03:31:37
+23,Hynd,Will,Moorfoot Runners,M40,03:31:59
+24,Robinson,Madeline,Helensburgh AAC,F,03:32:35
+25,Watkins,Robin,Eden Runners,M,03:34:59
+26,Preiss,Alastair,Ochil,M,03:37:13
+27,McClelland,Morag,HBT,F,03:37:53
+28,Andrew,Mike,Carnethy,M40,03:39:01
+29,Peters,Steven,Dundee Road Runners,M,03:39:50
+30,Bedson,Carl,Glossopdale,M,03:41:46
+31,Mitchell,Dave,Dundee Hawkhill Harriers,M40,03:43:49
+32,Scott,David,Ochil,M40,03:46:01
+33,Duncan,David,Ochil,M60,03:49:38
+34,Buchanan,Peter M,Ochil,M40,03:49:39
+35,Gilmore,Neil,Carnethy,M40,03:50:14
+36,Kenyon,Oliver,HBT,M,03:50:15
+37,Gilmore,Iain,Carnethy,M,03:55:37
+38,Renville,Alan,Carnethy,M,03:55:41
+39,Cameron,Ewan,Unattached,M,03:55:51
+40,Omand,Elaine,Dundee Road Runners,F,03:56:22
+41,Thomas,Jamie,Dunbar,M,03:56:35
+42,Jones,Matthew,Carnethy,M,03:56:50
+43,Kelsall,Fiona,Ochil,F,03:56:53
+44,Mahoney,Lorna,Milburn Harriers,F,03:57:12
+45,Hartree,Mark,Carnethy,M,03:58:16
+46,Ingram,Richard,Gairloch,M,04:01:21
+47,King,Steven,Carnegie,M,04:02:34
+48,Mitchell,Neill,Fife AC,M,04:04:03
+49,Hetherington,Michelle,Helensburgh AAC,F40,04:05:02
+50,Inman,Janine,Forth Valley Orienteers,F,04:05:21
+51,McNeil,Gordon,Wee County Harriers,M,04:06:51
+52,urquhart,john,Unattached,M,04:07:27
+53,Dickson,David,Westies,M40,04:07:37
+54,Baxter,Katy,Ochil,F,04:08:20
+55,Schneider,Mike,Unattached,M,04:12:20
+56,Stevenson,Jim,Beacon Runners,M,04:14:27
+57,Turnbull,Billy,Wee County Harriers,M40,04:15:27
+58,Sword,Lawrence,Unattached,M,04:15:56
+59,Vencovsky,Daniel,Unattached,M,04:16:06
+60,Rogers,David,Westies,M40,04:16:43
+61,lyons,bob,Carnethy,M40,04:21:24
+62,Frydrych,Thomas,Unattached,M,04:22:52
+63,Johnson,Simon,Ochil,M,04:23:40
+64,dooner,creagh,Unattached,M,04:23:44
+65,Beedie,Iain,Lomond Hill Runners,M,04:25:07
+66,Nash,Simon,Ochil,M,04:26:25
+67,Gaff,Melanie,Lauderdale Limpers,F,04:29:14
+68,Thomson,Iain,Carnegie,M60,04:30:21
+69,McInally,John,Westies,M,04:31:52
+70,Weir,Jonathan,Unattached,M,04:39:13
+71,Butler,Thomas,Ochil,M,04:45:01
+72,Dunnachie,Stephen,Unattached,M,04:51:03
+73,Reid,Graeme,Unattached,M,04:51:05
+74,Wallace,Craig,Vegan Runners,M,04:53:00
+75,Bowie,Tom,Carnegie,M60,05:02:05
+76,Furmage,George,Wee County Harriers,M,05:06:38
+77,Wilson,Scott,Wee County Harriers,M,05:06:40
+78,McAlpine,Roddy,Unattached,M40,05:10:16
+79,Wray,Alex,Stirling Triathlon,M,05:22:26

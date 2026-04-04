@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fraser,Scott,Edinburgh Uni,M,0:15:06 - Record
+1,Fraser,Scott,Edinburgh Uni,M,0:15:06
 2,Anthony,Alasdair,Ochil HR,M,0:15:13
 3,Strain,Murray,HBT,M,0:15:56
 4,Marshall,Brian,HELP,M,0:16:30
@@ -21,7 +21,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 20,McLeod,Mark,Moorfoot Runners,M,0:19:03
 21,Bennet,Sandy,Carnegie Harriers,M40,0:19:44
 22,Young,Archie,Treasury RC,M,0:19:45
-23,Bell-Scott,Rowena,Edinburgh Uni,F,0:19:47 - Record
+23,Bell-Scott,Rowena,Edinburgh Uni,F,0:19:47
 24,Gordon,Claire,HBT,F,0:19:52
 25,Fairgreave,Andy,Annan & District,M40,0:19:58
 26,Darlow,Tim,Carnethy,M,0:20:03

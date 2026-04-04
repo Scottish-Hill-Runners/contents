@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Love,C,Dundee Hawkhill,F,00:23:59
 13,Moreland,R,Anster Haddies,M,00:24:18
 14,MacDonald,K,Carnegie,M,00:24:27
-15,Hutson,L,Fife AC,MJ,00:24:40
+15,Hutson,L,Fife AC,M16,00:24:40
 16,Reid,S,Tayside Orienteers,M40,00:25:01
 17,Scott,T,Fife AC,M55,00:25:04
 18,Fraser,G,Ochil HR,M,00:25:12
@@ -24,12 +24,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 23,Duncan,D,Ochil HR,M50,00:26:47
 24,Hood,A,Fife AC,M50,00:26:54
 25,Law,W,Unatt,M,00:27:11
-26,Duff,Lucy,Fife AC,FJ,00:27:12
+26,Duff,Lucy,Fife AC,F16,00:27:12
 27,Bell-Scott,Rowena,Edinburgh Univ,F,00:27:28
 28,Brennan,R,Westerlands,M50,00:27:36
 29,Pennycook,S,Fife AC,M40,00:27:53
 30,Thompson,Fabienne,Carnegie,F40,00:27:56
-31,Thomson,A,Unatt,MJ,00:28:42
+31,Thomson,A,Unatt,M16,00:28:42
 32,Shepherd,D,Fife AC,M40,00:28:43
 33,Mallett,P,Lomond HR,M40,00:29:04
 34,Scott,Jocelyn,Fife AC,F55,00:29:06
@@ -39,17 +39,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Beveridge,B,Lomond HR,M60,00:30:00
 39,Friend,Kate,Carnethy HR,F40,00:30:40
 40,Maguire,K,Fife AC,M50,00:31:35
-41,Westland,Fern,Unatt,FJ,00:32:04
+41,Westland,Fern,Unatt,F16,00:32:04
 42,Smith,B,Unatt,M40,00:32:43
 43,Campbell,C,Perth RR,M50,00:33:40
 44,Dunbar,Rhona,Unatt,F,00:34:07
 45,Scott,J,Fife AC,M65,00:34:45
 46,Stark,B,Fife AC,M65,00:35:08
-47,McLeod,R,Unatt,MJ,00:35:19
-48,Russell,M,Unatt,MJ,00:36:38
-49,Cook,M,Unatt,MJ,00:37:01
+47,McLeod,R,Unatt,M16,00:35:19
+48,Russell,M,Unatt,M16,00:36:38
+49,Cook,M,Unatt,M16,00:37:01
 50,Crawford,R,Fife AC,M50,00:41:08
-51,Wilkie,D,Unatt,MJ,00:43:05
+51,Wilkie,D,Unatt,M16,00:43:05
 52,Hay,Debz,Anster Haddies,F35,00:43:24
 53,Hay,G,Anster Haddies,M40,00:43:25
 54,Thornton,B,Fife AC,M50,late start

@@ -13,7 +13,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Simpson,Stuart,Stornoway AC,M,0:21:47
 13,Bennet,Sandy,Unattached,M40,0:22:04
 14,Robertson,Brian,Arran Runners,M40,0:22:12
-15,Simpson,Elliot,Fife AC,MJ,0:22:13
+15,Simpson,Elliot,Fife AC,M16,0:22:13
 16,Smith,Bruce,Carnethy,M40,0:22:19
 17,Carracher,Graeme,Carnethy,M40,0:22:22
 18,Spenceley,Andy,Carnethy,M40,0:22:27
@@ -40,11 +40,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 39,Wombwell,Stephen,Beacon Runners,M40,0:23:59
 40,Reid,Don,Westerlands,M40,0:24:05
 41,MacLeod,Murdo,Westerlands,M50,0:24:10
-42,Evans,Andrew,Fife AC,MJ,0:24:16
+42,Evans,Andrew,Fife AC,M16,0:24:16
 43,Buchanan,Peter,Ochil Hill Runners,M40,0:24:20
 44,Roberts,Clive,Fife AC,M40,0:24:24
 45,Hunter,Andrew,Carnegie Harriers,M40,0:24:25
-46,Harley,Mark,Fife AC,MJ,0:24:32
+46,Harley,Mark,Fife AC,M16,0:24:32
 47,Wilson,Colin,Lomond Hill Runners,M40,0:24:36
 48,Anthony,Eilidh,HBT,F,0:24:42
 49,Knowles,Stuart,Fife AC,M50,0:24:43
@@ -63,7 +63,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 62,Lang,James,Carnegie Harriers,M40,0:27:14
 63,Love,Charlie,Dundee Hawkhill,M60,0:27:17
 64,Noble,Lois,Cosmics,F40,0:27:46
-65,Wombwell,Peter,Beacon Runners,MJ,0:27:46
+65,Wombwell,Peter,Beacon Runners,M16,0:27:46
 66,Johnston,Stephen,Milburn Harriers,M40,0:28:27
 67,O`Brien,Phyllis,HBT,F40,0:28:29
 68,Robertson,Jane,Westerlands,F40,0:28:30
@@ -74,10 +74,10 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 73,Smith,Donald,Westerlands,M50,0:28:47
 74,West,Alison,Carnegie Harriers,F50,0:28:55
 75,Curtis,Briony,HBT,F,0:29:17
-76,Aitken,Martha,Carnethy,FJ,0:29:43
+76,Aitken,Martha,Carnethy,F16,0:29:43
 77,McManus,Ian,Irvine RC,M50,0:29:55
 78,Murdoch,George,Carnegie Harriers,M,0:29:58
-79,Aitken,Evie,Carnethy,FJ,0:29:59
+79,Aitken,Evie,Carnethy,F16,0:29:59
 80,Davidson,Iain,Girvan Harriers,M40,0:30:08
 81,Nimmo,Anne,Carnethy,F50,0:30:09
 82,Beveridge,Bob,Lomond Hill Runners,M60,0:30:37
@@ -86,7 +86,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 85,Turnbull,Drew,Westerlands,M60,0:31:27
 86,Nairns,William,Ochil Hill Runners,M,0:33:10
 87,Bennet,Bill,Penicuik Harriers,M60,0:33:52
-88,Stokoe,Deborah,Westerlands,FJ,0:34:01
+88,Stokoe,Deborah,Westerlands,F16,0:34:01
 89,Benny,Graham,Westerlands,M50,0:34:05
 90,King,Alex,Ochil Hill Runners,M40,0:34:18
 91,Nimmo,Ian,Carnethy,M60,0:34:27

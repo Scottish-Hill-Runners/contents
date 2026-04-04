@@ -1,101 +1,101 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Haines,Hector,HBT,Senior,00:19:01
-2,Gilmore,Andrew,Carnethy,Senior,00:19:02
-3,Whiteside,Iain,Carnethy,Senior,00:19:17
-4,Gay,Dan,HBT,Senior,00:19:27
-5,Chepelin,Oleg,Shettleston,Senior,00:19:39
-6,Rawlik,Konrad,Carnethy,Senior,00:19:42
-7,Bellamy,Gwyn,Westerlands,Senior,00:19:42
-8,Stewart,Iain,Westerlands,Senior,00:19:55
-9,Normand,Andy,Carnethy,Senior,00:20:00
-10,Johnston,Fergus,Gala,Senior,00:20:09
-11,Martin,Tom,Edinburgh Uni,Senior,00:20:26
-12,Gilmore,Iain,Carnethy,Senior,00:20:27
-13,Wilson,Harry,U/A,Senior,00:20:36
-14,McAlinden,Niall,Westerlands,Senior,00:20:54
-15,Smith,Alan,Deeside,V50,00:20:57
-16,Fraser,Gary,Ochils,V40,00:21:01
-17,O'Neill,Owen,Westerlands,Senior,00:21:03
-18,Mardall,Nick,Deeside,V40,00:21:20
-19,Stevenson,John,Ochils,V50,00:21:35
-20,McVey,Alex,Carnethy,Senior,00:21:45
-21,Colhoun,Neil,Edinburgh Uni,Senior,00:21:56
-22,Gilkison,Alan,Westerlands,V40,00:21:59
-23,McAdam,Bruce,Carnethy,Senior,00:22:21
-24,Davies,Adrian,Carnethy,V50,00:22:32
-25,Mackie,Peter,Shettleston,Senior,00:22:33
-26,Gilmore,Neil,Carnethy,V50,00:22:35
-27,Longstaff,Chris,Carnethy,Senior,00:22:55
-28,Boyd,Euan,Carnethy,Senior,00:22:59
-29,Ryan,John,Carnethy,Senior,00:23:03
-30,Titmuss,Simon,Carnethy,V40,00:23:09
-31,Bucciarello,Gabriele,Edinburgh AC,Senior,00:23:17
-32,Sylvester,Joel,Carnethy,V40,00:23:19
-33,McLelland,Peter,HBT,Senior,00:23:20
-34,Campbell,Donald,U/A,Senior,00:23:21
-35,Hastie,Neil,HELP,V40,00:23:31
-36,Balfour,Eddie,HELP,V40,00:23:31
-37,Whiteford,Kenny,Peebles RC,V40,00:23:32
-38,Wordsley,Steven,Highland HR,V50,00:23:42
-39,Brooks,Mike,Penicuik,V40,00:23:44
-40,Saltums,Arnis,Westerlands,Senior,00:23:47
-41,Flett,Rob,HBT,V40,00:23:50
-42,Easson,Euan,U/A,Senior,00:24:06
-43,Peters,Steven,Dundee RR,Senior,00:24:07
-44,Lloyd,Amelia,HBT,Fsenior,00:24:10
-45,Renville,Allan,U/A,Senior,00:24:17
-46,Fraser,John,U/A,V50,00:24:18
-47,Wilson,Rob,Penicuik,V40,00:24:19
-48,Riddle,Duncan,Westerlands,V40,00:24:23
-49,Hope-Jones,David,HBT,Senior,00:24:31
-50,Anderson,Russell,Moorfoots,V50,00:24:32
-51,Wardlaw,Eilidh,HBT,Fsenior,00:24:38
-52,Gibson,Fraser,Carnethy,Senior,00:24:42
-53,Waterhouse,Bob,Carnethy,V60,00:24:44
-54,Davies,Duncan,Carnethy,V40,00:24:45
-55,Slacjgs,Paul,U/A,Senior,00:24:47
-56,Reid,Don,Westerlands,V50,00:24:48
-57,Kravcpvs,Robert,Westerlands,Senior,00:24:49
-58,Brown,Jamie,HBT,Senior,00:24:49
-59,Erskine,Alex,Carnethy,V40,00:25:03
-60,Beacjoch,Gregor,U/A,Senior,00:25:17
-61,Campbell,Callum,Corstorphine,Junior,00:25:30
-62,Fitzpatrick,Pat,Ochils,V60,00:25:38
-63,Adam,Sarah,Westerlands,Fsenior,00:25:55
-64,Miller,Stephen,Carnethy,Senior,00:25:57
-65,Twigg,Martin,HBT,V40,00:26:00
-66,Anderson,Kevin,Penicuik,V40,00:26:02
-67,Brodie,Stuart,Ochils,Senior,00:26:04
-68,Connor,Julia,Tinto,FV40,00:26:06
-69,Hulme,Martin,Corstorphine,V60,00:26:16
-70,Donnolly,John,Westerlands,V40,00:26:17
-71,Mardtree,Mark,Carnethy,V40,00:26:18
-72,Wise,Helen,Carnethy,Fsenior,00:26:20
-73,Duncan,Davie,Ochils,V50,00:26:21
-74,Sword,Lawrence,U/A,V40,00:26:25
-75,Mountford,Chris,Corstorphine,Senior,00:26:52
-76,Burns,Keith,Carnethy,V70,00:26:53
-77,Gibson,Willie,Carnethy,V50,00:25:54
-78,Chapman,Mark,Carnethy,V40,00:27:00
-79,Lee,Phil,U/A,Senior,00:27:06
-80,Mass,Digby,Carnethy,V60,00:27:13
-81,Hartman,Heather,Interlopers,FV40,00:27:23
-82,Howie,Brian,Carnethy,V60,00:28:00
-83,Bowman,Gus,Lomond Hill Runners,V50,00:28:41
-84,Bouchier,Shane,Carnethy,Senior,00:29:07
-85,Kemp,Sadie,Penicuik,Fsenior,00:29:29
-86,Dunn,Nicola,Carnethy,FV40,00:29:44
-87,Craig,Wilson,U/A,Senior,00:30:23
-88,Campbell,Iain,HBT,V40,00:30:00
-89,Weston,Anna,HBT,Fsenior,00:30:37
-90,Ascroft,Lorna,Carnethy,Fsenior,00:30:42
-91,Smith,Janice,HBT,FV50,00:30:48
-92,Butter,Thomas,Ochils,V40,00:30:50
-93,Maxwell,Susie,Penicuik,Fsenior,00:31:37
-94,Ingham,Cali,Carnethy,FV50,00:31:44
-95,Bowman,Jean,Lomond Hill Runners,FV50,00:32:11
-96,Fraser,Ken,Dundee RR,V50,00:34:08
-97,Barnes,Andy,Carnethy,V40,00:34:17
-98,Mowat,Mary,U/A,Fsenior,00:34:33
-99,Wadsworth,Andy,HBT,V50,00:36:09
-100,Strain,Shiela,East Lothian Orienteers,FV60,00:36:32
+1,Haines,Hector,HBT,M,00:19:01
+2,Gilmore,Andrew,Carnethy,M,00:19:02
+3,Whiteside,Iain,Carnethy,M,00:19:17
+4,Gay,Dan,HBT,M,00:19:27
+5,Chepelin,Oleg,Shettleston,M,00:19:39
+6,Rawlik,Konrad,Carnethy,M,00:19:42
+7,Bellamy,Gwyn,Westerlands,M,00:19:42
+8,Stewart,Iain,Westerlands,M,00:19:55
+9,Normand,Andy,Carnethy,M,00:20:00
+10,Johnston,Fergus,Gala,M,00:20:09
+11,Martin,Tom,Edinburgh Uni,M,00:20:26
+12,Gilmore,Iain,Carnethy,M,00:20:27
+13,Wilson,Harry,U/A,M,00:20:36
+14,McAlinden,Niall,Westerlands,M,00:20:54
+15,Smith,Alan,Deeside,M50,00:20:57
+16,Fraser,Gary,Ochils,M40,00:21:01
+17,O'Neill,Owen,Westerlands,M,00:21:03
+18,Mardall,Nick,Deeside,M40,00:21:20
+19,Stevenson,John,Ochils,M50,00:21:35
+20,McVey,Alex,Carnethy,M,00:21:45
+21,Colhoun,Neil,Edinburgh Uni,M,00:21:56
+22,Gilkison,Alan,Westerlands,M40,00:21:59
+23,McAdam,Bruce,Carnethy,M,00:22:21
+24,Davies,Adrian,Carnethy,M50,00:22:32
+25,Mackie,Peter,Shettleston,M,00:22:33
+26,Gilmore,Neil,Carnethy,M50,00:22:35
+27,Longstaff,Chris,Carnethy,M,00:22:55
+28,Boyd,Euan,Carnethy,M,00:22:59
+29,Ryan,John,Carnethy,M,00:23:03
+30,Titmuss,Simon,Carnethy,M40,00:23:09
+31,Bucciarello,Gabriele,Edinburgh AC,M,00:23:17
+32,Sylvester,Joel,Carnethy,M40,00:23:19
+33,McLelland,Peter,HBT,M,00:23:20
+34,Campbell,Donald,U/A,M,00:23:21
+35,Hastie,Neil,HELP,M40,00:23:31
+36,Balfour,Eddie,HELP,M40,00:23:31
+37,Whiteford,Kenny,Peebles RC,M40,00:23:32
+38,Wordsley,Steven,Highland HR,M50,00:23:42
+39,Brooks,Mike,Penicuik,M40,00:23:44
+40,Saltums,Arnis,Westerlands,M,00:23:47
+41,Flett,Rob,HBT,M40,00:23:50
+42,Easson,Euan,U/A,M,00:24:06
+43,Peters,Steven,Dundee RR,M,00:24:07
+44,Lloyd,Amelia,HBT,F,00:24:10
+45,Renville,Allan,U/A,M,00:24:17
+46,Fraser,John,U/A,M50,00:24:18
+47,Wilson,Rob,Penicuik,M40,00:24:19
+48,Riddle,Duncan,Westerlands,M40,00:24:23
+49,Hope-Jones,David,HBT,M,00:24:31
+50,Anderson,Russell,Moorfoots,M50,00:24:32
+51,Wardlaw,Eilidh,HBT,F,00:24:38
+52,Gibson,Fraser,Carnethy,M,00:24:42
+53,Waterhouse,Bob,Carnethy,M60,00:24:44
+54,Davies,Duncan,Carnethy,M40,00:24:45
+55,Slacjgs,Paul,U/A,M,00:24:47
+56,Reid,Don,Westerlands,M50,00:24:48
+57,Kravcpvs,Robert,Westerlands,M,00:24:49
+58,Brown,Jamie,HBT,M,00:24:49
+59,Erskine,Alex,Carnethy,M40,00:25:03
+60,Beacjoch,Gregor,U/A,M,00:25:17
+61,Campbell,Callum,Corstorphine,M16,00:25:30
+62,Fitzpatrick,Pat,Ochils,M60,00:25:38
+63,Adam,Sarah,Westerlands,F,00:25:55
+64,Miller,Stephen,Carnethy,M,00:25:57
+65,Twigg,Martin,HBT,M40,00:26:00
+66,Anderson,Kevin,Penicuik,M40,00:26:02
+67,Brodie,Stuart,Ochils,M,00:26:04
+68,Connor,Julia,Tinto,F40,00:26:06
+69,Hulme,Martin,Corstorphine,M60,00:26:16
+70,Donnolly,John,Westerlands,M40,00:26:17
+71,Mardtree,Mark,Carnethy,M40,00:26:18
+72,Wise,Helen,Carnethy,F,00:26:20
+73,Duncan,Davie,Ochils,M50,00:26:21
+74,Sword,Lawrence,U/A,M40,00:26:25
+75,Mountford,Chris,Corstorphine,M,00:26:52
+76,Burns,Keith,Carnethy,M70,00:26:53
+77,Gibson,Willie,Carnethy,M50,00:25:54
+78,Chapman,Mark,Carnethy,M40,00:27:00
+79,Lee,Phil,U/A,M,00:27:06
+80,Mass,Digby,Carnethy,M60,00:27:13
+81,Hartman,Heather,Interlopers,F40,00:27:23
+82,Howie,Brian,Carnethy,M60,00:28:00
+83,Bowman,Gus,Lomond Hill Runners,M50,00:28:41
+84,Bouchier,Shane,Carnethy,M,00:29:07
+85,Kemp,Sadie,Penicuik,F,00:29:29
+86,Dunn,Nicola,Carnethy,F40,00:29:44
+87,Craig,Wilson,U/A,M,00:30:23
+88,Campbell,Iain,HBT,M40,00:30:00
+89,Weston,Anna,HBT,F,00:30:37
+90,Ascroft,Lorna,Carnethy,F,00:30:42
+91,Smith,Janice,HBT,F50,00:30:48
+92,Butter,Thomas,Ochils,M40,00:30:50
+93,Maxwell,Susie,Penicuik,F,00:31:37
+94,Ingham,Cali,Carnethy,F50,00:31:44
+95,Bowman,Jean,Lomond Hill Runners,F50,00:32:11
+96,Fraser,Ken,Dundee RR,M50,00:34:08
+97,Barnes,Andy,Carnethy,M40,00:34:17
+98,Mowat,Mary,U/A,F,00:34:33
+99,Wadsworth,Andy,HBT,M50,00:36:09
+100,Strain,Shiela,East Lothian Orienteers,F60,00:36:32

@@ -18,13 +18,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Sedman,Eliot,Carnethy HRC,M,00:37:36
 18,Gilmore,Iain,Carnethy HRC,M,00:37:53
 19,Stansfield,Daniel,Unattached,M,00:38:14
-20,Lang,Naomi,Unattached,Open,00:38:16
-21,Laverick,Ben,Unattached,Open,00:38:21
+20,Lang,Naomi,Unattached,M,00:38:16
+21,Laverick,Ben,Unattached,M,00:38:21
 22,Phillips,George,Westerlands CCC,M,00:38:22
 23,Drummond,Fraser,Unattached,M,00:38:36
 24,Ward,Dave,Unattached,M40,00:38:39
-25,Wainwright,Sam,Ochil Hill Runners,Open,00:38:39
-26,MacLeod,James,Garscube Harriers,Open,00:38:44
+25,Wainwright,Sam,Ochil Hill Runners,M,00:38:39
+26,MacLeod,James,Garscube Harriers,M,00:38:44
 27,Anderson,Darroch,Glasgow Uni H&H,M,00:38:46
 28,Gurling,Sam,Glasgow Uni H&H,M,00:39:26
 29,Ring,Josh,Unattached,M,00:39:27
@@ -77,7 +77,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 76,Bennett,Sally,Unattached,F,00:45:44
 77,Wilson,Emma,Garscube Harriers,F,00:45:56
 78,Bell,Rory,Edinburgh Uni Tri Club,M,00:45:56
-79,King,Steven,Carnegie Harriers,Open,00:45:59
+79,King,Steven,Carnegie Harriers,M,00:45:59
 80,Mooney,Edel,Ochil Hill Runners,F40,00:45:59
 81,Dowse,Dave,Unattached,M40,00:46:06
 82,Craig,John,Shettleston Harriers,M,00:46:08

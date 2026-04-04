@@ -2,7 +2,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,MacCorquodale,Iain,Cambuslang Harriers,M,0:31:22
 2,Alexander,Sam,Westerlands,M,0:31:48
 3,Britton,James,Carnethy,M,0:32:18
-4,Harris,Tom,Fife AC,J,0:32:20
+4,Harris,Tom,Fife AC,M16,0:32:20
 5,Russell,Robert,Central AC,M,0:33:06
 6,Gomersall,Tim,Highland Hill Runners,M,0:33:08
 7,Wallace,David,Ochil Hill Runners,M40,0:34:16
@@ -23,7 +23,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 22,Gray,Patrick,Unattached,M,0:38:55
 23,Clark,Dave,Falkland Trail Runners,M,0:38:56
 24,Matthews,Steve,Dundee Hawkhill,M40,0:39:32
-25,Fullerton,Scott,Unattached,MJ,0:39:47
+25,Fullerton,Scott,Unattached,M16,0:39:47
 26,Watson,Dan,Lochtayside,M40,0:40:39
 27,Macdougall,Colin,Tinto Hill Runners,M40,0:40:47
 28,Wallis,Dirk,Deeside Runners,M40,0:40:48
@@ -32,7 +32,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 31,O'Shea,Feergal,Unattached,M,0:41:30
 32,Reid,Don,Westerlands,M60,0:41:34
 33,Wheeler,Mark,Hamilton Harriers,M40,0:41:36
-34,Fullerton,Aaron,Unattached,J,0:42:10
+34,Fullerton,Aaron,Unattached,M16,0:42:10
 35,Rendall,Samantha,Deeside Runners,F40,0:41:11
 36,Gomersall,Sam,Cosmics,M50,0:42:13
 37,Shaw,Trevor,Lochtayside,M50,0:42:14

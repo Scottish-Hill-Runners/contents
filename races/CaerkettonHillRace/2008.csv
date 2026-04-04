@@ -1,75 +1,75 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Al,Ochils,Sen,00:12:47
-2,Strain,Murray,HBT,Sen,00:13:04
-3,Ward,Adam,Carnethy,V40,00:13:56
-4,Fallon,Steven,Carnethy,V40,00:14:14
-5,Hart,Al,HBT,Sen,00:14:25
-6,Gallagher,Ronnie,Carnethy,V40,00:14:47
-7,Spenceley,Andy,Carnethy,V40,00:14:53
-8,Smith,Bruce,Carnethy,V40,00:14:58
-9,Faulkner,Paul,U/A,Sen,00:15:10
-10,Ashcroft,Jon,Carnethy,Sen,00:15:12
-11,Thin,Jamie,HBT,V40,00:15:21
-12,Dean,Martin,Forth Valley Orienteers,V50,00:15:24
-13,Konrad,Rawlik,U/A,Sen,00:15:26
-14,Glencourse,Colin,Strathearn Harrier,Sen,00:15:32
-15,Ryan,Tom,Edinburgh AC,Sen,00:15:45
-16,Felter,Johannes,U/A,Sen,00:15:55
-17,Anderson,Russell,Moorfoots,V40,00:15:57
-18,McBurney,Craig,HBT,Sen,00:16:01
-19,Reid,Don,Westies,V50,00:16:04
-20,Ritchie,Paul,Carnethy,V40,00:16:07
-21,Carracher,Graeme,Carnethy,V40,00:16:31
-22,Heran,Kyle,Forth Valley Orienteers,Sen,00:16:36
-23,Rodgers,David,Westies,V40,00:16:39
-24,Beclett,Don,HBT,Sen,00:16:42
-25,Gordon,Claire,HBT,Female,00:16:44
-26,Novmand,Ivar,HBT,V40,00:16:57
-27,Millard,Andy,Carnethy,Sen,00:17:06
-28,Mair,Will,HBT,Sen,00:17:12
-29,Mash,Rupert,HBT,Sen,00:17:15
-30,MacDonald,Graham,U/A,Sen,00:17:26
-31,Hubert,Peter,Corstorphine,Sen,00:17:28
-32,Wedworth,Graham,U/A,Sen,00:17:35
-33,Paton,Derek,Carnethy,Sen,00:17:37
-34,Evsline,Alex,U/A,V40,00:17:39
-35,Adkin,Scout,Moorfoots,Female,00:17:51
-36,Bell,David,HELP,Sen,00:17:53
-37,Shepard,Andrew,Carnethy,V40,00:17:57
-38,Gamble,Lisa,HBT,Female,00:18:09
-39,Jarvis,James,HBT,Sen,00:18:17
-40,Waterhouse,Bob,Carnethy,V50,00:18:18
-41,Duncan,David,Ochils,V50,00:18:19
-42,Cross,Jon,Forth Valley Orienteers,V40,00:18:36
-43,Howie,Brian,Carnethy,V50,00:18:48
-44,Nimmo,Camus,Carnethy,Sen,00:18:52
-45,Scott,Eddie,U/A,Sen,00:18:56
-46,Burns,Keith,Carnethy,V60,00:18:59
-47,Telfar,John,Keswick,V40,00:19:13
-48,Ludahy,Mike,U/A,Sen,00:19:17
-49,Green,Andy,Pennine Fell Runners,Sen,00:19:21
-50,Caban,Paul,Ferranti,V40,00:19:25
-51,Campbell,Ian,HBT,V40,00:19:55
-52,Campbell,Neil,Carnegie,V40,00:19:58
-53,Lamont,Mike,Moorfoots,V40,00:20:08
-54,Wardsworth,Andy,HBT,V40,00:20:16
-55,Lawrie,Fiona,U/A,Female,00:20:19
-56,Ledlie,Colin,Carnethy,V40,00:20:21
-57,Hussey,Rosalind,EUOC,Female,00:20:28
-58,Milligan,John,Bellahouston,Sen,00:20:32
-59,Strain,Kirsteen,Hares & Hounds,Female,00:20:39
-60,Dunn,John,U/A,Sen,00:20:41
-61,Provan,Lousie,HBT,Female,00:20:46
-62,West,Alison,Carnegie,FV50,00:20:52
-63,Brown,Nicholas,Corstorphine,Sen,00:20:58
-64,Young,Archie,U/A,V60,00:21:01
-65,Wall,Dick,HBT,V50,00:21:17
-66,Batterham,Jessica,HBT,Female,00:21:45
-67,Maxwell,Susie,Penicuik Harriers,Female,00:21:46
-68,Milligan,Nicola,Bellahouston,Female,00:22:07
-69,Sandbach,John,Bellahouston,V40,00:22:08
-70,Kennedy,Nancy,Lochabar,FV50,00:22:09
-71,Spalding,Maggie,HBT,Female,00:22:35
-72,McManus,Ian,Irvine AC,V60,00:23:18
-73,Strain,Sheila,East Lothian Orienteers,FV50,00:25:14
-74,Smithson,Rik,HBT,Sen,00:26:37
+1,Anthony,Al,Ochils,M,00:12:47
+2,Strain,Murray,HBT,M,00:13:04
+3,Ward,Adam,Carnethy,M40,00:13:56
+4,Fallon,Steven,Carnethy,M40,00:14:14
+5,Hart,Al,HBT,M,00:14:25
+6,Gallagher,Ronnie,Carnethy,M40,00:14:47
+7,Spenceley,Andy,Carnethy,M40,00:14:53
+8,Smith,Bruce,Carnethy,M40,00:14:58
+9,Faulkner,Paul,U/A,M,00:15:10
+10,Ashcroft,Jon,Carnethy,M,00:15:12
+11,Thin,Jamie,HBT,M40,00:15:21
+12,Dean,Martin,Forth Valley Orienteers,M50,00:15:24
+13,Konrad,Rawlik,U/A,M,00:15:26
+14,Glencourse,Colin,Strathearn Harrier,M,00:15:32
+15,Ryan,Tom,Edinburgh AC,M,00:15:45
+16,Felter,Johannes,U/A,M,00:15:55
+17,Anderson,Russell,Moorfoots,M40,00:15:57
+18,McBurney,Craig,HBT,M,00:16:01
+19,Reid,Don,Westies,M50,00:16:04
+20,Ritchie,Paul,Carnethy,M40,00:16:07
+21,Carracher,Graeme,Carnethy,M40,00:16:31
+22,Heran,Kyle,Forth Valley Orienteers,M,00:16:36
+23,Rodgers,David,Westies,M40,00:16:39
+24,Beclett,Don,HBT,M,00:16:42
+25,Gordon,Claire,HBT,F,00:16:44
+26,Novmand,Ivar,HBT,M40,00:16:57
+27,Millard,Andy,Carnethy,M,00:17:06
+28,Mair,Will,HBT,M,00:17:12
+29,Mash,Rupert,HBT,M,00:17:15
+30,MacDonald,Graham,U/A,M,00:17:26
+31,Hubert,Peter,Corstorphine,M,00:17:28
+32,Wedworth,Graham,U/A,M,00:17:35
+33,Paton,Derek,Carnethy,M,00:17:37
+34,Evsline,Alex,U/A,M40,00:17:39
+35,Adkin,Scout,Moorfoots,F,00:17:51
+36,Bell,David,HELP,M,00:17:53
+37,Shepard,Andrew,Carnethy,M40,00:17:57
+38,Gamble,Lisa,HBT,F,00:18:09
+39,Jarvis,James,HBT,M,00:18:17
+40,Waterhouse,Bob,Carnethy,M50,00:18:18
+41,Duncan,David,Ochils,M50,00:18:19
+42,Cross,Jon,Forth Valley Orienteers,M40,00:18:36
+43,Howie,Brian,Carnethy,M50,00:18:48
+44,Nimmo,Camus,Carnethy,M,00:18:52
+45,Scott,Eddie,U/A,M,00:18:56
+46,Burns,Keith,Carnethy,M60,00:18:59
+47,Telfar,John,Keswick,M40,00:19:13
+48,Ludahy,Mike,U/A,M,00:19:17
+49,Green,Andy,Pennine Fell Runners,M,00:19:21
+50,Caban,Paul,Ferranti,M40,00:19:25
+51,Campbell,Ian,HBT,M40,00:19:55
+52,Campbell,Neil,Carnegie,M40,00:19:58
+53,Lamont,Mike,Moorfoots,M40,00:20:08
+54,Wardsworth,Andy,HBT,M40,00:20:16
+55,Lawrie,Fiona,U/A,F,00:20:19
+56,Ledlie,Colin,Carnethy,M40,00:20:21
+57,Hussey,Rosalind,EUOC,F,00:20:28
+58,Milligan,John,Bellahouston,M,00:20:32
+59,Strain,Kirsteen,Hares & Hounds,F,00:20:39
+60,Dunn,John,U/A,M,00:20:41
+61,Provan,Lousie,HBT,F,00:20:46
+62,West,Alison,Carnegie,F50,00:20:52
+63,Brown,Nicholas,Corstorphine,M,00:20:58
+64,Young,Archie,U/A,M60,00:21:01
+65,Wall,Dick,HBT,M50,00:21:17
+66,Batterham,Jessica,HBT,F,00:21:45
+67,Maxwell,Susie,Penicuik Harriers,F,00:21:46
+68,Milligan,Nicola,Bellahouston,F,00:22:07
+69,Sandbach,John,Bellahouston,M40,00:22:08
+70,Kennedy,Nancy,Lochabar,F50,00:22:09
+71,Spalding,Maggie,HBT,F,00:22:35
+72,McManus,Ian,Irvine AC,M60,00:23:18
+73,Strain,Sheila,East Lothian Orienteers,F50,00:25:14
+74,Smithson,Rik,HBT,M,00:26:37

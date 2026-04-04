@@ -4,24 +4,24 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Todd,Finlay,Carnethy HRC,M,00:26:27
 4,Masson,Alistair,Carnethy HRC,M,00:26:36
 5,Douglas,Andrew,Westerlands CCC,M,00:26:43
-6,Wright,Angus,Edinburgh Uni H&H,MU23,00:26:45
+6,Wright,Angus,Edinburgh Uni H&H,M23,00:26:45
 7,Pulham,Harry,Shettleston Harriers,M,00:26:49
 8,Espie,James,Deeside Runners,M,00:26:56
 9,Balogh,Csoban,Carnethy HRC,M,00:27:29
 10,Symonds,Joe,Shettleston Harriers,M40,00:27:34
-11,Taylor,Rowan,Lasswade Athletics Club,MU23,00:27:40
+11,Taylor,Rowan,Lasswade Athletics Club,M23,00:27:40
 12,Bunn,David,Carnethy HRC,M,00:27:46
 13,Cooper,Kieran,Carnethy HRC,M,00:27:54
 14,Thornton,Alistair,Ochil Hill Runners,M,00:28:00
 15,Davies,Fred,Shettleston Harriers,M,00:28:11
 16,Smith,Aidan,Carnethy HRC,M,00:28:16
 17,Sparks,Robert,HBT,M,00:28:20
-18,Pagett,Harris,Unattached,MU23,00:28:29
-19,Hodson,Ben,Stewartry Athletics Club,MU23,00:28:39
+18,Pagett,Harris,Unattached,M23,00:28:29
+19,Hodson,Ben,Stewartry Athletics Club,M23,00:28:39
 20,Graves,Alastair,Ochil Hill Runners,M,00:28:46
 21,Fallas,Andrew,Carnethy HRC,M40,00:28:51
 22,Lawson,David,Shettleston Harriers,M,00:29:11
-23,Mcguire,Dan,Harmeny AC,MU23,00:29:12
+23,Mcguire,Dan,Harmeny AC,M23,00:29:12
 24,Mcinally,Ralph,Strathearn Harriers,M,00:29:25
 25,Sedman,Eliot,Carnethy HRC,M40,00:29:29
 26,Gilmore,Andrew,Highland Hill Runners,M,00:29:37
@@ -30,7 +30,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 29,Rodney,Stewart,Dumfries Running Club,M,00:31:04
 30,Muir,Cameron,Shettleston Harriers,M,00:31:05
 31,Crutchfield,Stuart,Lochaber Athletic Club,M40,00:31:18
-32,McGonigle,Aedan,Shettleston Harriers,MU23,00:31:23
+32,McGonigle,Aedan,Shettleston Harriers,M23,00:31:23
 33,Rigg,Will,Carnethy HRC,M,00:31:30
 34,Wright,Andrew,PH Racing Club,M50,00:31:38
 35,Coull,Eoin,Highland Hill Runners,M50,00:31:53
@@ -43,7 +43,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 42,Sheridan,Marcus,Dundee Road Runners,M,00:32:36
 43,Watson,Edward,Westerlands CCC,M,00:32:48
 44,Cox,Andrew,Unattached,M40,00:33:00
-45,McBean,Calum,Strathearn Harriers,MU23,00:33:09
+45,McBean,Calum,Strathearn Harriers,M23,00:33:09
 46,Peters,Ella,Westerlands CCC,F,00:33:17
 47,Cruickshanks,Ross,Shettleston Harriers,M,00:33:20
 48,Donnelly,Colin,Cambuslang Harriers,M65,00:33:27
@@ -64,7 +64,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 63,Heger,Elena,Shettleston Harriers,F,00:34:54
 64,Mackinnon,Gordon,Lochaber Athletic Club,M40,00:34:59
 65,Green,Sara,Gala Harriers,F40,00:35:01
-66,Ledingham,Georgia,Edinburgh Uni H&H,FU23,00:35:11
+66,Ledingham,Georgia,Edinburgh Uni H&H,F23,00:35:11
 67,Whitlie,Stewart,Carnethy HRC,M60,00:35:15
 68,Pringle,Alastair,Shettleston Harriers,M55,00:35:18
 69,Mudge,Angela,Ochil Hill Runners,F50,00:35:19
@@ -72,7 +72,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 71,Williams,Dominic,Dundee Road Runners,M,00:35:22
 72,McInally,Hanna,Strathearn Harriers,F,00:35:24
 73,Ross,Heidi,Carnethy HRC,F,00:35:26
-74,Rankine,Kirsty,Gala Harriers,FU23,00:35:37
+74,Rankine,Kirsty,Gala Harriers,F23,00:35:37
 75,Foreman,Ella,Westerlands CCC,F,00:35:43
 76,McCloskey,Terry,Dumfries Running Club,M40,00:35:44
 77,Mayers,James,Musselburgh,M60,00:35:52
@@ -84,8 +84,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 83,Crawford,Ross,Shettleston Harriers,M40,00:36:20
 84,Marwick,Caroline,Highland Hill Runners,F40,00:36:21
 85,Robertson,Shona,Shettleston Harriers,F50,00:36:23
-86,Griffiths,Gemma,Shettleston Harriers,FU23,00:36:34
-87,Richardson,Ava,Gala Harriers,FU23,00:36:36
+86,Griffiths,Gemma,Shettleston Harriers,F23,00:36:34
+87,Richardson,Ava,Gala Harriers,F23,00:36:36
 88,Breckenridge,Myrtle,Shettleston Harriers,F,00:36:42
 89,Wight,Ally,Hartfell HRC,M50,00:36:44
 90,Templeman,Simon,Ochil Hill Runners,M55,00:36:49
@@ -106,9 +106,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 105,O'neill,Owen,Westerlands CCC,M40,00:39:21
 106,Malcolmson,Craig,Hartfell HRC,M60,00:39:27
 107,Chambers,Andy,Ochil Hill Runners,M40,00:40:21
-108,Robertson,Sam,Gala Harriers,MU23,00:40:24
+108,Robertson,Sam,Gala Harriers,M23,00:40:24
 109,Ingram,Claire,Hartfell HRC,F40,00:40:43
-110,Brown,Louisa,Garscube Harriers,FU23,00:40:46
+110,Brown,Louisa,Garscube Harriers,F23,00:40:46
 111,Canavan,Fíona,Dundee Road Runners,F,00:40:48
 112,Ledlie,Colin,Carnethy HRC,M55,00:41:06
 113,Friel,Caroline,Westerlands CCC,F40,00:41:08
@@ -138,7 +138,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 137,Gordon,Robert,Dumfries Running Club,M50,00:44:36
 138,Fisher,Bill,Unattached,M60,00:44:39
 139,Kelsall,Fiona,Ochil Hill Runners,F55,00:44:43
-140,Stewart,Evie,Gala Harriers,FU23,00:44:51
+140,Stewart,Evie,Gala Harriers,F23,00:44:51
 141,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:45:30
 142,Heron,Ceana,Shettleston Harriers,F,00:45:33
 143,Spruženiece,Liene,Westerlands CCC,F,00:45:49

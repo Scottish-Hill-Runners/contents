@@ -1,86 +1,86 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fraser,Scott,Unattached,MS,27:17
-2,Waldie,James,Carnethy,MS,27:21
-3,Mowbray,Phil,HBT,MV40,27:47
-4,Drummond,Fraser,Haries,MS,28:09
-5,Bryson,Gavin,Edinburgh AC,MJ,28:46
-6,Hammond,John,Carnethy,MS,29:09
-7,Cuetchford,Alex,Haries,MS,29:10
-8,Watson,Rab,Musselburgh,MS,30:20
-9,Cox,Andrew,Moorfoot,MS,30:29
-10,Smith,Gavin,HBT,MS,30:40
-11,Shekleton,Nigel,Carnethy,MS,30:48
-12,Warman,Julian,HBT,MV40,31:00
-13,Fettes,Craig,Unattached,MS,31:03
-14,Gardner,Peter,HBT,MS,31:06
-15,Sheehan,Ruari,Unattached,MS,31:10
-16,Watson,Ed,HBT,MS,31:20
-17,Muir,Jonny,Carnethy,MS,31:36
-18,Freshwater,Craig,Westerlands,MS,31:47
-19,Thin,Jamie,HBT,MV40,32:01
-20,Ball,Duncan,Penicuik Harriers,MV50,32:05
-21,Gavine,Donald,Unattached,MS,32:17
-22,Peter,Josh,HBT,MS,32:19
-23,Gaffney,David,Unattached,MS,32:36
-24,Stephen,Jill,HBT,FS,32:53
-25,Mcleod,Calum,Haries,MS,33:00
-26,Sims,Andy,HBT,MS,33:20
-27,Spenceley,Andy,Carnethy,MV50,33:35
-28,Cruickshanks,Ross,Unattached,MS,33:53
-29,Hindle,Alistair,HBT,MV40,34:31
-30,Tangley,Jacob,Dumfries RC,MS,34:34
-31,Williamson,Nick,Dunbar RC,MV40,34:42
-32,McAde,Matt,Unattached,MS,35:22
-33,McCCallum,Mark,Unattached,MV40,35:29
-34,McClelland,Peter,HBT,MS,35:43
-35,Grant,Michael,HBT,MS,35:50
-36,Seggie,Graeme,Unattached,MS,35:56
-37,Ilmoni,Rafaela,STAG,FS,36:11
-38,Hartree,Mark,Carnethy,MV40,36:21
-39,Dudchenko,Paul,Linlithgow Athletic Club,MV50,36:40
-40,Cairns,Gillian,Penicuik Harriers,FV40,36:46
-41,Ashley,George,HBT,MS,36:48
-42,Twigg,Martin,HBT,MV40,37:02
-43,Fraser,Doug,Musselburgh,MV40,37:20
-44,Bunch,Stephen,Unattached,MS,37:27
-45,Mounce,Stuart,HBT,MS,37:29
-46,Dunbar,Allan,Penicuik Harriers,MV40,38:03
-47,Hope-Jones,David,HBT,MS,38:03
-48,McKechanie,Andrew,HBT,MS,38:08
-49,Bradley,Nick,Meirionnyold RC,MV60,38:13
-50,Fraser,Mitchell,Edinburgh AC,MV40,38:25
-51,Kelly,Mairead,HBT,FS,39:08
-52,Howie,Jamie,Bellahouston Road Runners,MS,39:10
-53,Mordaunt,Peter,Unattached,MS,39:24
-54,Greens,Michael,Penicuik Harriers,MJ,39:50
-55,Schutter,John-Sebastian,Unattached,MS,39:53
-56,Pendreigh,Brian,HBT,MV50,40:01
-57,Taylor,Lucy,HBT,FS,40:12
-58,Forrester,Laura,Unattached,FS,40:44
-59,Khan,Mohammed,Dumfries RC,MS,41:12
-60,Costello,Kerry,Portobello,FS,41:16
-61,Broatch,Ian,Unattached,MS,41:25
-62,Walker,Sean,Carnethy,MV40,41:49
-63,Downie,Chris,Penicuik Harriers,MV50,42:06
-64,Bouchier,Shane,Carnethy,MV40,42:19
-65,Vailejo,Maria,Guamras (Ecuador),FS,42:43
-66,Kemp,Sadie,Penicuik Harriers,FS,42:47
-67,Lockie,Paul,Teviot Dale Harriers,MV40,42:47
-68,Coltman,Alan,Teviot Dale Harriers,MV40,43:43
-69,Spenceley,Hilary,Carnethy,FV50,43:57
-70,Jones,Neil,Dunbar RC,MV50,44:39
-71,McKay,Michael,Unattached,MS,44:40
-72,Horsburgh,Jill,Linlithgow Athletic Club,FV50,44:46
-73,Knox,Bill,Teviot Dale Harriers,MV60,45:06
-74,Husbands,Jess,Haries,FS,45:07
-75,Schutter,Tobias,Unattached,MS,45:32
-76,Donnelly,Claire,Unattached,FS,45:38
-77,Stone,Adam,Unattached,MS,46:07
-78,Campbell,Ian,HBT,MV50,47:37
-79,Smith,Janice,HBT,FV50,48:18
-80,Hopley,Marianne,Unattached,FS,48:37
-81,Carter,Joanna,HBT,FS,50:08
-82,Hugill,Elizabeth,HBT,FS,51:45
-83,Hay,Debz,Anster Haddies,FV40,57:33
-84,Hay,George,Anster Haddies,MV50,57:33
-85,McManus,Ian,Irvine Runners,MV70,62:42
+1,Fraser,Scott,Unattached,M,27:17
+2,Waldie,James,Carnethy,M,27:21
+3,Mowbray,Phil,HBT,M40,27:47
+4,Drummond,Fraser,Haries,M,28:09
+5,Bryson,Gavin,Edinburgh AC,M16,28:46
+6,Hammond,John,Carnethy,M,29:09
+7,Cuetchford,Alex,Haries,M,29:10
+8,Watson,Rab,Musselburgh,M,30:20
+9,Cox,Andrew,Moorfoot,M,30:29
+10,Smith,Gavin,HBT,M,30:40
+11,Shekleton,Nigel,Carnethy,M,30:48
+12,Warman,Julian,HBT,M40,31:00
+13,Fettes,Craig,Unattached,M,31:03
+14,Gardner,Peter,HBT,M,31:06
+15,Sheehan,Ruari,Unattached,M,31:10
+16,Watson,Ed,HBT,M,31:20
+17,Muir,Jonny,Carnethy,M,31:36
+18,Freshwater,Craig,Westerlands,M,31:47
+19,Thin,Jamie,HBT,M40,32:01
+20,Ball,Duncan,Penicuik Harriers,M50,32:05
+21,Gavine,Donald,Unattached,M,32:17
+22,Peter,Josh,HBT,M,32:19
+23,Gaffney,David,Unattached,M,32:36
+24,Stephen,Jill,HBT,F,32:53
+25,Mcleod,Calum,Haries,M,33:00
+26,Sims,Andy,HBT,M,33:20
+27,Spenceley,Andy,Carnethy,M50,33:35
+28,Cruickshanks,Ross,Unattached,M,33:53
+29,Hindle,Alistair,HBT,M40,34:31
+30,Tangley,Jacob,Dumfries RC,M,34:34
+31,Williamson,Nick,Dunbar RC,M40,34:42
+32,McAde,Matt,Unattached,M,35:22
+33,McCCallum,Mark,Unattached,M40,35:29
+34,McClelland,Peter,HBT,M,35:43
+35,Grant,Michael,HBT,M,35:50
+36,Seggie,Graeme,Unattached,M,35:56
+37,Ilmoni,Rafaela,STAG,F,36:11
+38,Hartree,Mark,Carnethy,M40,36:21
+39,Dudchenko,Paul,Linlithgow Athletic Club,M50,36:40
+40,Cairns,Gillian,Penicuik Harriers,F40,36:46
+41,Ashley,George,HBT,M,36:48
+42,Twigg,Martin,HBT,M40,37:02
+43,Fraser,Doug,Musselburgh,M40,37:20
+44,Bunch,Stephen,Unattached,M,37:27
+45,Mounce,Stuart,HBT,M,37:29
+46,Dunbar,Allan,Penicuik Harriers,M40,38:03
+47,Hope-Jones,David,HBT,M,38:03
+48,McKechanie,Andrew,HBT,M,38:08
+49,Bradley,Nick,Meirionnyold RC,M60,38:13
+50,Fraser,Mitchell,Edinburgh AC,M40,38:25
+51,Kelly,Mairead,HBT,F,39:08
+52,Howie,Jamie,Bellahouston Road Runners,M,39:10
+53,Mordaunt,Peter,Unattached,M,39:24
+54,Greens,Michael,Penicuik Harriers,M16,39:50
+55,Schutter,John-Sebastian,Unattached,M,39:53
+56,Pendreigh,Brian,HBT,M50,40:01
+57,Taylor,Lucy,HBT,F,40:12
+58,Forrester,Laura,Unattached,F,40:44
+59,Khan,Mohammed,Dumfries RC,M,41:12
+60,Costello,Kerry,Portobello,F,41:16
+61,Broatch,Ian,Unattached,M,41:25
+62,Walker,Sean,Carnethy,M40,41:49
+63,Downie,Chris,Penicuik Harriers,M50,42:06
+64,Bouchier,Shane,Carnethy,M40,42:19
+65,Vailejo,Maria,Guamras (Ecuador),F,42:43
+66,Kemp,Sadie,Penicuik Harriers,F,42:47
+67,Lockie,Paul,Teviot Dale Harriers,M40,42:47
+68,Coltman,Alan,Teviot Dale Harriers,M40,43:43
+69,Spenceley,Hilary,Carnethy,F50,43:57
+70,Jones,Neil,Dunbar RC,M50,44:39
+71,McKay,Michael,Unattached,M,44:40
+72,Horsburgh,Jill,Linlithgow Athletic Club,F50,44:46
+73,Knox,Bill,Teviot Dale Harriers,M60,45:06
+74,Husbands,Jess,Haries,F,45:07
+75,Schutter,Tobias,Unattached,M,45:32
+76,Donnelly,Claire,Unattached,F,45:38
+77,Stone,Adam,Unattached,M,46:07
+78,Campbell,Ian,HBT,M50,47:37
+79,Smith,Janice,HBT,F50,48:18
+80,Hopley,Marianne,Unattached,F,48:37
+81,Carter,Joanna,HBT,F,50:08
+82,Hugill,Elizabeth,HBT,F,51:45
+83,Hay,Debz,Anster Haddies,F40,57:33
+84,Hay,George,Anster Haddies,M50,57:33
+85,McManus,Ian,Irvine Runners,M70,62:42

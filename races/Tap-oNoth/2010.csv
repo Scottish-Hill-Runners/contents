@@ -1,34 +1,34 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Griffin,Tim,Cosmics,MV,00:38:20
-2,Bartlett,Graeme,Forres & Dist,MV,00:38:22
-3,Williamson,Jason,Cosmics,MV,00:39:16
-4,McDonald,Dennis,Cosmics,MV,00:40:07
-5,Angus,Gerald,Keith & Dist,MV,00:42:08
-6,Sille,Richard,Manx Fell Runners,MS,00:43:12
-7,Henry,Peter,Deeside,MS,00:44:05
-8,Smart,Bryan,u/a,MS,00:44:10
-9,Addy,Steve,u/a,MS,00:44:15
-10,Oldham,Veronique,Cosmics,FV,00:44:29
-11,MacKenzie,Ruth,Deeside,FV,00:44:33
-12,Ingram,Richard,GRR,MS,00:45:11
-13,Williams,Rupert,Cosmics,MV,00:46:11
-14,Charlton,Keith,AAAC,MV,00:46:26
-15,Thomson,Gary,GRR,MS,00:46:53
-16,MacGregor,James,GRR,MV,00:47:09
-17,Reid,Colin,Cosmics,MV,00:48:41
-18,Clark,David,u/a,MS,00:48:44
-19,Cran,Neil,u/a,MS,00:49:54
-20,MacKay,Mike,u/a,MS,00:50:48
-21,Thorn,Olwen,HNSC,FS,00:51:30
-22,McDiarmid,Jackie,Three Peaks Tri,FV,00:51:59
-23,Black,Corri,Cosmics,FV,00:52:09
-24,Coursey,David,u/a,MV,00:52:10
-25,Taylor,Colin,Cosmics,MV,00:52:27
-26,Litterick,Tom,AAAC,MV,00:53:10
-27,MacKenzie,Iain,Deeside,MV,00:53:19
-28,Clark,Lesley,u/a,FV,00:53:49
-29,Angus,Mel,Fat Bobs,FV,00:54:24
-30,Barbosa,Ricardo,Uruguay,MS,00:55:11
-31,Guigou,Gabriel,Uruguay,MS,00:55:22
-32,Simpson,Sandra,Fat Bobs,FV,00:56:48
-33,Bromby,Guy,Grampian Orienteers,MV,01:07:55
+1,Griffin,Tim,Cosmics,M,00:38:20
+2,Bartlett,Graeme,Forres & Dist,M,00:38:22
+3,Williamson,Jason,Cosmics,M,00:39:16
+4,McDonald,Dennis,Cosmics,M,00:40:07
+5,Angus,Gerald,Keith & Dist,M,00:42:08
+6,Sille,Richard,Manx Fell Runners,M,00:43:12
+7,Henry,Peter,Deeside,M,00:44:05
+8,Smart,Bryan,u/a,M,00:44:10
+9,Addy,Steve,u/a,M,00:44:15
+10,Oldham,Veronique,Cosmics,F,00:44:29
+11,MacKenzie,Ruth,Deeside,F,00:44:33
+12,Ingram,Richard,GRR,M,00:45:11
+13,Williams,Rupert,Cosmics,M,00:46:11
+14,Charlton,Keith,AAAC,M,00:46:26
+15,Thomson,Gary,GRR,M,00:46:53
+16,MacGregor,James,GRR,M,00:47:09
+17,Reid,Colin,Cosmics,M,00:48:41
+18,Clark,David,u/a,M,00:48:44
+19,Cran,Neil,u/a,M,00:49:54
+20,MacKay,Mike,u/a,M,00:50:48
+21,Thorn,Olwen,HNSC,F,00:51:30
+22,McDiarmid,Jackie,Three Peaks Tri,F,00:51:59
+23,Black,Corri,Cosmics,F,00:52:09
+24,Coursey,David,u/a,M,00:52:10
+25,Taylor,Colin,Cosmics,M,00:52:27
+26,Litterick,Tom,AAAC,M,00:53:10
+27,MacKenzie,Iain,Deeside,M,00:53:19
+28,Clark,Lesley,u/a,F,00:53:49
+29,Angus,Mel,Fat Bobs,F,00:54:24
+30,Barbosa,Ricardo,Uruguay,M,00:55:11
+31,Guigou,Gabriel,Uruguay,M,00:55:22
+32,Simpson,Sandra,Fat Bobs,F,00:56:48
+33,Bromby,Guy,Grampian Orienteers,M,01:07:55

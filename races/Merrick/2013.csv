@@ -1,32 +1,32 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Haworth,James,Galloway Harriers,Male 40+,01:07:36
-2,Smith,Alan,Deeside Runners,Male 50+,01:08:44
-3,Stewart,Gregor,Westerlands,Senior Male,01:09:21
-4,Normand,Andrew,Carnethy Hill Runners,Senior Male,01:11:08
-5,Cox,Andrew,Moorfoot Runners,Senior Male,01:12:23
-6,O'Neill,Owen,Westerlands,Senior Male,01:12:42
-7,McCloskey,Terry,Dumfries Running Club,Senior Male,01:14:50
-8,Wight,Ally,Hardrock Hoodlums,Senior Male,01:16:29
-9,Malcolmson,Craig,Dumfries Running Club,Male 40+,01:16:50
-10,Mardall,Nick,Deeside Runners,Male 40+,01:19:43
-11,Ketley,Dominic,Carnethy Hill Runners,Senior Male,01:20:20
-12,Murphy,Craig,Girvan Athletic Club,Male 40+,01:21:38
-13,Wilson,Rob,Penicuik Harriers,Male 40+,01:21:49
-14,Webster,Andrew,Solway Harriers,Male 40+,01:22:25
-15,Cowper,Stephen,Milburn Harriers,Male 40+,01:22:34
-16,Robson,John,Annan & District Athletic Club,Male 50+,01:26:42
-17,Schreiber,Jo,Girvan Athletic Club,Female 45+,01:26:45
-18,Singh,Shirley,Hardrock Hoodlums,Female 45+,01:28:01
-19,Thomas,Ranjit,Dumfries Running Club,Male 40+,01:29:34
-20,Johnston,Stephen,Milburn Harriers,Male 50+,01:31:25
-21,Wheeler,Mark,Hamilton Harriers,Senior Male,01:32:14
-22,Milligan,Dougie,Solway Harriers,Male 60+,01:32:50
-23,Dawson,Jan,Penicuik Harriers,Female 35+,01:38:36
-24,Shields,Robert,Milburn Harriers,Male 60+,01:41:53
-25,Drain,Alex,Troon Tortoises,Male 50+,01:46:15
-26,Kemp,Sadie,Penicuik Harriers,Female 35+,01:47:09
-27,Creighton,Alan,Annan & District Athletic Club,Male 50+,01:47:16
-28,Bruce,Duncan,North Ayrshire Athletics Club,Senior Male,01:47:45
-29,Ross,Paul,unattached,Male 40+,01:48:45
-30,Noble,Anne,Troon Tortoises,Female 45+,01:49:30
-31,Robson,Jean,Annan & District Athletic Club,Female 55+,01:51:46
+1,Haworth,James,Galloway Harriers,M40,01:07:36
+2,Smith,Alan,Deeside Runners,M50,01:08:44
+3,Stewart,Gregor,Westerlands,M40,01:09:21
+4,Normand,Andrew,Carnethy Hill Runners,M40,01:11:08
+5,Cox,Andrew,Moorfoot Runners,M40,01:12:23
+6,O'Neill,Owen,Westerlands,M40,01:12:42
+7,McCloskey,Terry,Dumfries Running Club,M40,01:14:50
+8,Wight,Ally,Hardrock Hoodlums,M40,01:16:29
+9,Malcolmson,Craig,Dumfries Running Club,M40,01:16:50
+10,Mardall,Nick,Deeside Runners,M40,01:19:43
+11,Ketley,Dominic,Carnethy Hill Runners,M40,01:20:20
+12,Murphy,Craig,Girvan Athletic Club,M40,01:21:38
+13,Wilson,Rob,Penicuik Harriers,M40,01:21:49
+14,Webster,Andrew,Solway Harriers,M40,01:22:25
+15,Cowper,Stephen,Milburn Harriers,M40,01:22:34
+16,Robson,John,Annan & District Athletic Club,M50,01:26:42
+17,Schreiber,Jo,Girvan Athletic Club,F45,01:26:45
+18,Singh,Shirley,Hardrock Hoodlums,F45,01:28:01
+19,Thomas,Ranjit,Dumfries Running Club,M40,01:29:34
+20,Johnston,Stephen,Milburn Harriers,M50,01:31:25
+21,Wheeler,Mark,Hamilton Harriers,M40,01:32:14
+22,Milligan,Dougie,Solway Harriers,M60,01:32:50
+23,Dawson,Jan,Penicuik Harriers,F35,01:38:36
+24,Shields,Robert,Milburn Harriers,M60,01:41:53
+25,Drain,Alex,Troon Tortoises,M50,01:46:15
+26,Kemp,Sadie,Penicuik Harriers,F35,01:47:09
+27,Creighton,Alan,Annan & District Athletic Club,M50,01:47:16
+28,Bruce,Duncan,North Ayrshire Athletics Club,M40,01:47:45
+29,Ross,Paul,unattached,M40,01:48:45
+30,Noble,Anne,Troon Tortoises,F45,01:49:30
+31,Robson,Jean,Annan & District Athletic Club,F55,01:51:46

@@ -49,7 +49,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 48,Broadbent,Andrew,Helm Hill Runners,M,01:02:24
 49,Mackenzie,Donald,Lomond Hill Runners,M40,01:02:25
 50,Craighead,Scott,Carnethy HRC,M,01:02:29
-51,Gilmore,Iain,Carnethy HRC,MJ,01:02:39
+51,Gilmore,Iain,Carnethy HRC,M16,01:02:39
 52,Smith,Alan,Deeside Runners,M50,01:02:42
 53,Stewart,Iain,Westerlands CCC,M,01:02:45
 54,Beanland,Andy,Helm Hill Runners,M,01:02:46
@@ -133,7 +133,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 132,Williamson,Nick,Dunbar Running Club,M,01:08:42
 133,Strain,Kirsten,East Lothian Orienteers,F,01:08:45
 134,Smith,Gavin,Hunters Bog Trotters,M,01:08:46
-135,Luscombe,Jack,Edinburgh University H & H,MJ,01:08:53
+135,Luscombe,Jack,Edinburgh University H & H,M16,01:08:53
 136,Hewitt,John,Glossopdale Harriers,M50,01:08:57
 137,Urquhart,John,Unattached,M40,01:09:10
 138,King,Steven,Carnegie Harriers,M40,01:09:12
@@ -277,7 +277,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 276,Kerr,Stewart,West Lothian Triathlon,M,01:19:37
 277,Thomas,Neil,Hunters Bog Trotters,M40,01:19:39
 278,Lyons,Bob,Carnethy HRC,M50,01:19:40
-279,Robinson,Madeline,Helensburgh AAC,FJ,01:19:45
+279,Robinson,Madeline,Helensburgh AAC,F16,01:19:45
 280,Forte,Phil,Dundee Hawkhill Harriers,M50,01:19:53
 281,Marshall,Ian,Dunoon Hill Runners,M40,01:19:56
 282,Hetherington,Michelle,Helensburgh AAC,F40,01:19:57

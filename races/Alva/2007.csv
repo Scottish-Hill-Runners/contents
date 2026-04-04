@@ -1,7 +1,7 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Dunn,Alastair,Helm Hill Runners,M,0:20:04
-2,Addison,Tom,Helm Hill Runners,MU23,0:20:18
-3,Doyle,Chris,Helm Hill Runners,MU23,0:21:47
+2,Addison,Tom,Helm Hill Runners,M23,0:20:18
+3,Doyle,Chris,Helm Hill Runners,M23,0:21:47
 4,Holt,Jack,Clayton Le Moors,M50,0:24:54
 5,Gibbons,Iain,Ilkley Harriers,M,0:25:03
 6,Laing,Martin,Unattached,M50,0:25:25
@@ -34,5 +34,5 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Uren,Martin,Unattached,M,0:38:14
 34,Coltman,Alan,Teviotdale Harriers,M40,0:38:49
 35,Turnbull,Drew,Westerlands,M60,0:39:31
-36,Morphet,Samantha,Cumberland Fell Runners,FU23,0:44:52
+36,Morphet,Samantha,Cumberland Fell Runners,F23,0:44:52
 37,Uren,Tracy,Unattached,F,0:46:49

@@ -1,8 +1,8 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Davies,Phil,Borrowdale Fell Runners,M40,0:22:25
-2,Birtwistle,Duncan,Harrogate Harriers,MU23,0:22:26
-3,Parkinson,Jamie,Dartmoor Runners,MU23,0:22:38
-4,Campbell,Ross,Highland Hill Runners,MU23,0:23:59
+2,Birtwistle,Duncan,Harrogate Harriers,M23,0:22:26
+3,Parkinson,Jamie,Dartmoor Runners,M23,0:22:38
+4,Campbell,Ross,Highland Hill Runners,M23,0:23:59
 5,Robinson,Mike,Dark Peak,M40,0:25:14
 6,Cox,Alistair,Tinto Hill Runners,M,0:25:25
 7,Nash,Graham,Carnethy,M40,0:25:59
@@ -10,7 +10,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 9,O`Neill,Owen,Westerlands,M,0:26:11
 10,McCloskey,Terry,Dumfries RC,M,0:26:26
 11,Cowan,David,Fife AC,M50,0:26:32
-12,McCann,Alex,Stockport Harriers,MU23,0:26:33
+12,McCann,Alex,Stockport Harriers,M23,0:26:33
 13,Halsall,Steve,Keswick AC,M,0:26:51
 14,Anderson,Adam,Hartfell HRC,M40,0:26:55
 15,Hastie,Neil,HELP,M40,0:27:01

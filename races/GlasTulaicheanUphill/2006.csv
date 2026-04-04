@@ -1,51 +1,51 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Joe,Dundee Hawkhill,SM,00:36:52
-2,Prasad,Prasad,Clydesdale Harriers,SM,00:37:48
-3,Symonds,Andrew,Kendal AC,SM,00:38:06
-4,Stewart,Grant,City of Edinburgh,SM,00:38:15
+1,Symonds,Joe,Dundee Hawkhill,M,00:36:52
+2,Prasad,Prasad,Clydesdale Harriers,M,00:37:48
+3,Symonds,Andrew,Kendal AC,M,00:38:06
+4,Stewart,Grant,City of Edinburgh,M,00:38:15
 5,Quinn,Bobby,Kilbarchan,M40,00:38:21
-6,Mareque,Juan,City of Edinburgh,SM,00:38:51
-7,Jardine,Euan,Gala Harriers,SM,00:39:29
-8,Cummins,Dave,Shettleston,SM,00:40:27
+6,Mareque,Juan,City of Edinburgh,M,00:38:51
+7,Jardine,Euan,Gala Harriers,M,00:39:29
+8,Cummins,Dave,Shettleston,M,00:40:27
 9,Wier,Dave,Fife AC,M40,00:40:41
-10,McCall,Andrew,Greenock Glenpark,JM,00:41:24
+10,McCall,Andrew,Greenock Glenpark,M16,00:41:24
 11,Johnson,Mark,Metro Aberdeen,M40,00:42:22
 12,Varney,Keith,Cosmics,M50,00:42:31
-13,Russell,Chris,Fife AC,SM,00:42:48
-14,Robertson,John,Cosmics,SM,00:43:07
-15,Mcmillan,John,Kilbarchan,SM,00:44:32
+13,Russell,Chris,Fife AC,M,00:42:48
+14,Robertson,John,Cosmics,M,00:43:07
+15,Mcmillan,John,Kilbarchan,M,00:44:32
 16,Bickerstaff,Andy,Ranelagh Harriers,M40,00:45:03
 17,Fallon,Steven,Carnethy,M40,00:45:52
 18,Whyte,Ken,Lochaber AC,M50,00:46:15
 19,Duncan,Barry,Unattached,M40,00:46:29
 20,Kay,John,Fife AC,M40,00:46:33
-21,Mcloone,Michael,Greenock Glenpark,JM,00:47:05
+21,Mcloone,Michael,Greenock Glenpark,M16,00:47:05
 22,Bass,Owen,Deeside Runners,M40,00:48:18
-23,Love,Craig,Dundee Hawkhill,SM,00:48:42
-24,Anderson,Ian,Unattached,SM,00:49:17
-25,Dempsey,Steve,Lothian,M 50,00:49:25
+23,Love,Craig,Dundee Hawkhill,M,00:48:42
+24,Anderson,Ian,Unattached,M,00:49:17
+25,Dempsey,Steve,Lothian,M50,00:49:25
 26,Symonds,Hugh,Kendal AC,M50,00:49:47
 27,Robinson,Gordon,Westerlands,M50,00:50:32
 28,Hanlon,Dave,Dundee Hawkhill,M40,00:51:22
 29,Shiell,Dougie,Carnethy,M40,00:51:33
-30,Mclean,Andrew,Greenock Glenpark,SM,00:51:39
+30,Mclean,Andrew,Greenock Glenpark,M,00:51:39
 31,Whitehead,Jonathon,Unattached,M40,00:51:57
 32,Winton,Simon,Dalmunzie,M50,00:52:38
 33,Jermieson,Ashley,Cosmics,M50,00:52:59
-34,Whitehead,Joe,City of Edinburgh,W40,00:53:29
+34,Whitehead,Joe,City of Edinburgh,F40,00:53:29
 35,Mclean,Herbie,Lothian,M50,00:54:02
 36,Stone,Michael,Cosmics,M40,00:54:02
 37,Love,Charlie,Dundee Hawkhill,M60,00:54:11
 38,Raiston,Andrew,Unattached,M40,00:54:15
-39,Miller,Katrina,Westerlands,SW,00:54:21
+39,Miller,Katrina,Westerlands,F,00:54:21
 40,Bowie,Tom,Carnegie Harriers,M50,00:54:45
 41,Olliver,David,Deeside Runners,M40,00:54:51
-42,Salvona,Joyce,Lothian,W40,00:56:49
-43,Hay,Bruce,Unattached,SM,00:57:45
+42,Salvona,Joyce,Lothian,F40,00:56:49
+43,Hay,Bruce,Unattached,M,00:57:45
 44,Johnson,Derek,Cosmics,M40,00:57:59
-45,Stone,Ann,Cosmics,W50,00:58:08
-46,Stewart,Elaine,Cosmics,W40,00:59:57
+45,Stone,Ann,Cosmics,F50,00:58:08
+46,Stewart,Elaine,Cosmics,F40,00:59:57
 47,Cromar,Steve,Dundee Hawkhill,M60,01:01:08
-48,Fraser,David,Deeside Runners,SM,01:01:01
-49,Symonds,Claire,Unattached,W40,01:05:07
-50,Oliver,Jane,Deeside Runners,W40,01:08:37
+48,Fraser,David,Deeside Runners,M,01:01:01
+49,Symonds,Claire,Unattached,F40,01:05:07
+50,Oliver,Jane,Deeside Runners,F40,01:08:37

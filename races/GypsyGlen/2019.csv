@@ -3,72 +3,72 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,Masson,Alistair,Ed Uni H&H,M,00:30:31
 3,Martyn,Tom,HBT,M,00:30:48
 4,Crickmore,Jonathan,HBT,M,00:31:17
-5,Murdoch,Graeme,Gala Harriers,MV,00:32:35
+5,Murdoch,Graeme,Gala Harriers,M,00:32:35
 6,Luetchford,Alex,HBT,M,00:32:58
 7,Braby,Liam,Carnethy,M,00:33:07
 8,Rigg,William,Ambleside,M,00:33:35
 9,Gardner,Peter,HBT,M,00:34:14
 10,Park,Luke,HBT,M,00:34:27
-11,McDonald,Scott,Moorfoot,MV,00:34:36
+11,McDonald,Scott,Moorfoot,M,00:34:36
 12,Perry,Chris,Matlock AC,M,00:34:41
 13,Thomson,Ritchie,Penicuik Harriers,M,00:35:15
-14,Mattocks,Craig,Gala Harriers,MV,00:35:22
-15,Warman,Julian,HBT,MV,00:35:32
+14,Mattocks,Craig,Gala Harriers,M,00:35:22
+15,Warman,Julian,HBT,M,00:35:32
 16,Hayward,Adam,Moorfoot,M,00:35:38
 17,Davidson,Martyn,Moorfoot,M,00:36:31
 18,Lavin,Daniel,Carnethy,M,00:36:39
-19,McGovern,Mike,Moorfoot,MV,00:37:01
+19,McGovern,Mike,Moorfoot,M,00:37:01
 20,McKechnie,Sarah,Penicuik Harriers,F,00:37:17
 21,Jeffrey,Alan,Portobello,M,00:37:20
-22,Marshall,Brian,HELP,MV,00:37:24
+22,Marshall,Brian,HELP,M,00:37:24
 23,Mercer,James,Gala Harriers,M,00:37:28
-24,Williams,Colin,Moorfoot,MV,00:37:51
+24,Williams,Colin,Moorfoot,M,00:37:51
 25,Pace,Molly,Jesmond Joggers,F,00:38:07
-26,Bell,David,Unattached,MV,00:38:17
+26,Bell,David,Unattached,M,00:38:17
 27,Pacitti,Lorenzo,Portobello,M,00:38:24
-28,Smith,Bruce,Carnethy,MV,00:38:37
+28,Smith,Bruce,Carnethy,M,00:38:37
 29,Walling,Craig,HBT,M,00:38:47
 30,Gilbert,Paul,Lauderdale Limpers,M,00:38:53
 31,Morton,Ceadach,Penicuik Harriers,M,00:38:53
-32,Hardy,Tom,Unattached,MV,00:39:04
+32,Hardy,Tom,Unattached,M,00:39:04
 33,Greig,Robert,Unattached,M,00:39:10
-34,Carr,Dean,Moorfoot,MV,00:39:12
+34,Carr,Dean,Moorfoot,M,00:39:12
 35,Edwards,Polly,Ed Uni H&H,F,00:39:18
-36,Smith,Brian,Unattached,MV,00:39:57
+36,Smith,Brian,Unattached,M,00:39:57
 37,Molero,Luis,Lauderdale Limpers,M,00:40:17
-38,Davidson,Kenneth,Moorfoot,MV,00:40:21
+38,Davidson,Kenneth,Moorfoot,M,00:40:21
 39,Wright,Rosie,Ed Uni H&H,F,00:40:30
-40,Bell,Iain,Gala Harriers,MV,00:40:40
+40,Bell,Iain,Gala Harriers,M,00:40:40
 41,Chetwin,Derek,Matlock AC,M,00:40:43
-42,Jenkins,Kate,Gala Harriers,FV,00:40:45
+42,Jenkins,Kate,Gala Harriers,F,00:40:45
 43,Hillier,Piers,Unattached,M,00:40:58
-44,Cuthbertson,Mark,Ochil HR,MV,00:41:15
-45,Carr,Gillian,Corstorphine,FV,00:41:28
-46,Ridley,Susan,Edinburgh AC,FV,00:41:28
+44,Cuthbertson,Mark,Ochil HR,M,00:41:15
+45,Carr,Gillian,Corstorphine,F,00:41:28
+46,Ridley,Susan,Edinburgh AC,F,00:41:28
 47,McKinnon,Sam,Gala Harriers,M,00:42:14
-48,Malcolmson,Craig,Hartfell HR,MV,00:42:16
-49,Elder,Alan,Moorfoot,MV,00:42:55
-50,Moss,Carol,Moorfoot,FV,00:43:22
-51,Purves,James,Gala Harriers,MV,00:44:55
+48,Malcolmson,Craig,Hartfell HR,M,00:42:16
+49,Elder,Alan,Moorfoot,M,00:42:55
+50,Moss,Carol,Moorfoot,F,00:43:22
+51,Purves,James,Gala Harriers,M,00:44:55
 52,Husbands,Jess,HBT,F,00:44:56
 53,Somerfield,Chloe,Lauderdale Limpers,F,00:45:31
-54,Wardhaugh,Billy,Moorfoot,MV,00:45:35
-55,Aitchison,Steve,Lauderdale Limpers,MV,00:46:09
-56,Bartlett,Pat,Interlopers,MV,00:46:15
+54,Wardhaugh,Billy,Moorfoot,M,00:45:35
+55,Aitchison,Steve,Lauderdale Limpers,M,00:46:09
+56,Bartlett,Pat,Interlopers,M,00:46:15
 57,Horn,Elsie,HBT,F,00:46:20
 58,Bartlett,Joseph,Interlopers,M,00:46:50
-59,Munro,Ian,Moorfoot,MV,00:46:53
-60,Hunter,David,Gala Harriers,MV,00:47:24
-61,Wilson,Alison,Fellandale,FV,00:47:54
-62,Kemp,Sadie,Penicuik Harriers,FV,00:48:24
-63,Duncan,David,Ochil HR,MV,00:49:55
-64,Park,Archie,Hartfell HR,MV,00:50:57
-65,Weir,Anne,Lauderdale Limpers,FV,00:51:19
-66,May,Timothy,Unattached,MV,00:51:39
+59,Munro,Ian,Moorfoot,M,00:46:53
+60,Hunter,David,Gala Harriers,M,00:47:24
+61,Wilson,Alison,Fellandale,F,00:47:54
+62,Kemp,Sadie,Penicuik Harriers,F,00:48:24
+63,Duncan,David,Ochil HR,M,00:49:55
+64,Park,Archie,Hartfell HR,M,00:50:57
+65,Weir,Anne,Lauderdale Limpers,F,00:51:19
+66,May,Timothy,Unattached,M,00:51:39
 67,McAleese,Rachel,Lauderdale Limpers,F,00:51:54
-68,Minto,Johnny,Annan & District,MV,00:52:37
-69,Birch,Frank,Lauderdale Limpers,MV,00:54:42
+68,Minto,Johnny,Annan & District,M,00:52:37
+69,Birch,Frank,Lauderdale Limpers,M,00:54:42
 70,Coll,Harriet,Unattached,F,00:54:50
 71,Bartlett,Amy,Unattached,F,00:55:05
-72,Calothis,Marinos,Westerlands,MV,00:56:48
-73,Oliver,Margaret,Penicuik Harriers,FV,00:57:25
+72,Calothis,Marinos,Westerlands,M,00:56:48
+73,Oliver,Margaret,Penicuik Harriers,F,00:57:25

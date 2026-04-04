@@ -2,14 +2,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Brookes,Rob,Cosmics,M,0:29:54
 2,Wilby,David,Highland Hill Runners,M,0:29:58
 3,Abrahams,Ben,Cosmics,M,0:31:10
-4,Coupar,Alasdair,East Sutherland,MU17,0:31:56
+4,Coupar,Alasdair,East Sutherland,M17,0:31:56
 5,Crowe,Jamie,Central AC,M,0:32:09
 6,Irvine,Calum,CBNSC,M,0:32:10
 7,Smith,Alan,Deeside Runners,M50,0:32:36
 8,Wilson,Stewart,Highland Hill Runners,M40,0:33:09
 9,Crowe,Des,Penicuik Harriers,M50,0:33:57
 10,Love,Craig,Dundee Hawkhill,M40,0:35:27
-11,Taylor,Luke,Highland Hill Runners,MU17,0:35:48
+11,Taylor,Luke,Highland Hill Runners,M17,0:35:48
 12,Angus,Gerald,Keith & District AAC,M50,0:36:52
 13,Forrest,Stuart,Highland Hill Runners,M,0:36:59
 14,Hutt,Colin,Unattached,M40,0:38:15
@@ -25,7 +25,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Rogan,Kirstie,Moray Road Runners,F,0:41:34
 25,Weir,Jonathan,Unattached,M,0:41:45
 26,Irvine,Gill,Highland Hill Runners,F50,0:41:54
-27,Clark,Liam,Cosmics,MU17,0:43:02
+27,Clark,Liam,Cosmics,M17,0:43:02
 28,Brennan,Brian,Westerlands,M50,0:44:46
 29,Black,Corri,Cosmics,F40,0:45:53
 30,Crowe,Kate,Penicuik Harriers,F40,0:46:10

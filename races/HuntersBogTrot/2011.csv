@@ -5,12 +5,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 4,Whitlie,Stewart,Carnethy,M40,0:31:14
 5,Hart,Al,HBT,M,0:31:18
 6,May,Colin,Carnethy,M,0:31:29
-7,Waldie,James,HBT,MJ18,0:31:31
+7,Waldie,James,HBT,M18,0:31:31
 8,Mitchell,Craig,Vegan Runners,M,0:32:08
 9,Love,Craig,Dundee Hawkhill,M40,0:32:54
 10,Jones,Huw,HBT,M,0:32:55
 11,Geoghegan,Michael,Portobello,M40,0:33:06
-12,Robertson,Ally,Carnethy,MJ19,0:33:08
+12,Robertson,Ally,Carnethy,M19,0:33:08
 13,Best,Steven,Carnethy,M,0:33:38
 14,Ward,Adam,Carnethy,M40,0:33:48
 15,Ball,Duncan,Penicuik Harriers,M40,0:33:53
@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Bennet,Sandy,Unattached,M40,0:34:59
 26,Simpson,Peter,Carnegie Harriers,M50,0:35:09
 27,Maxwell,Fiona,Shettleston Harriers,F50,0:35:15
-28,Buchanan,Catriona,Ochil Hill Runners,FJ19,0:35:22
+28,Buchanan,Catriona,Ochil Hill Runners,F19,0:35:22
 29,Brennan,Paul,Edinburgh AC,M,0:35:39
 30,Bailey,Will Hugh,HBT,M,0:36:09
 31,Davie,Barry,Carnegie Harriers,M,0:36:16
@@ -44,7 +44,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 43,Smith,Alastair,Dundee Hawkhill,M,0:37:50
 44,Malcolm,John,Carnethy,M,0:37:53
 45,Hunter,Craig,HBT,M50,0:37:56
-46,Williamson,Coll,HBT,MJ19,0:37:57
+46,Williamson,Coll,HBT,M19,0:37:57
 47,Davie,Kevin,Carnegie Harriers,M,0:38:00
 48,O`Neil,Sarah,HBT,F,0:38:02
 49,Diver,Michael,Clydesdale Harriers,M40,0:38:06
@@ -98,7 +98,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 97,McKelvie,Gillian,Portobello,F50,0:44:14
 98,Smith,Brian,Fife AC,M50,0:44:37
 99,Lawrie,Lynsey,Portobello,F,0:44:48
-100,Pollock,Emily,Edinburgh Uni H&H,FJ18,0:44:50
+100,Pollock,Emily,Edinburgh Uni H&H,F18,0:44:50
 101,Love,Charlie,Dundee Hawkhill,M60,0:45:00
 102,MacAskill,Ian,Unattached,M50,0:45:16
 103,Downie,Chris,Penicuik Harriers,M50,0:45:25
@@ -127,12 +127,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 126,Ward,Matthew,Unattached,M,0:50:47
 127,Stapley,Tony,Portobello,M60,0:50:55
 128,Strain,Sheila,HBT,F60,0:52:36
-129,Pollock,Katie,Edinburgh Uni H&H,FJ20,0:52:53
+129,Pollock,Katie,Edinburgh Uni H&H,F20,0:52:53
 130,Stock,Manuel,Unattached,M,0:53:06
 131,McArthur,John,Carnegie Harriers,M60,0:55:07
 132,Hay,George,Anster Haddies,M40,0:55:38
 133,Hay,George,Anster Haddies,M40,0:55:38
-134,Baxter,Claire,Unattached,FJ16,0:56:04
-135,May,Chloë,Unattached,FJ17,0:56:17
+134,Baxter,Claire,Unattached,F16,0:56:04
+135,May,Chloë,Unattached,F17,0:56:17
 136,McManus,Ian,Irvine RC,M60,0:56:20
 137,Donaldson,Judith,HELP,F50,0:59:41

@@ -5,7 +5,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 4,Lennox,Jethro,Shettleston Harriers,M,01:09:52
 5,Hesling,Sam,Highland Hill Runners,M,01:10:13
 6,Anthony,Alasdair,Ochil Hill Runners,M,01:11:52
-7,Waldie,James,Carnethy,MU23,01:12:08
+7,Waldie,James,Carnethy,M23,01:12:08
 8,Chepelin,Oleg,Shettleston Harriers,M,01:12:19
 9,Whiteside,Iain,Carnethy,M,01:12:31
 10,Richmond,Kenny,Shettleston Harriers,M40,01:13:02
@@ -20,7 +20,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 19,O`Neill,Owen,Westerlands,M,01:16:37
 20,Connaghan,John,Shettleston Harriers,M40,01:16:53
 21,Leigh,Christopher,Pennine Fell Runners,M40,01:17:18
-22,Drummond,Fraser,Edinburgh Uni H&H,MU23,01:17:23
+22,Drummond,Fraser,Edinburgh Uni H&H,M23,01:17:23
 23,Whitehead,Dan,Deeside Runners,M40,01:17:48
 24,Hammond,John,Carnethy,M,01:17:54
 25,Ascroft,Jon,Carnethy,M40,01:18:03
@@ -39,10 +39,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Craighead,Scott,Carnethy,M,01:23:27
 39,Baxter,Grant,Ochil Hill Runners,M40,01:23:35
 40,Bonsor,Helen,Carnethy,F,01:24:03
-41,Braby,Liam,Carnethy,MU23,01:24:20
+41,Braby,Liam,Carnethy,M23,01:24:20
 42,Tomlin,Chris,Cosmics,M40,01:24:27
 43,McVey,Alex,Carnethy,M,01:25:47
-44,Kerridge,Ewen,Deeside Runners,MU23,01:26:03
+44,Kerridge,Ewen,Deeside Runners,M23,01:26:03
 45,Simpson,Peter,Carnegie Harriers,M50,01:26:06
 46,Anderson,Adam,Carnethy,M40,01:26:21
 47,Pringle,Alastair,Shettleston Harriers,M40,01:27:26
@@ -102,7 +102,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 101,Mitchell,John,Cosmics,M,01:42:05
 102,Turner,Dave,Lomond Hill Runners,M40,01:42:06
 103,Burt,Louise,Fife AC,F50,01:42:09
-104,Rees,Halina,Fife AC,FU23,01:42:18
+104,Rees,Halina,Fife AC,F23,01:42:18
 105,Marshall,Ian,Dunoon Hill Runners,M40,01:42:31
 106,MacDonald,Diana,Highland Hill Runners,F,01:42:34
 107,Wilson,Colin,Lomond Hill Runners,M50,01:43:40

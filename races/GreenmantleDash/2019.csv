@@ -2,9 +2,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde,M,00:15:06
 2,Fraser,Scott,HBT,M,00:16:03
 3,Wilson,Thomas,Edin Uni H & H,M,00:16:11
-4,Malcolm,Gregor,Edin Uni H & H,MJ,00:16:22
+4,Malcolm,Gregor,Edin Uni H & H,M16,00:16:22
 5,Gilmore,Iain,Carnethy,M,00:17:41
-6,Bennet,Struan,Fife AC,MJ,00:17:46
+6,Bennet,Struan,Fife AC,M16,00:17:46
 7,Mackie,Peter,Shettleston,M40,00:17:58
 8,Hayward,Adam,Ochil Hill Runners,M,00:18:10
 9,McDonald,Alistair,St Andrews,M,00:18:22
@@ -26,8 +26,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Ward,Claire,HBT,F40,00:20:58
 26,Wheeler,Mark,Hamilton,M40,00:21:05
 27,Plummer,Kevin,Hartfell,M50,00:21:08
-28,Kerr,Michael,Hartfell,MJ,00:21:17
-29,King,Isaac,Unattached,MJ,00:21:27
+28,Kerr,Michael,Hartfell,M16,00:21:17
+29,King,Isaac,Unattached,M16,00:21:27
 30,Curnyn,Steven,Unattached,M,00:21:44
 31,Whitelaw,Mark,Hartfell,M40,00:21:51
 32,Cairns,Gillian,Penicuik Harriers,F40,00:22:00
@@ -40,8 +40,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,Dunbar,Allan,Penicuik Harriers,M,00:23:09
 40,Anderson,Laurie,Lomond HR,F50,00:23:20
 41,Wallace,Sandy,HELP,M60,00:23:23
-42,Robertson,Michael,Unattached,MJ,00:23:26
-43,Holland,Arianne,Edin Uni H & H,FJ,00:23:27
+42,Robertson,Michael,Unattached,M16,00:23:26
+43,Holland,Arianne,Edin Uni H & H,F16,00:23:27
 44,Wilson,Oliver,Hartfell,M,00:23:30
 45,McArthur,Claire,Hamilton,F40,00:23:34
 46,Allen,Rosie,Hartfell,F40,00:23:35
@@ -56,7 +56,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 55,Ledlie,Colin,Carnethy,M50,00:24:34
 56,MacLeod,Murdo,Westerlands,M60,00:24:39
 57,Donnelly,John,Westerlands,M50,00:24:55
-58,Bennet,Ailsa,Fife AC,FJ,00:25:11
+58,Bennet,Ailsa,Fife AC,F16,00:25:11
 59,Runner2,Unknown,Unattached,M,00:25:14
 60,Paul,Alastair,Northumberland HR,M60,00:25:17
 61,Huntley,Chris,Tinto Hill Runners,M60,00:25:18

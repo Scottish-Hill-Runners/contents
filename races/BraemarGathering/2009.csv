@@ -1,8 +1,8 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Al,Ochil Hill Runners,1st M,00:26:14
-2,Whitehead,Dan,Cosmics,2nd M,00:26:24
-3,Livesey,Ben,RAF Kinloss,3rd M,00:26:44
-4,Wright,Andrew,Carnegie Harriers,4th M,00:27:39
+1,Anthony,Al,Ochil Hill Runners,M,00:26:14
+2,Whitehead,Dan,Cosmics,M,00:26:24
+3,Livesey,Ben,RAF Kinloss,M,00:26:44
+4,Wright,Andrew,Carnegie Harriers,M,00:27:39
 5,Donnelly,Colin,Lochaber AC,M,00:27:45
 6,Haines,Hector,EUHH,M,00:27:47
 7,Drahokoupil,Ales,EUHH,M,00:27:50
@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Stoddart,Barry,Dorset,M,00:30:51
 18,Burgess,David,Anster Haddies,M,00:30:55
 19,Anderson,Ian,Kirriemuir,M,00:31:04
-20,Whitehead,Clare,Cosmics,1st F,00:31:21
+20,Whitehead,Clare,Cosmics,F,00:31:21
 21,Long,Sam,Deeside Runners,M,00:31:36
 22,Mills,Ian,Anster Haddies,M40,00:31:53
 23,Walker,Neil,Altrincham,M,00:33:07
@@ -26,12 +26,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Bass,Owen,Deeside Runners,M,00:33:36
 26,Brennan,Paul,Unattached,M,00:33:46
 27,Mardall,Nick,Gairnshiel,M,00:33:53
-28,Brown,Mhairi,Edinburgh,2nd F,00:34:32
-29,Knox,Thomas,Anster Haddies,MJ,00:34:47
+28,Brown,Mhairi,Edinburgh,F,00:34:32
+29,Knox,Thomas,Anster Haddies,M16,00:34:47
 30,Low,John,Anster Haddies,M40,00:34:56
 31,Preiss,Alastair,Unattached,M,00:35:04
-32,Wardlaw,Eilidh,HBT,3rd F,00:35:14
-33,Davie,Moira,Aberdeen University,4th F,00:35:31
+32,Wardlaw,Eilidh,HBT,F,00:35:14
+33,Davie,Moira,Aberdeen University,F,00:35:31
 34,Kershaw,Simon,Wiltshire,M,00:35:38
 35,McAree,William,Unattached,M,00:35:40
 36,Keenan,Calum,Aboyne,M,00:36:51
@@ -53,6 +53,3 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Angus,Henry,Elgin,M,00:42:37
 53,Clark,David,Unattached,M40,00:42:47
 54,Monteith,Deborah,Carnethy,F,00:42:51
-55,Bassoli,Filippo,Unattached,M,???
-56,Bass,Ursula,Deeside Runners,F40,???
-57,Halsall,Michael,Unattached,M,???

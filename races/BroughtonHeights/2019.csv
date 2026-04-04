@@ -6,8 +6,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Campbell,Alasdair,Cambuslang Harriers,M,00:46:19
 6,Stewart,Ryan,Shettleston Harriers,M,00:46:34
 7,Hodkinson,Peter,HBT,M,00:46:42
-8,Bryson,Gavin,Highland Hill Runners,MU23,00:47:16
-9,Lydon,Finn,Carnethy,MU23,00:48:04
+8,Bryson,Gavin,Highland Hill Runners,M23,00:47:16
+9,Lydon,Finn,Carnethy,M23,00:48:04
 10,MacCorquodale,Iain,Cambuslang Harriers,M,00:48:04
 11,Hinchcliffe,Alex,Carnethy,M,00:48:33
 12,Carter,Justin,Cambuslang Harriers,M40,00:48:34
@@ -24,7 +24,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 23,Harris,Mark,Fife AC,M50,00:52:10
 24,Grant,Miranda,HBT,F,00:53:44
 25,Marks,Jonathon,Carnethy,M,00:53:57
-26,Jardine,Craig,Cambuslang Harriers,MU23,00:54:02
+26,Jardine,Craig,Cambuslang Harriers,M23,00:54:02
 27,Breckenridge,Bill,Shettleston Harriers,M50,00:54:07
 28,Hemmings,Anthony,Carnethy,M,00:54:16
 29,Marwick,Caroline,Inverness Harriers,F,00:54:38

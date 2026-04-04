@@ -1,58 +1,58 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Wild,Finlay,Lochaber Athletic Club,Male,00:28:50
-2,Fraser,Calum,Lochaber Athletic Club,Male,00:31:31
-3,Taylor,Luke,Highland Hill Runners,Male,00:32:22
-4,MacDonald,Steve,Lochaber Athletic Club,Male,00:33:49
-5,Smith,Alan,Deeside Runners,Male Vet 50,00:34:10
-6,Whiteside,Gavin,Highland Hill Runners,Male,00:34:40
-7,Traill,Steven,Lochaber Athletic Club,Male,00:34:53
-8,Fallon,Steven,Carnethy Hill Runners,Male Vet 50,00:35:00
-9,Gallie,David,Inverness Harriers,Male Vet 50,00:35:35
-10,Forrest,Stuart,Highland Hill Runners,Male,00:37:22
-11,MacDonald,Dougie,Highland Hill Runners,Male Vet 40,00:37:51
-12,Wilson,Stewart,Inverness Harriers,Male Vet 40,00:37:57
-13,MacMillan,Gavin,Lochaber Athletic Club,Male,00:37:57
-14,Cymbalista,Pawel,Lochaber Athletic Club,Male,00:38:01
-15,Baum,Diane,Lochaber Athletic Club,Female,00:38:01
-16,Bass,Owen,Deeside Runners,Male Vet 50,00:38:54
-17,Kennedy,Ali,Lochaber Athletic Club,Male Vet 50,00:39:38
-18,Largey,Ciara,Lochaber Athletic Club,Female,00:39:40
-19,Lang,Kenny,Lochaber Athletic Club,Male Vet 40,00:40:07
-20,Kennedy,Peter,Lochaber Athletic Club,Male Vet 40,00:40:15
-21,Gunn,Tark,Lochaber Athletic Club,Male Vet 40,00:40:27
-22,Beard,Stephen,Unattached,Male,00:40:50
-23,MacKinnon,Barrie,Lochaber Athletic Club,Male,00:40:58
-24,Forster,Damien,Lochaber Athletic Club,Male Vet 40,00:41:27
-25,Blackhall,Amanda,Lochaber Athletic Club,Female Vet 40,00:41:35
-26,Taylor,Gordie,Highland Hill Runners,Male Vet 50,00:42:10
-27,Willetts,Mark,Lochaber Athletic Club,Male Vet 50,00:42:25
-28,Forster,Nix,Lochaber Athletic Club,Female Vet 40,00:43:30
-29,Simpson,Stuart,Stornoway Running Club,Male Vet 40,00:43:43
-30,MacLean,Robert,Lochaber Athletic Club,Male Vet 40,00:44:15
-31,Connor,Julia,Moorfoot,Female Vet 40,00:44:36
-32,Wallace,Craig,Vegan Runners,Male,00:45:15
-33,Denny,Colin,Lochaber Athletic Club,Male Vet 50,00:46:01
-34,Taylor,William,Unattached,Male,00:46:35
-35,Duncan,David,Ochil Hill Runners,Male Vet 60,00:48:10
-36,Douglas,George,Westerlands Cross Country Club,Male Vet 40,00:48:35
-37,Marsh,Duncan,Unattached,Male Vet 40,00:49:05
-38,Ross,Susan Jane,Lochaber Athletic Club,Female Vet 40,00:49:35
-39,Pearce,Emma,Lochaber Athletic Club,Female Vet 50,00:50:16
-40,Oliver,David,Deeside Runners,Male Vet 50,00:50:39
-41,MacMillan,Ross,Lochaber Athletic Club,Male,00:51:39
-42,Smith,Gordon,Lochaber Athletic Club,Male Vet 60,00:51:44
-43,Adams,Chris,Unattached,Male Vet 40,00:52:17
-44,Tighe,Mick,Lochaber Athletic Club,Male Vet 60,00:53:37
-45,Tighe,Kathy,Lochaber Athletic Club,Female Vet 50,00:54:46
-46,Mair Bellshaw,Sara,Lochaber Athletic Club,Female,00:55:41
-47,MacKinnon,Vikki,Lochaber Athletic Club,Female,00:56:01
-48,Oliver,Jane,Deeside Runners,Female Vet 50,00:57:15
-49,MacCallum,Mairi,Lochaber Athletic Club,Female Vet 40,00:58:28
-50,Campbell,Brian,Lochaber Athletic Club,Male Vet 50,00:59:04
-51,Campbell,Klara,Lochaber Athletic Club,Female Vet 40,00:59:04
-52,MacDonald,Guy,Unattached,Junior Male,01:00:21
-53,Smith,Helen,Lochaber Athletic Club,Female Vet 40,01:00:37
-54,Kirkdale,Brian,Hastings Road Runners,Male Vet 50,01:01:24
-55,Orr,Ernie,Lochaber Athletic Club,Male Vet 70,01:02:00
-56,Kitson,Aileen,Lochaber Athletic Club,Female Vet 50,01:05:38
-57,Jardine,Jimmy,Lochaber Athletic Club,Male Vet 70,01:08:06
+1,Wild,Finlay,Lochaber Athletic Club,M,00:28:50
+2,Fraser,Calum,Lochaber Athletic Club,M,00:31:31
+3,Taylor,Luke,Highland Hill Runners,M,00:32:22
+4,MacDonald,Steve,Lochaber Athletic Club,M,00:33:49
+5,Smith,Alan,Deeside Runners,M50,00:34:10
+6,Whiteside,Gavin,Highland Hill Runners,M,00:34:40
+7,Traill,Steven,Lochaber Athletic Club,M,00:34:53
+8,Fallon,Steven,Carnethy Hill Runners,M50,00:35:00
+9,Gallie,David,Inverness Harriers,M50,00:35:35
+10,Forrest,Stuart,Highland Hill Runners,M,00:37:22
+11,MacDonald,Dougie,Highland Hill Runners,M40,00:37:51
+12,Wilson,Stewart,Inverness Harriers,M40,00:37:57
+13,MacMillan,Gavin,Lochaber Athletic Club,M,00:37:57
+14,Cymbalista,Pawel,Lochaber Athletic Club,M,00:38:01
+15,Baum,Diane,Lochaber Athletic Club,F,00:38:01
+16,Bass,Owen,Deeside Runners,M50,00:38:54
+17,Kennedy,Ali,Lochaber Athletic Club,M50,00:39:38
+18,Largey,Ciara,Lochaber Athletic Club,F,00:39:40
+19,Lang,Kenny,Lochaber Athletic Club,M40,00:40:07
+20,Kennedy,Peter,Lochaber Athletic Club,M40,00:40:15
+21,Gunn,Tark,Lochaber Athletic Club,M40,00:40:27
+22,Beard,Stephen,Unattached,M,00:40:50
+23,MacKinnon,Barrie,Lochaber Athletic Club,M,00:40:58
+24,Forster,Damien,Lochaber Athletic Club,M40,00:41:27
+25,Blackhall,Amanda,Lochaber Athletic Club,F40,00:41:35
+26,Taylor,Gordie,Highland Hill Runners,M50,00:42:10
+27,Willetts,Mark,Lochaber Athletic Club,M50,00:42:25
+28,Forster,Nix,Lochaber Athletic Club,F40,00:43:30
+29,Simpson,Stuart,Stornoway Running Club,M40,00:43:43
+30,MacLean,Robert,Lochaber Athletic Club,M40,00:44:15
+31,Connor,Julia,Moorfoot,F40,00:44:36
+32,Wallace,Craig,Vegan Runners,M,00:45:15
+33,Denny,Colin,Lochaber Athletic Club,M50,00:46:01
+34,Taylor,William,Unattached,M,00:46:35
+35,Duncan,David,Ochil Hill Runners,M60,00:48:10
+36,Douglas,George,Westerlands Cross Country Club,M40,00:48:35
+37,Marsh,Duncan,Unattached,M40,00:49:05
+38,Ross,Susan Jane,Lochaber Athletic Club,F40,00:49:35
+39,Pearce,Emma,Lochaber Athletic Club,F50,00:50:16
+40,Oliver,David,Deeside Runners,M50,00:50:39
+41,MacMillan,Ross,Lochaber Athletic Club,M,00:51:39
+42,Smith,Gordon,Lochaber Athletic Club,M60,00:51:44
+43,Adams,Chris,Unattached,M40,00:52:17
+44,Tighe,Mick,Lochaber Athletic Club,M60,00:53:37
+45,Tighe,Kathy,Lochaber Athletic Club,F50,00:54:46
+46,Mair Bellshaw,Sara,Lochaber Athletic Club,F,00:55:41
+47,MacKinnon,Vikki,Lochaber Athletic Club,F,00:56:01
+48,Oliver,Jane,Deeside Runners,F50,00:57:15
+49,MacCallum,Mairi,Lochaber Athletic Club,F40,00:58:28
+50,Campbell,Brian,Lochaber Athletic Club,M50,00:59:04
+51,Campbell,Klara,Lochaber Athletic Club,F40,00:59:04
+52,MacDonald,Guy,Unattached,M16,01:00:21
+53,Smith,Helen,Lochaber Athletic Club,F40,01:00:37
+54,Kirkdale,Brian,Hastings Road Runners,M50,01:01:24
+55,Orr,Ernie,Lochaber Athletic Club,M70,01:02:00
+56,Kitson,Aileen,Lochaber Athletic Club,F50,01:05:38
+57,Jardine,Jimmy,Lochaber Athletic Club,M70,01:08:06

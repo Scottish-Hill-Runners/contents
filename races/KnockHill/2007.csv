@@ -1,47 +1,46 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Hargreaves,John,Carnegie Harriers,MS,00:30:00
-2,Leslie,Nick,Unattached,MS,00:32:43
-3,Anderson,Ian,SPSAAC,MV,00:33:00
-4,Sym,Digby,Strathearn Harriers,MV,00:33:06
-5,Phillips,Derek,Perth Road Runners,MV,00:33:23
-6,Walker,Craig,Central Athletic Club,MS,00:33:58
-7,Love,Craig,Dundee Hawkhill,MS,00:34:08
-8,Torgesen,Alan,Unattached,MS,00:34:34
-9,Muir,Neil,Perth Road Runners,MV,00:34:52
-10,Goulson,Dave,Unattached,MV,00:35:09
-11,Mestecky,Philip,Strathearn Harriers,MS,00:35:30
-12,Gordon,Claire,Hunters Bog Trotters,FS,00:35:53
-13,Tinsley,Matt,Unattached,MS,00:36:02
-14,McNulty,Ian,Unattached,MS,00:36:23
-15,Wake,Ben,Unattached,MS,00:36:36
-16,Entwisle,Simon,Pennine Fell Runners,MV,00:36:43
-17,Beattie,Ian,Strathearn Harriers,MV,00:36:54
-18,Bell,David,Lothian,MV,00:37:12
-19,Orr,Johnstone,Unattached,MS,00:37:32
-20,Beckett,Daniel,Hunters Bog Trotters,MS,00:38:09
-21,Gordon,Hamish,Unattached,MV,00:38:22
-22,McIntosh,Colin,Unattached,MV,00:38:36
-23,Alexander,Jim,Lothian,MV,00:38:37
-24,Bell,Joe,Unattached,MS,00:38:40
-25,Higginbottom,Jacqui,Central Athletic Club,FV,00:38:42
-26,Wake,Adrian,Strathearn Harriers,MV,00:39:01
-27,Pritchard,John,Unattached,MS,00:39:10
-28,Murray,Frances,Central Athletic Club,MV,00:39:27
-29,Morrison,Gordon,Strathearn Harriers,MV,00:39:51
-30,Cromer,Stephen,Dundee Hawkhill,MV,00:40:15
-31,Bussey,James,Unattached,MV,00:41:08
-32,Gaylor,Peter,Strathearn Harriers,MS,00:41:46
-33,Magor,Maggie,Central Athletic Club,FV,00:42:25
-34,Mestecky,Elizabeth,Strathearn Harriers,FV,00:42:36
-35,Batchelor,Nida,Unattached,FS,00:42:57
-36,Tilbrook,Cathy,Strathearn Harriers,FV,00:43:18
-37,Walker,Dave,Macclesfield,MV,00:43:34
-38,McManus,Ian,Irvine Athletics,MV,00:44:05
-39,Manners,Alison,Strathearn Harriers,FV,00:44:18
-40,Crighton,Shelagh,Strathearn Harriers,FV,00:45:06
-41,Dewar,Campbell,Unattached,MS,00:46:14
-42,Park,Angela,Unattached,FS,00:46:57
-43,Weir,Johnathan,Unattached,MS,00:46:57
-44,Turnbull,Drew,Westerlands,MV,00:47:28
-45,Syme,Dawn,Unattached,FV,00:47:41
-46,Spalding,Jim,Central Athletic Club,MV,DNR
+1,Hargreaves,John,Carnegie Harriers,M,00:30:00
+2,Leslie,Nick,Unattached,M,00:32:43
+3,Anderson,Ian,SPSAAC,M,00:33:00
+4,Sym,Digby,Strathearn Harriers,M,00:33:06
+5,Phillips,Derek,Perth Road Runners,M,00:33:23
+6,Walker,Craig,Central Athletic Club,M,00:33:58
+7,Love,Craig,Dundee Hawkhill,M,00:34:08
+8,Torgesen,Alan,Unattached,M,00:34:34
+9,Muir,Neil,Perth Road Runners,M,00:34:52
+10,Goulson,Dave,Unattached,M,00:35:09
+11,Mestecky,Philip,Strathearn Harriers,M,00:35:30
+12,Gordon,Claire,Hunters Bog Trotters,F,00:35:53
+13,Tinsley,Matt,Unattached,M,00:36:02
+14,McNulty,Ian,Unattached,M,00:36:23
+15,Wake,Ben,Unattached,M,00:36:36
+16,Entwisle,Simon,Pennine Fell Runners,M,00:36:43
+17,Beattie,Ian,Strathearn Harriers,M,00:36:54
+18,Bell,David,Lothian,M,00:37:12
+19,Orr,Johnstone,Unattached,M,00:37:32
+20,Beckett,Daniel,Hunters Bog Trotters,M,00:38:09
+21,Gordon,Hamish,Unattached,M,00:38:22
+22,McIntosh,Colin,Unattached,M,00:38:36
+23,Alexander,Jim,Lothian,M,00:38:37
+24,Bell,Joe,Unattached,M,00:38:40
+25,Higginbottom,Jacqui,Central Athletic Club,F,00:38:42
+26,Wake,Adrian,Strathearn Harriers,M,00:39:01
+27,Pritchard,John,Unattached,M,00:39:10
+28,Murray,Frances,Central Athletic Club,M,00:39:27
+29,Morrison,Gordon,Strathearn Harriers,M,00:39:51
+30,Cromer,Stephen,Dundee Hawkhill,M,00:40:15
+31,Bussey,James,Unattached,M,00:41:08
+32,Gaylor,Peter,Strathearn Harriers,M,00:41:46
+33,Magor,Maggie,Central Athletic Club,F,00:42:25
+34,Mestecky,Elizabeth,Strathearn Harriers,F,00:42:36
+35,Batchelor,Nida,Unattached,F,00:42:57
+36,Tilbrook,Cathy,Strathearn Harriers,F,00:43:18
+37,Walker,Dave,Macclesfield,M,00:43:34
+38,McManus,Ian,Irvine Athletics,M,00:44:05
+39,Manners,Alison,Strathearn Harriers,F,00:44:18
+40,Crighton,Shelagh,Strathearn Harriers,F,00:45:06
+41,Dewar,Campbell,Unattached,M,00:46:14
+42,Park,Angela,Unattached,F,00:46:57
+43,Weir,Johnathan,Unattached,M,00:46:57
+44,Turnbull,Drew,Westerlands,M,00:47:28
+45,Syme,Dawn,Unattached,F,00:47:41

@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Noble,Ally,Braemar,M,00:30:54
 16,Dalziel,Charlie,"Royal Guard, Ballater",M,00:31:41
 17,Gammage,Richard,Aylesbury,M,00:32:03
-18,Colquhoun,Lucy,Carnethy,L,00:32:05
+18,Colquhoun,Lucy,Carnethy,F,00:32:05
 19,Mills,Ian,Crail,M,00:32:07
 20,Thompson,Carl,RAF,M,00:32:26
 21,Long,Steve,Tring,M,00:32:45
@@ -31,7 +31,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 30,Mackay,Ian,HBT,M,00:34:08
 31,Scheck,Michael,Aberdeen,M,00:34:30
 32,Vickers,Tim,Unattached,M,00:34:37
-33,Brown,Mhairi,Kirkcaldy,L,00:34:46
+33,Brown,Mhairi,Kirkcaldy,F,00:34:46
 34,Mardall,Nick,Deeside Runners,M,00:34:54
 35,Matthews,Steve,Broughty Ferry,M,00:35:12
 36,Throup,Simon,Wharfedale Harriers,M,00:35:50
@@ -42,7 +42,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Hewett,Russell,Aberdeen,M,00:36:56
 42,Ledlie,Colin,Carnethy,M,00:37:15
 43,Zumides (????),John,Unattached,M,00:37:19
-44,Hughes,Ali,Aberdeen,L,00:37:19
+44,Hughes,Ali,Aberdeen,F,00:37:19
 45,Friend,Alasdair,Edinburgh,M,00:38:09
 46,Wood,Peter,Stonehaven,M,00:38:16
 47,Dumont,Daniel,Unattached,M,00:38:26
@@ -51,8 +51,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 50,Hough,Matt,Braemar,M,00:38:38
 51,Wall,Dick,HBT,M,00:39:23
 52,Bailey,Sam,Unattached,M,00:39:50
-53,Monteith,Deborah,Birnam,L,00:40:16
-54,Hall,Kirsty,Wharfedale Harriers,L,00:40:33
+53,Monteith,Deborah,Birnam,F,00:40:16
+54,Hall,Kirsty,Wharfedale Harriers,F,00:40:33
 55,Angus,Henry,Elgin,M,00:41:43
 56,Hird,David,Wharfedale Harriers,M,00:42:03
 57,Watts,Tim,Dorset,M,00:42:47

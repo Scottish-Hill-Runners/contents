@@ -8,7 +8,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 7,Lecomie,Gregoire,Unattached,M,00:31:12
 8,Shaw,Trevor,Lochtayside,M60,00:34:08
 9,Mackenzie,Angela,Strathearn Harriers,F40,00:35:00
-10,Poulis,Roman,Unattached,MU23,00:37:54
+10,Poulis,Roman,Unattached,M23,00:37:54
 11,Gaskell,Jen,Lochtayside,F,00:39:19
 12,Forster,Kate,Lochtayside,F50,00:41:29
 13,Meinardi,Luca,Unattached,M40,00:41:53
@@ -33,5 +33,5 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Bonelli,Louis,Unattached,M,01:01:50
 33,Vincent,Leah,Unattached,F40,01:03:23
 34,Devillard,Vincent,Paris 69,M,01:05:33
-35,Boemaars,Pepper,Unattached,FU23,01:11:30
+35,Boemaars,Pepper,Unattached,F23,01:11:30
 36,McFadden,Terry,Unattached,M50,01:16:22

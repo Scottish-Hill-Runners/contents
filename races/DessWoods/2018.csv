@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Wilson,Felix,Unattached,MJ,00:33:51
-2,Wright,Joseph,Deeside Runners,MJ,00:34:15
-3,Williamson,Clyde,Cosmic Hillbashers,MJ,00:35:43
+1,Wilson,Felix,Unattached,M16,00:33:51
+2,Wright,Joseph,Deeside Runners,M16,00:34:15
+3,Williamson,Clyde,Cosmic Hillbashers,M16,00:35:43
 4,Henry,Peter,Deeside Runners,M,00:36:33
 5,Harper,Kev,Deeside Runners,M40,00:36:43
 6,Pringle,Stuart,Deeside Runners,M,00:37:01
@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Entwistle,Marie,Deeside Runners,F40,00:44:20
 19,Fiddes,Graham,Aberdeen,M40,00:44:37
 20,Ingram,Richard,Cosmic Hillbashers,M40,00:44:39
-21,Mason,Abigail,Deeside Runners,FJ,00:44:44
+21,Mason,Abigail,Deeside Runners,F16,00:44:44
 22,Matheson,Euan,Rebel PT,M,00:44:55
 23,Whiteley,Philip,Unattached,M,00:45:50
 24,Henderson,Katie,Deeside Runners,F40,00:46:09
@@ -42,7 +42,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Thomson,Marie,Unattached,F40,00:51:34
 42,Knox,Sarah,Aberdeen,F40,00:52:15
 43,Brindley,Garry,Cowie Crawlers,M50,00:52:18
-44,Gomersall,Josie,Cosmic Hillbashers,FJ,00:52:22
+44,Gomersall,Josie,Cosmic Hillbashers,F16,00:52:22
 45,Wallace,Sarah,Metro Aberdeen Running Club,F,00:53:19
 46,Wallace,Liz,Deeside Runners,F60,00:53:46
 47,Wallace,Joe,Unattached,M60,00:54:12

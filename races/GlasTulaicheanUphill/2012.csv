@@ -1,42 +1,42 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Greig,Kyle,Forrres Harriers,MS,00:38:11
-2,Faulkner,Paul,Carnethy,MS,00:38:24
-3,Bonnyman,Brian,Westerlands,MV40,00:39:20
-4,Weir,David,Forrres Harriers,MV50,00:39:43
-5,Green,Gareth,Portobello,MS,00:40:56
-6,Cox,Chloe,Lothian,FS,00:43:45
-7,Smith,Stewart,Cosmics,MS,00:44:00
-8,Anderson,Ian,Dundee hawkhill,MV40,00:44:04
-9,Sym,Digby,Strathearn Harriers,MV40,00:44:30
-10,Oldham,Veronique,Cosmics,FV40,00:45:26
-11,Buchanan,Peter,Portobello,MV40,00:46:05
-12,Geoghegan,Michael,Portobello,MS,00:46:22
-13,Earle,Paddy,Tinto Hill Runners,MV50,00:47:08
-14,Bennet,Finlay,Unattached,MV40,00:47:17
-15,Mitchell,Dave,Dundee hawkhill,MV50,00:47:58
-16,Watson,Gordon,Dundee hawkhill,MV60,00:48:21
-17,reynolds,Nigel,Dundee hawkhill,MV50,00:48:25
-18,Matthews,Steve,Dundee hawkhill,MV40,00:49:24
-19,Love,Craig,Dundee hawkhill,MV40,00:49:36
-20,Whittingham,Bryan,Fife AC,MS,00:49:58
-21,Connor,Julia,Moorfoot,FS,00:50:09
-22,Roberts,Clive,Fife AC,MV50,00:50:22
-23,Forte,Phil,Dundee hawkhill,MV50,00:50:30
-24,Blair-Fish,John,Carnethy,MV60,00:50:57
-25,Maass,Digby,Carnethy,MV60,00:51:41
-26,Winton,Simon,Unattached,MV50,00:51:46
-27,Shaw,Trevor,Lochtayside,MV40,00:51:57
-28,Hill,Nigel,Unattached,MV50,00:54:00
-29,Calothis,Marinos,Kinross Road Runners,MV40,00:54:05
-30,Hunter,Mary,Portobello,FV40,00:54:42
-31,Holmes,Eddie,Dundee hawkhill,MV40,00:54:54
-32,McLean,Herbie,Lochtayside,MV60,00:55:10
-33,Irving,John,Dundee Road Runners,MV40,00:56:18
-34,Rogowski,Andreas,Kinross Road Runners,MV40,00:57:57
-35,Cromar,Steve,Dundee hawkhill,MV70,01:00:49
-36,Hanlon,Lyn,Dundee hawkhill,FV50,01:01:48
-37,Love,Charlie,Dundee Hawkhill,MV60,01:03:08
-38,Paul,Brenda,Westerlands,FS,01:10:53
-39,Andrew,Jamie,Unattached,MV40,01:11:58
-40,Stapely,Tony,Portobello,MV60,01:12:40
-41,Holloway,Dave,Unattached,MV50,01:16:18
+1,Greig,Kyle,Forrres Harriers,M,00:38:11
+2,Faulkner,Paul,Carnethy,M,00:38:24
+3,Bonnyman,Brian,Westerlands,M40,00:39:20
+4,Weir,David,Forrres Harriers,M50,00:39:43
+5,Green,Gareth,Portobello,M,00:40:56
+6,Cox,Chloe,Lothian,F,00:43:45
+7,Smith,Stewart,Cosmics,M,00:44:00
+8,Anderson,Ian,Dundee hawkhill,M40,00:44:04
+9,Sym,Digby,Strathearn Harriers,M40,00:44:30
+10,Oldham,Veronique,Cosmics,F40,00:45:26
+11,Buchanan,Peter,Portobello,M40,00:46:05
+12,Geoghegan,Michael,Portobello,M,00:46:22
+13,Earle,Paddy,Tinto Hill Runners,M50,00:47:08
+14,Bennet,Finlay,Unattached,M40,00:47:17
+15,Mitchell,Dave,Dundee hawkhill,M50,00:47:58
+16,Watson,Gordon,Dundee hawkhill,M60,00:48:21
+17,reynolds,Nigel,Dundee hawkhill,M50,00:48:25
+18,Matthews,Steve,Dundee hawkhill,M40,00:49:24
+19,Love,Craig,Dundee hawkhill,M40,00:49:36
+20,Whittingham,Bryan,Fife AC,M,00:49:58
+21,Connor,Julia,Moorfoot,F,00:50:09
+22,Roberts,Clive,Fife AC,M50,00:50:22
+23,Forte,Phil,Dundee hawkhill,M50,00:50:30
+24,Blair-Fish,John,Carnethy,M60,00:50:57
+25,Maass,Digby,Carnethy,M60,00:51:41
+26,Winton,Simon,Unattached,M50,00:51:46
+27,Shaw,Trevor,Lochtayside,M40,00:51:57
+28,Hill,Nigel,Unattached,M50,00:54:00
+29,Calothis,Marinos,Kinross Road Runners,M40,00:54:05
+30,Hunter,Mary,Portobello,F40,00:54:42
+31,Holmes,Eddie,Dundee hawkhill,M40,00:54:54
+32,McLean,Herbie,Lochtayside,M60,00:55:10
+33,Irving,John,Dundee Road Runners,M40,00:56:18
+34,Rogowski,Andreas,Kinross Road Runners,M40,00:57:57
+35,Cromar,Steve,Dundee hawkhill,M70,01:00:49
+36,Hanlon,Lyn,Dundee hawkhill,F50,01:01:48
+37,Love,Charlie,Dundee Hawkhill,M60,01:03:08
+38,Paul,Brenda,Westerlands,F,01:10:53
+39,Andrew,Jamie,Unattached,M40,01:11:58
+40,Stapely,Tony,Portobello,M60,01:12:40
+41,Holloway,Dave,Unattached,M50,01:16:18

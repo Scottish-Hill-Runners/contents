@@ -1,25 +1,25 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside,MS,00:19:34
-2,Ward,Ray,HBT,MS,00:20:48
-3,Whitehead,Dan,Deeside,MS,00:21:00
-4,Murray,Doug,HBT,MS,00:24:58
-5,Bain,Andy,MAROC,MV,00:25:19
-6,Henry,Peter,Deeside,MS,00:25:43
-7,Davie,Kevin,Carnegie,MS,00:26:04
-8,MacKay,Iain,Braemar,MSV,00:27:22
-9,Williams,Rupert,Cosmics,MSV,00:28:17
-10,Clark,David,Garioch RR,MV,00:28:39
-11,McLeod,Roddy,Metro Aberdeen,MS,00:28:47
-12,Smith,Claire,Metro Aberdeen,FV,00:28:47
-13,Duncan,David,Ochil,MSV,00:29:57
-14,Calder,Gavin,Edinburgh Tri,MS,00:30:10
-15,Clark,Lesley,u/a,FS,00:30:15
-16,Smith,Ann,Cosmics,FV,00:32:05
-17,Sinclair,Melanie,Carnegie,FS,00:32:07
-18,Angus,Mel,Fat Bobs,FV,00:33:23
-19,Cassie,Duncan,u/a,MS,00:33:48
-20,Williams,Emma,u/a,FS,00:37:34
-21,Hay,Debz,Anster Haddies,FV,00:37:48
-22,Hay,George,Anster Haddies,MV,00:37:48
-23,Bryce,Vivian,u/a,FV,00:38:58
-24,Mitchell,Ian,u/a,MV,00:39:15
+1,Simpson,Robbie,Deeside,M,00:19:34
+2,Ward,Ray,HBT,M,00:20:48
+3,Whitehead,Dan,Deeside,M,00:21:00
+4,Murray,Doug,HBT,M,00:24:58
+5,Bain,Andy,MAROC,M,00:25:19
+6,Henry,Peter,Deeside,M,00:25:43
+7,Davie,Kevin,Carnegie,M,00:26:04
+8,MacKay,Iain,Braemar,M40,00:27:22
+9,Williams,Rupert,Cosmics,M40,00:28:17
+10,Clark,David,Garioch RR,M,00:28:39
+11,McLeod,Roddy,Metro Aberdeen,M,00:28:47
+12,Smith,Claire,Metro Aberdeen,F,00:28:47
+13,Duncan,David,Ochil,M40,00:29:57
+14,Calder,Gavin,Edinburgh Tri,M,00:30:10
+15,Clark,Lesley,u/a,F,00:30:15
+16,Smith,Ann,Cosmics,F,00:32:05
+17,Sinclair,Melanie,Carnegie,F,00:32:07
+18,Angus,Mel,Fat Bobs,F,00:33:23
+19,Cassie,Duncan,u/a,M,00:33:48
+20,Williams,Emma,u/a,F,00:37:34
+21,Hay,Debz,Anster Haddies,F,00:37:48
+22,Hay,George,Anster Haddies,M,00:37:48
+23,Bryce,Vivian,u/a,F,00:38:58
+24,Mitchell,Ian,u/a,M,00:39:15

@@ -1,18 +1,18 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wright,Angus,Edinburgh Uni H&H,M,00:32:14
-2,Hilton,Thomas,Moorfoot Runners,MU20,00:32:42
+2,Hilton,Thomas,Moorfoot Runners,M20,00:32:42
 3,Chepelin,Alexander,Carnethy HRC,M,00:33:04
 4,Abernethy,Rory,Ochil Hill Runners,M,00:33:16
 5,Finn,Lydon,Unattached,M,00:33:36
-6,Taylor,Rowan,Lasswade AC,MU20,00:33:54
+6,Taylor,Rowan,Lasswade AC,M20,00:33:54
 7,Foster,George,Keswick AC,M,00:34:08
-8,Pagett,Harris,Heriot-Watt University,MU20,00:34:15
+8,Pagett,Harris,Heriot-Watt University,M20,00:34:15
 9,Sparks,Robert,Edinburgh Uni H&H,M,00:34:33
 10,Forrest,Jenny,Ochil Hill Runners,M50,00:35:04
 11,Davies,Fred,Shettleston Harriers,M,00:35:11
 12,Leitch,Samuel,Heriot-Watt University,M,00:35:38
-13,Dunlop,Alex,Central AC,MU20,00:35:49
-14,Ewan,Dowd,Edinburgh Uni H&H,MU20,00:35:56
+13,Dunlop,Alex,Central AC,M20,00:35:49
+14,Ewan,Dowd,Edinburgh Uni H&H,M20,00:35:56
 15,Mckeeman,Iain,Unattached,M,00:36:01
 16,Crombie,James,Carnethy HRC,M,00:36:34
 17,Muir,Cameron,Shettleston Harriers,M,00:36:35
@@ -27,27 +27,27 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 26,Forsyth,Lewis,Unattached,M,00:38:05
 27,McGonigle,Aedan,Shettleston Harriers,M,00:38:18
 28,Luetchford,Alex,HBT,M,00:38:34
-29,Nonhebel,Caleb,Salomon,MU20,00:38:41
-30,Hardie,Kieran,Harmeny AC,MU20,00:38:44
-31,Jordan,Iain,Perth Strathtay Harriers,MU20,00:38:46
+29,Nonhebel,Caleb,Salomon,M20,00:38:41
+30,Hardie,Kieran,Harmeny AC,M20,00:38:44
+31,Jordan,Iain,Perth Strathtay Harriers,M20,00:38:46
 32,Cunnah,Harrison,Strathearn Harriers,M,00:38:47
 33,McNicol,Emily,Glasgow Uni H&H,F,00:38:55
 34,Belton-Schure,Aidan,HBT,M,00:39:04
-35,Grant,Andrew,Strathearn Harriers,MU20,00:39:07
+35,Grant,Andrew,Strathearn Harriers,M20,00:39:07
 36,Crawford,Ewan,HBT,M,00:39:29
-37,Taylor,Jessica,Unattached,FU20,00:39:48
+37,Taylor,Jessica,Unattached,F20,00:39:48
 38,Turnbull,Jonathan,Strathearn Harriers,M40,00:39:48
 39,Reid,Jim,Strathearn Harriers,M40,00:39:54
 40,Horne,Arran,Glasgow Uni H&H,M,00:39:59
 41,Warren,Graeme,Strathearn Harriers,M40,00:40:06
 42,Robinson,Jamie,Unattached,M,00:40:17
 43,Saunders,Andrew,Stirling University,M,00:40:27
-44,Sweeney,Matthew,University of Strathclyde,MU20,00:40:30
+44,Sweeney,Matthew,University of Strathclyde,M20,00:40:30
 45,Gough,Nick,Strathearn Harriers,M40,00:40:36
 46,Shepherd,Oscar,Edinburgh Uni H&H,M,00:40:40
 47,Wilkins,Elliot,Stirling University,M,00:40:45
 48,Raynor,Finlay,Glasgow Uni H&H,M,00:40:49
-49,McBean,Calum,Strathearn Harriers,MU17,00:40:58
+49,McBean,Calum,Strathearn Harriers,M17,00:40:58
 50,Henderson,Scott,Westerlands CCC,M40,00:40:59
 51,Ainslie,Stephen,Strathearn Harriers,M,00:41:02
 52,Bowers,William,Ochil Hill Runners,M,00:41:05
@@ -64,7 +64,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 63,Ledingham,Georgia,Edinburgh Uni H&H,F,00:42:40
 64,Butler,Chris,Westerlands CCC,M,00:43:04
 65,Browell,Jethro,Unattached,M,00:43:14
-66,Middleton,Aaron,Unattached,MU17,00:43:17
+66,Middleton,Aaron,Unattached,M17,00:43:17
 67,Bettin,Fabian,Unattached,M,00:43:31
 68,O'Callaghan,Alan,Unattached,M,00:43:36
 69,Belcher,Erica,Unattached,F,00:43:39
@@ -74,18 +74,18 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 73,Newton,Matthew,Kinross Road Runners,M50,00:44:12
 74,Blake,Mimi,Edinburgh Uni H&H,F,00:44:14
 75,McKinnon,Sam,Unattached,M,00:44:17
-76,Atkinson,Emily,Unattached,FU17,00:44:18
+76,Atkinson,Emily,Unattached,F17,00:44:18
 77,Wheeler,Mark,Hamilton Harriers,M40,00:44:19
 78,Mackinnon,Gordon,Lochaber AC,M40,00:44:27
 79,Finch,Tom,Westerlands CCC,M,00:44:33
-80,Keshwar,Kunal,Glasgow Uni H&H,MU20,00:44:41
+80,Keshwar,Kunal,Glasgow Uni H&H,M20,00:44:41
 81,Harries,Ieuan,Glasgow Uni H&H,M,00:44:41
 82,Henderson,Calum,Stirling University,M,00:44:45
 83,Tippett,Levi,Stirling University,M,00:44:50
 84,Smith,Gavin,HBT,M40,00:44:56
 85,Weir,Jonathan,Unattached,M40,00:45:02
 86,Lorimer,Hayden,HBT,M50,00:45:03
-87,Meldrum,Archie,Stirling University,MU20,00:45:05
+87,Meldrum,Archie,Stirling University,M20,00:45:05
 88,Riggans,Liam,Carnethy HRC,M40,00:45:07
 89,Han,Andrew,Fulham Running Club,M40,00:45:18
 90,Richards,Amy,Westerlands CCC,F,00:45:19
@@ -98,7 +98,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 97,Wilson,Malcolm,Westerlands CCC,M,00:45:50
 98,Armstrong,Angus,Unattached,M,00:45:56
 99,Skeffington,Alastair,Wee County Harriers,M,00:46:08
-100,Lonergan,Hugh,Glasgow Uni H&H,MU20,00:46:11
+100,Lonergan,Hugh,Glasgow Uni H&H,M20,00:46:11
 101,Gray,Andrew,Unattached,M40,00:46:12
 102,James,Dom,Unattached,M,00:46:15
 103,Reid,Don,Westerlands CCC,M60,00:46:45
@@ -117,7 +117,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 116,Gilmore,Iain,Carnethy HRC,M,00:47:32
 117,Hemingway,Ewan,Unattached,M,00:47:34
 118,Massie,Grant,Unattached,M,00:47:37
-119,Barennes,Carla,Glasgow Uni H&H,FU20,00:47:38
+119,Barennes,Carla,Glasgow Uni H&H,F20,00:47:38
 120,Butler,Ossian,Westerlands CCC,M40,00:47:56
 121,Chang,Michael,Westerlands CCC,M,00:47:58
 122,Garioch,Tara-Tallulah,Glasgow Uni H&H,F,00:48:02
@@ -229,7 +229,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 228,Oliphant,David,Unattached,M60,00:57:16
 229,O,Eoin,Unattached,M,00:57:18
 230,Boulton,Rebecca,Unattached,F,00:57:28
-231,Brown,Lucy,Glasgow Uni H&H,FU20,00:57:32
+231,Brown,Lucy,Glasgow Uni H&H,F20,00:57:32
 232,Wardell,Jack,Unattached,M,00:57:37
 233,Wilson,Joan,Lomond Hill Runners,F60,00:57:38
 234,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:57:43
@@ -248,7 +248,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 247,Sadaj,Kasia,Vegan Runners,F40,00:59:03
 248,McAdam,Sarah,Portobello,F40,00:59:08
 249,McDermid,Allan,Bellahouston RR,M40,00:59:09
-250,Stuart,Daniel,Heriot-Watt University,MU20,00:59:10
+250,Stuart,Daniel,Heriot-Watt University,M20,00:59:10
 251,Murdo,William,Unattached,M60,00:59:16
 252,McAree,Ruairi,Unattached,M,00:59:18
 253,Fernandez,Natasha,Wildheart Runners,F,00:59:21
@@ -287,7 +287,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 286,Leask,Duncan,Stirling Triathlon Club,M50,01:03:10
 287,ure,barry,Wee County Harriers,M40,01:03:12
 288,Vause,Lee,RTC Warriors,M50,01:03:15
-289,Graveling,Grace,Wee County Harriers,FU20,01:03:47
+289,Graveling,Grace,Wee County Harriers,F20,01:03:47
 290,Thomson,Iain,Strathearn Harriers,M70,01:04:05
 291,Lambie,Douglas,Garscube Harriers,M60,01:04:22
 292,Creasey,Jonathan,Unattached,M50,01:04:30
@@ -295,14 +295,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 294,Bishop,Nicola,Stirling Triathlon Club,F40,01:04:59
 295,Johnstone,Louise,Unattached,F40,01:05:17
 296,MacNeil,Kevin,Unattached,M50,01:05:31
-297,Bogdanova,Yoana,Heriot-Watt University,FU20,01:05:43
+297,Bogdanova,Yoana,Heriot-Watt University,F20,01:05:43
 298,Burnes,Bernard,Bridge of Allan RC,M70,01:05:54
 299,Gill,Peter,Stirling Triathlon Club,M60,01:05:59
 300,MacDermaid,Anne,Unattached,F40,01:06:03
 301,taylor,keith,Unattached,M50,01:06:23
 302,Kromrey,Laura,Unattached,F,01:06:37
 303,Fullwood,Andrew,Westerlands CCC,M50,01:06:39
-304,Zohaib,Mohammad,Stirling University,MU20,01:06:46
+304,Zohaib,Mohammad,Stirling University,M20,01:06:46
 305,Young,Kevin,Unattached,M50,01:06:51
 306,Mcluckie,Ailsa,Unattached,F,01:07:59
 307,Lewis,Nia,Unattached,F40,01:08:02
@@ -323,7 +323,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 322,Michie,Joy,Unattached,F50,01:12:57
 323,Cunningham,Linda,Central AC,F50,01:13:06
 324,Wood,Louise,Unattached,F50,01:13:18
-325,Callaghan,Alex,University of Strathclyde,MU20,01:13:36
+325,Callaghan,Alex,University of Strathclyde,M20,01:13:36
 326,Martin,Clare,Strathearn Harriers,F60,01:13:45
 327,Watkin,Kerry,Unattached,F50,01:14:22
 328,Judith,Graham,Unattached,F50,01:14:22

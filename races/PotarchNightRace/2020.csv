@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wright,Joseph,Deeside Runners,M,00:29:42
 2,Henry,Peter,Deeside Runners,M,00:30:36
-3,Dempster,Calum,Unattached,MJ,00:30:50
+3,Dempster,Calum,Unattached,M16,00:30:50
 4,Davis,Adrian,Lomonds,M50,00:35:33
 5,Anderson,Callum,Cosmic Hillbashers,M,00:35:49
 6,Wheater,James,Cosmic Hillbashers,M,00:35:59
@@ -33,7 +33,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Robertson,Hugh,Insch Trail Running Club,M40,00:56:21
 33,Burgess,Warren,Deeside Runners,M60,00:56:23
 34,Pearce,Katie,Cosmic Hillbashers,F40,00:56:42
-35,Entwistle,Katie,Unattached,FJ,00:56:50
+35,Entwistle,Katie,Unattached,F16,00:56:50
 36,Martin,Clare,Deeside Runners,F50,00:57:51
 37,Roberts,Cheryl,Banchory Running Club,F,00:58:17
 38,Buskie,Luke,Unattached,M,00:58:18

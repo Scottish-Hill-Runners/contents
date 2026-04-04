@@ -16,14 +16,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Jardine,Joshua,Helm Hill Runners,M,00:56:45
 16,Lennon,Eoin,Carnethy HRC,M,00:56:46
 17,Martyn,Tom,Hunters Bog Trotters,M,00:56:52
-18,Otton,Thomas,Edinburgh University H&H,MJ,00:57:35
+18,Otton,Thomas,Edinburgh University H&H,M16,00:57:35
 19,Ainsworth,Michael,Helm Hill Runners,M,00:57:39
-20,Masson,Alistair,Edinburgh University H&H,MJ,00:57:44
+20,Masson,Alistair,Edinburgh University H&H,M16,00:57:44
 21,Boswood,Rowan,Unattached,M,00:57:56
 22,Flanagan,Dessie,Carnethy HRC,M40,00:58:22
 23,Stewart,Gregor,Westerlands CCC,M,00:58:35
 24,Braby,Liam,Carnethy HRC,M,00:58:37
-25,Morgan,Tim,Edinburgh University H&H,MJ,00:58:39
+25,Morgan,Tim,Edinburgh University H&H,M16,00:58:39
 26,Mitchell,John,Cosmic Hillbashers,M,00:58:45
 27,Whitlie,Stewart,Carnethy HRC,M50,00:58:49
 28,Yells,John,Lochaber Athletic Club,M,00:59:21
@@ -40,7 +40,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,Reid,Michael,Carnethy HRC,M40,01:02:08
 40,Whyte,Crawford,Fusion Triathlon Club,M,01:02:18
 41,Macleod,Richard,Lochaber Athletic Club,M,01:02:26
-42,Russell,Hannah,Helm Hill Runners,FJ,01:02:30
+42,Russell,Hannah,Helm Hill Runners,F16,01:02:30
 43,Rowntree,Tom,Unattached,M,01:02:39
 44,Crutchfield,Stuart,Lochaber Athletic Club,M,01:02:42
 45,Scott,Fraser,Lomond Hill Runners,M40,01:02:48
@@ -155,7 +155,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 154,Ward,Claire,Hunters Bog Trotters,F,01:13:31
 155,Niblock,Catherine,Helm Hill Runners,F,01:13:36
 156,Holden,David,Lomond Hill Runners,M,01:13:42
-157,Greens,Michael,Penicuik Harriers,MJ,01:13:44
+157,Greens,Michael,Penicuik Harriers,M16,01:13:44
 158,MacInnes,Garry,Carnethy HRC,M50,01:13:45
 159,Taylor,Gordie,Highland Hill Runners,M50,01:13:49
 160,Hogg,Alan,Carnethy HRC,M50,01:14:17
@@ -285,7 +285,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 284,Dickson,David,Westerlands CCC,M50,01:22:27
 285,Kelly,Graham,Westerlands CCC,M40,01:22:28
 286,Wallace,Neil,Pudsey & Bramley AC,M40,01:22:37
-287,Pecnik,Maks,Heriot-Watt University AC,MJ,01:22:39
+287,Pecnik,Maks,Heriot-Watt University AC,M16,01:22:39
 288,Gibson,Carrie,Helm Hill Runners,F40,01:22:47
 289,Kealy,Kevin,Harmeny AC,M40,01:22:47
 290,MacBroom,Graham,Unattached,M40,01:22:49
@@ -302,7 +302,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 301,Thomas,Neil,Hunters Bog Trotters,M40,01:23:41
 302,Coakley,Alex,Carnethy HRC,M,01:23:42
 303,Shoote,Marion,Unattached,F,01:23:42
-304,Noakes,Lucie,Dunoon Hill Runners,FJ,01:23:43
+304,Noakes,Lucie,Dunoon Hill Runners,F16,01:23:43
 305,Caldwell,Christine,Wee County Harriers,F40,01:23:43
 306,Mccullough,Stephen,Unattached,M50,01:23:44
 307,Eadie,Gordon,Carnethy HRC,M50,01:23:45
@@ -330,7 +330,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 329,Osborn,David,Lomond Hill Runners,M50,01:25:42
 330,Jablonski,Derek,Lomond Hill Runners,M50,01:25:44
 331,Fulham,John,Carnegie Harriers,M40,01:25:53
-332,Gorman,Duncan,Westerlands CCC,MJ,01:25:59
+332,Gorman,Duncan,Westerlands CCC,M16,01:25:59
 333,Brennan,Brian,Westerlands CCC,M60,01:26:02
 334,Coull,Andrew,Carnethy HRC,M40,01:26:12
 335,Baird,Stewart,Annan and District AC,M40,01:26:16

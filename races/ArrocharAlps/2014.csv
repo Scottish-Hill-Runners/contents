@@ -1,26 +1,26 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Harris,Mark,Lomond Hill Runners,MV40,03:33:45
-2,Whitlie,Stewart,Carnethy,MV50,03:37:55
-3,Gay,Jon,Lochaber,MV40,03:43:59
-4,Whiteside,Iain,Carnethy,M Open,03:49:52
-5,Ascroft,Jon,Carnethy,MV40,03:57:29
-6,White,David,Kilmarnock Harriers,MV40,03:59:44
-7,Foster,George,Ambleside,M Open,04:07:37
-8,Priestley,Andrea,Ochils,FV40,04:08:15
-9,Gilmore,Andrew,Carnethy,M Open,04:12:52
-10,Boyd,Euan,Carnethy,M Open,04:18:44
-11,MacKenzie,Donald,Lomond Hill Runners,MV40,04:19:26
-12,Leslie,Kerstin,Solway Orienteers,F Open,04:25:52
-13,Robinson,Madeline,Helensburgh,F Open,04:28:45
-14,Baum,Diane,Lochaber,F Open,04:36:20
-15,Scott,David,Ochils,MV50,04:48:30
-16,Riach,David,Westerlands,MV40,04:52:16
-17,Darling,Christopher,Unattached,M Open,04:53:12
-18,Walsh,David,Dunoon,MV40,05:06:48
-19,Hetherington,Michelle,Helensburgh,FV50,05:07:02
-20,Thom,Joanne,Edinburgh AC,F Open,05:07:30
-21,Anderson,Joanne,Carnethy,FV40,05:09:31
-22,McInnes,Hugh,Edinburgh,M Open,05:11:46
-26,Ingram,Richard,Garioch Road Runners,MV40,05:49:20
-27,MacDonald,Gio,Carnethy,MV40,05:49:21
-25,Wheeler,Mark,Hamilton Harriers,M Open,06:04:48
+1,Harris,Mark,Lomond Hill Runners,M40,03:33:45
+2,Whitlie,Stewart,Carnethy,M50,03:37:55
+3,Gay,Jon,Lochaber,M40,03:43:59
+4,Whiteside,Iain,Carnethy,M,03:49:52
+5,Ascroft,Jon,Carnethy,M40,03:57:29
+6,White,David,Kilmarnock Harriers,M40,03:59:44
+7,Foster,George,Ambleside,M,04:07:37
+8,Priestley,Andrea,Ochils,F40,04:08:15
+9,Gilmore,Andrew,Carnethy,M,04:12:52
+10,Boyd,Euan,Carnethy,M,04:18:44
+11,MacKenzie,Donald,Lomond Hill Runners,M40,04:19:26
+12,Leslie,Kerstin,Solway Orienteers,F,04:25:52
+13,Robinson,Madeline,Helensburgh,F,04:28:45
+14,Baum,Diane,Lochaber,F,04:36:20
+15,Scott,David,Ochils,M50,04:48:30
+16,Riach,David,Westerlands,M40,04:52:16
+17,Darling,Christopher,Unattached,M,04:53:12
+18,Walsh,David,Dunoon,M40,05:06:48
+19,Hetherington,Michelle,Helensburgh,F50,05:07:02
+20,Thom,Joanne,Edinburgh AC,F,05:07:30
+21,Anderson,Joanne,Carnethy,F40,05:09:31
+22,McInnes,Hugh,Edinburgh,M,05:11:46
+26,Ingram,Richard,Garioch Road Runners,M40,05:49:20
+27,MacDonald,Gio,Carnethy,M40,05:49:21
+25,Wheeler,Mark,Hamilton Harriers,M,06:04:48

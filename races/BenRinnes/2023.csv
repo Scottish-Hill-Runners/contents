@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Sasha,Carnethy HRC,M,01:58:30
 2,Halsall,Steve,Shettleston Harriers,M,02:03:14
-3,Wilson,Felix,Carnethy HRC,MU23,02:05:15
+3,Wilson,Felix,Carnethy HRC,M23,02:05:15
 4,Campbell,Alasdair,Cambuslang Harriers,M,02:06:17
 5,Pulham,Harry,Shettleston Harriers,M,02:07:03
 6,Davies,Fred,Shettleston Harriers,M,02:07:37
@@ -15,7 +15,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Rowe-Leete,Daniel,Highland Hill Runners,M,02:16:51
 15,Livesey,Ben,Moray Road Runners,M40,02:17:33
 16,Feltbower,Stephen,Ochil Hill Runners,M40,02:19:02
-17,Page,Holly,Carnethy HRC,FU23,02:20:03
+17,Page,Holly,Carnethy HRC,F23,02:20:03
 18,Clarkson,Alex,Shettleston Harriers,M,02:21:09
 19,Carter,Justin,Cambuslang Harriers,M50,02:22:27
 20,Gamble,Jonathan,Unattched,M,02:22:51
@@ -103,7 +103,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 102,Reid,Don,Westerlands CCC,M65,02:59:10
 103,Rowe,Matthew,Unattched,M,02:59:18
 104,McCahill,Emma,Westerlands CCC,F,02:59:45
-105,Cavanagh,Patrick,Aberdeen Uni AC,MU23,02:59:53
+105,Cavanagh,Patrick,Aberdeen Uni AC,M23,02:59:53
 106,Popple,Stephen,Highland Hill Runners,M55,03:00:11
 107,Sheridan,Sarah,Unattched,F55,03:00:39
 108,Gilmore,Neil,Carnethy HRC,M60,03:00:45

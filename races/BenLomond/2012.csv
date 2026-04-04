@@ -3,7 +3,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,MacCorquodale,Iain,Cambuslang,M,01:11:46
 3,Marshall,Brian,HELP,M40,01:14:22
 4,Eiser,Dave,Ochil Hill Runners,M,01:15:16
-5,Waldie,James,Carnethy,MU23,01:16:24
+5,Waldie,James,Carnethy,M23,01:16:24
 6,Johnston,Fergus,Gala Harriers,M,01:16:34
 7,Hutchinson,Charles,HBT,M,01:16:53
 8,Macinnes,Steven,Carnethy,M,01:16:55
@@ -26,7 +26,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Scott,Fraser,Lomond Hill Runners,M,01:23:34
 26,Love,Craig,Dundee Hawhill,M40,01:23:52
 27,Sweeney,Michael,Unattached,M,01:24:39
-28,Gilmore,Andrew,Carnethy,MU23,01:25:14
+28,Gilmore,Andrew,Carnethy,M23,01:25:14
 29,Malcolm,John,Lothian RC,M,01:25:19
 30,Heron,Gregor,Carnethy,M40,01:25:32
 31,Mackie,Peter,Unattached,M,01:26:04
@@ -41,7 +41,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 40,Riddell,Duncan,Westerlands,M40,01:29:05
 41,Cowan,David,Fife AC,M40,01:29:09
 42,Forrest,Stuart,Highland Hill Runners,M,01:29:15
-43,Rankin,Garry,Kilbarchan AAC,MU23,01:29:16
+43,Rankin,Garry,Kilbarchan AAC,M23,01:29:16
 44,Macdonald,Steve,Lochaber AC,M,01:29:26
 45,Campbell,Graeme,Inverness Harriers,M40,01:29:32
 46,Addy,Stephen,Cosmics,M,01:29:35

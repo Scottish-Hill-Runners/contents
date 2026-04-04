@@ -1,12 +1,12 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Williamson,Coll,HBT,M,0:05:22
 2,Harris,Mark,Fife AC,M40,0:05:23
-3,Gilmore,Iain,Carnethy,MJ,0:05:25
+3,Gilmore,Iain,Carnethy,M16,0:05:25
 4,Denovan,John,Tartan Warrior,M,0:05:27
 5,Fallas,Andrew,Carnethy,M,0:05:38
 6,Fallon,Steven,Carnethy,M40,0:05:40
 7,Morgan,Charlotte,Carnethy,F,0:05:45
-8,Harris,Tom,Fife AC,MJ,0:05:52
+8,Harris,Tom,Fife AC,M16,0:05:52
 9,Smith,Bruce,Carnethy,M40,0:05:53
 10,Orr,Robin,Bellahouston RR,M50,0:06:02
 11,Jones,Matthew,Carnethy,M,0:06:04
@@ -34,13 +34,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Fawthrop,Nigel,Carnethy,M40,0:07:22
 34,Gibson,Fraser,Carnethy,M,0:07:23
 35,Duncan,David,Ochil Hill Runners,M50,0:07:27
-36,Greig,Rory,Carnegie Harriers,MJ,0:07:35
+36,Greig,Rory,Carnegie Harriers,M16,0:07:35
 37,Gibson,Willie,Carnethy,M50,0:07:50
 38,Maass,Digby,Carnethy,M60,0:08:05
 39,Brindley,Sandy,Bellahouston RR,F,0:08:11
 40,Connor,Julia,Unattached,F,0:08:16
 41,Coltman,Alan,Teviotdale Harriers,M40,0:08:27
-42,Cameron,Scott,Carnethy,MJ,0:08:29
+42,Cameron,Scott,Carnethy,M16,0:08:29
 43,McPherson,Hugh,Tinto Hill Runners,M60,0:08:33
 44,Bowman,Jean,Lomond Hill Runners,F50,0:08:56
 45,Ingham,Cali,Carnethy,F50,0:09:07

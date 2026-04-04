@@ -1,85 +1,85 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Douglas,Andrew,Inverclyde,MS,00:15:33
-2,Anthony,Alasdair,Ochil HR,MS,00:16:39
-3,Gilmore,Andrew,Carnethy,MS,00:17:14
+1,Douglas,Andrew,Inverclyde,M,00:15:33
+2,Anthony,Alasdair,Ochil HR,M,00:16:39
+3,Gilmore,Andrew,Carnethy,M,00:17:14
 4,Naylor,Don,HBT,M40,00:17:16
-5,Crowe,Jamie,Central,MS,00:17:21
-6,Chepelin,Oleg,Shettleston,MS,00:17:26
-7,Fulton,David,HBT,MS,00:17:32
-8,Ward,Ray,HBT,MS,00:17:39
+5,Crowe,Jamie,Central,M,00:17:21
+6,Chepelin,Oleg,Shettleston,M,00:17:26
+7,Fulton,David,HBT,M,00:17:32
+8,Ward,Ray,HBT,M,00:17:39
 9,Kerr,Paul,Edinburgh H&H,M18,00:17:49
-10,Gilmore,Iain,Carnethy,MS,00:17:52
-11,Halsall,Steve,Westerlands,MS,00:17:56
-12,Mackie,Peter,Shettleston,MS,00:18:12
+10,Gilmore,Iain,Carnethy,M,00:17:52
+11,Halsall,Steve,Westerlands,M,00:17:56
+12,Mackie,Peter,Shettleston,M,00:18:12
 13,Wilson,Thomas,Garscube Harriers,M18,00:18:37
 14,Andrew,Mike,Carnethy,M50,00:19:01
-15,McBain,Johnnie,Dundee HH,MS,00:19:28
+15,McBain,Johnnie,Dundee HH,M,00:19:28
 16,Crowe,Des,Dundee HH,M50,00:19:30
-17,Cross,Daniel,Hyde Park Harriers,MS,00:19:45
-18,Cox,Alistair,Tinto Hill Runners,MS,00:19:58
+17,Cross,Daniel,Hyde Park Harriers,M,00:19:45
+18,Cox,Alistair,Tinto Hill Runners,M,00:19:58
 19,Gilmore,Neil,Carnethy,M50,00:19:59
 20,Hart,Al,HBT,M40,00:20:06
 21,Titmuss,Simon,Carnethy,M40,00:20:12
-22,Stuart,Dave,Unattached,MS,00:20:25
-23,Davie,Kevin,Carnegie,MS,00:20:29
+22,Stuart,Dave,Unattached,M,00:20:25
+23,Davie,Kevin,Carnegie,M,00:20:29
 24,White,David,Kilmarnock H,M40,00:20:39
 25,Smith,Bruce,Carnethy,M50,00:20:41
 26,Wilkinshaw,Alick,Tinto Hill Runners,M50,00:20:49
 27,Rathjen,Jon,HBT,M40,00:20:51
-28,Campbell,Donald,Unattached,MS,00:20:56
+28,Campbell,Donald,Unattached,M,00:20:56
 29,Brooks,Mike,Penicuik Harriers,M40,00:21:03
 30,Reid,Don,Westerlands,M50,00:21:14
 31,Wilson,Rob,Penicuik Harriers,M40,00:21:18
 32,Shepherd,Andrew,Carnethy,M50,00:21:29
-33,Stokoe,Deborah,Westerlands,FS,00:21:30
+33,Stokoe,Deborah,Westerlands,F,00:21:30
 34,Wesencraft,David,Unattached,M40,00:21:35
 35,Anderson,Laurie,Lomond Hill Runners,M50,00:21:36
-36,Wheeler,Marie,Hamilton Harriers,MS,00:21:39
-37,Brodie,Stuart,Ochil HR,MS,00:22:05
+36,Wheeler,Marie,Hamilton Harriers,M,00:21:39
+37,Brodie,Stuart,Ochil HR,M,00:22:05
 38,Crabbie,Colin,HBT,M40,00:22:07
 39,Tiplady,Paul,Unattached,M18,00:22:10
-40,Pearson,Clare,Warfedale Harriers,FS,00:22:11
-41,Nimmo,Camus,Carnethy,MS,00:22:16
-42,Hope-Jones,Amelia,HBT,FS,00:22:17
+40,Pearson,Clare,Warfedale Harriers,F,00:22:11
+41,Nimmo,Camus,Carnethy,M,00:22:16
+42,Hope-Jones,Amelia,HBT,F,00:22:17
 43,Tait,Alan,Tinto Hill Runners,M40,00:22:36
 44,Kellock,J,Dumfries RC,M40,00:22:39
 45,Lamb,Declan,Unattached,M18,00:22:43
-46,Clements,Daniel,HBT,MS,00:22:48
+46,Clements,Daniel,HBT,M,00:22:48
 47,Little,Mike,Canni-Sport Edinburgh,M50,00:22:54
-48,Hop-Jones,David,HBT,MS,00:22:57
-49,Manson,Gordon,Unattached,MS,00:23:05
-50,Weir,Jonathan,Unattached,MS,00:23:07
+48,Hop-Jones,David,HBT,M,00:22:57
+49,Manson,Gordon,Unattached,M,00:23:05
+50,Weir,Jonathan,Unattached,M,00:23:07
 51,Paul,Alastair,Northumberland FR,M50,00:23:18
 52,Murgatroyd,I,Solway,M50,00:23:34
-53,MacQueen,Douglas,Carnethy,MS,00:23:38
+53,MacQueen,Douglas,Carnethy,M,00:23:38
 54,Wilson,Brian,Lasswade,M50,00:23:42
-55,Boal,C,Unattached,MS,00:24:06
+55,Boal,C,Unattached,M,00:24:06
 56,Reynolds,Colin,Lomond Hill Runners,M40,00:24:07
 57,Vivers,Gordon,Annan & District,M50,00:24:11
-58,Webb,David,Unattached,MS,00:24:15
-59,Craig,Carrie,HBT,FS,00:24:17
-60,Gallion,Brian,Unattached,MS,00:24:20
-61,Hugh-Bailey,Will,HBT,MS,00:24:21
-62,Dawson,Jan,Penicuik Harriers,FS,00:24:27
+58,Webb,David,Unattached,M,00:24:15
+59,Craig,Carrie,HBT,F,00:24:17
+60,Gallion,Brian,Unattached,M,00:24:20
+61,Hugh-Bailey,Will,HBT,M,00:24:21
+62,Dawson,Jan,Penicuik Harriers,F,00:24:27
 63,Wilson,Steve,Garscube Harriers,M40,00:24:32
 64,Sloan,Robin,Carnethy,M60,00:24:40
-65,Cairns,Gillian,Penicuik Harriers,FS,00:24:46
+65,Cairns,Gillian,Penicuik Harriers,F,00:24:46
 66,Huntley,Chris,Tinto Hill Runners,M50,00:24:57
 67,Downie,Chris,Penicuik Harriers,M50,00:25:06
 68,Godfrey,Kevin,Lothian RC,M40,00:25:27
 69,Wilson,Emma,Garscube Harriers,F18,00:25:37
 70,Maligh,Pat,Lomond Hill Runners,M50,00:25:38
-71,Kahn,Mohammed,Dumfries RC,MS,00:25:47
-72,Pearson,Chris,Unattached,MS,00:25:52
+71,Kahn,Mohammed,Dumfries RC,M,00:25:47
+72,Pearson,Chris,Unattached,M,00:25:52
 73,Tiplady,Simon,Unattached,M40,00:25:56
-74,Jeffrey,Sue,Dumfries RC,FS,00:25:57
-75,Mackenzie,Becky,Hamilton Harriers,FS,00:25:58
+74,Jeffrey,Sue,Dumfries RC,F,00:25:57
+75,Mackenzie,Becky,Hamilton Harriers,F,00:25:58
 76,Hampshire,John,HBT,M50,00:26:11
 77,McAdam,Colin,Unattached,M40,00:26:23
 78,Wilson,Andrea,Penicuik Harriers,F40,00:26:33
-79,Blackley,Lisa,Unattached,FS,00:26:38
+79,Blackley,Lisa,Unattached,F,00:26:38
 80,Mohan,Stephen,Dumfries RC,M50,00:26:43
-81,Kemp,Sadie,Penicuik Harriers,FS,00:26:49
+81,Kemp,Sadie,Penicuik Harriers,F,00:26:49
 82,Baxter,Peter,Westerlands,M50,00:27:06
 83,Macpherson,Helen,Westerlands,F50,00:27:07
 84,Minto,Johnny,Annan & District,M40,00:27:10
@@ -91,20 +91,20 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 90,Crowe,Kate,Carnethy,F50,00:28:36
 91,Halstead,Lesley,Lomond Hill Runners,F40,00:28:42
 92,Laird,Joyce,Hartree Harriers,F40,00:28:56
-93,Tudhope,Elizabeth,Penicuik Harriers,FS,00:29:01
-94,Walker,Kerry,Dumfries RC,FS,00:29:31
-95,Neill,A,Unattached,MS,00:29:51
+93,Tudhope,Elizabeth,Penicuik Harriers,F,00:29:01
+94,Walker,Kerry,Dumfries RC,F,00:29:31
+95,Neill,A,Unattached,M,00:29:51
 96,Pacey,Nigel,Hartree Harriers,M50,00:30:24
 97,Brieve,Lynn,FBM Fitness,F40,00:30:51
 98,Boal,J,Unattached,M60,00:31:05
-99,Robertson,J,Unattached,FS,00:31:43
-100,Booth,Louisa,Unattached,FS,00:31:48
-101,Smith,Andrew,Tinto Hill Runners,MS,00:31:50
+99,Robertson,J,Unattached,F,00:31:43
+100,Booth,Louisa,Unattached,F,00:31:48
+101,Smith,Andrew,Tinto Hill Runners,M,00:31:50
 102,Anderson,Ian,Dumfries RC,M40,00:31:55
-103,Marshall,Rici,Hyde Park Harriers,FS,00:32:46
+103,Marshall,Rici,Hyde Park Harriers,F,00:32:46
 104,Macfarlane,John,Unattached,M18,00:33:18
-105,Neill,K,Unattached,FS,00:33:29
+105,Neill,K,Unattached,F,00:33:29
 106,Loudon,Kirsty,Penicuik Harriers,F40,00:34:40
 107,Bruce,M,Unattached,M40,00:35:45
-108,Vliacu,Alessa,Unattached,FS,00:36:18
-109,Shearer,Hannah,Unattached,FS,00:42:07
+108,Vliacu,Alessa,Unattached,F,00:36:18
+109,Shearer,Hannah,Unattached,F,00:42:07

@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Harwood,Eddie,Moravian O,M50,00:38:37
 18,Henry,Peter,Deeside,M,00:40:13
 19,Weir,Jonathon,U/A,M,00:40:19
-20,Rogan,Kirstie,F.H.,FJ,00:40:37
+20,Rogan,Kirstie,F.H.,F16,00:40:37
 21,Beharrell,Malcolm,N.R.R.,M50,00:41:18
 22,Robertson,Iain,Cairngorm,M,00:43:21
 23,MacLeod,Ross,F.H.,M,00:44:09
@@ -32,4 +32,4 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 31,Burn,Stu,F.H.,M50,00:50:24
 32,Norrie,Andie,Cairngorm,M,00:52:38
 33,MacWilliam,Marianne,Dufftown Jog,F40,00:53:30
-34,MacWilliam,Nicol,U/A,MJ,01:02:30
+34,MacWilliam,Nicol,U/A,M16,01:02:30

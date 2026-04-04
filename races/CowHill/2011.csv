@@ -4,48 +4,48 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,MITCHELL,Craig,Shettleston,M,00:19:55
 4,FORBES,Craig,Lochaber Athletic Club,M,00:20:35
 5,MACDONALD,Steve,Lochaber Athletic Club,M,00:21:18
-6,BINNIE,John,Lochaber Athletic Club,male vet 40-49,00:21:20
+6,BINNIE,John,Lochaber Athletic Club,M40,00:21:20
 7,THOMSON,Ben,Lochaber Athletic Club,M,00:21:27
-8,BASS,Owen,Deeside runners,male vet 40-49,00:21:30
+8,BASS,Owen,Deeside runners,M40,00:21:30
 9,BOSSARD,Michael,Lochaber Athletic Club,M,00:21:55
-10,SMITH,Alan,Deeside runners,male vet 50-59,00:21:58
-11,SHAW,Richard,Lochaber Athletic Club,male vet 40-49,00:22:04
-12,KENNEDY,Ali,Lochaber Athletic Club,male vet 50-59,00:22:13
+10,SMITH,Alan,Deeside runners,M50,00:21:58
+11,SHAW,Richard,Lochaber Athletic Club,M40,00:22:04
+12,KENNEDY,Ali,Lochaber Athletic Club,M50,00:22:13
 13,MACDONALD,Matthew,Lochaber Athletic Club,M,00:22:17
-14,MCALLASTER,Kevin,Lochaber Athletic Club,male vet 40-49,00:22:30
-15,ANDREW,Michael,Unattached,male vet 40-49,00:22:41
-16,BLACKHALL,Keith,Lochaber Athletic Club,male vet 40-49,00:23:17
+14,MCALLASTER,Kevin,Lochaber Athletic Club,M40,00:22:30
+15,ANDREW,Michael,Unattached,M40,00:22:41
+16,BLACKHALL,Keith,Lochaber Athletic Club,M40,00:23:17
 17,DODMAN,Ben,Lochaber Athletic Club,M,00:23:27
-18,MUNRO,David,Lochaber Athletic Club,male vet 40-49,00:23:32
+18,MUNRO,David,Lochaber Athletic Club,M40,00:23:32
 19,SCOTT,Dawn,Lochaber Athletic Club,F,00:23:58
-20,FORSTER,Damien,Lochaber Athletic Club,male vet 40-49,00:24:58
-21,BLACKHALL,Amanda,Lochaber Athletic Club,Female Vet 40-49,00:25:06
+20,FORSTER,Damien,Lochaber Athletic Club,M40,00:24:58
+21,BLACKHALL,Amanda,Lochaber Athletic Club,F40,00:25:06
 22,SHAW,Lyndsey,Lochaber Athletic Club,F,00:25:07
 23,LAMONT,Alan,Unattached,M,00:25:34
 24,MACKENZIE,Sarah,Lochaber Athletic Club,F,00:25:42
-25,FORSTER,Nix,Lochaber Athletic Club,Female Vet 40-49,00:25:57
+25,FORSTER,Nix,Lochaber Athletic Club,F40,00:25:57
 26,LANGAN,Scott,Lochaber Athletic Club,M,00:25:58
-27,KELSALL,Fiona,Ochil Hill Runners,Female Vet 40-49,00:26:02
-28,METHOLD,Henry,Lochaber Athletic Club,male vet 40-49,00:26:33
+27,KELSALL,Fiona,Ochil Hill Runners,F40,00:26:02
+28,METHOLD,Henry,Lochaber Athletic Club,M40,00:26:33
 29,CORNER,Julie,Lochaber Athletic Club,F,00:26:49
 30,MORGAN,Sharyn,Lochaber Athletic Club,F,00:27:14
-31,PRINS,Lucy,Lochaber Athletic Club,Female Vet 40-49,00:27:14
+31,PRINS,Lucy,Lochaber Athletic Club,F40,00:27:14
 32,PATERSON,Chloe,Lochaber Athletic Club,F,00:27:15
-33,DUNCAN,David,Ochil Hill Runners,male vet 50-59,00:27:25
-34,ROSS,Susan Jane,Lochaber Athletic Club,Female Vet 40-49,00:27:29
-35,SMITH,Tilly,Deeside runners,Female Vet 50-59,00:28:09
-36,HAMILTON,Jim,Lochaber Athletic Club,male vet 40-49,00:28:26
-37,BASS,Ursula,Deeside runners,Female Vet 40-49,00:28:29
-38,PEARCE,Emma,Lochaber Athletic Club,Female Vet 40-49,00:28:33
-39,TOMLINSON,David,Lochaber Athletic Club,Male Vet 60+,00:28:34
+33,DUNCAN,David,Ochil Hill Runners,M50,00:27:25
+34,ROSS,Susan Jane,Lochaber Athletic Club,F40,00:27:29
+35,SMITH,Tilly,Deeside runners,F50,00:28:09
+36,HAMILTON,Jim,Lochaber Athletic Club,M40,00:28:26
+37,BASS,Ursula,Deeside runners,F40,00:28:29
+38,PEARCE,Emma,Lochaber Athletic Club,F40,00:28:33
+39,TOMLINSON,David,Lochaber Athletic Club,M60,00:28:34
 40,BARBOUR,Laura,Lochaber Athletic Club,F,00:29:29
-41,WONNACOTT,Geoff,Unattached,Male Vet 60+,00:30:20
-42,KENNEDY,Nancy,Lochaber Athletic Club,Female Vet 50-59,00:30:25
-43,SHAW,Chris,havoc,Male Vet 60+,00:30:36
-44,JARDINE,Jimmy,Lochaber Athletic Club,Male Vet 60+,00:31:15
-45,KIRKDALE,Brian,Hastings Road Runners,male vet 50-59,00:31:54
-46,MACINNES,Karin,Unattached,Female Vet 40-49,00:32:13
-47,STAPLEY,Tony,Portobello,Male Vet 60+,00:33:13
-48,MACPHEE,Margaret Rose,Lochaber Athletic Club,Female Vet 40-49,00:34:27
-49,PHENIX,Laurie,Unattached,Female Vet 50-59,00:34:55
-50,PHENIX,Steve,Unattached,male vet 50-59,00:37:29
+41,WONNACOTT,Geoff,Unattached,M60,00:30:20
+42,KENNEDY,Nancy,Lochaber Athletic Club,F50,00:30:25
+43,SHAW,Chris,havoc,M60,00:30:36
+44,JARDINE,Jimmy,Lochaber Athletic Club,M60,00:31:15
+45,KIRKDALE,Brian,Hastings Road Runners,M50,00:31:54
+46,MACINNES,Karin,Unattached,F40,00:32:13
+47,STAPLEY,Tony,Portobello,M60,00:33:13
+48,MACPHEE,Margaret Rose,Lochaber Athletic Club,F40,00:34:27
+49,PHENIX,Laurie,Unattached,F50,00:34:55
+50,PHENIX,Steve,Unattached,M50,00:37:29

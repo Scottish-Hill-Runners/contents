@@ -1,46 +1,46 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Andy,Unattached,S Record,01:30:50
-2,Hensman,Will,Unattached,S,01:35:10
-3,Davis,Adrian,Unattached,V40,01:35:10
-4,Bannerman,Ross,Unattached,S,01:37:01
-5,Kay,John,Unattached,V50,01:37:17
-6,Kennedy,John,Unattached,V40,01:39:07
-7,Love,Craig,Unattached,S,01:40:28
-8,Ward,Adam,Unattached,V40,01:40:45
-9,Gatherar,Graeme,Unattached,S,01:42:49
-10,Higginbottom,Jackie,Unattached,W V40,01:49:55
-11,Bass,Owen,Unattached,S,01:50:49
-12,Barnett,Gary,Unattached,S,01:51:41
-13,Anderson,Laurie,Unattached,V40,01:51:58
-14,Duncan,David,Unattached,V50,01:55:05
-15,Milne,Bruce,Unattached,v40,01:55:29
-16,Young,Phil,Unattached,v40,01:57:15
-17,Grove,Mathew,Unattached,V40,01:57:45
-18,Gallacher,John,Unattached,V50,01:59:28
-19,Wilson,Colin,Unattached,V40,01:59:30
-20,Roberts,Clive,Unattached,V50,02:00:38
-21,Reynoulds,Colin,Unattached,V40,02:02:23
-22,McGill,Ron,Unattached,v50,02:02:32
-23,Hay,David,Unattached,V50,02:02:33
-24,Morrison,G,Unattached,V50,02:02:42
-25,Wilson,Joan,Unattached,W V40,02:03:01
-26,Jablonski,Derek,Unattached,V50,02:03:02
-27,Bussey,James,Unattached,V40,02:05:40
-28,Gall,Allan,Unattached,V50,02:05:53
-29,Brennan,Brian,Unattached,S,02:07:29
-30,Campbell,Cameron,Unattached,V50,02:09:10
-31,Love,Charlie,Unattached,V60,02:10:21
-32,Fisken,Bill,Unattached,V50,02:12:32
-33,Stapley,Tony,Unattached,V60,02:15:37
-34,Bass,Ursula,Unattached,W,02:16:54
-35,West,Alison,Unattached,W V50,02:18:13
-36,Weir,Johnie,Unattached,S,02:24:49
-37,Lacey,Ed,Unattached,S,02:28:49
-38,McManus,Iain,Unattached,V60,02:31:53
-39,Pollard,Alison,Unattached,W V50,02:34:55
-40,Thornton,Bob,Unattached,v50,02:47:55
-41,Drummond,Jim,Unattached,V60,02:51:41
-42,McDowell,Morag,Unattached,W V50,03:08:30
-43,Lister,Ann,Unattached,W V60,03:09:20
-44,Moore,Margaret,Unattached,W V50,03:18:50
-45,Gay,Margaret,Unattached,W V40,03:19:12
+1,Symonds,Andy,Unattached,M,01:30:50
+2,Hensman,Will,Unattached,M,01:35:10
+3,Davis,Adrian,Unattached,M40,01:35:10
+4,Bannerman,Ross,Unattached,M,01:37:01
+5,Kay,John,Unattached,M50,01:37:17
+6,Kennedy,John,Unattached,M40,01:39:07
+7,Love,Craig,Unattached,M,01:40:28
+8,Ward,Adam,Unattached,M40,01:40:45
+9,Gatherar,Graeme,Unattached,M,01:42:49
+10,Higginbottom,Jackie,Unattached,F40,01:49:55
+11,Bass,Owen,Unattached,M,01:50:49
+12,Barnett,Gary,Unattached,M,01:51:41
+13,Anderson,Laurie,Unattached,M40,01:51:58
+14,Duncan,David,Unattached,M50,01:55:05
+15,Milne,Bruce,Unattached,M40,01:55:29
+16,Young,Phil,Unattached,M40,01:57:15
+17,Grove,Mathew,Unattached,M40,01:57:45
+18,Gallacher,John,Unattached,M50,01:59:28
+19,Wilson,Colin,Unattached,M40,01:59:30
+20,Roberts,Clive,Unattached,M50,02:00:38
+21,Reynoulds,Colin,Unattached,M40,02:02:23
+22,McGill,Ron,Unattached,M50,02:02:32
+23,Hay,David,Unattached,M50,02:02:33
+24,Morrison,G,Unattached,M50,02:02:42
+25,Wilson,Joan,Unattached,F40,02:03:01
+26,Jablonski,Derek,Unattached,M50,02:03:02
+27,Bussey,James,Unattached,M40,02:05:40
+28,Gall,Allan,Unattached,M50,02:05:53
+29,Brennan,Brian,Unattached,M,02:07:29
+30,Campbell,Cameron,Unattached,M50,02:09:10
+31,Love,Charlie,Unattached,M60,02:10:21
+32,Fisken,Bill,Unattached,M50,02:12:32
+33,Stapley,Tony,Unattached,M60,02:15:37
+34,Bass,Ursula,Unattached,F,02:16:54
+35,West,Alison,Unattached,F50,02:18:13
+36,Weir,Johnie,Unattached,M,02:24:49
+37,Lacey,Ed,Unattached,M,02:28:49
+38,McManus,Iain,Unattached,M60,02:31:53
+39,Pollard,Alison,Unattached,F50,02:34:55
+40,Thornton,Bob,Unattached,M50,02:47:55
+41,Drummond,Jim,Unattached,M60,02:51:41
+42,McDowell,Morag,Unattached,F50,03:08:30
+43,Lister,Ann,Unattached,F60,03:09:20
+44,Moore,Margaret,Unattached,F50,03:18:50
+45,Gay,Margaret,Unattached,F40,03:19:12

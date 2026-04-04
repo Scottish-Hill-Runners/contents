@@ -1,41 +1,41 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Wild,Finlay,Lochaber AC,SM,02:18:20
-2,Harris,Mark,Fife AC,MV40,02:34:36
-3,Whitlie,Stewart,Carnethy HRC,MV50,02:36:11
-4,Eiser,Dave,Ochils,SM,02:38:04
-5,Smith,Alan,Deeside Runners,MV50,02:42:55
-6,Chepelin,Oleg,Unattached,SM,02:46:32
-7,Rawlik,Konrad,Carnethy HRC,SM,02:47:50
-8,Umpleby,Scott,Unattached,MV40,02:48:59
-9,Upson,Chris,Westerlands,MV40,02:54:03
-10,Anderson,Adam,Carnethy HRC,MV40,02:54:53
-11,Small,Russell,Unattached,MV40,02:55:35
-12,Reid,Michael,Moorfoot Runners,SM,02:56:11
-13,Charles,Stanley,Clwydian Range Runners,SM,03:02:58
-14,Macdonald,Grant,Bellahouston RR,SM,03:05:45
-15,Hewitt,John,Glossopdale,MV40,03:05:50
-16,Smith,Stuart,Cosmic Hill Bashers,SM,03:07:05
-17,Kerridge,Donald,Deeside Runners,MV40,03:07:55
-18,Begley,Tommy,Irvine AC,MV40,03:08:02
-19,Harris,Adam,Fife AC,SM,03:08:04
-20,Fox,Andy,Glossopdale,MV50,03:09:23
-21,Ewen,Alastair,Bellahouston RR,SM,03:14:12
-22,Geoghegan,Michael,Portobello,SM,03:15:19
-23,McVey,Alexander,Carnethy HRC,SM,03:21:26
-24,Evans,Neah,Shettlestone,SL,03:24:37
-25,Finlay,Alayne,Ochils,SL,03:27:20
-26,Murray,Alan,Ochils,MV50,03:32:45
-27,Preiss,Alistair,Ochils,SM,03:44:17
-28,Fraser,Gary,Ochils,MV40,03:44:17
-29,Rennie,Nick,Unattached,MV40,03:44:58
-30,Pikett,William,Norham RC,MV40,03:45:38
-31,Connor,Julia,Moorfoot Runners,SL,03:47:07
-32,Templeman,Simon,Ochils,MV40,03:50:30
-33,MacEwan,John,Ochils,MV40,03:51:20
-34,Junnier,Beryl,Ochils,W50,03:54:42
-35,Stankiewicz,Rob,Norham RC,MV50,03:54:42
-36,Gerrie,William,Troon Tortoises,MV50,04:05:42
-37,Calothis,Marinos,Kinross Road Runners,MV40,04:14:38
-38,Evans,Ros,Westerlands,W60,04:18:09
-39,Hamer,John,Westerlands,MV40,04:23:45
-40,Douglas,George,Westerlands,MV40,04:23:45
+1,Wild,Finlay,Lochaber AC,M,02:18:20
+2,Harris,Mark,Fife AC,M40,02:34:36
+3,Whitlie,Stewart,Carnethy HRC,M50,02:36:11
+4,Eiser,Dave,Ochils,M,02:38:04
+5,Smith,Alan,Deeside Runners,M50,02:42:55
+6,Chepelin,Oleg,Unattached,M,02:46:32
+7,Rawlik,Konrad,Carnethy HRC,M,02:47:50
+8,Umpleby,Scott,Unattached,M40,02:48:59
+9,Upson,Chris,Westerlands,M40,02:54:03
+10,Anderson,Adam,Carnethy HRC,M40,02:54:53
+11,Small,Russell,Unattached,M40,02:55:35
+12,Reid,Michael,Moorfoot Runners,M,02:56:11
+13,Charles,Stanley,Clwydian Range Runners,M,03:02:58
+14,Macdonald,Grant,Bellahouston RR,M,03:05:45
+15,Hewitt,John,Glossopdale,M40,03:05:50
+16,Smith,Stuart,Cosmic Hill Bashers,M,03:07:05
+17,Kerridge,Donald,Deeside Runners,M40,03:07:55
+18,Begley,Tommy,Irvine AC,M40,03:08:02
+19,Harris,Adam,Fife AC,M,03:08:04
+20,Fox,Andy,Glossopdale,M50,03:09:23
+21,Ewen,Alastair,Bellahouston RR,M,03:14:12
+22,Geoghegan,Michael,Portobello,M,03:15:19
+23,McVey,Alexander,Carnethy HRC,M,03:21:26
+24,Evans,Neah,Shettlestone,F,03:24:37
+25,Finlay,Alayne,Ochils,F,03:27:20
+26,Murray,Alan,Ochils,M50,03:32:45
+27,Preiss,Alistair,Ochils,M,03:44:17
+28,Fraser,Gary,Ochils,M40,03:44:17
+29,Rennie,Nick,Unattached,M40,03:44:58
+30,Pikett,William,Norham RC,M40,03:45:38
+31,Connor,Julia,Moorfoot Runners,F,03:47:07
+32,Templeman,Simon,Ochils,M40,03:50:30
+33,MacEwan,John,Ochils,M40,03:51:20
+34,Junnier,Beryl,Ochils,F50,03:54:42
+35,Stankiewicz,Rob,Norham RC,M50,03:54:42
+36,Gerrie,William,Troon Tortoises,M50,04:05:42
+37,Calothis,Marinos,Kinross Road Runners,M40,04:14:38
+38,Evans,Ros,Westerlands,F60,04:18:09
+39,Hamer,John,Westerlands,M40,04:23:45
+40,Douglas,George,Westerlands,M40,04:23:45

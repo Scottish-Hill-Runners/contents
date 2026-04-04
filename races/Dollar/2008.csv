@@ -6,10 +6,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Whitlie,Stewart,Carnethy,M40,01:18:57
 6,Campbell,Graeme,Highland Hill Runners,M,01:21:17
 7,Lawrence,Tommy,Carnegie Harriers,M,01:21:44
-8,Halliday,Dan,Hinkley RC,MU23,01:22:22
+8,Halliday,Dan,Hinkley RC,M23,01:22:22
 9,Davis,Adrian,Carnethy,M40,01:22:39
 10,Bell,Matt,Edinburgh AC,M,01:22:52
-11,McCall,Andy,Greenock Glenpark Harriers,MU23,01:23:21
+11,McCall,Andy,Greenock Glenpark Harriers,M23,01:23:21
 12,Eiser,Dave,Knavesmire Harriers,M,01:23:32
 13,McGougan,Duncan,Scottish Prison Service,M40,01:24:53
 14,Britton,James,Moorfoot Runners,M,01:25:23
@@ -30,10 +30,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 29,King,Steven,Carnegie Harriers,M,01:33:28
 30,Mennie,Iain,Unattached,M40,01:33:40
 31,Pryde,Gordon,Lomond Hill Runners,M50,01:33:55
-32,Heron,Kyle,Forth Valley Orienteers,MU23,01:33:57
+32,Heron,Kyle,Forth Valley Orienteers,M23,01:33:57
 33,Hulme,Martin,Corstorphine,M50,01:34:11
 34,Duncan,Eric,Unattached,M,01:34:39
-35,McLoone,Michael,Greenock Glenpark Harriers,MU23,01:34:55
+35,McLoone,Michael,Greenock Glenpark Harriers,M23,01:34:55
 36,Mackay,Euan,Ochil Hill Runners,M40,01:34:57
 37,Brannan,Tosh,Lothian,M40,01:35:05
 38,Milligan,Douglas,Solway,M60,01:35:14
@@ -63,11 +63,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 62,Burt,Louise,Fife AC,F40,01:45:05
 63,Cudahy,Mike,Unattached,M,01:45:07
 64,Leonard,Paul,Dundee Hawkhill Harriers,M,01:45:10
-65,Bell-Scott,Rowena,Edinburgh Uni OC,FU23,01:45:19
+65,Bell-Scott,Rowena,Edinburgh Uni OC,F23,01:45:19
 66,Semple,Hamilton,Westerlands,M50,01:46:09
 67,McEwan,Linda,Lochaber AC,F40,01:46:13
 68,Fitzpatrick,Pat,Ochil Hill Runners,M50,01:46:30
-69,Slocombe,Tom,Unattached,MU23,01:46:34
+69,Slocombe,Tom,Unattached,M23,01:46:34
 70,McClean,Herbie,Lothian,M60,01:46:51
 71,Doyle,Tim,Penicuik Harriers,M40,01:46:54
 72,Byrne,Sara,Lochaber AC,F,01:46:54
@@ -82,7 +82,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 81,Love,Charlie,Dundee Hawkhill Harriers,M60,01:51:36
 82,Brown,James,Unattached,M,01:52:25
 83,Mitchell,Neill,Unattached,M40,01:53:10
-84,Mackenzie,Sarah,Lochaber AC,FU23,01:53:16
+84,Mackenzie,Sarah,Lochaber AC,F23,01:53:16
 85,Weir,Jonathan,Unattached,M,01:54:40
 86,Johnson,Stephen,Milburn Harriers,M40,01:54:41
 87,Macaulay,Allan,Carnegie Harriers,M50,01:55:09
@@ -98,7 +98,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 97,Stapley,Tony,Portobello,M60,02:03:23
 98,Wilhelm,Andreas,Harmeny,M,02:04:31
 99,Smith,Janice,HBT,F50,02:05:01
-100,Hilssey,Rosalind,Edinburgh Uni OC,FU23,02:05:59
+100,Hilssey,Rosalind,Edinburgh Uni OC,F23,02:05:59
 101,Monteith,Deborah,Unattached,F,02:07:53
 102,Sandbach,John,Bellahouston RR,M40,02:11:19
 103,McLaughlin,Pat,Westerlands,F50,02:20:11

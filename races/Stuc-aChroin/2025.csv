@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gollan,Ross,East Sutherland AC,M,02:04:21
-2,Grant,Finlay,Dark Peak FR,MU23,02:04:38
+2,Grant,Finlay,Dark Peak FR,M23,02:04:38
 3,Brown,Ewan,Corstorphine AAC,M,02:05:46
 4,Subuh-Symons,Oscar,Ambleside AC,M,02:06:34
 5,Chepelin,Sasha,Carnethy HRC,M,02:07:01
@@ -30,7 +30,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 29,Symonds,Joe,Shettleston Harriers,M40,02:19:12
 30,Hooper,Sam,Carnethy HRC,M,02:19:36
 31,Fallas,Andrew,Carnethy HRC,M45,02:19:51
-32,Allmond,Charlie,Ambleside AC,MU23,02:20:09
+32,Allmond,Charlie,Ambleside AC,M23,02:20:09
 33,Owens,Tom,Lochaber AC,M40,02:20:44
 34,Mason,Ted,Wharfedale Harriers,M45,02:21:01
 35,Battrick,John,Keswick AC,M,02:21:26
@@ -39,7 +39,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Balogh,Csoban,Carnethy HRC,M,02:22:07
 39,Lang,Naomi,Carnethy HRC,F,02:22:11
 40,Thomson,Fearghas,Corstorphine AAC,M,02:22:16
-41,Baker,George,Ambleside AC,MU23,02:22:25
+41,Baker,George,Ambleside AC,M23,02:22:25
 42,Davies,Fred,Shettleston Harriers,M,02:22:28
 43,Malcolm,Gregor,Ochil Hill Runners,M,02:22:56
 44,Jacques,Steve,Ambleside AC,M45,02:23:03
@@ -65,7 +65,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 64,Tetler,Ben,Glossopdale Harriers,M45,02:31:06
 65,Oliver,Huw,Lochaber AC,M,02:31:49
 66,Ashwood,Daniel,Carnethy HRC,M,02:31:55
-67,Nonhebel,Caleb,Salomon,MU23,02:31:59
+67,Nonhebel,Caleb,Salomon,M23,02:31:59
 68,Mccomb,Lewis,Central AC,M,02:32:10
 69,Wilkins,Robin,Ochil Hill Runners,M45,02:32:25
 70,Blake,Kristopher,Westerlands CCC,M,02:32:30
@@ -118,7 +118,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 117,Whitlie,Stewart,Carnethy HRC,M60,02:51:07
 118,Concha,Jose,Helm Hill Runners,M,02:51:57
 119,Wainwright,Sam,Ochil Hill Runners,M,02:52:05
-120,Barry,Tim,Pennine Fell Runners,MU23,02:52:44
+120,Barry,Tim,Pennine Fell Runners,M23,02:52:44
 121,Allsop,David,Kirkintilloch Olympians,M50,02:52:45
 122,Marwick,Caroline,Highland Hill Runners,F40,02:52:54
 123,Rigby,James,Carnethy HRC,M,02:52:56
@@ -167,13 +167,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 166,Gordon,Neil,Carnethy HRC,M,03:04:12
 167,Templeman,Simon,Ochil Hill Runners,M55,03:04:46
 168,McKinnon,Sam,Ochil Hill Runners,M,03:04:49
-169,Magee,Rebecca,Newcastle & District AC,FU23,03:05:11
+169,Magee,Rebecca,Newcastle & District AC,F23,03:05:11
 170,Menu,Sebastien,Carnethy HRC,M,03:05:17
 171,Gordon,Helen,Westerlands CCC,F,03:05:28
 172,Sharkey,Drew,Carnethy HRC,M50,03:05:49
 173,Normand,Will,Carnethy HRC,M40,03:05:58
 174,Dowse,Dave,Strathearn Harriers,M45,03:06:03
-175,Griffiths,Gemma,Shettleston Harriers,FU23,03:06:54
+175,Griffiths,Gemma,Shettleston Harriers,F23,03:06:54
 176,Williams,Dominic,Dundee Road Runners,M,03:06:58
 177,Hindley,Hollie,Carnethy HRC,F,03:07:07
 178,Oates,Janie,Helm Hill Runners,F,03:07:24
@@ -312,7 +312,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 311,Ledlie,Colin,Carnethy HRC,M55,04:02:02
 312,Heron,Ceana,Shettleston Harriers,F,04:02:57
 313,Tatham,Freya,Unattached,F,04:03:15
-314,Strevens,Eloise,Unattached,FU23,04:03:15
+314,Strevens,Eloise,Unattached,F23,04:03:15
 315,Halliday,William,Mid Argyll Tri,M65,04:03:28
 316,Rees-Jenkins,Jennifer,Insch TRC,F45,04:03:41
 317,Burdett,Ian,Haddington RC,M60,04:03:48

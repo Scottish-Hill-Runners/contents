@@ -1,60 +1,60 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Bonnyman,Brian,Westerlands,MV40,00:46:48
-2,Anderson,Iain,Dundee Hawkhill,MV40,00:49:13
-3,Crowe,des,Dundee Hawkhill,MV50,00:50:35
-4,Tomlin,Chris,Cosmics,MV40,00:51:31
-5,Stewart,Craig,Forfar Road Runners,MV40,00:51:55
-6,Marr,Iain,Unattached,MV40,00:51:58
-7,Cooper,Paul,Angus Bike Chain,Sen,00:52:10
-8,Murray,Alan,Ochil,MV50,00:52:12
-9,Cooper,Brian,Perth Road Runners,Sen,00:54:03
-10,Love,Craig,Dundee Hawkhill,MV40,00:54:15
-11,Matthews,Steve,Dundee Hawkhill,MV40,00:54:54
-12,Johnson,Nick,Fife AC,Sen,00:55:04
-13,Watson,Gordon,Dundee Hawkhill,MV60,00:55:18
-14,Mitchell,Dave,Dundee Hawkhill,MV50,00:55:29
-15,Ord,Steven,Deeside Runners,MV40,00:55:53
-16,Henry,Peter,Deeside Runners,Sen,00:56:14
-17,Reynolds,Nigel,Dundee Hawkhill,MV50,00:56:19
-18,Hill,Christopher,British Military Fitness,MV40,00:57:12
-19,Mill,John,Dundee Road Runners,MV40,00:57:15
-20,Calothis,Marinos,Kinross Road Runners,MV40,00:57:43
-21,McIntyre,Jaqueline,Carnegie Harriers,FSEN,00:58:21
-22,Forte,Phil,Dundee Hawkhill,MV50,00:58:59
-23,Brown,Jamie,HBT,Sen,00:59:34
-24,Ritchie,Hilary,Fife AC,FV40,01:00:00
-25,Ingram,Richard,Garioch,Sen,01:00:18
-26,Lochhead,Andrew,Perth Road Runners,Sen,01:00:36
-27,Clark,Derek,Unattached,MV40,01:01:00
-28,Shaw,Trevor,Lochtayside,MV40,01:01:03
-29,Duncan,Dave,Ochil,MV50,01:01:17
-30,Duff,Bill,Carnegie Harriers,MV60,01:01:36
-31,Strachan,Grant,Perth Road Runners,Sen,01:01:48
-32,Brennan,Brian,Westerlands,MV50,01:02:02
-33,Milne,Ron,Forfar Road Runners,MV50,01:03:48
-34,Smith,Brian,Fife AC,MV50,01:04:17
-35,Griser,Stephen,Carnegie Harriers,MV50,01:04:20
-36,Rogogowski,Andreas,Kinross Road Runners,MV40,01:04:41
-37,Glatz,Andreas,Unattached,MV40,01:05:26
-38,Norrie,David,Perth Road Runners,MV50,01:05:35
-39,Clark,Lesley,Garioch,FSEN,01:05:56
-40,Bracegirdle,Innes,Fife AC,V50,01:07:34
-41,Friend,Kate,Carnethy,VF40,01:07:59
-42,Cromar,Steve,Dundee Hawkhill,MV70,01:08:55
-43,Sinclair,David,Unattached,Sen,01:09:30
-44,davidson,Stewart,Fife AC,MV60,01:09:34
-45,Carr,David,Garioch,MV40,01:10:27
-46,Bowie,Tom,Carnegie Harriers,MV60,01:11:25
-47,Matthews,Catherine,Dundee Hawkhill,FSEN,01:13:33
-48,Adamson,derek,Fife AC,MV40,01:15:08
-49,Edward,Duncan,Unattached,Sen,01:15:09
-50,Whytock,Grant,Dundee Road Runners,MV40,01:15:10
-51,Thornton,Bob,Fife AC,MV50,01:15:35
-52,Oetke,Cornelia,Unattached,FSEN,01:15:46
-53,Brown,Bob,Perth Road Runners,MV60,01:18:26
-54,Fraser,Ron,Dundee Road Runners,MV40,01:19:16
-55,Whiteford,Anne,Fife AC,FV50,01:21:50
-56,Francis,Dave,Fife AC,MV60,01:23:19
-57,Jack,Nicholas,Unattached,MV40,01:26:22
-58,McColl,Fiona,Fife AC,FV40,01:33:31
-59,Rumfeldt,Jessica,Fighting Kualas,FV40,01:36:37
+1,Bonnyman,Brian,Westerlands,M40,00:46:48
+2,Anderson,Iain,Dundee Hawkhill,M40,00:49:13
+3,Crowe,des,Dundee Hawkhill,M50,00:50:35
+4,Tomlin,Chris,Cosmics,M40,00:51:31
+5,Stewart,Craig,Forfar Road Runners,M40,00:51:55
+6,Marr,Iain,Unattached,M40,00:51:58
+7,Cooper,Paul,Angus Bike Chain,M,00:52:10
+8,Murray,Alan,Ochil,M50,00:52:12
+9,Cooper,Brian,Perth Road Runners,M,00:54:03
+10,Love,Craig,Dundee Hawkhill,M40,00:54:15
+11,Matthews,Steve,Dundee Hawkhill,M40,00:54:54
+12,Johnson,Nick,Fife AC,M,00:55:04
+13,Watson,Gordon,Dundee Hawkhill,M60,00:55:18
+14,Mitchell,Dave,Dundee Hawkhill,M50,00:55:29
+15,Ord,Steven,Deeside Runners,M40,00:55:53
+16,Henry,Peter,Deeside Runners,M,00:56:14
+17,Reynolds,Nigel,Dundee Hawkhill,M50,00:56:19
+18,Hill,Christopher,British Military Fitness,M40,00:57:12
+19,Mill,John,Dundee Road Runners,M40,00:57:15
+20,Calothis,Marinos,Kinross Road Runners,M40,00:57:43
+21,McIntyre,Jaqueline,Carnegie Harriers,F,00:58:21
+22,Forte,Phil,Dundee Hawkhill,M50,00:58:59
+23,Brown,Jamie,HBT,M,00:59:34
+24,Ritchie,Hilary,Fife AC,F40,01:00:00
+25,Ingram,Richard,Garioch,M,01:00:18
+26,Lochhead,Andrew,Perth Road Runners,M,01:00:36
+27,Clark,Derek,Unattached,M40,01:01:00
+28,Shaw,Trevor,Lochtayside,M40,01:01:03
+29,Duncan,Dave,Ochil,M50,01:01:17
+30,Duff,Bill,Carnegie Harriers,M60,01:01:36
+31,Strachan,Grant,Perth Road Runners,M,01:01:48
+32,Brennan,Brian,Westerlands,M50,01:02:02
+33,Milne,Ron,Forfar Road Runners,M50,01:03:48
+34,Smith,Brian,Fife AC,M50,01:04:17
+35,Griser,Stephen,Carnegie Harriers,M50,01:04:20
+36,Rogogowski,Andreas,Kinross Road Runners,M40,01:04:41
+37,Glatz,Andreas,Unattached,M40,01:05:26
+38,Norrie,David,Perth Road Runners,M50,01:05:35
+39,Clark,Lesley,Garioch,F,01:05:56
+40,Bracegirdle,Innes,Fife AC,M50,01:07:34
+41,Friend,Kate,Carnethy,F40,01:07:59
+42,Cromar,Steve,Dundee Hawkhill,M70,01:08:55
+43,Sinclair,David,Unattached,M,01:09:30
+44,davidson,Stewart,Fife AC,M60,01:09:34
+45,Carr,David,Garioch,M40,01:10:27
+46,Bowie,Tom,Carnegie Harriers,M60,01:11:25
+47,Matthews,Catherine,Dundee Hawkhill,F,01:13:33
+48,Adamson,derek,Fife AC,M40,01:15:08
+49,Edward,Duncan,Unattached,M,01:15:09
+50,Whytock,Grant,Dundee Road Runners,M40,01:15:10
+51,Thornton,Bob,Fife AC,M50,01:15:35
+52,Oetke,Cornelia,Unattached,F,01:15:46
+53,Brown,Bob,Perth Road Runners,M60,01:18:26
+54,Fraser,Ron,Dundee Road Runners,M40,01:19:16
+55,Whiteford,Anne,Fife AC,F50,01:21:50
+56,Francis,Dave,Fife AC,M60,01:23:19
+57,Jack,Nicholas,Unattached,M40,01:26:22
+58,McColl,Fiona,Fife AC,F40,01:33:31
+59,Rumfeldt,Jessica,Fighting Kualas,F40,01:36:37

@@ -1,45 +1,45 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Rodwell,Damon,Westerlands,MS,01:10:17
-2,Wellock,Ian,HBT,MS,01:15:00
-3,Macdonald,Alistair,Dundee Hawkhill,MV40,01:19:31
-4,McCall,Tim,Norham RC,MV40,01:19:53
-5,Coy,Thomas,Unattached,MS,01:24:17
-6,Gorgas,Steffen,Westerlands,MS,01:24:21
-7,Macdonald,Gio,Unattached,MV40,01:24:43
-8,Bearhop,Derek,Carnethy,MV40,01:25:24
-9,Rutherford,Craig,Norham RC,MS,01:26:00
-10,Tullie,John,Teviotdale,MV40,01:26:22
-11,Frost,Martin,North Shields Poly,MV40,01:26:29
-12,Oldham,Veronique,Norham RC,FS,01:26:33
-13,Harley,Tom,HELP,MV40,01:27:28
-14,Henry,Graham,Portobello,MV40,01:28:01
-15,Millen,Blair,Westerlands,MS,01:30:59
-16,Morris,Paul,Gala Harriers,MV40,01:31:08
-17,Johnston,Gordon,Norham RC,MS,01:31:32
-18,Young,Kenny,Wooler,MV40,01:32:18
-19,Stephens,Rob,Northumberland FR,MV40,01:34:10
-20,Bagness,Claire,Wooler,FV40,01:34:16
-21,Gray,Trevor,Nidd Valley,MV40,01:35:14
-22,Hughes,Lewis,Unattached,MS,01:35:18
-23,Anderson,Katy,Gala Harriers,FS,01:37:16
-23,Fagan,Rachel,Gala Harriers,FS,01:37:16
-25,Ord,Richard,Unattached,MS,01:38:04
-26,Telfer,John,Keswick AC,MV40,01:38:10
-27,Hutchinson,Wilf,Concordia,MV50,01:38:21
-28,Adamson,George,North Shields,MV50,01:38:41
-29,Hazell,Mark,Skye & Lochalsh,MV40,01:39:16
-30,Simpson,Steven,Norham RC,MS,01:39:54
-31,Cranston,Rob,Teviotdale,MV40,01:40:51
-32,Mcleod,Andy,Moorfoot Runners,MV50,01:41:10
-33,Wood,Fred,Sunderland Strollers,MV40,01:43:04
-34,Murphy,Pete,Unattached,MV40,01:45:07
-35,McCain,Fred,Carnethy,MV50,01:46:16
-36,Sabiston,Kevin,The Bicycle Works,MV40,01:46:38
-37,McAdam,Pauline,Westerlands,FV50,01:48:35
-38,Smith,Janice,HBT,FV40,01:49:32
-39,Mcleod,Christine,Moorfoot Runners,FV40,01:50:32
-40,O`Brien,Mick,Low Fell,MV50,01:51:37
-41,Stapley,Tony,Portobello,MV60,01:53:10
-42,Wild,Ann,Norham RC,FV50,01:53:22
-43,Turnbull,Drew,Westerlands,MV60,01:58:59
-44,Kent Bell,James,GNR,MV60,02:04:26
+1,Rodwell,Damon,Westerlands,M,01:10:17
+2,Wellock,Ian,HBT,M,01:15:00
+3,Macdonald,Alistair,Dundee Hawkhill,M40,01:19:31
+4,McCall,Tim,Norham RC,M40,01:19:53
+5,Coy,Thomas,Unattached,M,01:24:17
+6,Gorgas,Steffen,Westerlands,M,01:24:21
+7,Macdonald,Gio,Unattached,M40,01:24:43
+8,Bearhop,Derek,Carnethy,M40,01:25:24
+9,Rutherford,Craig,Norham RC,M,01:26:00
+10,Tullie,John,Teviotdale,M40,01:26:22
+11,Frost,Martin,North Shields Poly,M40,01:26:29
+12,Oldham,Veronique,Norham RC,F,01:26:33
+13,Harley,Tom,HELP,M40,01:27:28
+14,Henry,Graham,Portobello,M40,01:28:01
+15,Millen,Blair,Westerlands,M,01:30:59
+16,Morris,Paul,Gala Harriers,M40,01:31:08
+17,Johnston,Gordon,Norham RC,M,01:31:32
+18,Young,Kenny,Wooler,M40,01:32:18
+19,Stephens,Rob,Northumberland FR,M40,01:34:10
+20,Bagness,Claire,Wooler,F40,01:34:16
+21,Gray,Trevor,Nidd Valley,M40,01:35:14
+22,Hughes,Lewis,Unattached,M,01:35:18
+23,Anderson,Katy,Gala Harriers,F,01:37:16
+23,Fagan,Rachel,Gala Harriers,F,01:37:16
+25,Ord,Richard,Unattached,M,01:38:04
+26,Telfer,John,Keswick AC,M40,01:38:10
+27,Hutchinson,Wilf,Concordia,M50,01:38:21
+28,Adamson,George,North Shields,M50,01:38:41
+29,Hazell,Mark,Skye & Lochalsh,M40,01:39:16
+30,Simpson,Steven,Norham RC,M,01:39:54
+31,Cranston,Rob,Teviotdale,M40,01:40:51
+32,Mcleod,Andy,Moorfoot Runners,M50,01:41:10
+33,Wood,Fred,Sunderland Strollers,M40,01:43:04
+34,Murphy,Pete,Unattached,M40,01:45:07
+35,McCain,Fred,Carnethy,M50,01:46:16
+36,Sabiston,Kevin,The Bicycle Works,M40,01:46:38
+37,McAdam,Pauline,Westerlands,F50,01:48:35
+38,Smith,Janice,HBT,F40,01:49:32
+39,Mcleod,Christine,Moorfoot Runners,F40,01:50:32
+40,O`Brien,Mick,Low Fell,M50,01:51:37
+41,Stapley,Tony,Portobello,M60,01:53:10
+42,Wild,Ann,Norham RC,F50,01:53:22
+43,Turnbull,Drew,Westerlands,M60,01:58:59
+44,Kent Bell,James,GNR,M60,02:04:26

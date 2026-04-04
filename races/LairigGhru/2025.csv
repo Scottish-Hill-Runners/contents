@@ -81,8 +81,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 80,Nutt,William,Unattached,M,04:34:45
 81,Main,John,Alford BR,M40,04:35:07
 82,Maltman,Stuart,Unattached,M,04:36:04
-83,Lynch,Iain,Drumguish D & JC,MU23,04:37:09
-84,Roberts,Eilidh,Belgrave,FU23,04:37:14
+83,Lynch,Iain,Drumguish D & JC,M23,04:37:09
+84,Roberts,Eilidh,Belgrave,F23,04:37:14
 85,Taylor,Mark,Tac Tac,M,04:38:14
 86,Burnett,Chris,Unattached,M40,04:38:26
 87,Crabbie,Colin,HBT,M50,04:40:42
@@ -104,10 +104,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 103,Sutton,Mel,Unattached,M,04:52:23
 104,Caithness,Stewart,Concept Run,M40,04:52:33
 105,Moore,Kevin,Unattached,M,04:54:42
-106,Forth,Sophie,Huntly Nordic Ski Club,FU23,04:55:16
-107,Ipsen,Rasmus,Huntly Nordic Ski Club,MU23,04:55:16
+106,Forth,Sophie,Huntly Nordic Ski Club,F23,04:55:16
+107,Ipsen,Rasmus,Huntly Nordic Ski Club,M23,04:55:16
 108,Williams,Pete,Unattached,M,04:55:47
-109,Low,Jack,Unattached,MU23,04:56:10
+109,Low,Jack,Unattached,M23,04:56:10
 110,McHardy,Ailsa,Deeside Runners,F,04:56:22
 111,Watson,John,Unattached,M40,04:56:38
 112,Salf,Joseph,Unattached,M,04:57:10
@@ -164,7 +164,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 163,Grant,Robert,Unattached,M,05:16:18
 164,Davis,Geoff,Elvet Striders,M60,05:16:57
 165,Ramsey,Victoria,Unattached,F,05:17:24
-166,Hughes,Dominic,4SCOTS,MU23,05:17:41
+166,Hughes,Dominic,4SCOTS,M23,05:17:41
 167,Brock,Emma,Okehampton Running Club,F40,05:19:10
 168,Stoll,Erin,Clyde Mountaineering Club,F,05:19:58
 169,Coles,Frances,Strathearn Harriers,F,05:19:59
@@ -198,7 +198,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 197,Alexander,Colin,Totley AC Sheffield,M40,05:33:19
 198,Henley,Rachael,Unattached,F,05:35:30
 199,Sturrock,Christopher,Unattached,M,05:36:56
-200,Crofton,Alasdair,Unattached,MU23,05:36:57
+200,Crofton,Alasdair,Unattached,M23,05:36:57
 201,Laws,Simon,Unattached,M40,05:37:24
 202,James,Harrison,Unattached,M,05:37:52
 203,Hills,Richard,Fleet Feet Triathletes,M,05:38:31
@@ -251,7 +251,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 250,Edgar,Charlie,Unattached,M,06:20:22
 251,Cooper,Sonia,Unattached,F40,06:23:01
 252,Cooper,John,Dundee Hawkhill,M40,06:23:01
-253,Clarke,Clint,4SCOTS,MU23,06:24:50
+253,Clarke,Clint,4SCOTS,M23,06:24:50
 254,Leitch,Margie,Harmeny AC,F50,06:26:36
 255,Fenton,Lynda,Arran Runners,F40,06:27:26
 256,Howson,Clarissa,Unattached,F50,06:29:23

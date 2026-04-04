@@ -1,50 +1,50 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Bee,Graham,Fife AC,SM(1),00:48:36
-2,Paterson,Robbie,Forres Harrs,SM(2),00:48:47
-3,Bartlett,Graeme,Forres Harrs,VM(1),00:49:04
-4,Keith,Alec,Hunters BT,VM(2),00:49:12
-5,Williamson,Jason,Cosmic HB,VM(3),00:51:13
-6,Harper,Kevin,Cosmic HB,SM(3),00:52:22
-7,Sealy,Alan,Deeside Runs,VM(4),00:52:41
-8,Tivendale,Drew,Deeside Runs,SM(4),00:53:23
-9,Tomlin,Chris,Cosmic HB,VM(5),00:53:33
-10,Bass,Owen,Deeside Runs,VM(6),00:56:30
-11,Hughes,Gary,Deeside Runs,SM(5),00:56:46
-12,Taylor,Gordie,Highland HR,VM(7),00:57:03
-13,Addy,Steve,Unattached,SM(6),00:57:32
-14,Wilson,Stewart,Inverness Harr,VM(8),00:57:45
-15,Culley,Michael,Unattached,SM(7),00:58:28
-16,MacKenzie,Ruth,Deeside Runs,VL(1),00:58:55
-17,Forrest,Stuart,Highland HR,SM(8),00:59:33
-18,MacGregor,James,Garioch RR,VM(9),00:59:49
-19,Charlton,Keith,Aberdeen AAC,SVM(1),00:59:53
-20,Williams,Rupert,Cosmic HB,VM(10),01:00:15
-21,Ingram,Richard,Garioch RR,SM(9),01:00:35
-22,Leslie,Blair,Unattached,SM(10),01:01:25
-23,Greaves,Mike,Unattached,SVM(2),01:02:48
-24,Hanlon,Dave,Dundee HH,SVM(3),01:03:14
-25,Clark,David,Unattached,SM(11),01:03:29
-26,MacKay,Mike,Unattached,SM(12),01:03:47
-27,Reid,Colin,Cosmic HB,VM(11),01:03:51
-28,Wyse,Cathy,Unattached,SL(1),01:04:01
-29,Weir,Jonathan,Unattached,SM(13),01:04:07
-30,Hamilton,Anita,Cosmic HB,SVL(1),01:05:18
-31,MacRae,Megan,Highland HR,SL(2),01:05:30
-32,Cran,Ian,Garioch RR,SVM(4),01:08:14
-33,Thom,Jo,Stonehaven RC,VL(2),01:09:04
-34,Taylor,Colin,Cosmic HB,VM(12),01:09:45
-35,Cromar,Steve,Dundee HH,SVM(5),01:09:56
-36,Stewart,Elaine,Cosmic HB,SVL(2),01:10:03
-37,Jones,Izzy,Aberdeen Uni,SL(3),01:10:44
-38,Clark,Lesley,Unattached,SL(4),01:11:21
-39,Burgess,Warren,Deeside Runs,SVM(6),01:11:27
-40,Bass,Ursula,Deeside Runs,VL(3),01:11:36
-41,Angus,Mel,Fat Bobs,VL(4),01:11:37
-42,Drummond,Alistair,Unattached,VM(13),01:12:10
-43,Larmour,Pauline,Cosmic HB,VL(5),01:13:55
-44,Watt,Gillian,Garioch RR,VL(6),01:15:02
-45,Hanlon,Lyn,Dundee HH,VL(7),01:16:07
-46,Musgrave,Frank,TPT,SVM(7),01:16:38
-47,Oliver,Jane,Deeside Runs,SVL(3),01:20:59
-48,Coyle,Caroline,Unattached,SL(5),01:21:47
-49,Bromby,Guy,Grampian O,SVM(8),01:26:08
+1,Bee,Graham,Fife AC,M,00:48:36
+2,Paterson,Robbie,Forres Harrs,M,00:48:47
+3,Bartlett,Graeme,Forres Harrs,M40,00:49:04
+4,Keith,Alec,Hunters BT,M40,00:49:12
+5,Williamson,Jason,Cosmic HB,M40,00:51:13
+6,Harper,Kevin,Cosmic HB,M,00:52:22
+7,Sealy,Alan,Deeside Runs,M40,00:52:41
+8,Tivendale,Drew,Deeside Runs,M,00:53:23
+9,Tomlin,Chris,Cosmic HB,M40,00:53:33
+10,Bass,Owen,Deeside Runs,M40,00:56:30
+11,Hughes,Gary,Deeside Runs,M,00:56:46
+12,Taylor,Gordie,Highland HR,M40,00:57:03
+13,Addy,Steve,Unattached,M,00:57:32
+14,Wilson,Stewart,Inverness Harr,M40,00:57:45
+15,Culley,Michael,Unattached,M,00:58:28
+16,MacKenzie,Ruth,Deeside Runs,F40,00:58:55
+17,Forrest,Stuart,Highland HR,M,00:59:33
+18,MacGregor,James,Garioch RR,M40,00:59:49
+19,Charlton,Keith,Aberdeen AAC,M40,00:59:53
+20,Williams,Rupert,Cosmic HB,M40,01:00:15
+21,Ingram,Richard,Garioch RR,M,01:00:35
+22,Leslie,Blair,Unattached,M,01:01:25
+23,Greaves,Mike,Unattached,M40,01:02:48
+24,Hanlon,Dave,Dundee HH,M40,01:03:14
+25,Clark,David,Unattached,M,01:03:29
+26,MacKay,Mike,Unattached,M,01:03:47
+27,Reid,Colin,Cosmic HB,M40,01:03:51
+28,Wyse,Cathy,Unattached,F,01:04:01
+29,Weir,Jonathan,Unattached,M,01:04:07
+30,Hamilton,Anita,Cosmic HB,F40,01:05:18
+31,MacRae,Megan,Highland HR,F,01:05:30
+32,Cran,Ian,Garioch RR,M40,01:08:14
+33,Thom,Jo,Stonehaven RC,F40,01:09:04
+34,Taylor,Colin,Cosmic HB,M40,01:09:45
+35,Cromar,Steve,Dundee HH,M40,01:09:56
+36,Stewart,Elaine,Cosmic HB,F40,01:10:03
+37,Jones,Izzy,Aberdeen Uni,F,01:10:44
+38,Clark,Lesley,Unattached,F,01:11:21
+39,Burgess,Warren,Deeside Runs,M40,01:11:27
+40,Bass,Ursula,Deeside Runs,F40,01:11:36
+41,Angus,Mel,Fat Bobs,F40,01:11:37
+42,Drummond,Alistair,Unattached,M40,01:12:10
+43,Larmour,Pauline,Cosmic HB,F40,01:13:55
+44,Watt,Gillian,Garioch RR,F40,01:15:02
+45,Hanlon,Lyn,Dundee HH,F40,01:16:07
+46,Musgrave,Frank,TPT,M40,01:16:38
+47,Oliver,Jane,Deeside Runs,F40,01:20:59
+48,Coyle,Caroline,Unattached,F,01:21:47
+49,Bromby,Guy,Grampian O,M40,01:26:08

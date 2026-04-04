@@ -1,10 +1,10 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Haines,Hector,Edinburgh Uni H&H,MJ,0:27:30
+1,Haines,Hector,Edinburgh Uni H&H,M16,0:27:30
 2,Chepelin,Oleg,Shettleston,M,0:28:01
 3,Owens,Tom,Shettleston,M,0:28:26
 4,Wright,Andrew,Carnegie Harriers,M,0:28:59
 5,Richmond,Kenny,Bellahouston RR,M,0:29:13
-6,Cherry,Alan,Ayr Seaforth,MJ,0:29:22
+6,Cherry,Alan,Ayr Seaforth,M16,0:29:22
 7,McLennan,Ross,Forth Valley Orienteers,M,0:30:12
 8,Ross,Craig,Bellahouston RR,M,0:30:34
 9,Ross,Dougal,Bellahouston RR,M,0:31:02
@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Sanz-Gomez,Marcos,Bellahouston RR,M,0:31:38
 16,Fallon,Steve,Carnethy,M40,0:31:55
 17,Jack,Ewan,Ochil Hill Runners,M,0:31:59
-18,Scott-Park,Chris,Unattached,MJ,0:32:02
+18,Scott-Park,Chris,Unattached,M16,0:32:02
 19,Thompson,Paul,Helensburgh AAC,M50,0:32:06
 20,McArthur,John,Clydesdale Harriers,M40,0:32:18
 21,Breckenridge,Bill,Shettleston,M40,0:32:20
@@ -26,7 +26,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Munro,Graham,Lochaber AC,M40,0:33:05
 26,Anderson,Russell,Moorfoot Runners,M40,0:33:23
 27,Barnett,Gary,Unattached,M,0:33:28
-28,Milne,Ross,Central AC,MJ,0:33:29
+28,Milne,Ross,Central AC,M16,0:33:29
 29,Fleming,Peter,Unattached,M40,0:33:30
 30,Butler,Ian,Shettleston,M,0:33:31
 31,Haining,Keith,Kilmarnock Harriers,M40,0:33:38
@@ -40,7 +40,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,Wiseman,Sarah,Central AC,F,0:34:27
 40,Cross,Jon,Forth Valley Orienteers,M40,0:34:30
 41,Watson,Edward,Unattached,M,0:34:33
-42,Buchanan,Catriona,Central AC,FJ,0:34:34
+42,Buchanan,Catriona,Central AC,F16,0:34:34
 43,Robertson,Iona,Bellahouston RR,F,0:34:38
 44,Kelly,Graham,Westerlands,M40,0:34:53
 45,Driver,Michael,Clydesdale Harriers,M40,0:35:01
@@ -62,7 +62,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 61,Houston,Val,Westerlands,F40,0:36:15
 62,Conway,Craig,Shettleston,M,0:36:21
 63,Duncan,David,Ochil Hill Runners,M50,0:36:35
-64,Lawrie,Scott,Kirkintilloch Olympians,MJ,0:36:35
+64,Lawrie,Scott,Kirkintilloch Olympians,M16,0:36:35
 65,Stocker,Tom,Unattached,M,0:36:40
 66,Peplinski,George,Unattached,M40,0:36:46
 67,Riddell,Duncan,Maryhill,M40,0:36:47
@@ -74,7 +74,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 73,Coull,Charles,Ochil Hill Runners,M40,0:37:50
 74,Fitzgerald,Pat,Ochil Hill Runners,M50,0:38:12
 75,O`Brien,Paul,Corstorphine AAC,M50,0:38:34
-76,McIntyre,Craig,Kirkintilloch Olympians,MJ,0:38:50
+76,McIntyre,Craig,Kirkintilloch Olympians,M16,0:38:50
 77,Johnston,Stephen,Milburn,M40,0:38:51
 78,Clugston,Andrew,Kilbarchan,M,0:38:58
 79,O`Hara,James,Bellahouston RR,M40,0:39:01
@@ -89,7 +89,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 88,Forrester,Nick,Bellahouston RR,M,0:39:59
 89,Gibson,Jim,Kirkintilloch Olympians,M,0:40:01
 90,Crawley,Pamela,Westerlands,F,0:40:02
-91,Stokoe,Deborah,Westerlands,FJ,0:40:04
+91,Stokoe,Deborah,Westerlands,F16,0:40:04
 92,Drummond,James,Unattached,M,0:40:12
 93,Gatenby,Andrew,Glasgow Uni H&H,M,0:40:13
 94,Pugh,Roderick,Kilmarnock H,M50,0:40:36
@@ -110,7 +110,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 109,Munro,Lynsey,Bellahouston RR,F,0:42:40
 110,Milligan,Nicola,Bellahouston RR,F,0:42:44
 111,McMillan,Graham,Kilbarchan,M,0:43:02
-112,Gaughan,Gregory,Unattached,MJ,0:43:06
+112,Gaughan,Gregory,Unattached,M16,0:43:06
 113,Johnston,Sally,Bellahouston RR,F,0:43:22
 114,West,Allison,Carnegie Harriers,F50,0:43:24
 115,Fraser,Iain,Irvine AC,M40,0:43:26
@@ -128,7 +128,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 127,Caldwell,Christine,Unattached,F,0:45:10
 128,Doac,Chris,Bellahouston RR,M,0:45:11
 129,Attah,Onye,Bellahouston RR,F50,0:45:40
-130,Athorne,Katie,Garscube Harriers,FJ,0:46:02
+130,Athorne,Katie,Garscube Harriers,F16,0:46:02
 131,Freer,Ruth,Unattached,F,0:46:05
 132,Moriarty,Suzi,Bellahouston RR,F,0:46:05
 133,McFarlane,Fiora,Bellahouston RR,F40,0:46:06

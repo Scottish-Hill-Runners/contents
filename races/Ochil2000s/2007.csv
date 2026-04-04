@@ -1,60 +1,60 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Andrew,Carnegie,MS,03:00:31
-2,Upson,Chris,Westies,MV,03:08:36
-3,Hubbard,Ali,Unattached,MV,03:09:18
-4,Kitchin,Andy,Lothian,MV,03:16:24
-5,Cummins,Dave,Shettleston Harriers,MV,03:19:16
-6,Smith,Bruce,Carnethy,MV,03:28:47
-7,Williams,Phil,Central A.C.,MS,03:29:17
-8,Campbell,Graeme,Highland Hill Runners,MS,03:32:10
-9,Winn-Smith,Matt,Cambridge Harriers,MS,03:34:20
-10,Naylor,Donald,HBT,MS,03:34:21
-11,Hemingway,Andy,Lithgar Harriers,MV,03:34:44
-12,Kay,John,Fife AC,MV,03:34:51
-13,Priestley,Andrea,Ochil,FV,03:37:25
-14,Cunningham,Richie,Carnegie,MS,03:38:20
-15,Brown,Craig,Ochil,MV,03:47:13
-16,Barrie,Stuart,HBT,MV,03:48:44
-17,Scholes,John,Unattached,MV,03:49:23
-18,Mason,David,Lithgar Harriers,MV,03:49:30
-19,Hodges,Geoff,Cheshire Hill Racers,MSV,03:53:41
-20,Winter,Stephen,Unattached,MS,03:56:10
-21,Bullen,Brian,Ochil,MSV,03:56:55
-22,Homewood,Ellen,Westies,FS,04:00:44
-23,McInroy,Ross,Helensburgh AAC,MSV,04:03:31
-24,Gorgas,Steffen,Westies,MS,04:05:30
-25,McGarry,Douglas,Carnegie,MV,04:06:08
-26,Bowie,Tom,Fife AC,M60+,04:06:09
-27,Crampton,Viv,Ochil,MSV,04:06:55
-28,Carruthers,Andrew,Halesowen AC,MV,04:11:50
-29,Pugh,Roderick,JW Kilmarnock Warriors,MSV,04:12:49
-30,Buchanan,Andrina,Central A.C.,FV,04:14:04
-31,Hughes,Bob,Ochil,MSV,04:14:30
-32,Thorp,Thomas,Unattached,MS,04:18:04
-33,Smith,Malcolm,Ochil,MSV,04:18:56
-34,Hay,David,Central A.C.,MV,04:26:34
-35,Richardson,Matt,Lothian,MS,04:28:03
-36,Minto,Billy,HBT,MV,04:29:02
-37,Grant,Miranda,HBT,FS,04:29:42
-38,Fraser,Gary,Unattached,MS,04:31:15
-39,Gall,Alan,Central A.C.,MSV,04:40:57
-40,Eadie,Gordon,Musselburgh & District A.C.,MV,04:41:42
-41,Wilson,Colin,Carnethy,MV,04:45:20
-42,Wilson,Joan,Carnethy,FV,04:45:20
-43,Wadsworth,Andy,HBT,MV,04:46:28
-44,Ruxton,Carrie,Fife AC,FV,04:49:29
-45,Milmoe,Michael,Forres Harriers,MSV,04:50:05
-46,Grant,Sandy,Ochil,MSV,04:54:37
-47,Yearsley,Mark,Cumberland Fell Runners,MV,04:56:49
-48,Yearsley,Simon,Unattached,MV,04:56:50
-49,Fitzpatrick,Pat,Unattached,MSV,04:59:14
-50,Kaushal,Jason,Westies,MV,04:59:16
-51,MaPherson,Gordon,Wee County Harriers,MSV,05:01:45
-52,Newell,Mark,Cambridge Harriers,MV,05:02:37
-53,Diver,Michael,Clydesdale Harriers,MV,05:02:38
-54,Armstrong,George,Help,M60+,05:04:17
-55,Wilson,Graeme,Unattached,MV,05:15:00
-56,McDonald,Jon,Carnegie,MV,05:22:20
-57,Hadley,Peter,Cambridge Harriers,MV,05:23:04
-58,Higgs,Tom,Howgill Harriers,MV,05:26:07
-59,Andrews,Trevor,Wee County Harriers,MSV,05:31:04
+1,Symonds,Andrew,Carnegie,M,03:00:31
+2,Upson,Chris,Westies,M,03:08:36
+3,Hubbard,Ali,Unattached,M,03:09:18
+4,Kitchin,Andy,Lothian,M,03:16:24
+5,Cummins,Dave,Shettleston Harriers,M,03:19:16
+6,Smith,Bruce,Carnethy,M,03:28:47
+7,Williams,Phil,Central A.C.,M,03:29:17
+8,Campbell,Graeme,Highland Hill Runners,M,03:32:10
+9,Winn-Smith,Matt,Cambridge Harriers,M,03:34:20
+10,Naylor,Donald,HBT,M,03:34:21
+11,Hemingway,Andy,Lithgar Harriers,M,03:34:44
+12,Kay,John,Fife AC,M,03:34:51
+13,Priestley,Andrea,Ochil,F,03:37:25
+14,Cunningham,Richie,Carnegie,M,03:38:20
+15,Brown,Craig,Ochil,M,03:47:13
+16,Barrie,Stuart,HBT,M,03:48:44
+17,Scholes,John,Unattached,M,03:49:23
+18,Mason,David,Lithgar Harriers,M,03:49:30
+19,Hodges,Geoff,Cheshire Hill Racers,M40,03:53:41
+20,Winter,Stephen,Unattached,M,03:56:10
+21,Bullen,Brian,Ochil,M40,03:56:55
+22,Homewood,Ellen,Westies,F,04:00:44
+23,McInroy,Ross,Helensburgh AAC,M40,04:03:31
+24,Gorgas,Steffen,Westies,M,04:05:30
+25,McGarry,Douglas,Carnegie,M,04:06:08
+26,Bowie,Tom,Fife AC,M60,04:06:09
+27,Crampton,Viv,Ochil,M40,04:06:55
+28,Carruthers,Andrew,Halesowen AC,M,04:11:50
+29,Pugh,Roderick,JW Kilmarnock Warriors,M40,04:12:49
+30,Buchanan,Andrina,Central A.C.,F,04:14:04
+31,Hughes,Bob,Ochil,M40,04:14:30
+32,Thorp,Thomas,Unattached,M,04:18:04
+33,Smith,Malcolm,Ochil,M40,04:18:56
+34,Hay,David,Central A.C.,M,04:26:34
+35,Richardson,Matt,Lothian,M,04:28:03
+36,Minto,Billy,HBT,M,04:29:02
+37,Grant,Miranda,HBT,F,04:29:42
+38,Fraser,Gary,Unattached,M,04:31:15
+39,Gall,Alan,Central A.C.,M40,04:40:57
+40,Eadie,Gordon,Musselburgh & District A.C.,M,04:41:42
+41,Wilson,Colin,Carnethy,M,04:45:20
+42,Wilson,Joan,Carnethy,F,04:45:20
+43,Wadsworth,Andy,HBT,M,04:46:28
+44,Ruxton,Carrie,Fife AC,F,04:49:29
+45,Milmoe,Michael,Forres Harriers,M40,04:50:05
+46,Grant,Sandy,Ochil,M40,04:54:37
+47,Yearsley,Mark,Cumberland Fell Runners,M,04:56:49
+48,Yearsley,Simon,Unattached,M,04:56:50
+49,Fitzpatrick,Pat,Unattached,M40,04:59:14
+50,Kaushal,Jason,Westies,M,04:59:16
+51,MaPherson,Gordon,Wee County Harriers,M40,05:01:45
+52,Newell,Mark,Cambridge Harriers,M,05:02:37
+53,Diver,Michael,Clydesdale Harriers,M,05:02:38
+54,Armstrong,George,Help,M60,05:04:17
+55,Wilson,Graeme,Unattached,M,05:15:00
+56,McDonald,Jon,Carnegie,M,05:22:20
+57,Hadley,Peter,Cambridge Harriers,M,05:23:04
+58,Higgs,Tom,Howgill Harriers,M,05:26:07
+59,Andrews,Trevor,Wee County Harriers,M40,05:31:04

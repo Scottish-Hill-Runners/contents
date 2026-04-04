@@ -6,7 +6,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Anthony,Alasdair,Ochil HR,M,00:55:41
 6,Chepelin,Oleg,Shettleston Harriers,M,00:55:44
 7,Helme,John,Ambleside A.C,M,00:57:22
-8,Addison,Tom,Helm Hill Runners,MJ,00:57:31
+8,Addison,Tom,Helm Hill Runners,M16,00:57:31
 9,Drahokoupil,Ales,Edinburgh University H & H,M,00:57:37
 10,Addison,Mark,Helm Hill Runners,M,00:58:06
 11,Florida-James,Geraint,Carnethy HRC,M,00:58:11
@@ -69,12 +69,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 68,Ritchie,Paul,Carnethy HRC,M40,01:05:16
 69,Kay,John,Fife AC,M40,01:05:18
 70,Maxwell,Justin,Larne AC,M,01:05:20
-71,McLeod,Mark,Moorfoot Runners,MJ,01:05:26
+71,McLeod,Mark,Moorfoot Runners,M16,01:05:26
 72,Fallas,Andrew,Unattached,M,01:05:30
 73,Gore,Martin,Lasswade AC,M,01:05:32
 74,Burt,Cameron,Carnethy HRC,M,01:05:33
 75,Tullie,John,Teviotdale Harriers,M50,01:05:34
-76,Stewart,Ryan,Larne AC,MJ,01:05:36
+76,Stewart,Ryan,Larne AC,M16,01:05:36
 77,Kennedy,Stephen,Larne AC,M40,01:05:43
 78,Wood,Jack,Edinburgh University H & H,M,01:05:47
 79,Laing,Martin,Fife AC,M50,01:05:53
@@ -377,7 +377,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 376,Anderson,Derek,Unattached,M40,01:28:41
 377,Magill,Jennifer,Larne AC,F,01:28:41
 378,Gray,Kate,Lochaber AC,F50,01:28:43
-379,Gierjatowicz,Patryk,Unattached,MJ,01:28:48
+379,Gierjatowicz,Patryk,Unattached,M16,01:28:48
 380,Bradley,Roy,Saddleworth Runners,M60,01:28:51
 381,Law,Sharon,Unattached,F,01:28:55
 382,Walker,Peter,Carnethy HRC,M40,01:29:04
@@ -449,7 +449,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 448,Hood,Brian,Lothian and Borders Police,M40,01:39:35
 449,McCleery,Catriona,Edinburgh University H & H,F,01:39:38
 450,Cockerton,Jane,Penistone Footpath Runners,F40,01:39:41
-451,Young,Amy,Beacon Runners,FJ,01:39:44
+451,Young,Amy,Beacon Runners,F16,01:39:44
 452,Ingham,Cali,Carnethy HRC,F50,01:40:16
 453,Taylor,Anthony,Unattached,M40,01:40:24
 454,Hinde,Susan,Saddleworth Runners,F40,01:40:30

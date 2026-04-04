@@ -1,37 +1,37 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Rawlinson,Stephen,Lochtayside,M Senior,00:22:46
-2,Gorman,Manny,Westerlands,M 40-49,00:24:23
-3,Harvey,Craig,Squadra Porcini,M 40-49,00:25:09
-4,Wiseman,Bob,Ochil Hillrunners,M Senior,00:27:39
-5,Taylor,Robert,EUMC,M Senior,00:27:56
-6,Watson,Dan,Lochtayside,M 40-49,00:28:16
-7,Murray,Alan,Ochil Hillrunners,M 40-49,00:28:42
-8,Larmour,Colin,Cosmic Hillbashers,M 40-49,00:29:30
-9,Rennie,Nick,Unattached,M 40-49,00:30:23
-10,Brennan,Brian,Westerlands,M 50-59,00:31:01
-11,Bowman,Angus,Lomond Hill Runners,M 50-59,00:31:31
-12,Weir,Jonathon,Unattached,M Senior,00:31:32
-13,MacLean,Herbie,Lothian,M 60-64,00:31:33
-14,Connor,Julia,Moorfoots,F Senior,00:32:22
-15,Shaw,Trevor,Lochtayside,M 40-49,00:32:38
-16,Donnelly,John,Westerlands,M 40-49,00:33:12
-17,Duncan,David,Ochil Hillrunners,M 50-59,00:33:35
-18,Marsh,Duncan,Thame Runners,M 40-49,00:34:32
-19,Tuer,Kate,Lochaber AC,F Senior,00:35:07
+1,Rawlinson,Stephen,Lochtayside,M,00:22:46
+2,Gorman,Manny,Westerlands,M40,00:24:23
+3,Harvey,Craig,Squadra Porcini,M40,00:25:09
+4,Wiseman,Bob,Ochil Hillrunners,M,00:27:39
+5,Taylor,Robert,EUMC,M,00:27:56
+6,Watson,Dan,Lochtayside,M40,00:28:16
+7,Murray,Alan,Ochil Hillrunners,M40,00:28:42
+8,Larmour,Colin,Cosmic Hillbashers,M40,00:29:30
+9,Rennie,Nick,Unattached,M40,00:30:23
+10,Brennan,Brian,Westerlands,M50,00:31:01
+11,Bowman,Angus,Lomond Hill Runners,M50,00:31:31
+12,Weir,Jonathon,Unattached,M,00:31:32
+13,MacLean,Herbie,Lothian,M60,00:31:33
+14,Connor,Julia,Moorfoots,F,00:32:22
+15,Shaw,Trevor,Lochtayside,M40,00:32:38
+16,Donnelly,John,Westerlands,M40,00:33:12
+17,Duncan,David,Ochil Hillrunners,M50,00:33:35
+18,Marsh,Duncan,Thame Runners,M40,00:34:32
+19,Tuer,Kate,Lochaber AC,F,00:35:07
 20,Love,Charlie,Dundee Hawkhill Harriers,M Over 65,00:35:40
-21,Wadsworth,Andy,Hunters Bog Trotters,M 40-49,00:35:52
-22,Bowman,Jean,Lomond Hill Runners,F 50-59,00:36:00
-23,Stewart,Elaine,Cosmic Hillbashers,F 50-59,00:37:13
-24,Angus,Mel,Fat Bobs,F 40-49,00:37:13
-25,Adams,Chris,Unattached,M Senior,00:40:02
-26,Pollock,Kenny,Standard Life,M 40-49,00:41:29
-27,Larmour,Pauline,Cosmic Hillbashers,F 40-49,00:42:36
-28,Forster,Kate,Lochtayside,F 40-49,00:41:40
-29,Winning,Jim,Lomond Hill Runners,M 50-59,00:42:15
-30,Christie,Ninian,Lochaber AC,M Senior,00:42:31
-31,MacKechnie,Mhairi,Sweaty Betties,F Senior,00:43:03
-31,Frickleton,Iona,Sweaty Betties,F Senior,00:43:03
-33,Winning,Jennifer,Lomond Hill Runners,F Senior,043:43
-34,Paul,Brenda,Westerlands,F Senior,00:46:20
-35,Childs,Autumn,Unattached,F Senior,01:02:45
-36,Grove,Matthew,Carnethy,M 40-49,01:02:46
+21,Wadsworth,Andy,Hunters Bog Trotters,M40,00:35:52
+22,Bowman,Jean,Lomond Hill Runners,F50,00:36:00
+23,Stewart,Elaine,Cosmic Hillbashers,F50,00:37:13
+24,Angus,Mel,Fat Bobs,F40,00:37:13
+25,Adams,Chris,Unattached,M,00:40:02
+26,Pollock,Kenny,Standard Life,M40,00:41:29
+27,Larmour,Pauline,Cosmic Hillbashers,F40,00:42:36
+28,Forster,Kate,Lochtayside,F40,00:41:40
+29,Winning,Jim,Lomond Hill Runners,M50,00:42:15
+30,Christie,Ninian,Lochaber AC,M,00:42:31
+31,MacKechnie,Mhairi,Sweaty Betties,F,00:43:03
+31,Frickleton,Iona,Sweaty Betties,F,00:43:03
+33,Winning,Jennifer,Lomond Hill Runners,F,00:43:43
+34,Paul,Brenda,Westerlands,F,00:46:20
+35,Childs,Autumn,Unattached,F,01:02:45
+36,Grove,Matthew,Carnethy,M40,01:02:46

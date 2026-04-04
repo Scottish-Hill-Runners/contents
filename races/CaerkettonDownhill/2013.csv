@@ -1,41 +1,41 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gilmore,Andrew,Carnethy,MS,00:05:06
-2,Gilmore,Iain,Carnethy,MJ,00:05:07
-3,Denovan,John,Westies,MS,00:05:23
-4,Harris,Tom,Fife AC,MJ,00:05:23
-5,Normand,Andrew,Carnethy,MS,00:05:24
+1,Gilmore,Andrew,Carnethy,M,00:05:06
+2,Gilmore,Iain,Carnethy,M16,00:05:07
+3,Denovan,John,Westies,M,00:05:23
+4,Harris,Tom,Fife AC,M16,00:05:23
+5,Normand,Andrew,Carnethy,M,00:05:24
 6,Fraser,Gary,Ochil HR,M40,00:05:26
-7,Mackie,Peter,Shettleston,MS,00:05:29
-8,Longstaff,Chris,Carnethy,MS,00:05:32
+7,Mackie,Peter,Shettleston,M,00:05:29
+8,Longstaff,Chris,Carnethy,M,00:05:32
 9,Arnott,Luke,Westies,M40,00:05:36
 10,Johnston,Mark,Bellahoustoin RR,M40,00:05:39
 11,Fallon,Steven,Carnethy,M50,00:05:42
-12,McCloskey,Terry,Dumfries,MS,00:05:43
-13,Morgan,Charlotte,Carnethy,FS,00:05:45
+12,McCloskey,Terry,Dumfries,M,00:05:43
+13,Morgan,Charlotte,Carnethy,F,00:05:45
 14,Orr,Robin,Bellahoustoin RR,M50,00:05:47
-15,Campbell,Chris,Unnat,MS,00:05:56
+15,Campbell,Chris,Unnat,M,00:05:56
 16,Cowan,David,Fife AC,M50,00:06:02
-17,Brodie,Stuart,Ochil HR,MS,00:06:03
+17,Brodie,Stuart,Ochil HR,M,00:06:03
 18,Smith,Bruce,Carnethy,M40,00:06:08
 19,Reid,Don,Westies,M50,00:06:08
 20,Davis,Duncan,Carnethy,M40,00:06:09
-21,Bowden,James,HBT,MS,00:06:12
+21,Bowden,James,HBT,M,00:06:12
 22,Hastie,Neil,HELP,M40,00:06:18
-23,Roberts,Jeff,Carnethy,MS,00:06:21
+23,Roberts,Jeff,Carnethy,M,00:06:21
 24,Nash,Graham,Carnethy,M40,00:06:21
 25,Whiteford,Kenny,Peebles AC,M40,00:06:23
 26,Crozier,James,Unnat,M40,00:06:26
-27,Weir,Jonathan,Unnat,MS,00:06:31
+27,Weir,Jonathan,Unnat,M,00:06:31
 28,Cochrane,Andrew,Unnat,M50,00:06:31
 29,Waterhouse,Bob,Carnethy,M60,00:06:32
-30,Wiseman,Sarah,Ochil HR,FS,00:06:32
-31,Hardie,James,Carnethy,MS,00:06:33
-32,Sleggs,Paul,Unnat,MS,00:06:36
+30,Wiseman,Sarah,Ochil HR,F,00:06:32
+31,Hardie,James,Carnethy,M,00:06:33
+32,Sleggs,Paul,Unnat,M,00:06:36
 33,Sword,Lawrence,Unnat,M40,00:06:40
-34,Wardlaw,Eilidh,HBT,FS,00:06:40
+34,Wardlaw,Eilidh,HBT,F,00:06:40
 35,Fitzpatrick,Pat,Ochil HR,M60,00:06:48
-36,Brown,James,HBT,MS,00:06:50
-37,Campbell,Callum,Corstorphine,MJ,00:06:50
+36,Brown,James,HBT,M,00:06:50
+37,Campbell,Callum,Corstorphine,M16,00:06:50
 38,Mitchell,Neill,Fife AC,M40,00:06:56
 39,Kelsall,Fiona,Ochil HR,F40,00:06:59
 40,Brennan,Brian,Westies,M50,00:07:08
@@ -46,23 +46,23 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Greig,David,Carnegie,M40,00:07:29
 46,Ritchie,Hilary,Fife AC,F50,00:07:31
 47,Burns,Keith,Carnethy,M70,00:07:34
-48,Nash,Paul,Carnethy,MS,00:07:56
+48,Nash,Paul,Carnethy,M,00:07:56
 49,Harrington,David,Carnethy,M40,00:08:01
 50,Chapman,Mark,Carnethy,M40,00:08:03
 51,Duff,Bill,Carnegie,M60,00:08:07
-52,Rogers,Helen,Westies,FS,00:08:07
-53,Cameron,Kirsty,Carnethy,FJ,00:08:15
+52,Rogers,Helen,Westies,F,00:08:07
+53,Cameron,Kirsty,Carnethy,F16,00:08:15
 54,Campbell,Neil,Carnethy,M50,00:08:15
 55,Maass,Digby,Carnethy,M60,00:08:16
-56,Blackley,George,Unnat,MS,00:08:34
+56,Blackley,George,Unnat,M,00:08:34
 57,Barnes,Andrew,Carnethy,M40,00:08:36
-58,Greig,Roy,Carnegie,MJ,00:08:43
+58,Greig,Roy,Carnegie,M16,00:08:43
 59,Whitehead,Jonathan,Carnethy,M50,00:08:44
 60,Coltman,Alan,Teviotdale,M40,00:08:46
-61,Johnston,Simon,Carnethy,MS,00:08:52
-62,Blackley,Lisa,Unnat,FS,00:08:52
+61,Johnston,Simon,Carnethy,M,00:08:52
+62,Blackley,Lisa,Unnat,F,00:08:52
 63,Ingham,Cali,Carnethy,F50,00:08:56
-64,Cameron,Scott,Carnethy,MS,00:09:02
+64,Cameron,Scott,Carnethy,M,00:09:02
 65,Bowie,Tom,Carnegie,M60,00:09:16
 66,Campbell,Iain,HBT,M40,00:11:47
 67,Gilmore,Vicki,Carnethy,F50,00:12:06

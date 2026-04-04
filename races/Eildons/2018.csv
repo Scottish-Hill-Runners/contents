@@ -1,7 +1,7 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,0:35:27
 2,Dunn,James,HBT,M,0:36:38
-3,Bryson,Gavin,Highland Hill Runners,MU20,0:37:57
+3,Bryson,Gavin,Highland Hill Runners,M20,0:37:57
 4,Luetchford,Alex,HBT,M,0:38:55
 5,Hanson,Bethany,Edinburgh Uni H&H,F,0:39:08
 6,Cox,Andrew,Moorfoot Runners,M,0:39:41
@@ -22,11 +22,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Pikett,William,Norham RC,M50,0:46:06
 22,Henry,Robert,Musselburgh AC,M40,0:46:13
 23,Adamson,Simon,Gala Harriers,M40,0:46:16
-24,Badial,Anisha,Aberdeen AAC,FU20,0:46:18
+24,Badial,Anisha,Aberdeen AAC,F20,0:46:18
 25,Booth,Rick,Fife AC,M40,0:46:30
 26,Jones,Stephen,Unattached,M50,0:46:43
 27,Lalither,Scott,Unattached,M40,0:46:48
-28,McKenna,Lynn,Giffnock North,FU20,0:46:54
+28,McKenna,Lynn,Giffnock North,F20,0:46:54
 29,Irving,Roger,Hartfell HRC,M50,0:46:58
 30,Short,Michelle,Teviotdale Harriers,F,0:47:35
 31,Turnbull,Les,Norham RC,M60,0:47:41
@@ -37,7 +37,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Farquhar,Jeff,Pitreavie,M50,0:48:46
 37,Boyd,Duncan,Unattached,M50,0:49:28
 38,McCulloch,Billy,Gala Harriers,M50,0:49:35
-39,Crawford,Holly,Unattached,FU20,0:49:44
+39,Crawford,Holly,Unattached,F20,0:49:44
 40,Hardy,Mark,Carnethy,M,0:50:42
 41,Husbands,Jess,HBT,F,0:50:44
 42,Schoeman,Jenny,Unattached,F,0:50:50
@@ -85,6 +85,6 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 84,Lloyd,Hannah,Unattached,F,1:13:03
 85,Woodcock,Ian,Lauderdale Limpers,M40,1:13:09
 86,Murray,Robert,Unattached,M60,1:19:19
-87,Foley,Erina,Unattached,FU20,1:22:29
-88,Alla,Indi,Unattached,FU20,1:22:40
+87,Foley,Erina,Unattached,F20,1:22:29
+88,Alla,Indi,Unattached,F20,1:22:40
 89,Purves,Anne,Gala Harriers,F40,1:25:11

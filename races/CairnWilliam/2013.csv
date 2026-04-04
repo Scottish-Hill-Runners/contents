@@ -1,53 +1,53 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Hill,Chris,Cosmic HB,SM(1),00:47:51
-2,Paterson,Robbie,Forres Harrs,SM(2),00:48:22
-3,Abrahams,Ben,Cosmic HB,SM(3),00:49:26
-4,Bartlett,Graeme,Forres Harrs,VM(1),00:51:01
-5,Smith,Stuart,Cosmic HB,SM(4),00:51:11
-6,Lorimer,Hayden,Unattached,VM(2),00:51:15
-7,Goodall,John,Keith & District,SVM(1),00:51:21
-8,Marshall,David,Cosmic HB,SM(5),00:51:46
-9,Gaastra,Alex,Unattached,SM(6),00:52:33
-10,Williamson,Jason,Cosmic HB,VM(3),00:52:48
-11,Kerridge,Donald,Deeside Runs,VM(4),00:53:07
-12,Sealy,Alan,Deeside Runs,VM(5),00:53:17
-13,Rennie,Nick,Unattached,VM(6),00:55:49
-14,Kibble,Jeremy,Metro Abdn,SM(7),00:56:08
-15,Rutter,George,Rothwell Harrs,SVM(2),00:56:20
-16,Ord,Steven,Deeside Runners,VM(7),00:56:49
-17,Murray,Rab,The Darkside,VM(8),00:57:03
-18,McFadzean,Peter,Statoil,SM(8),00:57:22
-19,Ingram,Richard,Garioch RR,VM(9),00:58:43
-20,Addy,Steve,Cosmic HB,SM(9),00:59:22
-21,Larmour,Colin,Cosmic HB,VM(10),00:59:56
-22,Dewhurst,David,Metro Abdn,VM(11),01:00:18
-23,Angus,Gerald,Keith & District,SVM(3),01:00:34
-24,Henry,Peter,Deeside Runs,SM(10),01:00:51
-25,Omand,Elaine,Metro Abdn,SL(1),01:00:53
-26,Rogan,Kirstie,Forres Harrs,SL(2),01:01:14
-27,Strachan,Graham,Unattached,VM(12),01:01:18
-28,Taylor,Gordie,Highland HR,SVM(4),01:01:48
-29,Chen,Cheekong,Fourways,SM(11),01:02:59
-30,Watt,Mike,The Darkside,VM(13),01:03:33
-31,Wallis,Sally,Unattached,SL(3),01:03:48
-32,Jethwa,Jaimin,Sufferlandria,SM(12),01:03:57
-33,Newman,Miles,Deeside Runs,SVM(5),01:03:59
-34,MacDonald,Ian,Inverness Tri,SVM(6),01:05:24
-35,Hamilton,Anita,Cosmic HB,SVL(1),01:05:33
-36,MacKay,Mike,Unattached,VM(14),01:05:42
-37,Hamilton,Ian,Cosmic HB,SVM(7),01:06:16
-38,Williams,Rupert,Cosmic HB,SVM(8),01:07:56
-39,Black,Colleen,The Darkside,SL(4),01:08:08
-40,Cran,Ian,Garioch RR,SVM(9),01:08:24
-41,Gutteridge,Gary,Cosmic HB,SVM(10),01:08:51
-42,Rattray,Ed,Dufftown JS,VM(15),01:08:52
-43,Bruce,John,Unattached,SVM(11),01:10:37
-44,Fleming,Gibson,Westerlands,SVM(12),01:11:05
-45,Morris,Tamsin,Garioch RR,SL(5),01:11:39
-46,Larmour,Pauline,Cosmic HB,VL(1),01:12:32
-47,Bass,Ursula,Deeside Runs,VL(2),01:13:11
-48,Angus,Mel,Aberdeen AAC,VL(3),01:13:48
-49,Fraser,Olwen,The Darkside,VL(4),01:15:57
-50,Smith,Jennifer,Unattached,SL(6),01:18:27
-51,Digges,Corinne,Unattached,SL(7),01:19:46
-52,Taylor,Sue,Cosmic HB,SVL(2),01:25:43
+1,Hill,Chris,Cosmic HB,M,00:47:51
+2,Paterson,Robbie,Forres Harrs,M,00:48:22
+3,Abrahams,Ben,Cosmic HB,M,00:49:26
+4,Bartlett,Graeme,Forres Harrs,M40,00:51:01
+5,Smith,Stuart,Cosmic HB,M,00:51:11
+6,Lorimer,Hayden,Unattached,M40,00:51:15
+7,Goodall,John,Keith & District,M40,00:51:21
+8,Marshall,David,Cosmic HB,M,00:51:46
+9,Gaastra,Alex,Unattached,M,00:52:33
+10,Williamson,Jason,Cosmic HB,M40,00:52:48
+11,Kerridge,Donald,Deeside Runs,M40,00:53:07
+12,Sealy,Alan,Deeside Runs,M40,00:53:17
+13,Rennie,Nick,Unattached,M40,00:55:49
+14,Kibble,Jeremy,Metro Abdn,M,00:56:08
+15,Rutter,George,Rothwell Harrs,M40,00:56:20
+16,Ord,Steven,Deeside Runners,M40,00:56:49
+17,Murray,Rab,The Darkside,M40,00:57:03
+18,McFadzean,Peter,Statoil,M,00:57:22
+19,Ingram,Richard,Garioch RR,M40,00:58:43
+20,Addy,Steve,Cosmic HB,M,00:59:22
+21,Larmour,Colin,Cosmic HB,M40,00:59:56
+22,Dewhurst,David,Metro Abdn,M40,01:00:18
+23,Angus,Gerald,Keith & District,M40,01:00:34
+24,Henry,Peter,Deeside Runs,M,01:00:51
+25,Omand,Elaine,Metro Abdn,F,01:00:53
+26,Rogan,Kirstie,Forres Harrs,F,01:01:14
+27,Strachan,Graham,Unattached,M40,01:01:18
+28,Taylor,Gordie,Highland HR,M40,01:01:48
+29,Chen,Cheekong,Fourways,M,01:02:59
+30,Watt,Mike,The Darkside,M40,01:03:33
+31,Wallis,Sally,Unattached,F,01:03:48
+32,Jethwa,Jaimin,Sufferlandria,M,01:03:57
+33,Newman,Miles,Deeside Runs,M40,01:03:59
+34,MacDonald,Ian,Inverness Tri,M40,01:05:24
+35,Hamilton,Anita,Cosmic HB,F40,01:05:33
+36,MacKay,Mike,Unattached,M40,01:05:42
+37,Hamilton,Ian,Cosmic HB,M40,01:06:16
+38,Williams,Rupert,Cosmic HB,M40,01:07:56
+39,Black,Colleen,The Darkside,F,01:08:08
+40,Cran,Ian,Garioch RR,M40,01:08:24
+41,Gutteridge,Gary,Cosmic HB,M40,01:08:51
+42,Rattray,Ed,Dufftown JS,M40,01:08:52
+43,Bruce,John,Unattached,M40,01:10:37
+44,Fleming,Gibson,Westerlands,M40,01:11:05
+45,Morris,Tamsin,Garioch RR,F,01:11:39
+46,Larmour,Pauline,Cosmic HB,F40,01:12:32
+47,Bass,Ursula,Deeside Runs,F40,01:13:11
+48,Angus,Mel,Aberdeen AAC,F40,01:13:48
+49,Fraser,Olwen,The Darkside,F40,01:15:57
+50,Smith,Jennifer,Unattached,F,01:18:27
+51,Digges,Corinne,Unattached,F,01:19:46
+52,Taylor,Sue,Cosmic HB,F40,01:25:43

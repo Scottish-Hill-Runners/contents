@@ -9,7 +9,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 8,Thin,Jamie,HBT,M50,0:23:31
 9,MacLeod,Richard,Lochaber AC,M,0:23:35
 10,Reid,Michael,Carnethy,M40,0:23:52
-11,Fairgrieve,Ewan,Annan & District AC,MJ,0:24:02
+11,Fairgrieve,Ewan,Annan & District AC,M16,0:24:02
 12,Mackie,Peter,Shettleston Harriers,M40,0:24:08
 13,Houston,David,Shettleston Harriers,M,0:24:21
 14,Crowe,Des,Penicuik Harriers,M50,0:24:22
@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Malcolm,John,Carnethy,M,0:25:49
 26,Tindley,Georgia,HBT,F,0:26:03
 27,Anderson,Adam,Hartfell HRC,M40,0:26:08
-28,Kerr,Michael,Hartfell HRC,MJ,0:26:11
+28,Kerr,Michael,Hartfell HRC,M16,0:26:11
 29,Stephen,Jill,HBT,F,0:26:13
 30,Robertson,Shona,Shettleston Harriers,F40,0:26:19
 31,Cunningham,Roddy,Westerlands,M,0:26:21
@@ -44,7 +44,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 43,Titmuss,Simon,Carnethy,M40,0:27:49
 44,Murphy,Lee,Carnethy,M40,0:28:11
 45,Zakrzewski,Joanna,Dumfries RC,F40,0:28:13
-46,McCheyne,Cliona,Inverclyde AC,FJ,0:28:30
+46,McCheyne,Cliona,Inverclyde AC,F16,0:28:30
 47,O`Neill,Owen,Westerlands,M,0:29:00
 48,Shaw,Trevor,Lochtayside,M50,0:29:03
 49,McCallum,Alasdair,Norham RC,M50,0:29:04

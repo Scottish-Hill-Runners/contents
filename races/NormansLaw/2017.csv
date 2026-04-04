@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Rees,Logan,Fife AC,M,00:29:24
 2,Hukins,Ben,Cambuslang Harriers,M,00:30:49
-3,Rees,George,Fife AC,MU20,00:32:03
+3,Rees,George,Fife AC,M20,00:32:03
 4,Smith-Black,James,Unattached,M,00:32:38
 5,Hall,Russell,Unattached,M,00:32:58
 6,Knox,Thomas,Anster Haddies,M,00:33:37
@@ -11,7 +11,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,Du-Plessis,Kevin,Unattached,M,00:34:57
 11,Marshall,Brian,HELP,M40,00:35:07
 12,Smith,Gavin,HBT,M,00:35:08
-13,McKie,Colin,Anster Haddies,MU20,00:35:11
+13,McKie,Colin,Anster Haddies,M20,00:35:11
 14,Stewart,Munro,Dundee Hawkhill,M,00:35:20
 15,Jamieson,Andy,Unattached,M40,00:35:26
 16,Scott,Rory,Fife AC,M,00:35:28
@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Newton,Matt,Kinross RR,M40,00:35:52
 25,Malcolm,Bruce,Corstorphine AAC,M50,00:35:57
 26,Bowden,James,HBT,M,00:36:00
-27,Morris,Craig,Fife AC,MU20,00:36:02
+27,Morris,Craig,Fife AC,M20,00:36:02
 28,Martin,Tony,Falkland Trail Runners,M60,00:36:02
 29,McKiddie,Christopher,Westerlands CCC,M,00:36:02
 30,Booth,Rick,Fife AC,M40,00:36:06
@@ -34,7 +34,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 33,Clarke,Daniel,Fife Century Road Club,M,00:36:23
 34,Gaffney,David,Carnethy,M,00:36:33
 35,Macmillan,George,Unattached,M40,00:36:45
-36,Wyse,Ross,Fife AC,MU20,00:36:47
+36,Wyse,Ross,Fife AC,M20,00:36:47
 37,Anderson,Heather,Fife AC,F,00:36:53
 38,Davie,Kevin,Carnegie Harriers,M,00:37:29
 39,McPherson,John,Fife AC,M,00:37:34
@@ -68,7 +68,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 67,McKay,Heather,Unattached,F40,00:42:04
 68,Kemp,Graeme,Kinross RR,M,00:42:07
 69,Osborn,David,Lomond HR,M50,00:42:11
-70,Huggins,Sam,Unattached,MU20,00:42:15
+70,Huggins,Sam,Unattached,M20,00:42:15
 71,Smith,Brian R,Fife AC,M50,00:42:18
 72,Page,Mike,York,M,00:42:27
 73,Walker,Grant,Vegan Runners,M,00:42:37
@@ -86,9 +86,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 85,Weatherill,Dil,Trident,M50,00:44:01
 86,Weatherill,Ben,Unattached,M,00:44:03
 87,Placentino,Marco,Dundee Hawkhill,M40,00:44:11
-88,MacIver,Kenny,Unattached,MU20,00:44:21
+88,MacIver,Kenny,Unattached,M20,00:44:21
 89,Torres,Merce,Fife AC,F40,00:44:25
-90,Cameron,Euan,Anster Haddies,V50,00:44:27
+90,Cameron,Euan,Anster Haddies,M50,00:44:27
 91,Landells,Brian,Lomond HR,M50,00:44:35
 92,Campbell,Ian,Unattached,M40,00:44:50
 93,Knowles,Stuart,Fife AC,M60,00:45:08
@@ -101,7 +101,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 100,McLaren,Simon,Unattached,M,00:45:42
 101,Matthews,Catherine,Dundee Hawkhill,F40,00:45:48
 102,Clark,Sarah,Forfar RR,F,00:45:51
-103,Booth,Grace,Fife AC,FU20,00:46:09
+103,Booth,Grace,Fife AC,F20,00:46:09
 104,Connolly,Sarah,Unattached,F,00:46:13
 105,Walls,Cheryl,Dundee Hawkhill,F,00:46:24
 106,Maguire,Sabrina,Unattached,F,00:46:49
@@ -115,7 +115,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 114,Kenward,Deborah,Forfar RR,F50,00:48:39
 115,Henderson,John,Fife AC,M40,00:48:46
 116,Keenlyside,John,Fife AC,M60,00:48:48
-117,Smith,Libby,Fife AC,FU20,00:49:02
+117,Smith,Libby,Fife AC,F20,00:49:02
 118,Smith,Gillian,Fife AC,F40,00:49:04
 119,Milne,Elizabeth,Forfar RR,F50,00:49:14
 120,Gunn-Russell,Kenny,Harmeny,M60,00:49:28

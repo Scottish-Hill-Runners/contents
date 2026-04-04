@@ -2,16 +2,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Moffat,David,Unattached,M,00:33:25
 2,Hynd,Wull,Moorfoot,M,00:34:16
 3,McGovern,Michael,Moorfoot,M,00:34:52
-4,Gallagher,Ronnie,Carnethy,MV40,00:35:19
+4,Gallagher,Ronnie,Carnethy,M40,00:35:19
 5,Hobbs,Tom,Unattached,M,00:35:35
 6,Hendry,Robert,Unattached,M,00:35:43
 7,Murray,Keith,Teviotdale,M50,00:36:21
 8,Fallon,Steven,Carnethy,M40,00:36:24
-9,Ridley,Susan,Edinburgh AC,F1 Record,00:36:28
-10,Colquhoun,Lucy,Carnethy,F2,00:38:04
+9,Ridley,Susan,Edinburgh AC,F,00:36:28
+10,Colquhoun,Lucy,Carnethy,F,00:38:04
 11,Hulme,Martin,Corstorphine,M50,00:38:10
 12,Anderson,John,Penicuik Harriers,M40,00:38:17
-13,McLeod,Mark,Moorfoot,J1,00:38:38
+13,McLeod,Mark,Moorfoot,M16,00:38:38
 14,Johnson,Bob,Carnethy,M,00:38:41
 15,McAveny,Gregor,Gala Harriers,M,00:38:45
 16,Fraser,Billy,Teviotdale,M,00:38:52
@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Brydon,Derek,Gala Harriers,M,00:40:23
 25,Millard,Andy,Carnethy,M,00:40:42
 26,Moss,Carol,Moorfoot,F3,00:40:49
-27,Duncan,David,Ochil,MV50,00:41:15
+27,Duncan,David,Ochil,M50,00:41:15
 28,Balfour,Eddie,Unattached,M,00:41:21
 29,Connor,Julia,Moorfoot,F,00:41:25
 30,Martin,Steven,Gala Harriers,M,00:41:26
@@ -53,5 +53,5 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Smith,Janice,HBT,F50,00:50:28
 53,Darwin,Kate,Carnethy,F,00:51:38
 54,Methven,Katriona,Unattached,F,00:52:12
-55,McManus,Ian,Irvine,MV60,00:52:23
+55,McManus,Ian,Irvine,M60,00:52:23
 56,Ford,Diane,Unattached,F,00:56:44

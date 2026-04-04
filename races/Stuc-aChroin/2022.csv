@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Ross,Alan,Lochaber AC,M40,02:29:48
 25,Wainwright,Sam,Ochil Hill Runners,M,02:30:11
 26,Lamont,Andrew,Carnethy HRC,M40,02:30:52
-27,Taylor,Luke,Highland Hill Runners,MJ,02:31:02
+27,Taylor,Luke,Highland Hill Runners,M16,02:31:02
 28,Cope,David,Howgill Harriers,M,02:31:05
 29,Macrae,Andrew,Carnethy HRC,M50,02:31:32
 30,Wallace,David,Ochil Hill Runners,M40,02:31:46
@@ -47,7 +47,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 46,Pender,Iain,Shettleston Harriers,M,02:40:02
 47,Howie,Robin,Highland Hill Runners,M,02:40:27
 48,Harris,Mark,Fife AC,M50,02:40:34
-49,Eisen,Luis,Shettleston Harriers,MJ,02:40:35
+49,Eisen,Luis,Shettleston Harriers,M16,02:40:35
 50,Cameron,Angus,Lochaber AC,M,02:40:47
 51,Beresford,Will,Westerlands CCC,M,02:41:50
 52,Waite,Joseph,Westerlands CCC,M,02:42:00
@@ -64,12 +64,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 63,Thurlow-Begg,Richard,Westerlands CCC,M,02:47:04
 64,Gilmore,Iain,Carnethy HRC,M,02:47:32
 65,Bowers,William,Ochil Hill Runners,M,02:47:57
-66,Anderson,Darroch,Unattached,MJ,02:48:37
+66,Anderson,Darroch,Unattached,M16,02:48:37
 67,Davidson,Gregor,Lochaber AC,M40,02:49:03
 68,Marwick,Caroline,Highland Hill Runners,F,02:49:04
 69,Allsop,David,Arran Runners,M40,02:49:06
 70,Normand,Will,Carnethy HRC,M,02:50:25
-71,Dent,Alexander,Lochaber AC,MJ,02:50:42
+71,Dent,Alexander,Lochaber AC,M16,02:50:42
 72,Coombs,Duncan,HBT,M,02:51:08
 73,Cruickshanks,Ross,Shettleston Harriers,M,02:51:12
 74,Winter,Stephen,Shettleston Harriers,M40,02:51:21
@@ -77,14 +77,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 76,Young,Del,Westerlands CCC,M,02:52:23
 77,Smith,Alan,Deeside Runners,M60,02:52:36
 78,Mcalinden,Niall,Westerlands CCC,M,02:53:40
-79,Reid,Lewis,Unattached,MJ,02:53:53
+79,Reid,Lewis,Unattached,M16,02:53:53
 80,Wilson,Stewart,Highland Hill Runners,M55,02:53:57
 81,Peters,Ella,Westerlands CCC,F,02:54:02
 82,Macphail,CJ,Shettleston Harriers,F,02:54:29
 83,Nicholl,Ross,Blane Runners,M40,02:54:36
 84,Adams,David,Unattached,M,02:55:02
 85,Mudge,Angela,Ochil Hill Runners,F50,02:55:07
-86,Dakin,Pippa,Carnethy HRC,FJ,02:55:12
+86,Dakin,Pippa,Carnethy HRC,F16,02:55:12
 87,Bladon,Andrew,Carnethy HRC,M,02:55:20
 88,Blows,Edward,Westerlands CCC,M,02:55:22
 89,Walker,Neil,Unattached,M40,02:55:32
@@ -135,18 +135,18 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 134,Ashworth,James,Ochil Hill Runners,M50,03:12:40
 135,Verduijn,Bjorn,Ochil Hill Runners,M40,03:13:13
 136,McDonald,Lettie,Ochil Hill Runners,F,03:13:38
-137,Knox,Rosie,Carnethy HRC,FJ,03:14:19
+137,Knox,Rosie,Carnethy HRC,F16,03:14:19
 138,Myatt,Rona,Westerlands CCC,F,03:14:45
 139,Anderson,Ross,Westerlands CCC,M,03:15:17
 140,Williams,Dominic,Dundee Roadrunners,M,03:15:18
 141,Cowan,David,Fife AC,M55,03:15:31
-142,MacMillan,Jura,Jura AC,FJ,03:15:39
+142,MacMillan,Jura,Jura AC,F16,03:15:39
 143,Owen,Russell,Eryri harriers,M60,03:15:58
 144,Watson,Madeleine,Law and District AAC,F,03:16:16
 145,Skillcorn,Sam,Highland Hill Runners,M,03:16:50
 146,Mitchell,Rory,Carnethy HRC,M40,03:16:54
 147,Macdonald,Ally,Bellahouston Road Runners,M55,03:17:13
-148,MacDonald,Calum,Ochil Hill Runners,MJ,03:17:20
+148,MacDonald,Calum,Ochil Hill Runners,M16,03:17:20
 149,Malcolmson,Craig,Hartfell HRC,M55,03:17:32
 150,Wilkinson,Chris,Highland Hill Runners,M,03:18:58
 151,Hunter,Freddie,Highland Hill Runners,M,03:19:01

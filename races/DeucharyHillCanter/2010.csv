@@ -1,49 +1,49 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Kay,John,Fife AC,MV50,01:03:58
-2,Love,Craig,Dundee Hawkhill,MS,01:04:49
-3,Bee,Graham,Fife AC,MS,01:04:58
-4,Cooper,Marc,Perth Road Runners,MV40,01:05:09
-5,Taylor,Ewan,Perth Road Runners,MS,01:05:34
-6,McFarlane,Shaun,Ochil Hill Runners,MS,01:05:41
-7,Anderson,Russel,Moorfoots,MV50,01:05:51
-8,Fraser,Gary,Ochill Hll Runners,MV40,01:05:59
-9,Crowe,Des,Shettleston,MV40,01:06:06
-10,Wainright,Stephen,Unattached,MV40,01:06:15
-11,Roper,Marc,Giffnock North,MV40,01:06:32
-12,Campbell,Graeme,Inverness Harriers,MS,01:07:07
-13,Black,Andy,Wharfedale harriers,MV40,01:07:42
-14,Muir,Neil,Perth Road Runners,MV40,01:07:54
-15,Mackie,Peter,Unattached,MV40,01:08:04
-16,Murray,Alan,Ochill Hll Runners,MV40,01:08:33
-17,Maxwell,Fiona,Shettleston,FV40,01:09:27
-18,McEwan,John,Ochill Hll Runners,MS,01:09:43
-19,Maxwell,Bill,Shettleston,MV50,01:10:30
-20,Higginbottom,Jaqui,Carnethy,FV40,01:10:50
-21,Malcolm,John,Lothian RC,MS,01:13:30
-22,O'Shea,Emma,Unattached,FS,01:14:47
-23,Duncan,David,Ochill Hll Runners,MV50,01:14:54
-24,Robinson,Gordon,Westerlands,MV60,01:16:16
-25,Cumming,Alistair J,Unattached,MS,01:16:58
-26,McIntosh,Colin,Anster Haddies,MV50,01:17:15
-27,Low,John,Anster Haddies,MV40,01:17:16
-28,Murdoch,David,Lomond Hill Runners,MS,01:18:07
-29,Thomson,Derek,Unattached,MS,01:18:24
-30,Macrae,Megan,Highland Hill Runners,FS,01:18:26
-31,Hague,Peter,Cairngorm Runners,MV40,01:18:29
-32,Weir,Jonathon,Unattached,MS,01:18:30
-33,Valentine,Jim,Unattached,MV40,01:18:59
-34,Nicol,Graeme,Tayside Orienteers,MV50,01:21:12
-35,Fisken,Bill,Unattached,MV40,01:22:26
-36,Bowman,Angus,Beacon Fell Runners,MV50,01:22:42
-37,Campbell,Doreen,Inverness Harriers,FS,01:23:12
-38,Morrison,Gordon,Strathearn Harriers,MV50,01:25:24
-39,Stakes,David,Bellahouston Road Runners,MS,01:25:57
-40,West,Alison,Carnegie,FV50,01:26:20
-41,Hailey,Lucy,Carnethy,FS,01:26:57
-42,Love,Charlie,Dundee Hawkhill,MV60,01:29:30
-43,Nicol,Melanie,Tayside Orienteers,FV40,01:29:58
-44,Bee,David,Fife AC,MV50,01:32:54
-45,Thornton,Robert,Perth Road Runners,MV50,01:44:08
-46,Bowman,Jean,Beacon Fell Runners,FV50,01:43:33
-47,Sloan,Liz,Unattached,FV40,01:59:19
-48,Lister,Ann,Unattached,FV60,01:59:19
+1,Kay,John,Fife AC,M50,01:03:58
+2,Love,Craig,Dundee Hawkhill,M,01:04:49
+3,Bee,Graham,Fife AC,M,01:04:58
+4,Cooper,Marc,Perth Road Runners,M40,01:05:09
+5,Taylor,Ewan,Perth Road Runners,M,01:05:34
+6,McFarlane,Shaun,Ochil Hill Runners,M,01:05:41
+7,Anderson,Russel,Moorfoots,M50,01:05:51
+8,Fraser,Gary,Ochill Hll Runners,M40,01:05:59
+9,Crowe,Des,Shettleston,M40,01:06:06
+10,Wainright,Stephen,Unattached,M40,01:06:15
+11,Roper,Marc,Giffnock North,M40,01:06:32
+12,Campbell,Graeme,Inverness Harriers,M,01:07:07
+13,Black,Andy,Wharfedale harriers,M40,01:07:42
+14,Muir,Neil,Perth Road Runners,M40,01:07:54
+15,Mackie,Peter,Unattached,M40,01:08:04
+16,Murray,Alan,Ochill Hll Runners,M40,01:08:33
+17,Maxwell,Fiona,Shettleston,F40,01:09:27
+18,McEwan,John,Ochill Hll Runners,M,01:09:43
+19,Maxwell,Bill,Shettleston,M50,01:10:30
+20,Higginbottom,Jaqui,Carnethy,F40,01:10:50
+21,Malcolm,John,Lothian RC,M,01:13:30
+22,O'Shea,Emma,Unattached,F,01:14:47
+23,Duncan,David,Ochill Hll Runners,M50,01:14:54
+24,Robinson,Gordon,Westerlands,M60,01:16:16
+25,Cumming,Alistair J,Unattached,M,01:16:58
+26,McIntosh,Colin,Anster Haddies,M50,01:17:15
+27,Low,John,Anster Haddies,M40,01:17:16
+28,Murdoch,David,Lomond Hill Runners,M,01:18:07
+29,Thomson,Derek,Unattached,M,01:18:24
+30,Macrae,Megan,Highland Hill Runners,F,01:18:26
+31,Hague,Peter,Cairngorm Runners,M40,01:18:29
+32,Weir,Jonathon,Unattached,M,01:18:30
+33,Valentine,Jim,Unattached,M40,01:18:59
+34,Nicol,Graeme,Tayside Orienteers,M50,01:21:12
+35,Fisken,Bill,Unattached,M40,01:22:26
+36,Bowman,Angus,Beacon Fell Runners,M50,01:22:42
+37,Campbell,Doreen,Inverness Harriers,F,01:23:12
+38,Morrison,Gordon,Strathearn Harriers,M50,01:25:24
+39,Stakes,David,Bellahouston Road Runners,M,01:25:57
+40,West,Alison,Carnegie,F50,01:26:20
+41,Hailey,Lucy,Carnethy,F,01:26:57
+42,Love,Charlie,Dundee Hawkhill,M60,01:29:30
+43,Nicol,Melanie,Tayside Orienteers,F40,01:29:58
+44,Bee,David,Fife AC,M50,01:32:54
+45,Thornton,Robert,Perth Road Runners,M50,01:44:08
+46,Bowman,Jean,Beacon Fell Runners,F50,01:43:33
+47,Sloan,Liz,Unattached,F40,01:59:19
+48,Lister,Ann,Unattached,F60,01:59:19

@@ -1,46 +1,46 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Donnelly,Colin,Lochaber AC,MV,00:40:09
-2,Bee,Graham,Fife AC,MS,00:40:14
-3,Keith,Alec,HBT,MV,00:41:27
-4,Campbell,Graeme,HHR,MS,00:42:30
-5,Cummins,Dave,HHR,MV,00:43:23
-6,Bannerman,Ross,HHR,MS,00:43:50
-7,Williams,Fran,HHR,MS,00:43:55
-8,Wilby,Andrew,HHR,MS,00:44:02
-9,Muir,Jonny,Inverness Harriers,MS,00:44:23
-10,Ward,Peter,Lochaber AC,MS,00:45:12
-11,Gallie,David,Inverness Harriers,MV,00:45:16
-12,Meek,Ian,HHR,MV,00:45:49
-13,MacIntyre,Steven,Inverness Harriers,MS,00:46:29
-14,Worsley,Steve,HHR,MV,00:48:04
-15,Henry,Peter,Deeside,MS,00:49:02
-16,MacDonald,Douglas,Inverness Harriers,MS,00:49:21
-17,Shearer,Graham,Unattached,MS,00:49:34
-18,Meehan,Jim,HHR,MV,00:49:39
-19,Higginbottom,Jacqui,Carnethy,FV,00:50:08
-20,Fraser,Billy,Northumberland FR,MV,00:50:28
-21,Olden,Colin,Unattached,MS,00:50:46
-22,Skinner,Billy,Inverness Harriers,MV,00:50:49
-23,Church,Richard,Unattached,MS,00:51:04
-24,Bannerman,Roxy,HHR,FS,00:51:08
-25,MacKay,Ian,HBT,MV,00:51:26
-26,White,Robert,Ullapool,MV,00:51:51
-27,Forrest,Stuart,HHR,MS,00:52:22
-28,Duncan,Davy,Ochil Hillrunners,MV50,00:52:42
-29,Munro,Craig,Unattached,MV,00:53:02
-30,Beattie,Andy,Forres Harriers,MV,00:53:17
-31,Earnshaw,Colin,Caithness AAC,MS,00:54:03
-32,O’Brien,Paul,Corstorphine AC,MV50,00:54:11
-33,Campbell,Doreen,Inverness Harriers,FV,00:55:15
-34,Stirling,William,Unatatched,MV,00:55:43
-35,Mitchell,Phyliss,HBT,FV,00:57:34
-36,Waugh,Mark,Unattached,MS,00:58:02
-37,Amphlett,Peter,Unattached,MV50,00:58:32
-38,MacRae,Megan,Aberdeen University,FS,00:58:44
-39,Smith,Ian,HHR,MS,00:59:00
-40,Clancy,David,Dewsbury Harriers,MS,01:02:00
-41,Reid,George,Unattached,MV50,01:03:06
-42,Milmoe,Mike,Forres Harriers,MV50,01:05:01
-43,Lemoncello,Phyllis,Fife AC,FV60,01:09:38
-44,Paul,Brenda,Westerlands,FS,01:11:52
-45,Johnston,Ali,HBT,FV,01:15:19
+1,Donnelly,Colin,Lochaber AC,M,00:40:09
+2,Bee,Graham,Fife AC,M,00:40:14
+3,Keith,Alec,HBT,M,00:41:27
+4,Campbell,Graeme,HHR,M,00:42:30
+5,Cummins,Dave,HHR,M,00:43:23
+6,Bannerman,Ross,HHR,M,00:43:50
+7,Williams,Fran,HHR,M,00:43:55
+8,Wilby,Andrew,HHR,M,00:44:02
+9,Muir,Jonny,Inverness Harriers,M,00:44:23
+10,Ward,Peter,Lochaber AC,M,00:45:12
+11,Gallie,David,Inverness Harriers,M,00:45:16
+12,Meek,Ian,HHR,M,00:45:49
+13,MacIntyre,Steven,Inverness Harriers,M,00:46:29
+14,Worsley,Steve,HHR,M,00:48:04
+15,Henry,Peter,Deeside,M,00:49:02
+16,MacDonald,Douglas,Inverness Harriers,M,00:49:21
+17,Shearer,Graham,Unattached,M,00:49:34
+18,Meehan,Jim,HHR,M,00:49:39
+19,Higginbottom,Jacqui,Carnethy,F,00:50:08
+20,Fraser,Billy,Northumberland FR,M,00:50:28
+21,Olden,Colin,Unattached,M,00:50:46
+22,Skinner,Billy,Inverness Harriers,M,00:50:49
+23,Church,Richard,Unattached,M,00:51:04
+24,Bannerman,Roxy,HHR,F,00:51:08
+25,MacKay,Ian,HBT,M,00:51:26
+26,White,Robert,Ullapool,M,00:51:51
+27,Forrest,Stuart,HHR,M,00:52:22
+28,Duncan,Davy,Ochil Hillrunners,M50,00:52:42
+29,Munro,Craig,Unattached,M,00:53:02
+30,Beattie,Andy,Forres Harriers,M,00:53:17
+31,Earnshaw,Colin,Caithness AAC,M,00:54:03
+32,O’Brien,Paul,Corstorphine AC,M50,00:54:11
+33,Campbell,Doreen,Inverness Harriers,F,00:55:15
+34,Stirling,William,Unatatched,M,00:55:43
+35,Mitchell,Phyliss,HBT,F,00:57:34
+36,Waugh,Mark,Unattached,M,00:58:02
+37,Amphlett,Peter,Unattached,M50,00:58:32
+38,MacRae,Megan,Aberdeen University,F,00:58:44
+39,Smith,Ian,HHR,M,00:59:00
+40,Clancy,David,Dewsbury Harriers,M,01:02:00
+41,Reid,George,Unattached,M50,01:03:06
+42,Milmoe,Mike,Forres Harriers,M50,01:05:01
+43,Lemoncello,Phyllis,Fife AC,F60,01:09:38
+44,Paul,Brenda,Westerlands,F,01:11:52
+45,Johnston,Ali,HBT,F,01:15:19

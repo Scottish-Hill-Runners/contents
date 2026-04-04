@@ -1,39 +1,39 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gilmore,Iain,Carnethy,MS,01:17:51
-2,Wilby,David,Highland H R,MS,01:19:21
-3,Smith,Alan,Deeside,MV50,01:23:03
-4,O'Neil,Owen,Westerlands,MS,01:27:40
-5,Crutchfield,Stuart,Lochaber,MS,01:27:40
-6,Fallon,Stephen,Carnethy,MV50,01:28:49
-7,Gilmore,Andrew,Carnethy,MS,01:29:17
-8,Macdougal,Colin,Tinto,MV40,01:34:28
-9,Briffett,Graham,HHR,MV40,01:35:28
-10,Wood,Sue,HHR,FV40,01:38:19
-11,Taylor,Gordie,HHR,MV50,01:41:01
-12,Irvine,Gill,HHR,FV50,01:41:02
-13,Ingram,Richard,Cosmic,MV40,01:41:32
-14,Chandler,David,HHR,MS,01:41:39
-15,Gilmore,Neil,Carnethy,MV50,01:44:01
-16,Worsley,Steve,Inverness H,MV50,01:45:14
-17,Mattewson,Alastair,HHR,MV50,01:45:39
-18,Renard,Helen,Lochaber,FS,01:45:50
-19,Wilby,Raymond,HHR,MV70,01:47:01
-20,Robson,Mark,Unattached,MV40,01:47:56
-21,Blankenstein,Tom,Edinburgh AC,MS,01:48:36
-22,Kennedy,Steve,Lochaber,MV50,01:48:38
-23,Betts,Richard,Unattached,MS,01:49:05
-24,Beaumont,Rob,Unattached,MV40,01:49:59
-25,Mackie,Shona,HHR,FS,01:52:21
-26,Lyons,Karen,HHR,FV40,01:55:54
-27,Arnot,Derek,HHR,MV50,01:56:07
-28,Weir,Johnathon,Unattached,MS,01:56:18
-29,Duncan,David,Ochil,MV60,01:56:21
-30,Brett,Alex,HHR,MV60,01:56:52
-31,Arthur,Graham,HHR,MV60,01:57:16
-32,Brennan,Brian,Westerlands,MV50,01:57:24
-33,Stalker,Jim,Lochaber,MV50,02:03:56
-34,Wallace,Craig,HHR,MS,02:10:42
-35,Kennedy,Nancy,Lochaber,FV50,02:18:09
-36,Blankenstein,Mairi,Edinburgh AC,FS,02:21:45
-37,McPartlin,Gerry,Fife AC,MV70,02:34:58
-38,Fraser,Graham,Unattached,MV40,02:40:11
+1,Gilmore,Iain,Carnethy,M,01:17:51
+2,Wilby,David,Highland H R,M,01:19:21
+3,Smith,Alan,Deeside,M50,01:23:03
+4,O'Neil,Owen,Westerlands,M,01:27:40
+5,Crutchfield,Stuart,Lochaber,M,01:27:40
+6,Fallon,Stephen,Carnethy,M50,01:28:49
+7,Gilmore,Andrew,Carnethy,M,01:29:17
+8,Macdougal,Colin,Tinto,M40,01:34:28
+9,Briffett,Graham,HHR,M40,01:35:28
+10,Wood,Sue,HHR,F40,01:38:19
+11,Taylor,Gordie,HHR,M50,01:41:01
+12,Irvine,Gill,HHR,F50,01:41:02
+13,Ingram,Richard,Cosmic,M40,01:41:32
+14,Chandler,David,HHR,M,01:41:39
+15,Gilmore,Neil,Carnethy,M50,01:44:01
+16,Worsley,Steve,Inverness H,M50,01:45:14
+17,Mattewson,Alastair,HHR,M50,01:45:39
+18,Renard,Helen,Lochaber,F,01:45:50
+19,Wilby,Raymond,HHR,M70,01:47:01
+20,Robson,Mark,Unattached,M40,01:47:56
+21,Blankenstein,Tom,Edinburgh AC,M,01:48:36
+22,Kennedy,Steve,Lochaber,M50,01:48:38
+23,Betts,Richard,Unattached,M,01:49:05
+24,Beaumont,Rob,Unattached,M40,01:49:59
+25,Mackie,Shona,HHR,F,01:52:21
+26,Lyons,Karen,HHR,F40,01:55:54
+27,Arnot,Derek,HHR,M50,01:56:07
+28,Weir,Johnathon,Unattached,M,01:56:18
+29,Duncan,David,Ochil,M60,01:56:21
+30,Brett,Alex,HHR,M60,01:56:52
+31,Arthur,Graham,HHR,M60,01:57:16
+32,Brennan,Brian,Westerlands,M50,01:57:24
+33,Stalker,Jim,Lochaber,M50,02:03:56
+34,Wallace,Craig,HHR,M,02:10:42
+35,Kennedy,Nancy,Lochaber,F50,02:18:09
+36,Blankenstein,Mairi,Edinburgh AC,F,02:21:45
+37,McPartlin,Gerry,Fife AC,M70,02:34:58
+38,Fraser,Graham,Unattached,M40,02:40:11

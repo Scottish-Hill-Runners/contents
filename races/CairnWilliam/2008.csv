@@ -1,32 +1,32 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Peachey,Simon,Carnethy,SM(1),00:47:39
-2,Greig,Kyle,Aberdeen Uni,SM(2),00:47:45
-3,Williamson,Jason,Cosmic HB,SM(3),00:49:39
-4,Rogan,Paul,Forres Harrs,SM(4),00:49:52
-5,Sealy,Alan,Deeside Runs,VM(1),00:51:44
-6,Lorimer,Hayden,Hunters BT,SM(5),00:51:51
-7,McDonald,Dennis,Cosmic HB,VM(2),00:53:08
-8,Hughes,Gary,Deeside Runs,SM(6),00:53:57
-9,McKenzie,Calum,Aberdeen Uni,SM(7),00:54:29
-10,Hirst,David,Deeside Runs,VM(3),00:55:23
-11,Henry,Peter,Deeside Runs,SM(8),00:56:41
-12,Jack,Tony,Metro Abdn,VM(4),00:57:00
-13,Milne,Graham,Unattached,SVM(1),00:58:46
-14,MacKenzie,Ruth,Deeside Runs,VL(1),00:58:56
-15,Forrester,John,Unattached,SM(9),01:00:29
-16,Knoery,Charles,Aberdeen Uni,SM(10),01:00:59
-17,Williams,Rupert,Unattached,VM(5),01:01:56
-18,Dahl,Fiona,Cosmic HB,SL(1),01:02:56
-19,Waites,Jason,Unattached,SM(11),01:03:10
-20,MacRae,William,Unattached,SVM(2),01:03:40
-21,Whelan,Patrick,Unattached,VM(6),01:03:49
-22,Bryce,Murray,Cosmic HB,SVM(3),01:04:22
-23,Taylor,Colin,Cosmic HB,VM(7),01:06:36
-24,Holmes,Martin,Cosmic HB,SVM(4),01:07:13
-25,MacRae,Megan,Aberdeen Uni,SL(2),01:09:27
-26,Jones,Isabel,Aberdeen Uni,SL(3),01:09:34
-27,Cran,Ian,Garioch RR,SVM(5),01:13:22
-28,Waites,Steve,Garioch RR,SVM(6),01:18:07
-29,Oliver,Jane,Deeside Runs,VL(2),01:18:27
-30,Wright,James,Hunters BT,SVM(7),01:20:28
-31,Aitken,Gordon,Unattached,SM(12),01:21:46
+1,Peachey,Simon,Carnethy,M,00:47:39
+2,Greig,Kyle,Aberdeen Uni,M,00:47:45
+3,Williamson,Jason,Cosmic HB,M,00:49:39
+4,Rogan,Paul,Forres Harrs,M,00:49:52
+5,Sealy,Alan,Deeside Runs,M40,00:51:44
+6,Lorimer,Hayden,Hunters BT,M,00:51:51
+7,McDonald,Dennis,Cosmic HB,M40,00:53:08
+8,Hughes,Gary,Deeside Runs,M,00:53:57
+9,McKenzie,Calum,Aberdeen Uni,M,00:54:29
+10,Hirst,David,Deeside Runs,M40,00:55:23
+11,Henry,Peter,Deeside Runs,M,00:56:41
+12,Jack,Tony,Metro Abdn,M40,00:57:00
+13,Milne,Graham,Unattached,M40,00:58:46
+14,MacKenzie,Ruth,Deeside Runs,F40,00:58:56
+15,Forrester,John,Unattached,M,01:00:29
+16,Knoery,Charles,Aberdeen Uni,M,01:00:59
+17,Williams,Rupert,Unattached,M40,01:01:56
+18,Dahl,Fiona,Cosmic HB,F,01:02:56
+19,Waites,Jason,Unattached,M,01:03:10
+20,MacRae,William,Unattached,M40,01:03:40
+21,Whelan,Patrick,Unattached,M40,01:03:49
+22,Bryce,Murray,Cosmic HB,M40,01:04:22
+23,Taylor,Colin,Cosmic HB,M40,01:06:36
+24,Holmes,Martin,Cosmic HB,M40,01:07:13
+25,MacRae,Megan,Aberdeen Uni,F,01:09:27
+26,Jones,Isabel,Aberdeen Uni,F,01:09:34
+27,Cran,Ian,Garioch RR,M40,01:13:22
+28,Waites,Steve,Garioch RR,M40,01:18:07
+29,Oliver,Jane,Deeside Runs,F40,01:18:27
+30,Wright,James,Hunters BT,M40,01:20:28
+31,Aitken,Gordon,Unattached,M,01:21:46

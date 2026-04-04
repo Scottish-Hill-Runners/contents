@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside,M,00:27:34
-2,Wright,Joe,Deeside,MJ,00:29:26
+2,Wright,Joe,Deeside,M16,00:29:26
 3,Barclay,David,Garioch Road Runners,M40,00:29:50
 4,Hill,Chris,Cosmics,M,00:29:50
 5,Manson,Iain,Unattached,M,00:29:51
@@ -15,7 +15,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Bain,Katie,Metro Aberdeen,F,00:33:11
 15,Ricketts,Jennifer,Deeside,F,00:33:22
 16,Wilson,Stewart,Inverness Harriers,M40,00:33:33
-17,Clark,Liam,Aberdeen AAC,MJ,00:34:03
+17,Clark,Liam,Aberdeen AAC,M16,00:34:03
 18,Newman,Miles,Deeside,M50,00:34:26
 19,Weir,Kenny,Unattached,M,00:34:46
 20,Ingram,Richard,Cosmics,M40,00:34:46

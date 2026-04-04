@@ -3,7 +3,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 2,Taylor,Brendon,Rossendale,M,0:21:22
 3,Strain,Murray,HBT,M,0:21:53
 4,Gillespie,Michael,Shettleston Harriers,M,0:21:58
-5,Watson,Sam,Wharfedale Harriers,MU23,0:22:48
+5,Watson,Sam,Wharfedale Harriers,M23,0:22:48
 6,Trigg,Andy,Pennine Fell Runners,M45,0:23:33
 7,Fallas,Andrew,Carnethy,M,0:23:48
 8,Preedy,Andrew,Rossendale,M,0:24:38
@@ -11,7 +11,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Procter,Lee,Helm Hill Runners,M,0:25:26
 11,Gibbons,Iain,Ilkley Harriers,M,0:25:59
 12,Martin,Ryan,Unattached,M,0:26:18
-13,Athersmith,Matthew,Wharfedale Harriers,MU23,0:26:32
+13,Athersmith,Matthew,Wharfedale Harriers,M23,0:26:32
 14,Short,Kenny,Teviotdale Harriers,M40,0:26:34
 15,recorded,Not,Unattached,M,0:27:29
 16,Bradshaw,Carl,Wharfedale Harriers,M40,0:27:30
@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Rathjen,Jon,HBT,M40,0:29:19
 26,Done,Tim,Wharfedale Harriers,M45,0:30:01
 27,Scholes,Barry,Settle Harriers,M50,0:30:19
-28,Athersmith,Sam,Skipton,MU23,0:30:40
+28,Athersmith,Sam,Skipton,M23,0:30:40
 29,McPherson,John,HBT,M,0:30:44
 30,Spencer,Dave,Pendle AC,M40,0:31:06
 31,McCarthy,Ewan,Unattached,M,0:31:56

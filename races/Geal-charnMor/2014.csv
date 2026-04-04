@@ -1,53 +1,53 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Tullie,James,Cairngorm Runners,M Open,00:34:22
-2,Felter,Johannes,BASOC,M Open,00:34:38
-3,Alexander,Sam,Westerlands CCC,M Open,00:35:49
-4,Krogulec,Waldemar,Highland Hill Runners,M Open,00:36:31
+1,Tullie,James,Cairngorm Runners,M,00:34:22
+2,Felter,Johannes,BASOC,M,00:34:38
+3,Alexander,Sam,Westerlands CCC,M,00:35:49
+4,Krogulec,Waldemar,Highland Hill Runners,M,00:36:31
 5,Macdonald,Dougie,Highland Hill Runners,M40,00:36:47
 6,Gilkison,Alan,Westerlands CCC,M40,00:37:16
 7,Jeffs,Alistair,Dufftown Jog Scotland,M40,00:37:44
-8,Rawlinson,Stephen,Lochtayside,M Open,00:37:54
-9,Taylor,Luke,Highland Hill Runners,M Junior,00:37:55
+8,Rawlinson,Stephen,Lochtayside,M,00:37:54
+9,Taylor,Luke,Highland Hill Runners,M16,00:37:55
 10,Bannerman,Ross,Highland Hill Runners,M40,00:38:05
 11,Fallon,Steven,Carnethy Hill Racing Club,M50,00:38:13
-12,Forrest,Stuart,Highland Hill Runners,M Open,00:38:24
+12,Forrest,Stuart,Highland Hill Runners,M,00:38:24
 13,Paterson,Ewan,Moray Road Runners,M60,00:39:48
-14,Kerr,David,Unattached,M Open,00:39:49
-15,Tullie,Jess,Cairngorm Runners,F Open,00:39:53
+14,Kerr,David,Unattached,M,00:39:49
+15,Tullie,Jess,Cairngorm Runners,F,00:39:53
 16,Worsley,Steven,Inverness Harriers A A C,M50,00:40:00
 17,Diver,Michael,Clydesdale Harriers,M40,00:40:45
 18,Dryden,Jimmy,Highland Hill Runners,M40,00:40:54
 19,Popple,Steve,Highland Hill Runners,M40,00:40:55
-20,Munro,Iain,Lochaber Athletic Club,M Open,00:41:06
-21,Rozga,Grant,Jura AC,M Open,00:41:07
+20,Munro,Iain,Lochaber Athletic Club,M,00:41:06
+21,Rozga,Grant,Jura AC,M,00:41:07
 22,Watson,Dan,Lochtayside,M40,00:41:47
-23,Chandler,David,Highland Hill Runners,M Open,00:42:00
+23,Chandler,David,Highland Hill Runners,M,00:42:00
 24,Taylor,Gordie,Highland Hill Runners,M50,00:42:20
-25,Weir,Jonathan,Unattached,M Open,00:43:13
+25,Weir,Jonathan,Unattached,M,00:43:13
 26,Moffat,John,Highland Hill Runners,M50,00:43:38
 27,Calder,Graham,Unattached,M40,00:43:48
-28,Irwin,Larry,Unattached,M Open,00:43:48
-29,Mackie,Shona,Highland Hill Runners,F Open,00:44:11
+28,Irwin,Larry,Unattached,M,00:43:48
+29,Mackie,Shona,Highland Hill Runners,F,00:44:11
 30,Bell,Martin,Unattached,M40,00:44:32
-31,Aungier,Jenny,Cairngorm Runners,F Open,00:45:01
+31,Aungier,Jenny,Cairngorm Runners,F,00:45:01
 32,Grigor,Sandy,Cairngorm Runners,M50,00:45:20
 33,Meintjies,Johan,Linlithgow AC,M40,00:45:42
 34,Mackinnon,Euan,Carnethy Hill Racing Club,M40,00:45:58
-35,Fowler,Alasdair,Cairngorm Runners,M Open,00:46:46
+35,Fowler,Alasdair,Cairngorm Runners,M,00:46:46
 36,Douglas,George,Westerlands CCC,M40,00:46:53
 37,Kerr,Jill,Triathlon Inverness,F40,00:46:54
 38,Burrows,Graham,Linlithgow AC,M60,00:47:30
 39,Arthur,Graham,Highland Hill Runners,M60,00:47:33
 40,Donnachie,Adrian,Unattached,M40,00:48:09
-41,Rozga,Craig,Jura AC,M Open,00:48:20
-42,Lay,Alasdair,Cairngorm Runners,M Open,00:48:52
-43,Henderson,Katie,Unattached,F Open,00:49:07
-44,Cochran,Andrew,Unattached,M Open,00:49:27
+41,Rozga,Craig,Jura AC,M,00:48:20
+42,Lay,Alasdair,Cairngorm Runners,M,00:48:52
+43,Henderson,Katie,Unattached,F,00:49:07
+44,Cochran,Andrew,Unattached,M,00:49:27
 45,Brennan,Brian,Westerlands CCC,M50,00:49:33
-46,Munro,Gemma,Moray Road Runners,F Open,00:50:06
-47,Sinclair,Emma,Cairngorm Runners,F Open,00:50:08
+46,Munro,Gemma,Moray Road Runners,F,00:50:06
+47,Sinclair,Emma,Cairngorm Runners,F,00:50:08
 48,Diggins,Nicki,Cairngorm Runners,F50,00:50:31
-49,Thomson,Jude,Cairngorm Runners,F Open,00:50:46
+49,Thomson,Jude,Cairngorm Runners,F,00:50:46
 50,Mackintosh,Ann,Cairngorm Runners,F40,00:51:22
 51,Allan,Mark,Cairngorm Runners,M40,00:53:26
 52,Cargill,Janice,Cairngorm Runners,F60,00:55:19

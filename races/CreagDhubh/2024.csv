@@ -6,14 +6,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,MacKay,Ryan,Lochaber AC,M,00:32:01
 6,Grant Pantrey,Chris,Shettleston Harriers,M40,00:32:04
 7,Mackinnon,Kerr,Perth Road Runners,M,00:32:11
-8,McGonigle,Aedan,Shettleston Harriers,M Jun,00:32:13
+8,McGonigle,Aedan,Shettleston Harriers,M16,00:32:13
 9,Crutchfield,Stuart,Westerlands CCC,M40,00:32:26
 10,Morrison,Pete,Unattached,M,00:33:08
 11,McGill,Harry,Glasgow Uni H&H,M,00:33:13
 12,Ward,Jack,Highland Hill Runners,M,00:33:23
 13,Marshall,Brian,HELP,M50,00:33:31
 14,Nicholson,James,Highland Hill Runners,M,00:33:37
-15,Ward,Lawrence,Lasswade AC,M Jun,00:34:26
+15,Ward,Lawrence,Lasswade AC,M16,00:34:26
 16,Ferguson,Norman,Stornoway AC,M40,00:34:26
 17,Campbell,Garry,Lochaber AC,M,00:34:27
 18,Horne,Arran,Westerlands CCC,M,00:34:37
@@ -42,25 +42,25 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Couvery,Euan,Garscube Harriers,M,00:38:55
 42,Patton,Ellen,Dark Peak,F,00:39:27
 43,Kunka,Jamie,Unattached,M,00:39:59
-44,Rodgers,David,Lochaber AC,M Jun,00:40:28
+44,Rodgers,David,Lochaber AC,M16,00:40:28
 45,Gibson,Daniel,Unattached,M,00:41:32
 46,Emile,Mugnier,Unattached,M,00:41:41
 47,Sharp,Hannah,Unattached,F,00:41:55
-48,Padmanabhan,Nina,Garscube Harriers,F Jun,00:42:09
+48,Padmanabhan,Nina,Garscube Harriers,F16,00:42:09
 49,Macpherson,Will,Unattached,M40,00:42:15
 50,Magne,Pierre-Louis,Unattached,M,00:42:30
 51,Bull,Oliver,Unattached,M,00:42:50
 52,Ness,Timothy,Unattached,M,00:42:51
 53,Macpherson,William,Unattached,M,00:43:08
 54,Kennedy,Michaela,Lochaber AC,F,00:43:23
-55,Mackintosh,Alasdair,Unattached,M Jun,00:44:34
+55,Mackintosh,Alasdair,Unattached,M16,00:44:34
 56,Gaston,Mugnier,Unattached,M,00:44:45
-57,Heere,Mikkel,Unattached,M Jun,00:44:45
-58,Heere,Maas,Unattached,M Jun,00:44:52
+57,Heere,Mikkel,Unattached,M16,00:44:45
+58,Heere,Maas,Unattached,M16,00:44:52
 59,Van Den Wildenberg,Rick,Unattached,M40,00:44:55
-60,Smith,Kyle,Unattached,M Jun,00:45:02
+60,Smith,Kyle,Unattached,M16,00:45:02
 61,Smith,Andrew,Unattached,M40,00:45:03
-62,Gorman,Maisy,Drumguish D & J Club,F Jun,00:45:06
+62,Gorman,Maisy,Drumguish D & J Club,F16,00:45:06
 63,Martin,Nathan,Lochaber AC,M50,00:45:09
 64,Ward,Claire,HBT,F40,00:45:24
 65,Currie,Alice,Lochaber AC,F,00:45:32
@@ -78,7 +78,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 77,Silver,Colin,Unattached,M50,00:49:39
 78,Sims,Anthony,Unattached,M50,00:50:13
 79,Emmanuel,Mugnier,Pau Triathlon,M50,00:50:28
-80,Molyneaux,Jules,Unattached,M Jun,00:50:48
+80,Molyneaux,Jules,Unattached,M16,00:50:48
 81,Smith,Emily,Unattached,F50,00:51:33
 82,Cartwright,Michael,Unattached,M50,00:51:58
 83,Hall,Jim,Unattached,M60,00:52:23
@@ -94,7 +94,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 93,Robinson,Angus,Migo,M50,00:56:24
 94,Schafer,Aila,Unattached,F,00:57:04
 95,Little,Graeme Andrew,Garscube Harriers,M40,00:57:05
-96,MacMahon,Jennifer,Garscube Harriers,F Jun,00:57:50
+96,MacMahon,Jennifer,Garscube Harriers,F16,00:57:50
 97,Paisley,Robert,Unattached,M40,00:57:57
 98,Henderson,Alice,Garscube Harriers,F,00:58:11
 99,MacMahon,Ken,Garscube Harriers,M50,00:58:12
@@ -111,7 +111,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 110,Cromarty,Amy,Garscube Harriers,F,01:07:39
 111,McLeod,Douglas,Unattached,F50,01:08:52
 112,McNicol,Stephanie,Unattached,F,01:10:25
-113,Macpherson,Meren,Unattached,F Jun,01:13:31
+113,Macpherson,Meren,Unattached,F16,01:13:31
 114,Lane,Robert,Unattached,M40,01:16:03
 115,Robinson,Anna,Migo,F50,01:35:03
 116,Slesser,Mark,Unattached,M40,01:47:41

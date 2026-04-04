@@ -1,51 +1,51 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,MS,01:25:05
-2,Keith,Alec,HBT,MV40,01:27:30
-3,Gallagher,Ronnie,Carnethy,MV40,01:33:22
-4,Hubbard,Ali,Unattached,MS,01:33:24
-5,McDonald,Dennis,Cosmics,MV40,01:34:26
-6,Williamson,Jason,Cosmics,MS,01:34:56
-7,Bennet,Sandy,Carnegie Harriers,MV40,01:36:57
-8,Robertson,Keith,Cosmics,MS,01:37:40
-9,Cunningham,Richie,Carnegie Harriers,MS,01:38:11
-10,Kay,John,Fife AC,MV40,01:38:17
-11,Wingrove,Scuz,Cosmics,FS,01:40:13
-12,Anderson,Laurie,Fife AC,MV40,01:41:08
-13,Hirst,David,Deeside Runners,MS,01:41:16
-14,Pryde,Gordon,Lomond Hill Runners,MV40,01:41:29
-15,Brannan,Tosh,Lothian,MV40,01:43:29
-16,Bass,Owen,Deeside Runners,MV40,01:43:56
-17,Sheridan,Bob,Cosmics,MS,01:44:28
-18,Pearce,Simon,Cosmics,MS,01:45:37
-19,Humphreys,Peter,Carnegie Harriers,MV40,01:47:36
-20,Dunn,Sarah,Deeside Runners,FS,01:49:56
-21,Mackenzie,Ruth,Deeside Runners,FV40,01:50:24
-22,Redman,Mark,Unattached,MV50,01:50:29
-23,Legge,Sarah,Carnegie Harriers,FS,01:50:39
-24,Nicholson,David,Dundee Hawkhill,MV50,02:03:13
-25,Bellarby,Jonathan,Cosmics,MV40,01:51:14
-26,Larmour,Colin,Cosmics,MV40,01:51:21
-27,Hamilton,Ian,Grampian Orienteers,MV40,01:52:12
-28,Brock,Mike,Cosmics,MS,01:52:21
-29,Murray,Helen,Lothian,FV40,01:52:34
-30,Hughes,Gary,Unattached,MS,01:53:04
-31,Dahl,Fiona,Cosmics,FS,01:53:20
-32,Bowie,Tom,Carnegie Harriers,MV50,01:54:47
-33,Preece,Ben,Deeside Runners,MV50,01:55:31
-34,Love,Charlie,Dundee Hawkhill,MV60,01:56:30
-35,Noble,Lois,Cosmics,FV40,01:58:24
-36,MacEwen,John,Ochil Hill Runners,MS,01:58:53
-37,O`Donovan,Jacqui,Fleet Feet,FS,02:00:35
-38,Milmoe,Michael,Forres Harriers,MV50,02:01:23
-39,Ferguson,Peter,Inverness Harriers,MV50,02:04:37
-40,Addison,Colin,Unattached,MV40,02:05:23
-41,Boocock,Katy,Cosmics,FV40,02:05:58
-42,O`Sullivan,Sean,Cosmics,MS,02:09:30
-43,Irvine,Rob,Cosmics,MS,02:11:39
-44,Strachan,Alexander,Unattached,MV40,02:12:02
-45,Stewart,Elaine,Cosmics,FV40,02:16:43
-46,Campbell,Neil,Carnegie Harriers,MV40,02:19:12
-47,Smithard,Phil,Carnegie Harriers,MV50,02:19:41
-48,Bruce,John,Unattached,MV40,02:25:02
-49,Munro,Eleanor,Keith & District AAC,FS,02:28:20
-50,Oliver,Jane,Deeside Runners,FV40,02:38:58
+1,Marshall,Brian,HELP,M,01:25:05
+2,Keith,Alec,HBT,M40,01:27:30
+3,Gallagher,Ronnie,Carnethy,M40,01:33:22
+4,Hubbard,Ali,Unattached,M,01:33:24
+5,McDonald,Dennis,Cosmics,M40,01:34:26
+6,Williamson,Jason,Cosmics,M,01:34:56
+7,Bennet,Sandy,Carnegie Harriers,M40,01:36:57
+8,Robertson,Keith,Cosmics,M,01:37:40
+9,Cunningham,Richie,Carnegie Harriers,M,01:38:11
+10,Kay,John,Fife AC,M40,01:38:17
+11,Wingrove,Scuz,Cosmics,F,01:40:13
+12,Anderson,Laurie,Fife AC,M40,01:41:08
+13,Hirst,David,Deeside Runners,M,01:41:16
+14,Pryde,Gordon,Lomond Hill Runners,M40,01:41:29
+15,Brannan,Tosh,Lothian,M40,01:43:29
+16,Bass,Owen,Deeside Runners,M40,01:43:56
+17,Sheridan,Bob,Cosmics,M,01:44:28
+18,Pearce,Simon,Cosmics,M,01:45:37
+19,Humphreys,Peter,Carnegie Harriers,M40,01:47:36
+20,Dunn,Sarah,Deeside Runners,F,01:49:56
+21,Mackenzie,Ruth,Deeside Runners,F40,01:50:24
+22,Redman,Mark,Unattached,M50,01:50:29
+23,Legge,Sarah,Carnegie Harriers,F,01:50:39
+24,Nicholson,David,Dundee Hawkhill,M50,02:03:13
+25,Bellarby,Jonathan,Cosmics,M40,01:51:14
+26,Larmour,Colin,Cosmics,M40,01:51:21
+27,Hamilton,Ian,Grampian Orienteers,M40,01:52:12
+28,Brock,Mike,Cosmics,M,01:52:21
+29,Murray,Helen,Lothian,F40,01:52:34
+30,Hughes,Gary,Unattached,M,01:53:04
+31,Dahl,Fiona,Cosmics,F,01:53:20
+32,Bowie,Tom,Carnegie Harriers,M50,01:54:47
+33,Preece,Ben,Deeside Runners,M50,01:55:31
+34,Love,Charlie,Dundee Hawkhill,M60,01:56:30
+35,Noble,Lois,Cosmics,F40,01:58:24
+36,MacEwen,John,Ochil Hill Runners,M,01:58:53
+37,O`Donovan,Jacqui,Fleet Feet,F,02:00:35
+38,Milmoe,Michael,Forres Harriers,M50,02:01:23
+39,Ferguson,Peter,Inverness Harriers,M50,02:04:37
+40,Addison,Colin,Unattached,M40,02:05:23
+41,Boocock,Katy,Cosmics,F40,02:05:58
+42,O`Sullivan,Sean,Cosmics,M,02:09:30
+43,Irvine,Rob,Cosmics,M,02:11:39
+44,Strachan,Alexander,Unattached,M40,02:12:02
+45,Stewart,Elaine,Cosmics,F40,02:16:43
+46,Campbell,Neil,Carnegie Harriers,M40,02:19:12
+47,Smithard,Phil,Carnegie Harriers,M50,02:19:41
+48,Bruce,John,Unattached,M40,02:25:02
+49,Munro,Eleanor,Keith & District AAC,F,02:28:20
+50,Oliver,Jane,Deeside Runners,F40,02:38:58

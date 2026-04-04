@@ -31,8 +31,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 30,Dedekind,Trevor,Unattached,M,00:36:59
 31,Gilaizean,Cyril,Unattached,M,00:37:05
 32,Mackie,Gary,Unattached,M,00:37:14
-33,Lissens,Bavo,Unattached,MJ,00:37:19
-34,Van,Joeri,Unattached,MU23,00:37:27
+33,Lissens,Bavo,Unattached,M16,00:37:19
+34,Van,Joeri,Unattached,M23,00:37:27
 35,Skey,Oban,Unattached,M,00:37:44
 36,Mathias,Flattin,Unattached,M,00:37:57
 37,Thollot,Jonathon,Unattached,M,00:37:58
@@ -46,7 +46,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Ronald,Scott,Unattached,M40,00:39:57
 46,Fraser,Ron,Dundee RR,M50,00:40:00
 47,Forster,Kate,Lochtayside,F50,00:40:17
-48,Gunen,Ayal,Unattached,MU23,00:40:35
+48,Gunen,Ayal,Unattached,M23,00:40:35
 49,Avermaete,Tesse,Unattached,F40,00:40:54
 50,Ferrier,Craig,Unattached,M40,00:41:23
 51,Cockburn,Lydia,Unattached,F,00:41:30

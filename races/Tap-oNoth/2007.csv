@@ -1,26 +1,26 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Mitchell,Craig,Lochaber,N/A,00:35:58
-2,Williamson,Jason,Cosmic,MS,00:36:07
-3,Humberston,Ian,Unat,MV,00:37:48
-4,Bass,Owen,Deeside,MV,00:37:56
-5,Gill,Stephen,Keith & Dist,MS,00:39:46
-6,Angus,Gerald,Keith & Dist,MV,00:39:51
-7,Hughes,Gary,Deeside,MS,00:40:39
-8,MacGregor,James,Garioch,MV,00:40:45
-9,Wilkinson,David,Garioch,MSV,00:41:56
-10,MacKenzie,Ruth,Deeside,FV Record,00:41:57
-11,Hamilton,Anita,Cosmic,FV,00:44:26
-12,Colegrave,John,Cosmic,FV,00:44:56
+2,Williamson,Jason,Cosmic,M,00:36:07
+3,Humberston,Ian,Unat,M,00:37:48
+4,Bass,Owen,Deeside,M,00:37:56
+5,Gill,Stephen,Keith & Dist,M,00:39:46
+6,Angus,Gerald,Keith & Dist,M,00:39:51
+7,Hughes,Gary,Deeside,M,00:40:39
+8,MacGregor,James,Garioch,M,00:40:45
+9,Wilkinson,David,Garioch,M40,00:41:56
+10,MacKenzie,Ruth,Deeside,F,00:41:57
+11,Hamilton,Anita,Cosmic,F,00:44:26
+12,Colegrave,John,Cosmic,F,00:44:56
 13,Forsyth,Jason,-------,N/A,00:45:55
-14,Taylor,Colin,Cosmic,MV,00:46:17
-15,Cran,Ian,Garioch,MSV,00:46:28
-16,Mackenzie,Ian,Deeside,MSV,00:47:39
-17,Noble,Lois,Cosmic,FV,00:47:45
+14,Taylor,Colin,Cosmic,M,00:46:17
+15,Cran,Ian,Garioch,M40,00:46:28
+16,Mackenzie,Ian,Deeside,M40,00:47:39
+17,Noble,Lois,Cosmic,F,00:47:45
 18,McDiarmid,Jackie,Unat,N/A,00:48:04
 19,Williams,Rupert,-------,N/A,00:48:20
-20,Bryce,Murray,Cosmic,MV,00:48:44
+20,Bryce,Murray,Cosmic,M,00:48:44
 21,Fraser,David,Deeside,N/A,00:49:36
-22,Clark,Chantel,Garioch,Jun,00:49:42
-23,Clunas,Gillian,Cosmic,FV,00:53:27
-24,Buchan,Susan,Cosmic,FV,00:53:44
-25,Bradley,Alan,-------,MSV,00:55:05
+22,Clark,Chantel,Garioch,M16,00:49:42
+23,Clunas,Gillian,Cosmic,F,00:53:27
+24,Buchan,Susan,Cosmic,F,00:53:44
+25,Bradley,Alan,-------,M40,00:55:05

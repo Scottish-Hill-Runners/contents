@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,MacMillian,Gavin,Lochaber AC,M,01:21:37
 16,Fallon,Steven,Carnethy,M50,01:22:34
 17,Briffett,Graham,Highland HR,M40,01:22:44
-18,Williamson,Jason,Cosmics,MV40,01:22:50
+18,Williamson,Jason,Cosmics,M40,01:22:50
 19,Whiteside,Gavin,Highland HR,M,01:23:23
 20,Wilson,Stuart,Inverness Harriers,M50,01:23:31
 21,Seefeldt,Scott,Keith & District,M,01:23:55
@@ -38,7 +38,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,MacPhail,CJ,Anster Haddies,F,01:33:43
 38,Irvine,Gill,Highland HR,F50,01:34:46
 39,Ingram,Richard,Cosmics,M40,01:35:32
-40,MacLeod,John,Inverness Harriers,m50,01:35:49
+40,MacLeod,John,Inverness Harriers,M50,01:35:49
 41,Dent,Matthew,Unattached,M40,01:36:02
 42,Hall,Andy,Highland HR,M,01:36:44
 43,Bain,Julien,Highland HR,M,01:36:47
@@ -50,7 +50,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 49,Barnett,Rob,Erme Vally,M,01:39:04
 50,Hamilton,Ian,Cosmics,M50,01:40:02
 51,Boocock,Katy,Highland HR,F50,01:41:38
-52,Bellarby,Jonathan,Cosmics,MV40,01:48:55
+52,Bellarby,Jonathan,Cosmics,M40,01:48:55
 53,Ross,Stuart,Highland HR,M40,01:51:31
 54,Burrows-Smith,Hannah,Unattached,F40,01:52:41
 55,Bradley,Chris,Unattached,M,01:52:42

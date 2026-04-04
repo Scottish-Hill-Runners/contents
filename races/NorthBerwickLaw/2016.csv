@@ -14,16 +14,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Limmer,David,Portobello,M,00:21:57
 14,Reeve,Andrew,HBT,M,00:22:02
 15,Smith,Gavin,HBT,M,00:22:04
-16,Bowmay,Jake,Unattached,MJ,00:22:06
-17,McWhinnie,Iain,Fife AC,MJ,00:22:08
-18,McWhinnie,Gavin,Fife AC,MJ,00:22:20
+16,Bowmay,Jake,Unattached,M16,00:22:06
+17,McWhinnie,Iain,Fife AC,M16,00:22:08
+18,McWhinnie,Gavin,Fife AC,M16,00:22:20
 19,Scott,Iviu,Unattached,M,00:22:22
-20,Kelly,Fraser,TEL,MJ,00:22:29
+20,Kelly,Fraser,TEL,M16,00:22:29
 21,Cross,David,EAC,M,00:22:35
 22,Freshwater,Craig,Westerlands,M,00:22:37
 23,Bareford,Michael,HBT,M,00:22:39
 24,Gardner,Peter,HBT,M,00:22:39
-25,Wright,Angus,TEL,MJ,00:22:43
+25,Wright,Angus,TEL,M16,00:22:43
 26,Morgan,Charlotte,Carnethy,F,00:22:43
 27,McGowan,Jamie,Gala H,M,00:22:43
 28,Marshall,Brian,Haddington,M,00:22:54
@@ -36,11 +36,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 35,Juralinski,Marek,Unattached,M,00:23:27
 36,Buchanan,Roy,Portobello,M,00:23:27
 37,Gaffney,David,Unattached,M,00:23:35
-38,Lee,Barnaby,Unattached,MJ,00:23:39
+38,Lee,Barnaby,Unattached,M16,00:23:39
 39,Mowbray,Megan,HBT,F,00:23:48
 40,Gardiner,Douglas,Unattached,M,00:23:50
 41,Hilliam,Alex,Portobello,M,00:23:52
-42,Gallagher,Eric,TEL,MJ,00:23:55
+42,Gallagher,Eric,TEL,M16,00:23:55
 43,Hadden,Andy,Unattached,M,00:23:58
 44,Moseley,Paul,Dunbar RC,M,00:24:08
 45,Peebles,Murray,Dunbar RC,M,00:24:10
@@ -51,7 +51,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 50,Hall,Jack,Unattached,M,00:24:38
 51,Jellema,Nick,EAC,M,00:24:44
 52,Grant,Michael,HBT,M,00:24:50
-53,Donnelly,Jo,TEL,MJ,00:24:52
+53,Donnelly,Jo,TEL,M16,00:24:52
 54,Hay,Stuart,Dunbar RC,M,00:24:52
 55,Gurney,John,Unattached,M,00:24:57
 56,Taylor,Craig,Portobello,M,00:25:02
@@ -89,7 +89,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 88,McPartland,Frank,HRC,M,00:26:54
 89,Douglas-Hamilton,Jamie,Unattached,M,00:26:56
 90,Davidson,Brian,Dunbar RC,M,00:26:57
-91,Glass,Sam,EAC,MJ,00:26:59
+91,Glass,Sam,EAC,M16,00:26:59
 92,Leadbetter,Michael,Unattached,M,00:27:00
 93,Rohde,Maxwell,Unattached,M,00:27:00
 94,Aitken,Anna,Unattached,F,00:27:17
@@ -129,8 +129,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 128,Dalley,Andrew,Unattached,M,00:28:23
 129,Hand,Julie,Penicuik H,F,00:28:30
 130,Munro,Bruce,Unattached,M,00:28:30
-131,Buck,Leon,Unattached,MJ,00:28:30
-132,Gallagher,Marielle,Unattached,FJ,00:28:38
+131,Buck,Leon,Unattached,M16,00:28:30
+132,Gallagher,Marielle,Unattached,F16,00:28:38
 133,Semple,Michael,Unattached,M,00:28:42
 134,Mathie,Dorothy,Portobello,F,00:28:45
 135,Hughes,Duncan,Unattached,M,00:28:45
@@ -141,10 +141,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 140,Wilson,Becky,Unattached,F,00:28:53
 141,McDonald,Alastair,Unattached,M,00:29:03
 142,Duffus,Colin,ERN,M,00:29:03
-143,Gibb,Callum,Unattached,MJ,00:29:03
+143,Gibb,Callum,Unattached,M16,00:29:03
 144,Lightbown,Ian,Unattached,M,00:29:07
-145,Callander,Esme,TEL,FJ,00:29:07
-146,Semple,Charlie,IAC,MJ,00:29:16
+145,Callander,Esme,TEL,F16,00:29:07
+146,Semple,Charlie,IAC,M16,00:29:16
 147,Forbes,Denise,Unattached,F,00:29:19
 148,Wilson,Gerry,Musselburgh,M,00:29:19
 149,Galvin,Matt,Unattached,M,00:29:24
@@ -161,7 +161,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 160,McNeil,Christopher,Unattached,M,00:29:57
 161,Jordan,Emma,Unattached,F,00:29:57
 162,Marcin,Fiuk,Unattached,M,00:29:59
-163,Gibson,Lovie,Unattached,MJ,00:30:04
+163,Gibson,Lovie,Unattached,M16,00:30:04
 164,Robertson,Brian,Unattached,M,00:30:04
 165,Holmes,Colin,Unattached,M,00:30:04
 166,McNair,John,Unattached,M,00:30:04
@@ -170,7 +170,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 169,Midler,Lessel,Unattached,M,00:30:11
 170,Swan,Derek,Unattached,M,00:30:11
 171,Tennant,George,Unattached,M,00:30:11
-172,Gallagher,Rosie,Unattached,FJ,00:30:16
+172,Gallagher,Rosie,Unattached,F16,00:30:16
 173,Watts,Murray,Unattached,M,00:30:26
 174,Miller,Chris,Unattached,M,00:30:28
 175,Raza,Aoil,Sweatshop RC,M,00:30:33
@@ -186,7 +186,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 185,Keenan,Hayley,Unattached,F,00:31:09
 186,McMahon,Richard,Unattached,M,00:31:19
 187,Scott,Ewart,Lothian RC,M,00:31:19
-188,Balfour,Esme,HRC,FJ,00:31:19
+188,Balfour,Esme,HRC,F16,00:31:19
 189,Balfour,Eddie,Haddington,M,00:31:22
 190,Bingham,Robert,Unattached,M,00:31:22
 191,Wilkie,Derek,Unattached,M,00:31:22
@@ -201,10 +201,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 200,Smith,Ian,Unattached,M,00:31:57
 201,Buchanan,Ali,Unattached,F,00:31:57
 202,Irvine,John,Unattached,M,00:32:05
-203,McLure,Finlay,Unattached,MJ,00:32:20
+203,McLure,Finlay,Unattached,M16,00:32:20
 204,Chandler,Ritchie,Carnethy,M,00:32:29
 205,Law,Cameron,Portobello,M,00:32:33
-206,Curtis,Ashley,DRC,MJ,00:32:33
+206,Curtis,Ashley,DRC,M16,00:32:33
 207,Curtis,Lee,Dunbar RC,M,00:32:39
 208,Whitehead,Sarah,Unattached,F,00:32:39
 209,Owens,Jennie,Portobello,F,00:33:11
@@ -216,7 +216,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 215,Corrie,Kathryn,Unattached,F,00:32:52
 216,Simpson,Alan,Portobello,M,00:32:55
 217,Hay,Anne,Dunbar RC,F,00:32:59
-218,Dawson,Angus,Unattached,MJ,00:32:59
+218,Dawson,Angus,Unattached,M16,00:32:59
 219,Moffat,Julie,Portobello,F,00:33:11
 220,Baker,Duncan,HBT,M,00:33:19
 221,Douglas-Hamilton,Charles,Unattached,M,00:33:19
@@ -231,20 +231,20 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 230,McKinney,Ross,Unattached,M,00:34:42
 231,Finlayson,Nicola,Jog ScotlAND,F,00:34:51
 232,Driver,Saartje,ELTC,F,00:34:51
-233,Kelman,Tom,Haddington RC,MJ,00:35:04
+233,Kelman,Tom,Haddington RC,M16,00:35:04
 234,Latona,Allan,Unattached,M,00:35:10
 235,Forrest,Linda,Carnethy,F,00:35:13
 236,Feenan,David,Unattached,M,00:35:29
-237,Murray,Emily,Unattached,FJ,00:35:33
+237,Murray,Emily,Unattached,F16,00:35:33
 238,Johnston-Smith,Lauren,Unattached,F,00:35:39
 239,Skelvon,Mark,Unattached,M,00:35:43
 240,Nicholson,Angela,ERN,F,00:35:52
 241,Turner,Scott,Haddington,M,00:35:58
-242,McIlwraith,Fin,Unattached,MJ,00:35:59
-243,Gibason,Bonnie,Unattached,FJ,00:36:06
+242,McIlwraith,Fin,Unattached,M16,00:35:59
+243,Gibason,Bonnie,Unattached,F16,00:36:06
 244,Stuart,Jim,Unattached,M,00:36:34
 245,Gregory,Robert,Unattached,M,00:36:36
-246,Goodall,Rosie,Unattached,FJ,00:36:44
+246,Goodall,Rosie,Unattached,F16,00:36:44
 247,Macleod,Margaret,Jog ScotlAND,F,00:36:44
 248,McAleese,Rachel,Unattached,F,00:36:48
 249,Thomas,Robin,HBT,M,00:36:55
@@ -261,8 +261,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 260,McDonald,Eddie,Ferranti,M,00:38:38
 261,Allan,Kate,Unattached,F,00:38:44
 262,Evans,Neil,Unattached,M,00:38:50
-263,Zhang,Jianyi,Unattached,MJ,00:38:55
-264,Kelly,Marissa,DRC,FJ,00:39:08
+263,Zhang,Jianyi,Unattached,M16,00:38:55
+264,Kelly,Marissa,DRC,F16,00:39:08
 265,Semple,Lisa,Unattached,F,00:39:14
 266,Dawson,Stewart,Unattached,M,00:39:18
 267,Somerville,Linda,Unattached,F,00:39:18
@@ -274,20 +274,20 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 273,Hopkins,Jae,Unattached,F,00:41:56
 274,Kelman,Katy,HRC,F,00:43:02
 275,Thomson,Lorna,Unattached,F,00:43:02
-276,Cox,Stella,Unattached,FJ,00:43:02
-277,Cox,Inez,Unattached,FJ,00:43:12
-278,Lauder,Rosie,Unattached,FJ,00:43:19
+276,Cox,Stella,Unattached,F16,00:43:02
+277,Cox,Inez,Unattached,F16,00:43:12
+278,Lauder,Rosie,Unattached,F16,00:43:19
 279,Holmes,Joanna,Unattached,F,00:43:40
 280,Hughes,George,Unattached,M,00:44:10
 281,Peppiette,Roseanna,Unattached,F,00:44:10
 282,Peppiette,Tessa,Unattached,F,00:45:11
 283,Pugh,Endy,Unattached,F,00:45:11
 284,Dyce,David,Unattached,M,00:46:36
-285,McDougall,Jodie,Unattached,FJ,00:46:47
+285,McDougall,Jodie,Unattached,F16,00:46:47
 286,Muir,Ken,Unattached,M,00:47:23
 287,Miles,Georgia,Unattached,F,00:47:42
-288,Semple,Marie Therese,GN,FJ,00:47:42
-289,Cui,Yianru,Unattached,MJ,00:47:42
+288,Semple,Marie Therese,GN,F16,00:47:42
+289,Cui,Yianru,Unattached,M16,00:47:42
 290,Patterson,Sarah,Unattached,F,00:50:18
 291,Johnston,Cathy,Unattached,F,00:54:26
 292,Leslie,Wilma,Unattached,F,00:54:27

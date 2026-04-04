@@ -1,100 +1,100 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Harris,Mark,Fife AC,M40,00:19:09
-2,Crowe,Jamie,Dundee Hawkhill,Junior,00:19:24
-3,Campbell,Graeme,Carnegie,MS,00:19:31
-4,Rawlinson,Stephen,Lochtayside,MS,00:20:08
-5,Oliver,Huw,Tynedale Harriers,MS,00:20:14
+2,Crowe,Jamie,Dundee Hawkhill,M16,00:19:24
+3,Campbell,Graeme,Carnegie,M,00:19:31
+4,Rawlinson,Stephen,Lochtayside,M,00:20:08
+5,Oliver,Huw,Tynedale Harriers,M,00:20:14
 6,Schofield,Andrew,Borrowdale,M40,00:20:22
 7,Knox,Jonny,Anster,M40,00:20:30
 8,Fallon,Steven,Carnethy,M40,00:20:31
 9,Leslie,Nick,Ochils,M40,00:20:58
-10,Gilmore,Andrew,Carnethy,MS,00:21:02
+10,Gilmore,Andrew,Carnethy,M,00:21:02
 11,Simpson,Peter,Carnegie,M50,00:21:16
 12,Smith,Alan,Deeside,M50,00:21:34
-13,Millar,David,Carnegie,MS,00:21:42
-14,Moreland,Ross,Anster,MS,00:21:50
-15,Cassells,Derek,Carnegie,MS,00:21:52
-16,Stacey,Mark,Sturth Stoats,MS,00:22:00
+13,Millar,David,Carnegie,M,00:21:42
+14,Moreland,Ross,Anster,M,00:21:50
+15,Cassells,Derek,Carnegie,M,00:21:52
+16,Stacey,Mark,Sturth Stoats,M,00:22:00
 17,Bennet,Sandy,Carnegie,M40,00:22:16
-18,Scott,Fraser,Lomond,MS,00:22:17
+18,Scott,Fraser,Lomond,M,00:22:17
 19,King,Steven,Carnegie,M40,00:22:20
 20,Johns,Andy,Kinross RR,M40,00:22:39
 21,Laing,Martin,Unattached,M50,00:22:41
-22,Ward,Peter,Shettleston,MS,00:22:42
-23,Harrington,Patrick,Unattached,MS,00:22:44
+22,Ward,Peter,Shettleston,M,00:22:42
+23,Harrington,Patrick,Unattached,M,00:22:44
 24,Rathjen,Jon,HBT,M40,00:22:46
 25,Gilmore,Neil,Carnethy,M40,00:22:47
-26,Morgan,Charlotte,Carnethie,FS,00:22:50
+26,Morgan,Charlotte,Carnethie,F,00:22:50
 27,Anderson,Russell,Moorfoot,M50,00:22:54
 28,Martin,Neil,Fife AC,M40,00:23:00
-29,Gilmore,Eain,Carnethy,Junior,00:23:01
-30,Harris,Tom,Fife AC,Junior,00:23:02
-31,Gordon,Claire,HBT,FS,00:23:14
+29,Gilmore,Eain,Carnethy,M16,00:23:01
+30,Harris,Tom,Fife AC,M16,00:23:02
+31,Gordon,Claire,HBT,F,00:23:14
 32,Love,Craig,Dundee Hawkhill,M40,00:23:22
-33,Elder,Callum,Unattached,MS,00:23:28
-34,Cooper,Brian,Perth RR,MS,00:23:32
+33,Elder,Callum,Unattached,M,00:23:28
+34,Cooper,Brian,Perth RR,M,00:23:32
 35,Cowan,David,Fife AC,M40,00:23:34
-36,McClelland,Peter,HBT,MS,00:23:54
-37,Evans,Neah,Shettleston,FS,00:23:58
+36,McClelland,Peter,HBT,M,00:23:54
+37,Evans,Neah,Shettleston,F,00:23:58
 38,Cameron,Gordon,Carnethy,M50,00:24:03
-39,McKinney,Stuart,Central AC,Junior,00:24:04
+39,McKinney,Stuart,Central AC,M16,00:24:04
 40,Anderson,Laurie,Lomond,M50,00:24:08
 41,Roberts,Clive,Fife AC,M50,00:24:09
-42,Popham,Frank,Fife AC,MS,00:24:18
-43,Muir,Colin,Carnethy,MS,00:24:22
-44,Weir,Jonathan,Unattached,MS,00:24:30
-45,Sleggs,Paul,Unattached,MS,00:24:34
+42,Popham,Frank,Fife AC,M,00:24:18
+43,Muir,Colin,Carnethy,M,00:24:22
+44,Weir,Jonathan,Unattached,M,00:24:30
+45,Sleggs,Paul,Unattached,M,00:24:34
 46,Waterhouse,Bob,Carnethy,M60,00:24:36
 47,Diver,Michael,Clydesdale,M40,00:24:44
 48,Lynch,Mike,Carnethy,M40,00:24:46
 49,Higginbottom,Jacqui,Carnethy,F40,00:24:52
-50,Wilkie,Martin,Unattached,MS,00:25:18
+50,Wilkie,Martin,Unattached,M,00:25:18
 51,Wilson,Colin,Carnethy,M50,00:25:19
-52,Robertson,Alastair,Carnethy,MS,00:25:23
+52,Robertson,Alastair,Carnethy,M,00:25:23
 53,MacLeod,Murdo,Westerlands,M60,00:25:24
 54,Grace,Paul,Perth RR,M40,00:25:40
 55,Ritchie,Hilary,Fife AC,F40,00:25:45
 56,Bowman,Angus,Lomond,M50,00:25:47
 57,Wilson,Joan,Carnethy,F40,00:25:48
 58,Mitchell,Neil,Fife AC,M40,00:26:56
-59,Harrison,Simon,HBT,MS,00:26:12
-60,Connor,Julia,Moorfoot,FS,00:26:16
+59,Harrison,Simon,HBT,M,00:26:12
+60,Connor,Julia,Moorfoot,F,00:26:16
 61,O'Brien,Phyllis,HBT,F50,00:26:26
-62,Beckett,Dan,HBT,MS,00:26:39
+62,Beckett,Dan,HBT,M,00:26:39
 63,Duff,Bill,Carnegie,M60,00:26:40
 64,Calothis,Marinos,Kinross RR,M40,00:26:49
 65,Greer,Stephen,Carnegie,M50,00:26:55
 66,Grieshaber,Simon,Perth RR,M40,00:26:58
 67,Junnier,Beryl,Wee County,F50,00:27:05
-68,Ward,Sarah,Shettleston,FS,00:27:06
+68,Ward,Sarah,Shettleston,F,00:27:06
 69,Jablonski,Derek,Lomond,M50,00:27:11
 70,Lomas,Paul,Unattached,M40,00:27:13
 71,Burns,Keith,Carnethy,M60,00:27:20
 72,Evans,Malcolm,Westerlands,M60,00:27:21
 73,Landels,Brian,Lomond,M40,00:27:50
-74,Lloyd-Evans,Anne,Unattached,FS,00:28:12
+74,Lloyd-Evans,Anne,Unattached,F,00:28:12
 75,Shiell,Dougie,Carnethy,M50,00:28:16
-76,Bouchier,Shane,Carnethy,MS,00:28:28
+76,Bouchier,Shane,Carnethy,M,00:28:28
 77,Nicol,Melanie,Unattached,F40,00:28:36
-78,Lye,Mary,Carnethy,FS,00:28:38
+78,Lye,Mary,Carnethy,F,00:28:38
 79,MacAulay,Alan,Carnegie,M50,00:28:41
-80,Jones,Mathew,Carnethy,MS,00:28:46
-81,Sills,Sam,Unattached,FS,00:29:02
-82,McDougall,Ken,Tinto HR,MS,00:29:18
+80,Jones,Mathew,Carnethy,M,00:28:46
+81,Sills,Sam,Unattached,F,00:29:02
+82,McDougall,Ken,Tinto HR,M,00:29:18
 83,Bowman,Jean,Lomond,F50,00:29:30
 84,Donnachie,Adrian,Gujury,M40,00:29:47
 85,Downie,Chris,Penicuik H,M50,00:29:48
 86,Love,Charlie,Dundee Hawkhill,M60,00:30:14
 87,Davidson,Stewart,Fife AC,M60,00:30:32
 88,Beyts,Angus,Unattached,M50,00:30:46
-89,Martin,Kim,Unattached,FS,00:30:50
-90,Juskowiak,Ben,Unattached,MS,00:31:08
+89,Martin,Kim,Unattached,F,00:30:50
+90,Juskowiak,Ben,Unattached,M,00:31:08
 91,Fairley,Bill,Carnegie,M70,00:32:08
 92,Smith,Janice,HBT,F50,00:32:20
-93,Knox,Lizzie,Anster,Junior,00:33:26
+93,Knox,Lizzie,Anster,M16,00:33:26
 94,Dick,Callum,Gujury,M40,00:33:28
 95,Campbell,Paul,Carnegie,M40,00:34:09
-96,Schmidt,Christina,Jog Scotland,FS,00:34:36
+96,Schmidt,Christina,Jog Scotland,F,00:34:36
 97,Thornton,Robert,Fife AC,M50,00:35:44
 98,Fraser,Ron,Dundee RR,M40,00:36:45
 99,MacCalman,Sandy,Kinross RR,M70,00:37:14

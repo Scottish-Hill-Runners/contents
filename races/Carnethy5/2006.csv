@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Mcmullen,James,Edinburgh Uni H&H,M,00:53:18
 13,Helme,John,Dark Peak,M,00:53:40
 14,Nixon,Mark,Edinburgh Uni H&H,M,00:54:03
-15,Cheplin,Oleg,Edinburgh Uni H&H,MJ,00:54:39
+15,Cheplin,Oleg,Edinburgh Uni H&H,M16,00:54:39
 16,Rodwell,Damon,Westerlands,M,00:54:51
 17,Richmond,Kenny,Bellahouston Road Runners,M,00:54:53
 18,Kitchin,Andy,Lothian,M,00:55:21
@@ -57,7 +57,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 56,Simmons,David,Lothian,M,01:00:18
 57,Rumgay,Ken,Lochaber AC,M40,01:00:23
 58,McDonald,Dennis,Cosmics,M40,01:00:29
-59,Scott,Rory,Glasgow Uni H&H,MJ,01:00:33
+59,Scott,Rory,Glasgow Uni H&H,M16,01:00:33
 60,Upson,Chris,Westerlands,M40,01:00:40
 61,Walder,Patrick,Shettleston,M,01:00:41
 62,Speight,Chris,Ambleside,M40,01:00:44
@@ -89,7 +89,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 88,Buchanan,Peter,Portobello,M40,01:03:05
 89,Gorgas,Steffen,Westerlands,M,01:03:05
 90,Scott,David,Ochil Hill Runners,M40,01:03:06
-91,Tullie,James,Edinburgh Uni H&H,MJ,01:03:09
+91,Tullie,James,Edinburgh Uni H&H,M16,01:03:09
 92,Pinker,Marcus,Forth Valley Orienteers,M,01:03:23
 93,Darlow,Tim,City of Edinburgh,M,01:03:28
 94,Jenkins,Kate,Carnethy,F,01:03:29
@@ -301,7 +301,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 300,Scott,Alan,Bellahouston Road Runners,M,01:20:04
 301,Ledlie,Colin,Carnethy,M,01:20:08
 302,Brunton,Val,Westerlands,F40,01:20:13
-303,Halliday,Jessica,Edinburgh Uni H&H,FJ,01:20:14
+303,Halliday,Jessica,Edinburgh Uni H&H,F16,01:20:14
 304,Ross,Tom,Fife AC,M50,01:20:15
 305,Milmoe,Michael,Forres Harriers,M50,01:20:21
 306,Goggin,Natasha,Saddleworth Runners,F,01:20:31
@@ -342,7 +342,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 341,Bryce,Murray,Cosmics,M50,01:22:58
 342,Kirk,Katherine,Westerlands,F,01:23:02
 343,Ness,Joanna,Lochaber AC,F40,01:23:04
-344,Strain,Kirsten,Edinburgh Uni H&H,FJ,01:23:07
+344,Strain,Kirsten,Edinburgh Uni H&H,F16,01:23:07
 345,Gatehouse,Richard,Lomond Hill Runners,M50,01:23:07
 346,Ludley,Kate,Lancaster & Morecambe,F,01:23:17
 347,Singh,Shirley,Unattached,F40,01:23:18

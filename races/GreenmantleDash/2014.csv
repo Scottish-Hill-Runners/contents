@@ -4,9 +4,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 3,Smith,Tom,Lochaber AC,M,0:17:31
 4,Stewart,Gregor,Westerlands,M,0:18:15
 5,Halsall,Steve,Keswick AC,M,0:18:22
-6,Foss,Luke,Law & District,MU21,0:18:44
+6,Foss,Luke,Law & District,M21,0:18:44
 7,Martyn,Tom,HBT,M,0:18:47
-8,Gilmore,Iain,Carnethy,MU21,0:18:51
+8,Gilmore,Iain,Carnethy,M21,0:18:51
 9,Cox,Alistair,Tinto Hill Runners,M,0:18:52
 10,Callender,James,Westerlands,M,0:19:00
 11,Mackie,Peter,Shettleston Harriers,M,0:19:06
@@ -49,7 +49,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 48,Carr,Gillian,Moorfoot Runners,F,0:23:38
 49,Carr,Dean,Moorfoot Runners,M40,0:23:38
 50,Little,Mike,Cani-Sports Edinburgh,M50,0:23:40
-51,Lamb,Declan,Unattached,MU21,0:23:52
+51,Lamb,Declan,Unattached,M21,0:23:52
 52,Wright,Graham,HBT,M50,0:23:53
 53,Robertson,Ally,Carnethy,M,0:24:05
 54,Calder,Dave,Westerlands,M50,0:24:09
@@ -101,7 +101,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 100,Boal,Ann,Garscube Harriers,F60,0:31:46
 101,Oddie,Maureen,IOM Vets,F50,0:31:53
 102,Hendry,Gordon,Unattached,M40,0:31:55
-103,Lunn,Megan,Unattached,FU21,0:32:03
+103,Lunn,Megan,Unattached,F21,0:32:03
 104,McIlwraith,Rachel,Unattached,F,0:32:20
 105,Jackson,Karen,Edinburgh Tri Club,F40,0:32:24
 106,Brown,David,Tinto Hill Runners,M50,0:32:39

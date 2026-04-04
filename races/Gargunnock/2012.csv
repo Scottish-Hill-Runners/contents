@@ -1,43 +1,43 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Millar,Lewis,Central Athletic Club,MS,00:30:38
-2,Davis,Adrian,Carnethy Hill Runners,MV,00:33:39
-3,Milne,Alex,Central Athletic Club,MV,00:34:16
-4,Fraser,Gary,Ochil Hill Runners,MV,00:34:42
-5,Baxter,Grant,Ochil Hill Runners,MV,00:35:14
-6,Vallance,Ross,Ochil Hill Runners,MS,00:35:46
-7,Coombs,Richard,Central Athletic Club,MV,00:36:48
-8,McNeill,Norry,Ochil Hill Runners,MS,00:37:23
-9,Black,Ali,Unattached,MS,00:38:10
-10,Puttock,Simon,Stirling Triathlon Club,MV,00:38:11
-11,Lynch,Mike,Carnethy Hill Runners,MV,00:38:13
-12,Penderis,Jacques,Westerlands,MV,00:38:34
-13,Cowan,David,Fife Athletic Club,MV,00:38:44
-14,Jones,Matthew James,Carnethy Hill Runners,MS,00:39:03
-15,Weir,Jonathan,Unattached,MS,00:38:15
-16,Drummond,James,Unattached,MS,00:38:16
-17,McCraw,Ron,Ochil Hill Runners,MV,00:38:21
-18,Irvine,Roddy,Unattached,MJ,00:38:42
-19,Williams,Andrew,Army,MV,00:40:08
-20,Brown,Jamie,Hunters Bog Trotters,MS,00:41:58
-21,Johnson,Simon,Unattached,MV,00:42:11
-22,Smith,Brian,Fife Athletic Club,MV,00:42:12
-23,Campbell,Gerard,Lifford Athletic Club,MV,00:42:38
-24,Stimson,Georgina,Central Athletic Club,FV,00:42:39
-25,Greig,Alistair,Unattached,MV,00:43:11
-26,Martin,Alastair,Unattached,MV,00:43:40
-27,Milne,Gordon,Central Athletic Club,MJ,00:44:48
-28,Leask,Duncan,Unattached,MV,00:45:03
-29,Anthony,Mark,Unattached,MS,00:45:11
-30,Lang,Sybil,Unattached,FV,00:47:53
-31,Logan,Fionia,Central Athletic Club,FV,00:48:10
-32,Bird,Jonathan,Unattached,MV,00:48:16
-33,Hughes,Christopher,Unattached,MS,00:48:34
-34,McCabe,Amy,Central Athletic Club,FJ,00:48:35
-35,McCabe,Ewan,Unattached,MV,00:48:48
-36,Stewart,Ross,Unattached,MS,00:49:35
-37,Milne,Raymond,Central Athletic Club,MV,00:50:48
-38,Paul,Bedwell,Unattached,MS,00:50:32
-39,Anderson,Stuart,Central Athletic Club,MV,00:53:06
-40,Cutts,Christopher,Unattached,MV,00:55:24
-41,Campbell,Cameron,Central Athletic Club,MV,00:56:00
-42,Gall,Allan,Central Athletic Club,MV,00:56:00
+1,Millar,Lewis,Central Athletic Club,M,00:30:38
+2,Davis,Adrian,Carnethy Hill Runners,M,00:33:39
+3,Milne,Alex,Central Athletic Club,M,00:34:16
+4,Fraser,Gary,Ochil Hill Runners,M,00:34:42
+5,Baxter,Grant,Ochil Hill Runners,M,00:35:14
+6,Vallance,Ross,Ochil Hill Runners,M,00:35:46
+7,Coombs,Richard,Central Athletic Club,M,00:36:48
+8,McNeill,Norry,Ochil Hill Runners,M,00:37:23
+9,Black,Ali,Unattached,M,00:38:10
+10,Puttock,Simon,Stirling Triathlon Club,M,00:38:11
+11,Lynch,Mike,Carnethy Hill Runners,M,00:38:13
+12,Penderis,Jacques,Westerlands,M,00:38:34
+13,Cowan,David,Fife Athletic Club,M,00:38:44
+14,Jones,Matthew James,Carnethy Hill Runners,M,00:39:03
+15,Weir,Jonathan,Unattached,M,00:38:15
+16,Drummond,James,Unattached,M,00:38:16
+17,McCraw,Ron,Ochil Hill Runners,M,00:38:21
+18,Irvine,Roddy,Unattached,M16,00:38:42
+19,Williams,Andrew,Army,M,00:40:08
+20,Brown,Jamie,Hunters Bog Trotters,M,00:41:58
+21,Johnson,Simon,Unattached,M,00:42:11
+22,Smith,Brian,Fife Athletic Club,M,00:42:12
+23,Campbell,Gerard,Lifford Athletic Club,M,00:42:38
+24,Stimson,Georgina,Central Athletic Club,F,00:42:39
+25,Greig,Alistair,Unattached,M,00:43:11
+26,Martin,Alastair,Unattached,M,00:43:40
+27,Milne,Gordon,Central Athletic Club,M16,00:44:48
+28,Leask,Duncan,Unattached,M,00:45:03
+29,Anthony,Mark,Unattached,M,00:45:11
+30,Lang,Sybil,Unattached,F,00:47:53
+31,Logan,Fionia,Central Athletic Club,F,00:48:10
+32,Bird,Jonathan,Unattached,M,00:48:16
+33,Hughes,Christopher,Unattached,M,00:48:34
+34,McCabe,Amy,Central Athletic Club,F16,00:48:35
+35,McCabe,Ewan,Unattached,M,00:48:48
+36,Stewart,Ross,Unattached,M,00:49:35
+37,Milne,Raymond,Central Athletic Club,M,00:50:48
+38,Paul,Bedwell,Unattached,M,00:50:32
+39,Anderson,Stuart,Central Athletic Club,M,00:53:06
+40,Cutts,Christopher,Unattached,M,00:55:24
+41,Campbell,Cameron,Central Athletic Club,M,00:56:00
+42,Gall,Allan,Central Athletic Club,M,00:56:00

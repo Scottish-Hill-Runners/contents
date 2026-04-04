@@ -1,17 +1,17 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:28:00
-2,Tryner,Euan,Hallamshire Harriers,M Jun,00:29:40
-3,Wright,Angus,Team E Lothian AC,M Jun,00:30:48
+2,Tryner,Euan,Hallamshire Harriers,M16,00:29:40
+3,Wright,Angus,Team E Lothian AC,M16,00:30:48
 4,Appleton,David,Drumguish D & JC,M,00:31:48
 5,Paterson,Robbie,Highland Hill Runners,M40,00:32:20
-6,Evans,Bruce,Forres Harriers,M Jun,00:32:48
+6,Evans,Bruce,Forres Harriers,M16,00:32:48
 7,Watson,Ed,Drumguish D & JC,M40,00:32:54
 8,MacEwan,Dougal,Drumguish D & JC,M,00:33:05
 9,Naylor,Donald,HBT,M50,00:33:11
 10,Marshall,Brian,Haddington,M50,00:33:30
 11,Campbell,Garry,Lochaber AC,M,00:33:59
 12,Shaw,Ruairidh,Lochaber AC,M,00:34:01
-13,Luna Hayman,James,Atletica Gavirote,M Jun,00:35:19
+13,Luna Hayman,James,Atletica Gavirote,M16,00:35:19
 14,Adams,Neil,Drumguish D & JC,M40,00:36:34
 15,Anderson,Adam,Hartfell Hill Runners.,M50,00:36:42
 16,Williamson,Jason,Cosmics,M50,00:37:05
@@ -23,7 +23,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 22,Gordon,Catriona,Drumguish D & JC,F,00:37:53
 23,Horne,Joseph,Drumguish D & JC,M,00:37:54
 24,Gorman,Manny,Drumguish D & JC,M50,00:38:01
-25,Slimon,Katie,Highland Hill Runners,F Jun,00:38:07
+25,Slimon,Katie,Highland Hill Runners,F16,00:38:07
 26,Patton,Ellen,Dark Peak,F,00:38:14
 27,Patton,Simon,Dark Peak,M50,00:38:25
 28,Brown,Patrick,Orion Harriers,M,00:38:26
@@ -59,7 +59,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 58,Shaw,Richard,Lochaber AC,M50,00:43:56
 59,Bakermans,Manouk,Drumguish D & JC,F,00:44:05
 60,Coe,Cara,Drumguish D & JC,F,00:44:22
-61,Mackintosh,Alasdair,Unattached,M Jun,00:46:00
+61,Mackintosh,Alasdair,Unattached,M16,00:46:00
 62,Bryan-Jones,Kirsty,Dark Peak,F50,00:46:07
 63,Watson,Helen,Drumguish D & JC,F40,00:46:30
 64,Kennedy,Michaela,Lochaber AC,F,00:46:43

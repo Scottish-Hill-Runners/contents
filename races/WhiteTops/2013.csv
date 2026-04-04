@@ -1,74 +1,74 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Crowe,Jamie,Dundee Hawkhill,Senior,00:43:42
-2,Harris,Mark,Fife AC,V40,00:45:07
-3,Bonnyman,Brian,Westerlands,V40,00:45:10
-4,Love,Craig,Dundee Hawkhill,V40,00:46:40
-5,Anderson,Iain,Unattached,V40,00:48:01
-6,Fraser,Gary,Ochil Hill Runners,V40,00:48:04
-7,Knox,Jonathan,Anster Haddies,V40,00:48:47
-8,Van Gompel,Roger,Dundee Hawkhill,V40,00:49:25
-9,Dean,Martin,Ochil Hill Runners,V50,00:49:52
-10,McBain,Johnny,Dundee Hawkhill,Senior,00:50:04
-11,MacKenzie,Donald,Lomond Hill Runners,V40,00:50:13
-12,Stewart,Ryan,Dundee Hawkhill,Senior,00:50:27
-13,Lamb,Mark,Dundee Hawkhill,Senior,00:50:49
-14,Ord,Steven,Deeside Runners,V40,00:51:26
-15,Peters,Steven,Dundee Road Runners,Senior,00:51:44
-16,Stewart,Craig,Forfar Road Runners,V40,00:52:29
-17,Crowe,Des,Dundee Hawkhill,V50,00:53:10
-18,Reynolds,Nigel,Dundee Hawkhill,V50,00:53:17
-19,Hawkins,Ian,Fife AC,V50,00:53:35
-20,Martin,Neil,Lomond Hill Runners,V40,00:53:44
-21,Higginbottom,Jacqui,Carnethy,FV40,00:53:53
-22,Cowan,David,Fife AC,V50,00:54:27
-23,Archibald,Calum,Unattached,Senior,00:54:32
-24,Brown,Jamie,HBT,Senior,00:54:37
-25,Harrison,Jason,Lomond Hill Runners,V40,00:55:07
-26,Irvine,Ray,Unattached,V40,00:55:09
-27,Dean,Hazel,Central AC,FV50,00:55:14
-28,MacIntyre,Jacqueline,Carnegie Harriers,Fsenior,00:55:42
-29,Forte,Phil,Dundee Hawkhill,V50,00:56:14
-30,Welman,Neil,Unattached,Senior,00:57:30
-31,Brand,Ralph,Unattached,V40,00:57:31
-32,Fletche,Stewart,Unattached,Senior,00:57:31
-33,Recqville,Mark,Unattached,V40,00:57:38
-34,Ritchie,Hilary,Fife AC,FV50,00:57:57
-35,Mill,John,Dundee Road Runners,V40,00:58:08
-36,Leach,Mark,Perth Road Runners,Senior,00:58:09
-37,Turner,Dave,Lomond Hill Runners,V40,00:58:22
-38,Hena,Nari,Forfar Road Runners,Senior,00:58:29
-39,Dales,Mike,Perth Road Runners,V50,00:58:43
-40,Millar,Andy,Unattached,Senior,00:59:02
-41,Moffat,John,Highland Hill Runners,V50,00:59:36
-42,Milne,Ron,Forfar Road Runners,V50,00:59:49
-43,Duncan,Dave,Ochil Hill Runners,V50,00:59:52
-44,Reynolds,Colin,Lomond Hill Runners,V40,01:00:06
-45,Sutcliffe,Ben,Unattached,Senior,01:00:08
-46,Grace,Paul,Perth Road Runners,V40,01:00:12
-47,Smith,Brian,Fife AC,V50,01:00:15
-48,Higginson,Paul,Dundee Road Runners,Senior,01:00:49
-49,Thompson,Fabienne,Carnegie Harriers,FV40,01:01:01
-50,Wilson,Colin,Carnethy,V50,01:01:11
-51,Duff,Bill,Carnegie Harriers,V60,01:01:22
-52,Brown,Robert,Unattached,V50,01:01:29
-53,Manson,Fiona,Perth Road Runners,FV40,01:02:23
-54,Frame,Davie,Tayside Orienteers,V50,01:02:48
-55,Wilson,Joan,Carnethy,FV50,01:03:06
-56,Osborn,Dave,Lomond Hill Runners,V50,01:03:31
-57,Brennan,Brian,Westerlands,V50,01:04:11
-58,Irving,John,Dundee Road Runners,V40,01:04:14
-59,Matthews,Catherine,Dundee Hawkhill,FV40,01:04:19
-60,Archibald,Steve,Dundee Road Runners,V50,01:05:08
-61,Whytock,Grant,Dundee Road Runners,V40,01:05:23
-62,Campbell,Roy,Forfar Road Runners,V40,01:06:03
-63,Pass,Donna,Forfar Road Runners,FV40,01:06:03
-64,Clark,Sarah,Forfar Road Runners,Fsenior,01:08:50
-65,Ramsey,Sam,Unattached,Senior,01:10:23
-66,McNally,Elizabeth,Forfar Road Runners,FV40,01:10:38
-67,Brown,Bob,Perth Road Runners,V60,01:12:19
-68,Adamson,Derek,Fife AC,V40,01:12:45
-69,Storrar,Ian,Unattached,V50,01:13:18
-70,Sutcliffe,Vicky,Unattached,Fsenior,01:14:19
-71,Lee,Rosemary,Fife AC,FV50,01:14:48
-72,Whisler,Sue,Fife AC,FV50,01:16:49
-73,Fraser,Ron,Dundee Road Runners,V50,01:18:39
+1,Crowe,Jamie,Dundee Hawkhill,M,00:43:42
+2,Harris,Mark,Fife AC,M40,00:45:07
+3,Bonnyman,Brian,Westerlands,M40,00:45:10
+4,Love,Craig,Dundee Hawkhill,M40,00:46:40
+5,Anderson,Iain,Unattached,M40,00:48:01
+6,Fraser,Gary,Ochil Hill Runners,M40,00:48:04
+7,Knox,Jonathan,Anster Haddies,M40,00:48:47
+8,Van Gompel,Roger,Dundee Hawkhill,M40,00:49:25
+9,Dean,Martin,Ochil Hill Runners,M50,00:49:52
+10,McBain,Johnny,Dundee Hawkhill,M,00:50:04
+11,MacKenzie,Donald,Lomond Hill Runners,M40,00:50:13
+12,Stewart,Ryan,Dundee Hawkhill,M,00:50:27
+13,Lamb,Mark,Dundee Hawkhill,M,00:50:49
+14,Ord,Steven,Deeside Runners,M40,00:51:26
+15,Peters,Steven,Dundee Road Runners,M,00:51:44
+16,Stewart,Craig,Forfar Road Runners,M40,00:52:29
+17,Crowe,Des,Dundee Hawkhill,M50,00:53:10
+18,Reynolds,Nigel,Dundee Hawkhill,M50,00:53:17
+19,Hawkins,Ian,Fife AC,M50,00:53:35
+20,Martin,Neil,Lomond Hill Runners,M40,00:53:44
+21,Higginbottom,Jacqui,Carnethy,F40,00:53:53
+22,Cowan,David,Fife AC,M50,00:54:27
+23,Archibald,Calum,Unattached,M,00:54:32
+24,Brown,Jamie,HBT,M,00:54:37
+25,Harrison,Jason,Lomond Hill Runners,M40,00:55:07
+26,Irvine,Ray,Unattached,M40,00:55:09
+27,Dean,Hazel,Central AC,F50,00:55:14
+28,MacIntyre,Jacqueline,Carnegie Harriers,F,00:55:42
+29,Forte,Phil,Dundee Hawkhill,M50,00:56:14
+30,Welman,Neil,Unattached,M,00:57:30
+31,Brand,Ralph,Unattached,M40,00:57:31
+32,Fletche,Stewart,Unattached,M,00:57:31
+33,Recqville,Mark,Unattached,M40,00:57:38
+34,Ritchie,Hilary,Fife AC,F50,00:57:57
+35,Mill,John,Dundee Road Runners,M40,00:58:08
+36,Leach,Mark,Perth Road Runners,M,00:58:09
+37,Turner,Dave,Lomond Hill Runners,M40,00:58:22
+38,Hena,Nari,Forfar Road Runners,M,00:58:29
+39,Dales,Mike,Perth Road Runners,M50,00:58:43
+40,Millar,Andy,Unattached,M,00:59:02
+41,Moffat,John,Highland Hill Runners,M50,00:59:36
+42,Milne,Ron,Forfar Road Runners,M50,00:59:49
+43,Duncan,Dave,Ochil Hill Runners,M50,00:59:52
+44,Reynolds,Colin,Lomond Hill Runners,M40,01:00:06
+45,Sutcliffe,Ben,Unattached,M,01:00:08
+46,Grace,Paul,Perth Road Runners,M40,01:00:12
+47,Smith,Brian,Fife AC,M50,01:00:15
+48,Higginson,Paul,Dundee Road Runners,M,01:00:49
+49,Thompson,Fabienne,Carnegie Harriers,F40,01:01:01
+50,Wilson,Colin,Carnethy,M50,01:01:11
+51,Duff,Bill,Carnegie Harriers,M60,01:01:22
+52,Brown,Robert,Unattached,M50,01:01:29
+53,Manson,Fiona,Perth Road Runners,F40,01:02:23
+54,Frame,Davie,Tayside Orienteers,M50,01:02:48
+55,Wilson,Joan,Carnethy,F50,01:03:06
+56,Osborn,Dave,Lomond Hill Runners,M50,01:03:31
+57,Brennan,Brian,Westerlands,M50,01:04:11
+58,Irving,John,Dundee Road Runners,M40,01:04:14
+59,Matthews,Catherine,Dundee Hawkhill,F40,01:04:19
+60,Archibald,Steve,Dundee Road Runners,M50,01:05:08
+61,Whytock,Grant,Dundee Road Runners,M40,01:05:23
+62,Campbell,Roy,Forfar Road Runners,M40,01:06:03
+63,Pass,Donna,Forfar Road Runners,F40,01:06:03
+64,Clark,Sarah,Forfar Road Runners,F,01:08:50
+65,Ramsey,Sam,Unattached,M,01:10:23
+66,McNally,Elizabeth,Forfar Road Runners,F40,01:10:38
+67,Brown,Bob,Perth Road Runners,M60,01:12:19
+68,Adamson,Derek,Fife AC,M40,01:12:45
+69,Storrar,Ian,Unattached,M50,01:13:18
+70,Sutcliffe,Vicky,Unattached,F,01:14:19
+71,Lee,Rosemary,Fife AC,F50,01:14:48
+72,Whisler,Sue,Fife AC,F50,01:16:49
+73,Fraser,Ron,Dundee Road Runners,M50,01:18:39

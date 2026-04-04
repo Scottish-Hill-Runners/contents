@@ -11,7 +11,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Green,Colin,Moray Road Runners,M40,0:36:17
 11,McKenzie,Ryan,Highland Hill Runners,M40,0:36:22
 12,O`Neill,Owen,Westerlands,M,0:36:44
-13,Taylor,Luke,Highland Hill Runners,MU20,0:36:51
+13,Taylor,Luke,Highland Hill Runners,M20,0:36:51
 14,Nicolson,William,Highland Hill Runners,M40,0:37:29
 15,Owen,Russell,Highland Hill Runners,M50,0:38:11
 16,McWilliam,Tom,Inverness Harriers,M50,0:38:13
@@ -42,12 +42,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 41,Taylor,Gordie,Lochaber AC,M50,0:42:24
 42,Roberts,Richard,Highland Hill Runners,M50,0:42:31
 43,Morrison,Angus,Highland Hill Runners,M40,0:42:35
-44,Taylor,Mark,North Highland Harriers,MU20,0:42:45
+44,Taylor,Mark,North Highland Harriers,M20,0:42:45
 45,McIntyre,Iain,Highland Hill Runners,M50,0:42:58
 46,Maskrey,Ben,Highland Hill Runners,M40,0:43:14
 47,Stanger,Lorna,North Highland Harriers,F50,0:43:45
 48,McRitchie,Susan,Forres Harriers,F40,0:43:52
-49,Gilmour,Mairi,Westerlands,FU20,0:43:58
+49,Gilmour,Mairi,Westerlands,F20,0:43:58
 50,Macdonald,Lynsey,Inverness Harriers,F,0:44:11
 51,Ingram,Richard,Cosmics,M40,0:44:23
 52,Mabon,David,Lothian,M50,0:44:30

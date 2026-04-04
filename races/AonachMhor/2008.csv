@@ -1,110 +1,110 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitehead,Dan,Cosmic HB,Sen,00:23:26
-2,Strain,Murray,HBT,Sen,00:24:12
-3,Smith,Tom,Lochaber AC,Sen,00:25:18
-4,Patterson,Donald,Lochaber AC,Sen,00:25:41
-5,Brand,Tim,Lochaber AC,V40,00:25:49
-6,Sedgwick,Nick,Unattached,Sen,00:26:01
-7,Mitchell,Craig,Lochaber AC,Sen,00:26:05
-8,Hepburn,John,Lochaber AC,V40,00:26:09
-9,Fallon,Steven,Carnethy HRC,V40,00:26:11
-10,Goman,Manny,Westies,Sen,00:26:12
-11,Williamson,Jason,Cosmic HB,Sen,00:26:45
-12,Smith,Alan,Deeside R,V40,00:27:00
-13,Mair,Will,Unattached,Sen,00:27:09
-14,Whitehead,Clare,Cosmic HB,F Record,00:27:26
-15,Taylor,Peter,Unattached,Sen,00:27:59
-16,Cameron,Steve,Unattached,Sen,00:28:09
-17,Mowbray,Phil,HBT,Sen,00:28:13
-18,Ward,Peter,Unattached,Sen,00:28:19
+1,Whitehead,Dan,Cosmic HB,M,00:23:26
+2,Strain,Murray,HBT,M,00:24:12
+3,Smith,Tom,Lochaber AC,M,00:25:18
+4,Patterson,Donald,Lochaber AC,M,00:25:41
+5,Brand,Tim,Lochaber AC,M40,00:25:49
+6,Sedgwick,Nick,Unattached,M,00:26:01
+7,Mitchell,Craig,Lochaber AC,M,00:26:05
+8,Hepburn,John,Lochaber AC,M40,00:26:09
+9,Fallon,Steven,Carnethy HRC,M40,00:26:11
+10,Goman,Manny,Westies,M,00:26:12
+11,Williamson,Jason,Cosmic HB,M,00:26:45
+12,Smith,Alan,Deeside R,M40,00:27:00
+13,Mair,Will,Unattached,M,00:27:09
+14,Whitehead,Clare,Cosmic HB,F,00:27:26
+15,Taylor,Peter,Unattached,M,00:27:59
+16,Cameron,Steve,Unattached,M,00:28:09
+17,Mowbray,Phil,HBT,M,00:28:13
+18,Ward,Peter,Unattached,M,00:28:19
 19,Gordon,Clare,HBT,F,00:28:24
-20,Muir,Gregor,Lochaber AC,Sen,00:28:25
-21,Simpson,Geoff,HBT,V40,00:28:26
-22,Philip,Daryl,Unattached,Sen,00:28:34
-23,Brooks,Graham,Lochaber AC,V50,00:28:40
-24,Munro,Spook,Lochaber AC,Sen,00:28:43
-25,Gunn,Tark,Lochaber AC,Sen,00:28:48
-26,Dale,Andy,Unattached,Sen,00:29:00
-27,Normand,Ivor,HBT,V40,00:29:02
-28,Bass,Owen,Deeside R,V40,00:29:13
-29,Clark,Ian,Unattached,Sen,00:29:30
-30,Kennedy,Ali,Lochaber AC,V40,00:29:32
-31,Becket,Daniel,Unattached,Sen,00:29:54
-32,Verbiest,Dirk,Unattached,V40,00:30:00
-33,Honston,Paul,Unattached,Sen,00:30:04
-34,Rathjen,Jon,HBT,Sen,00:30:28
-35,Wilson,Stewart,Unattached,V40,00:30:48
+20,Muir,Gregor,Lochaber AC,M,00:28:25
+21,Simpson,Geoff,HBT,M40,00:28:26
+22,Philip,Daryl,Unattached,M,00:28:34
+23,Brooks,Graham,Lochaber AC,M50,00:28:40
+24,Munro,Spook,Lochaber AC,M,00:28:43
+25,Gunn,Tark,Lochaber AC,M,00:28:48
+26,Dale,Andy,Unattached,M,00:29:00
+27,Normand,Ivor,HBT,M40,00:29:02
+28,Bass,Owen,Deeside R,M40,00:29:13
+29,Clark,Ian,Unattached,M,00:29:30
+30,Kennedy,Ali,Lochaber AC,M40,00:29:32
+31,Becket,Daniel,Unattached,M,00:29:54
+32,Verbiest,Dirk,Unattached,M40,00:30:00
+33,Honston,Paul,Unattached,M,00:30:04
+34,Rathjen,Jon,HBT,M,00:30:28
+35,Wilson,Stewart,Unattached,M40,00:30:48
 36,Grant,Miranda,HBT,F,00:30:51
-37,Rudkin,Dave,Unattached,Sen,00:30:52
-38,McClelland,Peter,Unattached,Sen,00:30:57
-39,Hunter,Andrew,Unattached,Sen,00:31:07
+37,Rudkin,Dave,Unattached,M,00:30:52
+38,McClelland,Peter,Unattached,M,00:30:57
+39,Hunter,Andrew,Unattached,M,00:31:07
 40,Henderson,Julia,Helensburgh,F,00:31:15
-41,Strachan,Graham,Unattached,Sen,00:31:27
-42,Forster,Nix,Lochaber AC,FV40,00:31:35
-43,Forster,Damian,Lochaber AC,V40,00:31:44
-44,Macdonald,Gavin,Unattached,Sen,00:31:49
+41,Strachan,Graham,Unattached,M,00:31:27
+42,Forster,Nix,Lochaber AC,F40,00:31:35
+43,Forster,Damian,Lochaber AC,M40,00:31:44
+44,Macdonald,Gavin,Unattached,M,00:31:49
 45,Provan,Louise,Unattached,F,00:32:04
-46,Poll,Bruce,Lochaber AC,Sen,00:32:12
-47,Shaw,Richard,Lochaber AC,V40,00:32:13
-48,Cant,Stephen,Lochaber AC,Sen,00:32:20
-49,Whitehead,Jon,Unattached,V50,00:32:35
+46,Poll,Bruce,Lochaber AC,M,00:32:12
+47,Shaw,Richard,Lochaber AC,M40,00:32:13
+48,Cant,Stephen,Lochaber AC,M,00:32:20
+49,Whitehead,Jon,Unattached,M50,00:32:35
 50,Barclay,Vicki,Unattached,F,00:32:40
 51,Mowbray,Megan,HBT,F,00:32:48
-52,Duncan,Davie,Ochil HR,V50,00:32:58
-53,Treasurer,Jim,Lochaber AC,V50,00:33:07
-54,McEwan,Linda,Lochaber AC,FV40,00:33:12
-55,Wilson,Colin,Carnethy HRC,V40,00:33:15
-56,Livingston,Robin,Unattached,V50,00:33:16
+52,Duncan,Davie,Ochil HR,M50,00:32:58
+53,Treasurer,Jim,Lochaber AC,M50,00:33:07
+54,McEwan,Linda,Lochaber AC,F40,00:33:12
+55,Wilson,Colin,Carnethy HRC,M40,00:33:15
+56,Livingston,Robin,Unattached,M50,00:33:16
 57,Jeffrey,Michelle,Unattached,F,00:33:41
-58,Dowell,Finlay,Unattached,V40,00:33:48
-59,Pearce,Emma,Lochaber AC,FV40,00:34:04
-60,Axen,Simon,Unattached,V40,00:34:19
+58,Dowell,Finlay,Unattached,M40,00:33:48
+59,Pearce,Emma,Lochaber AC,F40,00:34:04
+60,Axen,Simon,Unattached,M40,00:34:19
 61,McCrachen,Morag,Unattached,F,00:34:20
 62,Rathden,Sandra,HBT,F,00:35:00
 63,Gow,Bif,Lochaber AC,F,00:35:09
 64,Patterson,Chloe,Lochaber AC,F,00:35:18
-65,Hemm,Michael,Lochaber AC,Sen,00:35:25
+65,Hemm,Michael,Lochaber AC,M,00:35:25
 66,MacKenzie,Sara,Lochaber AC,F,00:35:43
-67,Dodman,Ben,Unattached,Sen,00:36:06
-68,Buchannan-Smith,Beppo,Unattached,Sen,00:36:12
+67,Dodman,Ben,Unattached,M,00:36:06
+68,Buchannan-Smith,Beppo,Unattached,M,00:36:12
 69,Spalding,Maggie,Unattached,F,00:36:16
-70,Scott,Bill,Lochaber AC,V50,00:36:33
-71,Orr,Ernie,Lochaber AC,V60,00:36:48
-72,Smith,Tilly,Deeside R,FV40,00:36:52
-73,Finnimore,Andrew,Lochaber AC,V50,00:36:55
-74,O'Kane,John,Unattached,V40,00:37:01
-75,Aitken,Mo,Lochaber AC,FV40,00:37:05
-76,Wilson,Joan,Carnethy HRC,FV40,00:37:20
-77,Murdoch,Ray,Lochaber AC,V50,00:37:23
-78,Ness,Jo,Lochaber AC,FV40,00:37:32
-79,Dougan,John,Lochaber AC,V50,00:37:33
+70,Scott,Bill,Lochaber AC,M50,00:36:33
+71,Orr,Ernie,Lochaber AC,M60,00:36:48
+72,Smith,Tilly,Deeside R,F40,00:36:52
+73,Finnimore,Andrew,Lochaber AC,M50,00:36:55
+74,O'Kane,John,Unattached,M40,00:37:01
+75,Aitken,Mo,Lochaber AC,F40,00:37:05
+76,Wilson,Joan,Carnethy HRC,F40,00:37:20
+77,Murdoch,Ray,Lochaber AC,M50,00:37:23
+78,Ness,Jo,Lochaber AC,F40,00:37:32
+79,Dougan,John,Lochaber AC,M50,00:37:33
 80,Rumgay,Claire,Lochaber AC,F,00:37:42
-81,MaClennan,Lynn,Lochaber AC,FV40,00:38:10
+81,MaClennan,Lynn,Lochaber AC,F40,00:38:10
 82,MacDonald,Nicky,Lochaber AC,F,00:38:47
-83,Smith,Gordon,Lochaber AC,Sen,00:38:48
+83,Smith,Gordon,Lochaber AC,M,00:38:48
 84,McNeillage,Alison,HBT,F,00:38:54
 85,Treasurer,Claire,Lochaber AC,F,00:39:36
 86,Sangster,Gillian,Unattached,F,00:39:46
-87,Murdoch,Elma,Lochaber AC,FV50,00:40:01
-88,Duncan,Aileen,Lochaber AC,FV40,00:40:19
-89,Hver Bailey,Will,Unattached,Sen,00:40:38
+87,Murdoch,Elma,Lochaber AC,F50,00:40:01
+88,Duncan,Aileen,Lochaber AC,F40,00:40:19
+89,Hver Bailey,Will,Unattached,M,00:40:38
 90,Morrison,Ellen,Lochaber AC,F,00:41:14
-91,Kennedy,Nancy,Lochaber AC,FV50,00:41:49
-92,Kitson,Aileen,Lochaber AC,FV50,00:41:50
-93,Fyfe,Susan,Unattached,FV40,00:43:00
+91,Kennedy,Nancy,Lochaber AC,F50,00:41:49
+92,Kitson,Aileen,Lochaber AC,F50,00:41:50
+93,Fyfe,Susan,Unattached,F40,00:43:00
 94,Paul,Brenda,Westies,F,00:43:14
 95,Cant,Ailsa,Lochaber AC,F,00:44:05
-96,Johnston,Aileen,Unattached,FV40,00:44:22
-97,Livingston,Cath,Unattached,FV40,00:44:23
+96,Johnston,Aileen,Unattached,F40,00:44:22
+97,Livingston,Cath,Unattached,F40,00:44:23
 98,Gayle,Verona,Unattached,F,00:44:49
 99,Hynd,Joanna,Unattached,F,00:45:08
-100,Kennedy,Teresa,Lochaber AC,FV40,00:48:00
-101,Austin,Davie,Unattached,Sen,00:48:55
-102,Rankin,Gavin,Unattached,Sen,00:49:02
+100,Kennedy,Teresa,Lochaber AC,F40,00:48:00
+101,Austin,Davie,Unattached,M,00:48:55
+102,Rankin,Gavin,Unattached,M,00:49:02
 103,Macleod,Clare,Unattached,F,00:49:18
-104,Duncan,Davy,Unattached,V40,00:51:57
-105,Dougan,Christine,Lochaber AC,FV40,00:52:19
+104,Duncan,Davy,Unattached,M40,00:51:57
+105,Dougan,Christine,Lochaber AC,F40,00:52:19
 106,Hervo,Sandra,Lochaber AC,F,00:53:08
 107,Tennant,Yvonne,Unattached,F,01:02:26
 108,Corner,Julie,Lochaber AC,F,01:02:27
-109,Corner,Graham,Lochaber AC,Sen,01:02:28
+109,Corner,Graham,Lochaber AC,M,01:02:28

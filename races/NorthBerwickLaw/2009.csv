@@ -44,7 +44,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 43,Spence,Grant,Unattached,M,0:24:46
 44,Thom,Joanne,Edinburgh AC,F,0:24:48
 45,Knight,Ted,Unattached,M,0:24:59
-46,Law,Cameron,Dunbar,MJ,0:25:07
+46,Law,Cameron,Dunbar,M16,0:25:07
 47,Rigg,Paul,Unattached,M,0:25:11
 48,Rowland,Ian,Dunbar,M,0:25:19
 49,Jogojas,Peter,Unattached,M,0:25:20
@@ -69,7 +69,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 68,Chapman,Mark,Carnethy,M,0:26:34
 69,Fieo,Robert,Unattached,M,0:26:40
 70,Lissaman,Stephen,Unattached,M,0:26:41
-71,Hall,Jack,Unattached,MJ,0:26:47
+71,Hall,Jack,Unattached,M16,0:26:47
 72,Tucker,Colin,Unattached,M,0:26:56
 73,Cowan,Jamie,Unattached,M,0:26:57
 74,Thomson,Neil,Unattached,M,0:26:58
@@ -79,10 +79,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 78,Capel,Tom,Unattached,M,0:27:06
 79,Holmes,Martin,Unattached,M,0:27:19
 80,Paterson,Chris,Unattached,M,0:27:22
-81,Knight,Josh,Unattached,MJ,0:27:24
+81,Knight,Josh,Unattached,M16,0:27:24
 82,Grove,Martin,Carnethy,M,0:27:26
 83,Fraser,Doug,Unattached,M,0:27:29
-84,Floyd,Kieran,Dunbar,MJ,0:27:29
+84,Floyd,Kieran,Dunbar,M16,0:27:29
 85,Kynoch,Gavin,Unattached,M,0:27:39
 86,Robertson,Alan,Lothian,M,0:27:40
 87,McWhinnie,Janet,Carnethy,F,0:27:42
@@ -91,14 +91,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 90,Reid,Stan,Unattached,M,0:27:52
 91,Skinner,Toby,Unattached,M,0:27:55
 92,Munro,Craig,Unattached,M,0:27:58
-93,Law,Hamish,Dunbar,MJ,0:27:59
+93,Law,Hamish,Dunbar,M16,0:27:59
 94,Pickard,John,Portobello,M,0:28:01
 95,Davidson,Brian,Dunbar,M,0:28:13
 96,Whitehead,Jonathan,Edinburgh AC,M,0:28:17
 97,MacAulay,Allan,Norham,M,0:28:17
 98,Anderson,Andrew,Dunbar,M,0:28:21
 99,Knight,Jeff,Unattached,M,0:28:30
-100,Burrows,Will,Unattached,MJ,0:28:31
+100,Burrows,Will,Unattached,M16,0:28:31
 101,Landels,Malcolm,Unattached,M,0:28:33
 102,Horey,Vincent,Unattached,M,0:28:46
 103,Snedden,Lindsay,Unattached,M,0:28:49
@@ -113,7 +113,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 112,Lothian,Doug,Unattached,M,0:29:32
 113,Pollard,Isobel,MMM,F,0:29:33
 114,Milne,Douglas,Unattached,M,0:29:41
-115,Grieve,Rachel,Anster Haddies,FJ,0:29:45
+115,Grieve,Rachel,Anster Haddies,F16,0:29:45
 116,McNeillage,Ali,HBT,F,0:29:50
 117,Wauchope,Ian,Unattached,M,0:29:51
 118,Hibbert,Steven,Carnethy,M,0:29:51
@@ -131,24 +131,24 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 130,Knight,Andrew,Unattached,M,0:30:30
 131,Dale,Robbie,Unattached,M,0:30:32
 132,Dale,Tommy,Unattached,M,0:30:32
-133,Semple,Evie,Inverclyde,FJ,0:30:37
-134,Wightman,Isla,Dunbar,FJ,0:30:38
+133,Semple,Evie,Inverclyde,F16,0:30:37
+134,Wightman,Isla,Dunbar,F16,0:30:38
 135,Donaldson,Euan,Unattached,M,0:30:39
 136,Wightman,Robbie,Unattached,M,0:30:40
-137,Burrows,Ricardo,Unattached,MJ,0:30:43
+137,Burrows,Ricardo,Unattached,M16,0:30:43
 138,Hall,Johnie,Unattached,M,0:30:45
-139,Semple,Michael,Giffnock North,MJ,0:30:53
+139,Semple,Michael,Giffnock North,M16,0:30:53
 140,Semple,Michael,Unattached,M,0:30:53
 141,Purves,Paul,Unattached,M,0:30:58
-142,Mackie,Peter,Unattached,MJ,0:31:05
+142,Mackie,Peter,Unattached,M16,0:31:05
 143,Hogg,Kirsten,EUHH,F,0:31:11
 144,Knight,Malcolm,Unattached,M,0:31:12
 145,McNair,John,Unattached,M,0:31:17
-146,Knox,Lizzie,Anster Haddies,FJ,0:31:20
+146,Knox,Lizzie,Anster Haddies,F16,0:31:20
 147,Wood,Craig,Unattached,M,0:31:21
-148,Floyd,Dylan,Dunbar,MJ,0:31:22
+148,Floyd,Dylan,Dunbar,M16,0:31:22
 149,Headley,Phillipa,Carnethy,F,0:31:26
-150,Plain,Fiona,Unattached,FJ,0:31:26
+150,Plain,Fiona,Unattached,F16,0:31:26
 151,Ross,Robert,Unattached,M,0:31:36
 152,Harris,Ray,HELP,M,0:31:37
 153,Stewart,Mark,Unattached,M,0:31:45
@@ -159,40 +159,40 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 158,Mitchell,Michael,Unattached,M,0:32:16
 159,Ivison,Phillipa,Unattached,F,0:32:20
 160,Grant,Pamela,Unattached,F,0:32:30
-161,Newell,Fred,Anster Haddies,MJ,0:32:42
-162,Newell,Jack,Anster Haddies,MJ,0:32:42
+161,Newell,Fred,Anster Haddies,M16,0:32:42
+162,Newell,Jack,Anster Haddies,M16,0:32:42
 163,Roberts,Pab,Unattached,M,0:32:46
 164,Boswell,Jake,Unattached,M,0:32:48
 165,Herring,Richard,Unattached,M,0:33:09
-166,Ross-Russell,Toby,Unattached,MJ,0:33:23
+166,Ross-Russell,Toby,Unattached,M16,0:33:23
 167,Ross-Russell,Rory,Unattached,M,0:33:42
 168,Mackenzie,Andrew,Unattached,M,0:33:42
 169,McManus,Ian,Irvine AC,M,0:33:51
-170,Carr,Finlay,Dunbar,MJ,0:34:08
+170,Carr,Finlay,Dunbar,M16,0:34:08
 171,Driver,Saartte,Unattached,F,0:34:22
 172,Floyd,Mike,Unattached,M,0:34:26
 173,Fitzelle,Amanda,Unattached,F,0:34:41
-174,MacMillan,Aonghus,Unattached,MJ,0:35:00
+174,MacMillan,Aonghus,Unattached,M16,0:35:00
 175,Beddard,Olivia,Jog Scotland,F,0:35:00
-176,Stoddart,Jamie,Unattached,MJ,0:35:15
+176,Stoddart,Jamie,Unattached,M16,0:35:15
 177,Doig,Lindsay,Unattached,F,0:35:15
 178,Burrows,Ian,Unattached,M,0:35:16
 179,Seagroatt,Alastair,Unattached,M,0:35:40
 180,Marshall,Ian,HBT,M,0:35:43
 181,Hughes,Gerry,Unattached,M,0:36:02
-182,Donaldson,Keir,Unattached,MJ,0:36:13
+182,Donaldson,Keir,Unattached,M16,0:36:13
 183,Thomas,Robin,HBT,M,0:36:15
 184,Sellar,Siobhan,Ferranti,F,0:36:20
-185,MacMillan,Tabi,Unattached,FJ,0:36:23
+185,MacMillan,Tabi,Unattached,F16,0:36:23
 186,Miller,Audrey,Unattached,F,0:36:24
 187,Cowan,Stuart,Unattached,M,0:36:26
 188,Smith,Caroline,Unattached,F,0:36:55
 189,McGeray,Gail,Unattached,F,0:37:20
-190,Lorimer,Stuart,Dunbar,MJ,0:37:23
+190,Lorimer,Stuart,Dunbar,M16,0:37:23
 191,Lorimer,Andrew,Unattached,M,0:37:23
 192,McLaren,Doug,Unattached,M,0:38:16
 193,Martin,Ewan,Unattached,M,0:38:25
 194,Ferguson,Neil,Unattached,M,0:39:08
-195,Cowie,Darren,Unattached,MJ,0:39:54
+195,Cowie,Darren,Unattached,M16,0:39:54
 196,Stephen,Gordon,Unattached,M,0:40:19
 197,Armstrong,George,HELP,M,0:42:34

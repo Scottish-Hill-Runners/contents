@@ -1,67 +1,67 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gilmore,Andrew,Carnethy,M,01:23:04
-2,Bonnyman,Brain,Westerlands,MV40,01:23:13
+2,Bonnyman,Brain,Westerlands,M40,01:23:13
 3,Hammond,John,Carnethy,M,01:26:01
 4,Foster,George,Dundee Hawkhill Harriers,M,01:29:01
 5,Terwey,Steven,Unattached,M,01:29:02
 6,Cook,Graeme,Ochil Hill Runners,M,01:30:01
 7,Allan,Douglas,Ochil Hill Runners,M,01:30:03
-8,Keith,Alec,HBT,MV50,01:30:05
+8,Keith,Alec,HBT,M50,01:30:05
 9,Easton,Neil,Unattached,M,01:33:05
-10,Love,Craig,Dundee Hawkhill Harriers,MV40,01:34:06
-11,Malcolm,Bruce,Corstorphine AAC,MV50,01:35:21
+10,Love,Craig,Dundee Hawkhill Harriers,M40,01:34:06
+11,Malcolm,Bruce,Corstorphine AAC,M50,01:35:21
 12,Gilmore,Iain,Carnethy Hill RC,M,01:36:01
 13,Elder,Callum,Unattached,M,01:36:04
 14,Ross,Jamie,Deeside Runners,M,01:36:05
-15,Croll,David,Deeside Runners,MV50,01:36:55
-16,Kerridge,Donald,Deeside Runners,MV40,01:37:05
+15,Croll,David,Deeside Runners,M50,01:36:55
+16,Kerridge,Donald,Deeside Runners,M40,01:37:05
 17,Bryce,Andy,Unattached,M,01:37:10
 18,Provan,Stephanie,Deeside Runners,F,01:38:01
 19,MacMillan,Gavin,Lochaber AC,M,01:39:54
 20,MacLean,Ryan,Unattached,M,01:40:31
-21,Hirst,David,Deeside Runners,MV50,01:40:31
-22,Summers,Robert,Beacon runners,MV40,01:43:47
+21,Hirst,David,Deeside Runners,M50,01:40:31
+22,Summers,Robert,Beacon runners,M40,01:43:47
 23,Lamont,Allan,Lochaber AC,M,01:44:41
-24,Dougall,Barclay,Perth Triathlon Club,MV40,01:44:44
-25,Thompson,Fabienne,Carnegie Harriers,FV40,01:45:51
-26,Bain,Andy,Deeside Runners,MV40,01:45:52
+24,Dougall,Barclay,Perth Triathlon Club,M40,01:44:44
+25,Thompson,Fabienne,Carnegie Harriers,F40,01:45:51
+26,Bain,Andy,Deeside Runners,M40,01:45:52
 27,Busby,Christopher,Carnethy,M,01:46:19
-28,MacEwan,John,Ochil Hill Runners,MV40,01:47:04
+28,MacEwan,John,Ochil Hill Runners,M40,01:47:04
 29,Kerridge,Ewen,Deeside Runners,M,01:47:32
-30,Bellarby,Jonathan,Cosmic Hillbashers,MV40,01:47:50
+30,Bellarby,Jonathan,Cosmic Hillbashers,M40,01:47:50
 31,Wheeler,Mark,Hamilton Harriers,M,01:48:16
-32,Shelley,Matthew,Unattached,MV50,01:48:29
+32,Shelley,Matthew,Unattached,M50,01:48:29
 33,Barlow,Jonathan,Ochil Hill Runners,M,01:48:31
 34,Easson,Euan,Unattached,M,01:50:11
-35,Hood,Alistair,Fife AC,MV40,01:51:02
-36,Wilson,Rob,Penicuik Harriers,MV40,01:51:31
-37,Mill,John,Dundee Road Runners AC,MV50,01:52:30
-38,Beedie,Iain,Lomond Hill Runners AAC,MV40,01:52:42
+35,Hood,Alistair,Fife AC,M40,01:51:02
+36,Wilson,Rob,Penicuik Harriers,M40,01:51:31
+37,Mill,John,Dundee Road Runners AC,M50,01:52:30
+38,Beedie,Iain,Lomond Hill Runners AAC,M40,01:52:42
 39,Cameron,Ewan,Westerlands Cross Country Club,M,01:57:07
-40,Duncan,David,Ochll Hill Runners,MV60,01:57:34
-41,Sinclair,Melanie,Carnegie Harriers,FV40,01:58:17
-42,Forte,Phil,Dundee Hawkhill Harriers,MV50,01:58:22
-43,Bowman,Angus,Lomond Hill Runners AAC,MV50,01:59:40
-44,Schneider,Mike,Unattached,MV50,02:02:43
+40,Duncan,David,Ochll Hill Runners,M60,01:57:34
+41,Sinclair,Melanie,Carnegie Harriers,F40,01:58:17
+42,Forte,Phil,Dundee Hawkhill Harriers,M50,01:58:22
+43,Bowman,Angus,Lomond Hill Runners AAC,M50,01:59:40
+44,Schneider,Mike,Unattached,M50,02:02:43
 45,Williams,Rupert,Unattached,M,02:03:52
-46,Kerridge,Jane,Deeside Runners,FV60,02:03:57
-47,Munro,Frazer,Carnegie Harriers,MV40,02:04:41
+46,Kerridge,Jane,Deeside Runners,F60,02:03:57
+47,Munro,Frazer,Carnegie Harriers,M40,02:04:41
 48,Goldfinch,Nick,Carnethy Hill RC,M,02:05:19
 49,MacMillan,Ross,Lochaber AC,M,02:12:53
 50,Hayes,Anna,Carnethy Hill RC,F,02:13:16
-51,McDonald,Melanie,Unattached,FV40,02:14:43
+51,McDonald,Melanie,Unattached,F40,02:14:43
 52,Moir,Ian,British Military Fitness,M,02:14:50
-53,McGreevy,Kay,British Military Fitness,FV50,02:14:50
-54,Sword,Lawrence,Unattached,MV40,02:14:59
-55,Bass,Ursula,Deeside Runners,FV40,02:16:05
-56,Wilson,Andrea,Penicuik Harriers,FV40,02:16:22
-57,Campbell,Rod,Cosmic Hillbashers,MV60,02:16:23
-58,Davidson,Stewart,Fife AC,MV60,02:18:18
-59,Oliver,David,Deeside Runners,MV50,02:21:34
-60,Killean,Liz,Fife AC,FV40,02:22:03
-62,Oliver,Jane,Deeside Runners,FV50,02:29:57
-63,Russell,Andres,Northumberland Fell Runners,MV50,02:32:18
-64,Grainger,Moira,Fife AC,FV50,02:34:41
-65,Lamour,Pauline,Cosmic Hillbashers,FV40,02:43:45
-67,Sloan,Liz,Cosmic Hillbashers,FV40,03:06:14
-69,Lister,Ann,Glasgow Running Network,FV60,03:06:19
+53,McGreevy,Kay,British Military Fitness,F50,02:14:50
+54,Sword,Lawrence,Unattached,M40,02:14:59
+55,Bass,Ursula,Deeside Runners,F40,02:16:05
+56,Wilson,Andrea,Penicuik Harriers,F40,02:16:22
+57,Campbell,Rod,Cosmic Hillbashers,M60,02:16:23
+58,Davidson,Stewart,Fife AC,M60,02:18:18
+59,Oliver,David,Deeside Runners,M50,02:21:34
+60,Killean,Liz,Fife AC,F40,02:22:03
+62,Oliver,Jane,Deeside Runners,F50,02:29:57
+63,Russell,Andres,Northumberland Fell Runners,M50,02:32:18
+64,Grainger,Moira,Fife AC,F50,02:34:41
+65,Lamour,Pauline,Cosmic Hillbashers,F40,02:43:45
+67,Sloan,Liz,Cosmic Hillbashers,F40,03:06:14
+69,Lister,Ann,Glasgow Running Network,F60,03:06:19

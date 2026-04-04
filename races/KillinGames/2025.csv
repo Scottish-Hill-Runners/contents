@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Rawlinson,Stephen,Lochtayside,M,00:24:24
-2,Wotherspoon,James,Harmeny AC,MU23,00:25:30
-3,McBean,Calum,Strathearn Harriers,MU23,00:25:56
+2,Wotherspoon,James,Harmeny AC,M23,00:25:30
+3,McBean,Calum,Strathearn Harriers,M23,00:25:56
 4,Downey,David,Dunblane Runners,M50,00:29:26
 5,Boillot,Damien,DSA Pour Romeo,M40,00:29:43
 6,Reid,Don,Westerlands CCC,M60,00:29:54
@@ -19,15 +19,15 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Grey,Adam,Unattached,M,00:33:52
 19,Dornetshermer,Franz,Unattached,M40,00:33:53
 20,Davies,Beckie,DDJC,F,00:33:55
-21,Servais,Clement,Unattached,MU23,00:34:52
+21,Servais,Clement,Unattached,M23,00:34:52
 22,Simpson,Stuart,Unattached,M50,00:34:54
 23,Steckel,Joe,Unattached,M,00:34:56
 24,Mountain,Chris,Hillingdon Triathletes,M40,00:35:08
 25,Mackie,Eugene,Lochaber AC,M,00:35:48
 26,Maddock,Will,Leeds,M40,00:36:00
 27,Bloodworth,Matthew,Unattached,M40,00:36:19
-28,Servais,Thiboult,Unattached,MU23,00:36:35
-29,McBain,Ross,Unattached,MU23,00:37:02
+28,Servais,Thiboult,Unattached,M23,00:36:35
+29,McBain,Ross,Unattached,M23,00:37:02
 30,Furse,Chris,Westerlands CCC,M50,00:37:30
 31,Bowman,Gus,Lomond Hill Runners,M60,00:38:27
 32,Stucken,Philipp,Unattached,M,00:39:17
@@ -38,7 +38,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,O'Sullivan,DJ,Unattached,M,00:40:36
 38,Newcomb,Matthew,Unattached,M40,00:40:38
 39,Oliver,Cochrill,Unattached,M,00:40:41
-40,Tournier,Margaux,Unattached,FU23,00:41:30
+40,Tournier,Margaux,Unattached,F23,00:41:30
 41,Tournier,Franck,Unattached,M50,00:41:34
 42,Heald,Jack,Unattached,M,00:41:47
 43,Forster,Kate,Lochtayside,F50,00:42:17

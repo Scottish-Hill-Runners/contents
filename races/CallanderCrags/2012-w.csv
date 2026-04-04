@@ -24,7 +24,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Reynolds,Colin,Carnegie Harriers,M40,0:31:12
 24,Gerrie,Bill,Troon Tortoises,M40,0:31:25
 25,Peters,Steven,Dundee Road Runners,M,0:31:27
-26,Ryan,Conor,Unattached,MJ,0:31:30
+26,Ryan,Conor,Unattached,M16,0:31:30
 27,Shaw,Trevor,Lochtayside,M40,0:31:32
 28,Earle,Paddy,Tinto Hill Runners,M50,0:31:39
 29,Brown,Jamie,HBT,M,0:31:54
@@ -43,7 +43,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 42,Smith,Jo,Lochaber AC,F,0:35:17
 43,Martin,Alastair,Unattached,M40,0:35:22
 44,Johnston,Alistair,Unattached,M50,0:35:53
-45,Campbell,Gary,Unattached,MJ,0:36:08
+45,Campbell,Gary,Unattached,M16,0:36:08
 46,Johnston,Stephen,Milburn Harriers,M50,0:36:18
 47,Macdougall,Ken,Tinto Hill Runners,M,0:36:22
 48,Calothis,Marinos,Westerlands,M40,0:36:50
@@ -55,7 +55,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Ryan,Jasmine,Unattached,F,0:37:37
 55,Stuart,Michael,Unattached,M40,0:38:19
 56,Dimmer,Andrew,Unattached,M40,0:38:37
-57,Dimmer,Max,Unattached,MJ,0:38:38
+57,Dimmer,Max,Unattached,M16,0:38:38
 58,Cockburn,Gordon,Unattached,M60,0:38:50
 59,Roberts,Paul,Troon Tortoises,M40,0:38:52
 60,Chalmers,Jane,Unattached,F50,0:39:10
@@ -64,13 +64,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,Hughes,Chris,Unattached,M,0:40:39
 64,Ryan,Caroline,Unattached,F40,0:41:36
 65,Beaumont,Susan,Lochtayside,F50,0:42:28
-66,McCourt,Ewan,Unattached,MJ,0:42:42
+66,McCourt,Ewan,Unattached,M16,0:42:42
 67,Smith,Rob,Unattached,M75,0:42:49
 68,McCourt,Tom,Unattached,M50,0:43:53
-69,Kliskey,Samuel,Unattached,MJ,0:46:30
+69,Kliskey,Samuel,Unattached,M16,0:46:30
 70,Kliskey,Toby,Unattached,M50,0:46:31
-71,Nash,Andrew,Carnethy,MJ,0:46:42
-72,Williams,Molly,Unattached,FJ,0:48:47
+71,Nash,Andrew,Carnethy,M16,0:46:42
+72,Williams,Molly,Unattached,F16,0:48:47
 73,Drummond,Jim,Central AC,M50,0:51:28
 74,Robertson,Jim,Unattached,M70,0:51:34
 75,Docherty,Julie,Unattached,F,0:51:37

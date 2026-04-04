@@ -1,20 +1,20 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Smith,Tom,Lochaber AC,S,01:52:15
-2,Macinnes,Steven,Carnethy,S,01:55:36
-3,Whitlie,Stewart,Carnethy,V,01:57:58
-4,Smith,Alan,Deeside,V,01:59:58
-5,Fallon,Steven,Carnethy,V,02:01:23
-6,Johnson,Alex,Highland Hill Runners,S,02:06:18
-7,Anderson,Russell,Moorfoot Runners,SV,02:17:56
-8,Sims,Andrew,HBT,S,02:19:25
-9,Upson,Chris,Westerlands,V,02:21:50
-10,Fraser,Gary,Ochills,V,02:24:32
+1,Smith,Tom,Lochaber AC,M,01:52:15
+2,Macinnes,Steven,Carnethy,M,01:55:36
+3,Whitlie,Stewart,Carnethy,M,01:57:58
+4,Smith,Alan,Deeside,M,01:59:58
+5,Fallon,Steven,Carnethy,M,02:01:23
+6,Johnson,Alex,Highland Hill Runners,M,02:06:18
+7,Anderson,Russell,Moorfoot Runners,M40,02:17:56
+8,Sims,Andrew,HBT,M,02:19:25
+9,Upson,Chris,Westerlands,M,02:21:50
+10,Fraser,Gary,Ochills,M,02:24:32
 11,O’Shea,Emma,Deeside Runners,F,02:26:48
-12,Pearce,Simon,Cosmic Hillbashers,S,02:33:18
-13,McGregor,Gregor,Oban Runners,V,02:38:32
-14,Keenan,Jim,Isle of Mull Cycle Club,SV,02:46:51
+12,Pearce,Simon,Cosmic Hillbashers,M,02:33:18
+13,McGregor,Gregor,Oban Runners,M,02:38:32
+14,Keenan,Jim,Isle of Mull Cycle Club,M40,02:46:51
 15,McKechnie,Eilis,HBT,F,02:52:55
-16,Johnston,Stephen,Milburn,V,02:55:57
-17,West,Alison,Carnegie,FSV,02:56:24
+16,Johnston,Stephen,Milburn,M,02:55:57
+17,West,Alison,Carnegie,F40,02:56:24
 18,Henry,Sara,Deeside Runners,F,04:24:00
-19,Henry,Peter,Deeside Runners,S,04:32:15
+19,Henry,Peter,Deeside Runners,M,04:32:15

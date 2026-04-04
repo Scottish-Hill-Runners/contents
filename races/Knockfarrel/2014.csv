@@ -4,8 +4,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 3,Wilby,David,Highland Hill Runners,M,0:41:50
 4,Wilby,Andrew,Highland Hill Runners,M40,0:42:40
 5,Trevelyan,Jack,Highland Hill Runners,M,0:43:06
-6,Coupar,Alasdair,East Sutherland,MU20,0:43:50
-7,Barr,Andrew,Forres Harriers,MU20,0:43:56
+6,Coupar,Alasdair,East Sutherland,M20,0:43:50
+7,Barr,Andrew,Forres Harriers,M20,0:43:56
 8,Miller,Paul,Inverness Harriers,M40,0:44:11
 9,Henry,Peter,Deeside Runners,M,0:44:26
 10,Paterson,Robbie,Moray Road Runners,M,0:44:34
@@ -43,14 +43,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 42,Spencer,David,North Highland Harriers,M40,0:51:13
 43,Rogan,Paul,Moray Road Runners,M40,0:51:16
 44,Shepherd,Jon,Highland Hill Runners,M40,0:51:40
-45,Ricketts,Jennifer,Deeside Runners,FU20,0:52:06
+45,Ricketts,Jennifer,Deeside Runners,F20,0:52:06
 46,Marwick,Caroline,Inverness Harriers,F,0:52:20
 47,Cameron,Hilary,Forres Harriers,F40,0:52:28
 48,Chandler,Dave,Highland Hill Runners,M,0:53:04
 49,Lyons,Karen,Highland Hill Runners,F40,0:53:05
 50,Roberts,Richard,Highland Hill Runners,M50,0:53:46
 51,Pott,Tim,Forres Harriers,M50,0:53:58
-52,Kerr,Hamish,Ross County AC,MU20,0:54:14
+52,Kerr,Hamish,Ross County AC,M20,0:54:14
 53,Fraser,Catriona,Inverness Harriers,F,0:54:22
 54,Somerville,John,Unattached,M,0:54:25
 55,Calder,Graham,Unattached,M40,0:54:28
@@ -62,7 +62,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 61,Hall,Colin,Forres Harriers,M40,0:55:02
 62,Sutherland,Daniel,Unattached,M,0:55:23
 63,Dent,Matthew,Unattached,M,0:55:43
-64,Young,James,Insch Trail Running Club,MU20,0:56:00
+64,Young,James,Insch Trail Running Club,M20,0:56:00
 65,Kennedy,Steve,Lochaber AC,M,0:56:00
 66,Bass,Owen,Solway,M50,0:56:17
 67,Barr,Nick,Forres Harriers,M50,0:56:31

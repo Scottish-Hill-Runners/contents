@@ -1,67 +1,67 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside,MS,00:17:22
-2,Anthony,Al,Ochil,MS,00:18:12
-3,Whitehead,Dan,Deeside,MS,00:18:14
-4,Watson,Cameron,Lomond,MS,00:18:54
+1,Simpson,Robbie,Deeside,M,00:17:22
+2,Anthony,Al,Ochil,M,00:18:12
+3,Whitehead,Dan,Deeside,M,00:18:14
+4,Watson,Cameron,Lomond,M,00:18:54
 5,Harris,Mark,Fife,M40,00:19:10
-6,Harris,Adam,Fife,MJ,00:19:33
-7,Waldie,James,Carnethy,MS,00:19:42
+6,Harris,Adam,Fife,M16,00:19:33
+7,Waldie,James,Carnethy,M,00:19:42
 8,McKenzie,Donald,Lomond,M40,00:19:51
-9,Crowe,Jamie,Dundee HH,MS,00:20:00
-10,Knox,Jonny,Anster Haddies,MV,00:20:10
-11,Crowe,Des,Dundee HH,MV,00:20:13
+9,Crowe,Jamie,Dundee HH,M,00:20:00
+10,Knox,Jonny,Anster Haddies,M,00:20:10
+11,Crowe,Des,Dundee HH,M,00:20:13
 12,Smith,Alan,Deeside,M50,00:20:26
-13,Whitehead,Claire,Deeside,FS,00:20:32
-14,Delaney,Zach,Anster Haddies,MS,00:20:50
+13,Whitehead,Claire,Deeside,F,00:20:32
+14,Delaney,Zach,Anster Haddies,M,00:20:50
 15,Simpson,Peter,Carnegie,M50,00:20:50
 16,Bennet,Sandy,Carnegie,M40,00:21:00
 17,Laing,Martin,Fife,M50,00:21:22
-18,Downie,Dillon,Dollar Academy,MS,00:21:34
+18,Downie,Dillon,Dollar Academy,M,00:21:34
 19,Bass,Owen,Deeside,M40,00:21:43
-20,Jardine,Ruari,Dollar Academy,MS,00:22:00
-21,Grieve,Timothy,Anster Haddies,MJ,00:22:00
-22,Johns,Andy,Kinross RR,MS,00:22:24
+20,Jardine,Ruari,Dollar Academy,M,00:22:00
+21,Grieve,Timothy,Anster Haddies,M16,00:22:00
+22,Johns,Andy,Kinross RR,M,00:22:24
 23,Mason,David,Linlithgow Harriers,M40,00:22:28
 24,Love,Craig,Dundee HH,M40,00:22:29
-25,Matthews,Steve,Dundee HH,MS,00:22:29
-26,King,Steven,Carnegie,MS,00:22:29
-27,Scott,Fraser,Lomond,MS,00:22:37
+25,Matthews,Steve,Dundee HH,M,00:22:29
+26,King,Steven,Carnegie,M,00:22:29
+27,Scott,Fraser,Lomond,M,00:22:37
 28,Anderson,Russell,Moorfoot,M50,00:22:48
-29,Elertowitz,Stefan,Fife,MS,00:22:54
-30,Davie,Kevin,Carnegie,MS,00:23:09
+29,Elertowitz,Stefan,Fife,M,00:22:54
+30,Davie,Kevin,Carnegie,M,00:23:09
 31,Reid,Don,Westies,M50,00:23:26
-32,Harris,Tom,Fife,MJ,00:23:27
+32,Harris,Tom,Fife,M16,00:23:27
 33,Mitchell,Dave,Dundee HH,M40,00:23:33
 34,Higginbottom,Jacqui,Carnethy,F40,00:23:43
-35,Davie,Barrie,Carnegie,MS,00:23:52
-36,Giles,Ben,UA,MS,00:23:57
-37,Knox,Thomas,Anster H,MJ,00:24:00
+35,Davie,Barrie,Carnegie,M,00:23:52
+36,Giles,Ben,UA,M,00:23:57
+37,Knox,Thomas,Anster H,M16,00:24:00
 38,Roberts,Clive,Fife,M50,00:24:03
 39,Cowan,David,Fife,M40,00:24:04
 40,Anderson`,Laurie,Fife,M50,00:24:06
 41,Wilson,Colin,Carnethy,M40,00:24:07
 42,Greig,David,Carnegie,M40,00:24:18
 43,Campbell,Alfie,Carnegie,M50,00:24:32
-44,Smith,Alastair,Dundee HH,MS,00:24:42
-45,Evans,Neah,Glasgow Uni,FS,00:24:47
-46,Weir,Jonathon,UA,MS,00:24:49
+44,Smith,Alastair,Dundee HH,M,00:24:42
+45,Evans,Neah,Glasgow Uni,F,00:24:47
+46,Weir,Jonathon,UA,M,00:24:49
 47,Brennan,Brian,Westies,M50,00:24:52
 48,Reynolds,Colin,Carnegie,M40,00:25:46
 49,Bowman,Gus,Lomond,M50,00:25:55
 50,Wilson,Joan,Carnethy,F40,00:26:02
 51,Greer,Stephen,Carnegie,M50,00:26:03
-52,Connor,Julia,Moorfoot,FS,00:26:07
-53,Mitchell,James,UA,MS,00:26:27
+52,Connor,Julia,Moorfoot,F,00:26:07
+53,Mitchell,James,UA,M,00:26:27
 54,Bowie,Tom,Carnegie,M60,00:26:42
 55,Landels,Brian,Lomond,M40,00:26:45
 56,Johnston,Stephen,Milburn Harriers,M40,00:27:01
 57,Duff,Bill,Carnegie,M60,00:27:02
-58,McDougal,Ken,Tinto HR,MS,00:27:08
-59,Calothis,Marinos,Kinross RR,MS,00:27:16
-60,,,UA,MS,00:27:24
+58,McDougal,Ken,Tinto HR,M,00:27:08
+59,Calothis,Marinos,Kinross RR,M,00:27:16
+60,,,UA,M,00:27:24
 61,Merga,Kieran,Carnegie,M50,00:27:25
-62,Lomas,Paul,UA,MS,00:27:28
-63,Park,Angela,Perth RR,FS,00:27:28
+62,Lomas,Paul,UA,M,00:27:28
+63,Park,Angela,Perth RR,F,00:27:28
 64,Evans,Malcolm,UA,M60,00:27:33
 65,Sword,Lawrence,UA,M40,00:27:36
 66,Macaulay,Allan,Carnegie,M50,00:27:37
@@ -81,9 +81,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 80,Gatehouse,Richard,Lomond,M50,00:28:53
 81,Love,Charlie,Dundee HH,M60,00:28:58
 82,Archibald,Steve,Dundee RR,M40,00:29:00
-83,Sinclair,Melanie,Carnegie,FS,00:29:04
+83,Sinclair,Melanie,Carnegie,F,00:29:04
 84,Oliver,Chris,HBT,M60,00:29:19
-85,Wilson,Joanna,Carnegie,FS,00:29:22
+85,Wilson,Joanna,Carnegie,F,00:29:22
 86,Bass,Ursula,Deeside,F40,00:30:00
 87,Russell,Derek,UA,M40,00:30:32
 88,Cromar,Steve,Dundee HH,M70,00:31:50
@@ -91,7 +91,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 90,King,Alex,Ochil,M40,00:32:50
 91,Thornton,Robert,Fife,M50,00:33:13
 92,Fairley,Bill,Carnegie,M60,00:33:15
-93,Winning,Jennifer,Lomond,FS,00:33:42
+93,Winning,Jennifer,Lomond,F,00:33:42
 94,Bennet,Bill,Penicuik H,M60,00:35:15
 95,Wright,James,HBT,M50,00:36:50
 96,Turner,Dave,UA,M40,00:00:00

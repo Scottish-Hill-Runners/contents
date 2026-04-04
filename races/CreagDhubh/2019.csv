@@ -80,7 +80,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 79,Malcolm,Stuart,Highland Hill Runners,M50,00:34:54
 80,Grant,Miranda,Eryri Harriers,F,00:34:59
 81,Russell,Hannah,Helm Hill Runners,F,00:35:03
-82,Askew,Martin,Helm Hill Runners,MJ,00:35:09
+82,Askew,Martin,Helm Hill Runners,M16,00:35:09
 83,MacInnes,Alasdair,Westerlands CCC,M,00:35:11
 84,Morgan,Jon,Dark Peak,M50,00:35:11
 85,Nichols,Matthew,Matlock Athletic Club,M,00:35:12
@@ -146,7 +146,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 145,Burnett,Neil,Carnethy,M50,00:39:22
 146,Smith,Bruce,Carnethy,M50,00:39:24
 147,Agnew,Mark,Mercia Fell Runners,M50,00:39:25
-148,Paton,Ellen,Dark Peak,FJ,00:39:26
+148,Paton,Ellen,Dark Peak,F16,00:39:26
 149,Finch,Tom,Westerlands CCC,M,00:39:26
 150,Macdonald,Dougie,Highland Hill Runners,M40,00:39:30
 151,Wood,Helen,Ilkley Harriers AC,F,00:39:36
@@ -222,7 +222,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 221,Phillips,Robert,Inverness Running Tours,M,00:46:04
 222,Gorman,Duncan,Westerlands CCC,M,00:46:06
 223,MacEwan,John,Ochil Hill Runners,M50,00:46:09
-224,Spenceley,Dougal,Unattached,MJ,00:46:18
+224,Spenceley,Dougal,Unattached,M16,00:46:18
 225,Goff,Richard,Buxton AC,M,00:46:18
 226,Mansell,Kate,Todmorden Harriers,F40,00:46:20
 227,Holland,Arianne,Carnegie Harriers,F,00:46:20
@@ -275,7 +275,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 274,Fisher-MacPherson,Amy,Unattached,F,00:53:27
 275,King,Annabel,Vegan Runners,F,00:53:33
 276,McPherson,Hugh,Tinto Hill Runners,M70,00:53:39
-277,Seed,Emma,Inverness Harriers,FJ,00:53:46
+277,Seed,Emma,Inverness Harriers,F16,00:53:46
 278,Wright,Bev,Todmorden Harriers,F40,00:53:59
 279,Hamill,Stefan,Unattached,M40,00:54:08
 280,Beedie,Iain,Lomonds,M50,00:54:28
@@ -285,7 +285,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 284,Brennan,Brian,Westerlands CCC,M60,00:57:46
 285,Adams,Elizabeth,Helm Hill Runners,F40,00:57:59
 286,Sinclair,Emma,Cairngorm Runners,F40,00:58:22
-287,Hewick,Ailsa,Inverness Harriers,FJ,00:59:16
+287,Hewick,Ailsa,Inverness Harriers,F16,00:59:16
 288,Forsyth,Karen,Carnegie Harriers,F,00:59:49
 289,Elrick,John,Jog Scotland,M60,01:00:43
 290,Putzeys,Didier,Unattached,M50,01:01:07

@@ -10,31 +10,31 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 9,Tullie,Douglas,HBT,M,0:36:30
 10,Richmond,Kenny,Shettleston Harriers,M40,0:36:37
 11,Alexander,Sam,Westerlands,M,0:36:46
-12,Battle,Hamish,Metro Aberdeen,MU23,0:36:51
+12,Battle,Hamish,Metro Aberdeen,M23,0:36:51
 13,Feltbower,Steve,Ochil Hill Runners,M,0:37:13
 14,Sullivan,Matthew,Shettleston Harriers,M,0:37:32
 15,Simpson,Robert,Shettleston Harriers,M,0:37:35
-16,Thurlbeck,Alastair,Shettleston Harriers,MU23,0:37:41
+16,Thurlbeck,Alastair,Shettleston Harriers,M23,0:37:41
 17,Waldie,James,HBT,M,0:37:49
 18,Stewart,Iain,Westerlands,M,0:37:52
 19,Connaghan,John,Shettleston Harriers,M40,0:37:52
 20,Whitlie,Stewart,Carnethy,M50,0:37:57
 21,Reid,Michael,Carnethy,M40,0:38:37
 22,Eiser,Dave,Ochil Hill Runners,M,0:38:41
-23,Gilmore,Iain,Carnethy,MU23,0:38:44
+23,Gilmore,Iain,Carnethy,M23,0:38:44
 24,Johnston,Mark,Carnethy,M40,0:38:47
 25,Cox,Andrew,Moorfoot Runners,M,0:38:50
-26,Taylor,Luke,Highland Hill Runners,MU23,0:38:52
-27,Kitching,Calum,Deeside Runners,MU23,0:39:08
+26,Taylor,Luke,Highland Hill Runners,M23,0:38:52
+27,Kitching,Calum,Deeside Runners,M23,0:39:08
 28,Johnston,Fergus,Carnethy,M,0:39:18
-29,Cheskin,Lucas,Shettleston Harriers,MU23,0:39:33
+29,Cheskin,Lucas,Shettleston Harriers,M23,0:39:33
 30,Rawlinson,Stephen,Lochtayside,M,0:39:53
-31,Robson,William,North Shields Poly,MU23,0:39:57
+31,Robson,William,North Shields Poly,M23,0:39:57
 32,Winter,Stephen,Shettleston Harriers,M40,0:40:25
 33,Simpson,Graham,Alnwick Harriers,M,0:40:49
 34,Mackie,Peter,Shettleston Harriers,M,0:40:59
 35,Smith,Alan,Deeside Runners,M50,0:41:00
-36,Adkin,Scout,Ambleside,FU23,0:41:02
+36,Adkin,Scout,Ambleside,F23,0:41:02
 37,Baxter,Grant,Ochil Hill Runners,M40,0:41:15
 38,Provan,Stephanie,Deeside Runners,F,0:41:25
 39,Muir,Jonny,Carnethy,M,0:41:43
@@ -77,21 +77,21 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 76,Curtis,Briony,HBT,F,0:46:07
 77,McMullan,George,Norham RC,M40,0:46:15
 78,Wilson,Rob,Penicuik Harriers,M40,0:46:32
-79,Penny,Alastair,Stirling University,MU23,0:46:33
+79,Penny,Alastair,Stirling University,M23,0:46:33
 80,Thurlbeck,Ian,Westerlands,M50,0:46:38
 81,Houston,Val,Westerlands,F50,0:46:47
 82,Price,Aron,Westerlands,M,0:46:59
 83,Green,Phil,Northumberland FR,M40,0:47:03
 84,Fleming,Rod,Westerlands,M,0:47:07
 85,Kammer,Philip,Cosmics,M60,0:47:25
-86,Greens,Michael,Penicuik Harriers,MU23,0:47:32
+86,Greens,Michael,Penicuik Harriers,M23,0:47:32
 87,Hartree,Mark,Carnethy,M40,0:47:33
 88,Tollitt,John,Northumberland FR,M50,0:47:34
 89,Naylor,Marcus,Gala Harriers,M40,0:47:35
 90,Anderson,Neil,Linlithgow Harriers,M50,0:47:35
 91,Pryde,Gordon,Lomond Hill Runners,M50,0:47:49
 92,Gamble,Adam,Carnethy,M,0:47:55
-93,Nadin,Bethan,Highland Hill Runners,FU23,0:48:04
+93,Nadin,Bethan,Highland Hill Runners,F23,0:48:04
 94,Lyons,Karen,Highland Hill Runners,F40,0:48:05
 95,McCaffrey,Gordon,Westerlands,M60,0:48:06
 96,Malcolmson,Craig,Hartfell HRC,M50,0:48:09

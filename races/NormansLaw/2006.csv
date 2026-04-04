@@ -1,113 +1,113 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Russell,Chris,Fife AC,MS,00:30:35
-2,Anthony,Alasdair,Ochil Hill Runners,MS,00:30:43
-3,Jones,Alex,Fife AC,MJU17,00:31:50
-4,Cruickshank,Brian,Fife AC,MV40,00:32:31
-5,Munro,Niall,HBT,MS,00:32:42
-6,Mitchell,Terry,Fife AC,MV45,00:33:22
-7,Weir,Dave,Fife AC,MV45,00:33:25
-8,Scott,Tom,Fife AC,MV55,00:33:29
-9,Bennet,Sandy,Carnegie Harriers,MV40,00:33:35
-10,Leslie,Nick,Dundee Road Runners,MS,00:33:39
-11,Kay,John,Fife AC,MV,00:33:44
-12,Burgess,David,Anster Haddies,MS,00:34:15
-13,Anderson,Laurie,Fife AC,MV45,00:34:24
-14,Farquhar,Jeff,Pitreavie,MV45,00:34:38
-15,Arnott,Luke,Westerlands,MS,00:34:41
-16,Gunstone,Neil,Dundee Hawkhill,MS,00:34:54
-17,Broadbent,Chris,HELP,MS,00:35:02
-18,Marshall,Lesley,Stirling Tri,FS,00:35:10
-19,Johnston,Ian Robert,Carnegie Harriers,MV40,00:35:34
-20,Bagnall,Ali,Fife AC,MV45,00:35:43
-21,Howett,Andrew,Fife AC,MS,00:35:46
-22,Pryde,Gordon,Lomond Hill Runners,MV45,00:35:47
-23,Davidson,Richard,Dundee Road Runners,MV45,00:35:50
-24,Legge,Sarah,Carnegie Harriers,FS,00:36:00
-25,Hanlon,Dave,Dundee Hawkhill,MV45,00:36:08
-26,Popham,Frank,Fife AC,MS,00:36:13
-27,Love,Craig,Dundee Hawkhill,MS,00:36:14
-28,Galbraith,Jim,Giffnock North,MV45,00:36:19
-29,Kirby,Graham,Fife AC,MS,00:36:31
-30,Harper,John,Unattached,MS,00:36:37
-31,Harley,Mark,Fife AC,MJ U19,00:36:55
-32,Begley,Tommy,Irvine AC,MS,00:37:31
-33,Downie,William,Greenock Glenpark,MJ U18,00:37:46
-34,Thompson,Fabienne,Carnegie Harriers,FV40,00:38:20
-35,Murdoch,John,Fife AC,MV,00:38:23
-36,Morton,Jim,Fife AC,MV40,00:38:34
-37,O`Brien,Paul,Corstorphine AAC,MV45,00:38:40
-38,Osborne,David,Lomond Hill Runners,MV40,00:38:57
-39,Knox,Bill,Teviotdale,MV50,00:39:07
-40,Sanders,Eddie,Fife AC,MV55,00:39:18
-41,Beyts,Angus,Forfar Road Runners,MV45,00:39:27
-42,Kerr,Hugh,Central AC,MV40,00:39:30
-43,Fitzpatrick,Kate,Fife AC,FV35,00:39:33
-44,Kerr,Conor,Central AC,MJ,00:39:37
-45,Wardlaw,Eilidh,HBT,FS,00:39:47
-46,Kennovin,Gordon,Unattached,MV40,00:39:55
-47,Bowman,Angus,Beacon Runners,MV45,00:40:00
-48,Fields,Daniel,Dundee Road Runners,MS,00:40:01
-49,Wilson,Alan,Fife AC,MS,00:40:03
-50,Hawkins,Ian,Fife AC,MV40,00:40:06
-51,Mclachlan,Roy,Fife AC,MV55,00:40:23
-52,Smith,Gavin,Unattached,MS,00:40:24
-53,Cromar,Steve,Dundee Hawkhill,MV65,00:40:25
-54,Davies,Jon,Unattached,MV40,00:40:29
-55,Hutson,Liam,Fife AC,MJ U14,00:40:36
-56,Scott,Jocelyn,Fife AC,FV50,00:40:46
-57,McIntosh,Ryan,Fife AC,MJ U14,00:40:47
-58,Biggar,Stewart,Fife AC,MV40,00:40:48
-59,Allison,Bob,Fife AC,MV45,00:40:55
+1,Russell,Chris,Fife AC,M,00:30:35
+2,Anthony,Alasdair,Ochil Hill Runners,M,00:30:43
+3,Jones,Alex,Fife AC,M17,00:31:50
+4,Cruickshank,Brian,Fife AC,M40,00:32:31
+5,Munro,Niall,HBT,M,00:32:42
+6,Mitchell,Terry,Fife AC,M45,00:33:22
+7,Weir,Dave,Fife AC,M45,00:33:25
+8,Scott,Tom,Fife AC,M55,00:33:29
+9,Bennet,Sandy,Carnegie Harriers,M40,00:33:35
+10,Leslie,Nick,Dundee Road Runners,M,00:33:39
+11,Kay,John,Fife AC,M,00:33:44
+12,Burgess,David,Anster Haddies,M,00:34:15
+13,Anderson,Laurie,Fife AC,M45,00:34:24
+14,Farquhar,Jeff,Pitreavie,M45,00:34:38
+15,Arnott,Luke,Westerlands,M,00:34:41
+16,Gunstone,Neil,Dundee Hawkhill,M,00:34:54
+17,Broadbent,Chris,HELP,M,00:35:02
+18,Marshall,Lesley,Stirling Tri,F,00:35:10
+19,Johnston,Ian Robert,Carnegie Harriers,M40,00:35:34
+20,Bagnall,Ali,Fife AC,M45,00:35:43
+21,Howett,Andrew,Fife AC,M,00:35:46
+22,Pryde,Gordon,Lomond Hill Runners,M45,00:35:47
+23,Davidson,Richard,Dundee Road Runners,M45,00:35:50
+24,Legge,Sarah,Carnegie Harriers,F,00:36:00
+25,Hanlon,Dave,Dundee Hawkhill,M45,00:36:08
+26,Popham,Frank,Fife AC,M,00:36:13
+27,Love,Craig,Dundee Hawkhill,M,00:36:14
+28,Galbraith,Jim,Giffnock North,M45,00:36:19
+29,Kirby,Graham,Fife AC,M,00:36:31
+30,Harper,John,Unattached,M,00:36:37
+31,Harley,Mark,Fife AC,M19,00:36:55
+32,Begley,Tommy,Irvine AC,M,00:37:31
+33,Downie,William,Greenock Glenpark,M18,00:37:46
+34,Thompson,Fabienne,Carnegie Harriers,F40,00:38:20
+35,Murdoch,John,Fife AC,M,00:38:23
+36,Morton,Jim,Fife AC,M40,00:38:34
+37,O`Brien,Paul,Corstorphine AAC,M45,00:38:40
+38,Osborne,David,Lomond Hill Runners,M40,00:38:57
+39,Knox,Bill,Teviotdale,M50,00:39:07
+40,Sanders,Eddie,Fife AC,M55,00:39:18
+41,Beyts,Angus,Forfar Road Runners,M45,00:39:27
+42,Kerr,Hugh,Central AC,M40,00:39:30
+43,Fitzpatrick,Kate,Fife AC,F35,00:39:33
+44,Kerr,Conor,Central AC,M16,00:39:37
+45,Wardlaw,Eilidh,HBT,F,00:39:47
+46,Kennovin,Gordon,Unattached,M40,00:39:55
+47,Bowman,Angus,Beacon Runners,M45,00:40:00
+48,Fields,Daniel,Dundee Road Runners,M,00:40:01
+49,Wilson,Alan,Fife AC,M,00:40:03
+50,Hawkins,Ian,Fife AC,M40,00:40:06
+51,Mclachlan,Roy,Fife AC,M55,00:40:23
+52,Smith,Gavin,Unattached,M,00:40:24
+53,Cromar,Steve,Dundee Hawkhill,M65,00:40:25
+54,Davies,Jon,Unattached,M40,00:40:29
+55,Hutson,Liam,Fife AC,M14,00:40:36
+56,Scott,Jocelyn,Fife AC,F50,00:40:46
+57,McIntosh,Ryan,Fife AC,M14,00:40:47
+58,Biggar,Stewart,Fife AC,M40,00:40:48
+59,Allison,Bob,Fife AC,M45,00:40:55
 60,Kibble,Jennifer,Fife AC,FJ U17,00:40:58
-61,Mitchell,Phyllis,Corstorphine AAC,FV45,00:41:06
-62,Hart,Jane,HBT,FS,00:41:09
-63,Mclaren,Margaret,Fife AC,FV45,00:41:30
-64,Mallett,Pat,Lomond Hill Runners,MV40,00:41:34
+61,Mitchell,Phyllis,Corstorphine AAC,F45,00:41:06
+62,Hart,Jane,HBT,F,00:41:09
+63,Mclaren,Margaret,Fife AC,F45,00:41:30
+64,Mallett,Pat,Lomond Hill Runners,M40,00:41:34
 65,Jarvis,Claire,Fife AC,FJ U18,00:41:58
-66,Clark,Anthony,Unattached,MS,00:42:08
-67,Greer,Stephen,Carnegie Harriers,MV,00:42:12
-68,Murray,John,Unattached,MV40,00:42:37
-69,Macdonald,R,Unattached,MV55,00:42:44
+66,Clark,Anthony,Unattached,M,00:42:08
+67,Greer,Stephen,Carnegie Harriers,M,00:42:12
+68,Murray,John,Unattached,M40,00:42:37
+69,Macdonald,R,Unattached,M55,00:42:44
 70,Lloyd-Evans,Anne,Fife AC,FJ U17,00:42:59
-71,Granger,Moira,Fife AC,FV40,00:43:03
+71,Granger,Moira,Fife AC,F40,00:43:03
 72,Duff,Lucy,Fife AC,FJ U13,00:43:18
-73,Mclaren,Frank,Fife AC,MV55,00:43:20
-74,Ritchie,Hilary,Fife AC,FV40,00:43:21
-75,Thornton,Bob,Fife AC,MV45,00:43:36
-76,Morrison,Colin,Unattached,MV45,00:43:46
-77,Lemoncello,Phyllis,Fife AC,FV55,00:44:00
-78,Anderson,Adam,Dumfries RC,MV60,00:44:27
-79,Cox,Byron,Unattached,MV40,00:45:05
-80,Macdonald,Deborah,HBT,FV45,00:45:24
-81,Brearley,Kenneth,Unattached,MV40,00:45:27
-82,Lambie,Peter,Fife AC,MV40,00:45:32
-83,Leslie,Nick,Dundee Road Runners,MS,00:45:33
-84,Bennison,Graham,Fife AC,MV55,00:45:34
-85,Davidson,Stewart,Unattached,MV55,00:45:40
-86,Bracegirdle,Innes,Fife AC,FV50,00:45:49
-87,Breveridge,Bob,Lomond Hill Runners,MV60,00:45:52
-88,Mcmanus,Ian,Irvine AC,MV60,00:46:01
-89,Wilson,Scott,Unattached,MV45,00:46:04
-90,Francis,Dave,Fife AC,MV55,00:46:08
-91,Knox,Lindsey,Teviotdale,FV45,00:46:09
-92,Walker,Fiona,Fife AC,FV40,00:46:25
-93,Meiklejohn,Alan,Fife AC,MV50,00:46:53
-94,Keenlyside,John,Fife AC,MV50,00:46:56
-95,Hanlon,Lyn,Unattached,FV40,00:47:09
-96,Rennet,Miriam,Dundee Road Runners,FV40,00:47:35
-97,Winning,Jim,Beacon Runners,MV50,00:47:52
-98,Downie,Bill,Greenock Glenpark,MV50,00:48:31
-99,Gould,Norman,HBT,MV60,00:48:57
-100,Kuzyszyn,Michael,Fife AC,MV50,00:49:05
-101,Pether-Smith,Kate,Fife AC,FV35,00:49:16
-102,Scott,John,Fife AC,MV60,00:49:34
-103,Hutton,Martin,Fife AC,MV40,00:49:50
-104,Wright,Andrew,Fife AC,MV60,00:50:31
-105,Fleming,Morna,Carnegie Harriers,FV50,00:50:45
-106,Stark,Robert,Fife AC,MV65,00:51:25
-107,Bowman,Jean,Beacon Runners,FV45,00:51:29
-108,Robertson,Alastair,Fife AC,MV60,00:51:49
-109,Kirby,Charlotte,Fife AC,FV40,00:52:19
-110,Paterson,Maurice,Fife AC,MS,00:52:26
-111,Johnston,Charlotte,Unattached,FV40,00:55:54
-112,Ingledew,Margaret,Fife AC,FV45,01:01:15
+73,Mclaren,Frank,Fife AC,M55,00:43:20
+74,Ritchie,Hilary,Fife AC,F40,00:43:21
+75,Thornton,Bob,Fife AC,M45,00:43:36
+76,Morrison,Colin,Unattached,M45,00:43:46
+77,Lemoncello,Phyllis,Fife AC,F55,00:44:00
+78,Anderson,Adam,Dumfries RC,M60,00:44:27
+79,Cox,Byron,Unattached,M40,00:45:05
+80,Macdonald,Deborah,HBT,F45,00:45:24
+81,Brearley,Kenneth,Unattached,M40,00:45:27
+82,Lambie,Peter,Fife AC,M40,00:45:32
+83,Leslie,Nick,Dundee Road Runners,M,00:45:33
+84,Bennison,Graham,Fife AC,M55,00:45:34
+85,Davidson,Stewart,Unattached,M55,00:45:40
+86,Bracegirdle,Innes,Fife AC,F50,00:45:49
+87,Breveridge,Bob,Lomond Hill Runners,M60,00:45:52
+88,Mcmanus,Ian,Irvine AC,M60,00:46:01
+89,Wilson,Scott,Unattached,M45,00:46:04
+90,Francis,Dave,Fife AC,M55,00:46:08
+91,Knox,Lindsey,Teviotdale,F45,00:46:09
+92,Walker,Fiona,Fife AC,F40,00:46:25
+93,Meiklejohn,Alan,Fife AC,M50,00:46:53
+94,Keenlyside,John,Fife AC,M50,00:46:56
+95,Hanlon,Lyn,Unattached,F40,00:47:09
+96,Rennet,Miriam,Dundee Road Runners,F40,00:47:35
+97,Winning,Jim,Beacon Runners,M50,00:47:52
+98,Downie,Bill,Greenock Glenpark,M50,00:48:31
+99,Gould,Norman,HBT,M60,00:48:57
+100,Kuzyszyn,Michael,Fife AC,M50,00:49:05
+101,Pether-Smith,Kate,Fife AC,F35,00:49:16
+102,Scott,John,Fife AC,M60,00:49:34
+103,Hutton,Martin,Fife AC,M40,00:49:50
+104,Wright,Andrew,Fife AC,M60,00:50:31
+105,Fleming,Morna,Carnegie Harriers,F50,00:50:45
+106,Stark,Robert,Fife AC,M65,00:51:25
+107,Bowman,Jean,Beacon Runners,F45,00:51:29
+108,Robertson,Alastair,Fife AC,M60,00:51:49
+109,Kirby,Charlotte,Fife AC,F40,00:52:19
+110,Paterson,Maurice,Fife AC,M,00:52:26
+111,Johnston,Charlotte,Unattached,F40,00:55:54
+112,Ingledew,Margaret,Fife AC,F45,01:01:15

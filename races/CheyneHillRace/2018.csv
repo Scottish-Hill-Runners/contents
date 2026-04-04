@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Battle,Hamish,Metro Aberdeen Running Club,M,00:25:09
 2,Bristow,Owain,Aberdeen AAC,M,00:28:00
-3,Benton,Josh,Deeside Runners,MJ,00:28:03
+3,Benton,Josh,Deeside Runners,M16,00:28:03
 4,Gordon,Ryan,Stonehaven Running Club,M,00:28:21
 5,Knight,Paul,Metro Aberdeen Running Club,M,00:28:48
 6,Pringle,Stuart,Deeside Runners,M,00:29:04
@@ -41,7 +41,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 40,Milne,Ronald,Forfar Road Runners,M60,00:38:03
 41,O'Toole,Sarah,Cosmics,F,00:39:15
 42,Keenan,Jimmy,Forfar Road Runners,M50,00:39:25
-43,Entwistle,Katie,Deeside Runners,FJ,00:39:39
+43,Entwistle,Katie,Deeside Runners,F16,00:39:39
 44,Lornie,Graeme,Jogscotland Hazlehead,M50,00:40:19
 45,Chalmers,Quintin,Unattached,M40,00:40:35
 46,Grewar,Lucy,Forfar Road Runners,F,00:40:53

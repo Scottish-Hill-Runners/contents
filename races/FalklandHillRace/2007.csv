@@ -1,53 +1,53 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Ottemoller,Lars,Carnethy Hill Runners,MS,00:22:03
-2,Higginbottom,Mark,Carnethy Hill Runners,MS,00:23:01
-3,Cruickshank,Brian,Fife AC,MV40,00:23:04
-4,Hood,Andrew,Fife AC,MJ U15,00:23:27
-5,Harris,Mark,Fife AC,MS,00:23:51
-6,Laing,Martin,Fife AC,MV50,00:24:10
-7,Pryde,Gordon,Lomond Hill Runners,MV45,00:24:16
-8,Hunter,Andrew,Carnegie Harriers,MS,00:24:49
-9,McCraw,Ron,Ochil Hill Runners,MV45,00:25:51
-10,Ross,Tom,Fife AC,MV60,00:26:02
-11,Mitchell,Mike,Fife AC,MV40,00:26:14
-12,Buchannan,Peter,Ochil Hill Runners,MV45,00:26:22
-13,Hutson,Liam,Fife AC,MJ U15,00:26:24
-14,Buchannan,Hugh,Central AC,MV45,00:26:28
-15,McGarry,Douglas,Carnegie Harriers,MV40,00:26:43
-16,Poolman,Ian,Fife AC,MS,00:27:03
-17,Pearman,John,Glasgow Uni H&H,MS,00:27:31
-18,Fowler,Nigel,Fife AC,MS,00:27:35
-19,Shiell,Dougie,Carnethy Hill Runners,MV40,00:27:39
+1,Ottemoller,Lars,Carnethy Hill Runners,M,00:22:03
+2,Higginbottom,Mark,Carnethy Hill Runners,M,00:23:01
+3,Cruickshank,Brian,Fife AC,M40,00:23:04
+4,Hood,Andrew,Fife AC,M15,00:23:27
+5,Harris,Mark,Fife AC,M,00:23:51
+6,Laing,Martin,Fife AC,M50,00:24:10
+7,Pryde,Gordon,Lomond Hill Runners,M45,00:24:16
+8,Hunter,Andrew,Carnegie Harriers,M,00:24:49
+9,McCraw,Ron,Ochil Hill Runners,M45,00:25:51
+10,Ross,Tom,Fife AC,M60,00:26:02
+11,Mitchell,Mike,Fife AC,M40,00:26:14
+12,Buchannan,Peter,Ochil Hill Runners,M45,00:26:22
+13,Hutson,Liam,Fife AC,M15,00:26:24
+14,Buchannan,Hugh,Central AC,M45,00:26:28
+15,McGarry,Douglas,Carnegie Harriers,M40,00:26:43
+16,Poolman,Ian,Fife AC,M,00:27:03
+17,Pearman,John,Glasgow Uni H&H,M,00:27:31
+18,Fowler,Nigel,Fife AC,M,00:27:35
+19,Shiell,Dougie,Carnethy Hill Runners,M40,00:27:39
 20,Rees,Halina,Fife AC,FJ U13,00:27:39
-21,Bowie,Tom,Fife AC,MV60,00:28:15
-22,Osborne,David,Lomond Hill Runners,MV45,00:28:24
-23,Gamble,Lisa,Fife AC,FS,00:28:31
-24,Mallett,Pat,Lomond Hill Runners,MV40,00:28:39
+21,Bowie,Tom,Fife AC,M60,00:28:15
+22,Osborne,David,Lomond Hill Runners,M45,00:28:24
+23,Gamble,Lisa,Fife AC,F,00:28:31
+24,Mallett,Pat,Lomond Hill Runners,M40,00:28:39
 25,Duff,Lucy,Fife AC,FJ U13,00:28:57
-26,Rees,Logan,Fife AC,MJ U11,00:29:39
-27,Buchannan,Andrina,Central AC,FV40,00:29:46
-28,McDonald,John,Carnegie Harriers,MV40,00:30:08
-29,Lang,James,Carnegie Harriers,MV50,00:30:15
-30,McLeod,Douglas,Unatt,MJ U20,00:31:31
-31,McGuire,Kenneth,Fife AC,MV50,00:31:37
-32,Smith,Brian,Unatt.,MV40,00:31:38
-33,Macdonald,Deborah,H.B.T.,FV45,00:31:47
-34,Gallagher,Geordie,Unatt,MJ U15,00:31:49
+26,Rees,Logan,Fife AC,M11,00:29:39
+27,Buchannan,Andrina,Central AC,F40,00:29:46
+28,McDonald,John,Carnegie Harriers,M40,00:30:08
+29,Lang,James,Carnegie Harriers,M50,00:30:15
+30,McLeod,Douglas,Unatt,M20,00:31:31
+31,McGuire,Kenneth,Fife AC,M50,00:31:37
+32,Smith,Brian,Unatt.,M40,00:31:38
+33,Macdonald,Deborah,H.B.T.,F45,00:31:47
+34,Gallagher,Geordie,Unatt,M15,00:31:49
 35,Bucannan,Kirsty,Central AC,FJ U11,00:31:54
 36,Westland,Fern,Unatt,FJ U12,00:32:27
-37,Osborne,Robert,Lomond Hill Runners,MJ U13,00:32:30
-38,Hood,Andrew,Fife AC,MJ U15,00:32:40
-39,Harris,Tom,Fife AC,MJ U11,00:32:43
-40,Stephen,Alastair,Unatt,MV50,00:33:13
-41,Beveridge,Bob,Lomond Hill Runners,MV60,00:33:25
-42,Ingledew,Jamie,Fife AC,MJ U11,00:35:11
-43,Stark,Bob,Fife AC,MV65,00:35:26
+37,Osborne,Robert,Lomond Hill Runners,M13,00:32:30
+38,Hood,Andrew,Fife AC,M15,00:32:40
+39,Harris,Tom,Fife AC,M11,00:32:43
+40,Stephen,Alastair,Unatt,M50,00:33:13
+41,Beveridge,Bob,Lomond Hill Runners,M60,00:33:25
+42,Ingledew,Jamie,Fife AC,M11,00:35:11
+43,Stark,Bob,Fife AC,M65,00:35:26
 44,Rees,Tristran,Fife AC,MJ U9,00:35:30
-45,McLeod,Rowan,Unatt,MJ U11,00:35:42
-46,Wall,Dick,H.B.T.,MV50,00:35:44
-47,Watt,Michael,Unatt,MJ U15,00:39:31
-48,Davidson,Derek,Unatt,MV40,00:40:04
-49,Wilkie,Dale,Unatt,MJ U12,00:40:21
+45,McLeod,Rowan,Unatt,M11,00:35:42
+46,Wall,Dick,H.B.T.,M50,00:35:44
+47,Watt,Michael,Unatt,M15,00:39:31
+48,Davidson,Derek,Unatt,M40,00:40:04
+49,Wilkie,Dale,Unatt,M12,00:40:21
 50,Bell,Haley,Unatt,FJ U14,00:47:44
-51,Bell,David,Unatt,MJ U13,00:48:28
-52,Ingledew,Margaret,Fife AC,FV50,00:48:47
+51,Bell,David,Unatt,M13,00:48:28
+52,Ingledew,Margaret,Fife AC,F50,00:48:47

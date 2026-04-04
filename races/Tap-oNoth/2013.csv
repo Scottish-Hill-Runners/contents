@@ -1,133 +1,133 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Greig,Kyle,Forres Harriers,MS,00:33:26
-2,Sullivan,Matthew,Shettleston,MS,00:34:17
-3,Bellamy,Gwyn,Westerlands,MS,00:34:42
-4,Anthony,Alasdair,Ochil HR,MS,00:34:45
-5,Harris,Mark,Fife AC,MV40,00:34:48
-6,Whitlie,Stewart,Carnethy,MV50,00:35:07
-7,Hoad,James,Cambridge Uni,MS,00:35:10
-8,Campbell,Ross,Edinburgh Uni,MS,00:35:32
-9,Eiser,Dave,Ochil HR,MS,00:35:52
-10,Hutchinson,Charles,HBT,MS,00:36:04
-11,Gilmore,Andrew,Carnethy,MS,00:36:12
-12,Gorman,Manny,Westerlands,MV40,00:36:26
-13,Stewart,Iain,Westerlands,MS,00:36:34
-14,Mudge,Angela,Carnethy,FV40,00:36:35
-15,Smith,Stuart,Cosmic,MS,00:36:54
-16,Callender,James,Westerlands,MS,00:37:18
-17,Fulton,David,HBT,MS,00:37:28
-18,Abrahams,Ben,Cosmic,MS,00:37:35
-19,O'Neil,Owen,Westerlands,MS,00:38:00
-20,Smith,Alan,Deeside Runners,MV50,00:38:16
-21,Gilmore,Iain,Carnethy,MS,00:39:00
-22,Love,Craig,Dundee Hawkhill,MV40,00:39:13
-23,Morgan,Charlotte,Carnethy,FS,00:39:16
-24,Tomlin,Chris,Cosmic,MV40,00:39:36
-25,Williamson,Jason,Cosmic,MV40,00:39:52
-26,Mardall,Nick,Deeside Runners,MV40,00:40:16
-27,Binnie,John,Lochaber AC,MV40,00:40:24
-28,Jervis,Graeme,HBT,MV50,00:41:11
-29,Gilmore,Niel,Carnethy,MV50,00:41:22
-30,Paterson,Ewan,Moray RR,MV60,00:41:24
-31,Oldham,Veronique,Cosmic,FV40,00:41:24
-32,Taylor,Luke,Highland HR,MS,00:41:27
-33,Murray,Keith,Teviotdale Harriers,MV40,00:41:29
-34,Matthews,Steve,Dundee Hawkhill,MV40,00:41:32
-35,Anderson,Adam,Carnethy,MV40,00:41:41
-36,Wilson,Stewart,Inverness Harriers,MV40,00:41:53
-37,Forrest,Stuart,Highland HR,MS,00:41:58
-38,Smart,Bryan,U/A,MV40,00:42:04
-39,McDonald,Dennis,Cosmic,MV40,00:42:15
-40,Larmour,Colin,Cosmic,MV40,00:42:27
-41,Drummond,Fraser,U/A,MS,00:42:36
-42,Robertson,Shona,Shettleston,FV40,00:42:41
-43,Evans,Neah,Shettleston,FS,00:42:51
-44,Ryan,John,Carnethy,MS,00:42:59
-45,Mitchell,Dave,Dundee Hawkhill,MV50,00:43:04
-46,Watson,Dan,Lochtayside,MV40,00:43:04
-47,Houston,Val,Westerlands,FV40,00:43:05
-48,Hawkins,Ian,Fife AC,MV50,00:43:08
-49,Addy,Stephen,Cosmic,MS,00:43:08
-50,Ord,Steven,Deeside Runners,MV40,00:43:10
-51,Murray,Rab,Darkside,MV40,00:43:18
-52,Whiteside,Gavin,Highland HR,MS,00:43:25
-53,Angus,Gerald,Keith & District,MV50,00:43:28
-54,Largey,Ciara,Cosmic,FS,00:43:30
-55,Bass,Owen,Deeside Runners,MV50,00:43:31
-56,Urquart,John,U/A,MV40,00:43:40
-57,Pott,Tim,U/A,MV40,00:43:51
-58,Higginbottom,Jacquie,Carnethy,FV40,00:43:57
-59,Armitage,Sonia,Cosmic,FV50,00:44:04
-60,Hart,Matthew,U/A,MS,00:44:30
-61,Galloway,Mike,Dundee Hawkhill,MV40,00:44:41
-62,Anderson,Russell,Moorfoot,MV50,00:44:43
-63,McFadzean,Peter,Statoil,MS,00:44:44
-64,Ingram,Richard,Garioch RR,MV40,00:44:45
-65,MacKenzie,Ruth,Deeside Runners,FV40,00:44:59
-66,Finlay,Alayne,Ochil HR,FS,00:45:40
-67,Clark,David,U/A,MV40,00:45:55
-68,Milligan,Dougie,Solway,MV60,00:46:04
-69,Taylor,Gordie,Highland HR,MV50,00:46:20
-70,Forte,Phil,Dundee Hawkhill,MV50,00:46:24
-71,Wardlaw,Eilidh,HBT,FS,00:46:54
-72,Adam,Sarah,Westerlands,FS,00:47:19
-73,Macleod,Murdo,Westerlands,MV60,00:47:25
-74,Ritchie,Hilary,Fife AC,F V50,00:47:33
-75,Bradley,Ed,Highland HR,MV40,00:47:46
-76,Blairfish,John,Carnethy,MV60,00:47:57
-77,Hamer,John,Westerlands,MV50,00:48:18
-78,Douglas,George,Westerlands,MV40,00:48:22
-79,Hamilton,Ian,Cosmic,MV50,00:48:26
-80,Hamilton,Anita,Cosmic,FV50,00:48:33
-81,Turner,David,Lomond Hill Runners,MV40,00:48:46
-82,Burgess,Warren,Deeside Runners,MV50,00:48:56
-83,Coles,Rob,Cosmic,MV60,00:48:58
-84,Wilson,Cain,Carnethy,MV50,00:49:09
-85,Bee,Megan,HHR,FS,00:49:20
-86,Auce,Pauls,Westerlands,MS,00:49:20
-87,Dawson,Phil,Garioch RR,MV40,00:49:28
-88,Kealey,Karen,Ochil HR,FV40,00:49:32
-89,Stone,Michael,Cosmic,MV50,00:49:46
-90,Clark,Lesley,U/A,FS,00:49:52
-91,Shirretts,John-Paul,U/A,MV40,00:50:02
-92,Reid,Colin,Cosmic,MV40,00:50:07
-93,Ostmo,Emilie,Strindheim,FS,00:50:07
-94,Black,Corri,Donside Chainsaw,FV40,00:50:15
-95,Kennedy,Steve,Lochaber AC,MV50,00:50:15
-96,Menhennet,Christine,Westerlands,FV50,00:50:22
-97,McDonald,Fiona,Cosmic,FS,00:50:24
-98,Payton,Sean,U/A,MS,00:50:25
-99,Maass,Digby,Carnethy,MV60,00:50:30
-100,Kelsall,Fiona,Ochil HR,FV40,00:50:51
-101,McLean,Herbie,Loch Tayside,MV60,00:50:52
-102,Brown,Roger,U/A,MS,00:50:59
-103,Eaton,Jane,Darkside,FV40,00:51:13
-104,Wilson,Joan,Carnethy,FV50,00:51:16
-105,Evans,Ros,Westerlands,FV60,00:51:17
-106,Jumelle,Jean,Carnethy,MV60,00:51:20
-107,Ostmo,Svend,Statoil,MV40,00:51:21
-108,Gutteridge,Gary,Cosmic,MV50,00:51:24
-109,Midgley,Peter,Westerlands,MV50,00:52:05
-110,Williams,Rupert,Cosmic,MV50,00:52:05
-111,McPherson,Hugh,Tinto HR,MV60,00:52:12
-112,Black,Colleen,The Darkside,FS,00:52:20
-113,McInally,John,Westerlands,MV50,00:52:42
-114,Brennan,Brian,Westerlands,MV50,00:53:26
-115,Tunstall,Duncan,Deeside Runners,MV50,00:53:26
-116,Burns,Keith,Carnethy,MV70,00:53:50
-117,Oliver,David,Deeside Runners,MV50,00:54:07
-118,MacKenzie,Iain,Deeside Runners,MV50,00:54:24
-119,Taylor,Colin,Cosmic,MV50,00:54:33
-120,Fraser,Olwen,The Darkside,FV40,00:55:22
-121,MacPherson,Helen,Westerlands,FV50,00:55:58
-122,Kennedy,Nancy,Lochaber AC,FV50,00:56:37
-123,Musgrave,Frank,Three Peaks Triathlon,MV60,00:57:24
-124,Grainger,Moira,Fife AC,FV50,00:57:31
-125,Gatehouse,Richard,Lomond Hill Runners,MV60,00:57:59
-126,Milmoe,Michael,Forres Harriers,MV60,00:59:02
-127,Francis,David,Fife AC,MV60,00:59:23
-128,Oliver,Jane,Deeside Runners,FV50,01:01:43
-129,Paul,Brenda,Westerlands,FS,01:04:12
-130,Love,Charlie,Dundee Hawkhill,MV60,01:06:04
-131,McGregor,Martin,Deeside Runners,MV50,01:06:12
-132,Wright,James,HBT,MV50,01:07:54
+1,Greig,Kyle,Forres Harriers,M,00:33:26
+2,Sullivan,Matthew,Shettleston,M,00:34:17
+3,Bellamy,Gwyn,Westerlands,M,00:34:42
+4,Anthony,Alasdair,Ochil HR,M,00:34:45
+5,Harris,Mark,Fife AC,M40,00:34:48
+6,Whitlie,Stewart,Carnethy,M50,00:35:07
+7,Hoad,James,Cambridge Uni,M,00:35:10
+8,Campbell,Ross,Edinburgh Uni,M,00:35:32
+9,Eiser,Dave,Ochil HR,M,00:35:52
+10,Hutchinson,Charles,HBT,M,00:36:04
+11,Gilmore,Andrew,Carnethy,M,00:36:12
+12,Gorman,Manny,Westerlands,M40,00:36:26
+13,Stewart,Iain,Westerlands,M,00:36:34
+14,Mudge,Angela,Carnethy,F40,00:36:35
+15,Smith,Stuart,Cosmic,M,00:36:54
+16,Callender,James,Westerlands,M,00:37:18
+17,Fulton,David,HBT,M,00:37:28
+18,Abrahams,Ben,Cosmic,M,00:37:35
+19,O'Neil,Owen,Westerlands,M,00:38:00
+20,Smith,Alan,Deeside Runners,M50,00:38:16
+21,Gilmore,Iain,Carnethy,M,00:39:00
+22,Love,Craig,Dundee Hawkhill,M40,00:39:13
+23,Morgan,Charlotte,Carnethy,F,00:39:16
+24,Tomlin,Chris,Cosmic,M40,00:39:36
+25,Williamson,Jason,Cosmic,M40,00:39:52
+26,Mardall,Nick,Deeside Runners,M40,00:40:16
+27,Binnie,John,Lochaber AC,M40,00:40:24
+28,Jervis,Graeme,HBT,M50,00:41:11
+29,Gilmore,Niel,Carnethy,M50,00:41:22
+30,Paterson,Ewan,Moray RR,M60,00:41:24
+31,Oldham,Veronique,Cosmic,F40,00:41:24
+32,Taylor,Luke,Highland HR,M,00:41:27
+33,Murray,Keith,Teviotdale Harriers,M40,00:41:29
+34,Matthews,Steve,Dundee Hawkhill,M40,00:41:32
+35,Anderson,Adam,Carnethy,M40,00:41:41
+36,Wilson,Stewart,Inverness Harriers,M40,00:41:53
+37,Forrest,Stuart,Highland HR,M,00:41:58
+38,Smart,Bryan,U/A,M40,00:42:04
+39,McDonald,Dennis,Cosmic,M40,00:42:15
+40,Larmour,Colin,Cosmic,M40,00:42:27
+41,Drummond,Fraser,U/A,M,00:42:36
+42,Robertson,Shona,Shettleston,F40,00:42:41
+43,Evans,Neah,Shettleston,F,00:42:51
+44,Ryan,John,Carnethy,M,00:42:59
+45,Mitchell,Dave,Dundee Hawkhill,M50,00:43:04
+46,Watson,Dan,Lochtayside,M40,00:43:04
+47,Houston,Val,Westerlands,F40,00:43:05
+48,Hawkins,Ian,Fife AC,M50,00:43:08
+49,Addy,Stephen,Cosmic,M,00:43:08
+50,Ord,Steven,Deeside Runners,M40,00:43:10
+51,Murray,Rab,Darkside,M40,00:43:18
+52,Whiteside,Gavin,Highland HR,M,00:43:25
+53,Angus,Gerald,Keith & District,M50,00:43:28
+54,Largey,Ciara,Cosmic,F,00:43:30
+55,Bass,Owen,Deeside Runners,M50,00:43:31
+56,Urquart,John,U/A,M40,00:43:40
+57,Pott,Tim,U/A,M40,00:43:51
+58,Higginbottom,Jacquie,Carnethy,F40,00:43:57
+59,Armitage,Sonia,Cosmic,F50,00:44:04
+60,Hart,Matthew,U/A,M,00:44:30
+61,Galloway,Mike,Dundee Hawkhill,M40,00:44:41
+62,Anderson,Russell,Moorfoot,M50,00:44:43
+63,McFadzean,Peter,Statoil,M,00:44:44
+64,Ingram,Richard,Garioch RR,M40,00:44:45
+65,MacKenzie,Ruth,Deeside Runners,F40,00:44:59
+66,Finlay,Alayne,Ochil HR,F,00:45:40
+67,Clark,David,U/A,M40,00:45:55
+68,Milligan,Dougie,Solway,M60,00:46:04
+69,Taylor,Gordie,Highland HR,M50,00:46:20
+70,Forte,Phil,Dundee Hawkhill,M50,00:46:24
+71,Wardlaw,Eilidh,HBT,F,00:46:54
+72,Adam,Sarah,Westerlands,F,00:47:19
+73,Macleod,Murdo,Westerlands,M60,00:47:25
+74,Ritchie,Hilary,Fife AC,F50,00:47:33
+75,Bradley,Ed,Highland HR,M40,00:47:46
+76,Blairfish,John,Carnethy,M60,00:47:57
+77,Hamer,John,Westerlands,M50,00:48:18
+78,Douglas,George,Westerlands,M40,00:48:22
+79,Hamilton,Ian,Cosmic,M50,00:48:26
+80,Hamilton,Anita,Cosmic,F50,00:48:33
+81,Turner,David,Lomond Hill Runners,M40,00:48:46
+82,Burgess,Warren,Deeside Runners,M50,00:48:56
+83,Coles,Rob,Cosmic,M60,00:48:58
+84,Wilson,Cain,Carnethy,M50,00:49:09
+85,Bee,Megan,HHR,F,00:49:20
+86,Auce,Pauls,Westerlands,M,00:49:20
+87,Dawson,Phil,Garioch RR,M40,00:49:28
+88,Kealey,Karen,Ochil HR,F40,00:49:32
+89,Stone,Michael,Cosmic,M50,00:49:46
+90,Clark,Lesley,U/A,F,00:49:52
+91,Shirretts,John-Paul,U/A,M40,00:50:02
+92,Reid,Colin,Cosmic,M40,00:50:07
+93,Ostmo,Emilie,Strindheim,F,00:50:07
+94,Black,Corri,Donside Chainsaw,F40,00:50:15
+95,Kennedy,Steve,Lochaber AC,M50,00:50:15
+96,Menhennet,Christine,Westerlands,F50,00:50:22
+97,McDonald,Fiona,Cosmic,F,00:50:24
+98,Payton,Sean,U/A,M,00:50:25
+99,Maass,Digby,Carnethy,M60,00:50:30
+100,Kelsall,Fiona,Ochil HR,F40,00:50:51
+101,McLean,Herbie,Loch Tayside,M60,00:50:52
+102,Brown,Roger,U/A,M,00:50:59
+103,Eaton,Jane,Darkside,F40,00:51:13
+104,Wilson,Joan,Carnethy,F50,00:51:16
+105,Evans,Ros,Westerlands,F60,00:51:17
+106,Jumelle,Jean,Carnethy,M60,00:51:20
+107,Ostmo,Svend,Statoil,M40,00:51:21
+108,Gutteridge,Gary,Cosmic,M50,00:51:24
+109,Midgley,Peter,Westerlands,M50,00:52:05
+110,Williams,Rupert,Cosmic,M50,00:52:05
+111,McPherson,Hugh,Tinto HR,M60,00:52:12
+112,Black,Colleen,The Darkside,F,00:52:20
+113,McInally,John,Westerlands,M50,00:52:42
+114,Brennan,Brian,Westerlands,M50,00:53:26
+115,Tunstall,Duncan,Deeside Runners,M50,00:53:26
+116,Burns,Keith,Carnethy,M70,00:53:50
+117,Oliver,David,Deeside Runners,M50,00:54:07
+118,MacKenzie,Iain,Deeside Runners,M50,00:54:24
+119,Taylor,Colin,Cosmic,M50,00:54:33
+120,Fraser,Olwen,The Darkside,F40,00:55:22
+121,MacPherson,Helen,Westerlands,F50,00:55:58
+122,Kennedy,Nancy,Lochaber AC,F50,00:56:37
+123,Musgrave,Frank,Three Peaks Triathlon,M60,00:57:24
+124,Grainger,Moira,Fife AC,F50,00:57:31
+125,Gatehouse,Richard,Lomond Hill Runners,M60,00:57:59
+126,Milmoe,Michael,Forres Harriers,M60,00:59:02
+127,Francis,David,Fife AC,M60,00:59:23
+128,Oliver,Jane,Deeside Runners,F50,01:01:43
+129,Paul,Brenda,Westerlands,F,01:04:12
+130,Love,Charlie,Dundee Hawkhill,M60,01:06:04
+131,McGregor,Martin,Deeside Runners,M50,01:06:12
+132,Wright,James,HBT,M50,01:07:54

@@ -9,7 +9,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Jebb,Rob,Helm Hill Runners,M40,00:53:15
 9,Simpson,Robert,Shettleston Harriers,M,00:53:21
 10,Wilson,Thomas,Edinburgh Uni H&H,M,00:53:27
-11,Lydon,Finn,Carnethy,MJ,00:53:37
+11,Lydon,Finn,Carnethy,M16,00:53:37
 12,Alexander,Sam,Westerlands CCC,M,00:54:04
 13,Ainsworth,Michael,Helm Hill Runners,M,00:54:27
 14,Campbell,Alasdair,Cambuslang Harriers,M,00:55:02
@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Tresidder,Esmond,Lochaber AC,M,00:55:28
 19,Wright,Jack,Ambleside AC,M,00:55:29
 20,Beaven,Alexander,Highland Hill Runners,M,00:55:35
-21,Thomas,Alastair,Edinburgh Uni H&H,MJ,00:55:53
+21,Thomas,Alastair,Edinburgh Uni H&H,M16,00:55:53
 22,Tullie,Douglas,HBT,M,00:56:16
 23,McCutcheon,Sam,Carnethy,M,00:56:28
 24,Flanagan,Dessie,Carnethy,M40,00:56:56
@@ -182,7 +182,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 181,Spenceley,Andrew,Carnethy,M50,01:14:19
 182,Henry,Robert,Musselburgh,M40,01:14:21
 183,Strain,Kirsten,Auld Reekie OS,F,01:14:30
-184,Nicoll,Laura,Unattached,FJ,01:14:33
+184,Nicoll,Laura,Unattached,F16,01:14:33
 185,Hogg,Alan,Carnethy,M60,01:14:39
 186,Lamont,Donald,Lochaber AC,M,01:14:46
 187,Wilson,Richard,Carnethy,M,01:14:59
@@ -325,7 +325,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 324,Lalande,Hilary,Fife AC,F,01:25:24
 325,Ivison,Philippa,Carnethy,F40,01:25:26
 326,Osborn,David,Lomonds,M50,01:26:15
-327,Holland,Arianne,Edinburgh Uni H&H,FJ,01:26:28
+327,Holland,Arianne,Edinburgh Uni H&H,F16,01:26:28
 328,Macdonald,Ali,Carnethy,M50,01:26:35
 329,Wilson,Alison,Horsforth Fellandale Club,F50,01:26:38
 330,Walker,Robert,Penicuik Harriers,M50,01:26:55

@@ -2,11 +2,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Fallon,Steve,Carnethy,M40,0:21:45
 2,Bennet,Sandy,Carnegie Harriers,M40,0:23:04
 3,Laing,Martin,Fife AC,M50,0:23:31
-4,Knox,Thomas,Anster Haddies,MJ,0:23:48
+4,Knox,Thomas,Anster Haddies,M16,0:23:48
 5,Mills,Ian,Anster Haddies,M40,0:23:59
 6,Anderson,Neil,Unattached,M40,0:24:42
 7,Love,Craig,Dundee Hawkhill,M,0:24:56
-8,Jay,Gregoire,Anster Haddies,MJ,0:25:43
+8,Jay,Gregoire,Anster Haddies,M16,0:25:43
 9,Anderson,Laurie,Fife AC,M50,0:26:06
 10,Scott,Tom,Fife AC,M60,0:26:10
 11,Mitchell,Dave,Dundee Hawkhill,M50,0:26:24
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Scott,Jocelyn,Fife AC,F50,0:29:56
 29,Rickman,Glen,Anster Haddies,M40,0:30:12
 30,Sword,Laurence,Unattached,M40,0:30:16
-31,Graham,Robyn,Fife AC,FJ,0:30:19
+31,Graham,Robyn,Fife AC,F16,0:30:19
 32,Osborne,David,Lomond HR,M40,0:30:32
 33,Cowan,David,Fife AC,M40,0:30:53
 34,Phillip,Angela,Falkland Foxes,F40,0:30:54
@@ -39,10 +39,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Smith,Brian,Fife AC,M50,0:32:23
 39,Stephen,Alistair,Unattached,M50,0:33:31
 40,Mallet,Pat,Lomond HR,M40,0:33:34
-41,Westland,Fern,Unattached,FJ,0:33:39
+41,Westland,Fern,Unattached,F16,0:33:39
 42,Stark,Bob,Fife AC,M70,0:34:02
-43,Newell,Jack,Unattached,MJ,0:34:25
-44,Grieve,Rachel,Anster Haddies,FJ,0:35:23
+43,Newell,Jack,Unattached,M16,0:34:25
+44,Grieve,Rachel,Anster Haddies,F16,0:35:23
 45,Mcmanus,Ian,Irvine AC,M60,0:36:30
 46,Scott,John,Fife AC,M60,0:37:03
 47,Sinclair,Melanie,Carnegie Harriers,F,0:37:50

@@ -12,7 +12,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 11,Hope,Danny,Pudsey & Bramley AC,M,00:52:35
 12,Peachey,Simon,Carnethy HRC,M,00:52:45
 13,Whitlie,Stewart,Carnethy HRC,M40,00:53:07
-14,Tullie,Douglas,Edinburgh University Hare & Hounds,MJ,00:53:59
+14,Tullie,Douglas,Edinburgh University Hare & Hounds,M16,00:53:59
 15,Hilton,Andy,York Acorn RC,M,00:54:26
 16,Wellock,Ian,Hunters Bog Trotters,M,00:54:30
 17,Crowe,Des,Shettleston Harriers,M40,00:54:39
@@ -94,7 +94,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 93,Anderson,Laurie,Fife AC,M40,01:03:06
 94,Fleming,Peter,Unattached,M,01:03:07
 95,Kirby,Graham,Fife AC,M40,01:03:08
-96,Dugdale,Jack,Clayton le Moors Harriers,MJ,01:03:08
+96,Dugdale,Jack,Clayton le Moors Harriers,M16,01:03:08
 97,Sharratt,Naimo,Stainland Lions,M,01:03:20
 98,Scott,Tom,Fife AC,M50,01:03:25
 99,Makin,Tim,Durham Fell Runners,M40,01:03:27
@@ -184,7 +184,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 183,Collins,Trevor,Carnethy HRC,M50,01:09:58
 184,Randfield,Simon,Unattached,M40,01:10:05
 185,Strachan,Paul,Unattached,M50,01:10:06
-186,Wood,Jack,Edinburgh University Hare & Hounds,MJ,01:10:08
+186,Wood,Jack,Edinburgh University Hare & Hounds,M16,01:10:08
 187,Fraser,Billy,Teviotdale Harriers,M40,01:10:09
 188,Erskine,Alec,Unattached,M40,01:10:15
 189,Jenkins,Kate,Carnethy HRC,F,01:10:25
@@ -216,7 +216,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 215,Holden,Joe,Fife AC,M60,01:12:26
 216,Shaw,Richard,Fife AC,M50,01:12:27
 217,Hindle,David,Clayton le Moors Harriers,M50,01:12:29
-218,Orr,Hollie,Edinburgh University Hare & Hounds,FJ,01:12:31
+218,Orr,Hollie,Edinburgh University Hare & Hounds,F16,01:12:31
 219,Goodwin,Martyn,Penistone Footpath Runners & AC,M40,01:12:35
 220,Jablonski,Derek,Lomond Hill Runners,M50,01:12:42
 221,Burt,Louise,Fife AC,F40,01:12:44
@@ -273,7 +273,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 272,Firth,Andrew,Clayton le Moors Harriers,M40,01:15:46
 273,Love,Charlie,Dundee Hawkhill Harriers,M60,01:16:05
 274,Nicholson,Rose,Edinburgh University Hare & Hounds,F,01:16:06
-275,Mackenzie,Sarah,Lochaber AC,FJ,01:16:08
+275,Mackenzie,Sarah,Lochaber AC,F16,01:16:08
 276,Morrison,Gordon,Strathearn Harriers,M50,01:16:10
 277,Brettle,Matthew,Cosmic Hill Bashers,M,01:16:12
 278,McDougall,Ian,Carnethy HRC,M,01:16:13
@@ -370,7 +370,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 369,Wilson,Robert,Penicuik Harriers,M,01:27:58
 370,Walker,Peter,Carnethy HRC,M40,01:28:04
 371,Cox,Byron,Hunters Bog Trotters,M40,01:28:11
-372,Young,Amy,Beacon Runners,FJ,01:28:17
+372,Young,Amy,Beacon Runners,F16,01:28:17
 373,McAdam,Pauline,Westerlands CCC,F50,01:28:25
 374,Irving,Keith,Unattached,M,01:28:40
 375,Ross,Colin,Lochaber AC,M,01:28:47
@@ -426,7 +426,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 425,Anderson,Adam,Dumfries Running Club,M60,01:37:09
 426,Hepburn,Jackie,Lochaber AC,F40,01:37:27
 427,Hinde,Susan,Saddleworth Runners,F40,01:37:39
-428,Jarvis,Claire,Fife AC,FJ,01:38:14
+428,Jarvis,Claire,Fife AC,F16,01:38:14
 429,Bowen,Jo,Pennine Fell Runners,F,01:38:30
 430,Little,Vicky,Dumfries Running Club,F,01:39:12
 431,White,Steve,Unattached,M50,01:40:31

@@ -80,7 +80,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 79,Mestecky,Phil,Strathearn Harriers,M,1:03:09
 80,Speight,Chris,Helm Hill Runners,M40,1:03:10
 81,Hutt,Colin,Unattached,M,1:03:10
-82,Patterson,Martin,Triathlon Vust,MJ,1:03:19
+82,Patterson,Martin,Triathlon Vust,M16,1:03:19
 83,Richens,Trevor,Westerlands,M,1:03:21
 84,Hicks,Stephen,Borrowdale Fell Runners,M40,1:03:22
 85,Scott,Tom,Fife AC,M50,1:03:23
@@ -109,7 +109,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 108,Simpson,Rickie,Carnethy,M,1:04:51
 109,Inman,Jason,Ochil Hill Runners,M,1:04:53
 110,Thibault,PJ,Unattached,M,1:04:57
-111,Heron,Kyle,Stag Orienteers,MJ,1:05:02
+111,Heron,Kyle,Stag Orienteers,M16,1:05:02
 112,Spence,Crawford,Westerlands,M,1:05:13
 113,Owen,David,Ambleside,M40,1:05:16
 114,Rathjen,Jon,HBT,M,1:05:22
@@ -151,7 +151,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 150,McGarry,Douglas,Carnegie Harriers,M40,1:07:40
 151,Wallis,Nick,Dark Peak,M,1:07:41
 152,Bearhop,Derek,Carnethy,M40,1:07:45
-153,Bennett,James,Edinburgh Uni H&H,MJ,1:07:47
+153,Bennett,James,Edinburgh Uni H&H,M16,1:07:47
 154,Courtial,Johannes,Westerlands,M,1:07:47
 155,Murgatroyd,Ian,Solway,M40,1:07:52
 156,MacLeod,Murdo,Westerlands,M50,1:07:58
@@ -245,7 +245,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 244,Shearin,Craig,Kilmarnock Harriers,M,1:13:14
 245,Gibson,Willie,Carnethy,M40,1:13:20
 246,Robson,John,Annan & District AC,M40,1:13:23
-247,Strain,Kirsten,East Lothian Orienteers,FJ,1:13:32
+247,Strain,Kirsten,East Lothian Orienteers,F16,1:13:32
 248,Boocock,Katy,Highland Hill Runners,F40,1:13:35
 249,Armstrong,Ian,Carnegie Harriers,M,1:13:39
 250,Byrne,Sara,Lochaber AC,F,1:13:55
@@ -324,7 +324,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 323,Daglish,Graham,Elvet Striders,M50,1:19:56
 324,Stapley,Tony,Portobello,M60,1:19:57
 325,Scott,Kerry,Unattached,F,1:19:58
-326,Kingscott,Fraser,Lothian,MJ,1:20:03
+326,Kingscott,Fraser,Lothian,M16,1:20:03
 327,Eadie,Gordon,Carnethy,M40,1:20:04
 328,Harvey,Graeme,Unattached,M,1:20:06
 329,Unknown,Lynsey,Unattached,F,1:20:09

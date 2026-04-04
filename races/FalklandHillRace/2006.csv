@@ -1,57 +1,57 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Ward,Ray,HBT,M,00:20:37
 2,Ottemoller,Lars,Carnethy,M,00:21:19
-3,Davies,Adrian,Carnethy,V40,00:21:37
+3,Davies,Adrian,Carnethy,M40,00:21:37
 4,Russell,C,Fife AC,F,00:21:57
 5,Simpson,Stuart,Ochil Hill Runners,M,00:22:04
-6,Bennet,Sandy,Carnegie Harriers,V40,00:22:05
+6,Bennet,Sandy,Carnegie Harriers,M40,00:22:05
 7,Munro,N,HBT,M,00:22:29
 8,Leslie,N,Dundee Road Runners,M,00:23:14
-9,Anderson,Laurie,Fife AC,V40,00:23:26
-10,Scott,Tom,Fife AC,V50,00:23:56
-11,Laing,Martin,Fife AC,V40,00:24:03
-12,Hood,A,Fife AC,J,00:24:13
+9,Anderson,Laurie,Fife AC,M40,00:23:26
+10,Scott,Tom,Fife AC,M50,00:23:56
+11,Laing,Martin,Fife AC,M40,00:24:03
+12,Hood,A,Fife AC,M16,00:24:13
 13,Smith,B,Fife AC,M,00:24:20
-14,Bearhop,Derek,Carnethy,V40,00:24:34
-15,Buchannan,P,Ochil Hill Runners,V40,00:24:42
+14,Bearhop,Derek,Carnethy,M40,00:24:34
+15,Buchannan,P,Ochil Hill Runners,M40,00:24:42
 16,Mcpherson,V,Fife AC,M,00:24:50
 17,Mcpherson,J,Fife AC,M,00:24:51
-18,Roberts,C,Unattached,V40,00:25:31
-19,Mills,I,Anster Haddies,V40,00:26:25
-20,Brereton,K,Anster Haddies,V40,00:26:32
-21,Osborn,D,Lomond Hill Runners,V40,00:26:51
-22,Fitzpatrick,Kate,Fife AC,V35,00:27:08
+18,Roberts,C,Unattached,M40,00:25:31
+19,Mills,I,Anster Haddies,M40,00:26:25
+20,Brereton,K,Anster Haddies,M40,00:26:32
+21,Osborn,D,Lomond Hill Runners,M40,00:26:51
+22,Fitzpatrick,Kate,Fife AC,M35,00:27:08
 23,Law,W,Fife AC,M,00:27:19
-24,Bowie,Tom,Carnegie Harriers,V50,00:27:31
-25,Scott,Jocelyn,Fife AC,V50,00:27:54
-26,Thompson,Fabienne,Carnegie Harriers,V35,00:28:11
-27,Forrest,Ian,Penicuik Harriers,V40,00:28:17
-28,Hutson,L,Fife AC,J,00:28:18
-29,Duff,Lucy,Fife AC,J,00:29:19
+24,Bowie,Tom,Carnegie Harriers,M50,00:27:31
+25,Scott,Jocelyn,Fife AC,M50,00:27:54
+26,Thompson,Fabienne,Carnegie Harriers,M35,00:28:11
+27,Forrest,Ian,Penicuik Harriers,M40,00:28:17
+28,Hutson,L,Fife AC,M16,00:28:18
+29,Duff,Lucy,Fife AC,M16,00:29:19
 30,White,I,Unattached,M,00:28:25
 31,Hood,A,Fife AC,M,00:28:26
 32,Moore,B,Unattached,M,00:28:43
-33,Gatehouse,R,Lomond Hill Runners,V50,00:28:50
+33,Gatehouse,R,Lomond Hill Runners,M50,00:28:50
 34,Ferguson,M,Unattached,M,00:28:53
-35,Mallett,P,Lomond Hill Runners,V40,00:28:55
-36,Beveridge,B,Lomond Hill Runners,V60,00:29:43
-37,Aitken,Evie,Carnethy,J,00:30:03
-38,Meiklejohn,A,Fife AC,V55,00:30:36
+35,Mallett,P,Lomond Hill Runners,M40,00:28:55
+36,Beveridge,B,Lomond Hill Runners,M60,00:29:43
+37,Aitken,Evie,Carnethy,M16,00:30:03
+38,Meiklejohn,A,Fife AC,M55,00:30:36
 39,Mcfarlane,Z,Unattached,M,00:31:08
-40,Jarvis,Claire,Fife AC,J,00:31:35
+40,Jarvis,Claire,Fife AC,M16,00:31:35
 41,Mcguire,Kenneth,Fife AC,M,00:32:08
 42,Osborn,R,Lomond Hill Runners,M,00:33:01
-43,Westhead,Fern,Unattached,J,00:33:14
-44,Murphy,A,Unattached,V40,00:33:20
+43,Westhead,Fern,Unattached,M16,00:33:14
+44,Murphy,A,Unattached,M40,00:33:20
 45,Phillips,Helen,Unattached,F,00:33:34
 46,Ferguson,G,Unattached,M,00:33:44
-47,Stark,Bob,Fife AC,V60,00:34:01
+47,Stark,Bob,Fife AC,M60,00:34:01
 48,Murphy,F,Unattached,F,00:34:14
-49,Cooke,Mark,Unattached,J,00:34:24
-50,Fitzpatrick,Annie,Fife AC,U11,00:36:07
-51,Wright,J,Unattached,V50,00:36:47
-52,Wilkie,D,Unattached,V50,00:38:38
-53,Crawford,R,Unattached,V50,00:40:06
-54,Thornton,Bob,Fife AC,V45,00:42:08
+49,Cooke,Mark,Unattached,M16,00:34:24
+50,Fitzpatrick,Annie,Fife AC,M11,00:36:07
+51,Wright,J,Unattached,M50,00:36:47
+52,Wilkie,D,Unattached,M50,00:38:38
+53,Crawford,R,Unattached,M50,00:40:06
+54,Thornton,Bob,Fife AC,M45,00:42:08
 55,Wakefield,Natasha,Unattached,F,00:45:10
-56,Horsburgh,Caroline,Unattached,V40,00:45:13
+56,Horsburgh,Caroline,Unattached,M40,00:45:13

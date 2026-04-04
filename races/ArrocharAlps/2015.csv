@@ -1,39 +1,39 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Joe,Shettleston,M Open,03:21:20
-2,Anthony,Alasdair,Ochil Hill Runners,M Open,03:36:48
-3,Harris,Mark,Lomond Hill Runners,MV40,03:38:06
-4,Whitlie,Stewart,Carnethy,MV50,03:40:40
-5,Topalian,Stanley,Westerlands,M Open,03:41:03
-6,Harris,Adam,Shettleston,M Open,03:41:53
-7,O’Neill,Owen,Westerlands,M Open,03:55:23
-8,Simpson,Robert,Westerlands,M Open,03:57:42
-9,Crutchfield,Stuart,Lochaber,M Open,03:57:50
-10,Gay,Jon,Lochaber,MV40,03:58:31
-11,Rawlinson,Stephen,Lochtayside,M Open,04:02:38
-12,Lines,Charles,Kilmarnock Harriers,MV50,04:09:57
-13,Mackie,Peter,Shettleston,M Open,04:12:42
-14,Van Gompel,Roger,Unattached,MV40,04:18:30
-15,Watson,Dan,Lochtayside,MV40,04:37:07
-16,Saunders,Dave,Unattached,MV40,04:46:45
-17,MacDonald,Grant,Bellahouston Road Runners,M Open,04:47:18
-18,Ball,Duncan,Penicuik Harriers,MV50,04:48:31
-19,Busby,Christopher,Carnethy,M Open,04:49:26
-20,White,David,Kilmarnock Harriers,MV40,04:53:48
-21,Burt,Louise,Fife AC,FV50,04:55:17
-22,MacKenzie,Sarah,Lochaber,F Open,05:08:56
-23,Cunningham,Roddy,Westerlands,M Open,05:22:46
-24,MacKellar,Grant,Dunoon Hill Runners,M Open,05:23:30
-25,Wise,Helen,Carnethy,F Open,05:27:48
-26,Wheeler,Mark,Hamilton Harriers,M Open,05:30:36
-27,Jones,Matthew,Carnethy,M Open,05:37:29
-28,Lye,Mary,Carnethy,F Open,05:37:29
-29,Holmes,Ben,Todmorden Harriers,M Open,05:37:52
-30,O’Neil,Sarah,HBT,F Open,05:39:36
-31,Ridyard,Alison,Unattached,FV40,05:41:35
-32,McCaffrey,Gordon,Westerlands,MV60,05:42:25
-33,Allison,Bob,Fife AC,MV50,05:43:56
-34,Beckwith,Ben,Todmorden Harriers,M Open,05:45:48
-35,Polak,Jo,Lomond Triathlon,FV50,05:52:07
-36,Calvert,Euan,Gala Harriers,M Open,05:52:54
-37,Reid,Richard,Dunoon Hill Runners,M Open,05:54:36
-38,Wilson,David,Dunoon Hill Runners,M Open,07:03:29
+1,Symonds,Joe,Shettleston,M,03:21:20
+2,Anthony,Alasdair,Ochil Hill Runners,M,03:36:48
+3,Harris,Mark,Lomond Hill Runners,M40,03:38:06
+4,Whitlie,Stewart,Carnethy,M50,03:40:40
+5,Topalian,Stanley,Westerlands,M,03:41:03
+6,Harris,Adam,Shettleston,M,03:41:53
+7,O’Neill,Owen,Westerlands,M,03:55:23
+8,Simpson,Robert,Westerlands,M,03:57:42
+9,Crutchfield,Stuart,Lochaber,M,03:57:50
+10,Gay,Jon,Lochaber,M40,03:58:31
+11,Rawlinson,Stephen,Lochtayside,M,04:02:38
+12,Lines,Charles,Kilmarnock Harriers,M50,04:09:57
+13,Mackie,Peter,Shettleston,M,04:12:42
+14,Van Gompel,Roger,Unattached,M40,04:18:30
+15,Watson,Dan,Lochtayside,M40,04:37:07
+16,Saunders,Dave,Unattached,M40,04:46:45
+17,MacDonald,Grant,Bellahouston Road Runners,M,04:47:18
+18,Ball,Duncan,Penicuik Harriers,M50,04:48:31
+19,Busby,Christopher,Carnethy,M,04:49:26
+20,White,David,Kilmarnock Harriers,M40,04:53:48
+21,Burt,Louise,Fife AC,F50,04:55:17
+22,MacKenzie,Sarah,Lochaber,F,05:08:56
+23,Cunningham,Roddy,Westerlands,M,05:22:46
+24,MacKellar,Grant,Dunoon Hill Runners,M,05:23:30
+25,Wise,Helen,Carnethy,F,05:27:48
+26,Wheeler,Mark,Hamilton Harriers,M,05:30:36
+27,Jones,Matthew,Carnethy,M,05:37:29
+28,Lye,Mary,Carnethy,F,05:37:29
+29,Holmes,Ben,Todmorden Harriers,M,05:37:52
+30,O’Neil,Sarah,HBT,F,05:39:36
+31,Ridyard,Alison,Unattached,F40,05:41:35
+32,McCaffrey,Gordon,Westerlands,M60,05:42:25
+33,Allison,Bob,Fife AC,M50,05:43:56
+34,Beckwith,Ben,Todmorden Harriers,M,05:45:48
+35,Polak,Jo,Lomond Triathlon,F50,05:52:07
+36,Calvert,Euan,Gala Harriers,M,05:52:54
+37,Reid,Richard,Dunoon Hill Runners,M,05:54:36
+38,Wilson,David,Dunoon Hill Runners,M,07:03:29

@@ -1,37 +1,37 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Haworth,James,Galloway Harriers,V40,00:30:51
-2,Anderson,Adam,Carnethy,V40,00:33:35
-3,Morgan,Charlotte,Carnethy,FS,00:33:48
-4,Morrow,Robert,Solway,S,00:34:41
-5,Longmore,Rory,ADAC,V50,00:34:47
-6,Malcolmson,Craig,Dumfries RC,V40,00:35:09
-7,Wight,Ally,Hardrock Hoodlums,V40,00:35:35
-8,Sills,Ian,Dumnbar RC,V40,00:35:44
-9,McRobert,John,Hardrock Hoodlums,S,00:35:51
-10,Wight,Guy,Stewartry,V40,00:37:21
-11,Zakrzewski,Jo,Dumfries RC,FS,00:37:30
-12,Pflanz,Seb,Dumfries RC,V50,00:37:44
-13,Burnett,Lucy,Todmorden,FS,00:37:59
-14,Coventry,Gavin,U/A,V40,00:38:11
-15,Robson,John,ADAC,V50,00:38:22
-16,McMutrie,Ian,Dalbeattie RC,S,00:38:36
-17,Rogerson,Peter,ADAC,V50,00:39:08
-18,Wilson,Oliver,ADAC,S,00:39:16
-19,Sleggs,Paul,U/A,S,00:40:08
-20,Priest,Steven,U/A,V40,00:40:22
-21,Taylor,David,U/A,V50,00:40:36
-22,Gilmour,Colin,U/A,V50,00:41:12
-23,Murgatroyd,Ian,Solway,V50,00:42:29
-24,Khan,Mo,Dumfries RC,S,00:43:16
-25,Gordon,Nick,Solway,V40,00:43:32
-26,Jeffrey,Sue,Dumfries RC,FS,00:43:49
-27,Bonn,Steven,Dumfries RC,V50,00:43:50
-28,Anderson,James,U/A,S,00:46:25
-29,Dawson,Barbara,ADAC,FS,00:46:27
-30,Creighton,Alan,ADAC,V50,00:48:20
-31,Walker,Kerry,Dumfries RC,FS,00:48:31
-32,Patterson,Kenny,U/A,V60,00:52:40
-33,Conway,Ian,Glaxo Hoadhill,V60,00:54:56
-34,Coventry,Hilary,Thirsk and Sowerby,FV50,00:56:00
-35,Martin,Kim,U/A,FS,00:56:37
-36,Robson,Jean,ADAC,FV50,01:01:35
+1,Haworth,James,Galloway Harriers,M40,00:30:51
+2,Anderson,Adam,Carnethy,M40,00:33:35
+3,Morgan,Charlotte,Carnethy,F,00:33:48
+4,Morrow,Robert,Solway,M,00:34:41
+5,Longmore,Rory,ADAC,M50,00:34:47
+6,Malcolmson,Craig,Dumfries RC,M40,00:35:09
+7,Wight,Ally,Hardrock Hoodlums,M40,00:35:35
+8,Sills,Ian,Dumnbar RC,M40,00:35:44
+9,McRobert,John,Hardrock Hoodlums,M,00:35:51
+10,Wight,Guy,Stewartry,M40,00:37:21
+11,Zakrzewski,Jo,Dumfries RC,F,00:37:30
+12,Pflanz,Seb,Dumfries RC,M50,00:37:44
+13,Burnett,Lucy,Todmorden,F,00:37:59
+14,Coventry,Gavin,U/A,M40,00:38:11
+15,Robson,John,ADAC,M50,00:38:22
+16,McMutrie,Ian,Dalbeattie RC,M,00:38:36
+17,Rogerson,Peter,ADAC,M50,00:39:08
+18,Wilson,Oliver,ADAC,M,00:39:16
+19,Sleggs,Paul,U/A,M,00:40:08
+20,Priest,Steven,U/A,M40,00:40:22
+21,Taylor,David,U/A,M50,00:40:36
+22,Gilmour,Colin,U/A,M50,00:41:12
+23,Murgatroyd,Ian,Solway,M50,00:42:29
+24,Khan,Mo,Dumfries RC,M,00:43:16
+25,Gordon,Nick,Solway,M40,00:43:32
+26,Jeffrey,Sue,Dumfries RC,F,00:43:49
+27,Bonn,Steven,Dumfries RC,M50,00:43:50
+28,Anderson,James,U/A,M,00:46:25
+29,Dawson,Barbara,ADAC,F,00:46:27
+30,Creighton,Alan,ADAC,M50,00:48:20
+31,Walker,Kerry,Dumfries RC,F,00:48:31
+32,Patterson,Kenny,U/A,M60,00:52:40
+33,Conway,Ian,Glaxo Hoadhill,M60,00:54:56
+34,Coventry,Hilary,Thirsk and Sowerby,F50,00:56:00
+35,Martin,Kim,U/A,F,00:56:37
+36,Robson,Jean,ADAC,F50,01:01:35

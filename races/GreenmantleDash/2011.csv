@@ -11,7 +11,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,McGovern,Michael,Moorfoot Runners,M40,0:18:35
 11,Buchanan,Peter,Portobello RC,M40,0:18:40
 12,Murray,Keith,Teviotdale,M40,0:18:46
-13,McLeod,Mark,Oxford Uni CCC,MU21,0:18:46
+13,McLeod,Mark,Oxford Uni CCC,M21,0:18:46
 14,Anderson,Russell,Moorfoot Runners,M50,0:18:50
 15,Ruskin,James,Edinburgh AC,M,0:18:54
 16,Martin,Neil,Fife AC,M40,0:19:12
@@ -38,7 +38,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,Connor,Julia,Moorfoot Runners,F,0:21:53
 38,Farrer,Matthew,Almost Athletes,M,0:22:15
 39,Smith,David,Unattached,M40,0:22:22
-40,Maxwell,Kirstin,Gala Harriers,FU21,0:22:28
+40,Maxwell,Kirstin,Gala Harriers,F21,0:22:28
 41,Morris,Robin,Lothian,M60,0:22:37
 42,Weir,Jonathan,Unattached,M,0:22:56
 43,McGrath,John,Law,M40,0:22:57
@@ -73,7 +73,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 72,Wilson,Andrea,Penicuik Harriers,F40,0:25:07
 73,Downie,Chris,Penicuik Harriers,M40,0:25:17
 74,Hood,Brian,Moorfoot Runners,M40,0:25:29
-75,Maxwell,Karen,Gala Harriers,FU21,0:25:37
+75,Maxwell,Karen,Gala Harriers,F21,0:25:37
 76,McGuire,Josie,Westerlands,F,0:25:43
 77,Purves,James,Gala Harriers,M50,0:25:44
 78,Sloan,Robin,Carnethy,M60,0:26:09

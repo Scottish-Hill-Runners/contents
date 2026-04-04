@@ -1,45 +1,45 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Mattocks,Craig,HBT,MS,02:13:15
-2,Keith,Alec,HBT,MV40,02:14:02
-3,Whitlie,Stewart,Carnethy,MV40,02:16:15
-4,Marshall,Brian,HELP,MV40,02:18:49
-5,Rodgers,Davie,LAC,MV40,02:24:19
-6,Gay,Dan,HBT,MS,02:28:34
-7,McAlinden,Niall,Westerlands,MS,02:34:38
-8,Walker,Ian,Helensburgh AAC,MS,02:35:22
-9,Binnie,John,LAC,MV40,02:35:42
-10,Jenkins,Kate,HBT,FS,02:36:10
-11,Raistrick,Eilidh,HHR,FS,02:39:09
-12,Gallie,David,HHR,MV40,02:39:18
-13,Gay,Jon,LAC,MS,02:40:20
-14,Burt,Cameron,Westerlands,MS,02:41:05
-15,Muir,Johnny,Herne Hill Harriers,MS,02:43:37
-16,Kennedy,Ali,LAC,MV50,02:43:44
-17,Campbell,Graham,Inverness Harriers,MV40,02:46:19
-18,Ward,Peter,LAC,MS,02:47:52
-19,Forbes,Craig,LAC,MS,02:50:19
-20,Higginbottom,Jacqui,Carnethy,FV40,02:51:04
-21,Matthewson,Alastair,HHR,MV40,02:51:38
-22,Irvine,Gill,HHR,FV50,02:52:18
-23,Macdonald,Ian,Forres Harriers,MV40,02:52:59
-24,Connor,Julie,Moorfoot,FS,02:53:25
-25,Gardenas,Juanma,Carnethy,MS,02:55:24
-26,Robertsons,Adrian,U/A,MS,02:55:49
-27,Scott,Dawn,LAC,FS,02:59:26
-28,Stalker,Jim,LAC,MV40,03:05:09
-29,Macdonald,Steve,LAC,MS,03:05:18
-30,Rennie,Nick,U/A,MV40,03:05:53
-31,McNeile,Peter,Westerlands,MS,03:29:51
-32,Jelly,Ewan,U/A,MS,03:30:57
-33,Ferguson,Allan,U/A,MS,03:32:46
-34,Murdoch,Raymond,LAC,MV60,03:33:41
-35,Weir,Jonathan,U/A,MS,03:34:29
-36,Hamer,John,Westerlands,MV40,03:35:47
-37,Grassl,Peter,Westerlands,MS,03:36:54
-38,Clark,Chris,U/A,MS,03:39:48
-39,Macdonald,Gio,Carnethy,MV40,03:40:07
-40,Gaff,Melanie,Cairngorm Runners,FS,03:40:17
-41,Tighe,Kathy,LAC,FV40,03:40:56
-42,Turner,Neil,Skye & Lochalsh,MV40,03:44:41
-43,Ward,Sarah,LAC,FS,03:45:32
-44,Gardiner,Fiona,LAC,FV40,03:47:42
+1,Mattocks,Craig,HBT,M,02:13:15
+2,Keith,Alec,HBT,M40,02:14:02
+3,Whitlie,Stewart,Carnethy,M40,02:16:15
+4,Marshall,Brian,HELP,M40,02:18:49
+5,Rodgers,Davie,LAC,M40,02:24:19
+6,Gay,Dan,HBT,M,02:28:34
+7,McAlinden,Niall,Westerlands,M,02:34:38
+8,Walker,Ian,Helensburgh AAC,M,02:35:22
+9,Binnie,John,LAC,M40,02:35:42
+10,Jenkins,Kate,HBT,F,02:36:10
+11,Raistrick,Eilidh,HHR,F,02:39:09
+12,Gallie,David,HHR,M40,02:39:18
+13,Gay,Jon,LAC,M,02:40:20
+14,Burt,Cameron,Westerlands,M,02:41:05
+15,Muir,Johnny,Herne Hill Harriers,M,02:43:37
+16,Kennedy,Ali,LAC,M50,02:43:44
+17,Campbell,Graham,Inverness Harriers,M40,02:46:19
+18,Ward,Peter,LAC,M,02:47:52
+19,Forbes,Craig,LAC,M,02:50:19
+20,Higginbottom,Jacqui,Carnethy,F40,02:51:04
+21,Matthewson,Alastair,HHR,M40,02:51:38
+22,Irvine,Gill,HHR,F50,02:52:18
+23,Macdonald,Ian,Forres Harriers,M40,02:52:59
+24,Connor,Julie,Moorfoot,F,02:53:25
+25,Gardenas,Juanma,Carnethy,M,02:55:24
+26,Robertsons,Adrian,U/A,M,02:55:49
+27,Scott,Dawn,LAC,F,02:59:26
+28,Stalker,Jim,LAC,M40,03:05:09
+29,Macdonald,Steve,LAC,M,03:05:18
+30,Rennie,Nick,U/A,M40,03:05:53
+31,McNeile,Peter,Westerlands,M,03:29:51
+32,Jelly,Ewan,U/A,M,03:30:57
+33,Ferguson,Allan,U/A,M,03:32:46
+34,Murdoch,Raymond,LAC,M60,03:33:41
+35,Weir,Jonathan,U/A,M,03:34:29
+36,Hamer,John,Westerlands,M40,03:35:47
+37,Grassl,Peter,Westerlands,M,03:36:54
+38,Clark,Chris,U/A,M,03:39:48
+39,Macdonald,Gio,Carnethy,M40,03:40:07
+40,Gaff,Melanie,Cairngorm Runners,F,03:40:17
+41,Tighe,Kathy,LAC,F40,03:40:56
+42,Turner,Neil,Skye & Lochalsh,M40,03:44:41
+43,Ward,Sarah,LAC,F,03:45:32
+44,Gardiner,Fiona,LAC,F40,03:47:42

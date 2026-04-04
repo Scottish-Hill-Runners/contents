@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Chepelin,Oleg,EUH&H,M18 Record,00:26:46
+1,Chepelin,Oleg,EUH&H,M18,00:26:46
 2,McGregor,Steven,MacStrong,M18,00:28:47
 3,Williamson,Jason,Cosmic HB,M18,00:28:57
 4,MacDonald,Dennis,Cosmic HB,M40,00:29:04
@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Colegrave,John,Cosmic HB,M50,00:35:49
 16,Reid,George,Fleet Feet,M50,00:36:43
 17,Johnstone,Derek,Cosmic HB,M40,00:37:12
-18,Noble,Lois,Cosmic HB,F40 Record,00:37:15
+18,Noble,Lois,Cosmic HB,F40,00:37:15
 19,Van de Pol,Marjon,Cosmic HB,F18,00:37:53
 20,Dingwall,Murray,n/a,M18,00:38:03
 21,Bryce,Murray,Cosmic HB,M50,00:38:11

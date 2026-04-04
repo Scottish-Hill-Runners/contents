@@ -1,48 +1,48 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Smith,Tom,Lochaber AC,M 30-39,00:22:38
-2,Harris,Mark,Fife AC,M 40-49,00:23:29
-3,Fallon,Steven,Carnethy,M 40-49,00:23:47
-4,Harris,Adam,Fife AC,M Under 30,00:23:55
-5,Rawlinson,Stephen,Unattached,M Under 30,00:24:50
-6,Smith,Alan,Deeside,M 50-59,00:24:58
-7,Stevenson,John,Ochil Hill Runners,M 40-49,00:25:55
-8,McDonald,Gary,Lochaber AC,M Under 30,00:26:47
-9,Arnott,Neil,Lochaber AC,M 40-49,00:26:50
-10,MacDonald,David,Lochaber AC,M Under 30,00:27:10
-11,Kennedy,Al,Lochaber AC,M 40-49,00:27:11
-12,Watson,Dan,Annan,M 40-49,00:27:58
-13,Riley,James,Todmore Den Harriers,M 30-39,00:28:13
-14,Taylor,Cameron,Unattached,M 30-39,00:29:17
-15,Duncan,David,Ochil Hill Runners,M 50-59,00:29:31
-16,Watson,Matt,Unattached,M 30-39,00:29:38
-17,Brennan,Brian,Westie,M 50-59,00:29:49
-18,Waters,Donald,Unattached,M Under 30,00:29:57
-19,McLean,Herbie,Lothian,M 60 +,00:30:23
-20,Nicoll,Grahame,Tayside Orienteers,M 50-59,00:30:51
-21,Shaw,Trevor,Carnethy,M 40-49,00:30:52
-22,Bowman,Gus,Beacon Runners Fife,M 50-59,00:31:05
-23,Bloomer,Allan,Unattached,M 30-39,00:31:28
-24,Wallace,David,Unattached,M Under 30,00:31:37
-25,Ogilvie,Monty,Unattached,M Under 30,00:32:19
-26,Wallace,Chris,Unattached,M 40-49,00:32:25
-27,Nicoll,Melanie,Tayside Orienteers,F 40-49,00:32:36
-28,Schreiber,Joanna,Girvan AC,F 40-49,00:32:52
-29,Love,Charlie,Dundee Hawkhill,M 60 +,00:33:29
-30,Brown,Kevin,Unattached,M Under 30,00:34:32
-31,McColm,Alan,Unattached,M 50-59,00:37:05
-32,Angus,Mel,Fat Bobs Oyne,F 40-49,00:37:08
-33,McGregor,Brian,Unattached,M 40-49,00:37:30
-34,Campbell,Ian,HBT Edinburgh,M 40-49,00:37:34
-35,Simpson,Sandra,Fat Bobs Oyne,F 40-49,00:37:45
-36,McManus,Ian,Irvine Athleltic,M 60 +,00:38:54
-37,Bowman,Jean,Beacon Runners Fife,F 50-59,00:39:12
-38,Graham,Billy,Unattached,M Under 30,00:41:25
-39,Forster,Kate,Unattached,F 40-49,00:42:28
-40,Heward,Sarah,Unattached,F 40-49,00:43:40
-41,Pearson,Kirsty,Unattached,F 30-39,00:43:40
-42,Whitfield,Michael,Unattached,M 40-49,00:44:45
-43,Wishart,Paul,Unattached,M 30-39,00:59:05
-44,Lloyd,Jamie,Unattached,M Under 30,01:01:00
+1,Smith,Tom,Lochaber AC,M30,00:22:38
+2,Harris,Mark,Fife AC,M40,00:23:29
+3,Fallon,Steven,Carnethy,M40,00:23:47
+4,Harris,Adam,Fife AC,M,00:23:55
+5,Rawlinson,Stephen,Unattached,M,00:24:50
+6,Smith,Alan,Deeside,M50,00:24:58
+7,Stevenson,John,Ochil Hill Runners,M40,00:25:55
+8,McDonald,Gary,Lochaber AC,M,00:26:47
+9,Arnott,Neil,Lochaber AC,M40,00:26:50
+10,MacDonald,David,Lochaber AC,M,00:27:10
+11,Kennedy,Al,Lochaber AC,M40,00:27:11
+12,Watson,Dan,Annan,M40,00:27:58
+13,Riley,James,Todmore Den Harriers,M30,00:28:13
+14,Taylor,Cameron,Unattached,M30,00:29:17
+15,Duncan,David,Ochil Hill Runners,M50,00:29:31
+16,Watson,Matt,Unattached,M30,00:29:38
+17,Brennan,Brian,Westie,M50,00:29:49
+18,Waters,Donald,Unattached,M,00:29:57
+19,McLean,Herbie,Lothian,M60,00:30:23
+20,Nicoll,Grahame,Tayside Orienteers,M50,00:30:51
+21,Shaw,Trevor,Carnethy,M40,00:30:52
+22,Bowman,Gus,Beacon Runners Fife,M50,00:31:05
+23,Bloomer,Allan,Unattached,M30,00:31:28
+24,Wallace,David,Unattached,M,00:31:37
+25,Ogilvie,Monty,Unattached,M,00:32:19
+26,Wallace,Chris,Unattached,M40,00:32:25
+27,Nicoll,Melanie,Tayside Orienteers,F40,00:32:36
+28,Schreiber,Joanna,Girvan AC,F40,00:32:52
+29,Love,Charlie,Dundee Hawkhill,M60,00:33:29
+30,Brown,Kevin,Unattached,M,00:34:32
+31,McColm,Alan,Unattached,M50,00:37:05
+32,Angus,Mel,Fat Bobs Oyne,F40,00:37:08
+33,McGregor,Brian,Unattached,M40,00:37:30
+34,Campbell,Ian,HBT Edinburgh,M40,00:37:34
+35,Simpson,Sandra,Fat Bobs Oyne,F40,00:37:45
+36,McManus,Ian,Irvine Athleltic,M60,00:38:54
+37,Bowman,Jean,Beacon Runners Fife,F50,00:39:12
+38,Graham,Billy,Unattached,M,00:41:25
+39,Forster,Kate,Unattached,F40,00:42:28
+40,Heward,Sarah,Unattached,F40,00:43:40
+41,Pearson,Kirsty,Unattached,F30,00:43:40
+42,Whitfield,Michael,Unattached,M40,00:44:45
+43,Wishart,Paul,Unattached,M30,00:59:05
+44,Lloyd,Jamie,Unattached,M,01:01:00
 45,Wikerman,Daniella,Unattached,F Under 30,01:01:00
-46,Marshall,Michael,Unattached,M Under 30,01:14:00
+46,Marshall,Michael,Unattached,M,01:14:00
 47,Steen,Sofhia,Unattached,F Under 30,01:14:00

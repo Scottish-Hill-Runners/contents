@@ -1,22 +1,22 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Glencorse,Colin,Kilmarnock Harriers,Male 40+,00:23:55
-2,Neill,Kenny,Ayr Seaforth,Senior Male,00:24:47
-3,Clark,Davie,Carnegie Harriers,Senior Male,00:25:02
-4,Brown,Gareth,North Ayrshire AC,Senior Male,00:26:11
-5,Pettigrew,James,Ayr Seaforth,Junior Male <21,00:26:35
-6,Reid,Don,Westerlands,Male 50+,00:27:07
-7,Pollock,Drew,Ronhill Cambuslang,Junior Male <14,00:27:56
-8,Hamilton,Gordon,Girvan AAC,Male 40+,00:30:07
-9,Bruce,Duncan,North Ayrshire AC,Senior Male,00:30:49
-10,Smith,Stephen,-,Male 40+,00:31:46
-11,Goodenough,John,Girvan AAC,Senior Male,00:32:07
-12,Pettigrew,Iain,Ayr Seaforth,Male 40+,00:32:55
-13,Davidson,Iain,Girvan AAC,Male 50+,00:35:01
-14,Noble,Anne,Troon Tortoises,Female 45+,00:35:02
-15,Rennie,Elaine,-,Female 45+,00:35:26
-16,Rennie,John,Girvan AAC,Male 50+,00:36:37
-17,Richardson,Barry,-,Senior Male,00:38:37
-18,Noble,Alasdair,Girvan AAC,Male 60+,00:38:47
-19,Pettigrew,Derek,-,Male 40+,00:41:25
-20,McManus,Ian,Irvine Running Club,Male 70+,00:48:04
-21,Ingram,Adam,Girvan AAC,Junior Male <14,00:48:28
+1,Glencorse,Colin,Kilmarnock Harriers,M40,00:23:55
+2,Neill,Kenny,Ayr Seaforth,M40,00:24:47
+3,Clark,Davie,Carnegie Harriers,M40,00:25:02
+4,Brown,Gareth,North Ayrshire AC,M40,00:26:11
+5,Pettigrew,James,Ayr Seaforth,M21,00:26:35
+6,Reid,Don,Westerlands,M50,00:27:07
+7,Pollock,Drew,Ronhill Cambuslang,M14,00:27:56
+8,Hamilton,Gordon,Girvan AAC,M40,00:30:07
+9,Bruce,Duncan,North Ayrshire AC,M40,00:30:49
+10,Smith,Stephen,-,M40,00:31:46
+11,Goodenough,John,Girvan AAC,M40,00:32:07
+12,Pettigrew,Iain,Ayr Seaforth,M40,00:32:55
+13,Davidson,Iain,Girvan AAC,M50,00:35:01
+14,Noble,Anne,Troon Tortoises,F45,00:35:02
+15,Rennie,Elaine,-,F45,00:35:26
+16,Rennie,John,Girvan AAC,M50,00:36:37
+17,Richardson,Barry,-,M40,00:38:37
+18,Noble,Alasdair,Girvan AAC,M60,00:38:47
+19,Pettigrew,Derek,-,M40,00:41:25
+20,McManus,Ian,Irvine Running Club,M70,00:48:04
+21,Ingram,Adam,Girvan AAC,M14,00:48:28

@@ -1,67 +1,67 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Al,Ochil Hill Runners,Sen,00:13:07
-2,Wellock,Ian,HBT,Sen,00:13:26
-3,Naylor,Don,HBT,Sen,00:13:42
-4,Ward,Adam,Carnethy,V40,00:13:54
-5,Nixon,Mark,Edinburgh Uni H&H,Sen,00:14:01
-6,Fallon,Steven,Carnethy,V40,00:14:08
-7,Mowbray,Phil,HBT,Sen,00:14:19
-8,Cammack,Robbie,Moray Road Runners,Junior(15),00:14:21
-9,Hart,Al,HBT,Sen,00:14:27
-10,Gallagher,Ronnie,Carnethy,V40,00:14:51
-11,Stevenson,John,Ochil Hill Runners,V40,00:15:12
-12,Wiseman,Bob,City of Edinburgh,Sen,00:15:14
-13,Smith,Bruce,Standard Life,V40,00:15:39
-14,Milne,Ross,Lothian,Sen,00:15:40
-15,Glencorse,Colin,Unattached,Sen,00:16:04
-16,Stevenson,Jamie,Ochil Hill Runners,Junior(14),00:16:06
-17,Warman,Julian,HBT,Sen,00:16:22
-18,Reid,Don,Westerlands,V40,00:16:31
-19,Durn,Chris,Carnethy,V40,00:16:38
-20,Hulme,Martin,Corstorphine AAC,V50,00:16:42
-21,Mcburney,Craig,HBT,Sen,00:16:51
-22,Oldham,Veronique,Norham RC,FV40,00:16:56
-23,Macleod,Murdo,Westerlands,V40,00:16:59
-24,Norwood,Tim,Corstorphine AAC,Sen,00:17:01
-25,Waterhouse,Bob,Carnethy,V50,00:17:12
-26,Barr,Tom,HBT,Sen,00:17:14
-27,Jenkins,Kate,Carnethy,Female,00:17:18
-28,Burns,Keith,Carnethy,V60,00:17:19
-29,Bouchier,Shane,Carnethy,Sen,00:17:24
-30,Rogers,David,Westerlands,V40,00:17:41
-31,Kelly,Graham,Westerlands,Sen,00:17:56
-32,Paton,Derek,Standard Life,Sen,00:18:00
-33,Buchanan,Hugh,Central AC,V40,00:18:15
-34,Young,Archie,Unattached,V50,00:18:24
-35,Caban,Paul,Ferranti,V40,00:18:27
-36,Magee,Billy,Larne AC,V60,00:18:33
-37,Holding,Hilary,Carnethy,Female,00:18:34
-38,Wardlaw,Eilidh,HBT,Female,00:18:36
-39,Smith,Fraser,Unattached,Sen,00:18:40
-40,Buchanan,Catriona,Central AC,Junior(14),00:18:41
-41,O`Brien,Paul,Corstorphine AAC,V40,00:18:47
-42,Robertson,Jane,Westerlands,FV40,00:18:52
-43,Howie,Brian,Carnethy,V50,00:18:56
-44,Ledlie,Colin,Carnethy,V40,00:19:07
-45,Wellings,John,Unattached,V50,00:19:11
-46,Gatehouse,Richard,Lomond Hill Runners,V50,00:19:19
-47,Buchanan,Andrina,Central AC,FV40,00:19:24
-48,Smith,Donald,Westerlands,Sen,00:19:26
-49,Campbell,Ian,HBT,V40,00:19:49
-50,Kaushal,Jason,Westerlands,V40,00:19:56
-51,Pritchard,Colin,Carnethy,V60,00:20:21
-52,McCullough,Lindsay,Unattached,V50,00:20:27
-53,Mitchell,Phyllis,Central AC,FV40,00:20:48
-54,Orr,Graeme,Westerlands,V50,00:20:52
-55,Downie,Chris,Lothian & Borders Police AC,V40,00:21:00
-56,Sabistan,Kevin,Bicycle Works,V40,00:21:04
-57,Wilkinson,Michael,Carnethy,V40,00:21:33
-58,Mcmanus,Ian,Irvine AC,V60,00:21:43
-59,Cox,Byron,Unattached,V40,00:21:49
-60,Lathe,Richard,Carnethy,V50,00:22:00
-61,Thomas,Robin,HBT,V50,00:22:29
-62,Stapley,Tony,Portobello,V60,00:22:43
-63,Turnbull,Drew,Westerlands,V60,00:22:49
-64,O`Hara,John,Corstorphine AAC,V40,00:23:15
-65,Reid,Victoria,Westerlands,Female,00:25:02
-66,Soran,Al,HBT,V40,00:25:23
+1,Anthony,Al,Ochil Hill Runners,M,00:13:07
+2,Wellock,Ian,HBT,M,00:13:26
+3,Naylor,Don,HBT,M,00:13:42
+4,Ward,Adam,Carnethy,M40,00:13:54
+5,Nixon,Mark,Edinburgh Uni H&H,M,00:14:01
+6,Fallon,Steven,Carnethy,M40,00:14:08
+7,Mowbray,Phil,HBT,M,00:14:19
+8,Cammack,Robbie,Moray Road Runners,M15,00:14:21
+9,Hart,Al,HBT,M,00:14:27
+10,Gallagher,Ronnie,Carnethy,M40,00:14:51
+11,Stevenson,John,Ochil Hill Runners,M40,00:15:12
+12,Wiseman,Bob,City of Edinburgh,M,00:15:14
+13,Smith,Bruce,Standard Life,M40,00:15:39
+14,Milne,Ross,Lothian,M,00:15:40
+15,Glencorse,Colin,Unattached,M,00:16:04
+16,Stevenson,Jamie,Ochil Hill Runners,M14,00:16:06
+17,Warman,Julian,HBT,M,00:16:22
+18,Reid,Don,Westerlands,M40,00:16:31
+19,Durn,Chris,Carnethy,M40,00:16:38
+20,Hulme,Martin,Corstorphine AAC,M50,00:16:42
+21,Mcburney,Craig,HBT,M,00:16:51
+22,Oldham,Veronique,Norham RC,F40,00:16:56
+23,Macleod,Murdo,Westerlands,M40,00:16:59
+24,Norwood,Tim,Corstorphine AAC,M,00:17:01
+25,Waterhouse,Bob,Carnethy,M50,00:17:12
+26,Barr,Tom,HBT,M,00:17:14
+27,Jenkins,Kate,Carnethy,F,00:17:18
+28,Burns,Keith,Carnethy,M60,00:17:19
+29,Bouchier,Shane,Carnethy,M,00:17:24
+30,Rogers,David,Westerlands,M40,00:17:41
+31,Kelly,Graham,Westerlands,M,00:17:56
+32,Paton,Derek,Standard Life,M,00:18:00
+33,Buchanan,Hugh,Central AC,M40,00:18:15
+34,Young,Archie,Unattached,M50,00:18:24
+35,Caban,Paul,Ferranti,M40,00:18:27
+36,Magee,Billy,Larne AC,M60,00:18:33
+37,Holding,Hilary,Carnethy,F,00:18:34
+38,Wardlaw,Eilidh,HBT,F,00:18:36
+39,Smith,Fraser,Unattached,M,00:18:40
+40,Buchanan,Catriona,Central AC,F14,00:18:41
+41,O`Brien,Paul,Corstorphine AAC,M40,00:18:47
+42,Robertson,Jane,Westerlands,F40,00:18:52
+43,Howie,Brian,Carnethy,M50,00:18:56
+44,Ledlie,Colin,Carnethy,M40,00:19:07
+45,Wellings,John,Unattached,M50,00:19:11
+46,Gatehouse,Richard,Lomond Hill Runners,M50,00:19:19
+47,Buchanan,Andrina,Central AC,F40,00:19:24
+48,Smith,Donald,Westerlands,M,00:19:26
+49,Campbell,Ian,HBT,M40,00:19:49
+50,Kaushal,Jason,Westerlands,M40,00:19:56
+51,Pritchard,Colin,Carnethy,M60,00:20:21
+52,McCullough,Lindsay,Unattached,M50,00:20:27
+53,Mitchell,Phyllis,Central AC,F40,00:20:48
+54,Orr,Graeme,Westerlands,M50,00:20:52
+55,Downie,Chris,Lothian & Borders Police AC,M40,00:21:00
+56,Sabistan,Kevin,Bicycle Works,M40,00:21:04
+57,Wilkinson,Michael,Carnethy,M40,00:21:33
+58,Mcmanus,Ian,Irvine AC,M60,00:21:43
+59,Cox,Byron,Unattached,M40,00:21:49
+60,Lathe,Richard,Carnethy,M50,00:22:00
+61,Thomas,Robin,HBT,M50,00:22:29
+62,Stapley,Tony,Portobello,M60,00:22:43
+63,Turnbull,Drew,Westerlands,M60,00:22:49
+64,O`Hara,John,Corstorphine AAC,M40,00:23:15
+65,Reid,Victoria,Westerlands,F,00:25:02
+66,Soran,Al,HBT,M40,00:25:23

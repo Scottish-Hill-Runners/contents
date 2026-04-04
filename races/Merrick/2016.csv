@@ -37,7 +37,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 36,Mackie,Peter,Shettleston Harriers,M,01:36:03
 37,Houghton,Richard,Pennine Fell Runners,M50,01:36:12
 38,Roberts,Lou,Ambleside,F,01:36:46
-39,Taylor,Luke,Highland Hill Runners,MU21,01:37:04
+39,Taylor,Luke,Highland Hill Runners,M21,01:37:04
 40,Williams,Jason,Calder Valley FR,M40,01:37:25
 41,Gilmore,Iain,Carnethy,M,01:37:55
 42,Barber,Nick,Todmorden Harriers,M40,01:38:07
@@ -150,7 +150,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 149,Scott,Jocelyn,Fife AC,F60,02:10:13
 150,Tait,Dave,Dark Peak,M60,02:11:18
 151,Petrie,Jamie,Unattached,M40,02:12:07
-152,Greens,Michael,Penicuik Harriers,MU21,02:12:29
+152,Greens,Michael,Penicuik Harriers,M21,02:12:29
 153,Fleming,Rod,Westerlands CCC,M,02:13:07
 154,Mansell,Kate,Todmorden Harriers,F40,02:15:10
 155,Appleyard,David,Helm Hill Runners,M50,02:16:06

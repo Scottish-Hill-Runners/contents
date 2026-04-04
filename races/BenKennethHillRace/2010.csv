@@ -1,15 +1,15 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Alasdair,Ochil,M Record,00:29:41
+1,Anthony,Alasdair,Ochil,M,00:29:41
 2,Rodgers,David,Lochaber,M,00:30:18
 3,Keith,Alex,HBT,M,00:32:21
 4,Fallon,Steven,Carnethy,M40,00:34:31
-5,Simpson,Stuart,Ochil,V,00:35:47
+5,Simpson,Stuart,Ochil,M,00:35:47
 6,Dryden,Jimmy,Unattached,M50,00:36:33
 7,MacLellan,Donald A,Unattached,M,00:36:43
 8,Megan,David,Unattached,M,00:37:10
 9,Campbell,Angus,Unattached,M,00:39:14
 10,Dryden,Reggan,Unattached,M,00:39:23
-11,Wardlaw,Eilidh,HBT,F Record,00:39:37
+11,Wardlaw,Eilidh,HBT,F,00:39:37
 12,Campbell,Donald,Unattached,M,00:41:05
 13,Irvine,Raymond,Unattached,M,00:42:06
 14,Barr,Andrew,Unattached,M,00:44:08
@@ -44,7 +44,3 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 43,Nicholson,Morag,Unattached,F,01:08:00
 44,MacLellan,Angus,Unattached,M,01:10:19
 45,Cowey,Frank,Unattached,M,01:38:45
-46,Cowey,E,Unattached,M,-
-47,Cowey,D,Unattached,M,-
-48,Cantley,K,Unattached,M,-
-49,Vernon,Tony,Unattached,M,-

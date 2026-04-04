@@ -3,59 +3,59 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,Gilmore,Andrew,Carnethy Hill RC,M,01:21:14
 3,Stewart,Iain,Westerlands Cross Country Club,M,01:23:59
 4,Ascroft,John,Carnethy Hill RC,M,01:25:29
-5,Davis,Adrian,Carnethy Hill RC,MV50,01:25:34
+5,Davis,Adrian,Carnethy Hill RC,M50,01:25:34
 6,Gilmore,Iain,Carnethy Hill RC,M,01:26:54
-7,Smith,Alan,Deeside Runners,MV50,01:27:13
-8,Glendinning,Greig,Bellahouston Road Runners,MV40,01:27:22
+7,Smith,Alan,Deeside Runners,M50,01:27:13
+8,Glendinning,Greig,Bellahouston Road Runners,M40,01:27:22
 9,Cox,Andrew,Moorfoot Runners,M,01:27:44
 10,Mackie,Peter,Shettleston Harriers,M,01:27:55
-11,Love,Craig,Dundee Hawkhill Harriers,MV40,01:29:31
-12,Clarke,David,Fife AC,MS,01:30:04
+11,Love,Craig,Dundee Hawkhill Harriers,M40,01:29:31
+12,Clarke,David,Fife AC,M,01:30:04
 13,Hammond,John,Carnethy Hill RC,M,01:30:46
 14,Bonsor,Helen,Carnethy Hill RC,F,01:32:18
 15,Cooper,Brian,Perth Road Runners,M,01:33:21
-16,Kerridge,Donald,Deeside Runners,MV40,01:33:56
-17,Upson,Chris,Westerlands Cross Country Club,MV40,01:34:04
-18,Gilmore,Neil,Carnethy Hill RC,MV50,01:34:12
-19,Greaves,Andrew,Strathearn Harriers,MV40,01:34:34
-20,Blackwood,Ian,Unattached,MV40,01:35:21
+16,Kerridge,Donald,Deeside Runners,M40,01:33:56
+17,Upson,Chris,Westerlands Cross Country Club,M40,01:34:04
+18,Gilmore,Neil,Carnethy Hill RC,M50,01:34:12
+19,Greaves,Andrew,Strathearn Harriers,M40,01:34:34
+20,Blackwood,Ian,Unattached,M40,01:35:21
 21,Duke,Alasdair,Westerlands Cross Country Club,M,01:37:12
-22,Calothis,Marinos,Kinross Road Runners,MV40,01:42:38
-23,Jenkins,Mark,Unattached,MS,01:42:45
-24,Cowan,David,Fife AC,MV50,01:42:59
-25,Hirst,David,Deeside Runners,MV50,01:43:56
-26,Munro,Frazer,Carnegie Harriers,MV40,01:44:02
-27,Blackwood,Susan,Unattached,FV40,01:44:02
+22,Calothis,Marinos,Kinross Road Runners,M40,01:42:38
+23,Jenkins,Mark,Unattached,M,01:42:45
+24,Cowan,David,Fife AC,M50,01:42:59
+25,Hirst,David,Deeside Runners,M50,01:43:56
+26,Munro,Frazer,Carnegie Harriers,M40,01:44:02
+27,Blackwood,Susan,Unattached,F40,01:44:02
 28,Evans,Rhian,Strathearn Harriers,F,01:44:18
-29,Forster,Philip,FRA,MV50,01:44:37
-30,Grove,Matthew,Carnethy Hill RC,MV40,01:44:51
-31,Recoquille,Marc,FRA,MV40,01:44:57
-32,Riddell,Duncan,Westerlands Cross Country Club,MV40,01:45:47
-33,Wilson,Rob,Penicuik Harriers,MV40,01:45:48
+29,Forster,Philip,FRA,M50,01:44:37
+30,Grove,Matthew,Carnethy Hill RC,M40,01:44:51
+31,Recoquille,Marc,FRA,M40,01:44:57
+32,Riddell,Duncan,Westerlands Cross Country Club,M40,01:45:47
+33,Wilson,Rob,Penicuik Harriers,M40,01:45:48
 34,Ponjee,Hedwig,Unattached,F,01:46:01
 35,Gamble,Lisa,Hunters Bog Trotters,F,01:46:11
-36,Summers,Robert,Beacon runners,MV40,01:46:22
-37,MacDougal,Marina,Highland Hill Runners,FS,01:46:54
-38,Tipping,Phil,Strathearn Harriers,MV40,01:47:18
-39,Moffat,John,Highland Hill Runners,MV50,01:48:01
+36,Summers,Robert,Beacon runners,M40,01:46:22
+37,MacDougal,Marina,Highland Hill Runners,F,01:46:54
+38,Tipping,Phil,Strathearn Harriers,M40,01:47:18
+39,Moffat,John,Highland Hill Runners,M50,01:48:01
 40,Adam,Sarah,Westerlands Cross Country Club,F,01:50:22
-41,McEwan,John,Ochil Hill Runners,MV40,01:52:48
-42,Bowman,Angus,Lomond Hill Runners AAC,MV50,01:52:57
-43,Mill,John,Dundee Road Runners AC,MV40,01:53:28
+41,McEwan,John,Ochil Hill Runners,M40,01:52:48
+42,Bowman,Angus,Lomond Hill Runners AAC,M50,01:52:57
+43,Mill,John,Dundee Road Runners AC,M40,01:53:28
 44,Gatherer,Lynn,Unattached,F,01:54:11
-45,Forte,Phil,Dundee Hawkhill Harriers,MV50,01:54:31
-46,Duncan,David,Ochil Hill Runners,MV50,01:55:12
-47,Kerridge,Jane,Deeside Runners,FV50,01:56:35
-48,McLure,Neil,Unattached,MV40,01:59:59
-49,Nicol,Mel,Lomond Hill Runners AAC,FV40,02:03:14
-50,Oliver,Jane,Deeside Runners,FV50,02:10:58
-51,Oliver,David,Deeside Runners,MV50,02:11:50
-52,Sword,Lawrence,Unattached,MV40,02:13:52
-53,Gill,Olivia,Bellahouston Road Runners,FS,02:14:47
-54,Davidson,Stewart,Fife AC,MV60,02:16:15
-55,May,Timothy,Harmeny AC,MV50,02:16:19
-56,Love,Charlie,Dundee Hawkhill Harriers,MV70,02:18:39
-57,Fraser,Ronald,Dundee Road Runners AC,MV50,02:40:52
-58,King,Shelagh,Gala Harriers,FV50,02:44:28
-59,Hay,Debz,Anster haddies,FV40,02:44:40
-60,Kennedy,Alan,Dundee Hawkhill Harriers,MV50,03:02:55
+45,Forte,Phil,Dundee Hawkhill Harriers,M50,01:54:31
+46,Duncan,David,Ochil Hill Runners,M50,01:55:12
+47,Kerridge,Jane,Deeside Runners,F50,01:56:35
+48,McLure,Neil,Unattached,M40,01:59:59
+49,Nicol,Mel,Lomond Hill Runners AAC,F40,02:03:14
+50,Oliver,Jane,Deeside Runners,F50,02:10:58
+51,Oliver,David,Deeside Runners,M50,02:11:50
+52,Sword,Lawrence,Unattached,M40,02:13:52
+53,Gill,Olivia,Bellahouston Road Runners,F,02:14:47
+54,Davidson,Stewart,Fife AC,M60,02:16:15
+55,May,Timothy,Harmeny AC,M50,02:16:19
+56,Love,Charlie,Dundee Hawkhill Harriers,M70,02:18:39
+57,Fraser,Ronald,Dundee Road Runners AC,M50,02:40:52
+58,King,Shelagh,Gala Harriers,F50,02:44:28
+59,Hay,Debz,Anster haddies,F40,02:44:40
+60,Kennedy,Alan,Dundee Hawkhill Harriers,M50,03:02:55

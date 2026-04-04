@@ -102,7 +102,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 101,Gaff,Melanie,Cairngorm Runners,F,00:45:48
 102,Beedie,Iain,Lomond Hill Runners,M40,00:45:56
 103,Midgley,Peter,Westerlands,M50,00:46:05
-104,Gorman,Duncan,Westerlands,MJ,00:46:12
+104,Gorman,Duncan,Westerlands,M16,00:46:12
 105,Stevenson,Kevin,Gala Harriers,M50,00:46:45
 106,Stewart,David,Unattached,M40,00:46:47
 107,Wilson,Joan,Lomond Hill Runners,F50,00:46:48
@@ -148,7 +148,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 147,Paul,Brenda,Westerlands,F,00:58:53
 148,Johnston,Alison,HBT,F50,01:00:02
 149,Tryl,Hannah,Unattached,F,01:01:23
-150,McCombe,Alice,Unattached,FJ,01:01:23
+150,McCombe,Alice,Unattached,F16,01:01:23
 151,Johnston,Emma,Tain Runners,F40,01:01:27
 152,Hemmings-Portas,Malcolm,Unattached,M50,01:01:36
 153,Spalding,Douglas,Unattached,M50,01:02:22

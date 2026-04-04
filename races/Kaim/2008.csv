@@ -3,7 +3,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,Smith,Alan,Deeside,M40,00:32:39
 3,Glencorse,Colin,Unattached,M,00:33:44
 4,Upson,Chris,Westerlands,M40,00:33:59
-5,Emsley,Nick,Arran,MU20,00:34:05
+5,Emsley,Nick,Arran,M20,00:34:05
 6,McLachlan,Angus,Glasgow Uni H&H,M,00:34:18
 7,Birnie,Andy,Bellahouston RR,M,00:34:26
 8,Haining,Keith,Kilmarnock,M40,00:34:31
@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,McKendrick,Scott,Westerlands,M,00:36:03
 13,Mitchell,Scott,Glasgow Uni H&H,M,00:36:04
 14,MacLeod,Murdo,Westerlands,M50,00:36:57
-15,McLoone,Michael,Greenock Glenpark,MU20,00:37:09
+15,McLoone,Michael,Greenock Glenpark,M20,00:37:09
 16,Moore,John,Irvine AC,M40,00:37:16
 17,Homewood,Ellen,Westerlands,F,00:37:19
 18,Begley,Tommy,Irvine AC,M,00:37:20
@@ -48,5 +48,5 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 47,McKinlay,John,Troon Tortoises,M60,00:48:18
 48,McManus,Ian,Irvine AC,M60,00:48:40
 49,McCarlie,Billy,Unattached,M50,00:48:58
-50,McTaggart,Laura,Girvan,FU20,00:52:21
+50,McTaggart,Laura,Girvan,F20,00:52:21
 51,McLaughlin,Pat,Westerlands,F50,00:56:25

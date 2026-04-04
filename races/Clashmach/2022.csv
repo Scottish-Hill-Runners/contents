@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Adamson,Ian,Garioch Road Runners,M,00:30:25
 19,Harris,Greg,Unattached,M,00:30:34
 20,Anderson,Colin,Unattached,M,00:30:38
-21,Rogers,Calum,Huntly Quines & Loons,M Jun,00:30:45
+21,Rogers,Calum,Huntly Quines & Loons,M16,00:30:45
 22,Lovie,Louise,Dufftown JS,F,00:30:45
 23,Cruickshank,Greig,JS Kintore RC,M,00:30:52
 24,Reed,Joyce,Huntly Quines & Loons,F,00:30:58
@@ -29,19 +29,19 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Barron,PJ,British Nordic Ski Club,M,00:31:35
 29,Ipson,Poul,Insch TRC,M,00:32:22
 30,Whyte,Jo,Garioch Road Runners,F,00:32:33
-31,Anderson,Adam,Gordon Schools,M Jun,00:32:37
+31,Anderson,Adam,Gordon Schools,M16,00:32:37
 32,Kennedy,Craig,Garioch Road Runners,M,00:32:40
 33,Orr,Gordon,Garioch Road Runners,M,00:32:44
 34,Redgewell,Nicola,Garioch Road Runners,F,00:33:15
 35,Wilson,Anthony,Insch TRC,M,00:33:20
-36,Anderson,Zander,Unattached,M Jun,00:33:30
+36,Anderson,Zander,Unattached,M16,00:33:30
 37,Knowles,Jim,Alford Running Club,M,00:33:40
 38,Law,Mark,Huntly Quines & Loons,M,00:34:04
 39,Gatenby,Andrew,Huntly Quines & Loons,M,00:34:25
 40,Walker,Jamie,JS Kintore RC,M,00:34:37
 41,Silcocks,Linda,Huntly Quines & Loons,F,00:34:38
 42,Beaton,Linda,JS Kintore RC,F,00:34:40
-43,Plaine,Kyle,Gordon Schools,M Jun,00:34:48
+43,Plaine,Kyle,Gordon Schools,M16,00:34:48
 44,Fleetham,Jonathan,Garioch Road Runners,M,00:35:39
 45,Roy,Lindsay,Unattached,F,00:35:49
 46,MacInnes,Maureen,Garioch Road Runners,F,00:35:59
@@ -69,7 +69,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 68,Campbell,Rod,Cosmics,M,00:41:40
 69,Simpson,Louise,Newburgh Dunes RC,F,00:43:24
 70,Bryan,Elaine,Insch TRC,F,00:44:15
-71,Milne,Louisa,Gordon Schools,F Jun,00:44:36
+71,Milne,Louisa,Gordon Schools,F16,00:44:36
 72,Taylor,Sue,Cosmics,F,00:45:58
 73,Thomson,Frances,Unattached,F,00:48:34
 74,Sharp,Christine,Huntly Quines & Loons,F,00:48:34

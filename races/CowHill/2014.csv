@@ -1,7 +1,7 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Barrington,Andrew,Lochaber AC,M,0:19:09
 2,Macdonald,Steve,Lochaber AC,M,0:19:18
-3,Fraser,Callum,Lochaber AC,MJ,0:19:50
+3,Fraser,Callum,Lochaber AC,M16,0:19:50
 4,Burns,Stephen,Lochaber AC,M40,0:19:54
 5,MacDonald,Gary,Lochaber AC,M,0:19:59
 6,Gay,Jon,Lochaber AC,M40,0:20:33
@@ -24,12 +24,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Forster,Damian,Lochaber AC,M40,0:24:38
 24,Matthewson,Alastair,Highland Hill Runners,M40,0:24:51
 25,Kennedy,Steve,Lochaber AC,M50,0:25:00
-26,Burns,Steven,Lochaber AC,MJ,0:25:11
+26,Burns,Steven,Lochaber AC,M16,0:25:11
 27,Shaw,Lyndsey,Lochaber AC,F,0:25:21
 28,Duncan,David,Ochil Hill Runners,M50,0:25:35
 29,Forster,Nix,Lochaber AC,F40,0:25:38
 30,Lye,Mary,Carnethy,F,0:25:40
-31,MacKay,Isla,Lochaber AC,FJ,0:26:17
+31,MacKay,Isla,Lochaber AC,F16,0:26:17
 32,Lang,Kenny,Lochaber AC,M40,0:26:47
 33,MacKinnon,Vikki,Lochaber AC,F,0:28:27
 34,Ness,Katherine,Lochaber AC,F,0:28:37

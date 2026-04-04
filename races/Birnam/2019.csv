@@ -3,20 +3,20 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 2,Waldie,James,HBT,M,0:30:46
 3,Britton,James,Carnethy,M40,0:31:04
 4,Grant-Pantrey,Chris,Shettleston Harriers,M,0:32:15
-5,Harris,Tom,Fife AC,MJunior,0:32:18
+5,Harris,Tom,Fife AC,M16,0:32:18
 6,Cabrera Valdes,Francisco Javier,Highland Hill Runners,M,0:32:32
 7,Anthony,Alasdair,Ochil Hill Runners,M40,0:33:38
 8,McGavock,Russell,Unattached,M,0:33:39
 9,Harris,Mark,Fife AC,M50,0:33:47
 10,Pringle,Stuart,Deeside Runners,M40,0:34:25
-11,MacMillan,Louis,Jura AC,M Junior,0:34:41
+11,MacMillan,Louis,Jura AC,M16,0:34:41
 12,Walsh,Chris,HBT,M,0:34:48
 13,Breckenridge,Bill,Shettleston Harriers,M50,0:35:08
 14,Clark,David,Carnegie Harriers,M40,0:35:09
 15,Mudge,Angela,Carnethy,F40,0:35:21
 16,Johnson,Mike,Bowland Fell Runners,M50,0:35:25
 17,Stewart,Vinnie,Dundee Road Runners,M,0:35:28
-18,Elliot,Sam,Unattached,M Junior,0:36:25
+18,Elliot,Sam,Unattached,M16,0:36:25
 19,Matthews,Steve,Dundee Hawkhill,M40,0:36:31
 20,Riggans,Liam,Carnethy,M,0:36:40
 21,Smith,Alan,Deeside Runners,M50,0:36:59
@@ -37,7 +37,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Gallagher,Andy,Strathearn Harriers,M50,0:39:32
 37,Macdonald,Matthew,Lochaber AC,M,0:39:41
 38,Thomson,Iain,Lomond Hill Runners,M,0:39:54
-39,Campbell,Eilidh,Deeside Runners,F Junior,0:40:04
+39,Campbell,Eilidh,Deeside Runners,F16,0:40:04
 40,Maxwell,Bill,Unattached,M60,0:40:45
 41,Honeyman,Steven,Carnegie Harriers,M40,0:40:54
 42,Ramsay,Michael,Perth Tri Club,M,0:40:56
@@ -55,7 +55,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Smith,Tim,Unattached,M40,0:41:52
 55,Simpson,Joel,Unattached,M40,0:42:16
 56,Hall,Steven,Perth Road Runners,M40,0:42:28
-57,MacMillan,Jura,Jura AC,M Junior,0:42:30
+57,MacMillan,Jura,Jura AC,M16,0:42:30
 58,Millar,Jonathan,Carnegie Harriers,M,0:42:31
 59,Stevenson,John,Ochil Hill Runners,M50,0:42:40
 60,Richmond,Mike,Unattached,M,0:42:47
@@ -72,7 +72,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 71,Best,Michelle,Carnegie Harriers,F40,0:44:56
 72,Coombs,Kirsty,Shettleston Harriers,F,0:45:03
 73,Johnston,Connor,Unattached,M,0:45:14
-74,Campbell,Kirsty,Deeside Runners,FJunior,0:45:20
+74,Campbell,Kirsty,Deeside Runners,F16,0:45:20
 75,Duncan,David,Ochil Hill Runners,M60,0:45:36
 76,Sheenan,Rachel,Unattached,F,0:45:44
 77,Brannan,Tosh,Lothian,M50,0:45:59

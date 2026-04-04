@@ -4,7 +4,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Pryde,Moray,Lothian RC,M,00:32:26
 4,Abernethy,Rory,Ochil Hill Runners,M,00:32:42
 5,Pulham,Harry,Shettleston Harriers,M,00:33:23
-6,Wright,Angus,Edinburgh Uni H&H,MU23,00:33:33
+6,Wright,Angus,Edinburgh Uni H&H,M23,00:33:33
 7,Davies,Fred,Shettleston Harriers,M,00:33:52
 8,Malcolm,Gregor,Ochil Hill Runners,M,00:34:09
 9,Hickey,Hamish,Central AC,M,00:34:35
@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Grant Pantrey,Chris,Shettleston Harriers,M40,00:38:50
 25,Connaghan,John,Shettleston Harriers,M50,00:39:16
 26,Cowie,Martyn,Unattached,M40,00:39:37
-27,Shaw,Emily,Edinburgh Uni H&H,FU23,00:39:46
+27,Shaw,Emily,Edinburgh Uni H&H,F23,00:39:46
 28,Stephen,Jill,Deeside Runners,F40,00:40:04
 29,Freshwater,Craig,Deeside Runners,M40,00:40:19
 30,Leigh,Helen,Inverness Harriers,F,00:40:28
@@ -46,7 +46,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Wallis,Sally,Deeside Runners,F40,00:42:39
 46,Irvine,Clara-Jane,Deeside Runners,F,00:43:22
 47,Stockton,Mark,Cosmics,M40,00:43:31
-48,Astley,Ellen,Strathclyde Uni,FU23,00:43:43
+48,Astley,Ellen,Strathclyde Uni,F23,00:43:43
 49,Mudge,Angela,Ochil Hill Runners,F50,00:43:52
 50,Murdoch,Elaine,Cosmics,F,00:43:58
 51,Colley,Dale,Central AC,M,00:44:06
@@ -55,7 +55,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 54,Mayers,James,Musselburgh,M60,00:44:26
 55,Williamson,Jason,Cosmics,M50,00:44:27
 56,Stone,Malcolm,AAAC,M50,00:44:34
-57,Griffiths,Gemma,Shettleston Harriers,FU23,00:44:42
+57,Griffiths,Gemma,Shettleston Harriers,F23,00:44:42
 58,O'neill,Owen,Westerlands CCC,M40,00:44:56
 59,Winter,Stephen,Shettleston Harriers,M40,00:45:01
 60,Ball,Duncan,Penicuik Harriers,M60,00:45:04
@@ -77,7 +77,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 76,Spinks,Nicky,Dark Peak FR,F50,00:49:14
 77,Malcolmson,Craig,Hartfell Hill Runners,M60,00:49:16
 78,Reid,Don,Westerlands CCC,M60,00:49:18
-79,Meek,Katie,Unattached,FU23,00:49:20
+79,Meek,Katie,Unattached,F23,00:49:20
 80,Larmour,Colin,Cosmics,M50,00:49:30
 81,Mackenzie,Ruth,Deeside Runners,F50,00:49:46
 82,Whelan,Grace,Central AC,F,00:49:59
@@ -116,6 +116,6 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 115,Thomson,Frances,Garioch Roadrunners,F60,01:04:08
 116,Ferguson,Mark,Unattached,M,01:04:27
 117,Brooke,Sarah,Unattached,F,01:09:17
-118,Campbell,Rod,Cosmics,V70,01:14:05
+118,Campbell,Rod,Cosmics,M70,01:14:05
 119,Oliver,Jane,Deeside Runners,F60,01:15:04
 120,Nakaya,Tohru,Unattached,M60,01:15:28

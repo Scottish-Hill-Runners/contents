@@ -1,71 +1,71 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fallas,Andrew,Carnethy,MS,02:47:13
-2,Harris,Mark,Fife AC,MV,02:49:20
-3,Eiser,Dave,Ochil,MS,02:50:52
-4,Keith,Alec,HBT,MV,02:54:56
-5,Rawlik,Konrad,Carnethy,MS,02:55:31
-6,Chepelin,Oleg,Shettleston Harriers,MS,03:00:16
-7,Whitlie,Stuart,Carnethy,MV,03:06:00
-8,Gamble,Ed,Cheshire Hill Racers,MV,03:09:30
-9,Winter,Stephen,Shettleston Harriers,MS,03:10:22
-10,Kirby,Graham,Fife AC,MV,03:10:47
-11,Gompel,Roger van,Dundee Hawkhill Harriers,MV,03:12:09
-12,Paris,Jasmin,Carnethy,FS,03:12:11
-13,Warman,Julian,HBT,MV,03:12:34
-14,Priestly,Andrea,Ochil,FV,03:12:43
-15,Upson,Chris,Westies,MV,03:13:17
-16,Burt,Cameron,Westies,MS,03:13:19
-17,Pringle,Alastair,Shettleston Harriers,MV,03:13:57
-18,McLennan,Ross,Ochil,MS,03:14:09
-19,Geoghegan,Michael,Portobello Running Club,MS,03:16:25
-20,Love,Craig,Dundee Hawkhill Harriers,MV,03:17:08
-21,Allan,Douglas,Ochil,MS,03:18:35
-22,Schofield,Andrew,Borrowdale FR,MV,03:19:33
-23,Goddard,Roger,FVO,MS,03:22:16
-24,McFarlane,Sean,Ochil,MS,03:25:41
-25,Buckden,David,Unattached,MS,03:26:29
-26,Raistrick,Eilidh,Highland Hill Runners,FS,03:28:17
-27,Paterson,Robbie,Forres Harriers,MS,03:28:18
-28,Irvine,Gill,Highland Hill Runners,FSV,03:30:32
-29,Buchanan,Peter,Ochil,MSV,03:30:37
-30,Gilkinson,Alan,Westies,MV,03:36:40
-31,Mitchell,Dave,Dundee Hawkhill Harriers,MV,03:38:20
-32,Bell,Stephen,Helensburgh AAC,MV,03:38:40
-33,Mitchell,Scott,Westies,MS,03:38:47
-34,Hammond,John,Carnethy,MS,03:39:19
-35,Popple,Steve,Highland Hill Runners,MV,03:40:19
-36,Inman,Jason,Ochil,MV,03:41:15
-37,Brooks,Mike,Penicuik Harriers,MV,03:42:43
-38,Connor,Julia,Moorfoot Runners,FS,03:44:21
-39,Bonsor,Helen,Carnethy,FS,03:45:12
-40,Mathews,Steve,Dundee Hawkhill Harriers,MS,03:49:56
-41,Malia,David,Mercia,MV,03:51:02
-42,Gay,Dan,HBT,MS,03:51:59
-43,Davie,Kevin,Carnegie,MS,03:53:16
-44,Brown,Jamie,HBT,MS,03:57:20
-45,Dean,Hazel,Central A.C.,FV,03:59:12
-46,Bowie,Tom,Carnegie,M60+,04:00:49
-47,Martin,Ron,Ochil,MV,04:01:23
-48,Kelsall,Fiona,Ochil,FV,04:02:26
-49,Kelly,Chris,Unattached,MV,04:02:33
-50,Cowan,Paula,Westies,FV,04:05:33
-51,Donnelly,John,Westies,MV,04:05:33
-52,Mackie,Peter,Unattached,MS,04:09:08
-53,McVey,Alexander,Glossopdale,MS,04:10:35
-54,Wilson,Rob,Penicuik Harriers,MV,04:11:23
-55,Blyth,Mark,Unattached,MV,04:15:16
-56,Sim,A,Carnegie,MSV,04:20:54
-57,Brown,Kevin,Ochil,MS,04:29:29
-58,Drewette,David,Ochil,MV,04:30:14
-59,Sword,Lawrence Trevor,Unattached,MV,04:33:31
-60,Nowicki,Michael,Portobello Running Club,MS,04:33:53
-61,Greer,Stephen,Carnegie,MSV,04:37:06
-62,Hamer,John,Westies,MV,04:41:38
-63,Pugh,Roderick,Kilmarnock Harriers,MSV,04:44:41
-64,Love,Charlie,Dundee Hawkhill Harriers,M60+,04:50:44
-65,Oliver,Chris,HBT,M60+,04:57:40
-66,Law,Calum,Unattached,MS,05:10:19
-67,Howie,Brian,Carnethy,M60+,05:10:45
-68,Sinclair,Melanie,Carnegie,FS,05:12:30
-69,MacDermid,Lisa,Strathearn Harriers,FSV,05:14:13
-70,Hughes,Bob,Ochil,MS,05:14:14
+1,Fallas,Andrew,Carnethy,M,02:47:13
+2,Harris,Mark,Fife AC,M,02:49:20
+3,Eiser,Dave,Ochil,M,02:50:52
+4,Keith,Alec,HBT,M,02:54:56
+5,Rawlik,Konrad,Carnethy,M,02:55:31
+6,Chepelin,Oleg,Shettleston Harriers,M,03:00:16
+7,Whitlie,Stuart,Carnethy,M,03:06:00
+8,Gamble,Ed,Cheshire Hill Racers,M,03:09:30
+9,Winter,Stephen,Shettleston Harriers,M,03:10:22
+10,Kirby,Graham,Fife AC,M,03:10:47
+11,Gompel,Roger van,Dundee Hawkhill Harriers,M,03:12:09
+12,Paris,Jasmin,Carnethy,F,03:12:11
+13,Warman,Julian,HBT,M,03:12:34
+14,Priestly,Andrea,Ochil,F,03:12:43
+15,Upson,Chris,Westies,M,03:13:17
+16,Burt,Cameron,Westies,M,03:13:19
+17,Pringle,Alastair,Shettleston Harriers,M,03:13:57
+18,McLennan,Ross,Ochil,M,03:14:09
+19,Geoghegan,Michael,Portobello Running Club,M,03:16:25
+20,Love,Craig,Dundee Hawkhill Harriers,M,03:17:08
+21,Allan,Douglas,Ochil,M,03:18:35
+22,Schofield,Andrew,Borrowdale FR,M,03:19:33
+23,Goddard,Roger,FVO,M,03:22:16
+24,McFarlane,Sean,Ochil,M,03:25:41
+25,Buckden,David,Unattached,M,03:26:29
+26,Raistrick,Eilidh,Highland Hill Runners,F,03:28:17
+27,Paterson,Robbie,Forres Harriers,M,03:28:18
+28,Irvine,Gill,Highland Hill Runners,F40,03:30:32
+29,Buchanan,Peter,Ochil,M40,03:30:37
+30,Gilkinson,Alan,Westies,M,03:36:40
+31,Mitchell,Dave,Dundee Hawkhill Harriers,M,03:38:20
+32,Bell,Stephen,Helensburgh AAC,M,03:38:40
+33,Mitchell,Scott,Westies,M,03:38:47
+34,Hammond,John,Carnethy,M,03:39:19
+35,Popple,Steve,Highland Hill Runners,M,03:40:19
+36,Inman,Jason,Ochil,M,03:41:15
+37,Brooks,Mike,Penicuik Harriers,M,03:42:43
+38,Connor,Julia,Moorfoot Runners,F,03:44:21
+39,Bonsor,Helen,Carnethy,F,03:45:12
+40,Mathews,Steve,Dundee Hawkhill Harriers,M,03:49:56
+41,Malia,David,Mercia,M,03:51:02
+42,Gay,Dan,HBT,M,03:51:59
+43,Davie,Kevin,Carnegie,M,03:53:16
+44,Brown,Jamie,HBT,M,03:57:20
+45,Dean,Hazel,Central A.C.,F,03:59:12
+46,Bowie,Tom,Carnegie,M60,04:00:49
+47,Martin,Ron,Ochil,M,04:01:23
+48,Kelsall,Fiona,Ochil,F,04:02:26
+49,Kelly,Chris,Unattached,M,04:02:33
+50,Cowan,Paula,Westies,F,04:05:33
+51,Donnelly,John,Westies,M,04:05:33
+52,Mackie,Peter,Unattached,M,04:09:08
+53,McVey,Alexander,Glossopdale,M,04:10:35
+54,Wilson,Rob,Penicuik Harriers,M,04:11:23
+55,Blyth,Mark,Unattached,M,04:15:16
+56,Sim,A,Carnegie,M40,04:20:54
+57,Brown,Kevin,Ochil,M,04:29:29
+58,Drewette,David,Ochil,M,04:30:14
+59,Sword,Lawrence Trevor,Unattached,M,04:33:31
+60,Nowicki,Michael,Portobello Running Club,M,04:33:53
+61,Greer,Stephen,Carnegie,M40,04:37:06
+62,Hamer,John,Westies,M,04:41:38
+63,Pugh,Roderick,Kilmarnock Harriers,M40,04:44:41
+64,Love,Charlie,Dundee Hawkhill Harriers,M60,04:50:44
+65,Oliver,Chris,HBT,M60,04:57:40
+66,Law,Calum,Unattached,M,05:10:19
+67,Howie,Brian,Carnethy,M60,05:10:45
+68,Sinclair,Melanie,Carnegie,F,05:12:30
+69,MacDermid,Lisa,Strathearn Harriers,F40,05:14:13
+70,Hughes,Bob,Ochil,M,05:14:14

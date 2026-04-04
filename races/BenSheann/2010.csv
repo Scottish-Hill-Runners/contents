@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gatens,Adam,Westerlands,MJ,0:27:48
+1,Gatens,Adam,Westerlands,M16,0:27:48
 2,Fallon,Steven,Carnethy,M40,0:28:21
 3,Smith,Alan,Deeside Runners,M50,0:29:00
 4,Stevenson,John,Ochil Hill Runners,M40,0:29:53
@@ -14,7 +14,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Upson,Chris,Westerlands,M40,0:31:47
 14,Buchanan,Catriona,Ochil Hill Runners,F,0:31:57
 15,O'Shea,Emma,Deeside Runners,F,0:32:01
-16,Crowe,Jamie,Dundee Hawkhill,MJ,0:32:51
+16,Crowe,Jamie,Dundee Hawkhill,M16,0:32:51
 17,Coombs,Richard,Central AC,M40,0:33:11
 18,Hunter,Alan,Ochil Hill Runners,M40,0:33:17
 19,Kelly,Graham,Westerlands,M40,0:33:28
@@ -44,7 +44,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 43,Dunlop,Fiona,Unattached,F40,0:40:32
 44,O'Neill,David,Lochaber AC,M40,0:40:43
 45,Love,Charlie,Dundee Hawkhill,M60,0:40:48
-46,Walton,Scott,Unattached,MJ,0:40:54
+46,Walton,Scott,Unattached,M16,0:40:54
 47,Campbell,Jenni,Unattached,F,0:41:02
 48,Dealtry,Eddie,Ochil Hill Runners,M60,0:41:12
 49,Cromar,Steve,Dundee Hawkhill,M60,0:41:15

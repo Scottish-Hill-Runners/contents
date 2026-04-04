@@ -1,71 +1,71 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Riddle,Kenny,Highland Hill Runners,MV40,00:57:02
+1,Riddle,Kenny,Highland Hill Runners,M40,00:57:02
 2,Mitchell,Craig,Lochaber Athletic Club,M,00:58:45
-3,Gorman,Manny,Westerlands Cross Country Club,MV40,00:59:53
+3,Gorman,Manny,Westerlands Cross Country Club,M40,00:59:53
 4,Smith,Tom,Lochaber Athletic Club,M,01:00:56
 5,Bannerman,Ross,Highland Hill Runners,M,01:02:09
-6,Smith,Alan,Deeside runners,MV40,01:02:38
-7,Gallie,David,Inverness Harriers,MV40,01:02:47
+6,Smith,Alan,Deeside runners,M40,01:02:38
+7,Gallie,David,Inverness Harriers,M40,01:02:47
 8,Kennedy,Peter,Lochaber Athletic Club,M,01:03:03
-9,Hepburn,John,Lochaber Athletic Club,MV40,01:03:20
-10,Macbeath,Niall,Lochaber Athletic Club,MV40,01:04:31
+9,Hepburn,John,Lochaber Athletic Club,M40,01:03:20
+10,Macbeath,Niall,Lochaber Athletic Club,M40,01:04:31
 11,Clark,Niall,Lochaber Athletic Club,M,01:04:55
-12,Shaw,Richard,Lochaber Athletic Club,MV40,01:05:09
-13,Kennedy,Ali,Lochaber Athletic Club,MV40,01:05:14
-14,Stewart,John,Lochaber Athletic Club,MV40,01:05:37
-15,Bennet,Sandy,Carnegie Harriers,MV40,01:06:07
-16,Worsley,Steven,Highland Hill Runners,MV40,01:07:23
+12,Shaw,Richard,Lochaber Athletic Club,M40,01:05:09
+13,Kennedy,Ali,Lochaber Athletic Club,M40,01:05:14
+14,Stewart,John,Lochaber Athletic Club,M40,01:05:37
+15,Bennet,Sandy,Carnegie Harriers,M40,01:06:07
+16,Worsley,Steven,Highland Hill Runners,M40,01:07:23
 17,Boa,Willie,Lochaber Athletic Club,M,01:07:28
 18,McKendrick,Scott,Westerlands Cross Country Club,M,01:08:50
-19,Gorgas,Steffen,Westerlands Cross Country Club,MV40,01:09:11
-20,Brooks,Graham,Lochaber Athletic Club,MV50,01:09:17
+19,Gorgas,Steffen,Westerlands Cross Country Club,M40,01:09:11
+20,Brooks,Graham,Lochaber Athletic Club,M50,01:09:17
 21,Evans,Donald,Unattached,M,01:09:22
 22,Meekin,Nicola,Lochaber Athletic Club,F,01:09:25
-23,Delaney,Kevin,Skye & Lochalsh,MV40,01:10:07
+23,Delaney,Kevin,Skye & Lochalsh,M40,01:10:07
 24,Blackhall,Keith,Lochaber Athletic Club,M,01:10:16
-25,Beagrie,Joe,Lochaber Athletic Club,MV40,01:11:08
-26,Verbiest,Dirk,Keith & District,MV50,01:11:53
-27,Wilson,Stewart,Inverness Harriers,MV40,01:12:49
+25,Beagrie,Joe,Lochaber Athletic Club,M40,01:11:08
+26,Verbiest,Dirk,Keith & District,M50,01:11:53
+27,Wilson,Stewart,Inverness Harriers,M40,01:12:49
 28,Blackhall,Amanda,Lochaber Athletic Club,F,01:12:53
-29,Duncan,David,Ochil Hill Runners,MV50,01:13:58
+29,Duncan,David,Ochil Hill Runners,M50,01:13:58
 30,Macdonald,Matthew,Lochaber Athletic Club,M,01:14:30
-31,Denny,Colin,Lochaber Athletic Club,MV40,01:14:44
-32,Treasurer,Jim,Lochaber Athletic Club,MV50,01:16:17
+31,Denny,Colin,Lochaber Athletic Club,M40,01:14:44
+32,Treasurer,Jim,Lochaber Athletic Club,M50,01:16:17
 33,Bannerman,Roxy,Highland Hill Runners,F,01:17:16
 34,Macmillan,Susannah,Unattached,F,01:17:45
 35,Mackenzie,Sarah,Lochaber Athletic Club,F,01:18:25
-36,Adams,Ian,Lochaber Athletic Club,MV50,01:19:45
-37,Orr,Ernie,Lochaber Athletic Club,MV60,01:20:41
-38,Blakemore,Ian,Eryri Harriers,MV50,01:21:30
+36,Adams,Ian,Lochaber Athletic Club,M50,01:19:45
+37,Orr,Ernie,Lochaber Athletic Club,M60,01:20:41
+38,Blakemore,Ian,Eryri Harriers,M50,01:21:30
 39,Campbell,Ewen,Lochaber Athletic Club,M,01:22:13
-40,Bindels,Bert,Lochaber Athletic Club,MV50,01:22:18
-41,Wilson,Colin,Carnethy Hill Runners,MV40,01:24:11
-42,Pearce,Emma,Lochaber Athletic Club,FV40,01:24:19
+40,Bindels,Bert,Lochaber Athletic Club,M50,01:22:18
+41,Wilson,Colin,Carnethy Hill Runners,M40,01:24:11
+42,Pearce,Emma,Lochaber Athletic Club,F40,01:24:19
 43,Macdonald,Nicky,Lochaber Athletic Club,F,01:24:49
-44,Scott,Bill,Lochaber Athletic Club,MV50,01:25:40
+44,Scott,Bill,Lochaber Athletic Club,M50,01:25:40
 45,Macgillivray,Andrew,Bridport Runners,M,01:26:31
-46,Wilson,Joan,Carnethy Hill Runners,FV40,01:26:57
-47,Shaw,Mark,Lochaber Athletic Club,MV40,01:29:06
-48,Kennedy,Nancy,Lochaber Athletic Club,FV50,01:29:13
-49,Ross,Susan Jane,Lochaber Athletic Club,FV40,01:29:20
-50,Stapley,Tony,Portobello Running Club,MV60,01:29:34
-51,Evans,Ros,Unattached,FV50,01:30:25
-52,Morrison,Michael,Lochaber Athletic Club,MV40,01:30:59
-53,Aitken,Morag,Lochaber Athletic Club,FV40,01:32:29
-54,Ness,Jo,Lochaber Athletic Club,FV40,01:33:03
-55,Kitson,Aileen,Lochaber Athletic Club,FV50,01:36:51
-56,Grant,John,Lochaber Athletic Club,MV40,01:38:21
-57,Jardine,Jimmy,Lochaber Athletic Club,MV60,01:38:38
-58,Duncan,Aileen,Lochaber Athletic Club,FV40,01:38:43
+46,Wilson,Joan,Carnethy Hill Runners,F40,01:26:57
+47,Shaw,Mark,Lochaber Athletic Club,M40,01:29:06
+48,Kennedy,Nancy,Lochaber Athletic Club,F50,01:29:13
+49,Ross,Susan Jane,Lochaber Athletic Club,F40,01:29:20
+50,Stapley,Tony,Portobello Running Club,M60,01:29:34
+51,Evans,Ros,Unattached,F50,01:30:25
+52,Morrison,Michael,Lochaber Athletic Club,M40,01:30:59
+53,Aitken,Morag,Lochaber Athletic Club,F40,01:32:29
+54,Ness,Jo,Lochaber Athletic Club,F40,01:33:03
+55,Kitson,Aileen,Lochaber Athletic Club,F50,01:36:51
+56,Grant,John,Lochaber Athletic Club,M40,01:38:21
+57,Jardine,Jimmy,Lochaber Athletic Club,M60,01:38:38
+58,Duncan,Aileen,Lochaber Athletic Club,F40,01:38:43
 59,Morgan,Sharyn,Lochaber Athletic Club,F,01:38:55
-60,Fullarton,Iain,Unattached,MV60,01:39:34
+60,Fullarton,Iain,Unattached,M60,01:39:34
 61,Paul,Brenda,Westerlands Cross Country Club,F,01:39:56
-62,McWhinnie,Janet,Carnethy Hill Runners,FV40,01:44:14
-63,Murdoch,Elma,Lochaber Athletic Club,FV50,01:45:58
-64,Macphee,Margaret Rose,Lochaber Athletic Club,FV40,01:48:22
-65,Cribbes,Stuart,Unattached,MV40,01:48:36
+62,McWhinnie,Janet,Carnethy Hill Runners,F40,01:44:14
+63,Murdoch,Elma,Lochaber Athletic Club,F50,01:45:58
+64,Macphee,Margaret Rose,Lochaber Athletic Club,F40,01:48:22
+65,Cribbes,Stuart,Unattached,M40,01:48:36
 66,Jackson,Jenna,Jog Scotland,F,01:48:37
 67,Macleod,Clare,Lochaber Athletic Club,F,01:48:55
-68,Kennedy,Teresa,Lochaber Athletic Club,FV40,01:49:03
-69,Watt,June,Lochaber Athletic Club,FV40,01:56:00
-70,Hamilton,Ian,Beith Harriers,MV60,02:15:38
+68,Kennedy,Teresa,Lochaber Athletic Club,F40,01:49:03
+69,Watt,June,Lochaber Athletic Club,F40,01:56:00
+70,Hamilton,Ian,Beith Harriers,M60,02:15:38

@@ -1,86 +1,86 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Al,Ochils,Sen,00:13:04
-2,Strain,Murray,HBT,Sen,00:13:28
-3,Wright,Andrew,Carnegie,Sen,00:13:44
-4,Fallon,Steven,Carnethy,V40,00:14:19
-5,Chepelin,Oleg,Shettlestone Harriers,Sen,00:14:23
-6,Smith,Bruce,Carnethy,V40,00:14:47
-7,Hart,Al,HBT,Sen,00:15:00
-8,Crowe,Des,Shettlestone Harriers,V40,00:15:11
-9,Walker,Craig,U/A,Sen,00:15:24
-10,Bouchier,Shane,Carnethy,Sen,00:15:29
-11,Anderson,Russell,Moorfoots,V50,00:16:04
-12,Upson,Chris,Westies,V40,00:16:07
-13,Gallier,Jonnie,U/A,Sen,00:16:10
-14,Green,Gareth,U/A,Sen,00:16:23
-15,Nash,Graham,U/A,V40,00:16:36
-16,Jarvis,James,HBT,Sen,00:16:37
-17,Barr,Tom,HBT,Sen,00:16:38
-18,Henry,Robert,U/A,V40,00:16:39
-19,James,Mick,Carnethy,V40,00:16:40
-20,Pride,Gordon,Lomond HR,V50,00:16:43
-21,Dickson,David,Garscube,V50,00:16:51
-22,Millard,Andy,Carnethy,Sen,00:16:58
-23,Mathieson,Keith,U/A,Sen,00:17:04
-24,Erskine,Alec,U/A,V40,00:17:06
-25,Hubbard,Peter,Corstorphine,Sen,00:17:07
-26,Hulme,Martin,Corstorphine,V50,00:17:12
-27,Blair-Fish,John,Carnethy,V50,00:17:13
-28,Queen,Mark,U/A,Sen,00:17:14
-29,Duncan,David,Ochils,V50,00:17:26
-30,Mason,David,Lithgay Harriers,V40,00:17:31
-31,Shepard,Andrew,Carnethy,V40,00:17:34
-32,Wardlaw,Eilidh,HBT,FS,00:17:36
-33,McLeod,Murdo,Westies,V50,00:17:37
-34,Birnie,Emma,Bellahouston,FS,00:17:38
-35,Gordon,Claire,HBT,FS,00:17:50
-36,Coull,Charlie,Ochils,V40,00:17:55
-37,Wright,Graham,HBT,V40,00:17:56
-38,Riddell,Duncan,Maryhill Harriers,V40,00:17:59
-39,Gaughan,Adrian,Milburn,V40,00:18:00
-40,Young,Phil,Carnethy,V40,00:18:15
-41,Waterhouse,Bob,Carnethy,V50,00:18:26
-42,Burns,Keith,Carnethy,V60,00:18:31
-43,Beckett,Dan,HBT,Sen,00:18:38
-44,Simpson,Jane,Bellahouston,FS,00:18:39
-45,Doyle,Tim,Penicuik Harriers,V40,00:18:41
-46,Macklin,Hugo,U/A,Jun,00:18:44
-47,Renville,Alan,U/A,Sen,00:18:44
-48,Parson,Simon,U/A,V40,00:18:49
-49,Brown,Jamie,U/A,Sen,00:18:56
-50,Morris,Robin,Lothian,V60,00:18:58
-51,Higginson,Paul,U/A,V40,00:19:01
-52,MacDougall,Ian,Carnethy,Sen,00:19:05
-53,Macklin,Jeremy,U/A,V40,00:19:11
-54,Grove,Mathew,Carnethy,V40,00:19:12
-55,Paul,Alistair,Northumberland,V50,00:19:16
-56,Bowman,Angus,Beacon Runners,V50,00:19:17
-57,Eunson,Paul,Portobello,V50,00:19:25
-58,Campbell,Ian,HBT,V40,00:19:30
-59,Leadie,Colin,Carnethy,V40,00:19:32
-60,Gibson,Willie,Carnethy,V50,00:19:49
-61,Anderson,Derek,U/A,V40,00:19:50
-62,Weir,Jonathan,U/A,Sen,00:19:51
-63,Barber,Colin,U/A,Sen,00:20:03
-64,Downe,Chris,Penicuik Harriers,V40,00:20:19
-65,Milligan,John,Bellahouston,Sen,00:20:20
-66,Ferguson,Alan,U/A,Sen,00:20:24
-67,Dunlop,Fiona,U/A,FV40,00:20:29
-68,MacDougall,Ken,U/A,Sen,00:20:40
-69,Jelly,Ewan,U/A,Sen,00:20:51
-70,Nolan,Ronald,Corstorphine,V40,00:21:02
-71,West,Alison,Carnegie,FV50,00:21:08
-72,Hughes,Chris,U/A,Sen,00:21:20
-73,Lowrie,Fiona,Carnethy,FS,00:21:25
-74,Whitehead,Jonathon,Edinburgh AC,V50,00:21:26
-75,Friend,Kate,Carnethy,FV40,00:21:47
-76,McManus,Ian,Irvine AC,V60,00:21:54
-77,Wilkinson,Trevor,Carnethy,Jun,00:22:04
-78,Lacey,Ed,Carnethy,Sen,00:22:05
-79,Coltman,Alan,Teviotdale,V40,00:22:41
-80,Smith,Janice,HBT,FV50,00:23:03
-81,Bowman,Jean,Beacon Runners,FV50,00:23:21
-82,Park,Angela,Perth Road Runners,FS,00:24:40
-83,Strain,Sheila,East Lothian Orienteers,FV60,00:25:05
-84,Stapley,Tony,Portobello,V60,00:25:14
-85,McQuillen,Alison,Lothian,FS,00:25:19
+1,Anthony,Al,Ochils,M,00:13:04
+2,Strain,Murray,HBT,M,00:13:28
+3,Wright,Andrew,Carnegie,M,00:13:44
+4,Fallon,Steven,Carnethy,M40,00:14:19
+5,Chepelin,Oleg,Shettlestone Harriers,M,00:14:23
+6,Smith,Bruce,Carnethy,M40,00:14:47
+7,Hart,Al,HBT,M,00:15:00
+8,Crowe,Des,Shettlestone Harriers,M40,00:15:11
+9,Walker,Craig,U/A,M,00:15:24
+10,Bouchier,Shane,Carnethy,M,00:15:29
+11,Anderson,Russell,Moorfoots,M50,00:16:04
+12,Upson,Chris,Westies,M40,00:16:07
+13,Gallier,Jonnie,U/A,M,00:16:10
+14,Green,Gareth,U/A,M,00:16:23
+15,Nash,Graham,U/A,M40,00:16:36
+16,Jarvis,James,HBT,M,00:16:37
+17,Barr,Tom,HBT,M,00:16:38
+18,Henry,Robert,U/A,M40,00:16:39
+19,James,Mick,Carnethy,M40,00:16:40
+20,Pride,Gordon,Lomond HR,M50,00:16:43
+21,Dickson,David,Garscube,M50,00:16:51
+22,Millard,Andy,Carnethy,M,00:16:58
+23,Mathieson,Keith,U/A,M,00:17:04
+24,Erskine,Alec,U/A,M40,00:17:06
+25,Hubbard,Peter,Corstorphine,M,00:17:07
+26,Hulme,Martin,Corstorphine,M50,00:17:12
+27,Blair-Fish,John,Carnethy,M50,00:17:13
+28,Queen,Mark,U/A,M,00:17:14
+29,Duncan,David,Ochils,M50,00:17:26
+30,Mason,David,Lithgay Harriers,M40,00:17:31
+31,Shepard,Andrew,Carnethy,M40,00:17:34
+32,Wardlaw,Eilidh,HBT,F,00:17:36
+33,McLeod,Murdo,Westies,M50,00:17:37
+34,Birnie,Emma,Bellahouston,F,00:17:38
+35,Gordon,Claire,HBT,F,00:17:50
+36,Coull,Charlie,Ochils,M40,00:17:55
+37,Wright,Graham,HBT,M40,00:17:56
+38,Riddell,Duncan,Maryhill Harriers,M40,00:17:59
+39,Gaughan,Adrian,Milburn,M40,00:18:00
+40,Young,Phil,Carnethy,M40,00:18:15
+41,Waterhouse,Bob,Carnethy,M50,00:18:26
+42,Burns,Keith,Carnethy,M60,00:18:31
+43,Beckett,Dan,HBT,M,00:18:38
+44,Simpson,Jane,Bellahouston,F,00:18:39
+45,Doyle,Tim,Penicuik Harriers,M40,00:18:41
+46,Macklin,Hugo,U/A,M16,00:18:44
+47,Renville,Alan,U/A,M,00:18:44
+48,Parson,Simon,U/A,M40,00:18:49
+49,Brown,Jamie,U/A,M,00:18:56
+50,Morris,Robin,Lothian,M60,00:18:58
+51,Higginson,Paul,U/A,M40,00:19:01
+52,MacDougall,Ian,Carnethy,M,00:19:05
+53,Macklin,Jeremy,U/A,M40,00:19:11
+54,Grove,Mathew,Carnethy,M40,00:19:12
+55,Paul,Alistair,Northumberland,M50,00:19:16
+56,Bowman,Angus,Beacon Runners,M50,00:19:17
+57,Eunson,Paul,Portobello,M50,00:19:25
+58,Campbell,Ian,HBT,M40,00:19:30
+59,Leadie,Colin,Carnethy,M40,00:19:32
+60,Gibson,Willie,Carnethy,M50,00:19:49
+61,Anderson,Derek,U/A,M40,00:19:50
+62,Weir,Jonathan,U/A,M,00:19:51
+63,Barber,Colin,U/A,M,00:20:03
+64,Downe,Chris,Penicuik Harriers,M40,00:20:19
+65,Milligan,John,Bellahouston,M,00:20:20
+66,Ferguson,Alan,U/A,M,00:20:24
+67,Dunlop,Fiona,U/A,F40,00:20:29
+68,MacDougall,Ken,U/A,M,00:20:40
+69,Jelly,Ewan,U/A,M,00:20:51
+70,Nolan,Ronald,Corstorphine,M40,00:21:02
+71,West,Alison,Carnegie,F50,00:21:08
+72,Hughes,Chris,U/A,M,00:21:20
+73,Lowrie,Fiona,Carnethy,F,00:21:25
+74,Whitehead,Jonathon,Edinburgh AC,M50,00:21:26
+75,Friend,Kate,Carnethy,F40,00:21:47
+76,McManus,Ian,Irvine AC,M60,00:21:54
+77,Wilkinson,Trevor,Carnethy,M16,00:22:04
+78,Lacey,Ed,Carnethy,M,00:22:05
+79,Coltman,Alan,Teviotdale,M40,00:22:41
+80,Smith,Janice,HBT,F50,00:23:03
+81,Bowman,Jean,Beacon Runners,F50,00:23:21
+82,Park,Angela,Perth Road Runners,F,00:24:40
+83,Strain,Sheila,East Lothian Orienteers,F60,00:25:05
+84,Stapley,Tony,Portobello,M60,00:25:14
+85,McQuillen,Alison,Lothian,F,00:25:19

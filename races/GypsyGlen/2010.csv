@@ -41,7 +41,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 40,Nichol,Paul,Moorfoot,M,00:42:59
 41,Bailey,Brian,Gala Harriers,M,00:44:02
 42,O'Brien,Phyllis,HBT,FV3,00:44:23
-43,Stark,Fraser,Glasgow Academy,MJ,00:44:37
+43,Stark,Fraser,Glasgow Academy,M16,00:44:37
 44,Constance,S,Unattached,M,00:44:41
 45,Tait,Gail,Motherwell,F,00:44:42
 46,Edwards,Tom,Unattached,M40,00:44:44
@@ -55,7 +55,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 54,Lynch,Mike,Carnethy,M40,00:46:01
 55,McIntosh,Derek,Unattached,M,00:46:07
 56,Lamont,Mike,Moorfoot,M,00:46:14
-57,Baxter,Pete,Westerlands,v,00:46:15
+57,Baxter,Pete,Westerlands,M,00:46:15
 58,Batterlavia,Jessica,HBT,F,00:46:24
 59,Monteith,Paul,Unattached,M,00:46:36
 60,Bannon,Mark,Unattached,M,00:48:21
@@ -65,6 +65,6 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 64,Scott,Angela,Melrose,F,00:53:33
 65,Riley,M,Unattached,M,00:54:09
 66,Stapley,Tony,Portobello,M60,00:54:24
-67,McManus,Ian,Irvine,SSV,00:54:43
+67,McManus,Ian,Irvine,M40,00:54:43
 68,Sowden,Rebecca,Unattached,F,00:59:24
 69,McPhee,John,Unattached,M,01:01:13

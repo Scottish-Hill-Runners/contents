@@ -1,84 +1,84 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Williamson,Matt,Bellahouston RR,SM,01:21:33
+1,Williamson,Matt,Bellahouston RR,M,01:21:33
 2,Smith,Alan,Deeside R,M40,01:25:27
-3,Wiseman,Bob,Ochil HR,SM,01:27:39
-4,Faulkner,Paul,Carnethy HRC,SM,01:28:28
+3,Wiseman,Bob,Ochil HR,M,01:27:39
+4,Faulkner,Paul,Carnethy HRC,M,01:28:28
 5,Fallon,Steven,Carnethy HRC,M40,01:29:00
-6,Sanz,Marcos,Bellahouston RR,SM,01:29:36
+6,Sanz,Marcos,Bellahouston RR,M,01:29:36
 7,Birnie,Andy,Bellahouston RR,M40,01:30:07
 8,Stansfield,Craig,Rossendale H,M40,01:30:54
 9,Anderson,Adam,Carnethy HRC,M40,01:31:31
 10,Thompson,Paul,Helensburgh AAC,M50,01:31:36
 11,Murray,Keith,Teviotdale H,M40,01:32:03
 12,Buchanan,Peter,Portobello RC,M40,01:33:48
-13,Tattersfield,Ben,Arran Runners,SM,01:34:42
+13,Tattersfield,Ben,Arran Runners,M,01:34:42
 14,Fraser,Gary,Ochil HR,M40,01:34:44
-15,Barnett,Gary,-,SM,01:34:57
-16,Buckden,David,-,SM,01:35:19
-17,Muir,Jonny,Inverness Harriers,SM,01:35:26
+15,Barnett,Gary,-,M,01:34:57
+16,Buckden,David,-,M,01:35:19
+17,Muir,Jonny,Inverness Harriers,M,01:35:26
 18,Anderson,Russell,Moorfoot R,M50,01:35:52
-19,Sims,Andy,HBT,SM,01:36:28
-20,Ross,Dougal,Bellahouston RR,SM,01:37:04
-21,O'Shea,Emma,Deeside Runners,SL,01:38:10
+19,Sims,Andy,HBT,M,01:36:28
+20,Ross,Dougal,Bellahouston RR,M,01:37:04
+21,O'Shea,Emma,Deeside Runners,F,01:38:10
 22,Galbraith,James,Giffnock North,M50,01:39:31
 23,Buchanan,Peter,Ochill HR,M50,01:39:50
 24,Turner,Ronnie,Rossendale H,M50,01:40:17
-25,Moriarty,Brendan,Bellahouston RR,SM,01:40:49
-26,Begley,Tommy,Irvine AC,SM,01:42:12
+25,Moriarty,Brendan,Bellahouston RR,M,01:40:49
+26,Begley,Tommy,Irvine AC,M,01:42:12
 27,Milligan,Dougie,Solway RC,M60,01:42:27
 28,MacLeod,Murdo,Westerlands,M50,01:43:00
 29,Hunter,Alan,Ochil HR,M40,01:45:43
 30,Duncan,David,Ochil HR,M50,01:45:54
 31,Manson,Alan,Carnegie H,M40,01:46:23
-32,Duke,Alasdair,-,SM,01:47:23
+32,Duke,Alasdair,-,M,01:47:23
 33,Rumgay,Ken,Lochaber AC,M40,01:47:54
-34,Simpson,Jane,Bellahouston RR,SL,01:47:59
-35,McIntosh,Toni,Ayr Seaforth,SL,01:49:03
-36,Skidmore,Jonathan,North York Moors AC,SM,01:49:53
+34,Simpson,Jane,Bellahouston RR,F,01:47:59
+35,McIntosh,Toni,Ayr Seaforth,F,01:49:03
+36,Skidmore,Jonathan,North York Moors AC,M,01:49:53
 37,Brotherston,Chris,Bellahouston RR,M40,01:50:04
 38,Rennie,Nick,-,M40,01:50:23
-39,Connor,Julia,Moorfoot R,SL,01:50:56
-40,Laird,Fraser,-,SM,01:51:15
+39,Connor,Julia,Moorfoot R,F,01:50:56
+40,Laird,Fraser,-,M,01:51:15
 41,Ritchie,Angus,-,M40,01:51:42
-42,Adams,Dave,Hamilton H,SM,01:51:43
+42,Adams,Dave,Hamilton H,M,01:51:43
 43,Brennan,Brian,Westerlands,M50,01:52:09
-44,Weir,Jonathan,-,SM,01:52:40
+44,Weir,Jonathan,-,M,01:52:40
 45,Raeburn,Angus,Arran Runners,M40,01:55:03
-46,McWhinnie,Janet,Carnethy HRC,W40,01:56:02
+46,McWhinnie,Janet,Carnethy HRC,F40,01:56:02
 47,Mitchell,David,Kilmarnock H,M40,01:56:25
 48,Coull,Charles,Ochil HR,M40,01:57:14
 49,Campbell,Neil,Carnegie H,M40,01:57:36
 50,Martin,Ron,Ochil HR,M40,01:57:45
 51,McCallum,Alasdair,-,M40,01:57:58
-52,West,Alison,Carnegie H,W50,01:58:16
+52,West,Alison,Carnegie H,F50,01:58:16
 53,O'Brien,Paul,Corstorphine AAC,M50,01:58:31
-54,Boyce,Chris,-,SM,01:58:46
+54,Boyce,Chris,-,M,01:58:46
 55,Hamer,John,Westerlands,M40,01:59:42
 56,Howie,Brian,Carnethy HRC,M50,02:00:06
 57,Sim,Andrew,Carnegie H,M40,02:00:21
 58,Drain,Alex,Troon Tortoises,M50,02:00:49
-59,Brindley,Sandy,Bellahouston RR,SL,02:02:44
-60,Nicoll,Melanie,-,W40,02:03:21
-61,Smith,Tilly,Deeside R,W50,02:03:57
-62,Macpherson,Helen,Westerlands,W50,02:04:44
+59,Brindley,Sandy,Bellahouston RR,F,02:02:44
+60,Nicoll,Melanie,-,F40,02:03:21
+61,Smith,Tilly,Deeside R,F50,02:03:57
+62,Macpherson,Helen,Westerlands,F50,02:04:44
 63,Davidson,Iain,Girvan AC,M40,02:04:49
 64,Stakes,David,Bellahouston RR,M40,02:05:07
-65,O'Brien,Phyllis,HBT,W50,02:05:11
+65,O'Brien,Phyllis,HBT,F50,02:05:11
 66,McNee,Ian,Troon Tortoises,M50,02:06:52
 67,Gatehouse,Richard,Lomond HR,M50,02:07:15
-68,Motherwell,Suzanne,Bellahouston RR,SL,02:07:48
-69,Hughes,David,-,SM,02:08:06
-70,Macdougal,Ken,Tinto HR,SM,02:08:07
-71,James,David,-,SM,02:08:39
-72,Kennedy,Nancy,Lochaber AC,W50,02:10:09
-73,McGuire,Jackie,Bellahouston RR,W40,02:11:52
-74,Coyle,Caroline,-,W40,02:14:19
+68,Motherwell,Suzanne,Bellahouston RR,F,02:07:48
+69,Hughes,David,-,M,02:08:06
+70,Macdougal,Ken,Tinto HR,M,02:08:07
+71,James,David,-,M,02:08:39
+72,Kennedy,Nancy,Lochaber AC,F50,02:10:09
+73,McGuire,Jackie,Bellahouston RR,F40,02:11:52
+74,Coyle,Caroline,-,F40,02:14:19
 75,Robertson,Stuart,-,M40,02:15:24
-76,Nicol,Robert F,-,SM,02:16:12
+76,Nicol,Robert F,-,M,02:16:12
 77,Nicol,Robert,Irvine AC,M60,02:17:18
 78,Anderson,Adam,Dumfries RC,M60,02:18:03
 79,McManus,Ian,Irvine AC,M60,02:18:30
 80,McCubbin,Ian,Lomond HR,M50,02:20:32
-81,Geoghegan,Michael,Portobello RC,SM,02:21:34
+81,Geoghegan,Michael,Portobello RC,M,02:21:34
 82,Fullarton,Iain,-,M60,02:29:05
 83,Murray,Alan,Ochil HR,M40,09:59:59

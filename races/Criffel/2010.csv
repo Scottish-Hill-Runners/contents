@@ -1,42 +1,42 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Davis,Adrian,Carnethy,MV40,01:00:24
-2,Smith,Alan,Deeside,MV40,01:01:10
-3,Simpson,Stuart,Ochil,MV40,01:02:45
-4,Glendinning,Greig,Bellahouston,MS,01:02:55
-5,Malcolmsson,Craig,Dumfries,MV45,01:07:25
-6,Bass,Owen,Deeside,MV45,01:07:32
-7,Neilson,Norman,Dumfries,MV50,01:07:39
-8,Patterson,Ian,Whisky Chasers,MV40,01:07:54
-9,Bark,Ross,Cambuslang,MS,01:08:51
+1,Davis,Adrian,Carnethy,M40,01:00:24
+2,Smith,Alan,Deeside,M40,01:01:10
+3,Simpson,Stuart,Ochil,M40,01:02:45
+4,Glendinning,Greig,Bellahouston,M,01:02:55
+5,Malcolmsson,Craig,Dumfries,M45,01:07:25
+6,Bass,Owen,Deeside,M45,01:07:32
+7,Neilson,Norman,Dumfries,M50,01:07:39
+8,Patterson,Ian,Whisky Chasers,M40,01:07:54
+9,Bark,Ross,Cambuslang,M,01:08:51
 10,Parrish,David,u/a,M,01:08:55
-11,Cairnie,David,Runnymede Runners,MS,01:09:03
-12,Irvine,Roger,ADAC,MV40,01:09:35
-13,Morrow,Robert,u/a,MS,01:09:59
-14,Mortlock,Simon,Dumfries,MV40,01:10:06
-15,Horsefield,Richard,Dark Peak,MV40,01:10:52
-16,Higginbottom,Jacqui,Carnethy,FV40,01:11:02
-17,Goldsworthy,John,Galloway,MV50,01:12:41
-18,Riddell,Duncan,Maryhill,MV40,01:12:55
-19,Thomas,Ranjit,ADAC,MV40,01:13:39
-20,McCulloch,Tom,Ayr Seaforth,MV50,01:13:42
-21,Duncan,David,Ochil,MV50,01:13:45
-22,Cross,Graham,Dumfries,MV40,01:14:26
-23,Dickie,Adam,Dumfries,MS,01:15:19
-24,Brotherston,Chris,Bellahouston,MV40,01:15:59
-25,Dolder,Ross,ADAC,MV40,01:16:35
-26,Weir,Jonathan,u/a,MS,01:17:03
-27,Wilson,Colin,Carnethy,MV40,01:18:09
-28,Milne,Bruce,Carnethy,MV40,01:19:05
-29,Drain,Alex,Troon Tortoises,MV50,01:20:24
-30,West,Alison,Carnegie,FV50,01:21:04
-31,Pearcey,Gill,Dumfries RC,FV40,01:21:08
-32,Smith,Tilly,Deeside,FV50,01:23:39
-33,Preistley,Nigel,ADAC,MV50,01:24:30
-34,Ward,Claire,HBT,FS,01:25:29
-35,Kliphuis,Tim,Netherlands,MS,01:26:21
-36,Davidson,Iain,Girvan,MV45,01:27:24
-37,Wilson,Joan,Carnethy,FV40,01:29:02
-38,Robson,Jean,ADAC,FV50,01:34:00
-39,Anderson,Adam,Dumfries,MV60,01:36:43
-40,Cartner,Julie,u/a,FS,01:40:41
-41,McManus,Ian,Irvine,MV60,01:41:42
+11,Cairnie,David,Runnymede Runners,M,01:09:03
+12,Irvine,Roger,ADAC,M40,01:09:35
+13,Morrow,Robert,u/a,M,01:09:59
+14,Mortlock,Simon,Dumfries,M40,01:10:06
+15,Horsefield,Richard,Dark Peak,M40,01:10:52
+16,Higginbottom,Jacqui,Carnethy,F40,01:11:02
+17,Goldsworthy,John,Galloway,M50,01:12:41
+18,Riddell,Duncan,Maryhill,M40,01:12:55
+19,Thomas,Ranjit,ADAC,M40,01:13:39
+20,McCulloch,Tom,Ayr Seaforth,M50,01:13:42
+21,Duncan,David,Ochil,M50,01:13:45
+22,Cross,Graham,Dumfries,M40,01:14:26
+23,Dickie,Adam,Dumfries,M,01:15:19
+24,Brotherston,Chris,Bellahouston,M40,01:15:59
+25,Dolder,Ross,ADAC,M40,01:16:35
+26,Weir,Jonathan,u/a,M,01:17:03
+27,Wilson,Colin,Carnethy,M40,01:18:09
+28,Milne,Bruce,Carnethy,M40,01:19:05
+29,Drain,Alex,Troon Tortoises,M50,01:20:24
+30,West,Alison,Carnegie,F50,01:21:04
+31,Pearcey,Gill,Dumfries RC,F40,01:21:08
+32,Smith,Tilly,Deeside,F50,01:23:39
+33,Preistley,Nigel,ADAC,M50,01:24:30
+34,Ward,Claire,HBT,F,01:25:29
+35,Kliphuis,Tim,Netherlands,M,01:26:21
+36,Davidson,Iain,Girvan,M45,01:27:24
+37,Wilson,Joan,Carnethy,F40,01:29:02
+38,Robson,Jean,ADAC,F50,01:34:00
+39,Anderson,Adam,Dumfries,M60,01:36:43
+40,Cartner,Julie,u/a,F,01:40:41
+41,McManus,Ian,Irvine,M60,01:41:42

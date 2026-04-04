@@ -2,11 +2,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Marshall,Brian,HELP,M40,0:46:11
 2,Faulkner,Paul,Carnethy,M,0:47:44
 3,Davis,Adrian,Lomond Hill Runners,M40,0:47:55
-4,Delaney,Zachary,North Highland Harriers,MJ,0:48:25
+4,Delaney,Zachary,North Highland Harriers,M16,0:48:25
 5,Knox,Jonny,Anster Haddies,M40,0:48:36
 6,Buchanan,Peter,Portobello,M40,0:48:58
 7,Geoghegan,Michael,Portobello,M,0:49:29
-8,Gentle,Jack,St Albans Striders,MJ,0:51:13
+8,Gentle,Jack,St Albans Striders,M16,0:51:13
 9,Love,Craig,Dundee Hawkhill,M40,0:51:19
 10,Hammond,John,Carnethy,M,0:51:42
 11,Brown,Colin,Fife AC,M40,0:52:20
@@ -22,7 +22,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Allan,Pete,Unattached,M40,0:56:45
 22,Tesser,Matteo,Carnethy,M,0:57:12
 23,Horsburgh,Steven,Fife AC,M,0:57:22
-24,Knox,Thomas,Anster Haddies,MJ,0:57:29
+24,Knox,Thomas,Anster Haddies,M16,0:57:29
 25,Harvie,Callum,Fife AC,M,0:57:30
 26,Anderson,Laurie,Lomond Hill Runners,M50,0:57:33
 27,Legge,Sarah,Fife AC,F40,0:57:41
@@ -34,7 +34,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Summers,Robert,Beacon Runners,M40,0:58:43
 34,Ritchie,Hilary,Fife AC,F40,0:58:44
 35,Mill,John,Dundee Road Runners,M40,0:58:53
-36,Cruickshanks,Jennifer,Fife AC,FJ,0:59:09
+36,Cruickshanks,Jennifer,Fife AC,F16,0:59:09
 37,Reilly,Michael,Anster Haddies,M,0:59:20
 38,Earle,Paddy,Tinto Hill Runners,M50,0:59:32
 39,McWhinnie,Janet,Fife AC,F40,0:59:37
@@ -64,7 +64,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,O`Brien,Paul,Corstorphine,M50,1:07:23
 64,Cumming,Mike,Fife AC,M,1:07:34
 65,Cruickshanks,Pamela,Anster Haddies,F40,1:07:42
-66,Chambers,Connor,Unattached,MJ,1:08:19
+66,Chambers,Connor,Unattached,M16,1:08:19
 67,Chambers,Kevin,Unattached,M40,1:08:22
 68,Love,Charlie,Dundee Hawkhill,M60,1:08:35
 69,West,Alison,Carnegie Harriers,F50,1:09:07
@@ -75,13 +75,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 74,Hunter,Charles,Pitreavie,M70,1:15:27
 75,Fraser,Ronald,Dundee Road Runners,M40,1:15:55
 76,Bowman,Jean,Lomond Hill Runners,F50,1:15:57
-77,Cruickshanks,Fiona,Anster Haddies,FJ,1:17:57
+77,Cruickshanks,Fiona,Anster Haddies,F16,1:17:57
 78,Fraser,Vivien,Kirkintilloch Olympians,F40,1:18:41
 79,Campbell,Paul,Carnegie Harriers,M40,1:19:29
 80,Tivendale,Gwen,Unattached,F40,1:20:04
-81,Knox,Lizzie,Anster Haddies,FJ,1:20:44
+81,Knox,Lizzie,Anster Haddies,F16,1:20:44
 82,Scott,John,Fife AC,M60,1:21:58
-83,Low,Callum,Unattached,MJ,1:22:22
+83,Low,Callum,Unattached,M16,1:22:22
 84,Whiteford,Bill,Unattached,M50,1:22:22
 85,Campbell,Dougie,Anster Haddies,M,1:23:43
 86,Dickson,John,Anster Haddies,M40,1:28:51

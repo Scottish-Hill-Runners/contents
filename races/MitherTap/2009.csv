@@ -1,50 +1,50 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitehead,Dan,Cosmics,SM Record,00:32:01
-2,Peachey,Simon,Cosmics,SM,00:33:32
-3,Brookes,Rob,Cosmics,SM,00:34:09
-4,Whitehead,Clare,Cosmics,SF Record,00:36:13
-5,Russell,Colin,Cosmics,SM,00:37:13
-6,Harper,Kevin,Cosmics,SM,00:37:25
-7,Smith,Alan,Deeside,V40,00:37:28
-8,Lang,Richard,Cosmics,V40,00:37:33
-9,Long,Sam,Deesdie,SM,00:37:33
-10,Love,Craig,Hawkhill Harriers,SM,00:38:35
-11,Hicks,Simon,NA,SM,00:38:54
-12,Mackley,Tim,Cosmics,SM,00:38:54
+1,Whitehead,Dan,Cosmics,M,00:32:01
+2,Peachey,Simon,Cosmics,M,00:33:32
+3,Brookes,Rob,Cosmics,M,00:34:09
+4,Whitehead,Clare,Cosmics,F,00:36:13
+5,Russell,Colin,Cosmics,M,00:37:13
+6,Harper,Kevin,Cosmics,M,00:37:25
+7,Smith,Alan,Deeside,M40,00:37:28
+8,Lang,Richard,Cosmics,M40,00:37:33
+9,Long,Sam,Deesdie,M,00:37:33
+10,Love,Craig,Hawkhill Harriers,M,00:38:35
+11,Hicks,Simon,NA,M,00:38:54
+12,Mackley,Tim,Cosmics,M,00:38:54
 13,Larmour,Colin,Cosmics,M40,00:39:02
-14,Henry,Peter,Deeside,SM,00:39:14
+14,Henry,Peter,Deeside,M,00:39:14
 15,MacDonald,Dennis,Cosmics,M40,00:39:17
 16,Hirst,Dave,Deeside,M40,00:40:01
-17,O'Sullivan,Sean,Cosmics,SM,00:40:09
+17,O'Sullivan,Sean,Cosmics,M,00:40:09
 18,Tomlin,Chris,Cosmics,M40,00:40:13
-19,Leel,Cameron,Chapel Cheetahs,SM,00:40:40
+19,Leel,Cameron,Chapel Cheetahs,M,00:40:40
 20,Angus,Gerald,Keith and District,M40,00:41:10
 21,Duncan,David,Ochil Hillrunners,M50,00:41:15
 22,McLeod,Roddy,Metro Aberdeen,M40,00:41:37
-23,Brettle,Matt,Cosmics,SM,00:42:13
-24,Smith,Nick,Garioch Road Runners,SM,00:42:30
+23,Brettle,Matt,Cosmics,M,00:42:13
+24,Smith,Nick,Garioch Road Runners,M,00:42:30
 25,Williams,Rupert,NA,M40,00:44:08
 26,Hamilton,Ian,Cosmics,M40,00:44:13
 27,Hamilton,James,NA,M40,00:44:20
-28,Weir,Jonathon,NA,SM,00:44:33
+28,Weir,Jonathon,NA,M,00:44:33
 29,Hamilton,Anita,Cosmics,F50,00:44:34
 30,Cran,Ian,Garioch Road Runners,M50,00:45:11
 31,Gutterridge,Garry,Cosmics,M50,00:45:46
-32,McGore,Fraser,NA,SM,00:46:07
+32,McGore,Fraser,NA,M,00:46:07
 33,Bryce,Murray,Cosmics,M50,00:46:24
-34,Delaney,Elizabeth,Cosmics,SF,00:47:26
+34,Delaney,Elizabeth,Cosmics,F,00:47:26
 35,Smith,Tilly,Deeside,F40,00:48:37
 36,Stewart,Elaine,Cosmics,F50,00:48:43
-37,Anderson,Keith,Stonehaven Running Club,SM,00:49:32
+37,Anderson,Keith,Stonehaven Running Club,M,00:49:32
 38,Mel,Angus,Fatbobs Running Club,F40,00:49:57
 39,Clunas,Gillian,Cosmics,F50,00:50:40
 40,Drury,Chris,Keith and District,M50,00:51:04
-41,Harkins,Fran,NA,SF,00:51:42
-42,Harvie,Mark,NA,SM,00:51:45
-43,Simpson,Sandra,Fatbobs Running Club,SF,00:51:51
+41,Harkins,Fran,NA,F,00:51:42
+42,Harvie,Mark,NA,M,00:51:45
+43,Simpson,Sandra,Fatbobs Running Club,F,00:51:51
 44,Manning,Bruce,Cosmics,M50,00:52:28
 45,Larmour,Pauline,Cosmics,M40,00:52:38
-46,Coyle,Caroline,NA,SF,00:52:53
-47,Anderson,Barbara,Keith and District,SF,00:53:00
-48,O'Sullivan,Sarah,Cosmics,SF,00:59:47
+46,Coyle,Caroline,NA,F,00:52:53
+47,Anderson,Barbara,Keith and District,F,00:53:00
+48,O'Sullivan,Sarah,Cosmics,F,00:59:47
 49,McKay,Alfi,Cosmics,M50,01:00:09

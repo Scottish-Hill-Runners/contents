@@ -1,49 +1,49 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Andy,Carnegie,MS Record,01:29:22
+1,Symonds,Andy,Carnegie,M,01:29:22
 2,Whitlie,Stewart,Carnethy,M40,01:31:52
 3,Donnelly,Colin,Lochaber,M40,01:31:59
-4,Marshall,Brian,HELP,MS,01:33:09
-5,Tresidder,Esmond,Carnethy,MS,01:35:03
-6,Naylor,Donald,HBT,MS,01:35:43
-7,Richmond,Kenny,Bellahouston,MS,01:37:56
+4,Marshall,Brian,HELP,M,01:33:09
+5,Tresidder,Esmond,Carnethy,M,01:35:03
+6,Naylor,Donald,HBT,M,01:35:43
+7,Richmond,Kenny,Bellahouston,M,01:37:56
 8,Cummins,Dave,Shettleston,M40,01:38:52
 9,Ward,Adam,Carnethy,M40,01:39:14
-10,McCall,Chris,Greenock Glenpark,MU23,01:39:30
+10,McCall,Chris,Greenock Glenpark,M23,01:39:30
 11,Fallon,Steven,Carnethy,M40,01:39:41
 12,Rodgers,David,Lochaber,M40,01:39:46
 13,Upson,Chris,Westies,M40,01:39:49
-14,Scott,Nigel,Westies,MS,01:40:11
-15,Gorman,Manny,Westies,MS,01:41:50
-16,McCall,Andrew,Greenock Glenpark,MU23,01:42:38
-17,Schmidt,Elke,Bellahouston,FS Record,01:44:37
-18,Smith,Tom,Lochaber,MS,01:45:42
-19,Mowbray,Phil,HBT,MS,01:46:11
-20,Leslie,Nick,Ochils,MS,01:46:50
+14,Scott,Nigel,Westies,M,01:40:11
+15,Gorman,Manny,Westies,M,01:41:50
+16,McCall,Andrew,Greenock Glenpark,M23,01:42:38
+17,Schmidt,Elke,Bellahouston,F,01:44:37
+18,Smith,Tom,Lochaber,M,01:45:42
+19,Mowbray,Phil,HBT,M,01:46:11
+20,Leslie,Nick,Ochils,M,01:46:50
 21,Smith,Bruce,Carnethy,M40,01:46:58
 22,Scott,David,Ochils,M50,01:47:11
-23,Peachey,Simon,Carnethy,MS,01:47:13
+23,Peachey,Simon,Carnethy,M,01:47:13
 24,Pryde,Gordon,Lomond,M40,01:47:16
-25,Harris,Mark,Fife,MS,01:47:53
-26,Arnott,Neil,Lochaber,MS,01:48:20
-27,Altman,Nick,HBT,MS,01:48:30
+25,Harris,Mark,Fife,M,01:47:53
+26,Arnott,Neil,Lochaber,M,01:48:20
+27,Altman,Nick,HBT,M,01:48:30
 28,Bennet,Sandy,Carnegie,M40,01:49:28
 29,Theaker,Damien,Helensburgh,M40,01:50:40
 30,Scott,Tom,Fife,M50,01:50:54
 31,Hunter,Andrew,Carnegie,M40,01:52:08
 32,Stevenson,John,Ochil,M40,01:52:56
 33,Buchanan,Peter,Portobello,M40,01:53:13
-34,Mair,Will,HBT,MS,01:53:19
+34,Mair,Will,HBT,M,01:53:19
 35,Anderson,Laurie,Fife,M40,01:53:41
-36,Barrie,Stewart,HBT,MS,01:53:51
-37,Popham,Frank,Fife,MS,01:53:58
-38,Gorgas,Steffen,Westies,MS,01:54:02
-39,Campbell,Ruaridh,Carnegie,MS,01:54:29
+36,Barrie,Stewart,HBT,M,01:53:51
+37,Popham,Frank,Fife,M,01:53:58
+38,Gorgas,Steffen,Westies,M,01:54:02
+39,Campbell,Ruaridh,Carnegie,M,01:54:29
 40,Hodges,Geoff,Cheshire Hillrunners,M50,01:55:02
-41,Rees,Roger,Fife,MS,01:55:53
+41,Rees,Roger,Fife,M,01:55:53
 42,McLeod,Murdo,Westies,M50,01:57:06
 43,Watson,Gordon,Dundee Hawkhill,M50,01:57:14
-44,Scott,Dawn,Lochaber,FS,01:58:26
-45,Stout,Russell,Carnethy,MS,01:58:38
+44,Scott,Dawn,Lochaber,F,01:58:26
+45,Stout,Russell,Carnethy,M,01:58:38
 46,Mitchell,Mike,Fife,M40,01:58:47
 47,Tullie,John,Teviotdale,M50,01:59:08
 48,James,Mick,Carnethy,M40,01:59:25
@@ -53,36 +53,36 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Ross,Tom,Fife,M60,02:00:29
 53,Galbraith,Jim,Giffnock North,M40,02:00:36
 54,Donnelly,John,Westies,M40,02:01:09
-55,Jarvis,James,HBT,MS,02:02:06
+55,Jarvis,James,HBT,M,02:02:06
 56,Bowie,Tom,Fife,M60,02:02:18
 57,Milligan,Douglas,Solway,M60,02:03:02
-58,Homewood,Ellen,Westies,FS,02:04:45
+58,Homewood,Ellen,Westies,F,02:04:45
 59,Bell,Stephen,Westies,M40,02:04:57
-60,McLoone,Michael,Greenock Glenpark,MU23,02:05:32
+60,McLoone,Michael,Greenock Glenpark,M23,02:05:32
 61,Wilson,Colin,Carnethy,M40,02:05:38
-62,Rathjen,Jon,HBT,MS,02:05:47
-63,McLean,Iain,U/A,MS,02:05:52
+62,Rathjen,Jon,HBT,M,02:05:47
+63,McLean,Iain,U/A,M,02:05:52
 64,McNab,Graham,Lochaber,M40,02:06:09
 65,Burt,Louise,Fife,F40,02:06:29
-66,Dibbon,Chris,Fife,MS,02:06:47
+66,Dibbon,Chris,Fife,M,02:06:47
 67,Buchanan,Peter,Ochil,M40,02:07:02
-68,Roberts,Mark,HBT,MS,02:07:35
-69,Bouchier,Shane,Carnethy,MS,02:07:38
-70,Gamble,Lisa,Fife,FS,02:07:40
-71,Begley,Tommy,Irvine AC,MS,02:08:36
+68,Roberts,Mark,HBT,M,02:07:35
+69,Bouchier,Shane,Carnethy,M,02:07:38
+70,Gamble,Lisa,Fife,F,02:07:40
+71,Begley,Tommy,Irvine AC,M,02:08:36
 72,McLean,Herbie,Lothian,M60,02:08:48
 73,Bryan-Jones,Gareth,Ochil,M60,02:09:09
-74,King,Steven,Carnegie,MS,02:09:25
+74,King,Steven,Carnegie,M,02:09:25
 75,McEwan,Linda,Lochaber,F40,02:11:04
-76,Miller,Catriona,Westies,FS,02:11:28
+76,Miller,Catriona,Westies,F,02:11:28
 77,Bowan,Angus,Beacon,M50,02:11:29
 78,Wilson,Joan,Carnethy,F40,02:11:34
 79,Rooney,Edmund,Lauderdale,M40,02:12:03
 80,Love,Charlie,Dundee Hawkhill,M60,02:12:33
-81,Main,Alasdair,Dundee Hawkhill,MS,02:12:47
-82,Hutton,Paul,Carnegie,MS,02:14:09
-83,Little,George,Fife,MS,02:15:52
-84,McMaster,Jennifer,Fife,FS,02:15:52
+81,Main,Alasdair,Dundee Hawkhill,M,02:12:47
+82,Hutton,Paul,Carnegie,M,02:14:09
+83,Little,George,Fife,M,02:15:52
+84,McMaster,Jennifer,Fife,F,02:15:52
 85,Scott,Jocelyn,Fife,F50,02:16:30
 86,Davidson,Iain,Girvan,M40,02:16:47
 87,Hamilton,Anita,Cosmics,F50,02:16:56
@@ -92,34 +92,34 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 91,Milmoe,Michael,Forres,M50,02:19:08
 92,Eunson,Paul,Portobello,M40,02:19:49
 93,Johnston,Stephen,Milburn Harriers,M40,02:20:19
-94,Murdoch,David,Lomond,MS,02:21:03
+94,Murdoch,David,Lomond,M,02:21:03
 95,Friend,Kate,Carnethy,F40,02:21:33
 96,Wall,Dick,HBT,M50,02:22:07
 97,Hunter,Mary,Portobello,F40,02:22:20
 98,Kaushal,Jason,Westies,M40,02:24:18
-99,Brown,Louise,Calderglen,FS,02:25:23
-100,Heron,Gregor,Carnethy,MS,02:27:29
+99,Brown,Louise,Calderglen,F,02:25:23
+100,Heron,Gregor,Carnethy,M,02:27:29
 101,Scott,Elspeth,Westies,F40,02:28:05
-102,Reynolds,Colin,Carnegie,MS,02:28:36
+102,Reynolds,Colin,Carnegie,M,02:28:36
 103,Wadsworth,Andy,HBT,M40,02:28:49
 104,Ledlie,Colin,Carnethy,M40,02:29:16
 105,McAuley,Allan,Carnegie,M50,02:30:37
 106,Jenkins,Alan,Dossers,M50,02:30:54
-107,Anderson,Joanne,Carnethy,FS,02:31:12
+107,Anderson,Joanne,Carnethy,F,02:31:12
 108,laverack,Julia,Ambleside,F40,02:32:07
 109,Meiklejohn,Alan,Fife,M60,02:32:50
 110,Ritchie,Hilary,Fife,F40,02:33:08
 111,Smith,Linda,Cosmics,F40,02:39:33
-112,Teape,Stephen,Scottish Athletics,MS,02:39:48
+112,Teape,Stephen,Scottish Athletics,M,02:39:48
 113,Van Oijen,Marcel,U/A,M40,02:40:20
-114,Irvine,John,U/A,MS,02:40:58
-115,Munro,Eleanor,Keith and District,FS,02:41:50
+114,Irvine,John,U/A,M,02:40:58
+115,Munro,Eleanor,Keith and District,F,02:41:50
 116,Thin,Joanne,Carnethy,F40,02:41:50
-117,Laidlaw,Anita,Fife,FS,02:46:02
-118,Nairns,William,Ochil,MS,02:46:44
-119,Russell,Sue,U/A,FS,02:47:55
-120,Hailey,Lucy,Carnethy,FS,02:47:55
-121,Rathjen,Sandra,HBT,FS,02:48:20
+117,Laidlaw,Anita,Fife,F,02:46:02
+118,Nairns,William,Ochil,M,02:46:44
+119,Russell,Sue,U/A,F,02:47:55
+120,Hailey,Lucy,Carnethy,F,02:47:55
+121,Rathjen,Sandra,HBT,F,02:48:20
 122,Sutherland,Tom,Monday Nighters,M50,02:49:03
-123,Brown,Alison,U/A,FS,02:51:50
+123,Brown,Alison,U/A,F,02:51:50
 124,McAdam,Pauline,Westies,F50,02:54:25

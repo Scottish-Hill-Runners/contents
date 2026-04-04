@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Clark,Dave,Falkland Trail Runners,M40,00:33:48
 13,Stewart,Billy,Glenrothes Triathlon Club,M,00:34:04
 14,Smith,John,Unattached,M50,00:34:09
-15,Lessels,Jamie,Falkland Trail Runners,MJ,00:34:27
+15,Lessels,Jamie,Falkland Trail Runners,M16,00:34:27
 16,Jones,Tim,Kinross Road Runners,M40,00:34:57
 17,Ballantine,Andrew,Falkland Trail Runners,M,00:35:08
 18,Mclean,Mark,Leven Las Vegas,M50,00:35:25
@@ -78,7 +78,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 77,Pease,David,Falkland Trail Runners,M55,00:48:52
 78,Jones,Lucy,Kinross Road Runners,F40,00:49:35
 79,Greer,Stephen,Carnegie Harriers,M60,00:50:25
-80,Lessels,Emma,Falkland Trail Runners,FJ,00:50:46
+80,Lessels,Emma,Falkland Trail Runners,F16,00:50:46
 81,Mackay,Stephen,Unattached,M50,00:51:24
 82,Robertson,Alison,Kinross Road Runners,F,00:51:24
 83,Houston,Alison,Kinross Road Runners,F65,00:51:25

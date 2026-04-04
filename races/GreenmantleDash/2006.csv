@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fraser,Scott,Lothian,M20 Record,00:16:08
+1,Fraser,Scott,Lothian,M20,00:16:08
 2,Marshall,Brian,HELP,M21,00:16:16
 3,Chepelen,Oleg,Lothian,M20,00:17:06
 4,Wardman,Andrew,Unattached,M21,00:17:25
@@ -24,7 +24,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 23,Bailey,Will,Edinburgh University,M21,00:20:04
 24,Smith,Nick,Carnegie Harriers,M21,00:20:15
 25,Tullie,John,Teviotdale,M40,00:20:15
-26,Jenkins,Kate,Carnethy,F21 Record,00:20:32
+26,Jenkins,Kate,Carnethy,F21,00:20:32
 27,Waterhouse,Bob,Saddleworth Runners,M50,00:20:38
 28,Law,David,Corstorphine AAC,M40,00:20:55
 29,Barrie,Stewart,Carnethy,M21,00:20:57

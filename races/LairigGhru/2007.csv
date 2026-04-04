@@ -1,69 +1,69 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Raistrick,Paul,Highland Hill Runners,M Record,03:04:25
-2,Brierley,Andrew,Fife A.C.,MV,03:37:28
-3,Kay,John,Fife A.C.,MV,03:43:33
+1,Raistrick,Paul,Highland Hill Runners,M,03:04:25
+2,Brierley,Andrew,Fife A.C.,M,03:37:28
+3,Kay,John,Fife A.C.,M,03:43:33
 4,Miles,Gavin,Deeside Runners,M,03:48:53
 5,Thompson,Dave,U/A,M,03:51:18
 6,Elliott,Steve,U/A,M,03:54:18
-7,Symington,Stuart,U/A,MV,03:55:46
+7,Symington,Stuart,U/A,M,03:55:46
 8,Norwood,Tim,Corstorphine A.A.C.,M,04:02:50
-9,Kirby,Graham,Fife A.C.,MV,04:02:56
-10,MacTavish,Kevin,U/A,MV,04:03:51
+9,Kirby,Graham,Fife A.C.,M,04:02:56
+10,MacTavish,Kevin,U/A,M,04:03:51
 11,Rees,Roger,Fife A.C.,M,04:03:58
-12,Tunstall,Martyn,Corstorphine A.A.C.,MV,04:05:55
-13,Forte,Joe,H.E.L.P.,MV,04:12:19
+12,Tunstall,Martyn,Corstorphine A.A.C.,M,04:05:55
+13,Forte,Joe,H.E.L.P.,M,04:12:19
 14,McAdam,Bruce,Kings Triathletes,M,04:12:37
-15,Howie,Brian,Carnethy,MSV,04:18:05
-16,Walker,Doug,Westbury Harriers,MSV,04:18:17
+15,Howie,Brian,Carnethy,M40,04:18:05
+16,Walker,Doug,Westbury Harriers,M40,04:18:17
 17,Harris,Mark,Fife A.C.,M,04:18:52
-18,Johnson,Helen,Deeside Runners,FV,04:19:03
+18,Johnson,Helen,Deeside Runners,F,04:19:03
 19,Leggett,Mark,Deeside Runners,M,04:19:33
 20,Main,Alasdair,Dundee Hawkhill,M,04:22:00
 21,Fagan,Rachel,Gala Harriers,F,04:26:29
-22,Gutteridge,Gary,Cosmics,MSV,04:22:13
-23,Main,Gordon,Nairn R.R.,MSV,04:31:52
-24,Irvine,Rob,Cosmics,MV,04:34:35
-25,Arthur,G,Ilkley Harriers,MSV,04:34:39
-26,Verbiest,Dirk,Keith & District,MV,04:35:25
-27,Wake,Simon,Strathearn,MV,04:35:32
+22,Gutteridge,Gary,Cosmics,M40,04:22:13
+23,Main,Gordon,Nairn R.R.,M40,04:31:52
+24,Irvine,Rob,Cosmics,M,04:34:35
+25,Arthur,G,Ilkley Harriers,M40,04:34:39
+26,Verbiest,Dirk,Keith & District,M,04:35:25
+27,Wake,Simon,Strathearn,M,04:35:32
 28,Wake,Adam,Strathearn,M,04:35:32
 29,Mayze,Gareth,Teviotdale Harriers,M,04:35:40
-30,Christy,Myles,U/A,MV,04:36:29
-31,Hood,Alasdair,Fife A.C.,MV,04:36:40
-32,Wilson,Colin,Carnethy,MV,04:36:56
-33,Wilson,Joan,Carnethy,FV,04:36:57
+30,Christy,Myles,U/A,M,04:36:29
+31,Hood,Alasdair,Fife A.C.,M,04:36:40
+32,Wilson,Colin,Carnethy,M,04:36:56
+33,Wilson,Joan,Carnethy,F,04:36:57
 34,Love,Charlie,Dundee Hawkhill,M60,04:37:20
-35,Eadie,Gordon,Musselburgh & District,MV,04:37:38
+35,Eadie,Gordon,Musselburgh & District,M,04:37:38
 36,Henderson,Lynn,U/A,F,04:38:17
-37,Wood,Marion,Arbroath Footers,FV,04:38:17
+37,Wood,Marion,Arbroath Footers,F,04:38:17
 38,Titterington,John,U/A,M,04:38:54
 39,Templeman,Simon,Ochil,M,04:39:34
 40,Robertson,Philip,Otley A.C.,M,04:41:31
-41,Henry,Graham,Portobello,MV,04:44:16
-42,Sandeman,Donald,U/A,MSV,04:44:29
-43,Battle,Joe,U/A,MV,04:46:53
+41,Henry,Graham,Portobello,M,04:44:16
+42,Sandeman,Donald,U/A,M40,04:44:29
+43,Battle,Joe,U/A,M,04:46:53
 44,Sim,Andrew,Carnegie,M,04:47:40
-45,Forte,Phil,Dundee Hawkhill,MSV,04:49:13
-46,Dalitz,Rod,Carnethy,MSV,04:50:33
-47,McPartland,Frank,H.E.L.P.,MSV,04:50:49
+45,Forte,Phil,Dundee Hawkhill,M40,04:49:13
+46,Dalitz,Rod,Carnethy,M40,04:50:33
+47,McPartland,Frank,H.E.L.P.,M40,04:50:49
 48,Fraser,David,Deeside Runners,M,04:54:09
 49,Gay,Dan,Hunters Bog Trotters,M,04:59:57
-50,Mathers,Alastair,Fraserburgh R.C.,MV,05:00:11
+50,Mathers,Alastair,Fraserburgh R.C.,M,05:00:11
 51,Douglas,Andrew,Deeside Runners,M,05:01:28
 52,Brown,Louise,Calderglen Harriers,F,05:02:42
 53,Law,Andrew,Cosmics,M,05:02:56
-54,Dutfield,Stewart,Pine Orchard A.C.,MSV,05:04:01
+54,Dutfield,Stewart,Pine Orchard A.C.,M40,05:04:01
 55,Bennet,Lynne,Carnegie,F,05:05:32
 56,Henry,Peter,Deeside Runners,M,05:06:02
-57,Halpin,Tim,Moorfoot Runners,MV,05:10:48
-58,Ledlie,Colin,Carnethy,MV,05:13:28
-59,Reid,George,Splash n’ Dash,MSV,05:17:01
-60,Hunter,David,Gala Harriers,MV,05:18:57
-61,Clarke,Mark,Deeside Runners,MSV,05:24:27
+57,Halpin,Tim,Moorfoot Runners,M,05:10:48
+58,Ledlie,Colin,Carnethy,M,05:13:28
+59,Reid,George,Splash n’ Dash,M40,05:17:01
+60,Hunter,David,Gala Harriers,M,05:18:57
+61,Clarke,Mark,Deeside Runners,M40,05:24:27
 62,Hay,Bruce,U/A,M,05:26:55
-63,Culbert,John,U/A,MV,05:27:35
-64,McWhinnie,Janet,Carnethy,FV,05:36:35
-65,Gilmore,Charlie,U/A,MV,05:41:26
+63,Culbert,John,U/A,M,05:27:35
+64,McWhinnie,Janet,Carnethy,F,05:36:35
+65,Gilmore,Charlie,U/A,M,05:41:26
 66,Keith,Gillean,Wimborne A.C.,F,05:44:12
 67,Pearson,Mike,Moorfoot Runners,M60,05:50:42
 68,Littlewood,John,Carnethy,M60,05:53:02
@@ -71,7 +71,6 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 70,Munro,Eleanor,Keith & District,F,05:53:18
 71,Marcus,Graeme,U/A,M,05:58:21
 72,Barnfather,Ewan,Strathaven Striders,M,06:06:10
-73,Drijver,Saartje,H.E.L.P.,FV,06:18:04
+73,Drijver,Saartje,H.E.L.P.,F,06:18:04
 74,Nichol,Lesley,H.E.L.P.,F,06:18:05
-75,Kennedy,Ian,Wimborne A.C.,MV,06:19:23
-76,Moore,Stephen,U/A,MV,NULL
+75,Kennedy,Ian,Wimborne A.C.,M,06:19:23

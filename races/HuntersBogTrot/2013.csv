@@ -1,130 +1,130 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Strain,Murray,HBT,MSnr,00:26:50
-2,Haines,Hector,HBT,MSnr,00:27:28
-3,Mccorquodale,Ian,Cambuslang,MSnr,00:27:50
-4,Martin,Tom,Haries,MSnr - Student,00:28:09
-5,MacAllister,James,NA,MSnr,00:28:50
-6,Gierjatowicz,Patryk,Haries,MSnr - Student,00:29:24
-7,McCormack,Sarah,Moorfoot,FSnr,00:29:24
-8,Reid,Michael,Carnethy,MSnr,00:29:34
+1,Strain,Murray,HBT,M,00:26:50
+2,Haines,Hector,HBT,M,00:27:28
+3,Mccorquodale,Ian,Cambuslang,M,00:27:50
+4,Martin,Tom,Haries,M,00:28:09
+5,MacAllister,James,NA,M,00:28:50
+6,Gierjatowicz,Patryk,Haries,M,00:29:24
+7,McCormack,Sarah,Moorfoot,F,00:29:24
+8,Reid,Michael,Carnethy,M,00:29:34
 9,Mason,Callum,Haries,MJnr - Student,00:29:44
 10,Campbell,Ross,Haries,MJnr - Student,00:29:52
-11,Waldie,James,Haries,MSnr - Student,00:30:17
-12,Gilmore,Andrew,Carnethy,MSnr - Student,00:30:47
-13,Bucciarello,Gabriele,Edinburgh A.C.,MSnr,00:30:58
-14,Hill,Tessa,HBT,FSnr,00:31:00
-15,Stewart,Gregor,Westerland,MSnr,00:31:03
-16,Cox,Andrew,Moorfoot,MSnr,00:31:22
-17,Warman,Julian,HBT,MV40,00:31:35
-18,Askham,John,HELP,MSnr,00:32:09
-19,Sheckleton,Nigel,Carnethy,MSnr,00:32:26
-20,Rhynes,Mark,HBT,MSnr,00:32:31
-21,Gilmore,Ian,Carnethy,MSnr - Student,00:32:42
-22,Ashley,George,HBT,MSnr,00:32:44
-23,Flanagan,Dessie,NA,MSnr,00:33:00
-24,Duke,Alasdair,Westerland,MSnr,00:33:05
-25,Murray,Cameron,Carnethy,MV40,00:33:08
-26,Diver,Michael,Clydesdale,MV40,00:33:18
-27,Gay,Jon,Lochaber,MV40,00:33:31
-28,Hubbers,Dhigs,EUOC,MSnr - Student,00:33:31
-29,Walker,Craig,Squadra Porcini,MV40,00:33:33
-30,McCall,Tim,Norham,MV50,00:33:40
-31,Malcolm,John,Lothian RC,MSnr,00:33:42
-32,Bowden,James,HBT,MSnr,00:33:45
-33,Flett,Rob,HBT,MV40,00:33:47
-34,Gilmore,Neil,Carnethy,MV50,00:33:49
-35,Hindle,Alastair,HBT,MV40,00:34:09
-36,Taylor,Mike,HBT,MSnr,00:34:19
-37,Llorens,Roger,Carnethy,MSnr - Student,00:34:22
-38,Burnett,Neil,Carnethy,MV40,00:34:25
-39,Cross,Daniel,Hyde Park Harriers,MSnr - Student,00:34:32
-40,Oliver,Alex,Musselburgh,MV40,00:35:04
-41,Yells,John,Haries,MSnr - Student,00:35:04
-42,McCracken,Morag,HBT,FSnr,00:35:16
-43,Cibas,Domantas,Edinburgh A.C.,MSnr - Student,00:35:30
-44,Upson,Chris,Westerlands,MV40,00:35:33
-45,McClelland,Pete,HBT,MSnr,00:35:53
-46,Henry,Graham,Portobello,MV40,00:35:54
-47,Dybeck,Jenny,Haries,FSnr - Student,00:36:09
-48,Sleggs,Paul,Corstorphine,MSnr,00:36:15
-49,Anderson,Laurie,Lomond H R,MV50,00:36:19
-50,Lloyd,Amelia,HBT,FSnr,00:36:20
-51,Tindley,Georgia,Haries,FSnr - Student,00:36:29
-52,Williamson,James,HBT,MSnr,00:36:32
-53,Maxwell,Kirstin,Haries,FSnr - Student,00:36:33
-54,Hawkins,Ian,Fife A C,MV50,00:36:37
-55,Anderson,Kevin,Penicuik Harriers,MV40,00:36:38
-56,McKechanie,Andrew,HBT,MSnr,00:36:39
-57,Young,Paul,Lothian RC,MV40,00:36:41
-58,Innis,Euan,Carnethy,MSnr,00:36:53
-59,McCallum,Mark,NA,MSnr,00:36:55
-60,Harding,Becks,Haries,FSnr - Student,00:37:03
-61,Grisewood,Aidan,NA,MSnr,00:37:08
-62,Fleming,Rod,Westerland,MSnr,00:37:24
-63,Hugh Bailey,Will,HBT,MSnr,00:37:36
-64,Slain,Finlay,Lothian RC,MV50,00:37:46
-65,Fraser,Billy,Northumberland Fell Runners,MV50,00:37:53
-66,Wright,Graham,HBT,MV50,00:37:54
-67,Martin,Andy,NA,MSnr,00:37:58
-68,Mair,Will,HBT,MSnr,00:38:00
-69,Ritchie,Hilary,Fife A C,FV50,00:38:06
-70,McKean,John,Fife A C,MV50,00:38:21
-71,Fraser,John,NA,MV50,00:38:27
-72,Wilson,Rob,Penicuik Harriers,MV40,00:38:30
-73,O'Malley,Sinead,HBT,FSnr,00:39:04
-74,Hume,Martin,Corstorphine,MV60,00:39:15
-75,Martin,Kim,NA,FSnr,00:39:27
-76,Creegan,Chris,Edinburgh A.C.,MV50,00:39:34
-77,Costello,Kerrie,Portobello,FSnr,00:39:27
-78,Biggar,Alister,Teviotdale,MV40,00:39:40
-79,Wilson,Joan,Carnethy,FV50,00:39:52
-80,Wilson,Colin,Carnethy,MV50,00:39:53
-81,Reid,Bryan,Lothian RC,MV50,00:40:04
-82,Bowman,Angus,Lomond H R,MV50,00:40:10
-83,Walker,Shaun,Carnethy,MSnr,00:40:14
-84,Lutte,Julia,HBT,FSnr,00:40:26
-85,Warner,Mark,HBT,MV40,00:40:31
-86,McKay,Craig,NA,MSnr,00:40:35
-87,Harper,Keith,Portobello,MV50,00:40:39
-88,McClean,Graham,Corstorphine,MV50,00:40:43
-89,Johnston,Simon,Carnethy,MSnr,00:41:07
-90,Kelly,Mairead,HBT,FSnr,00:41:16
-91,Campbell,Ian,HBT,MV40,00:41:20
-92,O'Brien,Phyllis,HBT,FV50,00:41:24
-93,Duncan,David,Ochil Hill Runners,MV50,00:41:36
-94,Stopher,Katie,NA,FSnr,00:41:41
-95,Whitehead,Jonathan,Carnethy,MV50,00:42:04
-96,Wilson,Becky,NA,FSnr,00:42:05
-97,Stavert,Andrew,Portobello,MV50,00:42:18
-98,Howie,Brian,Carnethy,MV60,00:42:23
-99,McKay,Michael,NA,MV50,00:42:30
-100,Smirthwaite,Rachel,HBT,FSnr,00:42:39
-101,Wilson,Andrea,Penicuik Harriers,FV40,00:42:45
-102,Gardner,Peter,HBT,MSnr,00:42:50
-103,O'Brien,Paul,Corstorphine,MV50,00:42:58
-104,McPherson,Hugh,Tinto,MV60,00:43:11
-105,R Smith,Brian,Fife A C,MV50,00:43:16
-106,Baker,Emma,HBT,FV40,00:43:20
-107,Golding,Katherine,HBT,FSnr,00:43:39
-108,Khan,Mohammed,Dumfries RC,MSnr,00:44:09
+11,Waldie,James,Haries,M,00:30:17
+12,Gilmore,Andrew,Carnethy,M,00:30:47
+13,Bucciarello,Gabriele,Edinburgh A.C.,M,00:30:58
+14,Hill,Tessa,HBT,F,00:31:00
+15,Stewart,Gregor,Westerland,M,00:31:03
+16,Cox,Andrew,Moorfoot,M,00:31:22
+17,Warman,Julian,HBT,M40,00:31:35
+18,Askham,John,HELP,M,00:32:09
+19,Sheckleton,Nigel,Carnethy,M,00:32:26
+20,Rhynes,Mark,HBT,M,00:32:31
+21,Gilmore,Ian,Carnethy,M,00:32:42
+22,Ashley,George,HBT,M,00:32:44
+23,Flanagan,Dessie,NA,M,00:33:00
+24,Duke,Alasdair,Westerland,M,00:33:05
+25,Murray,Cameron,Carnethy,M40,00:33:08
+26,Diver,Michael,Clydesdale,M40,00:33:18
+27,Gay,Jon,Lochaber,M40,00:33:31
+28,Hubbers,Dhigs,EUOC,M,00:33:31
+29,Walker,Craig,Squadra Porcini,M40,00:33:33
+30,McCall,Tim,Norham,M50,00:33:40
+31,Malcolm,John,Lothian RC,M,00:33:42
+32,Bowden,James,HBT,M,00:33:45
+33,Flett,Rob,HBT,M40,00:33:47
+34,Gilmore,Neil,Carnethy,M50,00:33:49
+35,Hindle,Alastair,HBT,M40,00:34:09
+36,Taylor,Mike,HBT,M,00:34:19
+37,Llorens,Roger,Carnethy,M,00:34:22
+38,Burnett,Neil,Carnethy,M40,00:34:25
+39,Cross,Daniel,Hyde Park Harriers,M,00:34:32
+40,Oliver,Alex,Musselburgh,M40,00:35:04
+41,Yells,John,Haries,M,00:35:04
+42,McCracken,Morag,HBT,F,00:35:16
+43,Cibas,Domantas,Edinburgh A.C.,M,00:35:30
+44,Upson,Chris,Westerlands,M40,00:35:33
+45,McClelland,Pete,HBT,M,00:35:53
+46,Henry,Graham,Portobello,M40,00:35:54
+47,Dybeck,Jenny,Haries,F,00:36:09
+48,Sleggs,Paul,Corstorphine,M,00:36:15
+49,Anderson,Laurie,Lomond H R,M50,00:36:19
+50,Lloyd,Amelia,HBT,F,00:36:20
+51,Tindley,Georgia,Haries,F,00:36:29
+52,Williamson,James,HBT,M,00:36:32
+53,Maxwell,Kirstin,Haries,F,00:36:33
+54,Hawkins,Ian,Fife A C,M50,00:36:37
+55,Anderson,Kevin,Penicuik Harriers,M40,00:36:38
+56,McKechanie,Andrew,HBT,M,00:36:39
+57,Young,Paul,Lothian RC,M40,00:36:41
+58,Innis,Euan,Carnethy,M,00:36:53
+59,McCallum,Mark,NA,M,00:36:55
+60,Harding,Becks,Haries,F,00:37:03
+61,Grisewood,Aidan,NA,M,00:37:08
+62,Fleming,Rod,Westerland,M,00:37:24
+63,Hugh Bailey,Will,HBT,M,00:37:36
+64,Slain,Finlay,Lothian RC,M50,00:37:46
+65,Fraser,Billy,Northumberland Fell Runners,M50,00:37:53
+66,Wright,Graham,HBT,M50,00:37:54
+67,Martin,Andy,NA,M,00:37:58
+68,Mair,Will,HBT,M,00:38:00
+69,Ritchie,Hilary,Fife A C,F50,00:38:06
+70,McKean,John,Fife A C,M50,00:38:21
+71,Fraser,John,NA,M50,00:38:27
+72,Wilson,Rob,Penicuik Harriers,M40,00:38:30
+73,O'Malley,Sinead,HBT,F,00:39:04
+74,Hume,Martin,Corstorphine,M60,00:39:15
+75,Martin,Kim,NA,F,00:39:27
+76,Creegan,Chris,Edinburgh A.C.,M50,00:39:34
+77,Costello,Kerrie,Portobello,F,00:39:27
+78,Biggar,Alister,Teviotdale,M40,00:39:40
+79,Wilson,Joan,Carnethy,F50,00:39:52
+80,Wilson,Colin,Carnethy,M50,00:39:53
+81,Reid,Bryan,Lothian RC,M50,00:40:04
+82,Bowman,Angus,Lomond H R,M50,00:40:10
+83,Walker,Shaun,Carnethy,M,00:40:14
+84,Lutte,Julia,HBT,F,00:40:26
+85,Warner,Mark,HBT,M40,00:40:31
+86,McKay,Craig,NA,M,00:40:35
+87,Harper,Keith,Portobello,M50,00:40:39
+88,McClean,Graham,Corstorphine,M50,00:40:43
+89,Johnston,Simon,Carnethy,M,00:41:07
+90,Kelly,Mairead,HBT,F,00:41:16
+91,Campbell,Ian,HBT,M40,00:41:20
+92,O'Brien,Phyllis,HBT,F50,00:41:24
+93,Duncan,David,Ochil Hill Runners,M50,00:41:36
+94,Stopher,Katie,NA,F,00:41:41
+95,Whitehead,Jonathan,Carnethy,M50,00:42:04
+96,Wilson,Becky,NA,F,00:42:05
+97,Stavert,Andrew,Portobello,M50,00:42:18
+98,Howie,Brian,Carnethy,M60,00:42:23
+99,McKay,Michael,NA,M50,00:42:30
+100,Smirthwaite,Rachel,HBT,F,00:42:39
+101,Wilson,Andrea,Penicuik Harriers,F40,00:42:45
+102,Gardner,Peter,HBT,M,00:42:50
+103,O'Brien,Paul,Corstorphine,M50,00:42:58
+104,McPherson,Hugh,Tinto,M60,00:43:11
+105,R Smith,Brian,Fife A C,M50,00:43:16
+106,Baker,Emma,HBT,F40,00:43:20
+107,Golding,Katherine,HBT,F,00:43:39
+108,Khan,Mohammed,Dumfries RC,M,00:44:09
 109,Shepherd,Rozy,Haries,FJnr - Student,00:44:10
-110,Dunn,Nicola,Carnethy,FV40,00:44:15
-111,Kemp,Sadie,Penicuik Harriers,FSnr,00:44:20
-112,Garside,Derek,NA,MSnr,00:45:02
-113,Orr,Graeme,Westerland,MV60,00:45:10
-114,Graham,Paul,Edinburgh Triathletes,MV50,00:45:43
-115,Maxwell,Susie,Penicuik Harriers,FV40,00:45:54
-116,Heathcote,Rachael,HBT,FSnr,00:46:03
-117,Morris,Paul,Carnethy,MV50,00:47:17
-118,Smith,Janice,HBT,FV50,00:47:26
-119,Weston,Anna,HBT,FSnr,00:47:53
-120,Barrett,Debbie,Portobello,FSnr,00:48:00
-121,Jones,Amy,HBT,FSnr,00:48:04
-122,Caultman,Alan,Teviotdale,MV40,00:48:16
-123,Sneddon,Jenny,NA,FSnr,00:50:39
-124,Gunn-Russell,Kenny,Nike Running Club,MV40,00:51:13
-125,Waterworth,Colin,Horwich,MV50,00:51:17
-126,Iley,Caroline,Portobello,FSnr,00:51:25
-127,Fraser,Ron,Dundee Road Runners,MV50,00:51:36
-128,McManus,Ian,Irvine Athletic,MV60,01:01:30
-129,Rautenbach,Anne,Edinburgh running network,FV50,01:05:26
+110,Dunn,Nicola,Carnethy,F40,00:44:15
+111,Kemp,Sadie,Penicuik Harriers,F,00:44:20
+112,Garside,Derek,NA,M,00:45:02
+113,Orr,Graeme,Westerland,M60,00:45:10
+114,Graham,Paul,Edinburgh Triathletes,M50,00:45:43
+115,Maxwell,Susie,Penicuik Harriers,F40,00:45:54
+116,Heathcote,Rachael,HBT,F,00:46:03
+117,Morris,Paul,Carnethy,M50,00:47:17
+118,Smith,Janice,HBT,F50,00:47:26
+119,Weston,Anna,HBT,F,00:47:53
+120,Barrett,Debbie,Portobello,F,00:48:00
+121,Jones,Amy,HBT,F,00:48:04
+122,Caultman,Alan,Teviotdale,M40,00:48:16
+123,Sneddon,Jenny,NA,F,00:50:39
+124,Gunn-Russell,Kenny,Nike Running Club,M40,00:51:13
+125,Waterworth,Colin,Horwich,M50,00:51:17
+126,Iley,Caroline,Portobello,F,00:51:25
+127,Fraser,Ron,Dundee Road Runners,M50,00:51:36
+128,McManus,Ian,Irvine Athletic,M60,01:01:30
+129,Rautenbach,Anne,Edinburgh running network,F50,01:05:26

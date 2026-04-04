@@ -28,7 +28,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 27,Brown,Jamie,HBT,M40,0:29:17
 28,Osborn,David,Lomond Hill Runners,M50,0:29:35
 29,Duncan,David,Ochil Hill Runners,M50,0:29:38
-30,Laing,Scott,Unattached,MJ,0:29:41
+30,Laing,Scott,Unattached,M16,0:29:41
 31,Wilson,Colin,Lomond Hill Runners,M50,0:29:47
 32,Landels,Brian,Lomond Hill Runners,M40,0:29:50
 33,Kemp,Graeme,Kinross Road Runners,M,0:29:56
@@ -38,18 +38,18 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Graham,Alan,Lomond Hill Runners,M60,0:30:29
 38,Brown,Kevin,Ochil Hill Runners,M,0:31:18
 39,Lloyd-Evans,Anne,Dunoon Hill Runners,F,0:31:25
-40,Langlands,Connor,Unattached,MJ,0:31:25
+40,Langlands,Connor,Unattached,M16,0:31:25
 41,Rogowski,Andreas,Kinross Road Runners,M40,0:31:36
 42,Smith,Brian,Fife AC,M50,0:32:35
-43,MacCorquodale,Eilidh,Wee County Harriers,FJ,0:32:39
+43,MacCorquodale,Eilidh,Wee County Harriers,F16,0:32:39
 44,Kenyon,Sean,Forfar Road Runners,M40,0:32:51
 45,Beveridge,Bob,Lomond Hill Runners,M60,0:32:59
 46,Mearns,Kenny,Lothian,M50,0:33:07
 47,Oliver,Chris,HBT,M60,0:33:10
 48,Davidson,Stewart,Fife AC,M60,0:33:45
 49,Bowman,Jean,Lomond Hill Runners,F50,0:34:25
-50,Knox,Lizzie,Anster Haddies,FJ,0:36:23
-51,Pegge,Joe,Unattached,MJ,0:36:34
+50,Knox,Lizzie,Anster Haddies,F16,0:36:23
+51,Pegge,Joe,Unattached,M16,0:36:34
 52,Fraser,Ronald,Dundee Road Runners,M40,0:39:22
 53,Thornton,Bob,Fife AC,M50,0:40:27
 54,Stapley,Tony,Portobello,M60,0:40:53

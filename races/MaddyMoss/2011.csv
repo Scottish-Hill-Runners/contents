@@ -1,127 +1,127 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil,M,00:50:31
-2,Richmond,Kenny,Bellahouston,MV,00:52:56
-3,Harris,Mark,Fife AC,MV,00:53:09
-4,Gorman,Manny,Westies,MV,00:54:27
+2,Richmond,Kenny,Bellahouston,M,00:52:56
+3,Harris,Mark,Fife AC,M,00:53:09
+4,Gorman,Manny,Westies,M,00:54:27
 5,Faulkner,Paul,Carnethy,M,00:55:17
 6,Taylor,Adam,Garscube Harriers,M,00:56:03
-7,MacKenzie,Donald,Lomond Hill Runners,MV,00:56:17
-8,Knox,Jonny,Anster Haddies,MV,00:56:46
+7,MacKenzie,Donald,Lomond Hill Runners,M,00:56:17
+8,Knox,Jonny,Anster Haddies,M,00:56:46
 9,Glencorse,Colin,Strathearn Harriers,M,00:57:04
 10,Ascroft,Jon,Carnethy,M,00:57:15
-11,Fraser,Gary,Ochil,MV,00:57:20
-12,Love,Craig,Dundee Hawkhill Harriers,MV,00:58:21
-13,Crowe,Des,Shettleston Harriers,MSV,00:58:29
-14,Warman,Julian,HBT,MV,00:58:50
+11,Fraser,Gary,Ochil,M,00:57:20
+12,Love,Craig,Dundee Hawkhill Harriers,M,00:58:21
+13,Crowe,Des,Shettleston Harriers,M40,00:58:29
+14,Warman,Julian,HBT,M,00:58:50
 15,Burt,Cameron,Westies,M,00:59:14
 16,Robertson,Alastair,Lothian,M,00:59:15
-17,Buchanan,Peter,Portobello Running Club,MV,00:59:16
-18,Bennet,Sandy,Carnegie,MV,00:59:16
+17,Buchanan,Peter,Portobello Running Club,M,00:59:16
+18,Bennet,Sandy,Carnegie,M,00:59:16
 19,Berrill,David,Lothian,M,01:00:15
 20,Rankin,Christina,Kilbarchan AAc,F,01:00:17
-21,Rathjen,Jon,HBT,MV,01:00:27
+21,Rathjen,Jon,HBT,M,01:00:27
 22,Fulton,David,HBT,M,01:00:28
-23,Smith,Bruce,Carnethy,MV,01:00:54
+23,Smith,Bruce,Carnethy,M,01:00:54
 24,Miller,Alasdair,Westies,M,01:01:04
 25,Mitchell,Scott,Westies,M,01:01:30
-26,Wilson,Stewart,Inverness Harriers,MV,01:01:47
-27,Robertson,Shona,Westies,FV,01:02:26
-28,King,Steven,Carnegie,MV,01:02:37
-29,McMillan,Ian,Portobello Running Club,MV,01:02:44
-30,Murray,Alan,Ochil,MV,01:02:52
-31,Kelly,Graham,Westies,MV,01:03:00
-32,Nash,Graham,Carnethy,MV,01:03:01
+26,Wilson,Stewart,Inverness Harriers,M,01:01:47
+27,Robertson,Shona,Westies,F,01:02:26
+28,King,Steven,Carnegie,M,01:02:37
+29,McMillan,Ian,Portobello Running Club,M,01:02:44
+30,Murray,Alan,Ochil,M,01:02:52
+31,Kelly,Graham,Westies,M,01:03:00
+32,Nash,Graham,Carnethy,M,01:03:01
 33,Wild,Mike,HBT,M,01:03:16
 34,Mathieson,Stuart,Bellahouston,M,01:03:57
-35,Pryde,Gordon,Lomond Hill Runners,MSV,01:04:00
+35,Pryde,Gordon,Lomond Hill Runners,M40,01:04:00
 36,Mathews,Steve,Dundee Hawkhill Harriers,M,01:04:04
 37,Malcolm,John,Lothian,M,01:04:39
-38,Hunter,Alan,Ochil,MV,01:04:40
+38,Hunter,Alan,Ochil,M,01:04:40
 39,Hammond,John,Carnethy,M,01:04:49
-40,Inman,Jason,FVO,MV,01:05:24
+40,Inman,Jason,FVO,M,01:05:24
 41,Wardlaw,Eilidh,HBT,F,01:05:50
-42,McNulty,Ian,Dundee Hawkhill Harriers,MV,01:06:03
-43,Mitchell,Dave,Dundee Hawkhill Harriers,MV,01:06:30
+42,McNulty,Ian,Dundee Hawkhill Harriers,M,01:06:03
+43,Mitchell,Dave,Dundee Hawkhill Harriers,M,01:06:30
 44,Smith,Alastair,Dundee Hawkhill Harriers,M,01:06:41
 45,Mackio,Peter,Unattached,M,01:06:41
 46,McNeill,Norman,Ochil,M,01:08:47
-47,Bartlett,Pat,Interlopers,MV,01:08:52
+47,Bartlett,Pat,Interlopers,M,01:08:52
 48,Preiss,Alastair,Ochil,M,01:08:58
 49,Roberts,Mark,HBT,M,01:09:21
-50,MacLeod,Murdo,Westies,M60+,01:09:35
+50,MacLeod,Murdo,Westies,M60,01:09:35
 51,Bonsor,Helen,Carnethy,F,01:09:39
 52,Harrison,Simon,HBT,M,01:09:45
 53,Nasu,Paul,Unattached,M,01:09:48
 54,Connor,Julia,Moorfoot Runners,F,01:09:50
-55,Ritchie,Hilary,Fife AC,FV,01:10:00
+55,Ritchie,Hilary,Fife AC,F,01:10:00
 56,McDonald,Ciaran,Westies,M,01:10:00
-57,Reid,Colin,Carnegie,MV,01:10:02
-58,Galbraith,Jim,Giffnock North,MSV,01:10:34
-59,Donnelly,John,Westies,MV,01:10:49
-60,Forte,Phil,Dundee Hawkhill Harriers,MSV,01:10:53
-61,Duff,Bill,Carnegie,M60+,01:10:55
-62,Purchase,William,Liss Runners,MV,01:11:13
-63,Cowan,David,Fife AC,MV,01:11:14
+57,Reid,Colin,Carnegie,M,01:10:02
+58,Galbraith,Jim,Giffnock North,M40,01:10:34
+59,Donnelly,John,Westies,M,01:10:49
+60,Forte,Phil,Dundee Hawkhill Harriers,M40,01:10:53
+61,Duff,Bill,Carnegie,M60,01:10:55
+62,Purchase,William,Liss Runners,M,01:11:13
+63,Cowan,David,Fife AC,M,01:11:14
 64,Galbraith,Doleen,Giffnock North,M,01:11:28
 65,Forrest,Stuart,Highland Hill Runners,M,01:11:28
 66,Brown,Jamie,HBT,M,01:11:44
-67,Legge,Sarah,Fife AC,FV,01:11:51
+67,Legge,Sarah,Fife AC,F,01:11:51
 68,Knox,Thomax,Anster Haddies,M,01:12:06
-69,Martin,Ron,Ochil,MV,01:12:16
-70,Anderson,Joanne,Carnethy,FV,01:12:34
-71,Kelsall,Fiona,Ochil,FV,01:12:54
-72,Cowan,Paula,Westies,FV,01:12:57
-73,Pryde,Gordon,Lomond Hill Runners,MSV,01:13:02
+69,Martin,Ron,Ochil,M,01:12:16
+70,Anderson,Joanne,Carnethy,F,01:12:34
+71,Kelsall,Fiona,Ochil,F,01:12:54
+72,Cowan,Paula,Westies,F,01:12:57
+73,Pryde,Gordon,Lomond Hill Runners,M40,01:13:02
 74,Novicki,Michael,Portobello Running Club,M,01:13:02
-75,Caulkett,Andy,Lomond Hill Runners,MV,01:13:10
-76,Bowie,Tom,Carnegie,M60+,01:13:20
-77,Johnston,Stephen,Milburn Harriers,MV,01:13:33
+75,Caulkett,Andy,Lomond Hill Runners,M,01:13:10
+76,Bowie,Tom,Carnegie,M60,01:13:20
+77,Johnston,Stephen,Milburn Harriers,M,01:13:33
 78,Bull,Matthew,Westies,M,01:13:54
-79,Duncan,David,Ochil,MSV,01:13:55
+79,Duncan,David,Ochil,M40,01:13:55
 80,Weir,Jonathan,Unattached,M,01:13:55
-81,Wilson,Joan,Carnethy,FV,01:13:57
-82,Pugh,Roderick,Kilmarnock Harriers,MSV,01:14:24
+81,Wilson,Joan,Carnethy,F,01:13:57
+82,Pugh,Roderick,Kilmarnock Harriers,M40,01:14:24
 83,Telfer,Kenneth,Kinross Road Runners,M,01:14:27
-84,Sword,Lawrence Trevor,Unattached,MSV,01:14:29
+84,Sword,Lawrence Trevor,Unattached,M40,01:14:29
 85,Muir,Colin,Unattached,M,01:14:32
-86,Ridyard,Alison,Unattached,FV,01:14:33
-87,Bowman,A,Lomond Hill Runners,MSV,01:15:12
-88,Harris,Julia,Bellahouston,FV,01:15:23
-89,Gilhooly,John,Unattached,MSV,01:15:44
-90,Landers,Brian,Lomond Hill Runners,MV,01:16:11
+86,Ridyard,Alison,Unattached,F,01:14:33
+87,Bowman,A,Lomond Hill Runners,M40,01:15:12
+88,Harris,Julia,Bellahouston,F,01:15:23
+89,Gilhooly,John,Unattached,M40,01:15:44
+90,Landers,Brian,Lomond Hill Runners,M,01:16:11
 91,Brown,Kevin,Ochil,M,01:16:14
 92,Quigley,Eamon,IMRA,M,01:16:18
 93,Millins,Caroline,Westies,F,01:16:40
-94,McAdam,Pauline,Westies,FSV,01:16:50
-95,Irving,Jason,Dundee Road Runners,MV,01:16:52
-96,Hunter,Mary,Portobello Running Club,FV,01:17:02
-97,Drewette,David,Ochil,MV,01:17:13
-98,Jablonski,Derek,Lomond Hill Runners,MSV,01:17:27
-99,Mallett,P,Lomond Hill Runners,MV,01:17:37
-100,Graham,Alan,Lomond Hill Runners,M60+,01:18:21
-101,Cadman,Ian,Unattached,M60+,01:18:58
+94,McAdam,Pauline,Westies,F40,01:16:50
+95,Irving,Jason,Dundee Road Runners,M,01:16:52
+96,Hunter,Mary,Portobello Running Club,F,01:17:02
+97,Drewette,David,Ochil,M,01:17:13
+98,Jablonski,Derek,Lomond Hill Runners,M40,01:17:27
+99,Mallett,P,Lomond Hill Runners,M,01:17:37
+100,Graham,Alan,Lomond Hill Runners,M60,01:18:21
+101,Cadman,Ian,Unattached,M60,01:18:58
 102,Grassl,Peter,Westies,M,01:19:06
-103,West,Alison,Carnegie,FSV,01:19:13
-104,Morris,Paul,Gala Harriers,MSV,01:19:51
+103,West,Alison,Carnegie,F40,01:19:13
+104,Morris,Paul,Gala Harriers,M40,01:19:51
 105,Baxter,Katy,Ochil,F,01:20:43
-106,Osborn,David,Lomond Hill Runners,MSV,01:20:45
-107,Stakes,David,Bellahouston,MV,01:21:10
+106,Osborn,David,Lomond Hill Runners,M40,01:20:45
+107,Stakes,David,Bellahouston,M,01:21:10
 108,Chambers,Kristy,HBT,F,01:22:15
 109,Hogg,Fraser,Unattached,M,01:23:45
-110,Baxter,John,Unattached,MV,01:24:33
+110,Baxter,John,Unattached,M,01:24:33
 111,Whitten,Carolyn,Westies,F,01:24:50
 112,Lawlor,Katherine,Dundee Road Runners,F,01:26:38
 113,White,Abby,HBT,F,01:30:41
-114,McGuire,Alex,Fife AC,MSV,01:30:51
-115,Bowman,Jean,Lomond Hill Runners,FSV,01:30:51
-116,Nairns,William,Ochil,MV,01:31:15
-117,Stapley,Tony,Portobello Running Club,M60+,01:31:32
-118,Anderson,Alan,Unattached,MV,01:31:44
+114,McGuire,Alex,Fife AC,M40,01:30:51
+115,Bowman,Jean,Lomond Hill Runners,F40,01:30:51
+116,Nairns,William,Ochil,M,01:31:15
+117,Stapley,Tony,Portobello Running Club,M60,01:31:32
+118,Anderson,Alan,Unattached,M,01:31:44
 119,Matthews,Catherine,Unattached,F,01:31:45
 120,O'Dalaigh,Marc,Unattached,M,01:36:38
-121,Winning,Jim,Lomond Hill Runners,MSV,01:38:52
-122,McManus,Ian,Irvine AC,M60+,01:39:15
-123,McLaughlin,Patricia,Westies,F60+,01:40:10
+121,Winning,Jim,Lomond Hill Runners,M40,01:38:52
+122,McManus,Ian,Irvine AC,M60,01:39:15
+123,McLaughlin,Patricia,Westies,F60,01:40:10
 124,Reid,Isla,Unattached,F,01:40:45
 125,Lawrie,Lynsey,Portobello Running Club,M,01:40:46
 126,Sweeney,Neil,Unattached,M,01:40:56

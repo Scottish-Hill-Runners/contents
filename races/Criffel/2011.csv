@@ -1,18 +1,18 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,MV40,00:56:56
+1,Marshall,Brian,HELP,M40,00:56:56
 2,Smith,Tom,Lochaber,M,00:58:12
 3,Anderson,Adam,Carnethy,M,01:01:06
-4,Charles,Stanley,Clwydian Range Runners,MV40,01:03:43
-5,Simpson,Stuart,Ochill Hill Runners,MV40,01:05:24
+4,Charles,Stanley,Clwydian Range Runners,M40,01:03:43
+5,Simpson,Stuart,Ochill Hill Runners,M40,01:05:24
 6,Parish,David,Dumfries Running Club,M,01:05:45
-7,Crowe,Des,Shettleston Harr,MV40,01:07:33
+7,Crowe,Des,Shettleston Harr,M40,01:07:33
 8,Geoghegan,Michael,Portobello Running Club,M,01:08:00
-9,Bass,Owen,Deeside,MV40,01:08:13
+9,Bass,Owen,Deeside,M40,01:08:13
 10,Bloxham,Alistair,Dumfries Running Club,M,01:08:39
 11,Hutchison,Stuart,Saddleworth Runners,M,01:09:34
-12,Patterson,Ian,Whisky Chasers,MV40,01:09:58
-13,Coopland,Martin,ADAC,MV40,01:10:16
-14,Gilmore,Neil,Carnethy,MV40,01:10:55
+12,Patterson,Ian,Whisky Chasers,M40,01:09:58
+13,Coopland,Martin,ADAC,M40,01:10:16
+14,Gilmore,Neil,Carnethy,M40,01:10:55
 15,Goldsworthy,John,Galloway Harriors,M50,01:12:24
 16,Dickie,Adam,Dumfries Running Club,M,01:12:28
 17,Morgan,Charlotte,U/A,F,01:12:42
@@ -20,33 +20,33 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 19,Duke-Wordrop,Alasdair,Westerlands,M,01:12:59
 20,Laird,Fraser,Westerlands,M,01:13:16
 21,Glendinning,Neil,U/A,M,01:14:48
-22,Fairgrieve,Andy,ADAC,MV40,01:15:21
-23,Mortlock,Simon,Dumfries Running Club,MV40,01:16:27
-24,McLachlan,Richard,U/A,MV40,01:16:46
+22,Fairgrieve,Andy,ADAC,M40,01:15:21
+23,Mortlock,Simon,Dumfries Running Club,M40,01:16:27
+24,McLachlan,Richard,U/A,M40,01:16:46
 25,Smith,Alastair,Dundee Hawkhill,M,01:18:05
-26,Wilson,Colin,Carnethy,MV40,01:18:13
+26,Wilson,Colin,Carnethy,M40,01:18:13
 27,Weir,Jonathan,U/A,M,01:18:24
-28,Brennan,Brian,Westerlands,MV50,01:19:07
-29,Brotherston,Chris,Bellahouston Road Runners,MV40,01:19:18
+28,Brennan,Brian,Westerlands,M50,01:19:07
+29,Brotherston,Chris,Bellahouston Road Runners,M40,01:19:18
 30,Clark,Mike,U/A,M,01:19:48
-31,Singh,Shirley,U/A,FV40,01:19:55
-32,Wilson,Joan,Carnethy,FV40,01:20:15
-33,Davidson,Ian,Girvan,MV50,01:22:39
+31,Singh,Shirley,U/A,F40,01:19:55
+32,Wilson,Joan,Carnethy,F40,01:20:15
+33,Davidson,Ian,Girvan,M50,01:22:39
 34,Macdougall,Ken,Tinto Hill Runners,M,01:23:02
 35,Wood,Chris,Dumfries Running Club,M,01:24:27
-36,Pearcey,Gill,Dumfries Running Club,FV40,01:26:08
-37,Turner,Ian,Moffat Mountain Rescue,MV60,01:27:19
-38,Baxter,Peter,Westerlands,MV50,01:28:15
-39,Stephenson,Les,Kendal AC,MV60,01:29:01
-40,Parker,Craig,Solway,MV40,01:29:24
+36,Pearcey,Gill,Dumfries Running Club,F40,01:26:08
+37,Turner,Ian,Moffat Mountain Rescue,M60,01:27:19
+38,Baxter,Peter,Westerlands,M50,01:28:15
+39,Stephenson,Les,Kendal AC,M60,01:29:01
+40,Parker,Craig,Solway,M40,01:29:24
 41,McGuire,Joanne,Westies,F,01:29:41
-42,Lawrence,Jim,Solway Orienteers,MV60,01:33:43
-43,Cooper,Richard,U/A,MV40,01:35:28
-44,Bass,Ursula,Deeside,FV40,01:37:01
-45,Dougan,Alan,U/A,MV40,01:37:42
-46,Stakes,David,Bellahouston Road Runners,MV40,01:38:39
-47,Stapley,Tony,Portobello Running Club,MV60,01:39:22
-48,Scott,Elspeth,Westerlands,FV40,01:40:15
-49,Robson,Jean,ADAC,FV50,01:41:48
-50,Friend,Kate,Carnethy,FV40,01:42:29
+42,Lawrence,Jim,Solway Orienteers,M60,01:33:43
+43,Cooper,Richard,U/A,M40,01:35:28
+44,Bass,Ursula,Deeside,F40,01:37:01
+45,Dougan,Alan,U/A,M40,01:37:42
+46,Stakes,David,Bellahouston Road Runners,M40,01:38:39
+47,Stapley,Tony,Portobello Running Club,M60,01:39:22
+48,Scott,Elspeth,Westerlands,F40,01:40:15
+49,Robson,Jean,ADAC,F50,01:41:48
+50,Friend,Kate,Carnethy,F40,01:42:29
 51,Winning,Jennifer,Lomond,F,01:48:45

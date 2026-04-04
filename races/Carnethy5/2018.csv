@@ -28,7 +28,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Luetchford,Alex,HBT,M,00:57:42
 28,Ferrington,Tom,Corstorphine AAC,M40,00:57:45
 29,Procter,Ben,Helm Hill Runners,M,00:57:54
-30,Malcolm,Gregor,Edinburgh University Hare and Hounds,MJ,00:58:02
+30,Malcolm,Gregor,Edinburgh University Hare and Hounds,M16,00:58:02
 31,Gardner,Peter,HBT,M,00:58:03
 32,McAlinden,Niall,Westerlands CCC,M,00:58:07
 33,Marce Garcia,Gerard,Non-UKA Affiliated Club,M,00:58:32
@@ -44,7 +44,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 43,Strain,Tessa,HBT,F,00:59:53
 44,Wilson,Thomas,Edinburgh University Hare and Hounds,M,01:00:00
 45,Eiser,Dave,Ochil Hill Runners,M40,01:00:13
-46,Wolfe,Hamish,Heriot-Watt University Athletics,MJ,01:00:17
+46,Wolfe,Hamish,Heriot-Watt University Athletics,M16,01:00:17
 47,Healy,Michael,Cambuslang Harriers,M40,01:00:20
 48,Mackellar,Grant,Dunoon Hill Runners,M,01:00:23
 49,Wiseman,Bob,Ochil Hill Runners,M,01:00:24
@@ -130,7 +130,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 129,Maclennan,Iain,Highland Hill Runners,M40,01:08:41
 130,Miller,Andrew,Carnethy HRC,M,01:08:58
 131,McAlister,Emmet,Glens Runners,M,01:08:58
-132,Haines,Lucy,Edinburgh University Hare and Hounds,FJ,01:08:59
+132,Haines,Lucy,Edinburgh University Hare and Hounds,F16,01:08:59
 133,Buchanan,Peter,Portobello Running Club,M50,01:09:04
 134,Gilkison,Alan,Westerlands CCC,M40,01:09:08
 135,Heggie,Alastair,Carnethy HRC,M,01:09:10
@@ -207,7 +207,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 206,Kiely,Tom,Edinburgh Athletics Club,M40,01:14:57
 207,McCallum,Alasdair,North Ayrshire Athletics Club,M50,01:14:58
 208,Robertson,Abigail,Carnethy HRC,F,01:15:02
-209,Hall,Katie,Edinburgh University Hare and Hounds,FJ,01:15:04
+209,Hall,Katie,Edinburgh University Hare and Hounds,F16,01:15:04
 210,Lye,Mary,Carnethy HRC,F40,01:15:09
 211,Larmour,Colin,Cosmic Hillbashers,M50,01:15:11
 212,Angus,Gerald,Keith & District AAC,M50,01:15:16
@@ -262,12 +262,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 261,Frizzell,Gavin,Carnethy HRC,M,01:19:01
 262,Nisbet,Stephen,North Ayrshire Athletics Club,M,01:19:02
 263,King,Gordon,Clyderunners,M40,01:19:05
-264,Gorman,Duncan,Westerlands CCC,MJ,01:19:05
+264,Gorman,Duncan,Westerlands CCC,M16,01:19:05
 265,Burberry,Erica,Old Yummicks,F,01:19:08
 266,Dillon,Stewart,Fife Athletic Club,M50,01:19:10
 267,Flores,Leyre,Westerlands CCC,F,01:19:13
 268,Hooper,Mark,Carnethy HRC,M,01:19:16
-269,Stevens,Georgia,Helm Hill Runners,FJ,01:19:23
+269,Stevens,Georgia,Helm Hill Runners,F16,01:19:23
 270,Irwin,Phil,Unattached,M,01:19:27
 271,Wilson,Colin,Lomond Hill Runners & AAC,M50,01:19:37
 272,Cameron,Gordon,Carnethy HRC,M60,01:19:39

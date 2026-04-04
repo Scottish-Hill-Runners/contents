@@ -1,35 +1,35 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Dobson,Jacob,U/A,Sen,00:21:34
-2,Baxter,Grant,Ochil HR,V40,00:22:33
-3,Fernando,Sam,Fife AC,U17,00:24:03
-4,Mercer,James,Gala,U20,00:24:35
-5,Duffy,Sean,U/A,Sen,00:24:40
-6,Lawson,Fraser,U/A,U20,00:25:11
-7,Gardner,Peter,HBT,Sen,00:25:28
-8,Pryde,Gordon,Lomond HR,V50,00:25:43
-9,Normand,Ivor,HBT,V40,00:25:56
-10,Cumming,Mike,Fife AC,Sen,00:26:32
-11,Osborn,David,Lomond HR,V50,00:27:23
-12,Kennedy,Robbie,Lothian,U20,00:27:35
-13,Keavney,Marcus,Lomond HR,V40,00:27:45
-14,Turner,David,Lomond HR,V40,00:27:45
-15,Dales,Mike,Perth RR,V50,00:28:10
-16,Pollock,Drew,Cambuslang,U15,00:28:18
-17,Wilson,Colin,Lomond HR,V50,00:28:28
-18,Beedie,Iain,Lomond HR,V40,00:28:51
-19,Brennan,Brian,Westerlands XCC,V50,00:29:05
+1,Dobson,Jacob,U/A,M,00:21:34
+2,Baxter,Grant,Ochil HR,M40,00:22:33
+3,Fernando,Sam,Fife AC,M17,00:24:03
+4,Mercer,James,Gala,M20,00:24:35
+5,Duffy,Sean,U/A,M,00:24:40
+6,Lawson,Fraser,U/A,M20,00:25:11
+7,Gardner,Peter,HBT,M,00:25:28
+8,Pryde,Gordon,Lomond HR,M50,00:25:43
+9,Normand,Ivor,HBT,M40,00:25:56
+10,Cumming,Mike,Fife AC,M,00:26:32
+11,Osborn,David,Lomond HR,M50,00:27:23
+12,Kennedy,Robbie,Lothian,M20,00:27:35
+13,Keavney,Marcus,Lomond HR,M40,00:27:45
+14,Turner,David,Lomond HR,M40,00:27:45
+15,Dales,Mike,Perth RR,M50,00:28:10
+16,Pollock,Drew,Cambuslang,M15,00:28:18
+17,Wilson,Colin,Lomond HR,M50,00:28:28
+18,Beedie,Iain,Lomond HR,M40,00:28:51
+19,Brennan,Brian,Westerlands XCC,M50,00:29:05
 20,Wilson,Joan,Carnethy,L50,00:29:26
-21,Landels,Brian,Lomond HR,V50,00:29:33
+21,Landels,Brian,Lomond HR,M50,00:29:33
 22,Burns,Denise,Lomond HR,L40,00:30:36
-23,Rudd,John,Perth RR,V50,00:30:40
-24,Mallett,Pat,Lomond HR,V50,00:30:45
-25,Fernando,Rowan,Fife AC,V40,00:31:48
+23,Rudd,John,Perth RR,M50,00:30:40
+24,Mallett,Pat,Lomond HR,M50,00:30:45
+25,Fernando,Rowan,Fife AC,M40,00:31:48
 26,Manson,Fiona,Perth RR,L40,00:32:04
-27,Gatehouse,Richard,Lomond HR,V60,00:33:17
-28,Beveridge,Bob,Lomond HR,V70,00:34:36
-29,Aiden,Lawson,U/A,U15,00:34:58
-30,Fraser,Ron,Dundee RR,V50,00:39:40
-31,Wright,James,HBT,V50,00:42:04
-32,Findlay,Steven,U/A,Sen,00:45:40
-33,McManus,Ian,Irvine,V70,00:46:12
-34,Stark,Bob,Fife AC,V70,00:46:51
+27,Gatehouse,Richard,Lomond HR,M60,00:33:17
+28,Beveridge,Bob,Lomond HR,M70,00:34:36
+29,Aiden,Lawson,U/A,M15,00:34:58
+30,Fraser,Ron,Dundee RR,M50,00:39:40
+31,Wright,James,HBT,M50,00:42:04
+32,Findlay,Steven,U/A,M,00:45:40
+33,McManus,Ian,Irvine,M70,00:46:12
+34,Stark,Bob,Fife AC,M70,00:46:51

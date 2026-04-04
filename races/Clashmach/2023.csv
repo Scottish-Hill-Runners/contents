@@ -2,13 +2,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wilson,Ewan,Insch Trail Runners,M,00:24:20
 2,Duncan,Logan,Huntly Nordic,M,00:25:45
 3,Ipsen,Rasmus,Insch Trail Runners,M,00:26:04
-4,Anderson,Zander,Unattached,MJ,00:26:06
+4,Anderson,Zander,Unattached,M16,00:26:06
 5,Simpson,Andrew,Insch Trail Runners,M,00:26:10
 6,Ipsen,Jakob,Insch Trail Runners,M,00:26:15
 7,Adamson,Ian,Garioch Roadrunners,M,00:26:19
 8,Barclay,David,Garioch Roadrunners,M,00:26:29
 9,Reynolds,Dean,Insch Trail Runners,M,00:27:00
-10,Perrin,Alfie,Unattached,MJ,00:27:06
+10,Perrin,Alfie,Unattached,M16,00:27:06
 11,Williamson,Jason,Cosmics,M,00:27:22
 12,Brand,Rory,Garioch Roadrunners,M,00:27:37
 13,McLean,Nick,Insch Trail Runners,M,00:27:40
@@ -21,7 +21,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 20,Milne,Sarah,Unattached,F,00:29:26
 21,Elton,Steven,Unattached,M,00:29:30
 22,McLelland,Drew,JS Kintore Running Club,M,00:29:34
-23,Rogers,Calum,Huntly Quines & Loons,MJ,00:29:53
+23,Rogers,Calum,Huntly Quines & Loons,M16,00:29:53
 24,Mann,Phil,Metro Aberdeen,M,00:29:56
 25,McCoy,Neil,Garioch Roadrunners,M,00:30:00
 26,Harris,Greg,Unattached,M,00:30:14
@@ -38,7 +38,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,Beattie-Hay,Steven,Keith JS,M,00:32:29
 38,Anderson,Colin,Unattached,M,00:33:35
 39,Whyte,Jo,Garioch Roadrunners,F,00:33:39
-40,Plaine,Kyle,Gordon Schools Huntly,MJ,00:33:53
+40,Plaine,Kyle,Gordon Schools Huntly,M16,00:33:53
 41,Taylor,Alison,Garioch Roadrunners,F,00:33:55
 42,Van Beijma,Lieneke,Insch Trail Runners,F,00:33:59
 43,Jackson,Anna,AAAC,F,00:34:18
@@ -57,7 +57,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 56,Russell,Lee,Insch Trail Runners,M,00:36:21
 57,Owens,Phil,Garioch Roadrunners,M,00:36:25
 58,Reid,Colin,Unattached,M,00:36:33
-59,Anderson,Adam,Gordon Schools Huntly,MJ,00:36:36
+59,Anderson,Adam,Gordon Schools Huntly,M16,00:36:36
 60,Clark,Faith,Deveron Harriers,F,00:36:43
 61,McInnes,Maureen,Garioch Roadrunners,F,00:36:47
 62,Murray,Anne,Insch Trail Runners,F,00:37:02
@@ -68,7 +68,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 67,Cameron,Rachel,Huntly Quines & Loons,F,00:38:10
 68,Arthur,Wendy,Unattached,F,00:38:12
 69,Largue,Gordon,Keith JS,M,00:38:12
-70,Milne,Louisa,Gordon Schools Huntly,FJ,00:38:42
+70,Milne,Louisa,Gordon Schools Huntly,F16,00:38:42
 71,Leggat,Karen,Unattached,F,00:38:50
 72,Paterson,Rachel,JS Kintore Running Club,F,00:38:58
 73,Thomson,Frances,Garioch Roadrunners,F,00:39:02
@@ -91,7 +91,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 90,Simpson,Alex,Unattached,M,00:42:50
 91,Whittaker,Madie,Huntly Quines & Loons,F,00:43:17
 92,Elrick,John,JS Kintore Running Club,M,00:43:30
-93,Anderson,Freya,Gordon Schools Huntly,FJ,00:43:39
+93,Anderson,Freya,Gordon Schools Huntly,F16,00:43:39
 94,Leslie,Judy,Garioch Roadrunners,F,00:44:38
 95,Ferguson,Mark,Unattached,M,00:46:02
 96,Sharp,Christine,Huntly Quines & Loons,F,00:46:06

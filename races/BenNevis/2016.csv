@@ -48,7 +48,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 47,Holt,Ashley,Rossendale Harriers,M45,01:57:02
 48,Scott,Fraser,Lomond Hill Runners,M,01:57:10
 49,Melia,Jonathan,Rossendale Harriers,M,01:57:14
-50,Kerr,David,Highland Hill Runners,MV40,01:57:31
+50,Kerr,David,Highland Hill Runners,M40,01:57:31
 51,Smith,Alan,Deeside,M60,01:57:35
 52,Brennan,Patrick,Rossendale Harriers,M,01:57:39
 53,Bagot,David,Clayton le Moors,M,01:57:48
@@ -106,7 +106,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 105,Jackson,Adam,Keswick AC,M,02:06:37
 106,Simpson,Bryan,Lochaber AC,M,02:06:38
 107,Edwards,Lee,Barlick Fell Runners,M,02:06:46
-108,Hunn,Stuart,Wharfedale Harriers,MU23,02:06:58
+108,Hunn,Stuart,Wharfedale Harriers,M23,02:06:58
 109,Turland,Steve,Ilkley Harriers,M40,02:07:02
 110,Gilkison,Alan,Westerlands CCC,M,02:07:03
 111,Malcolm,John,Lothian,M,02:07:08
@@ -184,7 +184,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 183,Smith,Gavin,Skipton AC,M,02:19:19
 184,Munro,David,Lochaber AC,M50,02:19:28
 185,MacQueen,Douglas,Carnethy,M,02:19:40
-186,Farrar,Martin,Wharfedale Harriers,MV50,02:19:47
+186,Farrar,Martin,Wharfedale Harriers,M50,02:19:47
 187,Scott,David,Ochil Hill Runners,M60,02:19:50
 188,Hardiman,Neil,Clayton le Moors,M40,02:19:59
 189,MacLeod,Allan,Lochaber AC,M,02:20:05

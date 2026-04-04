@@ -1,36 +1,36 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,MS record,01:08:14
-2,Kemp,Benjamin,Portobello,MS,01:11:55
+1,Marshall,Brian,HELP,M,01:08:14
+2,Kemp,Benjamin,Portobello,M,01:11:55
 3,Kennedy,John,Clydesdale Harriers,M40,01:13:16
 4,Smith,Bruce,Standard Life,M40,01:14:05
-5,Simpson,Stuart,Ochil Hill Runners,MS,01:14:23
+5,Simpson,Stuart,Ochil Hill Runners,M,01:14:23
 6,Hynd,Will,Moorfoot Runners,M40,01:15:20
 7,Kitchen,Andy,Lothian,M40,01:16:01
 8,Ackland,Graeme,Lothian,M40,01:16:18
 9,Bennet,Sandy,Carnegie Harriers,M40,01:16:26
 10,Buchanan,Peter,Portobello,M40,01:16:27
-11,Dougal,Darin,Moorfoot Runners,MS,01:16:39
+11,Dougal,Darin,Moorfoot Runners,M,01:16:39
 12,Upson,Chris,Westerlands,M40,01:17:11
-13,Britton,James,Unattached,MS,01:17:23
+13,Britton,James,Unattached,M,01:17:23
 14,Valentine,Colin,Keswick AC,M40,01:17:36
 15,Anderson,Russell,Moorfoot Runners,M40,01:18:18
-16,Darlow,Tim,City of Edinburgh,MS,01:18:37
-17,Oldham,Veronique,Norham RC,FS,01:19:36
-18,Walden,Patrick,Shettleston,MS,01:19:47
+16,Darlow,Tim,City of Edinburgh,M,01:18:37
+17,Oldham,Veronique,Norham RC,F,01:19:36
+18,Walden,Patrick,Shettleston,M,01:19:47
 19,Jarvie,Willie,Portobello,M40,01:19:55
 20,Cameron,Gordon,Carnethy,M40,01:19:56
 21,Anderson,Laurie,Fife AC,M40,01:21:00
-22,Burt,Cameron,Carnethy,MS,01:21:14
+22,Burt,Cameron,Carnethy,M,01:21:14
 23,Fairgrieve,Andy,Annan & District AC,M40,01:22:07
-24,Watson,Dan,Annan & District AC,MS,01:22:24
-25,Bain,Andy,Waveney Valley,MS,01:22:32
-26,Mykura,Jill,Carnethy,FS,01:22:37
-27,Heron,Gregor,Unattached,MS,01:22:50
+24,Watson,Dan,Annan & District AC,M,01:22:24
+25,Bain,Andy,Waveney Valley,M,01:22:32
+26,Mykura,Jill,Carnethy,F,01:22:37
+27,Heron,Gregor,Unattached,M,01:22:50
 28,Pryde,Gordon,Lomond Hill Runners,M40,01:22:55
 29,Bass,Owen,Deeside Runners,M40,01:23:03
 30,Macdonald,Gio,Kinlochleven,M40,01:23:07
-31,Gorgas,Steffen,Westerlands,MS,01:23:15
-32,Eades,Colin,Lothian,MS,01:23:19
+31,Gorgas,Steffen,Westerlands,M,01:23:15
+32,Eades,Colin,Lothian,M,01:23:19
 33,Watson,Bill,HELP,M40,01:23:29
 34,Mayfield,Keith,Portobello,M40,01:23:35
 35,Henry,Graham,Portobello,M40,01:24:16
@@ -38,34 +38,34 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,Knowles,Stuart,Fife AC,M50,01:24:35
 38,Mykura,Willie,Carnethy,M40,01:24:50
 39,Brannan,Tosh,Lothian,M40,01:25:04
-40,Barrie,Stewart,HBT,MS,01:25:27
+40,Barrie,Stewart,HBT,M,01:25:27
 41,Hill,Paul,Lanark Multisport,M40,01:25:45
-42,Mcquater,Rob,Westerlands,MS,01:25:51
-43,Thomas,Neil,HBT,MS,01:27:05
+42,Mcquater,Rob,Westerlands,M,01:25:51
+43,Thomas,Neil,HBT,M,01:27:05
 44,Collins,Trevor,Carnethy,M50,01:27:12
-45,Charleston,Derek,Unattached,MS,01:27:29
+45,Charleston,Derek,Unattached,M,01:27:29
 46,Semple,Hamilton,Westerlands,M50,01:27:42
-47,Paton,Derek,Standard Life,MS,01:27:53
+47,Paton,Derek,Standard Life,M,01:27:53
 48,Wilson,Iain,Unattached,M,01:28:23
-49,Mair,Will,HBT,MS,01:28:32
-50,Davies,Jamie,Unattached,MS,01:28:38
+49,Mair,Will,HBT,M,01:28:32
+50,Davies,Jamie,Unattached,M,01:28:38
 51,Waldie,Brian,Carnethy,M60,01:28:54
 52,Allison,Murray,Unattached,M40,01:28:59
-53,Walker,Paul,Corstorphine AAC,MS,01:29:38
-54,Barclay,Emma,Trail Monster,FS,01:29:48
-55,Begley,Tommy,Irvine AC,MS,01:30:07
+53,Walker,Paul,Corstorphine AAC,M,01:29:38
+54,Barclay,Emma,Trail Monster,F,01:29:48
+55,Begley,Tommy,Irvine AC,M,01:30:07
 56,Murray,Helen,Lothian,F40,01:30:44
-57,Alexander,Jim,Lothian,MS,01:32:11
-58,Richardson,Matt,Unattached,MS,01:32:32
-59,Hunter,Mary,Portobello,FS,01:33:53
-60,Kaljee,Marcel,Moorfoot Runners,MS,01:34:15
+57,Alexander,Jim,Lothian,M,01:32:11
+58,Richardson,Matt,Unattached,M,01:32:32
+59,Hunter,Mary,Portobello,F,01:33:53
+60,Kaljee,Marcel,Moorfoot Runners,M,01:34:15
 61,Bennan,Brian,Westerlands,M50,01:34:26
 62,Lamont,Mike,Standard Life,M,01:34:55
-63,Parlin,Ian,Trail Monster,MS,01:35:22
+63,Parlin,Ian,Trail Monster,M,01:35:22
 64,Downie,Chris,Lothian & Borders Police AC,M40,01:36:03
-65,Smith,Rachel,Kinlochleven,FS,01:36:10
+65,Smith,Rachel,Kinlochleven,F,01:36:10
 66,Ledlie,Colin,Carnethy,M40,01:36:38
-67,Mcgreal,Paul,Unattached,MS,01:36:53
+67,Mcgreal,Paul,Unattached,M,01:36:53
 68,Dealtry,Eddie,Ochil Hill Runners,M50,01:37:07
 69,Scott,Elspeth,Westerlands,F40,01:37:23
 70,Stakes,David,Bellahouston Road Runners,M40,01:37:23
@@ -79,18 +79,18 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 78,Howard,Max,Unattached,M40,01:42:07
 79,Walker,Peter,Carnethy,M40,01:42:47
 80,Macdonald,Rory,HBT,M50,01:43:23
-81,Carvalho,Laurence,Moorfoot Runners,MS,01:43:25
+81,Carvalho,Laurence,Moorfoot Runners,M,01:43:25
 82,Mcleod,Christine,Moorfoot Runners,F40,01:44:06
-83,Bennet,Lynne,Carnegie Harriers,FS,01:44:45
+83,Bennet,Lynne,Carnegie Harriers,F,01:44:45
 84,Jenkins,Allan,Unattached,M50,01:44:47
 85,Davies,Paul,Tring RC,M,01:45:29
 86,Douglas,John,Moorfoot Runners,M60,01:45:37
 87,Stapley,Tony,Portobello,M60,01:46:27
 88,Smith,Janice,HBT,F40,01:48:00
-89,Mercer,Suzanne,Border Triathletes,FS,01:46:51
+89,Mercer,Suzanne,Border Triathletes,F,01:46:51
 90,Brearley,Kenneth,Unattached,M40,01:49:45
 91,Pearson,Mike,Moorfoot Runners,M60,01:51:03
 92,Turnbull,Drew,Westerlands,M60,01:55:37
-93,Wilkie,Alison,Unattached,FS,02:01:39
-95,Hardie,Alasdair,Unattached,Junior,00:45:20
-96,Mcfarlane,Kieran,Moorfoot Runners,Younger Ju,00:25:09
+93,Wilkie,Alison,Unattached,F,02:01:39
+95,Hardie,Alasdair,Unattached,M16,00:45:20
+96,Mcfarlane,Kieran,Moorfoot Runners,M16,00:25:09

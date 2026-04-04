@@ -2,7 +2,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:33:18
 2,Henry,Peter,Deeside Runners,M,00:37:06
 3,Brookes,Robert,Cosmic Hillbashers,M,00:37:26
-4,Nichols,Jack,Huntly Nordic Ski Club,MJ,00:38:44
+4,Nichols,Jack,Huntly Nordic Ski Club,M16,00:38:44
 5,Stuart,Mike,Keith & District,M50,00:38:50
 6,Freshwater,Craig,Westerlands CCC,M,00:39:03
 7,Pringle,Stuart,Deeside Runners,M,00:39:59
@@ -14,7 +14,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Oldham,Veronique,Cosmic Hillbashers,F50,00:41:26
 14,Ord,Steven,Deeside Runners,M40,00:41:35
 15,Anderson,Craig,Metro Aberdeen Running Club,M40,00:41:36
-16,Williamson,Clyde,Huntly Nordic Ski Club,MJ,00:42:34
+16,Williamson,Clyde,Huntly Nordic Ski Club,M16,00:42:34
 17,Stockton,Mark,Cosmic Hillbashers,M,00:43:02
 18,Rickets,Jennifer,Deeside Runners,F,00:43:08
 19,Larmour,Colin,Cosmic Hillbashers,M50,00:43:09
@@ -46,7 +46,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Hare,Rolfe,Deeside Runners,M50,00:52:26
 46,Gilmour,David,Fraserburgh Running Club,M,00:53:26
 47,Gutteridge,Gary,Cosmic Hillbashers,M60,00:54:03
-48,Ricketts,Megan,Deeside Runners,FJ,00:58:21
+48,Ricketts,Megan,Deeside Runners,F16,00:58:21
 49,Cran,Ian,Garioch Road Runners,M60,01:00:55
 50,Taylor,Suzanne,Unattached,F,01:02:52
 51,Murray,Anne,Huntly N.O.W Joggers,F40,01:03:44

@@ -1,62 +1,62 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Russell,Chris,Fife AC,MS,00:45:58
-2,Hukins,Ben,Aberdeen,MS,00:48:12
-3,Burgess,David,Anster Haddies,MS,00:48:18
-4,Millar,Lewis,Central AC,MS,00:48:25
-5,Cruikshank,Brian,Fife AC,MV40,00:48:49
-6,Scott,Tom,Fife AC,MV50,00:49:08
-7,Norwood,Tim,Corstorphine AC,MS,00:50:44
-8,Rees,Roger,Fife AC,MS,00:51:03
-9,Buchanan,Peter,Portobello RC,MV40,00:51:14
-10,Cunningham,Ritchie,Carnegie Harriers,MS,00:51:19
-11,Smith,Bruce,Carnethy,MV40,00:51:37
-12,Love,Craig,Dundee Hawkhill,MS,00:51:39
-13,Mitchell,Mike,Fife AC,MV40,00:51:54
-14,Laing,Martin,Fife AC,MV50,00:52:23
-15,Smith,Bill,Fife AC,MS,00:52:43
-16,Clark,Daniel,Unattached,MS,00:54:16
-17,Johnston,Ian,Carnegie Harriers,MV40,00:54:29
-18,Mills,Ian,Anster Haddies,MV40,00:54:47
-19,Kay,John,Fife AC,MV40,00:55:19
-20,Howett,Andy,Fife AC,MS,00:55:35
-21,Carr,Gillian,Corstorphine AC,FS,00:55:39
-22,Legge,Sarah,Fife AC,FV35,00:55:41
-23,Mitchell,Dave,Dundee Hawkhill,MV40,00:56:08
-24,Main,Alasdair,Dundee Hawkhill,MS,00:56:31
-25,Bowie,Tom,Fife AC,MV60,00:57:04
-26,Brown,Colin,Fife AC,MV40,00:57:21
-27,Carr,Dean,Corstorphine AC,MS,00:57:31
-28,Shaw,Richard,Fife AC,MV50,00:57:49
-29,Lothian,Fiona,Fife AC,FV35,00:58:04
-30,Baillie,Jas,Fife AC,MV40,00:58:06
-31,Mallett,Pat,Lomand Hill R,MV40,00:58:38
-32,McIntosh,Ryan,Fife AC,MJ,00:58:51
-33,Law,Charles,Dundee Hawkhill,MV60,00:59:03
-34,Osborn,David,Lomand Hill R,MV40,00:59:11
-35,Hutson,Liam,Fife AC,MJ,00:59:26
-36,Rees,Halina,Fife AC,FJ,00:59:32
-37,Sanders,Eddie,Fife AC,MV50,01:01:07
-38,Jablonski,Derek,Lomand Hill R,MV50,01:01:27
-39,Wilson,Neil,Carnegie Harriers,MS,01:01:29
-40,Alison,Bob,Fife AC,MV50,01:02:06
-41,Clark,Chris,Fife AC,MV50,01:02:43
-42,Robb,Graeme,Unattached,MV40,01:04:04
-43,Farrally,Martin,Fife AC,MV60,01:04:06
-44,Myerscough,John,Kinross RR,MV50,01:04:14
-45,Norrie,David,Perth RR,MV50,01:04:15
-46,Cromar,Steve,Dundee Hawkhill,MV60,01:04:18
-47,Robinson,Antony,Unattached,MS,01:04:33
-48,Scott,Jocelyn,Fife AC,FV45,01:05:05
-49,Stapley,Tony,Portobello RC,MV60,01:05:36
-50,Meikeljohn,Allan,Fife AC,MV60,01:05:39
-51,Macgregor,Kim,Fife AC,FV45,01:05:52
-52,Llyod-Evans,Ann,Fife AC,FS,01:07:36
-53,McPherson,Alison,Unattached,FV45,01:08:45
-54,Hutson,Martin,Fife AC,MV40,01:09:04
-55,Donald,Dave,Unattached,MV50,01:10:09
-56,Nachman,Eric,Fife AC,MV50,01:12:49
-57,Hoeener,Andreas,Unattached,MS,01:17:15
-58,Thornton,Robert,Fife AC,MV50,01:19:16
-59,Robertson,Alastair,Fife AC,MV60,01:23:48
-60,Hay,Debz,Anster Haddies,FV35,01:28:32
-61,Murray,Jacqui,Anster Haddies,FV45,01:28:32
+1,Russell,Chris,Fife AC,M,00:45:58
+2,Hukins,Ben,Aberdeen,M,00:48:12
+3,Burgess,David,Anster Haddies,M,00:48:18
+4,Millar,Lewis,Central AC,M,00:48:25
+5,Cruikshank,Brian,Fife AC,M40,00:48:49
+6,Scott,Tom,Fife AC,M50,00:49:08
+7,Norwood,Tim,Corstorphine AC,M,00:50:44
+8,Rees,Roger,Fife AC,M,00:51:03
+9,Buchanan,Peter,Portobello RC,M40,00:51:14
+10,Cunningham,Ritchie,Carnegie Harriers,M,00:51:19
+11,Smith,Bruce,Carnethy,M40,00:51:37
+12,Love,Craig,Dundee Hawkhill,M,00:51:39
+13,Mitchell,Mike,Fife AC,M40,00:51:54
+14,Laing,Martin,Fife AC,M50,00:52:23
+15,Smith,Bill,Fife AC,M,00:52:43
+16,Clark,Daniel,Unattached,M,00:54:16
+17,Johnston,Ian,Carnegie Harriers,M40,00:54:29
+18,Mills,Ian,Anster Haddies,M40,00:54:47
+19,Kay,John,Fife AC,M40,00:55:19
+20,Howett,Andy,Fife AC,M,00:55:35
+21,Carr,Gillian,Corstorphine AC,F,00:55:39
+22,Legge,Sarah,Fife AC,F35,00:55:41
+23,Mitchell,Dave,Dundee Hawkhill,M40,00:56:08
+24,Main,Alasdair,Dundee Hawkhill,M,00:56:31
+25,Bowie,Tom,Fife AC,M60,00:57:04
+26,Brown,Colin,Fife AC,M40,00:57:21
+27,Carr,Dean,Corstorphine AC,M,00:57:31
+28,Shaw,Richard,Fife AC,M50,00:57:49
+29,Lothian,Fiona,Fife AC,F35,00:58:04
+30,Baillie,Jas,Fife AC,M40,00:58:06
+31,Mallett,Pat,Lomand Hill R,M40,00:58:38
+32,McIntosh,Ryan,Fife AC,M16,00:58:51
+33,Law,Charles,Dundee Hawkhill,M60,00:59:03
+34,Osborn,David,Lomand Hill R,M40,00:59:11
+35,Hutson,Liam,Fife AC,M16,00:59:26
+36,Rees,Halina,Fife AC,F16,00:59:32
+37,Sanders,Eddie,Fife AC,M50,01:01:07
+38,Jablonski,Derek,Lomand Hill R,M50,01:01:27
+39,Wilson,Neil,Carnegie Harriers,M,01:01:29
+40,Alison,Bob,Fife AC,M50,01:02:06
+41,Clark,Chris,Fife AC,M50,01:02:43
+42,Robb,Graeme,Unattached,M40,01:04:04
+43,Farrally,Martin,Fife AC,M60,01:04:06
+44,Myerscough,John,Kinross RR,M50,01:04:14
+45,Norrie,David,Perth RR,M50,01:04:15
+46,Cromar,Steve,Dundee Hawkhill,M60,01:04:18
+47,Robinson,Antony,Unattached,M,01:04:33
+48,Scott,Jocelyn,Fife AC,F45,01:05:05
+49,Stapley,Tony,Portobello RC,M60,01:05:36
+50,Meikeljohn,Allan,Fife AC,M60,01:05:39
+51,Macgregor,Kim,Fife AC,F45,01:05:52
+52,Llyod-Evans,Ann,Fife AC,F,01:07:36
+53,McPherson,Alison,Unattached,F45,01:08:45
+54,Hutson,Martin,Fife AC,M40,01:09:04
+55,Donald,Dave,Unattached,M50,01:10:09
+56,Nachman,Eric,Fife AC,M50,01:12:49
+57,Hoeener,Andreas,Unattached,M,01:17:15
+58,Thornton,Robert,Fife AC,M50,01:19:16
+59,Robertson,Alastair,Fife AC,M60,01:23:48
+60,Hay,Debz,Anster Haddies,F35,01:28:32
+61,Murray,Jacqui,Anster Haddies,F45,01:28:32

@@ -4,7 +4,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Wilson,Thomas,Garscube Harriers,M,00:17:11
 4,Luetchford,Alex,HBT,M,00:17:48
 5,Gilmore,Iain,Carnethy HRC,M,00:18:14
-6,McGonigle,Aedan,Shettleston Harriers,MJ,00:18:36
+6,McGonigle,Aedan,Shettleston Harriers,M16,00:18:36
 7,Tweedie,Craig,Unattached,M50,00:19:06
 8,Marshall,Brian,Haddington,M50,00:19:23
 9,Pow,Grace,Carnethy HRC,F,00:20:09
@@ -15,13 +15,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Campbell,Donald,Unattached,M40,00:22:16
 15,Banford,Alison,Hartfell Hill Runners,F40,00:22:17
 16,Wheeler,Mark,Hamilton Harriers,M40,00:22:20
-17,Kitchin,Bethan,Unattached,FJ,00:22:38
+17,Kitchin,Bethan,Unattached,F16,00:22:38
 18,Gilmore,Neil,Carnethy HRC,M60,00:22:41
 19,Underwood,Ian,HBT,M,00:23:42
 20,Mellanby,Richard,Unattached,M50,00:24:14
 21,Goddard,Paul,Abbey Running Club,M40,00:24:19
 22,Williamson,Coll,HBT,M,00:24:22
-23,King,Alfie,Unattached,MJ,00:24:27
+23,King,Alfie,Unattached,M16,00:24:27
 24,Wood,Colin,Unattached,M40,00:24:36
 25,Malcolmson,Craig,Hartfell Hill Runners,M60,00:24:41
 26,Williams,Rhys,Tinto Hill Runners,M,00:24:51
@@ -62,7 +62,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 61,Lisowski,Zofia,Unattached,F40,00:30:21
 62,Paul,Alasdair,NFR,M60,00:30:23
 63,Pryde,Gordon,Lomond Hill Runners,M60,00:30:40
-64,Stewart,James,Unattached,MJ,00:30:45
+64,Stewart,James,Unattached,M16,00:30:45
 65,Miller,James,Unattached,M50,00:31:01
 66,Jamieson,Alan,Penicuik Harriers,M60,00:31:03
 67,Broadley,Charlotte,HBT,F,00:31:08

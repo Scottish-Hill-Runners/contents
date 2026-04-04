@@ -9,16 +9,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Reid,Stewart,Perth RR,M,00:26:20
 9,Reid,Don,Westerlands,M50,00:26:29
 10,Cowan,David,Fife AC,M50,00:26:40
-11,Wyse,Ross,Fife AC,MU15,00:27:18
-12,McCheyne,Nuala,Inverclyde,FU17,00:28:03
+11,Wyse,Ross,Fife AC,M15,00:27:18
+12,McCheyne,Nuala,Inverclyde,F17,00:28:03
 13,Poolman,Ian,Fife AC,M40,00:28:15
 14,Robb,Jack,Unattached,M,00:28:18
-15,Winter,Andrew,Inverclyde,MU15,00:28:15
+15,Winter,Andrew,Inverclyde,M15,00:28:15
 16,Osborn,David,Lomond,M50,00:28:30
 17,Osborn,Robert,Lomond,M,00:28:37
 18,Mitchell,Neil,Fife AC,M40,00:28:55
-19,McCheyne,Cliona,Inverclyde,FU17,00:29:00
-20,Law,Josh,Inverclyde,MU15,00:29:10
+19,McCheyne,Cliona,Inverclyde,F17,00:29:00
+20,Law,Josh,Inverclyde,M15,00:29:10
 21,Crow,Sonjia,Perth RR,F,00:29:11
 22,Sinclair,David,Perth RR,M,00:29:30
 23,Hardy,Brent,Unattached,M,00:29:36
@@ -28,15 +28,15 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Banks,Kevin,Unattached,M,00:31:14
 28,Knowles,Stuart,Fife AC,M60,00:32:02
 29,Kemp,Graham,Kinross RR,M,00:32:39
-30,Hannah,McGeehan,Inverclyde,FU15,00:32:43
+30,Hannah,McGeehan,Inverclyde,F15,00:32:43
 31,Fogel,Phil,Unattached,M,00:33:23
-32,Stevenson,Tyler,Lomond,MU15,00:33:26
+32,Stevenson,Tyler,Lomond,M15,00:33:26
 33,Gatehouse,Richard,Lomond,M60,00:34:03
 34,Rogers,Kevin,Perth RR,M40,00:34:08
 35,Beveridge,Bob,Lomond,M70,00:34:40
 36,Hunter,Neil,Kinross RR,M40,00:35:58
 37,Jowett,Craig,Unattached,M40,00:38:00
-38,Jowett,Elliot,Unattached,MU15,00:38:00
+38,Jowett,Elliot,Unattached,M15,00:38:00
 39,Wade,Tim,Kingstowne R,M60,00:38:23
 40,Drysdale,Michael,Arbroath RR,M40,00:40:21
 41,Smith,Norman,Kinross RR,M80,00:44:52

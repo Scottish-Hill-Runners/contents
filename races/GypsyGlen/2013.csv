@@ -1,66 +1,66 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Campbell,Ross,Edinburgh Uni,M,00:32:41
 2,Cox,Andrew,Moorfoot,M,00:33:56
-3,Dougal,Darin,Moorfoot,MV,00:34:27
+3,Dougal,Darin,Moorfoot,M,00:34:27
 4,Rawlik,Konrad,Carnethy,M,00:34:37
 5,Lawson,Johnny,Portobello,M,00:34:49
-6,Fraser,Garry,Ochil,MV,00:35:40
+6,Fraser,Garry,Ochil,M,00:35:40
 7,Cox,Alistair,Tinto Hill Runners,M,00:35:49
 8,McVey,Alex,Carnethy,M,00:35:59
-9,Stevenson,John,Ochil,MV,00:36:12
-10,Buchanan,Peter,Portobello,MV,00:36:37
+9,Stevenson,John,Ochil,M,00:36:12
+10,Buchanan,Peter,Portobello,M,00:36:37
 11,Williams,Colin,Moorfoot,M,00:37:57
 12,Murray,Keith,Teviotdale,M,00:38:06
-13,Macdonald,Scott,Unattached,MV,00:38:12
-14,Ball,Duncan,Penicuik Harriers,MV,00:38:37
-15,Brooks,Mike,Penicuik Harriers,MV,00:38:42
+13,Macdonald,Scott,Unattached,M,00:38:12
+14,Ball,Duncan,Penicuik Harriers,M,00:38:37
+15,Brooks,Mike,Penicuik Harriers,M,00:38:42
 16,Ryan,John,Currie,M,00:38:50
 17,Fitzpatrick,Paul,(Eire),M,00:38:53
 18,Henry,Graham,Portobello,M,00:40:01
-19,Ridley,Susan,Edinburgh AC,FV,00:40:12
+19,Ridley,Susan,Edinburgh AC,F,00:40:12
 20,McMahon,Kenneth,Westerlands,M,00:40:30
 21,Fagan,Rachel,Gala Harriers,F,00:40:32
 22,Sleggs,Paul,Unattached,M,00:41:02
-23,Fraser,Billy,Northumberland FR,MV,00:41:07
+23,Fraser,Billy,Northumberland FR,M,00:41:07
 24,Williamson,C,Edinburgh Uni,M,00:41:16
-25,Stewart,Alastair,Tinto Hill Runners,MV,00:41:26
+25,Stewart,Alastair,Tinto Hill Runners,M,00:41:26
 26,Turner,Simon,Tinto Hill Runners,M,00:41:29
-27,Brydon,Derek,Gala Harriers,MV,00:41:30
-28,Munro,Ian,Moorfoot,MV,00:41:48
+27,Brydon,Derek,Gala Harriers,M,00:41:30
+28,Munro,Ian,Moorfoot,M,00:41:48
 29,Poirsee,Hedwig,Unattached,F,00:42:00
-30,Balfour,Eddie,Moorfoot,MV,00:42:26
+30,Balfour,Eddie,Moorfoot,M,00:42:26
 31,Alcorn,David,Unattached,M,00:42:33
-32,Fitzpatrick,Pat,Ochil,MV,00:42:35
-33,Moss,Carol,Moorfoot,FV,00:42:41
-34,Nichol,Paul,Moorfoot,MV,00:42:48
+32,Fitzpatrick,Pat,Ochil,M,00:42:35
+33,Moss,Carol,Moorfoot,F,00:42:41
+34,Nichol,Paul,Moorfoot,M,00:42:48
 35,Ferguson,Paul,Unattached,M,00:43:41
-36,Stavert,Andrew,Portobello,MV,00:43:55
-37,Little,Mike,Unattached,MV,00:44:04
+36,Stavert,Andrew,Portobello,M,00:43:55
+37,Little,Mike,Unattached,M,00:44:04
 38,Barbour,Alasdair,Dundee,M,00:44:15
 39,McKean,Joelean,Gala Harriers,F,00:44:18
-40,Lynch,Mike,Carnethy,MV,00:44:32
-41,Mooney,Bobby,Unattached,MV,00:45:43
+40,Lynch,Mike,Carnethy,M,00:44:32
+41,Mooney,Bobby,Unattached,M,00:45:43
 42,Dawson,Jan,Penicuik Harriers,F,00:46:18
-43,Campbell,Ian,HBT,MV,00:46:45
+43,Campbell,Ian,HBT,M,00:46:45
 44,Craig,Carrie,HBT,F,00:46:59
-45,Hunt,Fintan,Jog Scotland,MV,00:47:17
+45,Hunt,Fintan,Jog Scotland,M,00:47:17
 46,Kemp,Sadie,Penicuik Harriers,F,00:47:57
 47,McCracken,Louise,Unattached,F,00:48:10
-48,Downie,Chris,Penicuik Harriers,MV,00:48:14
+48,Downie,Chris,Penicuik Harriers,M,00:48:14
 49,Moleio,Luis,Lauderdale,M,00:48:38
 50,Tar,Kata,HBT,F,00:48:55
-51,McPherson,Hugh,Tinto Hill Runners,MV,00:49:00
-52,Elder,Alan,Unattached,MV,00:49:01
+51,McPherson,Hugh,Tinto Hill Runners,M,00:49:00
+52,Elder,Alan,Unattached,M,00:49:01
 53,Stewart,J,Tinto Hill Runners,M,00:49:41
-54,Maxwell,Susie,Penicuik Harriers,FV,00:49:54
+54,Maxwell,Susie,Penicuik Harriers,F,00:49:54
 55,Schmidt,Christina,Jog Scotland,F,00:50:23
-56,Wilson,Rob,Unattached,MV,00:50:31
+56,Wilson,Rob,Unattached,M,00:50:31
 57,Heathcote,R,HBT,F,00:51:46
 58,Hugill,Liz,HBT,F,00:52:05
-59,Laybourne,Claire,Unattached,FV,00:53:08
+59,Laybourne,Claire,Unattached,F,00:53:08
 60,McAleese,Rachael,Lauderdale,F,00:57:58
 61,McGavin,Rachael,Jog Scotland,F,00:58:14
-62,Chan,Lan,Jog Scotland,FV,00:58:40
-63,Harvey,Dianne,Jog Scotland,FV,00:58:41
-64,Loudon,Kirsty,Penicuik Harriers,FV,01:04:08
-65,McManus,Ian,Irvine,MV,01:13:02
+62,Chan,Lan,Jog Scotland,F,00:58:40
+63,Harvey,Dianne,Jog Scotland,F,00:58:41
+64,Loudon,Kirsty,Penicuik Harriers,F,01:04:08
+65,McManus,Ian,Irvine,M,01:13:02

@@ -35,7 +35,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 34,Ockenden,John,HBT,M,03:53:26
 35,Jennings,Zach,Settle Harriers,M,03:53:52
 36,Lamont,Andrew,Carnethy HRC,M40,03:55:34
-37,Mason,Alex,Dark Peak FR,MU23,03:56:12
+37,Mason,Alex,Dark Peak FR,M23,03:56:12
 38,Stemp,Andrew,Pudsey & Bramley AC,M,03:56:57
 39,Jones,Chris,Pennine Fell Runners,M,03:57:38
 40,Moran,Colm,Carnethy HRC,M,03:58:02
@@ -68,7 +68,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 67,Jones,Matthew,Lochaber AC,M,04:28:08
 68,Macfadyen,Anna,Shettleston Harriers,F,04:28:34
 69,Dakin,Pippa,Carnethy HRC,F,04:29:06
-70,Macdonald,Andrew,Sheffield University,MU23,04:31:52
+70,Macdonald,Andrew,Sheffield University,M23,04:31:52
 71,Cope,David,Howgill Harriers,M,04:32:04
 72,Masters,Jim,Cumberland FR,M40,04:33:10
 73,Lawrence,Robin,Bingley Harriers & AC,M50,04:33:48
@@ -112,7 +112,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 111,Nakamura,Saki,Westerlands CCC,F40,04:56:07
 112,Tibbetts,Andrew,Unattached,M40,04:56:31
 113,Pursell,Mark,Pennine Fell Runners,M40,04:56:35
-114,Royle,Finty,Chorley Athletic & TC,FU23,04:57:30
+114,Royle,Finty,Chorley Athletic & TC,F23,04:57:30
 115,Dyer,Bianca,Helm Hill Runners,F50,04:57:31
 116,Probert,Rhian,Mynydd Du Mountain Runners,F50,04:57:45
 117,Taylor,Dan,Todmorden Harriers,M40,04:58:29

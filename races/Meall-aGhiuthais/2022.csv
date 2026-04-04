@@ -39,7 +39,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,Bunn,Fiona,Edinburgh Uni H&H,F,01:29:50
 39,MacInnes,Alasdair,Westerlands CCC,M,01:29:52
 40,MacKenzie,Fraser,Lochaber AC,M,01:29:53
-41,Reid,Lewis,Unattached,MU23,01:30:37
+41,Reid,Lewis,Unattached,M23,01:30:37
 42,Gilmore,Andrew,Highland Hill Runners,M,01:31:01
 43,Henderson,Walter,Shettleston Harriers,M50,01:31:04
 44,Sparks,Arron,Highland Hill Runners,M,01:31:11
@@ -74,7 +74,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 73,Stephen,Kevin,Insch TRC,M40,01:46:08
 74,Hayward,Gemma,Westerlands CCC,F,01:46:37
 75,Crowe,Des,Penicuik Harriers,M60,01:47:27
-76,Higgins,Fergus,Unattached,MU23,01:47:41
+76,Higgins,Fergus,Unattached,M23,01:47:41
 77,Malcolmson,Craig,Hartfell HR,M55,01:47:49
 78,Hetherington,Michelle,Carnethy,F55,01:47:49
 79,Anderson,Ross,Westerlands CCC,M,01:48:25

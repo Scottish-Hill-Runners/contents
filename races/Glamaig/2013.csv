@@ -7,7 +7,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 6,MacDonald,Gary,Lochaber AC,M,00:56:42
 7,Gay,Jon,Lochaber AC,M40,00:57:18
 8,Gorman,Manny,Westerlands CCC,M40,00:57:53
-9,Cameron,Steven,Unattached,S,00:58:09
+9,Cameron,Steven,Unattached,M,00:58:09
 10,McVey,Alex,Carnethy,M,00:58:43
 11,Cox,Alistair,Tinto Hill Runners,M,00:59:03
 12,Banerman,Ross,Highland Hill Runners,M40,00:59:05
@@ -31,13 +31,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 30,Shepherd,Andrew,Carnethy,M50,01:10:45
 31,Forrest,Stuart,Highland Hill Runners,M,01:11:01
 32,Taylor,Gordie,Highland Hill Runners,M50,01:12:10
-33,MacNab,Chris,Unattached,S,01:12:23
+33,MacNab,Chris,Unattached,M,01:12:23
 34,Grove,Matthew,Carnethy,M40,01:12:24
 35,MacDougall,Colin,Tinto Hill Runners,M40,01:13:13
 36,Worsley,Steven,Highland Hill Runners,M50,01:14:20
 37,Brett,Alex,Highland Hill Runners,M60,01:17:34
 38,Bowman,Angus,Lomond Hill Runners,M50,01:17:54
-39,Neison,Andy,Local,S,01:18:15
+39,Neison,Andy,Local,M,01:18:15
 40,Holding,Robert,Unattached,M40,01:18:32
 41,Murdoch,Ray,Lochaber AC,M60,01:18:38
 42,Wilson,Colin,Carnethy,M50,01:18:55
@@ -62,7 +62,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 61,Calcutt,Jock,Unattached,M50,01:24:41
 62,Connor,Julia,Tinto Hill Runners,F40,01:24:57
 63,Blakemore,Ian,Eryri,M50,01:25:25
-64,James,Chris,Unattached,S,01:25:29
+64,James,Chris,Unattached,M,01:25:29
 65,Huntley,Chris,Tinto Hill Runners,M50,01:26:19
 66,Gaff,Melanie,Unattached,F,01:26:24
 67,McQueen,Robert,Local,M,01:28:01

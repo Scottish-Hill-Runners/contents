@@ -1,9 +1,9 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Bryson,Gavin,Highland Hill Runners,MU20,0:35:58
+1,Bryson,Gavin,Highland Hill Runners,M20,0:35:58
 2,Coombs,Duncan,HBT,M,0:36:53
 3,Simpson,Graham,Alnwick Harriers,M,0:38:40
 4,Stewart,Iain,Westerlands,M,0:38:52
-5,Buckley,Peter,Carnethy,MU20,0:39:58
+5,Buckley,Peter,Carnethy,M20,0:39:58
 6,Wiseman,Bob,Ochil Hill Runners,M,0:41:06
 7,Mackie,Peter,Shettleston Harriers,M40,0:41:06
 8,Lorimer,Hayden,HBT,M40,0:42:07
@@ -20,7 +20,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 19,Johnson,Bob,Gala Harriers,M50,0:45:08
 20,Inglis,Magnus,Gala Harriers,M40,0:45:18
 21,Allsop,David,Kirkintilloch Olympians,M40,0:47:00
-22,Greens,Michael,Penicuik Harriers,MU20,0:47:08
+22,Greens,Michael,Penicuik Harriers,M20,0:47:08
 23,Pikett,William,Norham RC,M50,0:47:10
 24,Jones,Stephen,Unattached,M50,0:47:17
 25,McIntyre,Jimmy,Fife AC,M40,0:47:48

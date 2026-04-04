@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gollan,Ross,East Sutherland,M,00:38:05
-2,Gollan,Eoghann,East Sutherland,MU20,00:40:37
+2,Gollan,Eoghann,East Sutherland,M20,00:40:37
 3,Beaven,Ally,Highland Hill Runners,M,00:41:00
 4,Paterson,Robbie,Moray RR,M,00:41:50
 5,Bee,Graham,Inverness Harriers,M,00:42:51
@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Bartholemew,Douglas,Unattached,M,00:44:33
 18,Coull,Eoin,Ross County,M40,00:45:06
 19,Rowe-Leete,Daniel,Unattached,M,00:45:30
-20,Keith,Megan,Inverness Harriers,FU20,00:45:30
+20,Keith,Megan,Inverness Harriers,F20,00:45:30
 21,Morrison,Catriona,Highland Hill Runners,F40,00:46:12
 22,Whiteside,Gavin,Highland Hill Runners,M40,00:46:23
 23,MacDonald,Steve,Lochaber AC,M,00:46:50
@@ -26,7 +26,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 25,Walmsley,Dan,Highland Hill Runners,M40,00:47:51
 26,MacKintosh,Fraser,Highland Hill Runners,M50,00:47:52
 27,Rogan,Kirstie,Moray RR,F,00:48:15
-28,Williams,Luke,Inverness Harriers,MU20,00:48:34
+28,Williams,Luke,Inverness Harriers,M20,00:48:34
 29,Rees,Halina,Fife AC,F,00:48:39
 30,MacLennan,Iain,Highland Hill Runners,M40,00:49:00
 31,Tindley,Georgia,HBT,F,00:49:14

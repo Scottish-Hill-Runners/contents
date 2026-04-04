@@ -1,57 +1,57 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Marshall,Brian,HELP,M,02:07:20
-2,Cummins,Dave,Highland HR,MV,02:10:36
+2,Cummins,Dave,Highland HR,M,02:10:36
 3,Simpson,Stuart,Ochil HR,M,02:12:12
 4,Gorman,Manny,Westerlands,M,02:13:05
 5,Williamson,Jason,Cosmics,M,02:16:43
 6,Sullivan,Matthew,Shettleston H,M,02:17:56
-7,Kennedy,John,Clydesdale H,MV,02:19:02
-8,Musgrave,Jonathon,Deeside R,MV,02:20:34
-9,Bennet,Sandy,Carnegie H,MV,02:24:06
-10,MacDonald,Dennis,Cosmics,MV,02:25:10
+7,Kennedy,John,Clydesdale H,M,02:19:02
+8,Musgrave,Jonathon,Deeside R,M,02:20:34
+9,Bennet,Sandy,Carnegie H,M,02:24:06
+10,MacDonald,Dennis,Cosmics,M,02:25:10
 11,Cunningham,Richie,Carnegie H,M,02:26:11
-12,Angus,Gerald,Keith & District AAC,MV,02:28:52
+12,Angus,Gerald,Keith & District AAC,M,02:28:52
 13,Bannerman,Ross,Highland HR,M,02:29:08
-14,Bass,Owen,Deeside R,MV,02:30:17
+14,Bass,Owen,Deeside R,M,02:30:17
 15,Lang,Richard,Cosmics,M,02:30:45
 16,Miles,Gavin,Deeside R,M,02:32:36
-17,Wilson,Stewart,Inverness H,MV,02:36:28
-18,Duncan,David,Ochil HR,MSV,02:37:16
-19,Verbiest,Dirk,Keith & District AAC,MV,02:38:51
-20,Hutt,Colin,Carnethy,MV,02:39:58
+17,Wilson,Stewart,Inverness H,M,02:36:28
+18,Duncan,David,Ochil HR,M40,02:37:16
+19,Verbiest,Dirk,Keith & District AAC,M,02:38:51
+20,Hutt,Colin,Carnethy,M,02:39:58
 21,Miller,Paul,Unattached,M,02:40:14
 22,Green,Colin,Moray RR,M,02:43:04
-23,Forster,Kenny,Spectrum Striders,MV,02:44:13
+23,Forster,Kenny,Spectrum Striders,M,02:44:13
 24,Meadowcroft,Mike,Bowland FR,M,02:45:04
 25,Hodges,Adrian,Forres H,M,02:45:45
-26,Watson,Bill,HELP,MV,02:46:11
-27,Hall,Jim,Highland HR,MSV,02:47:24
+26,Watson,Bill,HELP,M,02:46:11
+27,Hall,Jim,Highland HR,M40,02:47:24
 28,Jaffrey,Neil,Metro Aberdeen,M,02:48:07
 29,Holding,Hilary,Carnethy,F,02:48:42
-30,Morrison,Graeme,Unattached,MV,02:50:01
-31,MacKenzie,Ruth,Deeside R,FV,02:50:05
-32,Coles,Rob,Cosmics,MSV,02:50:09
-33,Arthur,Graham,Ilkley H,MSV,02:50:26
-34,Hunter,Stuart,Cosmics,MV,02:50:48
-35,Rennie,Gavin,Reading RR,MV,02:52:19
-36,Gutteridge,Gary,Cosmics,MSV,02:53:14
-37,Brennan,Brian,Westerlands,MSV,02:53:36
-38,Beharrell,Malcolm,Nairn RR,MV,02:53:42
+30,Morrison,Graeme,Unattached,M,02:50:01
+31,MacKenzie,Ruth,Deeside R,F,02:50:05
+32,Coles,Rob,Cosmics,M40,02:50:09
+33,Arthur,Graham,Ilkley H,M40,02:50:26
+34,Hunter,Stuart,Cosmics,M,02:50:48
+35,Rennie,Gavin,Reading RR,M,02:52:19
+36,Gutteridge,Gary,Cosmics,M40,02:53:14
+37,Brennan,Brian,Westerlands,M40,02:53:36
+38,Beharrell,Malcolm,Nairn RR,M,02:53:42
 39,Fuchs,Mathias,Germany,M,02:54:32
 40,Masson,Richard,Unattached,M,02:56:37
-41,Hamilton,Ian,Grampian O,MV,02:57:22
-42,Semple,Hamilton,Westerlands,MSV,02:58:26
-43,Higginbottom,Jacqui,Carnethy,FV,02:58:48
-44,Johnstone,Derek,Cosmics,MV,03:01:04
-45,Noble,Lois,Cosmics,FV,03:03:34
+41,Hamilton,Ian,Grampian O,M,02:57:22
+42,Semple,Hamilton,Westerlands,M40,02:58:26
+43,Higginbottom,Jacqui,Carnethy,F,02:58:48
+44,Johnstone,Derek,Cosmics,M,03:01:04
+45,Noble,Lois,Cosmics,F,03:03:34
 46,Evans,Sarah,Unattached,F,03:12:54
-47,Morrison,Sam,Forres H,MSV,03:13:36
-48,Johnston,Stephen,Milburn H,MV,03:13:49
-49,Archibald,Martin,Moray Firth Tri,MV,03:15:18
-50,Clarke,Christopher,Biggleswade AC,MSV,03:16:11
-51,Stewart,Elaine,Cosmics,FSV,03:16:47
-52,Gallagher,Robert,Moray Firth Tri,MV,03:26:42
-53,Main,Gordon,Nairn RR,MSV,03:27:51
-54,Drury,Chris,Keith & District AAC,MV,03:28:18
-55,MacDonald,Brian,Unattached,MV,03:31:38
+47,Morrison,Sam,Forres H,M40,03:13:36
+48,Johnston,Stephen,Milburn H,M,03:13:49
+49,Archibald,Martin,Moray Firth Tri,M,03:15:18
+50,Clarke,Christopher,Biggleswade AC,M40,03:16:11
+51,Stewart,Elaine,Cosmics,F40,03:16:47
+52,Gallagher,Robert,Moray Firth Tri,M,03:26:42
+53,Main,Gordon,Nairn RR,M40,03:27:51
+54,Drury,Chris,Keith & District AAC,M,03:28:18
+55,MacDonald,Brian,Unattached,M,03:31:38
 56,Munro,Eleanor,Keith & District AAC,F,03:35:26

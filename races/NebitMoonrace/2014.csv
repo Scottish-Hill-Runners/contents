@@ -1,23 +1,23 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Alasdair,Ochil,MS,00:23:29
-2,Gay,Dan,HBT,MS,00:25:39
-3,O'Neill,Owen,Westies,MS,00:26:44
-4,Fraser,Gary,Ochil,MV,00:27:51
-5,Gilkinson,Alan,Westies,MV,00:28:02
-6,Montgomery,James,Bellahouston Road Runners,MS,00:28:29
-7,Campbell,Donald,Unattached,MS,00:30:23
-8,Easson,Ewan,Unattached,MS,00:30:47
-9,Anderson,Laurie,Lomond Hill Runners,MSV,00:31:25
-10,Brown,Jamie,HBT,MS,00:31:42
-11,Brodie,Stuart,Ochil,MS,00:32:06
-12,Strange,Nick,Stirling Triathlon,MV,00:33:22
-13,Black,Ali,Carnethy,MS,00:33:52
-14,Bowman,Angus,Lomond Hill Runners,MSV,00:34:06
-15,Keaveney,Marcus,Lomond Hill Runners,MV,00:34:56
-16,Bulloch,Gordon,Westies,MS,00:35:25
-17,Brennan,Brian,Westies,MSV,00:35:54
-18,Stakes,David,Bellahouston,MSV,00:36:34
-19,Gatehouse,Richard,Lomond Hill Runners,M60+,00:38:01
-20,Patterson,Neil,Unattached,MV,00:39:15
-21,Davidson,Stewart,Fife AC,MS,00:40:10
-22,McAlpine,Roddy,Unattached,MSV,00:46:14
+1,Anthony,Alasdair,Ochil,M,00:23:29
+2,Gay,Dan,HBT,M,00:25:39
+3,O'Neill,Owen,Westies,M,00:26:44
+4,Fraser,Gary,Ochil,M,00:27:51
+5,Gilkinson,Alan,Westies,M,00:28:02
+6,Montgomery,James,Bellahouston Road Runners,M,00:28:29
+7,Campbell,Donald,Unattached,M,00:30:23
+8,Easson,Ewan,Unattached,M,00:30:47
+9,Anderson,Laurie,Lomond Hill Runners,M40,00:31:25
+10,Brown,Jamie,HBT,M,00:31:42
+11,Brodie,Stuart,Ochil,M,00:32:06
+12,Strange,Nick,Stirling Triathlon,M,00:33:22
+13,Black,Ali,Carnethy,M,00:33:52
+14,Bowman,Angus,Lomond Hill Runners,M40,00:34:06
+15,Keaveney,Marcus,Lomond Hill Runners,M,00:34:56
+16,Bulloch,Gordon,Westies,M,00:35:25
+17,Brennan,Brian,Westies,M40,00:35:54
+18,Stakes,David,Bellahouston,M40,00:36:34
+19,Gatehouse,Richard,Lomond Hill Runners,M60,00:38:01
+20,Patterson,Neil,Unattached,M,00:39:15
+21,Davidson,Stewart,Fife AC,M,00:40:10
+22,McAlpine,Roddy,Unattached,M40,00:46:14

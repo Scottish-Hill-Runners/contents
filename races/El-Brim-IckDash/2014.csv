@@ -3,18 +3,18 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 2,Rocke,John,Dark Peak,M,0:21:13
 3,Abrahams,Ben,Cosmics,M,0:21:35
 4,Brookes,Rob,Cosmics,M,0:21:53
-5,Chepelin,Alexander,Carnethy,MJ,0:22:08
+5,Chepelin,Alexander,Carnethy,M16,0:22:08
 6,Mitchell,John,Cosmics,M,0:23:20
-7,McWilliam,Ewen,Unattached,MJ,0:23:24
+7,McWilliam,Ewen,Unattached,M16,0:23:24
 8,Smith,Alan,Deeside Runners,M50,0:23:29
 9,Mardall,Nick,Deeside Runners,M40,0:23:44
-10,Kitching,Calum,Deeside Runners,MJ,0:23:58
+10,Kitching,Calum,Deeside Runners,M16,0:23:58
 11,Peachey,Simon,Cosmics,M,0:24:13
 12,Forrest,Stuart,Highland Hill Runners,M,0:24:17
 13,Pringle,Stuart,Deeside Runners,M,0:24:28
 14,Lorimer,Hayden,HBT,M40,0:24:38
 15,Peters,Steven,Dundee Road Runners,M,0:24:59
-16,McCartney,Harrison,Oxford University AC,MJ,0:25:03
+16,McCartney,Harrison,Oxford University AC,M16,0:25:03
 17,Williamson,Jason,Cosmics,M40,0:25:07
 18,Ingram,Barry,Metro Aberdeen,M,0:25:10
 19,Gray,James,Aberdeen AAC,M,0:25:15
@@ -30,10 +30,10 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 29,McLeod,Carolyn,Grampian Orienteers,F40,0:27:39
 30,McMillan,Paul,Banchory Stonehaven AC,M40,0:27:56
 31,Thompson,Andrew,Metro Aberdeen,M,0:28:30
-32,Williamson,Harris,Unattached,MJ,0:28:35
+32,Williamson,Harris,Unattached,M16,0:28:35
 33,Scragg,Adam,Metro Aberdeen,M,0:28:36
 34,McWilliam,Rhona,Unattached,F,0:28:37
-35,Clark,Liam,Cosmics,MJ,0:29:35
+35,Clark,Liam,Cosmics,M16,0:29:35
 36,Clark,David,Garioch Road Runners,M40,0:29:36
 37,Stuart,Derek,Fleet Feet Triathletes,M40,0:29:37
 38,Hamilton,Ian,Cosmics,M50,0:29:38
@@ -45,7 +45,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 44,McLennan,Gavin,Metro Aberdeen,M,0:29:58
 45,Colegrave,John,Cosmics,M50,0:30:00
 46,Mackay,Mike,Unattached,M40,0:30:07
-47,Mason,Abigail,Deeside Runners,FJ,0:30:19
+47,Mason,Abigail,Deeside Runners,F16,0:30:19
 48,Mason,Jessica,Cambridge Univ H & H,F,0:30:39
 49,Reid,Colin,Cosmics,M40,0:30:42
 50,Black,Colleen,The Darkside,F,0:30:45

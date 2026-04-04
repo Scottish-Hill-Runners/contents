@@ -10,13 +10,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 9,Thin,Jamie,HBT,M,0:30:07
 10,Glencorse,Colin,Kilmarnock Harriers,M,0:30:39
 11,Simmons,David,Lothian,M,0:30:43
-12,Cole,Ben,Edinburgh Uni H&H,MJ,0:31:29
+12,Cole,Ben,Edinburgh Uni H&H,M16,0:31:29
 13,Harrison,James,Corstorphine,M,0:31:35
 14,Love,Craig,Dundee Hawkhill,M,0:32:00
 15,Warman,Julian,HBT,M,0:32:05
 16,Blair-Fish,John,Carnethy,M50,0:32:13
 17,Jones,Huw,HBT,M,0:32:16
-18,Bailey,Will Hugh,HBT,MJ,0:32:21
+18,Bailey,Will Hugh,HBT,M16,0:32:21
 19,Mowbray,Megan,HBT,F,0:32:39
 20,Hay,Anna,Edinburgh Uni H&H,F,0:32:59
 21,Donaldson,Andrew,Ochil Hill Runners,M,0:33:08
@@ -24,7 +24,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,McCraw,Ron,Ochil Hill Runners,M40,0:33:18
 24,Turnbull,Les,Norham RC,M50,0:33:38
 25,Keown,Richard,Willowfield,M,0:33:39
-26,Bennett,James,Edinburgh Uni H&H,MJ,0:33:50
+26,Bennett,James,Edinburgh Uni H&H,M16,0:33:50
 27,Ascombe,John,Unattached,M,0:33:57
 28,Henry,Graham,Portobello,M,0:33:58
 29,McKechnie,Sarah,Penicuik Harriers,F,0:33:58
@@ -66,7 +66,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 65,Brown,Gary,HBT,M,0:43:23
 66,Stevenson,Eric,Edinburgh AC,M50,0:43:45
 67,Marshall,Ian,HBT,M50,0:43:59
-68,Gray,Effie,Giffnock North,FJ,0:44:11
+68,Gray,Effie,Giffnock North,F16,0:44:11
 69,Turnbull,Drew,Westerlands,M60,0:44:15
 70,Clarke,Karen,HBT,F,0:44:20
 71,Maguire,Marie-Elaine,Carnethy,F40,0:44:27

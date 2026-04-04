@@ -8,7 +8,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 7,Morgan,Charlotte,Carnethy,F,0:21:23
 8,Hammond,John,Carnethy,M,0:21:57
 9,Mardall,Nick,Deeside Runners,M40,0:22:06
-10,Keenan,Matthew,Aberdeen AAC,MJ,0:22:28
+10,Keenan,Matthew,Aberdeen AAC,M16,0:22:28
 11,Mathieson,Gordon,Anster Haddies,M,0:22:50
 12,Peters,Steven,Dundee Road Runners,M,0:23:18
 13,Gilmore,Neil,Carnethy,M50,0:23:19
@@ -24,7 +24,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Anderson,Laurie,Lomond Hill Runners,M50,0:24:42
 24,Kelleher,Michael,Unattached,M,0:24:47
 25,Macdougall,Colin,Tinto Hill Runners,M40,0:24:53
-26,Fernando,Sam,Fife AC,MJ,0:24:58
+26,Fernando,Sam,Fife AC,M16,0:24:58
 27,Lomas,Paul,Unattached,M40,0:25:23
 28,Fitzpatrick,Pat,Ochil Hill Runners,M60,0:25:53
 29,Greig,David,Carnegie Harriers,M40,0:25:54
@@ -51,7 +51,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 50,Bowman,Angus,Lomond Hill Runners,M50,0:27:43
 51,Landels,Brian,Lomond Hill Runners,M50,0:28:00
 52,Reynolds,Colin,Carnegie Harriers,M40,0:28:44
-53,Nicoll,Laura,Lomond Hill Runners,FJ,0:28:47
+53,Nicoll,Laura,Lomond Hill Runners,F16,0:28:47
 54,Douglas,George,Westerlands,M40,0:29:27
 55,Manson,Fiona,Perth Road Runners,F40,0:29:46
 56,Donnachie,Adrian,Unattached,M40,0:29:51

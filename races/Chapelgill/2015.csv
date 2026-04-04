@@ -1,42 +1,42 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gilmore,Andrew,Carnethy,MS,00:21:01
-2,Anthony,Al,Ochil,MS,00:21:21
-3,Fulton,David,HBT,MS,00:21:55
-4,Gilmore,Iain,Carnethy,MS,00:23:21
-5,Smith,Alan,Deeside,MV50,00:23:25
-6,Marshall,Brian,HELP,MV40,00:24:35
-7,Lines,Charles,Kilmarnock,MV50,00:24:55
-8,Crowe,Des,Dundee HH,MV50,00:25:41
-9,Burnett,Neil,Carnethy,MV50,00:25:45
-10,Andrew,Mike,Carnethy,MV50,00:25:55
-11,Malcolm,Bruce,Corstorphine,MV50,00:27:02
-12,Anderson,Laurie,Lomond HR,MV50,00:27:16
-13,Davies,Duncan,Carnethy,MV40,00:27:58
-14,Balfour,Eddie,Moorfoots,MV40,00:28:11
-15,Gilmore,Neil,Carnethy,MV50,00:28:14
-16,Jones,Matt,Carnethy,MS,00:28:22
-17,Weir,Jonathan,u/a,MS,00:29:22
-18,McLeod,Murdo,Westerlands,MV60,00:29:34
-19,Wilson,Colin,Lomond HR,MV50,00:29:34
-20,Hulme,Martin,Corstorphine,MV60,00:29:44
-21,Bowman,Angus,Lomond HR,MV50,00:29:56
-22,McKiddie,Christopher,Westerlands,MS,00:30:25
-23,Lye,Mary,Carnethy,FS,00:30:35
-24,Paul,Alastair,NFR,MV60,00:30:46
-25,Purves,James,Gala Harriers,MV50,00:31:11
-26,Duncan,David,Ochil HR,MV60,00:31:55
-27,Wilson,Joan,Lomond HR,FV50,00:32:06
-28,Sheil,Dougie,u/a,MV50,00:32:08
-29,Cameron,Gordon,Carnethy,MV50,00:32:11
-30,Blackley,Liza,u/a,FS,00:33:44
-31,Huntley,Chris,Tinto HR,MV50,00:33:56
-32,Gatehouse,Richard,Lomond HR,MV60,00:34:11
-33,Gibaut,Adiran,Tinto HR,MV40,00:34:36
-34,Diver,Michael,Clydesdale,MV40,00:36:31
-35,Downie,Chris,Penicuik,MV50,00:36:52
-36,Bowie,Tom,Carnegie,MV60,00:37:56
-37,McPherson,Hugh,Tinto HR,MV60,00:39:56
-38,Bowman,Jean,Lomond HR,FV50,00:40:21
-39,Wall,Dick,HBT,MV50,00:42:15
-40,Forest,Margaret,Carnethy,FV50,00:43:34
-41,McManus,Ian,Irvine,MV70,00:55:33
+1,Gilmore,Andrew,Carnethy,M,00:21:01
+2,Anthony,Al,Ochil,M,00:21:21
+3,Fulton,David,HBT,M,00:21:55
+4,Gilmore,Iain,Carnethy,M,00:23:21
+5,Smith,Alan,Deeside,M50,00:23:25
+6,Marshall,Brian,HELP,M40,00:24:35
+7,Lines,Charles,Kilmarnock,M50,00:24:55
+8,Crowe,Des,Dundee HH,M50,00:25:41
+9,Burnett,Neil,Carnethy,M50,00:25:45
+10,Andrew,Mike,Carnethy,M50,00:25:55
+11,Malcolm,Bruce,Corstorphine,M50,00:27:02
+12,Anderson,Laurie,Lomond HR,M50,00:27:16
+13,Davies,Duncan,Carnethy,M40,00:27:58
+14,Balfour,Eddie,Moorfoots,M40,00:28:11
+15,Gilmore,Neil,Carnethy,M50,00:28:14
+16,Jones,Matt,Carnethy,M,00:28:22
+17,Weir,Jonathan,u/a,M,00:29:22
+18,McLeod,Murdo,Westerlands,M60,00:29:34
+19,Wilson,Colin,Lomond HR,M50,00:29:34
+20,Hulme,Martin,Corstorphine,M60,00:29:44
+21,Bowman,Angus,Lomond HR,M50,00:29:56
+22,McKiddie,Christopher,Westerlands,M,00:30:25
+23,Lye,Mary,Carnethy,F,00:30:35
+24,Paul,Alastair,NFR,M60,00:30:46
+25,Purves,James,Gala Harriers,M50,00:31:11
+26,Duncan,David,Ochil HR,M60,00:31:55
+27,Wilson,Joan,Lomond HR,F50,00:32:06
+28,Sheil,Dougie,u/a,M50,00:32:08
+29,Cameron,Gordon,Carnethy,M50,00:32:11
+30,Blackley,Liza,u/a,F,00:33:44
+31,Huntley,Chris,Tinto HR,M50,00:33:56
+32,Gatehouse,Richard,Lomond HR,M60,00:34:11
+33,Gibaut,Adiran,Tinto HR,M40,00:34:36
+34,Diver,Michael,Clydesdale,M40,00:36:31
+35,Downie,Chris,Penicuik,M50,00:36:52
+36,Bowie,Tom,Carnegie,M60,00:37:56
+37,McPherson,Hugh,Tinto HR,M60,00:39:56
+38,Bowman,Jean,Lomond HR,F50,00:40:21
+39,Wall,Dick,HBT,M50,00:42:15
+40,Forest,Margaret,Carnethy,F50,00:43:34
+41,McManus,Ian,Irvine,M70,00:55:33

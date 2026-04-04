@@ -22,7 +22,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Thorburn,Ewan,Lochaber AC,M,01:00:18
 22,Richmond,Kenny,Shettleston Harriers,M50,01:00:29
 23,Khan,Lewis,Edinburgh Uni Tri,M,01:00:46
-24,Williamson,Clyde,Cosmics,MJ,01:01:01
+24,Williamson,Clyde,Cosmics,M16,01:01:01
 25,Harvey,Dougie,Lochaber AC,M,01:01:14
 26,Tresidder,Esmond,Lochaber AC,M40,01:01:23
 27,McAlinden,Niall,Westerlands CCC,M,01:01:43
@@ -36,7 +36,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 35,Hinchcliffe,Alex,Carnethy,M,01:02:16
 36,Aitken,Paul,Helm Hill Runners,M40,01:02:21
 37,Hugtenburg,Kai,Edinburgh Uni H&H,M,01:02:23
-38,Oldfield,Ifan,Edinburgh Uni H&H,MJ,01:02:41
+38,Oldfield,Ifan,Edinburgh Uni H&H,M16,01:02:41
 39,Wiseman,Bob,Ochil Hill Runners,M40,01:02:45
 40,McVey,Alex,Carnethy,M,01:02:54
 41,Hodgson,Kieran,Helm Hill Runners,M40,01:03:08
@@ -45,7 +45,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 44,Bowers,William,Ochil Hill Runners,M,01:04:32
 45,Winter,Stephen,Shettleston Harriers,M40,01:04:40
 46,Crutchfield,Stuart,Lochaber AC,M,01:04:53
-47,Liddle,Joshua,Eden Runners,MJ,01:04:55
+47,Liddle,Joshua,Eden Runners,M16,01:04:55
 48,Wilkinson,Marc,Lauderdale Limpers,M,01:05:08
 49,Birse,Duncan,Corstorphine AAC,M,01:05:10
 50,Taylor,Sharon,Helm Hill Runners,F40,01:05:17
@@ -92,7 +92,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 91,Strachan,Scott,KInross RR,M40,01:10:30
 92,Shekleton,Nigel,Carnethy,M,01:10:35
 93,Wood,Jack,Ilkley Harriers AC,M,01:10:38
-94,Page,Holly,Edinburgh Uni H&H,FJ,01:10:43
+94,Page,Holly,Edinburgh Uni H&H,F16,01:10:43
 95,MacDonald,Sarah,Lochaber AC,F,01:10:46
 96,Davidson,Martyn,Moorfoot Runners,M,01:11:00
 97,Gallie,David,Lochaber AC,M50,01:11:03
@@ -374,7 +374,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 373,Blackburn,Colin,Northumberland Fell Runners,M50,01:35:15
 374,Firth,Andrew,Clayton-le-Moors Harriers,M60,01:35:20
 375,Ledlie,Colin,Carnethy,M50,01:35:24
-376,Disher,Amy,Lochaber AC,FJ,01:35:34
+376,Disher,Amy,Lochaber AC,F16,01:35:34
 377,Morley-Trapnell,Ross,Dunoon Hill Runners,M50,01:35:39
 378,Stakes,David,Westerlands CCC,M50,01:35:49
 379,Ritchie,Michael,Penicuik Harriers,M,01:35:54

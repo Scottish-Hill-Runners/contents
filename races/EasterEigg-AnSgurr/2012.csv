@@ -22,7 +22,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Nadin,Simon,Highland Hill Runners,M50,0:59:20
 22,Glover,Sarah,Thirsk and Sowerby,F,0:59:51
 23,Hale,Grahame,Unattached,M,1:00:08
-24,Torr,Kat,Unattached,FJ,1:00:12
+24,Torr,Kat,Unattached,F16,1:00:12
 25,Arthur,Graham,Highland Hill Runners,M60,1:00:25
 26,Smith,Tilly,Deeside Runners,F50,1:00:55
 27,Duncan,David,Ochil Hill Runners,M50,1:01:04
@@ -30,7 +30,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 29,Piper,Claire,Highland Hill Runners,F40,1:02:02
 30,Bowen,Jo,Pennine Fell Runners,F40,1:02:13
 31,Ritchie,Lucy,Unattached,F,1:02:29
-32,Nadin,Bethan,Highland Hill Runners,FJ,1:05:10
+32,Nadin,Bethan,Highland Hill Runners,F16,1:05:10
 33,Bihan,George,Unattached,M,1:05:57
 34,Wilson,Joan,Lomond Hill Runners,F50,1:06:04
 35,Bowman,Jean,Lomond Hill Runners,F50,1:06:30

@@ -32,7 +32,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 31,Crowe,Des,Penicuik Harriers,M60,00:40:09
 32,Thin,Jamie,HBT,M50,00:40:13
 33,Entwistle,Jamie,Lauderdale Limpers,M,00:40:21
-34,Goodall,Alice,Unattached,FU20,00:40:49
+34,Goodall,Alice,Unattached,F20,00:40:49
 35,Cuthbertson,Mark,Cairnsmore Mile Munchers,M50,00:40:59
 36,Breckenridge,Bill,Shettleston Harriers,M50,00:41:04
 37,Mclure,Neil,Carnethy,M50,00:41:15
@@ -115,7 +115,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 114,Oliver,David,Deeside Runners,M60,00:53:05
 115,Black,Sally,Unattached,F50,00:53:21
 116,Fraser,Mitchell,Unattached,M40,00:54:12
-117,Asimaki,Zoi,Ochils,FU20,00:54:28
+117,Asimaki,Zoi,Ochils,F20,00:54:28
 118,Coltman,Alan,Teviotdale Harriers,M50,00:54:34
 119,Best,Sally,Carnethy,F,00:54:37
 120,Richard,Jocelyn,Gala Harriers,F60,00:54:47
@@ -127,7 +127,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 126,Cumberland,Rachel,Unattached,F,00:57:29
 127,Jardine,Euan,Gala Harriers,M,00:57:33
 128,Laidlaw,Anita,Fife AC,F40,00:58:04
-129,Amadori,Sofia,Unattached,FU20,00:58:11
+129,Amadori,Sofia,Unattached,F20,00:58:11
 130,Breckenridge,Susan,Shettleston Harriers,F50,00:58:15
 131,Thomson,Iain,Strathearn Harriers,M70,00:58:43
 132,Oliver,Jane,Deeside Runners,F60,00:59:19

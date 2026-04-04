@@ -6,7 +6,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 5,Anthony,Alasdair,Ochil Hill Runners,M,0:45:12
 6,Normand,Andrew,Carnethy,M,0:45:28
 7,Waters,Chris,HBT,M,0:46:18
-8,Gilmore,Andrew,Highland Hill Runners,MU23,0:46:30
+8,Gilmore,Andrew,Highland Hill Runners,M23,0:46:30
 9,Fulton,David,HBT,M,0:46:35
 10,Ward,Ray,HBT,M,0:46:51
 11,Hammond,John,Carnethy,M,0:47:13
@@ -36,7 +36,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 35,Kenyon,Oliver,HBT,M,0:52:25
 36,Rathjen,Jon,HBT,M40,0:52:42
 37,Curtis,Briony,HBT,F,0:52:51
-38,Williamson,Coll,HBT,MU23,0:53:20
+38,Williamson,Coll,HBT,M23,0:53:20
 39,Normand,Ivor,HBT,M40,0:53:34
 40,Sims,Andrew,HBT,M,0:53:52
 41,Robinson,Madeline,Helensburgh AAC,F,0:53:55

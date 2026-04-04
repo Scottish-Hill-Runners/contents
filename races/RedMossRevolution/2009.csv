@@ -1,111 +1,110 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Strain,Murray,HBT,M Record,00:35:03
-2,Richmond,Kenny,Bellahouston RR,MV40,00:35:05
+1,Strain,Murray,HBT,M,00:35:03
+2,Richmond,Kenny,Bellahouston RR,M40,00:35:05
 3,Anthony,Al,Ochil,M,00:35:12
 4,Wright,Andrew,Carnegie,M,00:35:55
 5,Chepelin,Oleg,Shettleston,M,00:37:15
 6,Milne,Ross,Lothian,M,00:37:25
-7,McBurney,Craig,HBT,MV40,00:38:45
+7,McBurney,Craig,HBT,M40,00:38:45
 8,Ascroft,Jon,Carnethy,M,00:38:55
 9,O'Brien,Chris,Corstorphine AAC,M,00:39:20
 10,Johnston,Fergus,Gala Harriers,M,00:39:35
-11,Upson,Chris,Westies,MV40,00:39:40
-12,Buchanan,Peter,Portobello,MV40,00:39:50
+11,Upson,Chris,Westies,M40,00:39:40
+12,Buchanan,Peter,Portobello,M40,00:39:50
 13,Walker,Craig,U/A,M,00:40:20
 14,O'Neill,Owen,Westies,M,00:40:25
-15,Nash,Graham,U/A,MV40,00:40:50
-16,Smith,Bruce,Carnethy,MV40,00:41:00
+15,Nash,Graham,U/A,M40,00:40:50
+16,Smith,Bruce,Carnethy,M40,00:41:00
 17,Mitchell,John,Carnethy,M,00:41:20
-18,Colquhoun,Lucy,Carnethy,L,00:41:31
+18,Colquhoun,Lucy,Carnethy,F,00:41:31
 19,Barr,Tom,HBT,M,00:41:45
 20,Rathjen,Jon,HBT,M,00:41:50
 21,Jarvis,James,HBT,M,00:42:05
 22,Love,Craig,Dundee,M,00:42:10
-23,James,Mick,Carnethy,MV40,00:42:20
-24,Mowbray,Megan,HBT,L,00:42:21
+23,James,Mick,Carnethy,M40,00:42:20
+24,Mowbray,Megan,HBT,F,00:42:21
 25,Nash,Rupert,HBT,M,00:42:35
 26,Garrick,William,2 Scots,M,00:42:40
 27,Davidson,Angus,U/A,M,00:42:50
-28,Malcolm,Bruce,Corstorphine AAC,MV40,00:43:10
+28,Malcolm,Bruce,Corstorphine AAC,M40,00:43:10
 29,Wilson,Rob,Penicuik Harriers,M,00:43:40
-30,Stevenson,John,Ochil,MV40,00:43:45
+30,Stevenson,John,Ochil,M40,00:43:45
 31,Mair,Will,HBT,M,00:43:50
-32,Mason,David,Lithgae Harriers,MV40,00:44:00
+32,Mason,David,Lithgae Harriers,M40,00:44:00
 33,Clements,Daniel,HBT,M,00:44:36
-34,Thompson,Paul,Harmeny,MV40,00:44:50
-35,Dudchenko,Paul,Stirling Uni,MV40,00:44:58
+34,Thompson,Paul,Harmeny,M40,00:44:50
+35,Dudchenko,Paul,Stirling Uni,M40,00:44:58
 36,Steen,Duncan,U/A,M,00:45:20
-37,Richardson,Matt,Lothian,MV40,00:45:30
-38,Duncan,Davie,Ochil,MV50,00:45:35
+37,Richardson,Matt,Lothian,M40,00:45:30
+38,Duncan,Davie,Ochil,M50,00:45:35
 39,Ashley,George,EUHH,M,00:45:40
 40,Hall,Johnny,Moorfoot Runners,M,00:46:10
-41,Paul,Alistair,U/A,MV50,00:46:15
-42,Hague,Peter,Strathern,MV40,00:46:20
+41,Paul,Alistair,U/A,M50,00:46:15
+42,Hague,Peter,Strathern,M40,00:46:20
 43,Orr,Gavin,Harmeny,M,00:46:25
-44,Homewood,Ellie,Westies,L,00:46:30
-45,Manson,Alan,Carnegie,MV40,00:46:33
-46,Campbell,Isla,Central AC,L,00:46:37
-47,Coull,Charlie,Ochil,MV40,00:46:50
+44,Homewood,Ellie,Westies,F,00:46:30
+45,Manson,Alan,Carnegie,M40,00:46:33
+46,Campbell,Isla,Central AC,F,00:46:37
+47,Coull,Charlie,Ochil,M40,00:46:50
 48,Fulton,David,EUHH,M,00:46:55
-49,Morrice,Lynn,Portobello,L,00:46:57
-50,Shaw,Richard,Anster Haddies,MV50,00:47:02
+49,Morrice,Lynn,Portobello,F,00:46:57
+50,Shaw,Richard,Anster Haddies,M50,00:47:02
 51,Mathieson,Keith,U/A,M,00:47:05
-52,Campbell,Ian,HBT,MV40,00:47:25
-53,Whitehouse,Kate,Central AC,LV40,00:47:30
+52,Campbell,Ian,HBT,M40,00:47:25
+53,Whitehouse,Kate,Central AC,F40,00:47:30
 54,Adams,Tom,U/A,M,00:47:35
-55,O'Brien,Paul,Corstorphine AAC,MV50,00:47:45
-56,Miller,C,Westies,L,00:47:55
-57,Addison,Steph,U/A,MV40,00:48:40
-58,Telfer,John,Northumberland Fellrunners,MV40,00:48:45
-59,Dunn,Caroline,U/A,LV40,00:48:50
+55,O'Brien,Paul,Corstorphine AAC,M50,00:47:45
+56,Miller,C,Westies,F,00:47:55
+57,Addison,Steph,U/A,M40,00:48:40
+58,Telfer,John,Northumberland Fellrunners,M40,00:48:45
+59,Dunn,Caroline,U/A,F40,00:48:50
 60,Forrester,Mick,Bellahouston RR,M,00:49:10
-61,Wright,Pauline,Bellahouston RR,L,00:49:30
-62,Mitchell,Neil,U/A,MV40,00:49:35
+61,Wright,Pauline,Bellahouston RR,F,00:49:30
+62,Mitchell,Neil,U/A,M40,00:49:35
 63,Brown,Jamie,U/A,M,00:49:40
-64,Mitchell,Phyllis,HBT,LV40,00:50:00
+64,Mitchell,Phyllis,HBT,F40,00:50:00
 65,Fong,Adrian,Carnethy,M,00:50:05
-66,Jabloski,Derek,Unattached,MV40,00:50:10
-67,Smith,Ian,Harmeny,MV40,00:50:20
-68,Bowman,A,Beacon Runners,MV50,00:50:25
-69,Bonsor,Helen,U/A,L,00:50:35
+66,Jabloski,Derek,Unattached,M40,00:50:10
+67,Smith,Ian,Harmeny,M40,00:50:20
+68,Bowman,A,Beacon Runners,M50,00:50:25
+69,Bonsor,Helen,U/A,F,00:50:35
 70,Bailey,Will Hugh,EUHH,M,00:50:55
-71,May,Timothy,Harmeny,MV40,00:51:00
+71,May,Timothy,Harmeny,M40,00:51:00
 72,Weir,Jonathon,U/A,M,00:51:00
-73,Kitchin,Kate,Lothian,L,00:51:00
+73,Kitchin,Kate,Lothian,F,00:51:00
 74,Hayward,James,HBT,M,00:51:00
 75,Milligan,John,Bellahouston RR,M,00:51:00
-76,Tindall,Kenny,U/A,U23,00:52:00
+76,Tindall,Kenny,U/A,M23,00:52:00
 77,Mclay,Matthew,Strathearn Harriers,M,00:52:00
-78,McGuire,Jackie,Bellahouston RR,LV40,00:53:34
-79,Harper,Keith,Portobello,MV40,00:53:34
-80,Entry,Late,Portobello,L,00:53:34
-81,Coyle,Caroline,U/A,L,00:53:34
-82,McFarlane,Fiora,Bellahouston RR,LV40,00:53:34
-83,Horsburgh,Jill,Lothian,LV50,00:54:00
-84,McBurney,Jennifer,HBT,LV40,00:54:00
-85,Tooley,,Harmeny,MV40,00:54:00
-86,Lowrie,Fiona,Carnethy,L,00:54:00
-87,Whitehead,Jonathon,Edinburgh AC,MV50,00:54:00
+78,McGuire,Jackie,Bellahouston RR,F40,00:53:34
+79,Harper,Keith,Portobello,M40,00:53:34
+80,Entry,Late,Portobello,F,00:53:34
+81,Coyle,Caroline,U/A,F,00:53:34
+82,McFarlane,Fiora,Bellahouston RR,F40,00:53:34
+83,Horsburgh,Jill,Lothian,F50,00:54:00
+84,McBurney,Jennifer,HBT,F40,00:54:00
+85,Tooley,,Harmeny,M40,00:54:00
+86,Lowrie,Fiona,Carnethy,F,00:54:00
+87,Whitehead,Jonathon,Edinburgh AC,M50,00:54:00
 88,Jelly,Ewen,U/A,M,00:54:00
-89,West,Alison,Carnegie,LV50,00:54:00
-90,Hood,Brian,Lothian Borders Police,MV40,00:54:00
-91,Howieson,Donald,U/A,MV40,00:54:00
-92,Porteous,Graham,Portobello,MV50,00:54:00
-93,Young,Douglas,Portobello,MV60,00:56:10
-94,Broadhurst,Lorna,Harmeny,LV40,00:56:10
-95,Darlow,Kate,Carnethy,L,00:56:10
-96,Turnbull,Mags,Lothian,LV50,00:56:10
-97,Salvage,Jim,Lothian,MV40,00:58:28
-98,Pollock,Kenny,Standard Life,MV40,00:58:28
-99,Moss,Stephanie,Carnethy,L,00:58:28
-100,Moriarty,Suzi,Bellahouston RR,L,00:59:40
-101,Warner,Mark,HBT,MV40,01:00:25
-102,Hogg,Kirsten,EUHH,L,01:00:45
-103,McQuillen,Alison,Lothian,L,01:01:25
-104,Freedman,Nick,Harmeny,L,01:01:25
-105,Winning,Jim,Beacon Runners,MV50,01:01:45
-106,Smith,Janice,HBT,LV40,01:02:25
-107,Mcmanus,Ian,Irvine AC,MV60,01:02:40
-108,Webster,Cath,Portobello,LV50,01:11:15
-109,Laidlaw,Ann,Harmeny,LV40,01:17:38
-111,White,Abbie,HBT,Sweeper,Lost!
+89,West,Alison,Carnegie,F50,00:54:00
+90,Hood,Brian,Lothian Borders Police,M40,00:54:00
+91,Howieson,Donald,U/A,M40,00:54:00
+92,Porteous,Graham,Portobello,M50,00:54:00
+93,Young,Douglas,Portobello,M60,00:56:10
+94,Broadhurst,Lorna,Harmeny,F40,00:56:10
+95,Darlow,Kate,Carnethy,F,00:56:10
+96,Turnbull,Mags,Lothian,F50,00:56:10
+97,Salvage,Jim,Lothian,M40,00:58:28
+98,Pollock,Kenny,Standard Life,M40,00:58:28
+99,Moss,Stephanie,Carnethy,F,00:58:28
+100,Moriarty,Suzi,Bellahouston RR,F,00:59:40
+101,Warner,Mark,HBT,M40,01:00:25
+102,Hogg,Kirsten,EUHH,F,01:00:45
+103,McQuillen,Alison,Lothian,F,01:01:25
+104,Freedman,Nick,Harmeny,F,01:01:25
+105,Winning,Jim,Beacon Runners,M50,01:01:45
+106,Smith,Janice,HBT,F40,01:02:25
+107,Mcmanus,Ian,Irvine AC,M60,01:02:40
+108,Webster,Cath,Portobello,F50,01:11:15
+109,Laidlaw,Ann,Harmeny,F40,01:17:38

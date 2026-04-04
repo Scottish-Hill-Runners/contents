@@ -1,10 +1,10 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Sasha,Carnethy HRC,M,01:02:52
 2,Vokes,Philip,Highland Hill Runners,M,01:03:34
-3,Wright,Angus,Edinburgh Uni H&H,MU23,01:04:03
+3,Wright,Angus,Edinburgh Uni H&H,M23,01:04:03
 4,Abernethy,Rory,Ochil Hill Runners,M,01:04:10
 5,Pulham,Harry,Shettleston Harriers,M,01:05:27
-6,Pagett,Harris,Strathearn Harriers,MU23,01:06:00
+6,Pagett,Harris,Strathearn Harriers,M23,01:06:00
 7,Chebbout,Ryad,Shettleston Harriers,M,01:06:17
 8,Masson,Alistair,Carnethy HRC,M,01:06:27
 9,Sparks,Robert,HBT,M,01:06:32
@@ -39,7 +39,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 38,McConnell,Morgan,Hartfell Hill Runners,M,01:17:54
 39,Connaghan,John,Shettleston Harriers,M55,01:17:59
 40,Cox,Andrew,Gala Harriers,M40,01:18:21
-41,Hedley,Isla,Stirling University AC,FU23,01:18:47
+41,Hedley,Isla,Stirling University AC,F23,01:18:47
 42,Downs,Ellen,Westerlands CCC,F,01:19:03
 43,Coull,Eoin,Highland Hill Runners,M50,01:19:43
 44,Hutson,Liam,Fife AC,M,01:19:50
@@ -98,7 +98,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 97,Greig,Kevin,Dundee RR,M40,01:31:57
 98,Ball,Duncan,Penicuik Harriers,M60,01:32:10
 99,Oldham,Veronique,Cosmic Hillbashers,F55,01:32:31
-100,Griffiths,Gemma,Shettleston Harriers,FU23,01:32:48
+100,Griffiths,Gemma,Shettleston Harriers,F23,01:32:48
 101,Watson,Edward,Westerlands CCC,M,01:32:55
 102,Dijkman,Naomi,Lauderdale Limpers,F40,01:33:51
 103,Templeman,Simon,Ochil Hill Runners,M55,01:34:01

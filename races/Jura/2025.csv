@@ -37,7 +37,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 36,Gallacher,Craig,Westerlands CCC,M,04:08:59
 37,Steede,Jonny,Glens Runners,M40,04:09:14
 38,Silvie,Will,Black Combe Runners,M,04:09:19
-39,Whitaker,Alexandra,Ambleside AC,FU23,04:10:42
+39,Whitaker,Alexandra,Ambleside AC,F23,04:10:42
 40,Tresidder,Esmond,Lochaber AC,M40,04:11:36
 41,Ockenden,John,HBT,M,04:12:56
 42,Crewe,John,Dark Peak,M,04:14:32
@@ -63,7 +63,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 62,Downs,Ellen,Westerlands CCC,F,04:29:02
 63,Wheeler,Gareth,Carnethy HRC,M,04:29:58
 64,Carter,Hamish,Unattached,M,04:32:08
-65,Holroyd,Matthew,Settle Harriers,MU23,04:32:14
+65,Holroyd,Matthew,Settle Harriers,M23,04:32:14
 66,Woodman,James,Pudsey & Bramley AC,M,04:32:26
 67,Oldfield,Ifan,Carnethy HRC,M,04:35:16
 68,Walsh,Chris,HBT,M40,04:35:37
@@ -83,7 +83,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 82,Imrie,William,B.A.R.F.,M,04:47:49
 83,NadinInstagram,Bethan,Highland Hill Runners,F,04:47:59
 84,Wallace,David,Ochil Hill Runners,M40,04:48:08
-85,Dowd,Ewan,Edinburgh Uni H&H,MU23,04:48:15
+85,Dowd,Ewan,Edinburgh Uni H&H,M23,04:48:15
 86,Smithson,Al,Mersey Tri,M40,04:48:48
 87,Poulter,Alwyn,Westerlands CCC,M,04:49:09
 88,Patton,Simon,Dark Peak,M50,04:49:15
@@ -129,7 +129,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 128,Brown,Jez,Buckley Runners,M50,05:31:55
 129,Gamble,Lisa,Carnethy HRC,F40,05:32:14
 130,Fraser,Calum,Cumberland FR,M,05:32:30
-131,MacMillan,Iris,Carnethy HRC,FU23,05:32:32
+131,MacMillan,Iris,Carnethy HRC,F23,05:32:32
 132,Painter,Myles,Westerlands CCC,M,05:32:58
 133,Morris,Alex,Unattached,M,05:33:12
 134,Stanley,Ruth,Cumberland FR,F,05:33:17

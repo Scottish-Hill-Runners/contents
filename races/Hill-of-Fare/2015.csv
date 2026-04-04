@@ -1,61 +1,61 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Henry,Peter,Deeside Runners,MS,00:28:25
-2,Burgess,Sam,Deeside Runners,MS,00:28:29
-3,Nicolson,William,Highland Hill Runners,MV40,00:29:11
-4,Dunford,Simon,Cosmics,MS,00:29:16
-5,Whitehead,Claire,Deeside Runners,FS,00:29:38
-6,Sheehan,Ruari,Unattached,MS,00:29:45
-7,Mitchell,John,Cosmics,MS,00:29:51
-8,Pringle,Stuart,Unattached,MS,00:30:31
-9,Stockton,Mark,Cosmics,MS,00:30:32
-10,Ross,Jamie,Unattached,MS,00:30:36
-11,Jamieson,David,Unattached,MS,00:30:38
-12,Davie,Moira,Forres Harriers,FS,00:30:42
-13,Wright,Joseph,Unattached,MJ,00:30:42
-14,Inglis,Andy,Cosmics,MS,00:31:24
-15,Anderson,Craig,Metro Aberdeen,MV40,00:31:39
-16,Eatough,Oliver,Unattached,MS,00:31:48
-17,Provan,Stephanie,Deeside Runners,FS,00:31:52
-18,Niall,Mark,Unattached,MS,00:32:09
-19,Hirst,David,Deeside Runners,MV50,00:32:15
-20,Barnes,Ross,Unattached,MS,00:32:28
-21,McDonald,Dennis,Cosmics,MV50,00:32:35
-22,Lang,Richard,Cosmics,MV40,00:32:42
-23,Musgrave,Jon,Deeside Runners,MV50,00:32:51
-24,Wilson,Felix,Unattached,MJ,00:32:57
-25,Kirk,Lachlan,Grampian Orienteers,MJ,00:32:59
-26,Ward,Ben,Unattached,MS,00:33:43
-27,Roy,Scott,Unattached,MV40,00:34:09
+1,Henry,Peter,Deeside Runners,M,00:28:25
+2,Burgess,Sam,Deeside Runners,M,00:28:29
+3,Nicolson,William,Highland Hill Runners,M40,00:29:11
+4,Dunford,Simon,Cosmics,M,00:29:16
+5,Whitehead,Claire,Deeside Runners,F,00:29:38
+6,Sheehan,Ruari,Unattached,M,00:29:45
+7,Mitchell,John,Cosmics,M,00:29:51
+8,Pringle,Stuart,Unattached,M,00:30:31
+9,Stockton,Mark,Cosmics,M,00:30:32
+10,Ross,Jamie,Unattached,M,00:30:36
+11,Jamieson,David,Unattached,M,00:30:38
+12,Davie,Moira,Forres Harriers,F,00:30:42
+13,Wright,Joseph,Unattached,M16,00:30:42
+14,Inglis,Andy,Cosmics,M,00:31:24
+15,Anderson,Craig,Metro Aberdeen,M40,00:31:39
+16,Eatough,Oliver,Unattached,M,00:31:48
+17,Provan,Stephanie,Deeside Runners,F,00:31:52
+18,Niall,Mark,Unattached,M,00:32:09
+19,Hirst,David,Deeside Runners,M50,00:32:15
+20,Barnes,Ross,Unattached,M,00:32:28
+21,McDonald,Dennis,Cosmics,M50,00:32:35
+22,Lang,Richard,Cosmics,M40,00:32:42
+23,Musgrave,Jon,Deeside Runners,M50,00:32:51
+24,Wilson,Felix,Unattached,M16,00:32:57
+25,Kirk,Lachlan,Grampian Orienteers,M16,00:32:59
+26,Ward,Ben,Unattached,M,00:33:43
+27,Roy,Scott,Unattached,M40,00:34:09
 28,Williamson,Clyde,Cosmics,M14,00:34:40
-29,Rendall,Samantha,Unattached,FS,00:34:47
-30,Mcleod,Lucy,Unattached,FS,00:34:56
-31,Larmour,Colin,Cosmics,MV50,00:35:22
-32,McNab,Peter,Unattached,MS,00:35:31
-33,Ingram,Richard,Cosmics,MV40,00:35:31
-34,Mardall,Lina,Deeside Runners,FV40,00:35:45
-35,Cordiner,Gareth,Unattached,MS,00:36:45
-36,Livingstone,Ian,Unattached,MS,00:37:04
-37,Scott,Trevor,Unattached,MV50,00:37:12
-38,Mclennan,Gavin,Unattached,MS,00:37:13
-39,Hamilton,Ian,Cosmics,MV50,00:37:31
-40,Entwistle,Marie,Deeside Runners,FV40,00:37:40
-41,Reid,Colin,Unattached,MV40,00:37:52
-42,Cossar,Emily,Unattached,FJ,00:37:58
-43,Henderson,Katie,Deeside Runners,FS,00:38:02
-44,Paxman,Jim,Dark Peak Fell Runners,MV50,00:38:28
-45,Gutteridge,Gary,Cosmics,MV60,00:38:42
-46,Williams,Rupert,Cosmics,MV50,00:38:51
-47,Taylor,Colin,Cosmics,MV50,00:40:22
-48,Osterward,Stephen,Unattached,MV40,00:40:39
-49,Cossar,Martin,Unattached,MV50,00:40:49
-50,Wilson,Charles,Unattached,MV50,00:41:10
-51,Cran,Ian,Unattached,MV50,00:41:20
-52,Zikode,Nozipho,Unattached,FS,00:41:24
-53,Kirk,David,Grampian Orienteers,MV40,00:42:54
-54,Clunas,Gillian,Cosmics,FV50,00:43:37
-55,Gourlay,Cat,Unattached,FS,00:45:09
-56,Bryce,Murray,Cosmics,MV60,00:45:24
-57,Oliver,Jane,Deeside Runners,FV50,00:47:41
-58,Taylor,Sue,Cosmics,FV60,00:48:33
-59,Paterson,Nicola,Unattached,FV40,00:49:23
-60,Bryant,David,Unattached,MV50,00:54:22
+29,Rendall,Samantha,Unattached,F,00:34:47
+30,Mcleod,Lucy,Unattached,F,00:34:56
+31,Larmour,Colin,Cosmics,M50,00:35:22
+32,McNab,Peter,Unattached,M,00:35:31
+33,Ingram,Richard,Cosmics,M40,00:35:31
+34,Mardall,Lina,Deeside Runners,F40,00:35:45
+35,Cordiner,Gareth,Unattached,M,00:36:45
+36,Livingstone,Ian,Unattached,M,00:37:04
+37,Scott,Trevor,Unattached,M50,00:37:12
+38,Mclennan,Gavin,Unattached,M,00:37:13
+39,Hamilton,Ian,Cosmics,M50,00:37:31
+40,Entwistle,Marie,Deeside Runners,F40,00:37:40
+41,Reid,Colin,Unattached,M40,00:37:52
+42,Cossar,Emily,Unattached,F16,00:37:58
+43,Henderson,Katie,Deeside Runners,F,00:38:02
+44,Paxman,Jim,Dark Peak Fell Runners,M50,00:38:28
+45,Gutteridge,Gary,Cosmics,M60,00:38:42
+46,Williams,Rupert,Cosmics,M50,00:38:51
+47,Taylor,Colin,Cosmics,M50,00:40:22
+48,Osterward,Stephen,Unattached,M40,00:40:39
+49,Cossar,Martin,Unattached,M50,00:40:49
+50,Wilson,Charles,Unattached,M50,00:41:10
+51,Cran,Ian,Unattached,M50,00:41:20
+52,Zikode,Nozipho,Unattached,F,00:41:24
+53,Kirk,David,Grampian Orienteers,M40,00:42:54
+54,Clunas,Gillian,Cosmics,F50,00:43:37
+55,Gourlay,Cat,Unattached,F,00:45:09
+56,Bryce,Murray,Cosmics,M60,00:45:24
+57,Oliver,Jane,Deeside Runners,F50,00:47:41
+58,Taylor,Sue,Cosmics,F60,00:48:33
+59,Paterson,Nicola,Unattached,F40,00:49:23
+60,Bryant,David,Unattached,M50,00:54:22

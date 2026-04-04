@@ -1,8 +1,8 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Richmond,Kenny,Bellahouston Road Runners,M40,00:49:10
-2,Rankin,Garry,Kilbarchan,MU18,00:49:49
+2,Rankin,Garry,Kilbarchan,M18,00:49:49
 3,Eiser,Dave,Ochil Hill Runners,M,00:52:05
-4,Gatens,Adam,Westerlands,MU18,00:52:20
+4,Gatens,Adam,Westerlands,M18,00:52:20
 5,Fallon,Steven,Carnethy,M40,00:52:25
 6,Hensman,Will,Central AC,M,00:53:57
 7,Houston,David,Glasgow University Hares and Hounds,M,00:54:05
@@ -62,7 +62,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 61,McIntyre,Colin,U/A,M,01:08:35
 62,McKendry,Paul,U/A,M50,01:08:48
 63,West,Alison,Carnegie Harriers,F50,01:08:54
-64,Walton,Scot,U/A,MU18,01:09:01
+64,Walton,Scot,U/A,M18,01:09:01
 65,Drewette,David,Ochil Hill Runners,M40,01:09:06
 66,Doherty,Martin,Stirling University,M40,01:09:49
 67,Mitchell,Neill,U/A,M40,01:10:55

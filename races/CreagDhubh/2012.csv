@@ -1,136 +1,136 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Waldie,James,Carnethy Hill Runners [CHR],ms,00:30:24
-2,Antony,Alasdair,Ochil Hill Runners [OHR],ms,00:30:32
-3,Faulkner,Paul,CHR,ms,00:30:39
-4,Richmond,Kenny,Shettleston Harriers [SH],mv,00:31:00
-5,Whitlie,Stewart,CHR,mv+50,00:31:09
-6,Harris,Mark,Fife AC,mv,00:31:57
-7,Gorman,Manny,Westerlands,mv,00:32:06
-8,Ward,Jack,u/a Aviemore,ms,00:32:11
-9,Wilby,David,Highland Hill Runners [HHR],ms,00:32:23
-10,McCarthy,Ewan,u/a Kingussie,ms,00:32:41
-11,Hutchinson,Charles,Hunters Bog Trotters [HBT],ms,00:32:55
-12,Davis,Adrian,CHR,mv+50,00:33:06
-13,Gee,Ivan,Todmorden Harriers,mv,00:33:21
-14,Winter,Stephen,SH,ms,00:33:28
-15,Smith,Alan,Deeside,mv+50,00:33:36
-16,Fallon,Steven,CHR,mv,00:34:37
-17,Binnie,John,Lochaber AC [LAC],mv,00:34:49
-18,Theaker,Damien,Helensburgh,mv+50,00:35:48
-19,Grant-Poutrey,Chris,u/a Glasgow,ms,00:36:02
-20,Hughes,Fiona,Cambridge University,fs,00:36:05
-21,Paterson,Ewan,Moray Road Runners [MRR],mv+60,00:36:16
-22,Morgan,Charlotte,CHR,fs,00:36:19
-23,Simpson,Peter,Carnegie Harriers [CH],mv+50,00:36:25
-24,Titmuss,Simon,CHR,ms,00:36:31
-25,Lancaster,Ian,Tattenhall,mv+50,00:36:41
-26,Watson,Dan,Lochtayside,mv,00:36:48
-27,Longmore,Rory,Annan District AC,mv+50,00:36:56
-28,Burns,Stephen,u/a Inverlochy,mv,00:37:02
-29,Bass,Owen,Deeside,mv,00:37:04
-30,Morris,Neil,Low Fell RC,mv,00:37:15
-31,Wardlaw,Eilidh,HBT,fs,00:37:35
-32,King,Steven,CH,ms,00:37:39
-33,Pryde,Gordon,Lomond Hill Runners,mv+50,00:37:40
-34,Oldham,Veronique,Cormic Hill Bashers,fv,00:37:41
-35,Gade,Soren,Donmhor Sporting,ms,00:38:01
-36,Earle,Paddy,Tinto Hill Runners,mv+50,00:38:05
-37,Cameron,Gordon,CHR,mv+50,00:38:22
-38,Forrest,Stuart,HHR,ms,00:38:47
-39,Love,Craig,Dundee Hawkhill Harriers [DHH],mv,00:38:51
-40,Higginbottom,Jacqui,CHR,fv,00:39:13
-41,Farquhar,Douglas,u/a Dunfermline,mv,00:39:14
-42,Black,Ian,City of Edinburgh,mv,00:39:33
-43,Hawkins,Ian,Fife AC,mv,00:39:54
-44,Evans,Siobhan,Forres Harriers,fs,00:40:02
-45,Mathews,Steve,DHH,mv,00:40:10
-46,Watson,Gordon,DHH,mv+60,00:40:14
-47,Hassan,Grant,Inverness Harriers [IH],ms,00:40:25
-48,Waterhouse,Harry,"Saddleworth, South Australia",mv+60,00:40:33
-49,Calothis,Marinos,Kinross Road Runners [KRR],mv,00:41:01
+1,Waldie,James,Carnethy Hill Runners [CHR],M,00:30:24
+2,Antony,Alasdair,Ochil Hill Runners [OHR],M,00:30:32
+3,Faulkner,Paul,CHR,M,00:30:39
+4,Richmond,Kenny,Shettleston Harriers [SH],M,00:31:00
+5,Whitlie,Stewart,CHR,M50,00:31:09
+6,Harris,Mark,Fife AC,M,00:31:57
+7,Gorman,Manny,Westerlands,M,00:32:06
+8,Ward,Jack,u/a Aviemore,M,00:32:11
+9,Wilby,David,Highland Hill Runners [HHR],M,00:32:23
+10,McCarthy,Ewan,u/a Kingussie,M,00:32:41
+11,Hutchinson,Charles,Hunters Bog Trotters [HBT],M,00:32:55
+12,Davis,Adrian,CHR,M50,00:33:06
+13,Gee,Ivan,Todmorden Harriers,M,00:33:21
+14,Winter,Stephen,SH,M,00:33:28
+15,Smith,Alan,Deeside,M50,00:33:36
+16,Fallon,Steven,CHR,M,00:34:37
+17,Binnie,John,Lochaber AC [LAC],M,00:34:49
+18,Theaker,Damien,Helensburgh,M50,00:35:48
+19,Grant-Poutrey,Chris,u/a Glasgow,M,00:36:02
+20,Hughes,Fiona,Cambridge University,F,00:36:05
+21,Paterson,Ewan,Moray Road Runners [MRR],M60,00:36:16
+22,Morgan,Charlotte,CHR,F,00:36:19
+23,Simpson,Peter,Carnegie Harriers [CH],M50,00:36:25
+24,Titmuss,Simon,CHR,M,00:36:31
+25,Lancaster,Ian,Tattenhall,M50,00:36:41
+26,Watson,Dan,Lochtayside,M,00:36:48
+27,Longmore,Rory,Annan District AC,M50,00:36:56
+28,Burns,Stephen,u/a Inverlochy,M,00:37:02
+29,Bass,Owen,Deeside,M,00:37:04
+30,Morris,Neil,Low Fell RC,M,00:37:15
+31,Wardlaw,Eilidh,HBT,F,00:37:35
+32,King,Steven,CH,M,00:37:39
+33,Pryde,Gordon,Lomond Hill Runners,M50,00:37:40
+34,Oldham,Veronique,Cormic Hill Bashers,F,00:37:41
+35,Gade,Soren,Donmhor Sporting,M,00:38:01
+36,Earle,Paddy,Tinto Hill Runners,M50,00:38:05
+37,Cameron,Gordon,CHR,M50,00:38:22
+38,Forrest,Stuart,HHR,M,00:38:47
+39,Love,Craig,Dundee Hawkhill Harriers [DHH],M,00:38:51
+40,Higginbottom,Jacqui,CHR,F,00:39:13
+41,Farquhar,Douglas,u/a Dunfermline,M,00:39:14
+42,Black,Ian,City of Edinburgh,M,00:39:33
+43,Hawkins,Ian,Fife AC,M,00:39:54
+44,Evans,Siobhan,Forres Harriers,F,00:40:02
+45,Mathews,Steve,DHH,M,00:40:10
+46,Watson,Gordon,DHH,M60,00:40:14
+47,Hassan,Grant,Inverness Harriers [IH],M,00:40:25
+48,Waterhouse,Harry,"Saddleworth, South Australia",M60,00:40:33
+49,Calothis,Marinos,Kinross Road Runners [KRR],M,00:41:01
 50,Sousky,Nadimir,,???,00:41:16
-51,Sircus,Robert,Cairngorm Runners [CR],mj,00:41:21
-52,Grigor,Sandy,CR,mv+50,00:41:21
-53,Hutt,Colin,u/a Grantown on Spey,mv,00:41:36
-54,Harris,Adam,Fife AC,mj,00:41:40
-55,Irvine,Hamish,HHR,mv,00:41:46
-56,Waterhouse,Bob,CHR,mv+60,00:41:48
-57,Shaw,Trevor,Lochtayside,mv,00:41:52
-58,Blair Fish,John,CHR,mv+60,00:41:54
-59,Mackenzie,Sarah,Cosmic,fs,00:41:57
-60,Stankiewic,Rob,"Norham, Berwick",mv+50,00:41:59
-61,Nicoll,Grahame,Tayside Orienteers [TO],mv+50,00:42:11
-62,Donnelly,John,Westerlands,mv,00:42:19
-63,Duncan,David,OHR,mv+50,00:42:21
-64,McLean,Herbie,Lochtayside,mv+60,00:42:22
-65,Scott,Alan,u/a Methlick,ms,00:42:24
-66,Thompson,Fabienne,CH,fv,00:42:29
-67,Connor,Julia,Moorfoot,fs,00:42:30
-68,Turner,David,u/a Perth,mv,00:42:34
-69,Ross,Niall,IH,mj,00:42:37
-70,Hall,James,Badenoch AC [BAC],mv+50,00:42:52
-71,Hamilton,Anita,Cosmic,fv+50,00:42:58
-72,Slimon,Cathy,u/a Laggan,fs,00:43:02
-73,Wilson,Colin,CHR,mv+50,00:43:09
-74,Brennan,Brian,Westies,mv+50,00:43:17
-75,Rogowski,Andreas,KRR,mv,00:43:52
-76,Henderson,David,CR,mv,00:44:01
-77,Bryan,David,East Sutherland,mv,00:44:02
-78,Stewart,David,u/a Aviemore,mv,00:44:09
-79,Paxman,Jim,Dark Peak Fell Runners,mv+50,00:44:52
-80,Sim,Andrew,CH,mv,00:45:04
-81,Ritchie,Hilary,Fife AC,fv,00:45:05
-82,Brunton,Val,Westies,fv,00:45:15
-83,Menhennet,Christine,Westies,fv+50,00:45:30
-84,Spenceley,Julie,u/a Glasgow,fv,00:45:57
-85,Waldie,John,Cornwall AC,mv,00:46:13
-86,Card,Ollie,u/a Farnham,ms,00:46:31
-87,Evans,Ros,Westies,fv+60,00:46:39
-88,Wilson,Joan,CHR,fv+50,00:46:50
-89,Stewar,Elaine,Cosmic,fv+50,00:46:55
-90,Bowie,Tom,Carnegie H,mv+60,00:46:57
-91,Nicoll,Melanie,Lomond Hill Runners,fv,00:47:05
-92,Cameron,James,[BAC],ms,00:47:14
-93,Stickings,Charlotte,Blackheath & Bromley Harriers,fv,00:47:14
-94,Moir,Callum,"Wells City Harriers, Somerset",mj,00:47:23
-95,Macaulay,Alan,Carnegie H,mv+50,00:47:34
-96,Baker,Emma,HBT,fv,00:47:34
-97,Smith,Tilly,Deeside,fv+50,00:47:40
-98,Stewart,James,u/a Roybridge,mv+60,00:47:47
-99,Oliver,David,Deeside,mv+50,00:47:52
-100,Hamilton,Jeff,u/a Newtonmore,mv+50,00:48:03
-101,Legge,Sarah,Fife AC,fv,00:48:15
-102,Reid,Colin,Cosmic,mv,00:48:22
-103,Watson,Michael,u/a Edinburgh,mv,00:48:27
-104,MacDougall,Kenneth,Tinto Hill Runners,ms,00:49:10
-105,Muller,Christian,"Munich, Germany",ms,00:49:23
-106,Linton,Alan,u/a Bridge of Weir,mv,00:49:45
-107,Airlie-Gilbert,Kirsten,HHR,fs,00:50:09
-108,McPherson,Hugh,Tinto Hill Runners,mv+60,00:50:20
-109,Doonan,Kevin,Westies,mv,00:50:29
-110,Bass,Ursula,Deeside,fv,00:50:30
-111,Ross,Iain,IH,mv+50,00:50:36
-112,Love,Charles,DHH,mv+60,00:51:20
-113,Gritton,Stephen,Carnegie H,mv+50,00:51:58
-114,O'Toole,Stuart,,mv,00:52:12
-115,Ryder,Walter,Morpeth Harriers,mv+70,00:52:14
-116,Coltman,Alan,Teviotdale Harriers,mv,00:52:18
-117,Cleghorn,Julie,East Sutherland,fv,00:52:22
-118,Kidmyer,Elaine,Highland Nordic,fv+50,00:52:27
-119,McLeod,Douglas,u/a Hampshire,mv,00:52:54
-120,Craig,Carrie,HBT,fs,00:53:01
-121,Forbes,James,u/a Bearsden,mv,00:53:10
-122,Francis,David,Fife AC,mv+60,00:53:21
-123,Ingham,Cali,CHR,fv+50,00:53:30
-124,Harris,Colin,Wellingborough & Dist. AC,mv,00:54:43
-125,Beckhaus,Kai,Germany,ms,00:54:51
-126,Christie,Ninian,LAC,ms,00:55:42
-127,Fraser,Ronald,Dundee Road Runners,mv,00:55:43
-128,Oliver,Jane,Deeside Runners,fv+50,00:55:49
-129,King,Shelagh,Gala Harriers,fv+50,00:56:01
-130,Paul,Brenda,Westies,fs,00:56:20
-131,Stapley,Tony,Portobello Running Club,mv+60,00:58:06
-132,Whiteford,Anne,Fife AC,fv+50,00:59:00
-133,Crosbie,John,Cairngorm Runners,mv+50,01:00:28
-134,Sircus,Geraldine,Cairngorm Runners,fv+50,01:05:32
-135,Ross,Lee,IH,fv+50,01:05:40
+51,Sircus,Robert,Cairngorm Runners [CR],M16,00:41:21
+52,Grigor,Sandy,CR,M50,00:41:21
+53,Hutt,Colin,u/a Grantown on Spey,M,00:41:36
+54,Harris,Adam,Fife AC,M16,00:41:40
+55,Irvine,Hamish,HHR,M,00:41:46
+56,Waterhouse,Bob,CHR,M60,00:41:48
+57,Shaw,Trevor,Lochtayside,M,00:41:52
+58,Blair Fish,John,CHR,M60,00:41:54
+59,Mackenzie,Sarah,Cosmic,F,00:41:57
+60,Stankiewic,Rob,"Norham, Berwick",M50,00:41:59
+61,Nicoll,Grahame,Tayside Orienteers [TO],M50,00:42:11
+62,Donnelly,John,Westerlands,M,00:42:19
+63,Duncan,David,OHR,M50,00:42:21
+64,McLean,Herbie,Lochtayside,M60,00:42:22
+65,Scott,Alan,u/a Methlick,M,00:42:24
+66,Thompson,Fabienne,CH,F,00:42:29
+67,Connor,Julia,Moorfoot,F,00:42:30
+68,Turner,David,u/a Perth,M,00:42:34
+69,Ross,Niall,IH,M16,00:42:37
+70,Hall,James,Badenoch AC [BAC],M50,00:42:52
+71,Hamilton,Anita,Cosmic,F50,00:42:58
+72,Slimon,Cathy,u/a Laggan,F,00:43:02
+73,Wilson,Colin,CHR,M50,00:43:09
+74,Brennan,Brian,Westies,M50,00:43:17
+75,Rogowski,Andreas,KRR,M,00:43:52
+76,Henderson,David,CR,M,00:44:01
+77,Bryan,David,East Sutherland,M,00:44:02
+78,Stewart,David,u/a Aviemore,M,00:44:09
+79,Paxman,Jim,Dark Peak Fell Runners,M50,00:44:52
+80,Sim,Andrew,CH,M,00:45:04
+81,Ritchie,Hilary,Fife AC,F,00:45:05
+82,Brunton,Val,Westies,F,00:45:15
+83,Menhennet,Christine,Westies,F50,00:45:30
+84,Spenceley,Julie,u/a Glasgow,F,00:45:57
+85,Waldie,John,Cornwall AC,M,00:46:13
+86,Card,Ollie,u/a Farnham,M,00:46:31
+87,Evans,Ros,Westies,F60,00:46:39
+88,Wilson,Joan,CHR,F50,00:46:50
+89,Stewar,Elaine,Cosmic,F50,00:46:55
+90,Bowie,Tom,Carnegie H,M60,00:46:57
+91,Nicoll,Melanie,Lomond Hill Runners,F,00:47:05
+92,Cameron,James,[BAC],M,00:47:14
+93,Stickings,Charlotte,Blackheath & Bromley Harriers,F,00:47:14
+94,Moir,Callum,"Wells City Harriers, Somerset",M16,00:47:23
+95,Macaulay,Alan,Carnegie H,M50,00:47:34
+96,Baker,Emma,HBT,F,00:47:34
+97,Smith,Tilly,Deeside,F50,00:47:40
+98,Stewart,James,u/a Roybridge,M60,00:47:47
+99,Oliver,David,Deeside,M50,00:47:52
+100,Hamilton,Jeff,u/a Newtonmore,M50,00:48:03
+101,Legge,Sarah,Fife AC,F,00:48:15
+102,Reid,Colin,Cosmic,M,00:48:22
+103,Watson,Michael,u/a Edinburgh,M,00:48:27
+104,MacDougall,Kenneth,Tinto Hill Runners,M,00:49:10
+105,Muller,Christian,"Munich, Germany",M,00:49:23
+106,Linton,Alan,u/a Bridge of Weir,M,00:49:45
+107,Airlie-Gilbert,Kirsten,HHR,F,00:50:09
+108,McPherson,Hugh,Tinto Hill Runners,M60,00:50:20
+109,Doonan,Kevin,Westies,M,00:50:29
+110,Bass,Ursula,Deeside,F,00:50:30
+111,Ross,Iain,IH,M50,00:50:36
+112,Love,Charles,DHH,M60,00:51:20
+113,Gritton,Stephen,Carnegie H,M50,00:51:58
+114,O'Toole,Stuart,,M,00:52:12
+115,Ryder,Walter,Morpeth Harriers,M70,00:52:14
+116,Coltman,Alan,Teviotdale Harriers,M,00:52:18
+117,Cleghorn,Julie,East Sutherland,F,00:52:22
+118,Kidmyer,Elaine,Highland Nordic,F50,00:52:27
+119,McLeod,Douglas,u/a Hampshire,M,00:52:54
+120,Craig,Carrie,HBT,F,00:53:01
+121,Forbes,James,u/a Bearsden,M,00:53:10
+122,Francis,David,Fife AC,M60,00:53:21
+123,Ingham,Cali,CHR,F50,00:53:30
+124,Harris,Colin,Wellingborough & Dist. AC,M,00:54:43
+125,Beckhaus,Kai,Germany,M,00:54:51
+126,Christie,Ninian,LAC,M,00:55:42
+127,Fraser,Ronald,Dundee Road Runners,M,00:55:43
+128,Oliver,Jane,Deeside Runners,F50,00:55:49
+129,King,Shelagh,Gala Harriers,F50,00:56:01
+130,Paul,Brenda,Westies,F,00:56:20
+131,Stapley,Tony,Portobello Running Club,M60,00:58:06
+132,Whiteford,Anne,Fife AC,F50,00:59:00
+133,Crosbie,John,Cairngorm Runners,M50,01:00:28
+134,Sircus,Geraldine,Cairngorm Runners,F50,01:05:32
+135,Ross,Lee,IH,F50,01:05:40

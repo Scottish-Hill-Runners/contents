@@ -18,32 +18,32 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Arnott,Neil,Lochaber,M,00:34:51
 18,Gavory,Gerald,France,M,00:34:57
 19,Bannerman,Ross,Highland,M,00:35:21
-20,Murray,Declan,Macclesfield,1st Junior,00:35:22
+20,Murray,Declan,Macclesfield,M16,00:35:22
 21,Pophait,Frank,Fife,M,00:35:38
 22,Bass,Owen,Deeside,M,00:35:50
 23,Larsen,Madslarse,Denmark,M,00:36:11
 24,Macbeth,Niall,Lochaber,M,00:36:15
-25,Maxwell,Fiona,Mourne Runners,1st female,00:36:16
+25,Maxwell,Fiona,Mourne Runners,F,00:36:16
 26,Murray,Rapheal,Macclesfield,M,00:36:16
 27,Clark,Neil,Lochaber,M,00:36:23
 28,Gunn,Tarquin,Lochaber,M,00:36:28
 29,Staugaard,Ulrik,Denmark,M,00:36:33
 30,Macdonald,Alistair,Dundee,M,00:36:43
 31,Kennedy,Ali,Lochaber,M,00:36:55
-32,Scott,Dawn,Lochaber,2nd female,00:37:21
+32,Scott,Dawn,Lochaber,F,00:37:21
 33,Pakkaswaa,Juhana,Finland,M,00:38:22
 34,Bryan-Jones,Gareth,Ochil,M,00:38:38
 35,Maxwell,Bill,Mourne Runners,M,00:38:42
 36,Devlin,Michael,Cairngorm,M,00:38:49
 37,Hall,Jim,Highland,M,00:39:05
-38,Duncan,David,Ochil,V,00:39:33
+38,Duncan,David,Ochil,M,00:39:33
 39,Turner,Ronnie,Lochaber,M,00:39:48
-40,Wilson,Colin,Carnethy,V,00:40:04
+40,Wilson,Colin,Carnethy,M,00:40:04
 41,Sumner,Stuart,Rossendale,M,00:40:19
 42,Murdoch,Raymond,Lochaber,M,00:40:33
 43,Adams,Ian,Lochaber,M,00:40:51
 44,Malcolm,Stuart,Cairngorm,M,00:41:03
-45,Bryan-Jones,Kirsty,Dark Peak,3rd female,00:41:06
+45,Bryan-Jones,Kirsty,Dark Peak,F,00:41:06
 46,Myerscough,Steven,Badenoch Wolves,M,00:41:13
 47,Wardlaw,Eilidh,Hunter Bog Trotters,F,00:41:21
 48,Kingdom,Bob,u/a Glasgow,M,00:41:37
@@ -52,7 +52,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 51,Slimon,Cathy,Laggan,F,00:42:36
 52,Boswell,Roger,u/a Fort William,M,00:42:56
 53,McDonald,Douglas,I.H.,M,00:43:03
-54,Wilson,Joan,Carnethy,FV,00:43:10
+54,Wilson,Joan,Carnethy,F,00:43:10
 55,Schrieber,Jo,Pudsey,F,00:43:24
 56,Smith,Gordon,Lochaber,M,00:43:37
 57,Murray,Barbara,Macclesfield,F,00:43:38
@@ -65,9 +65,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 64,Smithy,Michael,Bingley Harriers,M,00:45:49
 65,Spenceley,Neil,u/a Glasgow,M,00:46:01
 66,Knippenberg,Jonathan,Holland,M,00:46:10
-67,Mackenzie,Sarah,Lochaber,2nd Junior,00:46:12
+67,Mackenzie,Sarah,Lochaber,F16,00:46:12
 68,Ritchie,Michael,Newtonmore shinty,M,00:46:26
-69,Mullender,Bryony,I.H. [Newtonmore],3rd Junior,00:46:36
+69,Mullender,Bryony,I.H. [Newtonmore],F16,00:46:36
 70,Stapley,Tony,Portobello,M60,00:46:38
 71,Smith,Tilly,Deeside,F,00:47:07
 72,Ross,Colin,Lochaber,M,00:47:32

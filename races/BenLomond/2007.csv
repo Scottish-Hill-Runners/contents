@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Peachey,Simon,Carnethy,M,1:08:37
 2,Campbell,Graeme,Highland HR,M,1:12:19
-3,McCall,Andrew,Greenock Glenpark,MU23,1:13:05
+3,McCall,Andrew,Greenock Glenpark,M23,1:13:05
 4,Lockwood,Nimrod,Borrowdale FR,M,1:13:46
 5,Gay,Dan,HBT,M,1:14:57
 6,Richmond,Kenny,Bellahouston RR,M,1:15:31
@@ -40,7 +40,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,Bonnar,William,Unattached,M40,1:28:23
 40,Heron,Gregor,Carnethy,M,1:28:27
 41,Wilson,Stewart,Inverness Harriers,M40,1:28:40
-42,Macrae,Donald,Unattached,MU23,1:29:17
+42,Macrae,Donald,Unattached,M23,1:29:17
 43,Cowper,Stephen,Milburn Harriers,M40,1:29:19
 44,Hepburn,Tommy,Unattached,M50,1:29:48
 45,Johnston,Fergus,Gala Harriers,M,1:29:56

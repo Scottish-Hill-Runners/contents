@@ -1,7 +1,7 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,MacDonald,Gary,Lochaber AC,M,0:33:03
 2,Macdonald,Steve,Lochaber AC,M,0:34:06
-3,Fraser,Callum,Lochaber AC,MJ,0:34:40
+3,Fraser,Callum,Lochaber AC,M16,0:34:40
 4,Gay,Jon,Lochaber AC,M40,0:35:39
 5,Whiteside,Gavin,Highland Hill Runners,M,0:37:29
 6,Gunn,Tarquin,Lochaber AC,M,0:37:39
@@ -25,7 +25,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Ness,Katherine,Lochaber AC,F,0:45:48
 25,Binnie,Gordon,Lochaber AC,M40,0:45:53
 26,Duncan,David,Ochil Hill Runners,M50,0:46:02
-27,MacKay,Isla,Lochaber AC,FJ,0:46:09
+27,MacKay,Isla,Lochaber AC,F16,0:46:09
 28,Burns,Stephen,Lochaber AC,M40,0:46:26
 29,Munro,Gemma,Lochaber AC,F,0:47:22
 30,Ross,Susan Jane,Lochaber AC,F40,0:47:44

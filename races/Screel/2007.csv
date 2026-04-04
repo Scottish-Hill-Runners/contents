@@ -1,47 +1,47 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,McCall,Andrew,Greenock Glenpark Harriers,S,00:31:22
-2,Scotney,Marcus,Shettleston,S,00:31:33
-3,Stevenson,Jamie,Ochil,J,00:32:51
-4,Whitelaw,Mark,Annan & District AC,S,00:32:52
-5,Stevenson,John,Ochil,V40,00:33:07
-6,McLoone,Michael,Greenock Glenpark Harriers,S,00:33:48
-7,Anderson,Adam,Carnethy,S,00:34:21
-8,Flynn,Martin,Moray Runners,V50,00:35:56
-9,Irving,Roger,Annan & District AC,V40,00:36:15
-10,Robinson,Andrew,Clayton-Le-Moors,V50,00:36:22
-11,Brash,Colin,Girvan AC,V40,00:36:45
-12,Milligan,Douglas,Solway RC,V60,00:37:25
-13,Unwin,Richard,Keswick AC,V50,00:38:23
-14,Taylor,Nat,Girvan AC,V50,00:38:35
-15,Murgatroyd,Ian,Solway RC,V40,00:38:43
-16,Patterson,Len,Whisky Chasers,S,00:38:50
-17,Mortlock,Simon,Dumfries RC,V40,00:39:36
-18,Green,Bob,Solway RC,V50,00:39:40
-19,Shiell,Douglas,Carnethy,V40,00:39:59
-20,Frost,Martin,North Shields Poly,V40,00:40:10
-21,Watson,Dan,Annan & District AC,S,00:40:20
-22,Emsley,Nick,Arran Runners,J,00:40:42
-23,Pflanz,Sabastian,Dumfries RC,V40,00:40:48
-24,Wilson,Colin,Carnethy,V40,00:42:46
-25,Marsh,John,Teviotdale,V50,00:43:10
-26,McTaggart,Angus,Gircan AC,V40,00:43:22
-27,Stevenson,Ben,Ochil,J,00:44:12
-28,Davidson,Ian,Girvan AC,V40,00:44:33
-29,Buchanan,Jim,Annan & District AC,V60,00:45:20
-30,Egan,David,Totley AC,V50,00:45:41
-31,Emsley,Paul,Arran Runners,V50,00:45:49
-32,Drain,Alex,Troon Tortoises,V50,00:45:53
-33,Burnett,Martin,U/A,S,00:46:02
-34,Girvan,Andrew,Girvan AC,J,00:46:26
-35,Wilson,Joan,Carnethy,FV40,00:46:30
-36,Patterson,Kenny,U/A,V60,00:46:42
-37,Parker,Craig,U/A,V40,00:47:24
-38,Orr,Johnston,U/A,S,00:47:42
-39,Anderson,Adam,Dumfries RC,V60,00:47:55
-40,McMannus,Ian,Irvine AC,V60,00:49:00
-41,Smtih,Janice,Hunters Bog Trotters,FV50,00:50:55
-42,Robson,Jean,Annan & District AC,FV50,00:52:09
-43,Bennet,Bill,Penicuik,V70,00:52:42
-44,Turnbull,Drew,Westerlands,V60,00:54:08
-45,Goss,Karin,Clayton-Le-Moors,FV50,01:01:11
-46,Trenchard,Peter,Girvan AC,V50,01:10:41
+1,McCall,Andrew,Greenock Glenpark Harriers,M,00:31:22
+2,Scotney,Marcus,Shettleston,M,00:31:33
+3,Stevenson,Jamie,Ochil,M16,00:32:51
+4,Whitelaw,Mark,Annan & District AC,M,00:32:52
+5,Stevenson,John,Ochil,M40,00:33:07
+6,McLoone,Michael,Greenock Glenpark Harriers,M,00:33:48
+7,Anderson,Adam,Carnethy,M,00:34:21
+8,Flynn,Martin,Moray Runners,M50,00:35:56
+9,Irving,Roger,Annan & District AC,M40,00:36:15
+10,Robinson,Andrew,Clayton-Le-Moors,M50,00:36:22
+11,Brash,Colin,Girvan AC,M40,00:36:45
+12,Milligan,Douglas,Solway RC,M60,00:37:25
+13,Unwin,Richard,Keswick AC,M50,00:38:23
+14,Taylor,Nat,Girvan AC,M50,00:38:35
+15,Murgatroyd,Ian,Solway RC,M40,00:38:43
+16,Patterson,Len,Whisky Chasers,M,00:38:50
+17,Mortlock,Simon,Dumfries RC,M40,00:39:36
+18,Green,Bob,Solway RC,M50,00:39:40
+19,Shiell,Douglas,Carnethy,M40,00:39:59
+20,Frost,Martin,North Shields Poly,M40,00:40:10
+21,Watson,Dan,Annan & District AC,M,00:40:20
+22,Emsley,Nick,Arran Runners,M16,00:40:42
+23,Pflanz,Sabastian,Dumfries RC,M40,00:40:48
+24,Wilson,Colin,Carnethy,M40,00:42:46
+25,Marsh,John,Teviotdale,M50,00:43:10
+26,McTaggart,Angus,Gircan AC,M40,00:43:22
+27,Stevenson,Ben,Ochil,M16,00:44:12
+28,Davidson,Ian,Girvan AC,M40,00:44:33
+29,Buchanan,Jim,Annan & District AC,M60,00:45:20
+30,Egan,David,Totley AC,M50,00:45:41
+31,Emsley,Paul,Arran Runners,M50,00:45:49
+32,Drain,Alex,Troon Tortoises,M50,00:45:53
+33,Burnett,Martin,U/A,M,00:46:02
+34,Girvan,Andrew,Girvan AC,M16,00:46:26
+35,Wilson,Joan,Carnethy,F40,00:46:30
+36,Patterson,Kenny,U/A,M60,00:46:42
+37,Parker,Craig,U/A,M40,00:47:24
+38,Orr,Johnston,U/A,M,00:47:42
+39,Anderson,Adam,Dumfries RC,M60,00:47:55
+40,McMannus,Ian,Irvine AC,M60,00:49:00
+41,Smtih,Janice,Hunters Bog Trotters,F50,00:50:55
+42,Robson,Jean,Annan & District AC,F50,00:52:09
+43,Bennet,Bill,Penicuik,M70,00:52:42
+44,Turnbull,Drew,Westerlands,M60,00:54:08
+45,Goss,Karin,Clayton-Le-Moors,F50,01:01:11
+46,Trenchard,Peter,Girvan AC,M50,01:10:41

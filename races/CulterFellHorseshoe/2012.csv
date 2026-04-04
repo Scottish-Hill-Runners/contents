@@ -1,54 +1,54 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fallas,Andy,Carnethy,S,02:07:36
-2,Whitlie,Stuart,Carnethy,V50,02:07:36
-3,Darlow,Tim,Carnethy,S,02:22:18
-4,Gilmore,Ian,Carnethy,S,02:25:46
-5,Love,Craig,Dundee Hawkhill,V40,02:27:32
-6,Fulton,david,HBT,S,02:28:52
-7,Burnett,Neil,Carnethy,V40,02:29:46
-8,Pryde,Gordon,lomond,V50,02:33:05
-9,Bonsor,Helen,Carnethy,FS,02:33:07
-10,O'Neil,Sarah,HBT,FS,02:33:50
-11,Anderson,Russell,Moorfoot Runners,V50,02:37:36
-12,Andersson,Laurie,Lomond,V50,02:39:31
-13,Wardlaw,Elidh,HBT,FS,02:41:17
-14,Mitchell,David,Dundee Hawkhill,V50,02:42:45
-15,Titmuss,Simon,Carnethy,S,02:42:46
-16,Boden,James,HBT,S,02:44:38
-17,Higginbottom,Jacqui,Carnethy,FV40,02:44:48
-18,Cowan,David,Fife AC,V40,02:48:55
-19,Gilmore,Neil,Carnethy,V40,02:50:46
-20,Callander,James,Westerlands,S,02:51:48
-21,Balfour,eddie,Moorfoot Runners,V40,02:53:50
-22,Hammond,John,Carnethy,S,02:54:26
-23,Mattocks,Craig,HBT,S,02:59:08
-24,Jenkins,Kate,HBT,FS,02:59:08
-25,Calothis,Marinos,Kinross Road Runners,V40,03:01:05
-26,Fawthrop,Nigel,Carnethy,V40,03:01:21
-27,Bowie,Tom,Carnegie Harriers,V60,03:05:52
-28,Rubsan,John,ADAC,V50,03:07:09
-29,Lennie,Andrew,Carnethy,V50,03:13:01
-30,Donnelly,John,Westerlands,V40,03:13:49
-31,Lye,Mary,Carnethy,FS,03:17:10
-32,Jones,Matthew,Carnethy,S,03:17:11
-33,Simm,Andrew,Carnegie Harriers,V40,03:18:02
-34,Barry,Racheal,Newhaven Tri Club,FS,03:20:49
-35,Munro,Hesther,Carnethy,FS,03:26:22
-36,Love,charlie,Dundee Hawkhill,V60,03:28:18
-37,Stakes,David,Bellahouston Road Runners,V40,03:33:57
-38,Mass,Digby,Carnethy,V60,03:37:14
-39,Mason,Andrew,u/a,V40,03:44:48
-40,Green,Stephen,Carnegie Harriers,V50,04:00:18
-41,Coyle,Shaun,u/a,S,04:00:23
-42,Hauffe,Birgit,u/a,FS,04:00:45
-43,Hughes,Chris,u/s,S,04:00:46
-44,Gibson,Joe,u/a,S,04:08:43
-45,Noel,Penny,u/a,FS,04:09:29
-46,Price,Ian,u/a,S,04:10:26
-47,Gibson,Willie,Carnethy,V50,04:29:43
-48,Gould,Bill,Carnethy,V70,04:30:09
-49,Mckensie,Becky,Carnethy,FS,04:34:27
-50,Plain,Senga,Carnethy,FV40,04:37:06
-51,Carric,Aurore,Carnethy,FS,04:37:06
-52,Meikle,Karen,Carnethy,FV50,04:37:06
-53,Stewart,Donald,u/a,S,04:57:28
+1,Fallas,Andy,Carnethy,M,02:07:36
+2,Whitlie,Stuart,Carnethy,M50,02:07:36
+3,Darlow,Tim,Carnethy,M,02:22:18
+4,Gilmore,Ian,Carnethy,M,02:25:46
+5,Love,Craig,Dundee Hawkhill,M40,02:27:32
+6,Fulton,david,HBT,M,02:28:52
+7,Burnett,Neil,Carnethy,M40,02:29:46
+8,Pryde,Gordon,lomond,M50,02:33:05
+9,Bonsor,Helen,Carnethy,F,02:33:07
+10,O'Neil,Sarah,HBT,F,02:33:50
+11,Anderson,Russell,Moorfoot Runners,M50,02:37:36
+12,Andersson,Laurie,Lomond,M50,02:39:31
+13,Wardlaw,Elidh,HBT,F,02:41:17
+14,Mitchell,David,Dundee Hawkhill,M50,02:42:45
+15,Titmuss,Simon,Carnethy,M,02:42:46
+16,Boden,James,HBT,M,02:44:38
+17,Higginbottom,Jacqui,Carnethy,F40,02:44:48
+18,Cowan,David,Fife AC,M40,02:48:55
+19,Gilmore,Neil,Carnethy,M40,02:50:46
+20,Callander,James,Westerlands,M,02:51:48
+21,Balfour,eddie,Moorfoot Runners,M40,02:53:50
+22,Hammond,John,Carnethy,M,02:54:26
+23,Mattocks,Craig,HBT,M,02:59:08
+24,Jenkins,Kate,HBT,F,02:59:08
+25,Calothis,Marinos,Kinross Road Runners,M40,03:01:05
+26,Fawthrop,Nigel,Carnethy,M40,03:01:21
+27,Bowie,Tom,Carnegie Harriers,M60,03:05:52
+28,Rubsan,John,ADAC,M50,03:07:09
+29,Lennie,Andrew,Carnethy,M50,03:13:01
+30,Donnelly,John,Westerlands,M40,03:13:49
+31,Lye,Mary,Carnethy,F,03:17:10
+32,Jones,Matthew,Carnethy,M,03:17:11
+33,Simm,Andrew,Carnegie Harriers,M40,03:18:02
+34,Barry,Racheal,Newhaven Tri Club,F,03:20:49
+35,Munro,Hesther,Carnethy,F,03:26:22
+36,Love,charlie,Dundee Hawkhill,M60,03:28:18
+37,Stakes,David,Bellahouston Road Runners,M40,03:33:57
+38,Mass,Digby,Carnethy,M60,03:37:14
+39,Mason,Andrew,u/a,M40,03:44:48
+40,Green,Stephen,Carnegie Harriers,M50,04:00:18
+41,Coyle,Shaun,u/a,M,04:00:23
+42,Hauffe,Birgit,u/a,F,04:00:45
+43,Hughes,Chris,u/s,M,04:00:46
+44,Gibson,Joe,u/a,M,04:08:43
+45,Noel,Penny,u/a,F,04:09:29
+46,Price,Ian,u/a,M,04:10:26
+47,Gibson,Willie,Carnethy,M50,04:29:43
+48,Gould,Bill,Carnethy,M70,04:30:09
+49,Mckensie,Becky,Carnethy,F,04:34:27
+50,Plain,Senga,Carnethy,F40,04:37:06
+51,Carric,Aurore,Carnethy,F,04:37:06
+52,Meikle,Karen,Carnethy,F50,04:37:06
+53,Stewart,Donald,u/a,M,04:57:28

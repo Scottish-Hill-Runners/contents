@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,McCall,Andrew,Greenock Glenpark,MU20,00:30:39
+1,McCall,Andrew,Greenock Glenpark,M20,00:30:39
 2,Scott,Nigel,Westerlands,M,00:31:40
 3,Riach,David,Westerlands,M40,00:31:54
 4,Robertson,Brian,Arran Runners,M40,00:32:02
@@ -20,11 +20,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 19,Mcleod,Murdo,Westerlands,M50,00:36:26
 20,Begley,Tommy,Irvine AC,M,00:36:46
 21,Palmer,Helen,Westerlands,F,00:36:58
-22,McDonald,Ryan,Irvine AC,MU20,00:37:23
+22,McDonald,Ryan,Irvine AC,M20,00:37:23
 23,Reid,Martin,Westerlands,M40,00:37:47
 24,Anderson,Ritchie,Unattached,M40,00:38:00
 25,Dunn,Mick,Greenock Glenpark,M50,00:38:07
-26,Morgan,William,Irvine AC,MU20,00:38:36
+26,Morgan,William,Irvine AC,M20,00:38:36
 27,Wilkinson,Jeremy,Calder Valley,M,00:39:40
 28,Whitehead,Jo,City of Edinburgh,F40,00:40:35
 29,Fraser,Ian,Irvine AC,M40,00:40:45

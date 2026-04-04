@@ -1,30 +1,30 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Strain,Murray,HBT,S M,00:38:49
-2,Wiseman,Bob,Ochil H R,S M,00:39:09
-3,Mooney,Edel,Lothian R.C,S F,00:43:03
-4,Laing,Martin,Fife AC,M v50,00:43:31
-5,Maxwell,Fiona,Shettleston,F v40,00:43:52
-6,Mackenzie,Donald,Lomond Hill Runners,M v40,00:44:36
-7,Ridley,Sue,Edinburgh AC,F v40,00:45:29
-8,Bennet,Sandy,Carnegie H,M v45,00:45:55
-9,Anderson,Iain,-,M v40,00:46:12
-10,Henry,Peter,Deeside Runners,S M,00:47:15
-11,Love,Craig,Dundee H H,S M,00:47:27
-12,Hirst,David,Deeside Runners,M v40,00:47:52
-13,McNulty,Ian,Dundee H H,S M,00:49:54
-14,Hanlon,Dave,Dundee H H,M v50,00:50:16
-15,Strain,Kirsten,Edinburgh Uni,S F,00:50:42
-16,Thompson,Fabienne,Carnegie H,F v40,00:51:46
-17,Fulton,David,Edinburgh Uni,S M,00:51:51
-18,Spenceley,Neil,-,SM,00:51:57
-19,Duncan,David,Ochil H R,M v50,00:52:22
-20,Mackenzie,Ruth,Deeside Runners,F v40,00:52:58
-21,Winton,Simon,Dalmunzie,M v50,00:53:18
-22,Jermieson,Ashley,Cosmic H B,M v50,00:54:03
-23,McLean,Herbie,Lothian R C,M v60,00:55:47
-24,Oliver,David,Deeside Runners,M v50,00:56:51
-25,Love,Charlie,Dundee H H,M v65,00:58:19
-26,Smith,Tilly,Deeside Runners,F v40,01:01:47
-27,Monteith,Deborah,Carnethy,S F,01:03:23
-28,Olliver,Jane,Deeside Runners,F v50,01:04:24
-29,Lemoncello,Phyllis,Fife A C,F 60+,01:08:16
+1,Strain,Murray,HBT,M,00:38:49
+2,Wiseman,Bob,Ochil H R,M,00:39:09
+3,Mooney,Edel,Lothian R.C,F,00:43:03
+4,Laing,Martin,Fife AC,M50,00:43:31
+5,Maxwell,Fiona,Shettleston,F40,00:43:52
+6,Mackenzie,Donald,Lomond Hill Runners,M40,00:44:36
+7,Ridley,Sue,Edinburgh AC,F40,00:45:29
+8,Bennet,Sandy,Carnegie H,M45,00:45:55
+9,Anderson,Iain,-,M40,00:46:12
+10,Henry,Peter,Deeside Runners,M,00:47:15
+11,Love,Craig,Dundee H H,M,00:47:27
+12,Hirst,David,Deeside Runners,M40,00:47:52
+13,McNulty,Ian,Dundee H H,M,00:49:54
+14,Hanlon,Dave,Dundee H H,M50,00:50:16
+15,Strain,Kirsten,Edinburgh Uni,F,00:50:42
+16,Thompson,Fabienne,Carnegie H,F40,00:51:46
+17,Fulton,David,Edinburgh Uni,M,00:51:51
+18,Spenceley,Neil,-,M,00:51:57
+19,Duncan,David,Ochil H R,M50,00:52:22
+20,Mackenzie,Ruth,Deeside Runners,F40,00:52:58
+21,Winton,Simon,Dalmunzie,M50,00:53:18
+22,Jermieson,Ashley,Cosmic H B,M50,00:54:03
+23,McLean,Herbie,Lothian R C,M60,00:55:47
+24,Oliver,David,Deeside Runners,M50,00:56:51
+25,Love,Charlie,Dundee H H,M65,00:58:19
+26,Smith,Tilly,Deeside Runners,F40,01:01:47
+27,Monteith,Deborah,Carnethy,F,01:03:23
+28,Olliver,Jane,Deeside Runners,F50,01:04:24
+29,Lemoncello,Phyllis,Fife A C,F60,01:08:16

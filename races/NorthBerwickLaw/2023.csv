@@ -9,7 +9,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Umpleby,Richie,Carnethy HRC,M,00:23:12
 9,Grant,Christopher,Portobello,M40,00:23:44
 10,Walsh,Chris,HBT,M40,00:23:49
-11,Lawson,Magnus,Team E Lothian AC,MU16,00:23:54
+11,Lawson,Magnus,Team E Lothian AC,M16,00:23:54
 12,Fraser,Andy,NB Runners,M,00:24:21
 13,Kelly,Fraser,Dundee Hawkhill,M,00:24:26
 14,McKane,Neil,Scooniehill RC,M,00:24:26
@@ -17,7 +17,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 16,Valters,Declan,Carnethy HRC,M,00:24:05
 17,Aitken,Anna,Unattached,F,00:25:00
 18,Smith,Gavin,HBT,M40,00:25:06
-19,Pugh,Charlie,Unattached,MU16,00:25:09
+19,Pugh,Charlie,Unattached,M16,00:25:09
 20,Thin,Jamie,HBT,M50,00:25:12
 21,Mckenzie,Mark,Unattached,M,00:25:12
 22,Reid,Toria,NB Runners,F40,00:25:16
@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Taylor,Richard,Unattached,M50,00:25:28
 25,Penfold,Rose,Edinburgh AC,F,00:25:30
 26,O'Donnell,Craig,Dunbar RC,M40,00:25:38
-27,Wright,Cerys,Team E Lothian AC,FU16,00:25:40
+27,Wright,Cerys,Team E Lothian AC,F16,00:25:40
 28,Tennyson,Tim,Unattached,M,00:25:40
 29,Thomson,Angus,Unattached,M40,00:25:44
 30,Hardie,James,Carnethy HRC,M40,00:25:50
@@ -35,7 +35,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 34,Seenan,Brendan,Unattached,M,00:26:11
 35,Wright,Calum,Unattached,M,00:26:17
 36,Frost,Aidan,Unattached,M,00:26:27
-37,Gornall,Thomas,Team E Lothian AC,MU16,00:26:36
+37,Gornall,Thomas,Team E Lothian AC,M16,00:26:36
 38,Han,Andrew,Fulham RC,M40,00:26:36
 39,Dale,Douglas,Unattached,M40,00:26:44
 40,Gilmore,Neil,Carnethy HRC,M60,00:26:48
@@ -45,9 +45,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 44,Tait,Jamie,Unattached,M40,00:27:19
 45,Munro,Daniel,Strathclyde Uni Harriers,M,00:27:22
 46,Hall,Jack,Unattached,M,00:27:23
-47,Fisher,Matthew,Fife AC,MU16,00:27:26
+47,Fisher,Matthew,Fife AC,M16,00:27:26
 48,Burdett,Ian,Haddington,M60,00:27:39
-49,Mclaren,Jamie,Unattached,MU16,00:27:42
+49,Mclaren,Jamie,Unattached,M16,00:27:42
 50,Harfield,John,Unattached,M40,00:28:07
 51,Beaumont,Mark,Unattached,M40,00:28:12
 52,Kinninmonth,Alexander,Carnethy HRC,M40,00:28:15
@@ -81,17 +81,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 80,Stewart,Jamie,Unattached,M40,00:29:14
 81,Thain,Finlay,Unattached,M,00:29:17
 82,Runciman,Ronan,Lauderdale,M,00:29:21
-83,Purves,Ruaridh,Unattached,MU16,00:29:27
+83,Purves,Ruaridh,Unattached,M16,00:29:27
 84,Stable,Charles,Musselburgh,M50,00:29:27
 85,Webster,Isobel,Unattached,F,00:29:30
 86,Agnew,David,Dunfermline T & F,M40,00:29:33
 87,Denholm,Linn,Edinburgh AC,M40,00:29:35
 88,Matthews,David,HBT,M40,00:29:36
-89,Baillie,Lachlan,Team E Lothian AC,MU16,00:29:40
-90,Kemp,Reuben,Unattached,MU16,00:29:49
+89,Baillie,Lachlan,Team E Lothian AC,M16,00:29:40
+90,Kemp,Reuben,Unattached,M16,00:29:49
 91,Molero,Luis,Unattached,M40,00:29:51
 92,Kemp,Ben,Unattached,M50,00:29:54
-93,Pyrkosz,Thomas,Unattached,MU16,00:29:56
+93,Pyrkosz,Thomas,Unattached,M16,00:29:56
 94,Krikke,Teun,Unattached,M,00:29:57
 95,Bailey,Michael,Unattached,M,00:29:59
 96,Murphy,Ruairidh,Unattached,M,00:30:01
@@ -111,12 +111,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 110,Sheldrick,Andrew,Dunbar RC,M50,00:30:51
 111,Malcolm-Smith,Mike,Musselburgh,M50,00:30:53
 112,Newton,Christopher,Unattached,M40,00:30:57
-113,Lawson,Flora,Team E Lothian AC,FU16,00:31:01
+113,Lawson,Flora,Team E Lothian AC,F16,00:31:01
 114,Atkinson,Julie,Lothian RC,F50,00:31:01
 115,Mcdonnell,Clare,Carnethy HRC,F,00:31:05
 116,Abadzhiev,Rosen,Unattached,M,00:31:09
 117,MacLeod,Callum,Unattached,M,00:31:13
-118,Tandy,Rosie,Haddington,FU16,00:31:13
+118,Tandy,Rosie,Haddington,F16,00:31:13
 119,Mcpartland,Frank,Haddington,M60,00:31:19
 120,Self,Michael,Unattached,M,00:31:30
 121,Burt,Robert,Unattached,M40,00:31:32
@@ -124,7 +124,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 123,McCartney,Kenny,Unattached,M50,00:31:36
 124,Murray,James,Unattached,M,00:31:42
 125,Alexander,Jim,Lothian RC,M60,00:31:45
-126,Russell,Sula,Team E Lothian AC,FU16,00:31:48
+126,Russell,Sula,Team E Lothian AC,F16,00:31:48
 127,Mckinley,Norrie,Haddington,M50,00:31:49
 128,Aitken,Mathew,Unattached,M,00:31:51
 129,Gunstone,Chris,Dunbar RC,M60,00:31:51
@@ -137,7 +137,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 136,Nightingale,David,Gala Harriers,M60,00:32:10
 137,Watson,Robin,Unattached,M50,00:32:10
 138,Kitchin,Kate,Ferranti AAC,F40,00:32:18
-139,Pyrkosz,David,Unattached,MU16,00:32:20
+139,Pyrkosz,David,Unattached,M16,00:32:20
 140,Mcbean,Peter,Unattached,M50,00:32:26
 141,Brown,James,Edinburgh Running Network,M40,00:32:26
 142,Hardie,Rob,Unattached,M,00:32:29
@@ -206,7 +206,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 205,Tandy,Karen,Unattached,F40,00:36:50
 206,Burton,Emma,Unattached,F,00:36:50
 207,May,Timothy,Unattached,M60,00:36:58
-208,Davies,Morgen,Unattached,FU16,00:37:05
+208,Davies,Morgen,Unattached,F16,00:37:05
 209,Lawson,Doug,Unattached,M40,00:37:22
 210,Pendreigh,Cathy,Unattached,F,00:37:25
 211,Nicholass-McKee,William,Unattached,M,00:37:25
@@ -233,11 +233,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 232,Hogan,Emma,Unattached,F,00:39:40
 233,Johnston-Smith,Lauren,Edinburgh Running Network,F40,00:40:00
 234,deering,alistair,Unattached,M,00:40:01
-235,Dale,Isla,Unattached,FU16,00:40:07
+235,Dale,Isla,Unattached,F16,00:40:07
 236,Roberts,Karen,Unattached,F,00:40:14
 237,Mackenzie,Fiona,Edinburgh Running Network,F50,00:40:16
 238,Adams,Molly,Unattached,F,00:40:59
-239,Thomson,Catriona,Unattached,FU16,00:41:12
+239,Thomson,Catriona,Unattached,F16,00:41:12
 240,Morrison,Rowan,Unattached,F40,00:41:37
 241,Paterson,Sandy,Unattached,M70,00:41:05
 242,Archibald,Gillian,Unattached,F,00:42:09

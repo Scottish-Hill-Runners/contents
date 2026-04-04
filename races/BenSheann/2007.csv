@@ -1,71 +1,71 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Stevenson,Jamie,Ochil HR,MJ,00:26:16
+1,Stevenson,Jamie,Ochil HR,M16,00:26:16
 2,Smith,Tom,Lochaber,M,00:26:32
 3,Whitehead,Dan,Cosmic HB,M,00:26:33
-4,Fallon,Steven,Carnethy,MV,00:26:35
-5,Stevenson,John,Ochil HR,MV,00:26:53
-6,Crowe,Des,Shettleston,MV,00:26:57
+4,Fallon,Steven,Carnethy,M,00:26:35
+5,Stevenson,John,Ochil HR,M,00:26:53
+6,Crowe,Des,Shettleston,M,00:26:57
 7,Simpson,Stuart,Ochil HR,M,00:27:17
-8,Mudge,Angela,Carnethy,F Record,00:27:37
-9,Smith,Alan,Deeside R,MV,00:27:38
+8,Mudge,Angela,Carnethy,F,00:27:37
+9,Smith,Alan,Deeside R,M,00:27:38
 10,Leslie,Nick,Ochil HR,M,00:28:29
-11,Higginbottom,Mark,Carnethy,MV,00:29:06
+11,Higginbottom,Mark,Carnethy,M,00:29:06
 12,Jack,Ewan,Ochil HR,M,00:29:11
 13,Schmidt,Elke,Bellahouston RR,F,00:29:24
 14,Glencorse,Colin,Strathearn H,M,00:29:29
 15,Ross,Dougal,Bellahouston RR,M,00:29:29
-16,Reid,Don,Westerlands,MV,00:29:46
-17,Murray,David,Ochil HR,MV,00:30:03
-18,Buchanan,Catriona,Central AC,FJ,00:30:17
+16,Reid,Don,Westerlands,M,00:29:46
+17,Murray,David,Ochil HR,M,00:30:03
+18,Buchanan,Catriona,Central AC,F16,00:30:17
 19,Triger,Simon,Westerlands,M,00:30:18
 20,Love,Craig,Dundee HH,M,00:30:20
 21,Walker,Jason,SMC,M,00:30:47
-22,Hulme,Martin,Corstorphine AAC,MSV,00:30:53
+22,Hulme,Martin,Corstorphine AAC,M40,00:30:53
 23,Richards,Caspian,Ochil HR,M,00:31:04
-24,Hall,Simon,N/A,MV,00:31:08
-25,Duncan,David,Ochil HR,MSV,00:31:38
-26,Crowe,Jamie,Dundee HH,MJ,00:31:51
-27,Donnelly,John,Westerlands,MV,00:32:01
-28,Hunter,Andrew,Carnegie H,MV,00:32:07
-29,McCraw,Ron,Ochil HR,MV,00:32:16
-30,MacLeod,Murdo,Westerlands,MSV,00:32:24
-31,Allison,Murray,Ochil HR,MV,00:32:30
+24,Hall,Simon,N/A,M,00:31:08
+25,Duncan,David,Ochil HR,M40,00:31:38
+26,Crowe,Jamie,Dundee HH,M16,00:31:51
+27,Donnelly,John,Westerlands,M,00:32:01
+28,Hunter,Andrew,Carnegie H,M,00:32:07
+29,McCraw,Ron,Ochil HR,M,00:32:16
+30,MacLeod,Murdo,Westerlands,M40,00:32:24
+31,Allison,Murray,Ochil HR,M,00:32:30
 32,Robertson,Derek,Ochil HR,M,00:34:05
-33,Wilson,Colin,Carnethy,MV,00:34:12
-34,Gaughan,Adrian,Milburn H,MV,00:34:22
-35,McGarry,Douglas,Carnegie H,MV,00:34:30
+33,Wilson,Colin,Carnethy,M,00:34:12
+34,Gaughan,Adrian,Milburn H,M,00:34:22
+35,McGarry,Douglas,Carnegie H,M,00:34:30
 36,Penderis,Jaques,Deeside R,M,00:34:32
-37,Brown,Craig,Ochil HR,MV,00:34:36
-38,McLean,Herbie,Lothian,MSV,00:34:36
-39,Bowie,Tom,Fife AC,MSV,00:34:44
-40,Buchanan,Peter,Ochil HR,MV,00:34:50
-41,Bloor,Rob,Shettleston,MV,00:34:57
-42,Galloway,Michael,Dundee HH,MV,00:35:00
+37,Brown,Craig,Ochil HR,M,00:34:36
+38,McLean,Herbie,Lothian,M40,00:34:36
+39,Bowie,Tom,Fife AC,M40,00:34:44
+40,Buchanan,Peter,Ochil HR,M,00:34:50
+41,Bloor,Rob,Shettleston,M,00:34:57
+42,Galloway,Michael,Dundee HH,M,00:35:00
 43,Turner,Judith,Carnegie H,F,00:35:05
-44,Smith,Donald,Westerlands,MSV,00:35:07
-45,Love,Charlie,Dundee HH,MSV,00:35:17
-46,Beyts,Angus,Forfar RR,MSV,00:35:54
-47,O'Brien,Paul,Corstorphine AAC,MV,00:36:00
-48,Johnston,Stephen,Milburn H,MV,00:36:07
-49,Buchanan,Andrina,Central AC,FV,00:36:54
-50,Gatehouse,Richard,Lomond HR,MSV,00:37:28
-51,Lang,James,Carnegie H,MSV,00:37:38
-52,Wilson,Joan,Carnethy,FV,00:37:54
-53,McDonald,Jon,Carnegie H,MV,00:37:56
-54,Fraser,Iain,Irvine AC,MV,00:38:18
-55,Hutchinson,James,Westerlands,MSV,00:38:35
-56,Cromar,Steven,Dundee HH,MSV,00:38:37
-57,Smith,Tilly,Deeside R,FV,00:38:40
-58,Polak,Jo,N/A,FV,00:38:41
-59,King,Alex,Ochil HR,MV,00:38:52
-60,Mitchell,Phyllis,Corstorphine AAC,FV,00:39:55
-61,Johnston,Alistair,N/A,MSV,00:40:04
-62,Taylor,Garry,Carnegie H,MV,00:40:08
-63,Lindsay,Susan,Ochil HR,FV,00:40:14
+44,Smith,Donald,Westerlands,M40,00:35:07
+45,Love,Charlie,Dundee HH,M40,00:35:17
+46,Beyts,Angus,Forfar RR,M40,00:35:54
+47,O'Brien,Paul,Corstorphine AAC,M,00:36:00
+48,Johnston,Stephen,Milburn H,M,00:36:07
+49,Buchanan,Andrina,Central AC,F,00:36:54
+50,Gatehouse,Richard,Lomond HR,M40,00:37:28
+51,Lang,James,Carnegie H,M40,00:37:38
+52,Wilson,Joan,Carnethy,F,00:37:54
+53,McDonald,Jon,Carnegie H,M,00:37:56
+54,Fraser,Iain,Irvine AC,M,00:38:18
+55,Hutchinson,James,Westerlands,M40,00:38:35
+56,Cromar,Steven,Dundee HH,M40,00:38:37
+57,Smith,Tilly,Deeside R,F,00:38:40
+58,Polak,Jo,N/A,F,00:38:41
+59,King,Alex,Ochil HR,M,00:38:52
+60,Mitchell,Phyllis,Corstorphine AAC,F,00:39:55
+61,Johnston,Alistair,N/A,M40,00:40:04
+62,Taylor,Garry,Carnegie H,M,00:40:08
+63,Lindsay,Susan,Ochil HR,F,00:40:14
 64,Halliday,Wendy,N/A,F,00:40:50
-65,Schreiber,Jo,PHP,FV,00:42:26
+65,Schreiber,Jo,PHP,F,00:42:26
 66,Burns,Stuart,N/A,M,00:43:34
 67,Nairns,William,Ochil HR,M,00:43:36
-68,Turnbull,Drew,Westerlands,MSV,00:44:29
+68,Turnbull,Drew,Westerlands,M40,00:44:29
 69,Bell,Janet,N/A,F,00:46:22
 70,Treasurer,Clair,Lochaber,F,00:50:28

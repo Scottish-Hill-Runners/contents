@@ -4,8 +4,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Bell,Carl,Keswick AC,M,02:12:25
 4,Lamb,Mark,Keswick AC,M,02:12:41
 5,Strain,Murray,Hunters Bog Trotters,M,02:13:51
-6,Ferguson,Ted,Borrowdale Fell Runners,MJ,02:16:10
-7,Jardine,Josh,Helm Hill Runners,MJ,02:16:46
+6,Ferguson,Ted,Borrowdale Fell Runners,M16,02:16:10
+7,Jardine,Josh,Helm Hill Runners,M16,02:16:46
 8,Addison,Tom,Helm Hill Runners,M,02:18:14
 9,Donnelly,Morgan,Borrowdale Fell Runners,M40,02:18:16
 10,Alexander,Sam,Westerlands,M,02:18:29
@@ -29,10 +29,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Davies,Jim,Borrowdale Fell Runners,M50,02:26:01
 29,Delsouiller,Brice,Pudsey & Bramley,M,02:26:51
 30,Roberts,Mark,Borrowdale Fell Runners,M50,02:27:43
-31,Saville,Tom,Dark Peak Fell Runners,MJ,02:28:00
+31,Saville,Tom,Dark Peak Fell Runners,M16,02:28:00
 32,Edis,Chris,Keswick AC,M,02:28:26
 33,Malley,Jonny,Ambleside AC,M,02:28:31
-34,Dry,Jonathan,Windsor Slough Eton and Hounslow,MJ,02:29:27
+34,Dry,Jonathan,Windsor Slough Eton and Hounslow,M16,02:29:27
 35,Symonds,Joe,Shettleston Harriers,M,02:29:47
 36,Whitlie,Stewart,Carnethy HRC,M50,02:30:03
 37,Pyke,Stephen,Dark Peak Fell Runners,M50,02:30:17
@@ -50,7 +50,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 49,Lord,Harvey,Black combe,M,02:35:20
 50,Brown,Graeme,Todmorden Harriers,M40,02:35:34
 51,Gay,Dan,Hunters Bog Trotters,M40,02:35:41
-52,Abernethy,Rory,St Andrews university,MJ,02:35:51
+52,Abernethy,Rory,St Andrews university,M16,02:35:51
 53,Brown,Andrew,Norham Running Club,M,02:35:53
 54,Mackie,Peter,Shettleston Harriers,M40,02:35:54
 55,Arthur,Chris,Bowland Fell Runners,M,02:36:10
@@ -58,7 +58,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 57,Wright,Jon,Todmorden Harriers,M40,02:37:02
 58,Steinegger,Karl,Ambleside AC,M,02:37:07
 59,Simpson,Jack,Helm Hill Runners,M,02:37:20
-60,Cope,David,Howgill Harriers,MJ,02:37:24
+60,Cope,David,Howgill Harriers,M16,02:37:24
 61,Tindley,Georgia,Hunters Bog Trotters,F,02:37:48
 62,Roberts,Lou,Ambleside AC,F40,02:37:52
 63,Knox,Thomas,Anster Haddies,M,02:38:22
@@ -82,7 +82,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 81,Rigby,Pete,Unattached,M,02:45:31
 82,Rozga,Grant,Jura AC,M,02:45:46
 83,Macdonald,Diana,Highland Hill Runners,F,02:45:47
-84,Battle,Hamish,Metro Aberdeen Running Club,MJ,02:45:58
+84,Battle,Hamish,Metro Aberdeen Running Club,M16,02:45:58
 85,Baxter,Grant,Ochil Hill Runners,M40,02:46:38
 86,Procter,William,Helm Hill Runners,M60,02:46:43
 87,Kerr,David,Highland Hill Runners,M40,02:46:52
@@ -104,12 +104,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 103,Stuart,Rick,Helm Hill Runners,M50,02:51:20
 104,Hobbs,Paul,Todmorden Harriers,M40,02:52:13
 105,Franklin,Miles,Unattached,M,02:52:23
-106,Russell,Hannah,Helm Hill Runners,FJ,02:52:42
+106,Russell,Hannah,Helm Hill Runners,F16,02:52:42
 107,Gardner,Simon,Westerlands,M,02:53:17
 108,Priestley,Andrea,Ochil Hill Runners,F50,02:53:54
 109,Tonkin,Jacob,Keswick AC,M,02:54:13
 110,Grant,Ben,Harrogate Harriers,M60,02:54:20
-111,Kent,Ben,Helm Hill Runners,MJ,02:54:47
+111,Kent,Ben,Helm Hill Runners,M16,02:54:47
 112,Harrison,Andrew,Preston Harriers,M,02:54:58
 113,Busby,John,Carnethy HRC,M,02:55:13
 114,Wilkinson,Barry,Borrowdale Fell Runners,M50,02:55:16
@@ -150,8 +150,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 149,Rankin,Christina,Kilbarchan,F,03:05:19
 150,James,Mark,Carnethy HRC,M50,03:06:03
 151,Holroyd,Martin,Borrowdale Fell Runners,M50,03:06:14
-152,McDougall,Stephen,University of St Andrews,MJ,03:06:16
-153,McMaster,Alex,Tayforth,MJ,03:06:25
+152,McDougall,Stephen,University of St Andrews,M16,03:06:16
+153,McMaster,Alex,Tayforth,M16,03:06:25
 154,Comber,Ayron,Insch Trail Runners,M40,03:06:38
 155,Soles,David,Pennine Fell Runners,M50,03:06:46
 156,Batt,Elizabeth,Dark Peak Fell Runners,F50,03:06:57
@@ -224,7 +224,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 223,Murray,Tim,Helm Hill Runners,M50,03:24:12
 224,Rigby,Jayne,Helm Hill Runners,F40,03:24:33
 225,Kamarainen,Outi,Ilkley Harriers,F,03:24:49
-226,Bonisteel,Isaac,University of St Andrews,MJ,03:25:26
+226,Bonisteel,Isaac,University of St Andrews,M16,03:25:26
 227,Wilson,John,Falkland Trail Runners,M,03:27:06
 228,Houston,Valerie,Westerlands,F50,03:28:49
 229,Findlay-Robinson,Rachel,Keswick AC,F,03:28:49
@@ -255,7 +255,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 254,Maass,Digby,Carnethy HRC,M60,03:38:12
 255,Menhennet,Christine,Westerlands,F60,03:38:48
 256,Simpson,Heather,Westerlands,F,03:38:51
-257,Scott,Alfie,St Andrews university,MJ,03:39:02
+257,Scott,Alfie,St Andrews university,M16,03:39:02
 258,Henderson,Russell,Unattached,M40,03:39:24
 259,Mackinnon,Fionna,Carnethy HRC,F40,03:40:59
 260,Harding,Caroline,Pudsey & Bramley,F40,03:41:02

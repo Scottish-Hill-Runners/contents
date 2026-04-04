@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Peachey,Simon,Cosmics,M,00:39:57
 2,Brooks,Robert,Cosmics,M,00:42:15
-3,Whitehead,Clare,Cosmics,F Record,00:43:00
+3,Whitehead,Clare,Cosmics,F,00:43:00
 4,Smith,Alan,Deeside Runners,M40,00:43:43
 5,Henry,Peter,Deeside Runners,M,00:43:44
 6,Ingram,Barry,Metro Aberdeen,M,00:45:21
@@ -42,6 +42,6 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Larmour,Pauline,Cosmics,F40,01:03:18
 42,Shanks,Iain,Stonehaven Running Club,M,01:06:26
 43,Gordon,Ruth,Stonehaven Running Club,F,01:06:47
-44,Reid,Conor,Fleet Feet,MU18,01:06:47
+44,Reid,Conor,Fleet Feet,M18,01:06:47
 45,O'Sullivan,Sarah,Cosmics,F,01:12:02
 46,McKay,Alfie,Cosmics,M50,01:15:30

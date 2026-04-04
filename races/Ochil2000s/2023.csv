@@ -60,7 +60,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 59,Roberts,Grant,EK Fitness,M,04:10:30
 60,McCartney,Cameron,Ochil Hill Runners,M,04:11:55
 61,Adams,David,Unattached,M40,04:12:29
-62,Patton,Ellen,Dark Peak FR,FU23,04:12:33
+62,Patton,Ellen,Dark Peak FR,F23,04:12:33
 63,Vassallo,Alexander,Dundee Hawkhill,M,04:12:37
 64,Strachan,Andrew,Westerlands CCC,M,04:18:01
 65,Ashworth,James,Ochil Hill Runners,M50,04:18:23
@@ -76,14 +76,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 75,Ball,Duncan,Penicuik Harriers,M60,04:23:12
 76,Reid,Don,Westerlands CCC,M65,04:23:27
 77,Smith,Matthew,Forth Valley Orienteers,M55,04:24:01
-78,Reid,Lewis,Strathclyde Uni MC,MU23,04:24:17
+78,Reid,Lewis,Strathclyde Uni MC,M23,04:24:17
 79,Tullie,John,Teviotdale Harriers,M65,04:24:38
 80,Dick,Iain,Unattached,M,04:25:15
 81,Hughes,Dominic,Dundee RR,M,04:25:22
 82,McCahill,Emma,Westerlands CCC,F,04:29:50
 83,Dudchenko,Paul,Linlithgow AC,M55,04:32:02
 84,Wilson,Malcolm,Westerlands CCC,M,04:33:17
-85,Cavanagh,Patrick,University of Aberdeen AC,MU23,04:33:46
+85,Cavanagh,Patrick,University of Aberdeen AC,M23,04:33:46
 86,Macbeth,Gaby,Westerlands CCC,F40,04:35:44
 87,Tirbooman,Alice,Westerlands CCC,F,04:36:31
 88,Bowman,Clive,Perth Road Runners,M50,04:37:48
@@ -128,7 +128,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 127,McClymont,Jack,Unattached,M,05:39:46
 128,Hunter,Craig,Unattached,M,05:40:00
 129,Dick,Paul,Pitreavie AAC,M40,05:42:32
-130,Asimaki,Zoe,Ochil Hill Runners,FU23,05:44:16
+130,Asimaki,Zoe,Ochil Hill Runners,F23,05:44:16
 131,Kirkpatrick,Elspeth,EK Fitness,F50,05:45:19
 132,Dunn,Sandy,EK Fitness,M65,05:45:20
 133,Heffernan,Emer,Unattached,F,05:45:41

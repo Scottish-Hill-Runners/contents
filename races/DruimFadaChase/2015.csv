@@ -2,7 +2,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Burns,Stephen,Lochaber AC,M40,00:50:02
 2,Bossard,Michael,Lochaber AC,M,00:50:33
 3,Mattocks,Craig,Gala Harriers,M40,00:51:30
-4,Burns Jnr,Steven,Lochaber AC,MU23,00:51:54
+4,Burns Jnr,Steven,Lochaber AC,M23,00:51:54
 5,Traill,Steven,Lochaber AC,M,00:53:54
 6,Gay,Jon,Lochaber AC,M40,00:53:55
 7,Donnelly,Aidan,Lochaber AC,M,00:53:59
@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Connolly,Michael,Lochaber AC,M60,01:01:19
 25,Blackhall,Amanda,Lochaber AC,F40,01:01:32
 26,Weir,Jonathan,Unattached,M,01:01:47
-27,MacLean,Bruce,Lochaber AC,MU23,01:02:00
+27,MacLean,Bruce,Lochaber AC,M23,01:02:00
 28,Forster,Damian,Lochaber AC,M40,01:03:02
 29,MacLeod,Allan,Unattached,M40,01:03:42
 30,Kyle,Phil,Lochaber AC,M50,01:04:00

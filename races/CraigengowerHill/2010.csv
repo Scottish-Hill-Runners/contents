@@ -1,19 +1,19 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Cherry,Alan,Ayr Seaforth,MS,00:16:28
-2,Glencorse,Colin,Strathearn Harriers,MS,00:17:37
-3,Ducrot,Mayeul,Ayr Seaforth,MS,00:18:05
+1,Cherry,Alan,Ayr Seaforth,M,00:16:28
+2,Glencorse,Colin,Strathearn Harriers,M,00:17:37
+3,Ducrot,Mayeul,Ayr Seaforth,M,00:18:05
 4,Targett,Paul,Fell Ponies,M40,00:18:20
 5,Reid,Don,Westerlands,M50,00:20:07
 6,Begley,Tommy,Irvine A.C.,M40,00:20:47
-7,Limond,William,Unattached,MJ,00:21:32
-8,Bryden,Stuart,Unattached,MS,00:21:38
-9,McIntosh,Toni,Ayr Seaforth,FS,00:21:55
+7,Limond,William,Unattached,M16,00:21:32
+8,Bryden,Stuart,Unattached,M,00:21:38
+9,McIntosh,Toni,Ayr Seaforth,F,00:21:55
 10,Cherry,Bob,Ayr Seaforth,M50,00:22:22
 11,Downie,Timothy,Troon Tortoises,M50,00:22:30
 12,Littlejohn,Alan,Unattached,M40,00:22:40
 13,Drain,Alex,Troon Tortoises,M50,00:23:01
 14,McNee,Ian,Troon Tortoises,M50,00:23:08
-15,Paton,Ross,Unattached,MJ,00:23:12
+15,Paton,Ross,Unattached,M16,00:23:12
 16,Davidson,Iain,Girvan,M50,00:23:33
 17,Noble,Anne,Troon Tortoises,F50,00:23:58
 18,Taylor,Andy,Unattached,M50,00:24:09

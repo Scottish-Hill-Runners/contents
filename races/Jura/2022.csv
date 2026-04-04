@@ -25,7 +25,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 24,Burley,Mark,Macclesfield Harriers,M,04:07:40
 25,Peace,Andrew,Bingley Harriers & AC,M50,04:08:27
 26,Millar,Jack,Ambleside AC,M,04:08:27
-27,Holroyd,Matthew,Settle Harriers,MU23,04:09:10
+27,Holroyd,Matthew,Settle Harriers,M23,04:09:10
 28,Ward,Dave,Pennine Fell Runners,M40,04:09:21
 29,Redvers-Harris,Jack,Pennine Fell Runners,M,04:09:50
 30,Green,Sam,Wharfedale Harriers,M,04:10:01
@@ -41,7 +41,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 40,McVey,Alex,Carnethy,M,04:19:48
 41,Halcrow,Bryony,Ambleside AC,F,04:22:09
 42,Farnell,Joe,Totley AC,M,04:22:40
-43,Reid,Lewis,Unattached,MU23,04:24:16
+43,Reid,Lewis,Unattached,M23,04:24:16
 44,Fletcher,Rob,Jura AC,M40,04:28:43
 45,Green,Robert,Achille Ratti CC,M,04:29:41
 46,Bladon,Andrew,Carnethy,M,04:32:18
@@ -95,7 +95,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 94,Jones,Stephen,Eryri Harriers,M60,05:13:24
 95,Williams,Leah,Loughborough Students AC,F,05:14:01
 96,Masters,Jim,Cumberland FR,M40,05:15:23
-97,MacMillan,Jura,Jura AC,FU23,05:16:07
+97,MacMillan,Jura,Jura AC,F23,05:16:07
 98,Soles,David,Pennine Fell Runners,M50,05:16:33
 99,Thomson,Iain,Lomonds,M40,05:17:22
 100,Sykes,Dave,Dark Peak,M40,05:17:40

@@ -1,26 +1,26 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,McIntryre,Andy,unaffiliated,male 40+,00:23:45
-2,Anderson,Adam,Carnethy Hill Runners,male 40+,00:24:51
-3,Ducrot,Mayeul,Ayr Seaforth,senior male,00:25:03
-4,Bark,Ross,Girvan AAC,senior male,00:25:30
-5,Stephen,Noble,unaffiliated,senior male,00:26:41
-6,Reid,Don,Westerlands,male 50+,00:26:50
-7,Upston,Chris,Westerlands,male 40+,00:26:55
-8,Hill Stirling,Louise,Girvan AAC,Senior Female,00:29:33
-9,Murphy,Craig,Girvan AAC,male 40+,00:29:37
-10,McIntosh,Toni,Ayr Seaforth,Senior Female,00:29:41
-11,Hamilton,Gordon,Girvan AAC,senior male,00:30:04
-12,McCulloch,Tom,Ayr Seaforth,male 50+,00:30:48
-13,Davidson,Iain,Girvan AAC,male 40+,00:31:36
-14,McNee,Ian,Troon Tortoises,male 50+,00:32:29
-15,Drain,Alex,Troon Tortoises,male 50+,00:33:12
-16,Schrieber,Jo,Girvan AAC,vet female,00:33:19
-17,MacDougall,Ken,Tinto Hill Runners,senior male,00:34:25
-18,Noble,Ann,Troon Tortoises,vet female,00:35:50
-19,McManus,Ian,Irvine Athletic Club,male 60+,00:41:40
-20,Landsborough,Cameron,unaffiliated,senior male,00:53:16
-21,Queen,Niko,unaffiliated,senior male,00:53:16
-22,Noble,Katie,unaffiliated,Senior Female,00:54:15
-23,Ross,Adam,unaffiliated,senior male,00:58:58
-24,Gentle,Laura,unaffiliated,Senior Female,01:05:11
-25,Noble,Alastair,Girvan AAC,male 50+,01:05:11
+1,McIntryre,Andy,unaffiliated,M40,00:23:45
+2,Anderson,Adam,Carnethy Hill Runners,M40,00:24:51
+3,Ducrot,Mayeul,Ayr Seaforth,M40,00:25:03
+4,Bark,Ross,Girvan AAC,M40,00:25:30
+5,Stephen,Noble,unaffiliated,M40,00:26:41
+6,Reid,Don,Westerlands,M50,00:26:50
+7,Upston,Chris,Westerlands,M40,00:26:55
+8,Hill Stirling,Louise,Girvan AAC,F40,00:29:33
+9,Murphy,Craig,Girvan AAC,M40,00:29:37
+10,McIntosh,Toni,Ayr Seaforth,F40,00:29:41
+11,Hamilton,Gordon,Girvan AAC,M40,00:30:04
+12,McCulloch,Tom,Ayr Seaforth,M50,00:30:48
+13,Davidson,Iain,Girvan AAC,M40,00:31:36
+14,McNee,Ian,Troon Tortoises,M50,00:32:29
+15,Drain,Alex,Troon Tortoises,M50,00:33:12
+16,Schrieber,Jo,Girvan AAC,F40,00:33:19
+17,MacDougall,Ken,Tinto Hill Runners,M40,00:34:25
+18,Noble,Ann,Troon Tortoises,F40,00:35:50
+19,McManus,Ian,Irvine Athletic Club,M60,00:41:40
+20,Landsborough,Cameron,unaffiliated,M40,00:53:16
+21,Queen,Niko,unaffiliated,M40,00:53:16
+22,Noble,Katie,unaffiliated,F40,00:54:15
+23,Ross,Adam,unaffiliated,M40,00:58:58
+24,Gentle,Laura,unaffiliated,F40,01:05:11
+25,Noble,Alastair,Girvan AAC,M50,01:05:11

@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Prasad,Prasad,Clydesdale Harriers,M Record,01:05:51
-2,Simpson,Robbie,Deeside Runners,MU23,01:08:06
+1,Prasad,Prasad,Clydesdale Harriers,M,01:05:51
+2,Simpson,Robbie,Deeside Runners,M23,01:08:06
 3,Chepelin,Oleg,Shettleston,M,01:10:46
 4,Marshall,Brian,HELP,M40,01:11:16
 5,Peachey,Simon,Cosmics,M,01:12:29
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Thompson,Paul,Helensburgh AAC,M50,01:20:43
 29,Smith,Bruce,Carnethy,M40,01:20:57
 30,Breckenridge,Bill,Shettleston,M40,01:21:05
-31,Buchanan,Catriona,Ochil Hill Runners,FU23,01:21:24
+31,Buchanan,Catriona,Ochil Hill Runners,F23,01:21:24
 32,Laing,Martin,Fife AC,M50,01:21:36
 33,Theaker,Damien,Helensburgh AAC,M50,01:21:54
 34,O`Brien,Christopher,Corstorphine,M,01:22:04

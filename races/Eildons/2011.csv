@@ -9,7 +9,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 8,Faulkner,Paul,Carnethy,M,0:30:11
 9,Morgan,Casey,Shettleston Harriers,M,0:30:37
 10,Manners,Will,Strathearn Harriers,M40,0:30:50
-11,Waldie,James,HBT,MU23,0:30:59
+11,Waldie,James,HBT,M23,0:30:59
 12,Naylor,Donald,HBT,M,0:31:02
 13,Rawlinson,Stephen,Lochtayside,M,0:31:10
 14,Stewart,Iain,Westerlands,M,0:31:14
@@ -21,7 +21,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 20,Dougal,Darin,Moorfoot Runners,M40,0:31:46
 21,Whitehead,Clare,Deeside Runners,F,0:31:54
 22,Davis,Adrian,Lomond Hill Runners,M40,0:31:56
-23,Parrish,David,Dumfries RC,MU23,0:31:57
+23,Parrish,David,Dumfries RC,M23,0:31:57
 24,Deason,Michael,Shettleston Harriers,M,0:31:59
 25,Winter,Stephen,Shettleston Harriers,M,0:32:04
 26,Smith,Alan,Deeside Runners,M50,0:32:16
@@ -34,9 +34,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Gallagher,Ronnie,Carnethy,M50,0:33:09
 34,Johnston,Mark,Carnethy,M,0:33:11
 35,MacLean,Paul,Lochaber AC,M,0:33:22
-36,Buchanan,Catriona,Ochil Hill Runners,FU23,0:33:26
+36,Buchanan,Catriona,Ochil Hill Runners,F23,0:33:26
 37,Ward,Adam,Carnethy,M50,0:33:40
-38,Rankin,Christina,Kilbarchan,FU23,0:33:50
+38,Rankin,Christina,Kilbarchan,F23,0:33:50
 39,Beard,Nathan,Gala Harriers,M,0:33:56
 40,Taylor,Jonathan,Borders Triathletes,M,0:34:03
 41,Hill,Sinclair,Gala Harriers,M40,0:34:16
@@ -57,7 +57,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 56,Wild,Mike,HBT,M,0:35:48
 57,Haywood,Michael,Gala Harriers,M,0:35:54
 58,Cameron,Gordon,Carnethy,M50,0:35:55
-59,Breckenridge,Archie,Shettleston Harriers,MU18,0:36:07
+59,Breckenridge,Archie,Shettleston Harriers,M18,0:36:07
 60,Pryde,Gordon,Lomond Hill Runners,M50,0:36:10
 61,Runciman,George,Lauderdale Limpers,M50,0:36:11
 62,McCall,Colin,Gala Harriers,M,0:36:13
@@ -75,22 +75,22 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 74,Turnbull,Les,Norham RC,M50,0:36:54
 75,Flett,Rob,HBT,M40,0:36:54
 76,Fraser,Billy,Northumberland FR,M50,0:37:03
-77,Gilmore,Andrew,Highland Hill Runners,MU23,0:37:04
+77,Gilmore,Andrew,Highland Hill Runners,M23,0:37:04
 78,Simpson,Peter,Carnegie Harriers,M50,0:37:06
 79,Clelland,Steven,Shettleston Harriers,M,0:37:10
-80,Gilmore,Iain,Carnethy,MU18,0:37:20
+80,Gilmore,Iain,Carnethy,M18,0:37:20
 81,Mitchell,Dave,Dundee Hawkhill,M40,0:37:26
 82,Daly,Paul,Gala Harriers,M40,0:37:32
 83,McGill,Alison,PH Racing,F,0:37:38
 84,Oldham,Veronique,Cosmics,F40,0:37:38
 85,Blair-Fish,John,Carnethy,M60,0:37:48
-86,Evans,Neah,Westerlands,FU23,0:37:48
+86,Evans,Neah,Westerlands,F23,0:37:48
 87,Diver,Michael,Clydesdale Harriers,M40,0:37:57
-88,Breckenridge,Jock,Shettleston Harriers,MU18,0:37:58
+88,Breckenridge,Jock,Shettleston Harriers,M18,0:37:58
 89,Nightingale,David,Gala Harriers,M50,0:38:03
 90,Reid,Colin,Carnegie Harriers,M40,0:38:13
 91,Gilmore,Neil,Carnethy,M40,0:38:24
-92,Magowan,Jonathan,Unattached,MU18,0:38:28
+92,Magowan,Jonathan,Unattached,M18,0:38:28
 93,Craig,Neil,Lauderdale Limpers,M50,0:38:28
 94,McCulloch,William,Gala Harriers,M50,0:38:35
 95,Milligan,Douglas,Solway,M60,0:38:38
@@ -100,7 +100,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 99,Brydon,Derrick,Gala Harriers,M40,0:38:54
 100,Davie,Kevin,Carnegie Harriers,M,0:39:03
 101,Nash,Paul,Carnethy,M,0:39:05
-102,Maxwell,Kirstin,Gala Harriers,FU23,0:39:07
+102,Maxwell,Kirstin,Gala Harriers,F23,0:39:07
 103,Lynch,Mike,Carnethy,M40,0:39:11
 104,Hulme,Martin,Corstorphine,M60,0:39:18
 105,Brannan,Tosh,Lothian,M50,0:39:34
@@ -128,7 +128,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 127,Strassburg,Niko,Running Stones Asterstein,M40,0:41:05
 128,Hamilton,Anita,Cosmics,F50,0:41:05
 129,Wilson,Alison,Gala Harriers,F40,0:41:08
-130,Campbell,Alex,Moorfoot Runners,FU23,0:41:13
+130,Campbell,Alex,Moorfoot Runners,F23,0:41:13
 131,Burt,Louise,Fife AC,F40,0:41:13
 132,Thompson,Paul,Harmeny AC,M40,0:41:15
 133,Allan,Geoff,Carnethy,M40,0:41:22
@@ -151,7 +151,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 150,Whitehead,Jonathan,Carnethy,M50,0:42:53
 151,Lennie,Andrew,Carnethy,M50,0:42:55
 152,Evans,Ros,Westerlands,F60,0:43:08
-153,Magowan,Ben,Unattached,MU18,0:43:10
+153,Magowan,Ben,Unattached,M18,0:43:10
 154,Shepherd,Fiona,Borders Triathletes,F40,0:43:10
 155,Rutherford,Craig,Norham RC,M,0:43:39
 156,Macaulay,Allan,Carnegie Harriers,M50,0:43:40
@@ -188,10 +188,10 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 187,Bass,Ursula,Deeside Runners,F40,0:47:23
 188,Scott,Elspeth,Westerlands,F40,0:47:30
 189,Oliver,Jane,Deeside Runners,F50,0:47:30
-190,Aynsley,William,Unattached,MU18,0:47:41
+190,Aynsley,William,Unattached,M18,0:47:41
 191,Smith,Janice,HBT,F50,0:47:45
 192,Tar,Kata,HBT,M,0:47:51
-193,Breckenridge,Myrtle,Shettleston Harriers,FU18,0:48:01
+193,Breckenridge,Myrtle,Shettleston Harriers,F18,0:48:01
 194,Ursitti,Clara,Shettleston Harriers,F40,0:48:09
 195,Wright,Andrew,Fife AC,M60,0:48:16
 196,Moss,Stephanie,Carnethy,F,0:48:31

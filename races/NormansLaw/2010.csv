@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Martin,Christopher,St. Andrews Uni.,M,0:35:38
 18,Rees,Halina,Fife AC,F15,0:35:43
 19,Rees,Roger,Fife AC,M40,0:35:44
-20,Knox,Thomas,Anster Haddies,MU20,0:35:50
+20,Knox,Thomas,Anster Haddies,M20,0:35:50
 21,Clarke,Daniel,Liverpool Harriers,M,0:36:03
 22,Murray,Alan,Ochil Hill Runners,M45,0:36:12
 23,MacEwan,John,Ochil Hill Runners,M40,0:36:34
@@ -27,7 +27,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 26,Duncan,Andrew,Fife AC,M,0:36:53
 27,Martin,Tony,Fife AC,M55,0:37:04
 28,Buchannan,Peter,Ochil Hill Runners,M50,0:37:10
-29,Hutson,Liam,Fife AC,MU20,0:37:14
+29,Hutson,Liam,Fife AC,M20,0:37:14
 30,Roberts,Clive,Unattached,M50,0:37:16
 31,Lowe,John,Anster Haddies,M40,0:37:19
 32,Tibbs,Jack,Unattached,M,0:37:38
@@ -73,7 +73,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 72,Martin,Alec,Unattached,M,0:42:38
 73,Lindsay,Susan,Ochil Hill Runners,F40,0:42:41
 74,Smith,Brian,Fife AC,M50,0:42:41
-75,Graham,Robyn,Fife AC,FJ,0:42:49
+75,Graham,Robyn,Fife AC,F16,0:42:49
 76,Ward,Claire,HBT,F,0:43:28
 77,Scott,Jocelyn,Fife AC,F55,0:43:36
 78,Keenlyside,John,Fife AC,M55,0:43:48

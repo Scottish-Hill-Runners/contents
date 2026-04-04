@@ -44,7 +44,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 43,Henderson,Jack,Edinburgh Uni H&H,M,00:23:25
 44,Houston,Val,Westerlands,M50,00:23:27
 45,Hughes,Ian,Calderglen Harriers,M40,00:23:28
-46,Campbell,Callum,Corstorphine,MU20,00:23:29
+46,Campbell,Callum,Corstorphine,M20,00:23:29
 47,Wheeler,Mark,Hamilton Harriers,M,00:23:30
 48,Gray,Euan,Lochaber AC,M,00:23:32
 49,Philips,Andrew,Unattached,M,00:23:33
@@ -100,7 +100,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 99,Johnston,Simon,Unattached,M,00:30:49
 100,Bowman,Jean,Lomond Hill Runners,F50,00:30:55
 101,Huang,Dessie,Carnethy,M,00:31:00
-102,Burns,Euan,Carnethy,MU20,00:31:05
+102,Burns,Euan,Carnethy,M20,00:31:05
 103,Strain,Sheila,HBT,F60,00:33:33
 104,Ingham,Cali,Carnethy,F60,00:33:35
 105,Nabucet,Pauline,Unattached,F,00:37:00

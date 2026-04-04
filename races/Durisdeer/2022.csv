@@ -2,7 +2,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,01:23:20
 2,Lennon,Eoin,Carnethy Hill Racing Club,M,01:30:09
 3,Elkington,Matthew,Ambleside AC,M,01:30:13
-4,Bolton,Harry,Keswick AC,MU23,01:30:13
+4,Bolton,Harry,Keswick AC,M23,01:30:13
 5,Masson,Alistair,Carnethy Hill Racing Club,M,01:30:37
 6,Lamb,Mark,Keswick AC,M,01:30:53
 7,Gollan,Ross,Shettleston Harriers,M,01:31:03
@@ -14,12 +14,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Halsall,Steve,Keswick AC,M,01:34:35
 14,Callan,Thomas,Westerlands CCC,M,01:34:43
 15,Worster,Andrew,Calder Valley Fell Runners,M,01:34:45
-16,Wilson,Felix,Carnethy Hill Racing Club,MU23,01:35:39
+16,Wilson,Felix,Carnethy Hill Racing Club,M23,01:35:39
 17,Kay,Darren,Calder Valley Fell Runners,M50,01:35:48
 18,Dry,Dan,Shettleston Harriers,M,01:36:04
 19,Mulholland,Gavin,Calder Valley Fell Runners,M50,01:36:48
 20,Faulkner,Paul,Carnethy Hill Racing Club,M40,01:36:58
-21,Collier,Jake,Keswick AC,MU23,01:38:25
+21,Collier,Jake,Keswick AC,M23,01:38:25
 22,Richmond,Kenny,Helm Hill Runners,M50,01:38:43
 23,Stewart,Gregor,Westerlands CCC,M,01:39:09
 24,Davis,Andrew,Ochil Hill Runners,M40,01:39:21
@@ -34,7 +34,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 33,Reid,Michael,Carnethy Hill Racing Club,M40,01:42:48
 34,Godsman,Shaun,Calder Valley Fell Runners,M40,01:43:49
 35,Luetchford,Alex,HBT,M,01:44:39
-36,Oldfield,Ifan,Edinburgh Uni H&H,MU23,01:45:38
+36,Oldfield,Ifan,Edinburgh Uni H&H,M23,01:45:38
 37,Gallacher,Craig,Westerlands CCC,M,01:45:43
 38,Ainsworth,Michael,Helm Hill Runners,M40,01:46:02
 39,Cox,Andrew,Moorfoot Runners,M40,01:46:08
@@ -73,7 +73,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 72,Dyer,Jacob,Helm Hill Runners,M50,01:58:08
 73,Downs,Rob,Cheshire Hill Racers,M55,01:58:09
 74,Finch,Tom,Westerlands CCC,M,01:58:59
-75,Anderson,Darroch,Unattached,MU23,01:59:11
+75,Anderson,Darroch,Unattached,M23,01:59:11
 76,Anderson,Micky,Unattached,M55,01:59:06
 77,Pilling,Rachel,Pudsey & Bramley AC,F,01:59:31
 78,Smith,Alan,Deeside Runners,M60,01:59:35

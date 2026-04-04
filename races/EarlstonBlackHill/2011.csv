@@ -1,9 +1,9 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Grieve,Craig,Teviotdale,1st M,00:35:03
-2,Bates,John,Unattached,1st Local,00:35:26
+1,Grieve,Craig,Teviotdale,M,00:35:03
+2,Bates,John,Unattached,M,00:35:26
 3,Murray,Keith,Teviotdale,M50,00:36:02
 4,Jardine,Euan,Gala Harriers,M,00:36:11
-5,Gallagher,Ronnie,Lauderdale Limpers,1st Lauderdale,00:36:29
+5,Gallagher,Ronnie,Lauderdale Limpers,M,00:36:29
 6,Hill,Sinclair,Gala Harriers,M,00:36:55
 7,Taylor,Jonathan,Borders Triathletes,M,00:37:06
 8,McCann,Colin,Gala Harriers,M,00:37:21
@@ -14,7 +14,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Fraser,Bill,Northumberland Fell Runners,M,00:38:44
 14,Runciman,George,Lauderdale Limpers,M50,00:38:49
 15,Rooney,Edmund,Lauderdale Limpers,M,00:38:57
-16,Maxwell,Kirsty,Gala Harriers,1st F,00:39:02
+16,Maxwell,Kirsty,Gala Harriers,F,00:39:02
 17,McCulloch,William,Gala Harriers,M,00:39:08
 18,Lunn,Anthony,Gala Harriers,M,00:39:21
 19,Fagan,Rachel,Gala Harriers,F,00:39:35
@@ -47,7 +47,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 46,Cass,Sandy,Lauderdale Limpers,M,00:48:42
 47,Macdougall,Ken,Tinto Hill Runners,M,00:49:25
 48,Keefe,Caroline,Unattached,F,00:49:38
-49,Knox,Bill,Teviotdale,V,00:49:45
+49,Knox,Bill,Teviotdale,M,00:49:45
 50,Hugill,Elizabeth,HBT,F,00:50:07
 51,Moffat,Julie,Portobello,F,00:50:11
 52,Miller,Fiona,Jog Selkirk,F,00:51:47

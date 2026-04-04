@@ -33,7 +33,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Duncan,Patrick,Stonehaven Running Club,M,00:33:08
 33,McDonald,Fiona,Cosmic Hillbashers,F,00:33:10
 34,Ingram,Richard,Cosmic Hillbashers,M40,00:33:13
-35,Oldham,Kirsty,Unattached,FU16,00:00:33
+35,Oldham,Kirsty,Unattached,F16,00:00:33
 36,Bryce,Rebecca,Stonehaven Running Club,F,00:33:39
 37,Newman,Miles,Deeside Runners,M50,00:33:50
 38,More,Dave,Metro Aberdeen RC,M40,00:34:17
@@ -42,7 +42,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Mardall,Lina,Deeside Runners,F50,00:34:54
 42,Muir,David,Unattached,M40,00:35:13
 43,Morgan,Neil,Cosmic Hillbashers,M40,00:35:40
-44,Clark,Liam,Unattached,MU18,00:35:44
+44,Clark,Liam,Unattached,M18,00:35:44
 45,Reid,Colin,Cosmic Hillbashers,M40,00:35:59
 46,Watters,Dee,Stonehaven Running Club,F,00:36:05
 47,Milne,Ronald,Forfar Road Runners,M60,00:36:13

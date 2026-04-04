@@ -7,14 +7,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 6,Kelly,Fraser,Dundee Hawkhill Harriers,M,00:22:43
 7,Fraser,Andrew,NB Runners,M40,00:23:06
 8,Redden,Max,Unattached,M,00:23:07
-9,Gornall,Thomas,Team East Lothian,MU18,00:23:28
+9,Gornall,Thomas,Team East Lothian,M18,00:23:28
 10,Strang,Adam,Musselburgh,M,00:23:36
 11,Mckane,Neil,Hilcheys AC,M,00:23:43
 12,Calder,Tim,Unattached,M,00:23:57
 13,Haynes,Matthew,Unattached,M,00:23:58
 14,Umpleby,Richard,Carnethy HRC,M40,00:24:01
 15,Clapperton-surfleet,Ben,NB Runners,M40,00:24:04
-16,Pult,Finley,Unattached,MU18,00:24:21
+16,Pult,Finley,Unattached,M18,00:24:21
 17,Saxon,James,Hilchey?s AC,M,00:24:23
 18,Walker,Alex,HBT,M,00:24:24
 19,Phillimore,Ally,HBT,M40,00:24:39
@@ -55,17 +55,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 54,Strachan,Grant,NB Runners,M40,00:26:28
 55,Whitwell,Martyn,Edinburgh Frontrunners,M40,00:26:29
 56,Lalloo,Yusuf,NB Runners,M,00:26:32
-57,Millar,Ben,Unattached,MU18,00:26:33
+57,Millar,Ben,Unattached,M18,00:26:33
 58,Driver,Jack,Unattached,M,00:26:36
 59,Gray,David,Unattached,M40,00:26:37
-60,Laurie-pile,Elliot,Unattached,MU18,00:26:40
+60,Laurie-pile,Elliot,Unattached,M18,00:26:40
 61,Semple,Michael,Unattached,M,00:26:43
 62,Hamilton,Nathan,Unattached,M,00:26:44
 63,Tweedie,Roy,Musselburgh,M,00:26:44
-64,Gerald,Oscar,Unattached,MU18,00:26:45
-65,Turner,Imogen,Team East Lothian,FU18,00:26:46
+64,Gerald,Oscar,Unattached,M18,00:26:45
+65,Turner,Imogen,Team East Lothian,F18,00:26:46
 66,Ward,Paul,Unattached,M40,00:26:48
-67,Tandy,Rosie,Haddington RC,FU18,00:26:48
+67,Tandy,Rosie,Haddington RC,F18,00:26:48
 68,Turner,Rob,Musselburgh,M50,00:26:52
 69,Porteous,Matthew,Musselburgh,M,00:26:52
 70,Andrew,Alastair,Haddington RC,M40,00:26:54
@@ -128,7 +128,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 127,Salmond,George,Unattached,M50,00:29:19
 128,Campbell,Conrad,NB Runners,M50,00:29:21
 129,Lonie,Duncan,Unattached,M50,00:29:21
-130,Gerald,Isaac,Unattached,MU18,00:29:22
+130,Gerald,Isaac,Unattached,M18,00:29:22
 131,Jellema,Claire,West Edinburgh RC,F40,00:29:24
 132,Causley,Jack,Unattached,M,00:29:24
 133,Edmondson,Duncan,East Lothian Orienteers,M50,00:29:29
@@ -173,7 +173,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 172,Duncan,Andrew,Musselburgh,M50,00:31:18
 173,Walker,Mhairi,Unattached,F40,00:31:19
 174,Brown,Liam,Unattached,M,00:31:26
-175,Davies,Morgen,Unattached,FU18,00:31:31
+175,Davies,Morgen,Unattached,F18,00:31:31
 176,Wood,Darrel,Unattached,M,00:31:31
 177,Dykes,Madeline,Good Time RC,F,00:31:40
 178,Higgins,Pete,Unattached,M70,00:31:41
@@ -192,7 +192,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 191,Mcarthur,Ross,Falkland Trail Runners,M,00:32:25
 192,Long,Chris,Unattached,M,00:32:28
 193,Haddow,Andrew,NB Runners,M,00:32:29
-194,Hughes,Lachie,Unattached,MU18,00:32:31
+194,Hughes,Lachie,Unattached,M18,00:32:31
 195,Fitzsimons,Garth,Unattached,M40,00:32:33
 196,Docherty,Steven,Unattached,M,00:32:35
 197,Stent,Ian,Unattached,M50,00:32:35
@@ -212,16 +212,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 211,Paton,Pauline,Unattached,F50,00:33:33
 212,Flanagan,Monica,Portobello RC,F50,00:33:35
 213,Cessford,Lee,Falkland Trail Runners,M50,00:33:39
-214,Dale,Ailsa,Unattached,FU18,00:33:47
+214,Dale,Ailsa,Unattached,F18,00:33:47
 215,Ferguson,Ross,Unattached,M40,00:33:48
 216,Kokavesis,Markos,Unattached,M,00:33:53
 217,Knight,Emma,Unattached,F,00:34:00
 218,Gray,Lucy,Unattached,F,00:34:01
 219,Cooney,James,Unattached,M,00:34:01
 220,Macdonell,Katie,HBT,F,00:34:02
-221,Challender,Nancy,Unattached,FU18,00:34:06
+221,Challender,Nancy,Unattached,F18,00:34:06
 222,Gray,Kirsty,Lothian Running Club,F40,00:34:07
-223,Baird,Matthew,Unattached,MU18,00:34:09
+223,Baird,Matthew,Unattached,M18,00:34:09
 224,Woodhead,Rob,Unattached,M40,00:34:19
 225,Laurie-pile,Penny,Unattached,F40,00:34:19
 226,Barrow,Ross,Unattached,M,00:34:20
@@ -298,7 +298,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 297,Lourens,Eli,Unattached,M,00:41:06
 298,Wall,Dick,HBT,M70,00:41:47
 299,Leslie,Bryan,Unattached,M50,00:41:55
-300,Edmondson,Freya,East Lothian Orienteers,FU18,00:41:59
+300,Edmondson,Freya,East Lothian Orienteers,F18,00:41:59
 301,Smith,Caroline,Unattached,F40,00:42:21
 302,Morse,Susan,Unattached,F60,00:42:45
 303,Floyd,Mike,Unattached,M50,00:43:01

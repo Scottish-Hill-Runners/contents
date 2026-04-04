@@ -2,19 +2,19 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Dunn,Alastair,Helm Hill Runners,M,00:20:01
 2,Haines,Hector,Edinburgh Uni H&H,M,00:20:06
 3,Taylor,Brendon,Rossendale,M,00:21:10
-4,Doyle,Tom,Helm Hill Runners,MU23,00:21:22
-5,Bradshaw,Jonathan,Wharfedale Harriers,MU23,00:21:29
+4,Doyle,Tom,Helm Hill Runners,M23,00:21:22
+5,Bradshaw,Jonathan,Wharfedale Harriers,M23,00:21:29
 6,Rankin,Garry,Kilbarchan,M,00:22:25
 7,Wright,Andrew,Carnegie Harriers,M,00:22:56
 8,McGovern,Michael,Moorfoot Runners,M40,00:23:16
 9,Eiser,Dave,Ochil Hill Runners,M,00:23:45
-10,Sessford,Thomas,Keighley & Craven,MU23,00:24:03
+10,Sessford,Thomas,Keighley & Craven,M23,00:24:03
 11,Gibbons,Iain,Wharfedale Harriers,M,00:24:22
-12,Richards,Sam,Pendle AC,MU23,00:24:28
+12,Richards,Sam,Pendle AC,M23,00:24:28
 13,Laing,Martin,Fife AC,M50,00:24:33
 14,Rowbotham,Ian,Ilkley Harriers,M50,00:25:07
-15,Athersmith,Matthew,Skipton,MU23,00:25:22
-16,Craig,James,Unattached,MU23,00:25:30
+15,Athersmith,Matthew,Skipton,M23,00:25:22
+16,Craig,James,Unattached,M23,00:25:30
 17,Bastow,Gary,Ripon Runners,M50,00:25:55
 18,Fraser,Gary,Ochil Hill Runners,M40,00:26:09
 19,Crabtree,Paul,Keighley & Craven,M40,00:26:19
@@ -22,7 +22,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Sanjay,Sapper,Gurkhas,M,00:26:35
 22,Pryde,Gordon,Lomond Hill Runners,M50,00:26:57
 23,Deepak,Lance Corporal,Gurkhas,M,00:27:27
-24,Athersmith,Sam,Skipton,MU23,00:28:01
+24,Athersmith,Sam,Skipton,M23,00:28:01
 25,Erskine,Alec,Unattached,M40,00:28:05
 26,Turner,Judith,Carnegie Harriers,F,00:28:06
 27,Rankin,Christina,Kilbarchan,F,00:28:07

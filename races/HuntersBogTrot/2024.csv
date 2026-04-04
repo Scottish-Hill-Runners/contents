@@ -2,7 +2,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:25:31
 2,Sparks,Robert,Edinburgh Uni H&H,M,00:26:26
 3,Thomson,Fearghas,Granite City Harriers,M,00:26:46
-4,Doherty,Max,Olympic Harriers,MJ,00:27:44
+4,Doherty,Max,Olympic Harriers,M16,00:27:44
 5,Ward,Dave,HBT,M40,00:28:36
 6,Fleming,Matt,Hoad Hill Harriers,M,00:28:58
 7,Gray,Adam,Penicuik Harriers,M,00:29:21
@@ -11,7 +11,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,Gardner,Peter,HBT,M,00:29:37
 11,Robinson,James,Unattached,M,00:29:52
 12,Jones,Huw,HBT,M40,00:30:14
-13,Macpherson,Ian,Kilbarchan AC,MJ,00:30:53
+13,Macpherson,Ian,Kilbarchan AC,M16,00:30:53
 14,Strathdee,Ishbel,Unattached,F,00:30:57
 15,Walsh,Chris,HBT,M40,00:31:03
 16,Bowden,James,HBT,M,00:31:44
@@ -30,7 +30,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 29,Belton,Aidan,HBT,M,00:34:01
 30,Hansen,Max,Carnethy HRC,M,00:34:04
 31,Samplonius,Jelmer,HBT,M,00:34:09
-32,Morton,David,Musselburgh,MJ,00:34:12
+32,Morton,David,Musselburgh,M16,00:34:12
 33,Whiteford,Andy,Springwell RC,M40,00:34:15
 34,Jacques,Ben,Unattached,M,00:34:38
 35,Crawford,Sarah,HBT,F,00:34:42
@@ -53,7 +53,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Ostheimer,Mark,HBT,M,00:37:57
 53,Chambers,Andrew,Ochil Hill Runners,M40,00:38:16
 54,Thirlwell,Andrew,HBT,M,00:38:26
-55,Farrell,Tom,Unattached,MJ,00:38:39
+55,Farrell,Tom,Unattached,M16,00:38:39
 56,Wastnedge,Lizzie,HBT,F,00:38:46
 57,Frew,Georgie,HBT,F,00:39:14
 58,Gliebitz,Dan,HBT,M,00:39:17
@@ -65,7 +65,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 64,Antunes,Andre,HBT,M40,00:40:29
 65,Porter,Keiran,Linlithgow AC,M,00:40:49
 66,Underwood,Ian,HBT,M,00:41:08
-67,Scott,Hannah,Musselburgh,FJ,00:41:16
+67,Scott,Hannah,Musselburgh,F16,00:41:16
 68,Rudland,Steve,HBT,M60,00:41:24
 69,Michalowski,Michal,Unattached,M40,00:41:52
 70,Wallace,Robert,Unattached,M50,00:41:53

@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil HR,M,00:29:36
-2,Williamson,Clyde,Huntly Nordic Ski Club,MJ,00:33:53
+2,Williamson,Clyde,Huntly Nordic Ski Club,M16,00:33:53
 3,Barclay,David,Garioch RR,M40,00:33:56
 4,Williamson,Jason,Cosmic HB,M40,00:34:04
 5,Simpson,Geoff,HBT,M50,00:34:23
@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Oliver,David,Deside RC,M50,00:43:32
 16,McKechanie,Andrew,HBT,M,00:44:04
 17,Williams,Rupert,Cosmic HB,M50,00:45:05
-18,Bloomfield,Ewan,Unattached,MJ,00:45:09
+18,Bloomfield,Ewan,Unattached,M16,00:45:09
 19,Bloomfield,Kate,Unattached,F40,00:45:10
 20,Kilpatrick,Deborah,Ochil HR,F40,00:45:15
 21,McCelland,Morag,HBT,F,00:45:39

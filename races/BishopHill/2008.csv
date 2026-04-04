@@ -1,84 +1,84 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Lennox,Jethro,Shettleston H,MS Record,00:17:29
-2,Symonds,Andy,Carnegie H,MS,00:18:12
-3,Anthony,Alasair,Ochil HR,MS,00:18:18
-4,Peachey,Simon,Carnethy HRC,MS,00:18:30
-5,Symonds,Joe,Dundee HH,MS,00:18:40
-6,Marshall,Brian,HELP,MS,00:18:43
-7,Wright,Andrew,Carnegie H,MS,00:19:07
-8,Owens,Tom,Shettleston H,MS,00:19:10
-9,Blake,Henry,Highland HR,MS,00:19:16
+1,Lennox,Jethro,Shettleston H,M,00:17:29
+2,Symonds,Andy,Carnegie H,M,00:18:12
+3,Anthony,Alasair,Ochil HR,M,00:18:18
+4,Peachey,Simon,Carnethy HRC,M,00:18:30
+5,Symonds,Joe,Dundee HH,M,00:18:40
+6,Marshall,Brian,HELP,M,00:18:43
+7,Wright,Andrew,Carnegie H,M,00:19:07
+8,Owens,Tom,Shettleston H,M,00:19:10
+9,Blake,Henry,Highland HR,M,00:19:16
 10,Whitlie,Stewart,Carnethy HRC,M40,00:19:19
-11,Richmond,Kenny,Bellahouston RR,MS,00:19:20
+11,Richmond,Kenny,Bellahouston RR,M,00:19:20
 12,Donnelly,Colin,Lochaber AC,M40,00:19:39
-13,Sullivan,Matthew,Shettleston H,MS,00:19:45
+13,Sullivan,Matthew,Shettleston H,M,00:19:45
 14,Crowe,Des,Shettleston H,M40,00:19:48
 15,Fallon,Steven,Carnethy HRC,M40,00:19:56
-16,Smith,Tom,Lochaber AC,MS,00:19:59
-17,Watson,Cameron,Pitreavie,MS,00:20:04
+16,Smith,Tom,Lochaber AC,M,00:19:59
+17,Watson,Cameron,Pitreavie,M,00:20:04
 18,Scott,Nigel,Westerlands CCC,M40,00:20:05
 19,Cummins,Dave,Shettleston H,M40,00:20:17
-20,Lawrence,Tommy,Carnegie H,MS,00:20:29
-21,Gay,Dan,HBT,MS,00:20:31
+20,Lawrence,Tommy,Carnegie H,M,00:20:29
+21,Gay,Dan,HBT,M,00:20:31
 22,Riach,David,Westerlands CCC,M40,00:20:31
-23,Britton,James,Moorfoot R,MS,00:20:35
+23,Britton,James,Moorfoot R,M,00:20:35
 24,Smith,Alan,Deeside R,M40,00:20:35
-25,Mitchell,Craig,Lochaber AC,MS,00:20:43
+25,Mitchell,Craig,Lochaber AC,M,00:20:43
 26,Davis,Adrian,Carnethy HRC,M40,00:20:47
-27,Iida,Yujiro,EUH&H,MS,00:20:49
-28,Ward,Peter,Lochaber AC,MS,00:20:52
+27,Iida,Yujiro,EUH&H,M,00:20:49
+28,Ward,Peter,Lochaber AC,M,00:20:52
 29,Thin,Jamie,HBT,M40,00:20:53
-30,Johnston,Mark,Bellahouston RR,MS,00:20:54
+30,Johnston,Mark,Bellahouston RR,M,00:20:54
 31,Patterson,Malcolm,Shettleston H,M50,00:20:57
-32,Crowe,Jamie,Dundee HH,MU23,00:21:02
-33,Ascroft,Jon,Carnethy HRC,MS,00:21:09
-34,Harris,Adam,Fife AC,MU23,00:21:10
+32,Crowe,Jamie,Dundee HH,M23,00:21:02
+33,Ascroft,Jon,Carnethy HRC,M,00:21:09
+34,Harris,Adam,Fife AC,M23,00:21:10
 35,Smith,Bruce,Carnethy HRC,M40,00:21:15
 36,Spenceley,Andy,Carnethy HRC,M40,00:21:19
-37,Popham,Frank,Fife AC,MS,00:21:20
-38,Bannerman,Ross,Highland HR,MS,00:21:23
+37,Popham,Frank,Fife AC,M,00:21:20
+38,Bannerman,Ross,Highland HR,M,00:21:23
 39,Laing,Martin,Fife AC,M50,00:21:29
-40,Mair,Will,HBT,MS,00:21:36
+40,Mair,Will,HBT,M,00:21:36
 41,Roper,Marc,Giffnock North AC,M40,00:21:38
-42,Kemp,Benjamin,Portobello RC,MS,00:21:39
+42,Kemp,Benjamin,Portobello RC,M,00:21:39
 43,Gorman,Manny,Westerlands CCC,M40,00:21:47
-44,Schmidt,Elke,Bellahouston RR,FS Record,00:21:54
-45,Love,Craig,Dundee HH,MS,00:21:58
+44,Schmidt,Elke,Bellahouston RR,F,00:21:54
+45,Love,Craig,Dundee HH,M,00:21:58
 46,Scott,David,Ochil HR,M50,00:22:11
 47,Bennet,Sandy,Carnegie H,M40,00:22:14
 48,Reid,Don,Westerlands CCC,M50,00:22:20
 49,Buchanan,Peter,Portobello RC,M40,00:22:21
-50,Howett,Andrew,Fife AC,MS,00:22:26
-51,McMillan,Malcolm,Unatt,MS,00:22:35
-52,Clarke,Daniel Wade,Fife AC,MS,00:22:37
-53,Gordon,Claire,HBT,FS,00:22:42
-54,McDonald,Graeme,Unatt,MS,00:22:43
+50,Howett,Andrew,Fife AC,M,00:22:26
+51,McMillan,Malcolm,Unatt,M,00:22:35
+52,Clarke,Daniel Wade,Fife AC,M,00:22:37
+53,Gordon,Claire,HBT,F,00:22:42
+54,McDonald,Graeme,Unatt,M,00:22:43
 55,Anderson,Laurie,Fife AC,M40,00:22:47
 56,McDonald,Kenny,Carnegie H,M40,00:22:50
-57,Scott,Dawn,Lochaber AC,FS,00:23:01
+57,Scott,Dawn,Lochaber AC,F,00:23:01
 58,Johnston,Mark,Metro Aberdeen RC,M50,00:23:12
-59,Gioia,Frank,Portobello RC,MS,00:23:14
-60,Fowler,Nigel,Fife AC,MS,00:23:19
+59,Gioia,Frank,Portobello RC,M,00:23:14
+60,Fowler,Nigel,Fife AC,M,00:23:19
 61,Brooks,Graham,Lochaber AC,M50,00:23:24
 62,Blair-Fish,John,Carnethy HRC,M50,00:23:30
 63,Donnelly,John,Westerlands CCC,M40,00:23:32
 64,Turnbull,Les,Norham,M50,00:23:33
-65,Rathjen,Jon,HBT,MS,00:23:35
+65,Rathjen,Jon,HBT,M,00:23:35
 66,Murray,Alan,Ochil HR,M40,00:23:44
 67,Duncan,David,Ochil HR,M50,00:23:46
-68,Barr,Tom,HBT,MS,00:23:49
+68,Barr,Tom,HBT,M,00:23:49
 69,Macleod,Murdo,Westerlands CCC,M50,00:23:56
 70,Rogers,David,Westerlands CCC,M40,00:23:58
 71,Milligan,Douglas,Solway RC,M60,00:24:01
 72,Bearhop,Derek,Carnethy HRC,M40,00:24:08
 73,McCaffrey,Gordon,Clydesdale H,M50,00:24:16
 74,Cameron,Gordon,Carnethy HRC,M50,00:24:17
-75,Legge,Sarah,Fife AC,FS,00:24:18
+75,Legge,Sarah,Fife AC,F,00:24:18
 76,Duffy,John J,Shettleston H,M40,00:24:24
 77,Roberts,Clive,Unatt,M50,00:24:26
-78,McClelland,Peter,HBT,MS,00:24:29
-79,Galbraith,Jim,Giffnock North AC,MS,00:24:30
-80,Johns,Andrew,Kinross RR,MS,00:24:32
+78,McClelland,Peter,HBT,M,00:24:29
+79,Galbraith,Jim,Giffnock North AC,M,00:24:30
+80,Johns,Andrew,Kinross RR,M,00:24:32
 81,Knowles,Stuart,Fife AC,M50,00:24:38
 82,Law,Andy,Mid Argyll AC,M50,00:24:40
 83,Mason,David,Unatt,M40,00:24:43
@@ -87,38 +87,38 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 86,McKenzie,Ruth,Deeside R,F40,00:25:05
 87,Ross,Tom,Fife AC,M60,00:25:06
 88,McNab,Graham,Lochaber AC,M40,00:25:10
-89,Fraser,Gary,Ochil HR,MS,00:25:11
+89,Fraser,Gary,Ochil HR,M,00:25:11
 90,Robb,Stuart,Unatt,M40,00:25:11
-91,Wardlaw,Eilidh,HBT,FS,00:25:12
-92,Beckett,Dan,HBT,MS,00:25:17
-93,Wombwell,Peter,Beacon R,MU23,00:25:21
+91,Wardlaw,Eilidh,HBT,F,00:25:12
+92,Beckett,Dan,HBT,M,00:25:17
+93,Wombwell,Peter,Beacon R,M23,00:25:21
 94,Wilson,Colin,Carnethy HRC,M40,00:25:26
 95,Stone,Michael,Cosmic HB,M40,00:25:31
 96,MacEwan,John,Ochil HR,M40,00:25:38
-97,Scott,Alan,Bellahouston RR,MS,00:25:42
+97,Scott,Alan,Bellahouston RR,M,00:25:42
 98,Brennan,Brian,Westerlands CCC,M50,00:25:48
 99,Morrison,Gordon,Strathearn H,M50,00:25:50
-100,Laing,Sarah,Portobello RC,FS,00:25:53
+100,Laing,Sarah,Portobello RC,F,00:25:53
 101,McLean,Herbie,Lothian RC,M60,00:26:01
-102,Gamble,Lisa,Fife AC,FS,00:26:02
+102,Gamble,Lisa,Fife AC,F,00:26:02
 103,Bowie,Tom,Fife AC,M60,00:26:09
 104,Burt,Louise,Fife AC,F40,00:26:15
 105,Davidson,Iain,Girvan AC,M40,00:26:19
 106,Henderson,Bill,Carnethy HRC,M50,00:26:21
-107,Stuart,Helen,Bellahouston RR,FS,00:26:22
-108,Blackhall,Amanda,Lochaber AC,FS,00:26:23
+107,Stuart,Helen,Bellahouston RR,F,00:26:22
+108,Blackhall,Amanda,Lochaber AC,F,00:26:23
 109,Landells,Brian,Fife AC,M40,00:26:24
-110,Sim,Andrew,Carnegie H,MS,00:26:26
+110,Sim,Andrew,Carnegie H,M,00:26:26
 111,Menhennet,Christine,Westerlands CCC,F50,00:26:28
-112,MacKenzie,Sarah,Lochaber AC,FU23,00:26:29
-113,Heron,Gregor,Carnethy HRC,MS,00:26:39
-114,Taylor,Iain,Carnegie H,MS,00:26:39
+112,MacKenzie,Sarah,Lochaber AC,F23,00:26:29
+113,Heron,Gregor,Carnethy HRC,M,00:26:39
+114,Taylor,Iain,Carnegie H,M,00:26:39
 115,Scott,Jocelyn,Fife AC,F50,00:26:43
 116,MacEwan,Linda,Lochaber AC,F40,00:26:44
 117,Love,Charlie,Dundee HH,M60,00:27:14
 118,Wilson,Joan,Carnethy HRC,F40,00:27:16
-119,Secombe,Matt,Ochil HR,MS,00:27:21
-120,Anderson,Joanne,Carnethy HRC,FS,00:27:22
+119,Secombe,Matt,Ochil HR,M,00:27:21
+120,Anderson,Joanne,Carnethy HRC,F,00:27:22
 121,Dennis,Richard,Portobello RC,M40,00:27:27
 122,Hunter,Mary,Portobello RC,F40,00:27:28
 123,Johnson,Stephen,Millburn H,M40,00:27:32
@@ -127,53 +127,53 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 126,Schreiber,Jo,P&B,F40,00:27:48
 127,McGee,Billy,Larne AC,M60,00:27:49
 128,Preele,Ben,Deeside R,M60,00:27:49
-129,Irving,John,?,MS,00:27:56
+129,Irving,John,?,M,00:27:56
 130,Clark,Chris,Fife AC,M50,00:27:58
 131,Robb,Graeme,Kinross RR,M40,00:28:08
-132,Jumelle,Paddy,HELP,MS,00:28:12
+132,Jumelle,Paddy,HELP,M,00:28:12
 133,Robertson,Jane,Westerlands CCC,F40,00:28:17
 134,Johnstone,Derek,Cosmic HB,M40,00:28:23
 135,Smith,Tilly,Deeside R,F40,00:28:28
-136,Davis,Paul,Carnegie H,MS,00:28:35
+136,Davis,Paul,Carnegie H,M,00:28:35
 137,MacAulay,Alan,Carnegie H,M50,00:28:36
 138,Laing,J,Carnegie H,M50,00:28:40
 139,McKenzie,Iain,Deeside R,M40,00:28:44
 140,Winning,Jim,Beacon R,M50,00:28:48
 141,Smith,Donald,Westerlands CCC,M60,00:28:50
 142,Beveridge,Bob,Lomond HR,M60,00:28:57
-143,Laidlaw,Anita,Fife AC,FS,00:29:05
+143,Laidlaw,Anita,Fife AC,F,00:29:05
 144,Jumelle,Jean,HELP,M50,00:29:08
-145,Brown,Peter,Beacon R,MS,00:29:14
+145,Brown,Peter,Beacon R,M,00:29:14
 146,Stewart,Elaine,Cosmic HB,F50,00:29:25
-147,Rathjen,Sandra,HBT,FS,00:29:30
+147,Rathjen,Sandra,HBT,F,00:29:30
 148,Milton,Robert,Carnegie H,M40,00:29:32
 149,Milburn,Peter,?,M40,00:29:34
-150,Headley,Phillipa,Carnethy HRC,FS,00:29:36
+150,Headley,Phillipa,Carnethy HRC,F,00:29:36
 151,McDonald,J.,Carnegie H,M40,00:29:38
 152,Smith,Janice,HBT,F50,00:29:48
 153,Noble,Keith J,Unatt,M40,00:29:49
-154,Smith,Rachael,Moorfoot R,FS,00:29:55
-155,MacDonald,Nicky,Lochaber AC,FS,00:30:02
+154,Smith,Rachael,Moorfoot R,F,00:29:55
+155,MacDonald,Nicky,Lochaber AC,F,00:30:02
 156,West,Alison,Carnegie H,F50,00:30:04
 157,Taylor,Jim,Fife AC,M50,00:30:06
-158,O'Connon,Michael,Carnethy HRC,MS,00:30:10
+158,O'Connon,Michael,Carnethy HRC,M,00:30:10
 159,Walker,Peter,Carnethy HRC,M40,00:30:16
 160,Clark,Kim,Fife AC,F50,00:30:22
 161,Wall,Dick,HBT,M50,00:30:26
 162,Martin,Clare,Deeside R,F40,00:31:03
-163,Morgan,Sharyn,Lochaber AC,FS,00:31:09
+163,Morgan,Sharyn,Lochaber AC,F,00:31:09
 164,Bruce,Stuart,Unatt,M40,00:31:14
 165,Stephen,Lynne,Fife AC,F40,00:31:17
 166,Armstrong,George,HELP,M60,00:31:24
 167,Boyle,David,Bellahouston RR,M40,00:31:45
 168,Kennedy,Nancy,Lochaber AC,F50,00:33:06
 169,McManus,Ian,Irvine AC,M60,00:33:21
-170,Paul,Brenda,Westerlands CCC,FS,00:34:28
+170,Paul,Brenda,Westerlands CCC,F,00:34:28
 171,Baird,Eric,Lochaber AC,M50,00:35:19
-172,Treasurer,Claire,Lochaber AC,FS,00:35:26
+172,Treasurer,Claire,Lochaber AC,F,00:35:26
 173,McCalman,Sandy,Kinross RR,M60,00:36:41
-174,Kelly,Wendy,Unatt,FS,00:36:46
+174,Kelly,Wendy,Unatt,F,00:36:46
 175,Hanley,Lynn,Portobello RC,F40,00:37:02
 176,McKenzie,A,Carnegie H,F40,00:39:08
-177,Russell,Marshall,Stenton Karate,MU23,00:40:10
+177,Russell,Marshall,Stenton Karate,M23,00:40:10
 178,Smith,Norman,Kinross RR,M60,00:40:15

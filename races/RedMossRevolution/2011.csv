@@ -7,7 +7,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 6,McAlinden,Niall,Westerlands,M,0:37:32
 7,Mattocks,Craig,Gala Harriers,M,0:37:46
 8,Ferrington,Tom,Corstorphine,M,0:38:04
-9,Robertson,Ally,Carnethy,MU23,0:38:36
+9,Robertson,Ally,Carnethy,M23,0:38:36
 10,Buchanan,Peter,Portobello,M40,0:39:07
 11,Rankin,Christina,Kilbarchan,F,0:39:17
 12,Stevenson,John,Ochil Hill Runners,M50,0:39:25
@@ -37,14 +37,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Malcolm,John,Carnethy,M,0:42:40
 37,Gilkison,Alan,Westerlands,M40,0:42:44
 38,Jenkins,Kate,Gala Harriers,F,0:43:00
-39,Gilmore,Andrew,Highland Hill Runners,MU23,0:43:07
+39,Gilmore,Andrew,Highland Hill Runners,M23,0:43:07
 40,Brown,Andrew,Unattached,M,0:43:21
 41,Hendry,Robert,Unattached,M40,0:43:25
 42,Colquhoun,Lucy,Moorfoot Runners,F40,0:43:28
 43,Pollard,Paul,Penicuik Harriers,M,0:43:40
 44,Nash,Paul,Carnethy,M,0:43:47
 45,Fulton,David,HBT,M,0:43:52
-46,Gilmore,Iain,Carnethy,MU23,0:43:56
+46,Gilmore,Iain,Carnethy,M23,0:43:56
 47,Harrison,Simon,HBT,M,0:43:58
 48,Gilmore,Neil,Carnethy,M40,0:44:02
 49,Darwin-Clements,Dan,HBT,M,0:44:35

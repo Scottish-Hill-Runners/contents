@@ -2,47 +2,47 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Rocke,John,Dark Peak,M,00:35:31
 2,McCarthy,Ewan,Unattached,M,00:35:39
 3,Gauld,Ronald,Unattached,M,00:37:06
-4,Smith,Alan,Deeside Runners,MSV,00:37:21
+4,Smith,Alan,Deeside Runners,M40,00:37:21
 5,Russell,Colin,Cosmic Hillbashers,M,00:37:44
 6,Gaastra,Alex,Unattached,M,00:38:37
-7,Tomlin,Chris,Cosmic Hillbashers,MV,00:38:44
+7,Tomlin,Chris,Cosmic Hillbashers,M,00:38:44
 8,Mitchell,John,Cosmic Hillbashers,M,00:39:02
-9,Anderson,Iain,Unattached,MV,00:39:18
-10,Lorimer,Hayden,Unattached,MV,00:39:52
-11,Williamson,Jason,Cosmic Hillbashers,MV,00:40:25
-12,Kerridge,Donald,Deeside Runners,MV,00:41:03
-13,Bass,Owen,Deeside Runners,MSV,00:41:45
-14,Oldham,Veronique,Cosmic Hillbashers,FV,00:41:57
+9,Anderson,Iain,Unattached,M,00:39:18
+10,Lorimer,Hayden,Unattached,M,00:39:52
+11,Williamson,Jason,Cosmic Hillbashers,M,00:40:25
+12,Kerridge,Donald,Deeside Runners,M,00:41:03
+13,Bass,Owen,Deeside Runners,M40,00:41:45
+14,Oldham,Veronique,Cosmic Hillbashers,F,00:41:57
 15,Dempster,Colin,Unattached,M,00:43:10
 16,Henry,Peter,Deeside Runners,M,00:43:53
 17,Mackenzie,Sarah,Cosmic Hillbashers,F,00:43:54
-18,Ord,Steven,Deeside Runners,MV,00:43:58
+18,Ord,Steven,Deeside Runners,M,00:43:58
 19,Provan,Stephanie,Deeside Runners,F,00:44:01
 20,Gray,James Robert,AFC,M,00:44:41
 21,Kerridge,Ewan,Deeside Runners,M,00:45:31
 22,Ross,Jamie,Deeside Runners,M,00:45:36
 23,McAlister,Ruaridh,Unattached,M,00:46:54
-24,Hunter,Stuart,Cosmic Hillbashers,MV,00:47:42
+24,Hunter,Stuart,Cosmic Hillbashers,M,00:47:42
 25,Milne,Graham,Unattached,M60,00:47:59
 26,Rendall,Samantha,Deeside Runners,F,00:48:57
 27,Hampton,John,Unattached,M,00:48:45
-28,Newman,Miles,Deeside Runners,MSV,00:49:05
-29,Hamilton,Anita,Cosmic Hillbashers,FSV,00:49:50
-30,Burgess,Warren,Deeside Runners,MSV,00:49:59
+28,Newman,Miles,Deeside Runners,M40,00:49:05
+29,Hamilton,Anita,Cosmic Hillbashers,F40,00:49:50
+30,Burgess,Warren,Deeside Runners,M40,00:49:59
 31,Roberts,Emma,Unattached,F,00:50:32
-32,Reid,Colin,Cosmic Hillbashers,MV,00:51:06
-33,McKay,Michael,Unattached,MSV,00:51:31
-34,Mann,Phil,Metro Aberdeen,MSV,00:52:41
+32,Reid,Colin,Cosmic Hillbashers,M,00:51:06
+33,McKay,Michael,Unattached,M40,00:51:31
+34,Mann,Phil,Metro Aberdeen,M40,00:52:41
 35,Kirch,Petra,Unattached,F,00:53:23
-36,Taylor,Colin,Cosmic Hillbashers,MSV,00:53:47
-37,Cran,Ian,Garioch Road Runners,MSV,00:54:54
-38,Stirton,Joe,Deeside Runners,MV,00:56:03
-39,Bass,Ursula,Deeside Runners,FV,00:56:29
+36,Taylor,Colin,Cosmic Hillbashers,M40,00:53:47
+37,Cran,Ian,Garioch Road Runners,M40,00:54:54
+38,Stirton,Joe,Deeside Runners,M,00:56:03
+39,Bass,Ursula,Deeside Runners,F,00:56:29
 40,Gauld,Derek,Unattached,M,00:57:54
 41,Birnie,Lynsey,Unattached,F,01:00:52
-42,Leal,John,Unattached,MV,01:00:57
-43,Fowler,Walter,Unattached,MSV,01:01:49
-44,Fraser,Ron,Dundee Roadrunners,MSV,01:03:45
+42,Leal,John,Unattached,M,01:00:57
+43,Fowler,Walter,Unattached,M40,01:01:49
+44,Fraser,Ron,Dundee Roadrunners,M40,01:03:45
 45,Ryder,Walter,Morpeth Harriers,M70,01:04:25
 46,Donald,Stuart,Unattached,M,01:05:03
 47,Morrison,Ian,Unattached,M,01:28:45

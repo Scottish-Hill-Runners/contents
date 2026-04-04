@@ -1,57 +1,57 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gorman,Manny,Westerlands,M 40-49,00:53:24
-2,Smith,Alan,Deeside Runners,M 50-59,00:53:41
-3,Hammond,John,Carnethy,M Senior,00:53:50
-4,Mudge,Angela,Carnethy,F 40-49,00:55:04
-5,Winter,Stephen,Shettleston Harriers,M Senior,00:56:30
-6,Crowe,Des,Dundee Hawkhill,M 50-59,00:56:47
-7,Bannerman,Ross,Highland Hill Runners,M 40-49,00:57:50
-8,Anderson,Iain,Unattached,M 40-49,01:00:10
-9,Taylor,Luke,Highland Hill Runners,M Junior,01:00:25
-10,Mardall,Nick,Deeside Runners,M 40-49,01:01:02
-11,Barr,Tom,Hunters Bog Trotters,M 40-49,01:01:06
-12,Forrest,Stuart,Highland Hill Runners,M Senior,01:01:14
-13,Simpson,Stuart,Stornoway,M 40-49,01:04:43
-14,Anderson,Laurie,Lomond Hill Runners,M 50-59,01:06:05
-15,Melville,Peter,Unattached,M Senior,01:06:37
-16,Lines,Charles,Unattached,M 50-59,01:06:43
-17,Stewart,Craig,Forfar Road Runners,M 40-49,01:08:03
-18,Weir,Jonathon,Unattached,M Senior,01:08:43
-19,Greaves,Emily,Strathearn Harriers,F Senior,01:09:05
-20,Connor,Julia,Tinto,F 40-49,01:09:12
-21,Fitzpatrick,Pat,Ochil Hillrunners,M 60-69,01:09:41
-22,Hulme,Martin,Corstorphine AAC,M 60-69,01:10:05
-23,Bunyan,Craig,Unattached,M Senior,01:10:06
-24,Schneider,Mike,Unattached,M 50-59,01:10:16
-25,MacNab,Graham,Lochaber AC,M 50-59,01:10:36
-26,Brennan,Brian,Westerlands,M 50-59,01:10:47
-27,Bowman,Angus,Lomond Hill Runners,M 50-59,01:11:17
-28,Nicoll,Graeme,Tayside Orienteers,M 50-59,01:11:26
-29,Semple,Hamilton,Westerlands,M 50-59,01:12:00
-30,MacLean,Herbie,Lochtayside,M 60-69,01:12:09
-31,Wilson,Colin,Carnethy,M 50-59,01:12:14
-32,Shearer,Duncan,Lochtayside,M 40-49,01:12:33
-33,Taylor,Gordie,Highland Hill Runners,M 50-59,01:12:41
-34,Cooling,Ben,Fit4Less Perth,M Senior,01:13:03
-35,Jablonski,Derek,Lomond Hill Runners,M 50-59,01:13:23
-36,Robinson,Gordon,Westerlands,M 60-69,01:13:28
-37,Wilson,Joan,Carnethy,F 50-59,01:13:44
-38,Menhennet,Christine,Westerlands,F 50-59,01:14:02
-39,MacDougall,Colin,Tinto,M 40-49,01:14:08
-40,Duncan,David,Ochil Hillrunners,M 50-59,01:14:47
-41,Howie,Jamie,Lochtayside,M Senior,01:15:30
-42,Nicoll,Melanie,Lomond Hill Runners,F 40-49,01:17:38
-43,Newman Buttle,Peter,Nelson Striders (NZ),M 60-69,01:19:45
-44,Marsh,Duncan,Thame Runners,M 40-49,01:20:08
-45,Urquhart,William,Unattached,M 40-49,01:21:08
-46,Blackley,Lisa,Unattached,F Senior,01:22:31
-47,Drozdowicz,Marie Louise,Elswick Harriers,F 50-59,01:23:00
-48,Gatehouse,Richard,Lomond Hill Runners,M 60-69,01:23:28
-49,Dunbar,Rhona,Unattached,F 40-49,01:26:01
-50,Carr,Amanda,Stainton Rd Striders Fan Club,F 40-49,01:26:11
-51,Bowman,Jean,Lomond Hill Runners,F 50-59,01:28:55
-52,McCallum,Gordon,Lochtayside,M 40-49,01:31:48
-53,Gauld,Bill,Carnethy,M 70+,01:32:15
-54,Paul,Brenda,Westerlands,F Senior,01:35:42
-55,Forster,Kate,Lochtayside,F 40-49,01:38:37
-56,Watts,David,Unattached,M Senior,01:55:15
+1,Gorman,Manny,Westerlands,M40,00:53:24
+2,Smith,Alan,Deeside Runners,M50,00:53:41
+3,Hammond,John,Carnethy,M,00:53:50
+4,Mudge,Angela,Carnethy,F40,00:55:04
+5,Winter,Stephen,Shettleston Harriers,M,00:56:30
+6,Crowe,Des,Dundee Hawkhill,M50,00:56:47
+7,Bannerman,Ross,Highland Hill Runners,M40,00:57:50
+8,Anderson,Iain,Unattached,M40,01:00:10
+9,Taylor,Luke,Highland Hill Runners,M16,01:00:25
+10,Mardall,Nick,Deeside Runners,M40,01:01:02
+11,Barr,Tom,Hunters Bog Trotters,M40,01:01:06
+12,Forrest,Stuart,Highland Hill Runners,M,01:01:14
+13,Simpson,Stuart,Stornoway,M40,01:04:43
+14,Anderson,Laurie,Lomond Hill Runners,M50,01:06:05
+15,Melville,Peter,Unattached,M,01:06:37
+16,Lines,Charles,Unattached,M50,01:06:43
+17,Stewart,Craig,Forfar Road Runners,M40,01:08:03
+18,Weir,Jonathon,Unattached,M,01:08:43
+19,Greaves,Emily,Strathearn Harriers,F,01:09:05
+20,Connor,Julia,Tinto,F40,01:09:12
+21,Fitzpatrick,Pat,Ochil Hillrunners,M60,01:09:41
+22,Hulme,Martin,Corstorphine AAC,M60,01:10:05
+23,Bunyan,Craig,Unattached,M,01:10:06
+24,Schneider,Mike,Unattached,M50,01:10:16
+25,MacNab,Graham,Lochaber AC,M50,01:10:36
+26,Brennan,Brian,Westerlands,M50,01:10:47
+27,Bowman,Angus,Lomond Hill Runners,M50,01:11:17
+28,Nicoll,Graeme,Tayside Orienteers,M50,01:11:26
+29,Semple,Hamilton,Westerlands,M50,01:12:00
+30,MacLean,Herbie,Lochtayside,M60,01:12:09
+31,Wilson,Colin,Carnethy,M50,01:12:14
+32,Shearer,Duncan,Lochtayside,M40,01:12:33
+33,Taylor,Gordie,Highland Hill Runners,M50,01:12:41
+34,Cooling,Ben,Fit4Less Perth,M,01:13:03
+35,Jablonski,Derek,Lomond Hill Runners,M50,01:13:23
+36,Robinson,Gordon,Westerlands,M60,01:13:28
+37,Wilson,Joan,Carnethy,F50,01:13:44
+38,Menhennet,Christine,Westerlands,F50,01:14:02
+39,MacDougall,Colin,Tinto,M40,01:14:08
+40,Duncan,David,Ochil Hillrunners,M50,01:14:47
+41,Howie,Jamie,Lochtayside,M,01:15:30
+42,Nicoll,Melanie,Lomond Hill Runners,F40,01:17:38
+43,Newman Buttle,Peter,Nelson Striders (NZ),M60,01:19:45
+44,Marsh,Duncan,Thame Runners,M40,01:20:08
+45,Urquhart,William,Unattached,M40,01:21:08
+46,Blackley,Lisa,Unattached,F,01:22:31
+47,Drozdowicz,Marie Louise,Elswick Harriers,F50,01:23:00
+48,Gatehouse,Richard,Lomond Hill Runners,M60,01:23:28
+49,Dunbar,Rhona,Unattached,F40,01:26:01
+50,Carr,Amanda,Stainton Rd Striders Fan Club,F40,01:26:11
+51,Bowman,Jean,Lomond Hill Runners,F50,01:28:55
+52,McCallum,Gordon,Lochtayside,M40,01:31:48
+53,Gauld,Bill,Carnethy,M70,01:32:15
+54,Paul,Brenda,Westerlands,F,01:35:42
+55,Forster,Kate,Lochtayside,F40,01:38:37
+56,Watts,David,Unattached,M,01:55:15

@@ -9,9 +9,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Taylor,Brendon,Rossendale,M,00:22:19
 9,McGoldrick,Mark,Wharfedale,M,00:22:59
 10,Johnston,Jamie,Bournville Harriers,M,00:23:08
-11,Watson,Sam,Wharfedale,MU23,00:23:16
+11,Watson,Sam,Wharfedale,M23,00:23:16
 12,Proctor,Billy,Helm Hill,M50,00:23:26
-13,Thompson,Jack,Pendle,MU23,00:23:37
+13,Thompson,Jack,Pendle,M23,00:23:37
 14,Smith,Bruce,Carnethy,M40,00:23:48
 15,Laing,Martin,Fife AC,M50,00:23:55
 16,Perry,John,Wharfedale,M,00:23:58
@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Urmston,Colin,Clayton le Moors,M45,00:25:02
 19,Holt,Jack,Clayton le Moors,M50,00:25:05
 20,Patterson,Roy,Kinross RR,M45,00:25:07
-21,Athersmith,Matthew,Skipton,MU23,00:25:27
+21,Athersmith,Matthew,Skipton,M23,00:25:27
 22,Upson,Chris,Westerlands,M40,00:25:38
 23,Lacon,Lisa,Holmfirth,F,00:25:49
 24,Pryde,Gordon,Lomond HR,M50,00:25:57
@@ -40,9 +40,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,Martin,Ryan,Unattached,M,00:29:51
 40,Scholes,Damien,Keighley & Craven,M,00:30:10
 41,Law,William,Fife AC,M,00:30:20
-42,Bell-Scott,Rowena,Edinbugh Uni H&H,FU23,00:30:27
-43,Athersmith,Sam,Skipton,MU23,00:30:28
-44,Wilson,Thomas,Pendle,MU23,00:30:43
+42,Bell-Scott,Rowena,Edinbugh Uni H&H,F23,00:30:27
+43,Athersmith,Sam,Skipton,M23,00:30:28
+44,Wilson,Thomas,Pendle,M23,00:30:43
 45,Done,Tim,Keighley & Craven,M45,00:30:49
 46,Morrison,Alex,Arbroath Footers,M,00:31:20
 47,Sessford,Paul,Keighley & Craven,M40,00:31:37
@@ -59,7 +59,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 58,McCallum,Fergus,Unattached,M45,00:36:49
 59,Peacock,Miles,Unattached,M40,00:36:51
 60,Nairns,William,Ochil HR,M,00:36:53
-61,Morphet,Samantha,Cumberland FR,FU23,00:37:24
+61,Morphet,Samantha,Cumberland FR,F23,00:37:24
 62,Hall,Roger,Bingley Harriers,M50,00:37:54
 63,Biddle,Andrew,West Pennine,M50,00:37:57
 64,Narey,Sue,Bingley Harriers,F,00:39:13

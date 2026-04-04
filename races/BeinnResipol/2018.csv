@@ -4,11 +4,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Manson,Iain,Metro Aberdeen,M,01:12:11
 4,Waldie,James,HBT,M,01:14:13
 5,Beaven,Alexander,Highland Hill Runners,M,01:15:13
-6,Callan,Thomas,Westerlands CCC,MU23,01:15:30
+6,Callan,Thomas,Westerlands CCC,M23,01:15:30
 7,Luetchford,Alex,HBT,M,01:17:01
 8,Crutchfield,Stuart,Lochaber AC,M,01:17:20
 9,Gorman,Manny,Westerlands CCC,M50,01:17:41
-10,Callander,James,Westerlands CCC,MU23,01:18:37
+10,Callander,James,Westerlands CCC,M23,01:18:37
 11,Reid,Michael,Carnethy,M40,01:18:47
 12,McVey,Alex,Carnethy,M,01:18:50
 13,Connaghan,John,Shettleston Harriers,M40,01:18:56
@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Breckenridge,Bill,Shettleston Harriers,M50,01:22:08
 18,Winter,Stephen,Shettleston Harriers,M40,01:22:14
 19,Knoery,Charles,Unattached,M,01:22:24
-20,Braby,Liam,Carnethy,MU23,01:23:48
+20,Braby,Liam,Carnethy,M23,01:23:48
 21,Nicolson,William,Highland Hill Runners,M40,01:24:00
 22,Cruickshanks,Ross,Shettleston Harriers,M,01:24:13
 23,Pender,Iain,Shettleston Harriers,M,01:24:32
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Cummins,Dave,Highland Hill Runners,M50,01:27:03
 29,Willis,Jake,Lochaber AC,M40,01:28:02
 30,Freshwater,Craig,HBT,M,01:28:31
-31,Murphy,Ben,Strathearn Harriers,MU23,01:28:44
+31,Murphy,Ben,Strathearn Harriers,M23,01:28:44
 32,Warman,Julian,HBT,M40,01:28:56
 33,McKenzie,Gordon,Police Scotland,M40,01:28:58
 34,Wilson,Stewart,Highland Hill Runners,M50,01:29:02
@@ -70,7 +70,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 69,Lyons,Karen,Highland Hill Runners,F40,01:45:25
 70,Mackinnon,Vikki,Lochaber AC,F40,01:46:02
 71,Campbell,Brian,Lochaber AC,M50,01:46:57
-72,Gilmour,Mairi,Westerlands CCC,FU23,01:47:18
+72,Gilmour,Mairi,Westerlands CCC,F23,01:47:18
 73,Mackinnon,Fionna,Carnethy,F40,01:47:49
 74,Hawkins,Ian,Fife AC,M50,01:49:15
 75,Ritchie,Hilary,Fife AC,F50,01:49:26
@@ -83,7 +83,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 82,Ridyard,Alison,HBT,F40,01:52:27
 83,Cameron,Gordon,Carnethy,M60,01:52:54
 84,Horney,Nigel,Keswick AC,M60,01:53:13
-85,Knox,Lizzie,Anster Haddies,FU23,01:53:29
+85,Knox,Lizzie,Anster Haddies,F23,01:53:29
 86,Sim,Texa,Unattached,F,01:53:34
 87,Anderson,Joanne,Carnethy,F40,01:53:42
 88,Entwistle,Marie,Deeside Runners,F40,01:53:55

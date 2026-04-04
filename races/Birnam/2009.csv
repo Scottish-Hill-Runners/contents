@@ -1,7 +1,7 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Prasad,Prasad,Squadra Porcini,M,0:29:36
 2,Symonds,Andy,Carnegie Harriers,M,0:30:13
-3,Simpson,Robbie,Deeside Runners,MU20,0:30:22
+3,Simpson,Robbie,Deeside Runners,M20,0:30:22
 4,Marshall,Brian,HELP,M,0:31:45
 5,Crowe,Des,Penicuik Harriers,M40,0:33:24
 6,Davis,Adrian,Lomond Hill Runners,M40,0:33:26
@@ -12,7 +12,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Ward,Adam,Carnethy,M40,0:35:10
 12,Hirst,David,Deeside Runners,M40,0:37:24
 13,Bass,Owen,Solway,M40,0:37:26
-14,Buchanan,Catriona,Ochil Hill Runners,FU20,0:38:20
+14,Buchanan,Catriona,Ochil Hill Runners,F20,0:38:20
 15,Love,Craig,Dundee Hawkhill,M,0:39:15
 16,Buchanan,Hugh,Central AC,M40,0:39:21
 17,Anderson,Laurie,Lomond Hill Runners,M40,0:39:42

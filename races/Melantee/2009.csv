@@ -22,7 +22,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Simpson,Peter,Carnegie Harriers,M50,0:37:16
 22,Burns,Stephen,Lochaber AC,M,0:37:41
 23,Brooks,Graham,Lochaber AC,M50,0:38:02
-24,Macdonald,Matthew,Lochaber AC,MU23,0:38:18
+24,Macdonald,Matthew,Lochaber AC,M23,0:38:18
 25,Pryde,Gordon,Lomond Hill Runners,M50,0:38:44
 26,Dickson,David,Garscube Harriers,M50,0:39:58
 27,Heron,Gregor,Carnethy,M,0:40:14
@@ -84,7 +84,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 83,Bass,Ursula,Deeside Runners,F40,0:53:34
 84,Ness,Jo,Lochaber AC,F40,0:53:42
 85,Tomlinson,David,Lochaber AC,M60,0:53:43
-86,Evans,Neath,Unattached,FU23,0:53:50
+86,Evans,Neath,Unattached,F23,0:53:50
 87,Grainger,Moira,Fife AC,F40,0:54:01
 88,Finnimore,Andrew,Lochaber AC,M50,0:54:27
 89,Smith,Janice,HBT,F50,0:54:42

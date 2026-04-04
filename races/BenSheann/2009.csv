@@ -1,65 +1,65 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Prasad,Prasad,Clydesdale,M,00:24:01
 2,Wright,Andrew,Carnegie Harriers,M,00:25:56
-3,Stevenson,Jamie,Ochil Hillrunners,MJ,00:26:48
+3,Stevenson,Jamie,Ochil Hillrunners,M16,00:26:48
 4,Campbell,Graeme,Highland Hill Runners,M,00:27:00
-5,Fallon,Steven,Carnethy,MV,00:27:10
-6,Smith,Alan,Deeside Runners,MV,00:27:19
+5,Fallon,Steven,Carnethy,M,00:27:10
+6,Smith,Alan,Deeside Runners,M,00:27:19
 7,Eiser,Dave,Ochil Hillrunners,M,00:27:37
-8,Bennet,Sandy,Carnegie Harriers,MV,00:28:31
-9,Higginbottom,Mark,Carnethy,MV,00:29:23
+8,Bennet,Sandy,Carnegie Harriers,M,00:28:31
+9,Higginbottom,Mark,Carnethy,M,00:29:23
 10,Williams,Phil,Central AC,M,00:29:40
-11,Anderson,Russell,Moorfoot,SV,00:29:51
-12,Upson,Chris,Westerlands,MV,00:30:05
-13,Stevenson,John,Ochil Hillrunners,MV,00:30:29
+11,Anderson,Russell,Moorfoot,M40,00:29:51
+12,Upson,Chris,Westerlands,M,00:30:05
+13,Stevenson,John,Ochil Hillrunners,M,00:30:29
 14,O'Neill,Owen,Westerlands,M,00:30:39
-15,Kelly,Graham,Westerlands,MV,00:31:11
-16,Rennison,Chris,Pitreavie AAC,MJ,00:31:19
+15,Kelly,Graham,Westerlands,M,00:31:11
+16,Rennison,Chris,Pitreavie AAC,M16,00:31:19
 17,Walker,Craig,Unaffiliated,M,00:31:34
-18,Dickson,David,Garscube Harriers,SV,00:31:54
-19,Reid,Don,Westerlands,SV,00:32:06
-20,Macleod,Murdo,Westerlands,SV,00:32:10
+18,Dickson,David,Garscube Harriers,M40,00:31:54
+19,Reid,Don,Westerlands,M40,00:32:06
+20,Macleod,Murdo,Westerlands,M40,00:32:10
 21,Meekin,Nicola,Lochaber AC,F,00:32:11
-22,Houston,Val,Westerlands,FV,00:32:35
+22,Houston,Val,Westerlands,F,00:32:35
 23,Love,Craig,Dundee Hawkhill Harriers,M,00:33:56
-24,Duncan,David,Ochil Hillrunners,SV,00:34:02
-25,Calder,David,Westerlands,MV,00:34:03
-26,Hague,Peter,Strathearn Harriers,MV,00:34:04
+24,Duncan,David,Ochil Hillrunners,M40,00:34:02
+25,Calder,David,Westerlands,M,00:34:03
+26,Hague,Peter,Strathearn Harriers,M,00:34:04
 27,Finlay,Alayne,Ochil Hillrunners,F,00:34:05
 28,Homewood,Ellie,Westerlands,F,00:34:07
 29,Mathieson,Keith,Unaffiliated,M,00:34:08
-30,Gaughan,Adrian,Milburn Harriers,MV,00:34:35
-31,Hanlon,Dave,Dundee Hawkhill Harriers,SV,00:34:39
-32,Hunter,Alan,Ochil Hillrunners,MV,00:34:45
-33,Fitzpatrick,Pat,Ochil Hillrunners,SV,00:34:45
-34,Giles,Ben,Unaffiliated,MJ,00:34:45
-35,Johnston,Stephen,Milburn Harriers,MV,00:34:55
+30,Gaughan,Adrian,Milburn Harriers,M,00:34:35
+31,Hanlon,Dave,Dundee Hawkhill Harriers,M40,00:34:39
+32,Hunter,Alan,Ochil Hillrunners,M,00:34:45
+33,Fitzpatrick,Pat,Ochil Hillrunners,M40,00:34:45
+34,Giles,Ben,Unaffiliated,M16,00:34:45
+35,Johnston,Stephen,Milburn Harriers,M,00:34:55
 36,Brown,Jamie,Unaffiliated,M,00:35:06
-37,Bowman,A,Bedlon Runners,SV,00:35:10
-38,Brennan,Brian,Westerlands,SV,00:35:17
-39,McLean,Herbie,Lothian,SV,00:35:32
-40,Riddell,Duncan,Maryhill Harriers,MV,00:35:42
-41,O'Brian,Paul,Corstorphine AAC,SV,00:36:33
+37,Bowman,A,Bedlon Runners,M40,00:35:10
+38,Brennan,Brian,Westerlands,M40,00:35:17
+39,McLean,Herbie,Lothian,M40,00:35:32
+40,Riddell,Duncan,Maryhill Harriers,M,00:35:42
+41,O'Brian,Paul,Corstorphine AAC,M40,00:36:33
 42,Miller,Catriona,Westerlands,F,00:36:35
 43,Main,Alasdair,Dundee Hawkhill Harriers,M,00:36:55
-44,Stokoe,Deborah,Westerlands,FJ,00:37:01
+44,Stokoe,Deborah,Westerlands,F16,00:37:01
 45,Kelsall,Fiona,Central AC,F,00:37:51
-46,Gatehouse,Richard,Lomond Hillrunners,SV,00:38:01
-47,Smith,Tilly,Deeside Runners,FV,00:38:14
-48,Mitchell,Neill,Unaffiliated,MV,00:38:20
-49,Love,Charlie,Dundee Hawkhill Harriers,SV,00:38:23
+46,Gatehouse,Richard,Lomond Hillrunners,M40,00:38:01
+47,Smith,Tilly,Deeside Runners,F,00:38:14
+48,Mitchell,Neill,Unaffiliated,M,00:38:20
+49,Love,Charlie,Dundee Hawkhill Harriers,M40,00:38:23
 50,Weir,Jonathan,Unaffiliated,M,00:38:34
-51,Cromar,Steve,Dundee Hawkhill Harriers,SV,00:39:15
+51,Cromar,Steve,Dundee Hawkhill Harriers,M40,00:39:15
 52,Macdougall,Ken,Unaffiliated,M,00:39:19
-53,West,Alison,Carnegie Harriers,SV,00:39:22
+53,West,Alison,Carnegie Harriers,M40,00:39:22
 54,Gibson,Jim,Kirkintilloch Olympians,M,00:39:25
 55,Mclay,Matt,Strathearn Harriers,M,00:39:40
-56,Bussey,James,Strathearn Harriers,MV,00:40:36
-57,Johnston,Alistair,Unaffiliated,SV,00:40:55
-58,King,Alex,Ochil Hillrunners,MV,00:41:08
-59,Polak,Jo,Unaffiliated,FV,00:41:35
+56,Bussey,James,Strathearn Harriers,M,00:40:36
+57,Johnston,Alistair,Unaffiliated,M40,00:40:55
+58,King,Alex,Ochil Hillrunners,M,00:41:08
+59,Polak,Jo,Unaffiliated,F,00:41:35
 60,Jelly,Ewan,Unaffiliated,M,00:41:40
 61,Coyle,Caroline,Unaffiliated,F,00:41:42
-62,Johnston,Sheila,Unaffiliated,SV,00:41:45
-63,McManus,Ian,Irvine Athletic,SV,00:50:02
-64,Benny,Graham,Westerlands,SV,00:50:11
+62,Johnston,Sheila,Unaffiliated,M40,00:41:45
+63,McManus,Ian,Irvine Athletic,M40,00:50:02
+64,Benny,Graham,Westerlands,M40,00:50:11

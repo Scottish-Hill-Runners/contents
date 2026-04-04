@@ -1,29 +1,29 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gorman,Manny,Westerlands,M 40-49,00:23:18
-2,Smith,Alan,Deeside Runners,M 50-59,00:23:50
-3,Bannerman,Ross,Highland Hill Runners,M 40-49,00:25:26
-4,Fraser,Gary,Ochil Hillrunners,M 40-49,00:25:32
-5,Mardall,Nick,Deeside Runners,M 40-49,00:25:54
-6,Forrest,Stuart,Highland Hill Runners,M Senior,00:27:12
-7,Weir,Jonathon,Unattached,M Senior,00:30:40
-8,Connor,Julia,Tinto,F 40-49,00:30:43
-9,Brennan,Brian,Westerlands,M 50-59,00:31:10
-10,Hulme,Martin,Corstorphine AAC,M 60-69,00:31:21
-11,MacDougall,Colin,Tinto,M 40-49,00:31:28
-12,MacLean,Herbie,Lochtayside,M 60-69,00:31:53
-13,Shaw,Trevor,Lochtayside,M 40-49,00:32:02
-14,Bowman,Angus,Lomond Hill Runners,M 50-59,00:32:35
-15,Duncan,David,Ochil Hillrunners,M 50-59,00:33:32
-16,Wilson,Colin,Carnethy,M 50-59,00:34:00
-17,Marsh,Duncan,Thame Runners,M 40-49,00:34:52
-18,Howie,Jamie,Lochtayside,M Senior,00:34:55
-19,Drozdowicz,Marie Louise,Elswick Harriers,F 50-59,00:35:16
-20,Wilson,Joan,Carnethy,F 50-59,00:35:59
-21,Blackley,Lisa,Unattached,F Senior,00:37:59
-22,McCallum,Gordon,Lochtayside,M 40-49,00:38:35
-23,McAlpine,Roddy,Unattached,M 50-59,00:39:19
-24,Bowman,Jean,Lomond Hill Runners,F 50-59,00:39:36
-25,Beaumont,Susan,Lochtayside,F 50-59,00:40:34
-26,Forster,Kate,Lochtayside,F 40-49,00:43:20
-27,Paul,Brenda,Westerlands,F Senior,00:44:40
-28,Watts,David,Unattached,M Senior,00:50:50
+1,Gorman,Manny,Westerlands,M40,00:23:18
+2,Smith,Alan,Deeside Runners,M50,00:23:50
+3,Bannerman,Ross,Highland Hill Runners,M40,00:25:26
+4,Fraser,Gary,Ochil Hillrunners,M40,00:25:32
+5,Mardall,Nick,Deeside Runners,M40,00:25:54
+6,Forrest,Stuart,Highland Hill Runners,M,00:27:12
+7,Weir,Jonathon,Unattached,M,00:30:40
+8,Connor,Julia,Tinto,F40,00:30:43
+9,Brennan,Brian,Westerlands,M50,00:31:10
+10,Hulme,Martin,Corstorphine AAC,M60,00:31:21
+11,MacDougall,Colin,Tinto,M40,00:31:28
+12,MacLean,Herbie,Lochtayside,M60,00:31:53
+13,Shaw,Trevor,Lochtayside,M40,00:32:02
+14,Bowman,Angus,Lomond Hill Runners,M50,00:32:35
+15,Duncan,David,Ochil Hillrunners,M50,00:33:32
+16,Wilson,Colin,Carnethy,M50,00:34:00
+17,Marsh,Duncan,Thame Runners,M40,00:34:52
+18,Howie,Jamie,Lochtayside,M,00:34:55
+19,Drozdowicz,Marie Louise,Elswick Harriers,F50,00:35:16
+20,Wilson,Joan,Carnethy,F50,00:35:59
+21,Blackley,Lisa,Unattached,F,00:37:59
+22,McCallum,Gordon,Lochtayside,M40,00:38:35
+23,McAlpine,Roddy,Unattached,M50,00:39:19
+24,Bowman,Jean,Lomond Hill Runners,F50,00:39:36
+25,Beaumont,Susan,Lochtayside,F50,00:40:34
+26,Forster,Kate,Lochtayside,F40,00:43:20
+27,Paul,Brenda,Westerlands,F,00:44:40
+28,Watts,David,Unattached,M,00:50:50

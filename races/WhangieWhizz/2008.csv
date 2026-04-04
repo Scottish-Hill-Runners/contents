@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Barrable,Nick,Tonbridge AC,M,00:29:06
-2,Stevenson,Jamie,Ochil HR,MJ,00:29:41
+2,Stevenson,Jamie,Ochil HR,M16,00:29:41
 3,Wiseman,Bob,Ochil HR,M,00:29:50
 4,Ross,Dougal,Bellahouston RR,M,00:30:06
 5,Riach,David,Westerlands,M40,00:30:09
@@ -27,7 +27,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 26,Mitchell,Scott,Glasgow University,M,00:34:21
 27,Cross,Jon,Forth Valley Orienteers,M40,00:34:22
 28,Inman,Jason,Forth Valley Orienteers,M,00:34:32
-29,Coombs,Calum,Glasgow University,MJ,00:34:36
+29,Coombs,Calum,Glasgow University,M16,00:34:36
 30,Kelly,Graham,Westerlands,M,00:34:42
 31,Weir,Nick,Carnegie Harriers,M,00:34:46
 32,Robertson,Iona,Bellahouston RR,F,00:34:59
@@ -60,7 +60,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 59,Riddell,Duncan,Maryhill,M,00:38:23
 60,Hudson,Mark,Unattached,M,00:38:35
 61,Pugh,Roderick,Kilmarnock Harriers,M50,00:38:37
-62,Mackenzie,Sarah,Lochaber AC,FJ,00:38:39
+62,Mackenzie,Sarah,Lochaber AC,F16,00:38:39
 63,Hetherington,Michelle,Helensburgh AAC,F40,00:38:42
 64,Urie,Scott,Kilbarchan,M40,00:39:42
 65,Drewette,David,Unattached,M,00:39:53

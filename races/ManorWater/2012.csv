@@ -1,43 +1,43 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Fallas,Andrew,Carnethy HRC,MS,01:10:35
+1,Fallas,Andrew,Carnethy HRC,M,01:10:35
 2,Harris,Mark,Fife AC,M40,01:13:15
 3,Dougal,Darin,Moorfoot R,M40,01:15:42
-4,Paris,Jasmin,Carnethy HRC,FS,01:20:04
-5,Cox,Andrew,Moorfoot R,MS,01:20:34
-6,Mykura,Jill,Carnethy HRC,FS,01:21:12
-7,Hardie,James,Carnethy HRC,MS,01:21:16
+4,Paris,Jasmin,Carnethy HRC,F,01:20:04
+5,Cox,Andrew,Moorfoot R,M,01:20:34
+6,Mykura,Jill,Carnethy HRC,F,01:21:12
+7,Hardie,James,Carnethy HRC,M,01:21:16
 8,Borthwick,Charlie,Unatt,M40,01:22:06
 9,Andrew,Michael,Unatt,M40,01:22:18
-10,Kemp,Alex,Unatt,MS,01:22:44
+10,Kemp,Alex,Unatt,M,01:22:44
 11,Longmore,Rory,ADAC,M50,01:22:54
 12,Kirby,Graham,Fife AC,M40,01:23:09
 13,Nash,Graham,Carnethy HRC,M40,01:23:27
-14,Williams,Colin,Moorfoot R,MS,01:25:25
+14,Williams,Colin,Moorfoot R,M,01:25:25
 15,Whiteford,Kenny,Unatt,M40,01:26:57
-16,Rendle,Craig,Unatt,MS,01:26:58
-17,Patterson,Robert,Unatt,MS,01:26:59
+16,Rendle,Craig,Unatt,M,01:26:58
+17,Patterson,Robert,Unatt,M,01:26:59
 18,Martin,Neil,Lomond HR,M40,01:27:29
 19,Plummer,Kevin,ADAC,M40,01:27:41
-20,Bonsor,Helen,Carnethy HRC,FS,01:27:56
+20,Bonsor,Helen,Carnethy HRC,F,01:27:56
 21,Cameron,Gordon,Carnethy HRC,M50,01:28:22
 22,Coopland,Martin,ADAC,M40,01:29:08
 23,Burnett,Neil,Carnethy HRC,M40,01:30:04
-24,Donoghoe,James,Iron Belly,MS,01:30:36
-25,Robertson,Ally,Carnethy HRC,MS,01:30:38
+24,Donoghoe,James,Iron Belly,M,01:30:36
+25,Robertson,Ally,Carnethy HRC,M,01:30:38
 26,Kelly,Graham,Westerlands CCC,M40,01:30:41
 27,Lowe,David,Alnwick H,M40,01:31:05
 28,Taylo,Richard,Dunbar RC,M40,01:31:06
 29,Duff,John,Northumberland FR,M40,01:31:25
 30,Henry,Graham,Portobello RC,M40,01:31:59
-31,Proctor,Carl,Penicuik H,MS,01:34:01
+31,Proctor,Carl,Penicuik H,M,01:34:01
 32,Appleby,Paul,Northumberland FR,M50,01:34:20
 33,Pikett,William,Norham RC,M40,01:34:48
 34,Paul,Alastair,Northumberland FR,M50,01:35:39
-35,Jones,Matthew,Carnethy HRC,MS,01:36:10
-36,Connor,Julia,Moorfoot R,FS,01:36:37
+35,Jones,Matthew,Carnethy HRC,M,01:36:10
+36,Connor,Julia,Moorfoot R,F,01:36:37
 37,MacGregor,Stuart,Unatt,M40,01:36:50
 38,Thomas,Ranjit,Dumfries RC,M40,01:38:30
-39,Nowicki,Michael,Carnethy HRC,MS,01:39:07
+39,Nowicki,Michael,Carnethy HRC,M,01:39:07
 40,Gibson,Willie,Carnethy HRC,M50,01:39:08
 41,McCloy,David,Unatt,M40,01:39:40
 42,McPartland,Frank,HELP,M50,01:40:03
@@ -46,22 +46,22 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Semple,Hamilton,Westerlands CCC,M50,01:44:16
 46,Telfer,John,Northumberland FR,M50,01:45:38
 47,Heskin,David,Unatt,M40,01:45:46
-48,Millan,Alisdair,HBT,MS,01:47:32
-49,Clark,Lesley,Garioch RR,FS,01:49:09
+48,Millan,Alisdair,HBT,M,01:47:32
+49,Clark,Lesley,Garioch RR,F,01:49:09
 50,Powell,Alison,Carnethy HRC,F40,01:50:24
 51,Coyle,Shaun,Unatt,M40,01:51:32
-52,Walker,Sean,Unatt,MS,01:51:59
-53,Smith,Ben,Unatt,MS,01:53:13
+52,Walker,Sean,Unatt,M,01:51:59
+53,Smith,Ben,Unatt,M,01:53:13
 54,Nisbet,Dougie,Durham FR,M40,01:54:25
 55,Macdougall,Ken,Tinto HR,M40,01:55:10
 56,Heppell,Nigel,Elvet Striders,M50,01:56:46
-57,Phillips,Dominic,Unatt,MS,01:57:20
+57,Phillips,Dominic,Unatt,M,01:57:20
 58,Fettes,Paul,HELP,M50,01:57:57
 59,Buchanan,Jim,ADAC,M70,01:59:23
-60,Moncrieff,Stuart,Iron Belly,MS,02:00:36
-61,Khan,Mohammed,Unatt,MS,02:06:34
-62,Mackenzie,Becky,Carnethy HRC,FS,02:07:44
+60,Moncrieff,Stuart,Iron Belly,M,02:00:36
+61,Khan,Mohammed,Unatt,M,02:06:34
+62,Mackenzie,Becky,Carnethy HRC,F,02:07:44
 63,Priestley,Nigel,ADAC,M50,02:10:10
 64,Smith,Janice,HBT,F50,02:11:55
-65,Gerrie,Robert,Unatt,MS,02:27:22
+65,Gerrie,Robert,Unatt,M,02:27:22
 66,Wall,Dick,HBT,M50,02:33:24

@@ -13,12 +13,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Stevens,Max,Central AC,M,01:52:08
 13,Wight,Ally,Hartfell Hill Runners,M50,01:52:22
 14,Peutherer,Catherine,Shettleston Harriers,F,01:55:03
-15,Dickie,Adam,Dumfries Running Club,MV40,01:55:38
+15,Dickie,Adam,Dumfries Running Club,M40,01:55:38
 16,Campbell,Euan,Unattached,M,01:55:53
 17,Campbell,Joseph,Unattached,M,01:56:03
 18,Beardwood,Garry,Helm Hill Runners,M50,01:56:49
 19,Poulter,Alwyn,Westerlands CCC,M,01:58:09
-20,Reid,Don,Westerlands CCC,MV60,02:01:43
+20,Reid,Don,Westerlands CCC,M60,02:01:43
 21,Godfrey,James,Dumfries Running Club,M50,02:02:15
 22,Plummer,Kevin,Hartfell Hill Runners,M60,02:02:26
 23,Meldrum,Alasdair,Ayr Seaforth,M50,02:03:08
@@ -28,29 +28,29 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Gonzales,Alexandrea,The Bothy Running Club,F,02:07:57
 28,Gorgas,Steffen,Westerlands CCC,M50,02:08:39
 29,Gould,Steven,Rhins Runners,M60,02:09:50
-30,Bygrave,Keith,Galloway Harriers,MV50,02:10:15
-31,Banford,Alison,Hartfell Hill Runners,FV40,02:10:30
+30,Bygrave,Keith,Galloway Harriers,M50,02:10:15
+31,Banford,Alison,Hartfell Hill Runners,F40,02:10:30
 32,Gladstone,David,Rhins Runners,M50,02:10:35
-33,Edis,Chris,Keswick AC,MV,02:11:00
+33,Edis,Chris,Keswick AC,M,02:11:00
 34,Cowan,Bradley,Unattached,M,02:11:39
 35,Speight,Chris,Helm Hill Runners,M60,02:12:32
 36,Furse,Chris,Westerlands CCC,M50,02:13:26
 37,Spru?eniece,Liene,Westerlands CCC,F40,02:13:40
-38,McCallum,Alasdair,North Ayrshire SC,MV60,02:15:52
+38,McCallum,Alasdair,North Ayrshire SC,M60,02:15:52
 39,O'Neill,Owen,Westerlands CCC,M40,02:16:29
-40,Ingram,Claire,Hartfell Hill Runners,FV40,02:16:50
+40,Ingram,Claire,Hartfell Hill Runners,F40,02:16:50
 41,Boley,Michelle,Hartfell Hill Runners,F,02:17:20
-42,Bygrave,Nicole,Galloway Harriers,FV50,02:17:38
+42,Bygrave,Nicole,Galloway Harriers,F50,02:17:38
 43,Green,Tim,Westerlands CCC,M50,02:25:19
-44,Park,Archibald,Hartfell Hill Runners,MV60,02:34:05
-45,McCleary,Rowan,Galloway Harriers,FV50,02:34:10
+44,Park,Archibald,Hartfell Hill Runners,M60,02:34:05
+45,McCleary,Rowan,Galloway Harriers,F50,02:34:10
 46,Bardsley,Nicky,Hartfell Hill Runners,M40,02:35:30
 47,Heycock,Lucy,Hartfell Hill Runners,F50,02:35:30
-48,Donneley,John,Westerlands CCC,MV60,02:35:50
+48,Donneley,John,Westerlands CCC,M60,02:35:50
 49,Fullwood,Andrew,Westerlands CCC,M50,02:38:02
 50,Fearnside,Eddie,Galloway Harriers,M50,02:40:05
 51,Rycroft,Philip,Unattached,M60,02:41:08
 52,Howie,Brian,Carnethy HRC,M70,02:42:10
-53,Howlett,Paul,Unattached,MV50,02:50:00
+53,Howlett,Paul,Unattached,M50,02:50:00
 54,Lammers,Wiebke,Westerlands CCC,F40,03:01:19
 55,Stachnio,Hubert,Cairnsmore Milemunchers,M40,03:09:01

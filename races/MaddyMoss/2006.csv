@@ -1,72 +1,72 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Symonds,Andy,Kendal AC,S,00:53:52
-2,Ward,Adam,Carnethy,V,00:54:44
-3,Campbell,Graeme,Highland Hill Runners,S,00:55:08
-4,Riach,David,Westerlands,V,00:57:28
-5,Gay,Daniel,Unattached,S,00:58:23
-6,Fallon,Steven,Carnethy,V,00:59:26
-7,Anderson,Laurie,Fife AC,V,00:59:51
-8,Richards,Caspian,Ochil Hill Runners,S,00:59:51
-9,Jack,Ewan,Kirkintilloch Olympians,S,00:59:56
-10,Arnott,Neill,Lochaber AC,S,01:00:10
-11,Simpson,Geoff,HBT,V,01:00:24
-12,Theaker,Damien,Helensburgh AAC,V,01:00:33
-13,Mackay,Euan,Ochil Hill Runners,V,01:00:39
-14,Laing,Martin,Fife AC,V,01:00:59
-15,Murray,David,Ochil Hill Runners,V,01:01:06
-16,Glencorse,Colin,Unattached,S,01:01:17
-17,Reid,Don,Westerlands,V,01:02:15
-18,McCraw,Ron,Ochil Hill Runners,V,01:02:22
-19,Smith,Bruce,Standard Life,V,01:02:24
+1,Symonds,Andy,Kendal AC,M,00:53:52
+2,Ward,Adam,Carnethy,M,00:54:44
+3,Campbell,Graeme,Highland Hill Runners,M,00:55:08
+4,Riach,David,Westerlands,M,00:57:28
+5,Gay,Daniel,Unattached,M,00:58:23
+6,Fallon,Steven,Carnethy,M,00:59:26
+7,Anderson,Laurie,Fife AC,M,00:59:51
+8,Richards,Caspian,Ochil Hill Runners,M,00:59:51
+9,Jack,Ewan,Kirkintilloch Olympians,M,00:59:56
+10,Arnott,Neill,Lochaber AC,M,01:00:10
+11,Simpson,Geoff,HBT,M,01:00:24
+12,Theaker,Damien,Helensburgh AAC,M,01:00:33
+13,Mackay,Euan,Ochil Hill Runners,M,01:00:39
+14,Laing,Martin,Fife AC,M,01:00:59
+15,Murray,David,Ochil Hill Runners,M,01:01:06
+16,Glencorse,Colin,Unattached,M,01:01:17
+17,Reid,Don,Westerlands,M,01:02:15
+18,McCraw,Ron,Ochil Hill Runners,M,01:02:22
+19,Smith,Bruce,Standard Life,M,01:02:24
 20,Heron,Kyle,Forth Valley Orienteers,M,01:02:33
-21,Rathsen,Jon,HBT,S,01:02:50
-22,Hunter,Andrew,Carnegie Harriers,V,01:03:02
-23,Hulme,Martin,Corstorphine AAC,SV,01:03:42
-24,Buchanan,Peter,Ochil Hill Runners,V,01:04:50
-25,Puttock,Simon,Stirling Tri,V,01:05:07
-26,McInroy,Ross,Helensburgh AAC,SV,01:05:25
-27,Randfield,Simon,Unattached,S,01:05:55
-28,Scholes,John,Unattached,V,01:05:59
-29,Murdoch,George,Carnegie Harriers,V,01:06:09
-30,Gorgas,Steffen,Westerlands,S,01:06:14
-31,Allison,Murray,Unattached,V,01:06:26
-32,Mitchell,Dave,Dundee Hawkhill,V,01:06:29
-33,Donnely,John,Westerlands,V,01:06:49
-34,Fowler,Nigel,Fife AC,S,01:07:20
-35,Bartlett,Pat,Unattached,S,01:07:32
-36,Kerr,Hugh,Fife AC,V,01:08:20
-37,Semple,Hamilton,Westerlands,SV,01:08:21
-38,Robb,Stuart,Unattached,V,01:08:22
-39,Duffy,John,Shettleston,V,01:08:24
-40,Walker,Paul,Corstorphine AAC,S,01:08:26
-41,Winter,Stephen,Unattached,S,01:08:28
-42,Duncan,David,Ochil Hill Runners,SV,01:08:35
-43,Palmer,Helen,Westerlands,FS,01:08:48
-44,Fleming,Rod,Westerlands,S,01:09:00
-45,Kelly,Graham,Westerlands,S,01:09:40
-46,Bowie,Tom,Carnegie Harriers,SV,01:09:47
-47,Miller,Catriona,Westerlands,FS,01:10:43
+21,Rathsen,Jon,HBT,M,01:02:50
+22,Hunter,Andrew,Carnegie Harriers,M,01:03:02
+23,Hulme,Martin,Corstorphine AAC,M40,01:03:42
+24,Buchanan,Peter,Ochil Hill Runners,M,01:04:50
+25,Puttock,Simon,Stirling Tri,M,01:05:07
+26,McInroy,Ross,Helensburgh AAC,M40,01:05:25
+27,Randfield,Simon,Unattached,M,01:05:55
+28,Scholes,John,Unattached,M,01:05:59
+29,Murdoch,George,Carnegie Harriers,M,01:06:09
+30,Gorgas,Steffen,Westerlands,M,01:06:14
+31,Allison,Murray,Unattached,M,01:06:26
+32,Mitchell,Dave,Dundee Hawkhill,M,01:06:29
+33,Donnely,John,Westerlands,M,01:06:49
+34,Fowler,Nigel,Fife AC,M,01:07:20
+35,Bartlett,Pat,Unattached,M,01:07:32
+36,Kerr,Hugh,Fife AC,M,01:08:20
+37,Semple,Hamilton,Westerlands,M40,01:08:21
+38,Robb,Stuart,Unattached,M,01:08:22
+39,Duffy,John,Shettleston,M,01:08:24
+40,Walker,Paul,Corstorphine AAC,M,01:08:26
+41,Winter,Stephen,Unattached,M,01:08:28
+42,Duncan,David,Ochil Hill Runners,M40,01:08:35
+43,Palmer,Helen,Westerlands,F,01:08:48
+44,Fleming,Rod,Westerlands,M,01:09:00
+45,Kelly,Graham,Westerlands,M,01:09:40
+46,Bowie,Tom,Carnegie Harriers,M40,01:09:47
+47,Miller,Catriona,Westerlands,F,01:10:43
 48,Hutton,Paul,Carnegie Harriers,M,01:10:48
-49,Poolman,Ian,Fife AC,S,01:10:59
-50,King,Steven,Carnegie Harriers,S,01:11:33
-51,Hubbard,Peter,Unattached,S,01:12:31
-52,Dealtry,Eddie,Ochil Hill Runners,SV,01:12:48
-53,Campell,Ian,HBT,V,01:13:11
-54,Buchanan,Andrina,Central AC,FV,01:13:16
-55,Lang,J,Carnegie Harriers,V,01:13:25
-56,Lang,Kenny,Unattached,V,01:15:43
-57,Cromar,Steve,Dundee Hawkhill,SV,01:17:05
-58,Winship,Alison,Garscube Harriers,FS,01:18:05
-59,Ross,Alistair,Unattached,S,01:18:35
-60,Gatehouse,Richard,Lomond Hill Runners,SV,01:18:45
-61,Kirk,Katherine,Westerlands,FV,01:18:51
-62,Richardson,Matt,Linlithgow AC,S,01:20:32
-63,Phillips,Robert,Perth Road Runners,S,01:21:21
-64,Drewette,David,Unattached,S,01:21:50
-65,McAdam,Pauline,Westerlands,FSV,01:22:27
-66,Reiber,Josch,Pudsey & Bramley,V,01:22:41
-67,Turnbull,Drew,Westerlands,SV,01:23:45
-68,McCain,Fred,Carnethy,SV,01:24:12
-69,Nairns,William,Ochil Hill Runners,S,01:25:26
-70,Mclaughlin,Patricia,Westerlands,FSV,01:33:20
-71,Johnson,Alison,HBT,FV,01:42:20
+49,Poolman,Ian,Fife AC,M,01:10:59
+50,King,Steven,Carnegie Harriers,M,01:11:33
+51,Hubbard,Peter,Unattached,M,01:12:31
+52,Dealtry,Eddie,Ochil Hill Runners,M40,01:12:48
+53,Campell,Ian,HBT,M,01:13:11
+54,Buchanan,Andrina,Central AC,F,01:13:16
+55,Lang,J,Carnegie Harriers,M,01:13:25
+56,Lang,Kenny,Unattached,M,01:15:43
+57,Cromar,Steve,Dundee Hawkhill,M40,01:17:05
+58,Winship,Alison,Garscube Harriers,F,01:18:05
+59,Ross,Alistair,Unattached,M,01:18:35
+60,Gatehouse,Richard,Lomond Hill Runners,M40,01:18:45
+61,Kirk,Katherine,Westerlands,F,01:18:51
+62,Richardson,Matt,Linlithgow AC,M,01:20:32
+63,Phillips,Robert,Perth Road Runners,M,01:21:21
+64,Drewette,David,Unattached,M,01:21:50
+65,McAdam,Pauline,Westerlands,F40,01:22:27
+66,Reiber,Josch,Pudsey & Bramley,M,01:22:41
+67,Turnbull,Drew,Westerlands,M40,01:23:45
+68,McCain,Fred,Carnethy,M40,01:24:12
+69,Nairns,William,Ochil Hill Runners,M,01:25:26
+70,Mclaughlin,Patricia,Westerlands,F40,01:33:20
+71,Johnson,Alison,HBT,F,01:42:20

@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Wilson,Felix,Carnethy HRC,MU23,02:13:00
+1,Wilson,Felix,Carnethy HRC,M23,02:13:00
 2,Fisher,Sam,Howgill Harriers,M,02:13:40
 3,Campbell,Alasdair,Cambuslang Harriers,M,02:15:10
 4,Thornton,Alistair,Ochil Hill Runners,M,02:17:46
@@ -42,7 +42,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Davidson,Gregor,Lochaber AC,M40,02:53:28
 42,Peters,Ella,Westerlands CCC,F,02:54:06
 43,Fallas,Helen,Carnethy HRC,F,02:55:57
-44,Telfor,Gary,Edinburgh Uni H&H,MU23,02:56:29
+44,Telfor,Gary,Edinburgh Uni H&H,M23,02:56:29
 45,Waite,Joe,Westerlands CCC,M,02:56:29
 46,Karpowicz,Marcin,Portobello Running Club,M,02:57:45
 47,Anderson,Adam,Hartfell,M55,02:57:49
@@ -63,7 +63,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 62,McConville,Miles,Westerlands CCC,M,03:03:53
 63,Robson,Scott,Carnethy HRC,M,03:03:59
 64,Haunschmidt,Dominic,Unattached,M,03:04:34
-65,Horne,Arran,Westerlands CCC,MU23,03:05:45
+65,Horne,Arran,Westerlands CCC,M23,03:05:45
 66,Spinks,Nicky,Dark Peak,F55,03:06:07
 67,Wheeler,Mark,Hamilton Harriers,M40,03:06:26
 68,Darling,Christopher,Lomond Hill Runners,M40,03:06:27

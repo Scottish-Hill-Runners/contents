@@ -1,15 +1,15 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Donald,Naylor,HBT,M,00.35:27
-2,Al,Anthony,Ochil,M,00.36:12
+1,Donald,Naylor,HBT,M,00:35:27
+2,Al,Anthony,Ochil,M,00:36:12
 3,Kenny,Richmond,Bellahouston RR,M,00:36:27
 4,Graeme,Campbell,Highland,M,00:36:50
 5,Ian,Wellock,HBT,M,00:37:04
 6,Al,Hart,HBT,M,00:37:22
-7,Duncan,Coombs,EUH&H,MU23,00:37:50
+7,Duncan,Coombs,EUH&H,M23,00:37:50
 8,Adam,Ward,Carnethy,M40,00:37:53
 9,Ross,Milne,Lothian,M,00:38:02
 10,Manny,Gorman,Westies,M,00:38:10
-11,Jamie,Stevenson,Ochil,MU23,00:38:29
+11,Jamie,Stevenson,Ochil,M23,00:38:29
 12,Jamie,Thin,HBT,M40,00:38:30
 13,Des,Crowe,Shettleston,M40,00:38:43
 14,Chris,Upson,Westies,M40,00:38:50
@@ -18,7 +18,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 17,Jon,Ashcroft,Carnethy,M,00:39:23
 18,Alan,Smith,Deeside Runners,M40,00:39:24
 19,Steven,Fallon,Carnethy,M40,00:39:30
-20,Elke,Schmidt,Bellahouston RR,L,00:39:34
+20,Elke,Schmidt,Bellahouston RR,F,00:39:34
 21,Dan,Gay,HBT,M,00:40:24
 22,Billy,Minto,HBT,M40,00:40:40
 23,Andy,Spenceley,Carnethy,M40,00:41:00
@@ -28,26 +28,26 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Sam,Comerford,U/A,M,00:41:44
 28,Bruce,Smith,Carnethy,M40,00:42:20
 29,Ritchie,Cunningham,Carnegie,M,00:42:27
-30,James,Cumming,Corstorphine AAC,MU23,00:42:28
+30,James,Cumming,Corstorphine AAC,M23,00:42:28
 31,James,Jarvis,HBT,M,00:42:41
 32,Tom,Barr,HBT,M,00:42:48
-33,Catriona,Buchanan,Central AC,FJ,00:42:55
+33,Catriona,Buchanan,Central AC,F16,00:42:55
 34,Sula,Young,Highgate Harriers,F,00:42:57
 35,Nigel,Munro,City of E,M40,00:43:05
 36,Gordon,McCaffrey,Clydesdale,M50,00:43:22
 37,Mark,Higginbottom,Carnethy,M40,00:43:27
 38,Ed,Nicholas,Westies,M,00:43:49
 39,Robert,Hendry,U/A,M,00:43:56
-40,John,Donnelly,Westies,V40,00:44:00
-41,Davie,Duncan,Ochil,V50,00:44:07
-42,Becky,Carlyle,EUH&H,L,00:44:15
-43,Hugh,Buchanan,Central AC,V40,00:44:41
+40,John,Donnelly,Westies,M40,00:44:00
+41,Davie,Duncan,Ochil,M50,00:44:07
+42,Becky,Carlyle,EUH&H,F,00:44:15
+43,Hugh,Buchanan,Central AC,M40,00:44:41
 44,Charles,McColl,U/A,M,00:45:03
 45,Phil,Mowbray,HBT,M,00:45:06
-46,Megan,Mowbray,HBT,L,00:45:10
+46,Megan,Mowbray,HBT,F,00:45:10
 47,Triger,Simon,Westerlands,M,00:45:27
 48,Val,Houston,Westies,L40,00:45:27
-49,Richard,Bush,U/A,V40,00:46:01
+49,Richard,Bush,U/A,M40,00:46:01
 50,Johnston,Orr,Westies,M,00:46:27
 51,Jacques,Penderis,Westies,M,00:46:36
 52,Cameron,Scott,Carnethy,M40,00:46:42
@@ -55,7 +55,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 54,Rod,Pugh,Kilmarnock Harriers,M50,00:47:03
 55,Rob,McQuater,Westies,M,00:47:16
 56,Richard,Hill,Westies,M,00:47:26
-57,Ellen,Homewood,Westies,L,00:47:29
+57,Ellen,Homewood,Westies,F,00:47:29
 58,Derek,Paton,Carnethy,M,00:47:40
 59,Tim,Doyle,Penicuik H,M40,00:47:45
 60,Stuart,Matheson,Bellahouston RR,M,00:47:52
@@ -66,14 +66,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 65,Matthew,Ashcroft,U/A,M,00:51:45
 66,Donald,Smith,Westies,M60,00:52:33
 67,Deborah,MacDonald,HBT,L40,00:52:33
-68,Louise,Provan,HBT,L,00:55:07
+68,Louise,Provan,HBT,F,00:55:07
 69,Byron,Cox,HBT,M40,00:55:13
 70,Tony,Stapely,Portobello,M60,00:55:26
-71,Katherine,Kirk,Westies,L,00:56:16
-72,Lorna,Duffy,Carnethy,L,00:57:30
+71,Katherine,Kirk,Westies,F,00:56:16
+72,Lorna,Duffy,Carnethy,F,00:57:30
 73,D,Howieson,U/A,M40,00:58:25
 74,Colin,Pritchard,Carnethy,M60,01:03:25
-75,Brenda,Paul,U/A,L,01:06:09
-76,Ali,McNeil,HBT,L,01:09:47
+75,Brenda,Paul,U/A,F,01:06:09
+76,Ali,McNeil,HBT,F,01:09:47
 77,Phyllis,Mitchell,CAAC,L40,01:17:29
 78,GT Ali,Johnston,HBT,L40,01:17:29

@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-NULL,Whitlie,1= Stewart,Carnethy,M40,02:56:00
-NULL,Harris,1= Mark,Fife AC,M40,02:56:00
+1,Whitlie,Stewart,Carnethy,M40,02:56:00
+1,Harris,Mark,Fife AC,M40,02:56:00
 3,Tullie,Douglas,Edinburgh Uni H&H,M,02:59:16
 4,Mattocks,Craig,HBT,M,03:02:36
 5,Keith,Alec,HBT,M40,03:03:11
@@ -33,7 +33,7 @@ NULL,Harris,1= Mark,Fife AC,M40,02:56:00
 32,Hardie,James,Carnethy,M,03:36:26
 33,Rowland,Ian,Dunbar RC,M40,03:36:59
 34,Burt,Cameron,Westerlands,M,03:37:43
-35,Gilmore,Andrew,Carnethy,MU20,03:37:47
+35,Gilmore,Andrew,Carnethy,M20,03:37:47
 36,Glendinning,Greig,Bellahouston RR,M40,03:38:10
 37,Davidson,Kenneth,Moorfoot Runners,M40,03:38:39
 38,Gilkison,Alan,Westerlands,M40,03:38:52

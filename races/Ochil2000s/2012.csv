@@ -1,77 +1,77 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Strain,Murray,HBT,MS,02:39:17
-2,Raistrick,Paul,Inverness Harriers,MS,02:52:29
-3,Whitlie,Stewart,Carnethy,MSV,02:53:08
-4,Eiser,Dave,Ochil,MS,02:55:48
-5,Mattocks,Craig,HBT,MS,02:55:56
-6,Harris,Mark,Fife AC,MV,02:56:16
-7,Cummins,Dave,Shettleston Harriers,MV,03:02:26
-8,Rocke,John,Dark Peak Fell Runners,MS,03:06:29
-9,Hill,Chris,Cosmic Hillbashers,MS,03:06:38
-10,Ascroft,Jon,Carnethy,MV,03:07:32
-11,Cunningham,Richie,Carnegie,MV,03:07:39
-12,Paris,Jasmin,Carnethy,FS,03:08:38
-13,Walker,Iain,Westies,MS,03:08:52
-14,Winter,Stephen,Shettleston Harriers,MS,03:12:35
-15,Baxter,Grant,Ochil,MV,03:16:32
-16,Kirby,Graham,Fife AC,MV,03:18:24
-17,Gilkinson,Alan,Westies,MV,03:18:49
-18,Hardie,James,Carnethy,MS,03:18:50
-19,Tangey,Jacob,Dumfries Running Club,MS,03:18:51
-20,Fulton,David,HBT,MS,03:18:58
-21,O'Neil,Sarah,HBT,FS,03:21:47
-22,Priestly,Andrea,Ochil,FV,03:21:48
-23,Davis,Adrian,Carnethy,MSV,03:22:07
-24,Binne,John,L A C,MV,03:24:36
-25,Reid,Micheal,Moorfoot Runners,MS,03:36:16
-26,Pryde,Gordon,Lomond Hill Runners,MSV,03:37:42
-27,Edmondson,David,Clayton Le Moors Harriers,MV,03:40:47
-28,Mathews,Steve,Dundee Hawkhill Harriers,MV,03:43:54
-29,Manson,Alan,Unattached,MV,03:44:17
-30,Mitchell,Dave,Dundee Hawkhill Harriers,MSV,03:44:19
-31,Davie,Kevin,Carnegie,MS,03:44:47
-32,Finlay,Alayne,Ochil,FS,03:48:17
-33,Humphries,Phil,Carnethy,MV,03:48:18
-34,Heron,Gregor,Carnethy,MV,03:49:26
-35,Clarke,Daniel,Mersey Tri,MS,03:52:46
-36,Yule,Simon,Carnethy,MS,03:52:58
-37,Moffat,John,Highland Hill Runners,MSV,03:53:02
-38,Randfield,Simon,Unattached,MV,03:53:07
-39,Macintyre,Jacqueline,Carnegie,FS,03:53:09
-40,Byrne,John,Unattached,MV,03:54:49
-41,Connor,Julia,Moorfoot Runners,FS,03:54:51
-42,Burt,Louise,Fife AC,FV,03:57:01
-43,Love,Craig,Dundee Hawkhill Harriers,MV,04:02:37
-44,Sword,Lawrence Trevor,Unattached,MV,04:04:47
-45,Duke,Alasdair,Westies,MS,04:09:02
-46,Poolman,Ian,Fife AC,MS,04:09:14
-47,King,Steven,Carnegie,MV,04:10:25
-48,Templeman,Simon,Ochil,MV,04:16:39
-49,Morisseau,Florence,Unattached,FS,04:17:04
-50,Calothis,Marinos,Kinross Road Runners,MV,04:19:16
-51,Ingram,Richard,Gairloch,MS,04:21:13
-52,Quigley,James,Unattached,MS,04:21:14
-53,Rogowski,Andreas,Kinross Road Runners,MV,04:23:34
-54,Bowie,Tom,Carnegie,M60+,04:25:22
-55,Johnson,Simon,Unattached,MV,04:29:11
-56,Colegrave,John,Cosmic Hillbashers,MSV,04:29:16
-57,Nash,Paul,Carnethy,MS,04:30:09
-58,Riley,Elsie,Westies,FS,04:30:29
-59,Smithard,Phil,Carnegie,M60+,04:30:43
-60,Schneider,Mike,Unattached,MSV,04:40:21
-61,Gail,Allan,Central A.C.,MSV,04:41:01
-62,Sutcliffe,Jonathan,Todmorden Harriers,MV,04:45:59
-63,Love,Charlie,Dundee Hawkhill Harriers,M60+,04:49:43
-64,Wheeler,Mark,Unattached,MS,04:56:00
-65,Stankiewicz,Rob,Norham,MSV,05:04:03
-66,Law,Calum,Unattached,MS,05:06:47
-67,Mcallum,Alasdair,Unattached,MV,05:06:47
-68,Howie,Brian,Carnethy,M60+,05:12:32
-69,Lang,Sybil,Unattached,FV,05:18:55
-70,Greig,Alistair,Unattached,MSV,05:18:56
-71,Puttock,Simon,Stirling Triathlon,MSV,05:18:57
-72,Hindle,Elizabeth,Dallam Running Club,FSV,05:19:51
-73,Laverock,Julie,Salford Harriers,FV,05:31:56
-74,Groome,Breffni,Unattached,MV,05:49:31
-75,Watkinson,Bob,Unattached,MSV,05:50:52
-76,McAlpine,Roddy,Unattached,MSV,05:52:03
+1,Strain,Murray,HBT,M,02:39:17
+2,Raistrick,Paul,Inverness Harriers,M,02:52:29
+3,Whitlie,Stewart,Carnethy,M40,02:53:08
+4,Eiser,Dave,Ochil,M,02:55:48
+5,Mattocks,Craig,HBT,M,02:55:56
+6,Harris,Mark,Fife AC,M,02:56:16
+7,Cummins,Dave,Shettleston Harriers,M,03:02:26
+8,Rocke,John,Dark Peak Fell Runners,M,03:06:29
+9,Hill,Chris,Cosmic Hillbashers,M,03:06:38
+10,Ascroft,Jon,Carnethy,M,03:07:32
+11,Cunningham,Richie,Carnegie,M,03:07:39
+12,Paris,Jasmin,Carnethy,F,03:08:38
+13,Walker,Iain,Westies,M,03:08:52
+14,Winter,Stephen,Shettleston Harriers,M,03:12:35
+15,Baxter,Grant,Ochil,M,03:16:32
+16,Kirby,Graham,Fife AC,M,03:18:24
+17,Gilkinson,Alan,Westies,M,03:18:49
+18,Hardie,James,Carnethy,M,03:18:50
+19,Tangey,Jacob,Dumfries Running Club,M,03:18:51
+20,Fulton,David,HBT,M,03:18:58
+21,O'Neil,Sarah,HBT,F,03:21:47
+22,Priestly,Andrea,Ochil,F,03:21:48
+23,Davis,Adrian,Carnethy,M40,03:22:07
+24,Binne,John,L A C,M,03:24:36
+25,Reid,Micheal,Moorfoot Runners,M,03:36:16
+26,Pryde,Gordon,Lomond Hill Runners,M40,03:37:42
+27,Edmondson,David,Clayton Le Moors Harriers,M,03:40:47
+28,Mathews,Steve,Dundee Hawkhill Harriers,M,03:43:54
+29,Manson,Alan,Unattached,M,03:44:17
+30,Mitchell,Dave,Dundee Hawkhill Harriers,M40,03:44:19
+31,Davie,Kevin,Carnegie,M,03:44:47
+32,Finlay,Alayne,Ochil,F,03:48:17
+33,Humphries,Phil,Carnethy,M,03:48:18
+34,Heron,Gregor,Carnethy,M,03:49:26
+35,Clarke,Daniel,Mersey Tri,M,03:52:46
+36,Yule,Simon,Carnethy,M,03:52:58
+37,Moffat,John,Highland Hill Runners,M40,03:53:02
+38,Randfield,Simon,Unattached,M,03:53:07
+39,Macintyre,Jacqueline,Carnegie,F,03:53:09
+40,Byrne,John,Unattached,M,03:54:49
+41,Connor,Julia,Moorfoot Runners,F,03:54:51
+42,Burt,Louise,Fife AC,F,03:57:01
+43,Love,Craig,Dundee Hawkhill Harriers,M,04:02:37
+44,Sword,Lawrence Trevor,Unattached,M,04:04:47
+45,Duke,Alasdair,Westies,M,04:09:02
+46,Poolman,Ian,Fife AC,M,04:09:14
+47,King,Steven,Carnegie,M,04:10:25
+48,Templeman,Simon,Ochil,M,04:16:39
+49,Morisseau,Florence,Unattached,F,04:17:04
+50,Calothis,Marinos,Kinross Road Runners,M,04:19:16
+51,Ingram,Richard,Gairloch,M,04:21:13
+52,Quigley,James,Unattached,M,04:21:14
+53,Rogowski,Andreas,Kinross Road Runners,M,04:23:34
+54,Bowie,Tom,Carnegie,M60,04:25:22
+55,Johnson,Simon,Unattached,M,04:29:11
+56,Colegrave,John,Cosmic Hillbashers,M40,04:29:16
+57,Nash,Paul,Carnethy,M,04:30:09
+58,Riley,Elsie,Westies,F,04:30:29
+59,Smithard,Phil,Carnegie,M60,04:30:43
+60,Schneider,Mike,Unattached,M40,04:40:21
+61,Gail,Allan,Central A.C.,M40,04:41:01
+62,Sutcliffe,Jonathan,Todmorden Harriers,M,04:45:59
+63,Love,Charlie,Dundee Hawkhill Harriers,M60,04:49:43
+64,Wheeler,Mark,Unattached,M,04:56:00
+65,Stankiewicz,Rob,Norham,M40,05:04:03
+66,Law,Calum,Unattached,M,05:06:47
+67,Mcallum,Alasdair,Unattached,M,05:06:47
+68,Howie,Brian,Carnethy,M60,05:12:32
+69,Lang,Sybil,Unattached,F,05:18:55
+70,Greig,Alistair,Unattached,M40,05:18:56
+71,Puttock,Simon,Stirling Triathlon,M40,05:18:57
+72,Hindle,Elizabeth,Dallam Running Club,F40,05:19:51
+73,Laverock,Julie,Salford Harriers,F,05:31:56
+74,Groome,Breffni,Unattached,M,05:49:31
+75,Watkinson,Bob,Unattached,M40,05:50:52
+76,McAlpine,Roddy,Unattached,M40,05:52:03

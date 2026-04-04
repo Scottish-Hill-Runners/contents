@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Prasad,Prasad,Clydesdale Harriers,M Record,00:16:11
+1,Prasad,Prasad,Clydesdale Harriers,M,00:16:11
 2,Anderson,Adam,Carnethy,M40,00:17:45
 3,Cherry,Alan,Ayr Seaforth,M,00:18:02
 4,Glencorse,Colin,Strathearn Harriers,M,00:18:23
@@ -7,7 +7,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 6,White,David,Kilmarnock Harriers,M40,00:19:11
 7,Bell,David,Unattached,M,00:19:51
 8,Paul,Cameron,Unattached,M,00:19:55
-9,McIntosh,Toni,Ayr Seaforth,F Record,00:20:37
+9,McIntosh,Toni,Ayr Seaforth,F,00:20:37
 10,Kerr,Andrew,Troon Tortoises,M,00:20:50
 11,Moore,John,Irvine AC,M40,00:20:54
 12,McCulloch,Tom,Ayr Seaforth,M50,00:21:10
@@ -21,7 +21,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 20,de Pins,Francois,Unattached,M,00:23:02
 21,Mcnee,Ian,Troon Tortoises,M40,00:23:12
 22,Drain,Alex,Troon Tortoises,M,00:23:20
-23,Fergusson,Ollie,Unattached,MJ,00:23:29
+23,Fergusson,Ollie,Unattached,M16,00:23:29
 24,Judd,Jack,Unattached,M,00:23:45
 25,Smith,Neil,Unattached,M,00:23:46
 26,Emsley,Paul,Arran Runners,M50,00:24:05

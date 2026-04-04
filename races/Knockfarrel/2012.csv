@@ -1,56 +1,56 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Symonds,Joe,HBT,M,00:37:56
 2,Lennox,Gordon,Forres,M,00:42:19
-3,Keith,Alec,HBT,MV40,00:43:56
+3,Keith,Alec,HBT,M40,00:43:56
 4,Bannerman,Ross,HHR,M,00:44:35
 5,McManus,Ciaran,UA,M,00:45:17
 6,MacDonald,Grant,Bellahouston RR,M,00:45:32
 7,Trevelyan,Jack,NHH,M,00:45:41
 8,Golabek,Tony,UA,M,00:46:08
-9,MacDonald,Dougie,HHR,MV40,00:46:43
+9,MacDonald,Dougie,HHR,M40,00:46:43
 10,Campbell,Stuart,Ross County,M,00:48:09
-11,Briffet,Graham,HHR,MV40,00:48:27
-12,Wilson,Stuart,Inverness Harriers,MV40,00:49:13
-13,Paterson,George,Moravian Orienteers,MV40,00:49:27
+11,Briffet,Graham,HHR,M40,00:48:27
+12,Wilson,Stuart,Inverness Harriers,M40,00:49:13
+13,Paterson,George,Moravian Orienteers,M40,00:49:27
 14,Forrest,Stuart,HHR,M,00:50:38
 15,O'Connell,Michael,UA,M,00:50:41
-16,Duncan,Eric,HHR,MV40,00:50:59
-17,Lyons,Karen,HHR,LV40,00:51:02
+16,Duncan,Eric,HHR,M40,00:50:59
+17,Lyons,Karen,HHR,F40,00:51:02
 18,Whiteside,Gavin,UA,M,00:51:12
-19,Shepherd,Roma,Inverness Harriers,L,00:51:26
-20,Macdougall,Morina,HHR,L,00:51:52
-21,Soriven,Alice,UA,L,00:53:32
-22,Roberts,Richard,HHR,MV40,00:54:31
+19,Shepherd,Roma,Inverness Harriers,F,00:51:26
+20,Macdougall,Morina,HHR,F,00:51:52
+21,Soriven,Alice,UA,F,00:53:32
+22,Roberts,Richard,HHR,M40,00:54:31
 23,Du Plessis,Christoff,UA,M,00:54:33
 24,Mckechnie,Russel,HHR,M,00:55:00
-25,Nadin,Simon,HHR,MV40,00:56:15
-26,McIntyre,Grant,UA,MV40,00:56:40
-27,McIntyre,Iain,HHR,MV50,00:56:44
-28,Earnshaw,Colin,NHH,MV40,00:57:02
-29,Kennedy,Steve,Lochaber,MV50,00:57:26
-30,Stevenson,Jim,Beacon Runners,MV40,00:57:29
-31,Dickinson,Scott,UA,MV40,00:57:45
-32,Stanger,Lorna,NHH,LV40,00:57:47
+25,Nadin,Simon,HHR,M40,00:56:15
+26,McIntyre,Grant,UA,M40,00:56:40
+27,McIntyre,Iain,HHR,M50,00:56:44
+28,Earnshaw,Colin,NHH,M40,00:57:02
+29,Kennedy,Steve,Lochaber,M50,00:57:26
+30,Stevenson,Jim,Beacon Runners,M40,00:57:29
+31,Dickinson,Scott,UA,M40,00:57:45
+32,Stanger,Lorna,NHH,F40,00:57:47
 33,Wallace,Craig,Vegan runners,M,00:57:54
 34,Maskrey,Ben,HHR,M,00:56:02
-35,Henderson,Jenny,HHR,L,00:58:26
-36,Robinson,Neil,Ross County,MV40,00:59:32
-37,Weir,Mark,Tain Runners,MV40,00:59:39
-38,Simpson,Geoff,HBT,MV50,01:00:02
-39,Nadin,Bethan,HHR,L,01:00:43
-40,Christie,Sandy,NHH,MV50,01:01:07
-41,Whealing,Chris,UA,MV50,01:01:27
-42,Piper,Claire,HHR,LV40,01:02:05
+35,Henderson,Jenny,HHR,F,00:58:26
+36,Robinson,Neil,Ross County,M40,00:59:32
+37,Weir,Mark,Tain Runners,M40,00:59:39
+38,Simpson,Geoff,HBT,M50,01:00:02
+39,Nadin,Bethan,HHR,F,01:00:43
+40,Christie,Sandy,NHH,M50,01:01:07
+41,Whealing,Chris,UA,M50,01:01:27
+42,Piper,Claire,HHR,F40,01:02:05
 43,Burnside,Steven,JS Inverness,M,01:06:39
-44,Nadin,Louise,HHR,LV50,01:07:20
-45,Cook,Alan,Tain Runners,MV50,01:09:44
-46,Reid,George,TRI Inverness,MV50,01:10:02
-47,Robinson,Dana,Ross County,LV40,01:11:03
-48,McPartlin,Gerry,UA,MV60,01:11:53
-49,Johnston,Emma,Tain Runners,LV40,01:12:29
-50,Paul,Brenda,Westerlands,L,01:16:43
-51,Cook,Caroline,Tain Runners,LV40,01:17:07
-52,Holloway,Dane,UA,MV50,01:17:29
-53,Mackay,Anne,Tain Runners,LV40,01:18:21
-54,Johnson,Alison,HBT,LV50,01:21:14
-55,Stevenson,Rosalind,Beacon Runners,L,01:21:50
+44,Nadin,Louise,HHR,F50,01:07:20
+45,Cook,Alan,Tain Runners,M50,01:09:44
+46,Reid,George,TRI Inverness,M50,01:10:02
+47,Robinson,Dana,Ross County,F40,01:11:03
+48,McPartlin,Gerry,UA,M60,01:11:53
+49,Johnston,Emma,Tain Runners,F40,01:12:29
+50,Paul,Brenda,Westerlands,F,01:16:43
+51,Cook,Caroline,Tain Runners,F40,01:17:07
+52,Holloway,Dane,UA,M50,01:17:29
+53,Mackay,Anne,Tain Runners,F40,01:18:21
+54,Johnson,Alison,HBT,F50,01:21:14
+55,Stevenson,Rosalind,Beacon Runners,F,01:21:50

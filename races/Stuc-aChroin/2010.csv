@@ -1,159 +1,152 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Simpson,Robbie,Deeside Runners,M,02:15:41
-2,Marshall,Brian,HELP,MV,02:22:37
-3,Whitlie,Stewart,Carnethy HRC,MV,02:24:51
-4,Harris,Mark,Fife AC,MV,02:25:43
+2,Marshall,Brian,HELP,M,02:22:37
+3,Whitlie,Stewart,Carnethy HRC,M,02:24:51
+4,Harris,Mark,Fife AC,M,02:25:43
 5,Hesling,Sam,Carnethy HRC,M,02:26:10
 6,Fallas,Andrew,Carnethy HRC,M,02:30:15
 7,Eiser,Dave,Ochil Hillrunners,M,02:30:35
-8,Smith,Alan,Deeside Runners,MV,02:31:52
+8,Smith,Alan,Deeside Runners,M,02:31:52
 9,Mudge,Angela,Carnethy HRC,F,02:32:38
-10,Manners,Will,Strathearn Harriers,MV,02:33:35
+10,Manners,Will,Strathearn Harriers,M,02:33:35
 11,Collinson,Kim,Eden Runners,M,02:34:47
-12,Gallagher,Ronnie,Carnethy HRC,MV50,02:35:22
+12,Gallagher,Ronnie,Carnethy HRC,M50,02:35:22
 13,Bannerman,Ross,Highland Hillrunners,M,02:35:25
-14,MacKenzie,Donald,Lomond Hillrunners,MV,02:36:00
-15,Gorman,Manny,Westerlands,MV,02:36:02
-16,Knox,Jonny,Anster Haddies,MV,02:37:54
+14,MacKenzie,Donald,Lomond Hillrunners,M,02:36:00
+15,Gorman,Manny,Westerlands,M,02:36:02
+16,Knox,Jonny,Anster Haddies,M,02:37:54
 17,Ward,Ray,Hunters Bog Trotters,M,02:38:20
 18,Williams,Phil,Central AC - LOCAL,M,02:40:01
-19,Van Gompel,Roger,Dundee Hawkhill Harriers,MV,02:40:27
-20,Simpson,Peter,Carnegie Harriers,MV50,02:42:32
-21,Scott,David,Ochil Hillrunners,MV50,02:44:19
+19,Van Gompel,Roger,Dundee Hawkhill Harriers,M,02:40:27
+20,Simpson,Peter,Carnegie Harriers,M50,02:42:32
+21,Scott,David,Ochil Hillrunners,M50,02:44:19
 22,Burt,Cameron,Carnethy HRC,M,02:45:04
-23,Laing,Martin,Fife AC,MV50,02:46:25
-24,Anderson,Adam,Carnethy HRC,MV,02:46:39
+23,Laing,Martin,Fife AC,M50,02:46:25
+24,Anderson,Adam,Carnethy HRC,M,02:46:39
 25,Love,Craig,Dundee Hawkhill Harriers,M,02:46:48
 26,Campbell,Graeme,Highland Hillrunners,M,02:47:15
-27,Priestley,Andrea,Ochil Hillrunners,FV,02:47:32
-28,Mills,Ian,Anster Haddies,MV,02:47:55
+27,Priestley,Andrea,Ochil Hillrunners,F,02:47:32
+28,Mills,Ian,Anster Haddies,M,02:47:55
 29,Weatherhogg,Keri,Perth Road Runners,F,02:48:46
-30,Williamson,Jason,Cosmic Hillbashers,MV,02:49:18
+30,Williamson,Jason,Cosmic Hillbashers,M,02:49:18
 31,Price,Philip,Team Cruachan,M,02:49:53
-32,Nash,Graham,Unattached,MV,02:51:12
+32,Nash,Graham,Unattached,M,02:51:12
 33,Short,Allister,Unattached,M,02:51:21
 34,Ross,Dougal,Bellahouston RR,M,02:51:43
-35,Roper,Marc,Giffnock North,MV,02:52:27
-36,Pryde,Gordon,Lomond Hillrunners,MV50,02:52:44
-37,Fox,Andrew,Glossopdale Harriers,MV50,02:53:17
+35,Roper,Marc,Giffnock North,M,02:52:27
+36,Pryde,Gordon,Lomond Hillrunners,M50,02:52:44
+37,Fox,Andrew,Glossopdale Harriers,M50,02:53:17
 38,Heron,Kyle,Forth Valley Orienteers - LOCAL,M,02:53:37
-39,Heron,Gregor,Carnethy HRC,MV,02:53:59
-40,Anderson,Laurie,Fife AC,MV50,02:54:34
-41,Rogers,David,Westerlands,MV,02:55:51
-42,Crossland,Richard,Calder Valley,MV50,02:58:09
-43,Larmour,Colin,Cosmic Hillbashers,MV,02:58:13
-44,Dean,Hazel,Central AC - LOCAL,FV,02:58:18
-45,Kerr,Hugh,Central AC,MV,02:58:45
-46,Breckenridge,Bill,Shettleston Harriers,MV,02:58:48
-47,Black,Andy,Wharfdale Harriers,MV,02:59:23
-48,Short,Kenny,Teviotdale,MV,02:59:26
+39,Heron,Gregor,Carnethy HRC,M,02:53:59
+40,Anderson,Laurie,Fife AC,M50,02:54:34
+41,Rogers,David,Westerlands,M,02:55:51
+42,Crossland,Richard,Calder Valley,M50,02:58:09
+43,Larmour,Colin,Cosmic Hillbashers,M,02:58:13
+44,Dean,Hazel,Central AC - LOCAL,F,02:58:18
+45,Kerr,Hugh,Central AC,M,02:58:45
+46,Breckenridge,Bill,Shettleston Harriers,M,02:58:48
+47,Black,Andy,Wharfdale Harriers,M,02:59:23
+48,Short,Kenny,Teviotdale,M,02:59:26
 49,O'Shea,Emma,Deeside Runners,F,03:00:10
-50,Buchanan,Peter,Ochil Hillrunners,MV50,03:00:20
-51,Fraser,Gary,Ochil Hillrunners,MV,03:00:23
-52,Laycock,Andy,Kinross,MV,03:01:17
-53,Upson,Chris,Westerlands,MV,03:01:43
-54,Pringle,Alastair,Shettleston Harriers,MV,03:01:50
+50,Buchanan,Peter,Ochil Hillrunners,M50,03:00:20
+51,Fraser,Gary,Ochil Hillrunners,M,03:00:23
+52,Laycock,Andy,Kinross,M,03:01:17
+53,Upson,Chris,Westerlands,M,03:01:43
+54,Pringle,Alastair,Shettleston Harriers,M,03:01:50
 55,Craighead,Scott,Unattached,M,03:01:55
-56,Simpson,Stuart,Ochil Hillrunners,MV,03:02:57
-57,Turnbull,Les,Norham RC,MV50,03:03:31
-58,Higginbottom,Jacqui,Carnethy HRC,FV,03:05:56
-59,Brannan,Tosh,Lothian,MV50,03:06:00
-60,Foster,Mark,Unattached,MV,03:06:06
-61,Malia,David,Cobra,MV,03:07:30
-62,Balfour,Eddie,Moorfoot Hillrunners,MV,03:07:37
-63,Duncan,David,Ochil Hillrunners,MV50,03:08:08
+56,Simpson,Stuart,Ochil Hillrunners,M,03:02:57
+57,Turnbull,Les,Norham RC,M50,03:03:31
+58,Higginbottom,Jacqui,Carnethy HRC,F,03:05:56
+59,Brannan,Tosh,Lothian,M50,03:06:00
+60,Foster,Mark,Unattached,M,03:06:06
+61,Malia,David,Cobra,M,03:07:30
+62,Balfour,Eddie,Moorfoot Hillrunners,M,03:07:37
+63,Duncan,David,Ochil Hillrunners,M50,03:08:08
 64,Matthews,Steve,Dundee Hawkhill Harriers,M,03:08:33
-65,Wilson,Stewart,Inverness Harriers,MV,03:08:42
+65,Wilson,Stewart,Inverness Harriers,M,03:08:42
 66,Page,Keri,Lochaber AC,F,03:09:32
-67,Roberts,Clive,Unattached,MV50,03:11:09
+67,Roberts,Clive,Unattached,M50,03:11:09
 68,Vogwell,Simon,Unattached,M,03:11:41
-69,Dickson,David,Garscube Harriers,MV50,03:12:07
-70,Brooks,Mike,Penicuik Harriers,MV,03:12:13
-71,Reid,Don,Westerlands,MV50,03:12:25
-72,Hood,Alasdair,Fife AC,MV50,03:12:32
-73,Barrie,Stewart,Hunters Bog Trotters,MV,03:12:34
+69,Dickson,David,Garscube Harriers,M50,03:12:07
+70,Brooks,Mike,Penicuik Harriers,M,03:12:13
+71,Reid,Don,Westerlands,M50,03:12:25
+72,Hood,Alasdair,Fife AC,M50,03:12:32
+73,Barrie,Stewart,Hunters Bog Trotters,M,03:12:34
 74,O'Sullivan,Sean,Cosmic Hillbashers,M,03:12:55
-75,Allison,Murray,Unattached,MV,03:13:07
-76,Wilson,Colin,Carnethy HRC,MV,03:13:21
-77,Mitchell,Dave,Dundee Hawkhill Harriers,MV,03:13:49
+75,Allison,Murray,Unattached,M,03:13:07
+76,Wilson,Colin,Carnethy HRC,M,03:13:21
+77,Mitchell,Dave,Dundee Hawkhill Harriers,M,03:13:49
 78,McFarlane,Steven,Unattached,M,03:15:09
-79,McCaffrey,Gordon,Unattached,MV50,03:15:31
-80,Gutteridge,Gary,Cosmic Hillbashers,MV50,03:15:33
-81,Donnelly,John,Westerlands,MV,03:15:38
+79,McCaffrey,Gordon,Unattached,M50,03:15:31
+80,Gutteridge,Gary,Cosmic Hillbashers,M50,03:15:33
+81,Donnelly,John,Westerlands,M,03:15:38
 82,Brettle,Matthew,Cosmic Hillbashers,M,03:15:44
-82,Summers,Robert,Beacon Runners,MV,03:15:44
-84,Eadie,Gordon,Musselburgh & District AC,MV50,03:15:50
-85,Hawley,Tim,Dark Peak Fell Runners,MV50,03:16:25
-86,Templeman,Simon,Ochil Hillrunners,MV,03:16:36
-87,Sheridan,Bob,Cosmic Hillbashers,MV,03:16:40
+82,Summers,Robert,Beacon Runners,M,03:15:44
+84,Eadie,Gordon,Musselburgh & District AC,M50,03:15:50
+85,Hawley,Tim,Dark Peak Fell Runners,M50,03:16:25
+86,Templeman,Simon,Ochil Hillrunners,M,03:16:36
+87,Sheridan,Bob,Cosmic Hillbashers,M,03:16:40
 88,Dearman,Mike,Cairngorm Runners,M,03:16:49
 89,McClelland,Peter,Hunters Bog Trotters,M,03:19:24
-90,Gorgas,Steffen,Westerlands,MV,03:20:46
-91,Milne,Bruce,Carnethy HRC,MV,03:21:35
-91,Buchanan,Hugh,Central AC,MV,03:21:35
+90,Gorgas,Steffen,Westerlands,M,03:20:46
+91,Milne,Bruce,Carnethy HRC,M,03:21:35
+91,Buchanan,Hugh,Central AC,M,03:21:35
 93,Robertson,Adrian,Unattached,M,03:24:19
-94,Main,Alasdair,Dundee Hawkhill Harriers,MV,03:24:48
-95,Stankiewicz,Rob,Norham RC,MV50,03:25:21
+94,Main,Alasdair,Dundee Hawkhill Harriers,M,03:24:48
+95,Stankiewicz,Rob,Norham RC,M50,03:25:21
 96,Laing,Sarah,Unattached - LOCAL,F,03:25:26
 97,Brown,Jamie,Hunters Bog Trotters,M,03:25:58
-98,Adams,Keith,Westerlands,MV50,03:26:27
-99,Allison,Bob,Fife AC,MV50,03:26:44
-100,Caullett,Andy,Lomond Hillrunners,MV,03:27:09
-101,Black,Micheal,Unattached,MV50,03:27:28
-102,Hamilton,Ian,Cosmic Hillbashers,MV50,03:27:48
+98,Adams,Keith,Westerlands,M50,03:26:27
+99,Allison,Bob,Fife AC,M50,03:26:44
+100,Caullett,Andy,Lomond Hillrunners,M,03:27:09
+101,Black,Micheal,Unattached,M50,03:27:28
+102,Hamilton,Ian,Cosmic Hillbashers,M50,03:27:48
 103,Cooper,Meike,Perth Road Runners,F,03:28:02
 104,Murdoch,David,Lomond Hillrunners,M,03:28:04
 105,McKechnie,Eilis,Hunters Bog Trotters,F,03:28:18
-106,Williams,Rupert,Unattached,MV,03:28:49
-107,Macauley,Allan,Carnegie Harriers,MV50,03:29:28
+106,Williams,Rupert,Unattached,M,03:28:49
+107,Macauley,Allan,Carnegie Harriers,M50,03:29:28
 108,Simpson,Jane,Bellahouston RR,F,03:29:50
 109,Weir,Jonathan,Unattached,M,03:30:58
-110,Gaughan,Adrian,Milburn Harriers,MV,03:31:17
+110,Gaughan,Adrian,Milburn Harriers,M,03:31:17
 111,McCracken,Morag,Hunters Bog Trotters,F,03:31:27
 112,Craig,Brendan,Unattached,M,03:31:45
-113,Johnston,Stephen,Milburn Harriers,MV,03:32:01
+113,Johnston,Stephen,Milburn Harriers,M,03:32:01
 114,Curtis,Lee,Dunbar RC,M,03:32:24
 115,Bonsor,Helen,Carnethy HRC,F,03:32:35
 116,Turner,Dave,Unattached,M,03:33:37
-117,Hall,Jim,Highland Hillrunners,MV50,03:33:42
+117,Hall,Jim,Highland Hillrunners,M50,03:33:42
 118,Robertson,Iain,Cairngorm Runners,M,03:34:32
-119,Ledlie,Colin,Carnethy HRC,MV,03:34:42
-120,Till,Dave,Helm Hillrunners,MV50,03:34:56
+119,Ledlie,Colin,Carnethy HRC,M,03:34:42
+120,Till,Dave,Helm Hillrunners,M50,03:34:56
 121,Ward,Claire,Hunters Bog Trotters,F,03:35:07
 122,Cumming,James,Unattached,M,03:36:25
 123,Megaw,James,Unattached,M,03:37:25
-124,West,Alison,Carnegie Harriers,FV50,03:39:41
-125,Dealtry,Eddie,Ochil Hillrunners,MV60,03:40:00
+124,West,Alison,Carnegie Harriers,F50,03:39:41
+125,Dealtry,Eddie,Ochil Hillrunners,M60,03:40:00
 126,McKechnie,Andrew,Hunters Bog Trotters,M,03:40:52
-127,Mitchell,Neill,Unattached,MV,03:41:13
-128,Stewart,Elaine,Cosmic Hillbashers,FV50,03:42:48
-129,Love,Charlie,Dundee Hawkhill Harriers,MV60,03:43:32
-130,McAleer,George,Unattached,MV,03:44:45
-131,Martin,Ron,Ochil Hillrunners,MV,03:44:48
+127,Mitchell,Neill,Unattached,M,03:41:13
+128,Stewart,Elaine,Cosmic Hillbashers,F50,03:42:48
+129,Love,Charlie,Dundee Hawkhill Harriers,M60,03:43:32
+130,McAleer,George,Unattached,M,03:44:45
+131,Martin,Ron,Ochil Hillrunners,M,03:44:48
 132,Pendry,Tom,Ochil Hillrunners,M,03:45:40
 133,Delaney,Liz,Cosmic Hillbashers,F,03:45:43
 134,Macrae,Joady,Unattached,M,03:45:47
-135,Bellarey,Jonathan,Cosmic Hillbashers,MV,03:45:57
+135,Bellarey,Jonathan,Cosmic Hillbashers,M,03:45:57
 136,Irvine,John,Dundee Road Runners,M,03:46:02
-137,Clunas,Gillian,Cosmic Hillbashers,FV50,03:50:13
-138,Semple,Hamilton,Westerlands,MV50,03:51:29
+137,Clunas,Gillian,Cosmic Hillbashers,F50,03:50:13
+138,Semple,Hamilton,Westerlands,M50,03:51:29
 139,Hailey,Lucy,Carnethy HRC,F,03:53:26
-140,Harmer,John,Westerlands,MV,03:56:38
-141,McLean,Herbie,Lothian - LOCAL,MV60,03:57:16
-142,Hughes,Bob,Ochil Hillrunners - LOCAL,MV50,04:00:57
+140,Harmer,John,Westerlands,M,03:56:38
+141,McLean,Herbie,Lothian - LOCAL,M60,03:57:16
+142,Hughes,Bob,Ochil Hillrunners - LOCAL,M50,04:00:57
 143,Murray,David,Unattached,M,04:03:52
-144,Littlewood,John,Carnethy HRC,MV60,04:04:25
-145,Cowan,Paula,Westerlands,FV,04:05:52
-146,McPherson,Hugh,Unattached,MV60,04:07:31
-147,Polak,Jo,Unattached,FV,04:10:07
+144,Littlewood,John,Carnethy HRC,M60,04:04:25
+145,Cowan,Paula,Westerlands,F,04:05:52
+146,McPherson,Hugh,Unattached,M60,04:07:31
+147,Polak,Jo,Unattached,F,04:10:07
 148,MacDonald,Donna,Lochaber AC,F,04:15:47
 149,Carmichael,Neil,Unattached,M,04:24:33
-150,McManus,Ian,Irvine Athletic,MV60,04:34:00
-151,Bowman,Jean,Beacon Runners,FV50,04:35:31
-152,Scott,Cameron,Carnethy HRC,MV,Retired
-153,McEwan,John,Ochil Hillrunners,MV,Retired
-154,Brookes,Rob,Cosmic Hillbashers,M,Retired
-155,Wilson,Joan,Carnethy HRC,FV,Retired
-156,Reid,Gregg,Unattached,M,Retired
-157,Bowman,Angus,Beacon Runners,MV50,Retired
-158,McGovern,Gill,Beacon Runners,F,Retired
+150,McManus,Ian,Irvine Athletic,M60,04:34:00
+151,Bowman,Jean,Beacon Runners,F50,04:35:31

@@ -1,62 +1,62 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Owens,Tom,Shettleston,MS Record,03:20:16
-2,Keith,Alec,HBT,MV40,03:25:47
-3,Cummins,Dave,Shettleston H,MV40,03:30:31
-4,Fallas,Andrew,Carnethy,MS,03:37:15
-5,Eiser,Dave,Ochil,MS,03:37:35
-6,Lambert,Adrian,Edmonton Thunder,MS,03:37:42
-7,Whitlie,Stewart,Carnethy HRC,MV40,03:39:46
-8,Riach,David,Westerlands CCC,MV40,03:45:44
-9,Winter,Steven,Shettleston H,MS,03:55:53
-10,Scott,David,Ochils,MV50,03:59:52
-11,Upson,Chris,Westerlands,MV40,04:05:21
-12,Williamson,Jason,Cosmic,MS,04:13:48
-13,Love,Craig,Dundee Hawkhill H,MS,04:14:56
-14,Speight,Neil,Highland HR,MV40,04:19:18
-15,Nash,Graham,U/A,MV40,04:19:23
-16,Walker,Iain,Helensburgh AAC,MS,04:19:31
-17,Grundy,Lewis,NFR,MV40,04:21:06
-18,Ritchie,Paul,Carnethy,MV40,04:24:55
-19,Kitchin,Andy,Lothian,MV40,04:28:49
-20,Kelly,Graeme,Westerlands,MV40,04:29:55
-21,Matthews,Paul,Metro Aberdeen RC,MS,04:30:05
-22,Hirst,David,Deeside Runners,MV40,04:31:44
-23,Hulme,Martin,Corstorphine,MV50,04:31:53
-24,Irvine,Gill,Higland HR,FV40,04:32:58
-25,Brettle,Matt,Cosmics,MS,04:35:12
-26,O'Sullivan,Sean,Cosmic HB,MS,04:37:50
-27,Anderson,Lawrie,Fife AC,MV50,04:38:10
-28,Homewood,Ellie,Westerlands,FS,04:40:08
-29,Barrie,Stewart,HBT,MV40,04:40:16
-30,Allison,Bob,Fife AC,MV50,04:41:44
-31,Appleby,Paul,Northumberland FR,MV40,04:42:24
-32,Donnelly,John,Westerlands,MV40,04:45:47
-33,Lamour,John,Cosmics,MV40,04:46:41
-34,Dickson,David,Garscube Harriers,MV50,04:47:38
-35,Burt,Lousie,Fife AC,FV40,04:47:53
-36,Masson,Richard,Cosmics,MS,04:48:43
-37,Wilson,Colin,Carnethy H R,MV40,04:50:08
-38,McEwan,John,Ochil H R,MV40,04:53:53
-39,Matthews,Steve,U/A,MS,04:53:57
-40,Allison,Murphy,U/A,MV40,04:54:54
-41,Doorman,Mike,Moravian O,MS,04:56:25
-42,Finlay,Alayne,Ochil,FS,05:00:50
-43,MacDonald,Iain,Forres Harriers,MV40,05:01:49
-44,Templeman,Simon,Ochil,MV40,05:06:44
-45,Dryden,Jimmy,U/A,MV40,05:09:33
-46,Hunter,Alan,Ochils,MV40,05:09:57
-47,Henry,Peter,Deeside Runners,MS,05:12:34
-48,Moses,Chris,Helensburgh AAC,MS,05:13:18
-49,Arthur,Graham,Ilkley H,MV60,05:15:23
-50,Milner,Jim,Maryhill H,MV50,05:16:44
-51,Telfer,John,Northumberland FR,MV40,05:17:29
-52,Sim,Andrew,Carnegie H,MV40,05:19:37
-53,Brish,Colin,Girvan AC,MV40,05:21:02
-54,Schreiber,Jo,Lochaber AC,MV40,05:21:02
-55,Weir,Jonathan,U/A,MS,05:37:17
-56,Macaulay,Allan,Carnegie H,MV50,05:37:31
-57,Wilson,Joan,Carnethy H R,FV40,05:44:25
-58,Coull,Charlie,Ochil HR,MV40,05:49:21
-59,Gutteridge,Gary,Cosmic HB,MV50,05:54:53
-60,Hall,Jeff,Hall of Fame,MV40,05:59:24
-61,Hamilton,Anita,Cosmic HB,FV50,06:20:34
+1,Owens,Tom,Shettleston,M,03:20:16
+2,Keith,Alec,HBT,M40,03:25:47
+3,Cummins,Dave,Shettleston H,M40,03:30:31
+4,Fallas,Andrew,Carnethy,M,03:37:15
+5,Eiser,Dave,Ochil,M,03:37:35
+6,Lambert,Adrian,Edmonton Thunder,M,03:37:42
+7,Whitlie,Stewart,Carnethy HRC,M40,03:39:46
+8,Riach,David,Westerlands CCC,M40,03:45:44
+9,Winter,Steven,Shettleston H,M,03:55:53
+10,Scott,David,Ochils,M50,03:59:52
+11,Upson,Chris,Westerlands,M40,04:05:21
+12,Williamson,Jason,Cosmic,M,04:13:48
+13,Love,Craig,Dundee Hawkhill H,M,04:14:56
+14,Speight,Neil,Highland HR,M40,04:19:18
+15,Nash,Graham,U/A,M40,04:19:23
+16,Walker,Iain,Helensburgh AAC,M,04:19:31
+17,Grundy,Lewis,NFR,M40,04:21:06
+18,Ritchie,Paul,Carnethy,M40,04:24:55
+19,Kitchin,Andy,Lothian,M40,04:28:49
+20,Kelly,Graeme,Westerlands,M40,04:29:55
+21,Matthews,Paul,Metro Aberdeen RC,M,04:30:05
+22,Hirst,David,Deeside Runners,M40,04:31:44
+23,Hulme,Martin,Corstorphine,M50,04:31:53
+24,Irvine,Gill,Higland HR,F40,04:32:58
+25,Brettle,Matt,Cosmics,M,04:35:12
+26,O'Sullivan,Sean,Cosmic HB,M,04:37:50
+27,Anderson,Lawrie,Fife AC,M50,04:38:10
+28,Homewood,Ellie,Westerlands,F,04:40:08
+29,Barrie,Stewart,HBT,M40,04:40:16
+30,Allison,Bob,Fife AC,M50,04:41:44
+31,Appleby,Paul,Northumberland FR,M40,04:42:24
+32,Donnelly,John,Westerlands,M40,04:45:47
+33,Lamour,John,Cosmics,M40,04:46:41
+34,Dickson,David,Garscube Harriers,M50,04:47:38
+35,Burt,Lousie,Fife AC,F40,04:47:53
+36,Masson,Richard,Cosmics,M,04:48:43
+37,Wilson,Colin,Carnethy H R,M40,04:50:08
+38,McEwan,John,Ochil H R,M40,04:53:53
+39,Matthews,Steve,U/A,M,04:53:57
+40,Allison,Murphy,U/A,M40,04:54:54
+41,Doorman,Mike,Moravian O,M,04:56:25
+42,Finlay,Alayne,Ochil,F,05:00:50
+43,MacDonald,Iain,Forres Harriers,M40,05:01:49
+44,Templeman,Simon,Ochil,M40,05:06:44
+45,Dryden,Jimmy,U/A,M40,05:09:33
+46,Hunter,Alan,Ochils,M40,05:09:57
+47,Henry,Peter,Deeside Runners,M,05:12:34
+48,Moses,Chris,Helensburgh AAC,M,05:13:18
+49,Arthur,Graham,Ilkley H,M60,05:15:23
+50,Milner,Jim,Maryhill H,M50,05:16:44
+51,Telfer,John,Northumberland FR,M40,05:17:29
+52,Sim,Andrew,Carnegie H,M40,05:19:37
+53,Brish,Colin,Girvan AC,M40,05:21:02
+54,Schreiber,Jo,Lochaber AC,M40,05:21:02
+55,Weir,Jonathan,U/A,M,05:37:17
+56,Macaulay,Allan,Carnegie H,M50,05:37:31
+57,Wilson,Joan,Carnethy H R,F40,05:44:25
+58,Coull,Charlie,Ochil HR,M40,05:49:21
+59,Gutteridge,Gary,Cosmic HB,M50,05:54:53
+60,Hall,Jeff,Hall of Fame,M40,05:59:24
+61,Hamilton,Anita,Cosmic HB,F50,06:20:34

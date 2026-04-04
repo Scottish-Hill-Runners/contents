@@ -1,10 +1,10 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Dougal,Darin,Moorfoot,1st M,00:34:33
+1,Dougal,Darin,Moorfoot,M,00:34:33
 2,Taylor,Reece,Hawick,M,00:35:28
 3,McGovern,Mike,Moorfoot,M,00:36:02
 4,Taylor,Jordan,Hawick,M,00:36:15
 5,Spenceley,Andy,Carnethy,M40,00:36:18
-6,Jenkins,Kate,HBT,1st F,00:36:34
+6,Jenkins,Kate,HBT,F,00:36:34
 7,Johnston,Fergus,Gala,M,00:36:36
 8,Falconer,Paul,Carnethy,M,00:36:43
 9,Henry,Robert,U/A,M,00:36:48
@@ -43,7 +43,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 42,Pigg,John,Norham,M,00:43:56
 43,Spenceley,Hilary,Carnethy,F50,00:44:24
 44,Campbell,Alex,Moorfoot,M,00:44:29
-45,Cranston,Robert,Teviotdale,S,00:44:37
+45,Cranston,Robert,Teviotdale,M,00:44:37
 46,Forrest,Fiona,U/A,F,00:43:39
 47,Hunter,David,Gala,M,00:44:46
 48,Pogson,Andrea,Gala,F,00:45:02

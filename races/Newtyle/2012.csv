@@ -1,67 +1,67 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Simpson,Robbie,Deeside Runners,M,00:27:04
 2,Barrable,Nick,Tonbridge AC,M,00:30:49
-3,Bonnyman,Brian,Westerlands,MV40,00:30:55
+3,Bonnyman,Brian,Westerlands,M40,00:30:55
 4,Stewart,Ryan,Dundee hawkhill,M,00:31:22
-5,Dugdale,Paul,Kendal AC,MV40,00:31:25
+5,Dugdale,Paul,Kendal AC,M40,00:31:25
 6,Jones,Hugh,HBT,M,00:31:31
-7,Tomlin,Chris,Cosmics,MV40,00:31:36
+7,Tomlin,Chris,Cosmics,M40,00:31:36
 8,Ashcroft,Jonathan,Carnethy,M,00:32:08
-9,Anderson,Ian,Dundee Hawkhill,MV40,00:32:21
-10,McKenzie,Donald,Lomond Hill Runners,FV40,00:32:31
+9,Anderson,Ian,Dundee Hawkhill,M40,00:32:21
+10,McKenzie,Donald,Lomond Hill Runners,F40,00:32:31
 11,Clarke,David,Unattached,M,00:32:36
 12,O'Neil,Sarah,HBT,F,00:32:44
-13,Martin,Neil,Lomond Hill Runners,MV40,00:33:21
-14,Fallon,Steve,Carnethy,MV40,00:33:30
-15,Smith,Alan,Deeside,MV50,00:33:44
+13,Martin,Neil,Lomond Hill Runners,M40,00:33:21
+14,Fallon,Steve,Carnethy,M40,00:33:30
+15,Smith,Alan,Deeside,M50,00:33:44
 16,Butler,Michael,Unattached,M,00:33:49
 17,McCracken,Morag,HBT,F,00:33:52
-18,Cowan,David,Fife AC,MV40,00:33:53
-19,Andrew,Mike,Unattached,MV40,00:33:59
+18,Cowan,David,Fife AC,M40,00:33:53
+19,Andrew,Mike,Unattached,M40,00:33:59
 20,Robertson,Adrian,Unattached,M,00:34:09
-21,Wardlaw,Eilidh,HBT,FS,00:34:13
+21,Wardlaw,Eilidh,HBT,F,00:34:13
 22,Love,Craig,Dundee Hawkhill,M,00:34:20
-23,Mardel,Nick,Deeside,MV40,00:35:00
+23,Mardel,Nick,Deeside,M40,00:35:00
 24,Cumming,James,Dundee University,M,00:35:52
-25,McNulty,Ian,Dundee Hawkhill,MV40,00:35:53
+25,McNulty,Ian,Dundee Hawkhill,M40,00:35:53
 26,Turner,Judith,Carnegie Harriers,F,00:35:59
 27,Weir,Jonathan,Unattached,M,00:36:07
-28,Hawkins,Ian,Fife AC,MV40,00:36:31
+28,Hawkins,Ian,Fife AC,M40,00:36:31
 29,McKenzie,Angela,Strathearn Harriers,F,00:36:46
 30,Park,Angela,Perth RR,F,00:36:49
-31,Mitchell,Dave,Dundee Hawkhill,MV40,00:36:53
+31,Mitchell,Dave,Dundee Hawkhill,M40,00:36:53
 32,Muir,Colin,Carnethy,M,00:37:03
 33,O'Shea,Emma,Deeside,F,00:37:33
 34,Mill,John,Dundee RR,M,00:37:38
 35,Jane-gaffney,Sarah,Unattached,F,00:37:45
-36,Waite,Tony,Strathearn Harriers,MV50,00:37:49
+36,Waite,Tony,Strathearn Harriers,M50,00:37:49
 37,McClelland,Peter,HBT,M,00:38:04
-38,Forte,Phil,Dundee Hawkhill,MV50,00:38:58
-39,Ritchie,Hilary,Fife AC,FV40,00:38:09
-40,Shaw,Trevor,Lochtayside,MV40,00:38:14
+38,Forte,Phil,Dundee Hawkhill,M50,00:38:58
+39,Ritchie,Hilary,Fife AC,F40,00:38:09
+40,Shaw,Trevor,Lochtayside,M40,00:38:14
 41,Connor,Julia,Moorfoot Runners,F,00:38:35
-42,Rogers,Dave,Westerlands,MV40,00:38:48
+42,Rogers,Dave,Westerlands,M40,00:38:48
 43,Tolson,Jonathan,Dundee University,M,00:38:50
-44,O'brian,Phylis,HBT,FV50,00:39:19
+44,O'brian,Phylis,HBT,F50,00:39:19
 45,Martin,David,Unattached,M,00:39:22
 46,Calothis,Marinos,Kinross RR,M,00:39:57
-47,Ogston,Matt,Westerlands,MV50,00:40:11
-48,Hill,Nigel,Unattached,MV50,00:40:17
-49,Duncan,Davie,Ochils,MV50,00:40:36
-50,Dales,Mike,Perth RR,MV40,00:42:01
-51,Smith,Brian R,Fife AC,MV50,00:42:12
+47,Ogston,Matt,Westerlands,M50,00:40:11
+48,Hill,Nigel,Unattached,M50,00:40:17
+49,Duncan,Davie,Ochils,M50,00:40:36
+50,Dales,Mike,Perth RR,M40,00:42:01
+51,Smith,Brian R,Fife AC,M50,00:42:12
 52,Rogowski,Andraeus,Kinross RR,M,00:43:01
 53,Tilbrook,Kathy,Strathearn Harriers,F,00:43:20
 54,Manson,Fiona,Perth RR,F,00:43:48
 55,Blyth,Allan,Unattached,M,00:44:29
-56,Nicol,Mel,Lomond Hill Runners,FV40,00:44:30
+56,Nicol,Mel,Lomond Hill Runners,F40,00:44:30
 57,Hutchison,Ian,Unattached,M,00:44:31
-58,Davidson,Stewart,Fife AC,MV60,00:44:54
-59,Blyth,Aly,Unattached,MV60,00:44:55
+58,Davidson,Stewart,Fife AC,M60,00:44:54
+59,Blyth,Aly,Unattached,M60,00:44:55
 60,Craig,Carrie,HBT,F,00:45:10
-61,Mcneillage,Alison,HBT,FV40,00:45:49
-62,Gatehouse,Richard,Lomond Hill Runners,MV50,00:47:12
-63,Love,Charlie,Dundee Hawkhill,MV60,00:48:28
-64,Fraser,Ronald,Dundee Hawkhill,MV40,00:48:36
-65,Mckay,Anne,Tain HR,FV40,00:53:14
-66,Johnston,Alison,HBT,FV50,00:57:47
+61,Mcneillage,Alison,HBT,F40,00:45:49
+62,Gatehouse,Richard,Lomond Hill Runners,M50,00:47:12
+63,Love,Charlie,Dundee Hawkhill,M60,00:48:28
+64,Fraser,Ronald,Dundee Hawkhill,M40,00:48:36
+65,Mckay,Anne,Tain HR,F40,00:53:14
+66,Johnston,Alison,HBT,F50,00:57:47

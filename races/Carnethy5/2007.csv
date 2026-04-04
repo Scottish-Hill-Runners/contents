@@ -125,7 +125,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 124,Rathjen,Jon,Hunters Bog Trotters,M,01:05:43
 125,Gay,Jon,Lochaber AC,M,01:05:46
 126,Maxwell,Fiona,Slieve Donard Ladies,F40,01:05:49
-127,Kerr,Robbie,Edinburgh University H & H,MJ,01:05:52
+127,Kerr,Robbie,Edinburgh University H & H,M16,01:05:52
 128,Turner,Robert,Harmeny AC,M,01:06:00
 129,Stout,Russell,Carnethy HRC,M,01:06:04
 130,Valentine,Kenny,Lasswade AC,M,01:06:09
@@ -286,7 +286,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 285,Johnston,Gordon,Norham,M,01:15:42
 286,Forster,Nicola,Lochaber AC,F,01:15:43
 287,Ledlie,Colin,Carnethy HRC,M40,01:15:49
-288,Macrae,Donald,Lomond Hill Runners,MJ,01:16:04
+288,Macrae,Donald,Lomond Hill Runners,M16,01:16:04
 289,Doyle,Tim,Penicuik Harriers,M40,01:16:08
 290,Mcwhinnie,Jim,Carnethy HRC,M40,01:16:09
 291,Anderson,Derek,U/A,M40,01:16:15
@@ -483,6 +483,3 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 482,Hervo,Alexandra,Lochaber AC,F,02:10:35
 483,Kennedy,Teresa,Lochaber AC,F40,02:10:35
 484,Cation,Frank,Fife AC,M40,02:27:22
-485,,,Unattached,M,NULL
-486,,,Unattached,M,NULL
-487,,,Unattached,M,NULL

@@ -1,112 +1,112 @@
-RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,Alasdair,MS,Ochil Hill Runners,00:30:10
-2,Russell,Chris,MS,Fife AC,00:30:13
-3,Jones,Alex,MJ U20,Fife AC,00:30:47
-4,Davis,Adrian,MV40,Fife AC,00:31:33
-5,Macqueen,Dan,MS,Fife AC,00:32:44
-6,Cruickshank,Brian,MV40,Fife AC,00:32:59
-7,Hargreaves,John,MS,Carnegie Harriers,00:33:06
-8,Martin,Neil,MV40,Fife AC,00:33:22
-9,Scott,Tom,MV55,Fife AC,00:33:29
-10,Rees,Rodger,MS,Fife AC,00:34:09
-11,Man,Chris,MS,Unatt.,00:34:28
-12,Laing,Martin,MV50,Fife AC,00:34:49
-13,Anderson,Laurie,MV45,Fife AC,00:34:54
-14,Murray,Keith,MV40,Teviotdale Harriers,00:34:57
-15,Humphreys,Peter,MS,Carnegie Harriers,00:35:00
-16,Cruden,Nick,MS,H.B.T.,00:35:06
-17,Pryde,Gordon,MV45,Lomond Hill Runners,00:35:18
-18,Harris,Mark,MS,Fife AC,00:35:27
-19,Bagnall,Ali,MV50,Fife AC,00:35:34
-20,Fowler,Nigel,MS,Fife AC,00:35:46
-21,Duncan,David,MV50,Ochil Hill Runners,00:35:50
-22,Poolman,Ian,MS,Fife AC,00:36:09
-23,Gordon,Claire,FS,H.B.T.,00:36:15
-24,Harris,Adam,MJ U13,Fife AC,00:36:27
-25,Buchannan,Peter,MV45,Ochil Hill Runners,00:36:28
-26,Legge,Sarah,FV35,Fife AC,00:36:31
-27,Denovan,John,MS,Unatt.,00:36:39
-28,Wardlaw,Eilidh,FS,H.B.T.,00:36:49
-29,Mitchell,Mike,MV40,Fife AC,00:36:53
-30,Roberts,Clive,MV40,Unatt.,00:37:11
-31,Bruce,Kevin,MS,Cosmics,00:37:45
-32,Pearman,John,MS,Glasgow Uni H&H,00:37:52
-33,Beckett,Dan,MS,H.B.T.,00:37:59
-34,Bowie,Tom,MV60,Fife AC,00:38:01
-35,Shepherd,David,MV40,Fife AC,00:38:28
-36,Morton,Jim,MV40,Fife AC,00:38:33
-37,Harper,John,MS,Unatt.,00:38:40
-38,Hood,Alasdair,MV45,Fife AC,00:38:46
-39,Sanders,Eddie,MV55,Fife AC,00:38:52
-40,Pennycook,Steve,MV45,Fife AC,00:38:54
-41,Gioia,Frank,MS,Unatt.,00:39:03
-42,Hankins,Ian,MV40,Fife AC,00:39:07
-43,Foss,Chris,MS,Law & District,00:39:15
-44,Shaw,Richard,MV50,Fife AC,00:39:16
-45,Robertson,Doug,MV45,Fife AC,00:39:34
-46,McIntosh,Ryan,MJ,Fife AC,00:39:35
-47,Kennovin,Gordon,MV45,Unatt.,00:39:53
-48,Turner,Judith,FS,Carnegie Harriers,00:39:55
-49,Wilson,Colin,MV45,Carnethy Hill Runners,00:40:16
+RunnerPosition,Surname,FirstName,RunnerCategory,Club,FinishTime
+1,Anthony,Alasdair,M,Ochil Hill Runners,00:30:10
+2,Russell,Chris,M,Fife AC,00:30:13
+3,Jones,Alex,M20,Fife AC,00:30:47
+4,Davis,Adrian,M40,Fife AC,00:31:33
+5,Macqueen,Dan,M,Fife AC,00:32:44
+6,Cruickshank,Brian,M40,Fife AC,00:32:59
+7,Hargreaves,John,M,Carnegie Harriers,00:33:06
+8,Martin,Neil,M40,Fife AC,00:33:22
+9,Scott,Tom,M55,Fife AC,00:33:29
+10,Rees,Rodger,M,Fife AC,00:34:09
+11,Man,Chris,M,Unatt.,00:34:28
+12,Laing,Martin,M50,Fife AC,00:34:49
+13,Anderson,Laurie,M45,Fife AC,00:34:54
+14,Murray,Keith,M40,Teviotdale Harriers,00:34:57
+15,Humphreys,Peter,M,Carnegie Harriers,00:35:00
+16,Cruden,Nick,M,H.B.T.,00:35:06
+17,Pryde,Gordon,M45,Lomond Hill Runners,00:35:18
+18,Harris,Mark,M,Fife AC,00:35:27
+19,Bagnall,Ali,M50,Fife AC,00:35:34
+20,Fowler,Nigel,M,Fife AC,00:35:46
+21,Duncan,David,M50,Ochil Hill Runners,00:35:50
+22,Poolman,Ian,M,Fife AC,00:36:09
+23,Gordon,Claire,F,H.B.T.,00:36:15
+24,Harris,Adam,M13,Fife AC,00:36:27
+25,Buchannan,Peter,M45,Ochil Hill Runners,00:36:28
+26,Legge,Sarah,F35,Fife AC,00:36:31
+27,Denovan,John,M,Unatt.,00:36:39
+28,Wardlaw,Eilidh,F,H.B.T.,00:36:49
+29,Mitchell,Mike,M40,Fife AC,00:36:53
+30,Roberts,Clive,M40,Unatt.,00:37:11
+31,Bruce,Kevin,M,Cosmics,00:37:45
+32,Pearman,John,M,Glasgow Uni H&H,00:37:52
+33,Beckett,Dan,M,H.B.T.,00:37:59
+34,Bowie,Tom,M60,Fife AC,00:38:01
+35,Shepherd,David,M40,Fife AC,00:38:28
+36,Morton,Jim,M40,Fife AC,00:38:33
+37,Harper,John,M,Unatt.,00:38:40
+38,Hood,Alasdair,M45,Fife AC,00:38:46
+39,Sanders,Eddie,M55,Fife AC,00:38:52
+40,Pennycook,Steve,M45,Fife AC,00:38:54
+41,Gioia,Frank,M,Unatt.,00:39:03
+42,Hankins,Ian,M40,Fife AC,00:39:07
+43,Foss,Chris,M,Law & District,00:39:15
+44,Shaw,Richard,M50,Fife AC,00:39:16
+45,Robertson,Doug,M45,Fife AC,00:39:34
+46,McIntosh,Ryan,M16,Fife AC,00:39:35
+47,Kennovin,Gordon,M45,Unatt.,00:39:53
+48,Turner,Judith,F,Carnegie Harriers,00:39:55
+49,Wilson,Colin,M45,Carnethy Hill Runners,00:40:16
 50,Rees,Halina,FJ U13,Fife AC,00:40:29
-51,Mallett,Pat,MV40,L.H.R.,00:40:34
-52,Black,Stuart,MV40,Unatt.,00:40:40
-53,Jablonski,Derek,MV45,Lomond Hill Runners,00:40:52
+51,Mallett,Pat,M40,L.H.R.,00:40:34
+52,Black,Stuart,M40,Unatt.,00:40:40
+53,Jablonski,Derek,M45,Lomond Hill Runners,00:40:52
 54,Horsburgh,Robert,Unatt.,Fife AC,00:41:04
-55,Brennan,Brian,MV50,Westerlands,00:41:05
-56,Irving,John,MS,Unatt.,00:41:16
-57,Allen,Geoff,MS,C.o.E,00:41:17
-58,Hunter,Les,MV60,Fife AC,00:41:28
-59,Milne,Andrew,MS,Fife AC,00:41:36
-60,Scott,Jocelyn,FV50,Fife AC,00:41:40
-61,Wilson,Joan,FV40,Carnethy Hill Runners,00:41:46
-62,Cromar,Steve,MV65,Dundee Hawkhill,00:41:51
-63,Landels,Brian,MV40,Fife AC,00:41:57
-64,Sibbett,Lorna,LV40,Fife AC,00:42:02
-65,Taylor,Garry,MV45,Carnegie Harriers,00:42:06
-66,Simpson,Bill,MV50,Anster Haddies,00:42:37
-67,Thomson,Susan,FV35,Fife AC,00:42:41
-68,Ritchie,Hilary,FV40,Fife AC,00:42:42
-69,Fordshaw,Mike,MV45,Unatt.,00:42:54
-70,Clarice,Chris,MV55,Fife AC,00:42:58
-71,Ascough,Phillipa,FS,Fife AC,00:43:08
-72,Osborne,David,MV45,Lomond Hill Runners,00:43:09
-73,Irvine,Raymond,MS,Unatt.,00:43:13
-74,Woodburn,Jim,MV40,Fife AC,00:43:20
-75,Francis,Dave,MV55,Fife AC,00:43:26
-76,Lindsay,Susan,LV40,Ochil Hill Runners,00:43:28
-77,Meiklejohn,Alan,MV60,Fife AC,00:43:30
-78,Laing,Sarah,FS,Unatt.,00:43:34
-79,Close,Jim,MV45,Fife AC,00:43:38
-80,Bracegirdle,Innes,FV50,Fife AC,00:43:38
-81,Wright,Andrew,MV65,Fife AC,00:44:22
+55,Brennan,Brian,M50,Westerlands,00:41:05
+56,Irving,John,M,Unatt.,00:41:16
+57,Allen,Geoff,M,C.o.E,00:41:17
+58,Hunter,Les,M60,Fife AC,00:41:28
+59,Milne,Andrew,M,Fife AC,00:41:36
+60,Scott,Jocelyn,F50,Fife AC,00:41:40
+61,Wilson,Joan,F40,Carnethy Hill Runners,00:41:46
+62,Cromar,Steve,M65,Dundee Hawkhill,00:41:51
+63,Landels,Brian,M40,Fife AC,00:41:57
+64,Sibbett,Lorna,F40,Fife AC,00:42:02
+65,Taylor,Garry,M45,Carnegie Harriers,00:42:06
+66,Simpson,Bill,M50,Anster Haddies,00:42:37
+67,Thomson,Susan,F35,Fife AC,00:42:41
+68,Ritchie,Hilary,F40,Fife AC,00:42:42
+69,Fordshaw,Mike,M45,Unatt.,00:42:54
+70,Clarice,Chris,M55,Fife AC,00:42:58
+71,Ascough,Phillipa,F,Fife AC,00:43:08
+72,Osborne,David,M45,Lomond Hill Runners,00:43:09
+73,Irvine,Raymond,M,Unatt.,00:43:13
+74,Woodburn,Jim,M40,Fife AC,00:43:20
+75,Francis,Dave,M55,Fife AC,00:43:26
+76,Lindsay,Susan,F40,Ochil Hill Runners,00:43:28
+77,Meiklejohn,Alan,M60,Fife AC,00:43:30
+78,Laing,Sarah,F,Unatt.,00:43:34
+79,Close,Jim,M45,Fife AC,00:43:38
+80,Bracegirdle,Innes,F50,Fife AC,00:43:38
+81,Wright,Andrew,M65,Fife AC,00:44:22
 82,Jarvis,Claire,FJ U20,Fife AC,00:44:28
-83,Anderson,Adam,MV60,Dumfries RC,00:44:30
-84,Cox,Byron,MV40,Unatt.,00:44:36
-85,Lathe,Richard,MV50,L.H.R.,00:44:37
-86,McManus,Ian,MV60,Irvine AC,00:44:43
-87,Hood,Grahame,MV45,Unatt.,00:44:46
-88,McGregor,Kim,FV50,Fife AC,00:44:48
-89,Nairs,William,MS,Ochil Hill Runners,00:45:06
-90,Atherton,Iain,MS,Unatt.,00:45:08
-91,Radley,Andrew,MV40,P.S.H.,00:45:10
-92,Smith,Brian,MV45,Unatt.,00:45:33
-93,Davidson,Stewart,MV55,Fife AC,00:45:36
-94,Sutherland,Tom,MV50,Monday Nighters,00:46:03
-95,Graham,Rhona,LV40,Fife AC,00:46:15
-96,Brearley,Kenneth,MV40,Strathavens,00:46:36
-97,Man,Ian,MV60,Harmeny,00:47:03
-98,Stapeley,Anthony,MV60,Portobello RC,00:47:09
-99,Osborne,Robert,MJ U12,Unatt.,00:47:48
-100,Walker,Fiona,FV40,Fife AC,00:48:01
-101,Syme,Alistair,MV45,Unatt.,00:48:19
-102,Scott,John,MV60,Fife AC,00:48:57
-103,Begg,Liz,FV40,Tayside Running Sisters,00:52:18
-104,Bennison,Graham,MV55,Fife AC,00:52:34
-105,Wedderburn,John,MV50,Unatt.,00:52:41
-106,Paterson,Maurice,MS,Fife AC,00:52:43
-107,Downie,Bill,MV50,Greenock Glenpark Harriers,00:53:13
-108,Robertson,Alastair,MV60,Fife AC,00:54:12
-109,Marshall,Ian,MV,H.B.T.,00:54:13
-110,Horsburgh,Caroline,FV45,Fife AC,00:54:25
-111,Niblock,Wendy,FV35,Unatt.,00:55:39
+83,Anderson,Adam,M60,Dumfries RC,00:44:30
+84,Cox,Byron,M40,Unatt.,00:44:36
+85,Lathe,Richard,M50,L.H.R.,00:44:37
+86,McManus,Ian,M60,Irvine AC,00:44:43
+87,Hood,Grahame,M45,Unatt.,00:44:46
+88,McGregor,Kim,F50,Fife AC,00:44:48
+89,Nairs,William,M,Ochil Hill Runners,00:45:06
+90,Atherton,Iain,M,Unatt.,00:45:08
+91,Radley,Andrew,M40,P.S.H.,00:45:10
+92,Smith,Brian,M45,Unatt.,00:45:33
+93,Davidson,Stewart,M55,Fife AC,00:45:36
+94,Sutherland,Tom,M50,Monday Nighters,00:46:03
+95,Graham,Rhona,F40,Fife AC,00:46:15
+96,Brearley,Kenneth,M40,Strathavens,00:46:36
+97,Man,Ian,M60,Harmeny,00:47:03
+98,Stapeley,Anthony,M60,Portobello RC,00:47:09
+99,Osborne,Robert,M12,Unatt.,00:47:48
+100,Walker,Fiona,F40,Fife AC,00:48:01
+101,Syme,Alistair,M45,Unatt.,00:48:19
+102,Scott,John,M60,Fife AC,00:48:57
+103,Begg,Liz,F40,Tayside Running Sisters,00:52:18
+104,Bennison,Graham,M55,Fife AC,00:52:34
+105,Wedderburn,John,M50,Unatt.,00:52:41
+106,Paterson,Maurice,M,Fife AC,00:52:43
+107,Downie,Bill,M50,Greenock Glenpark Harriers,00:53:13
+108,Robertson,Alastair,M60,Fife AC,00:54:12
+109,Marshall,Ian,M,H.B.T.,00:54:13
+110,Horsburgh,Caroline,F45,Fife AC,00:54:25
+111,Niblock,Wendy,F35,Unatt.,00:55:39

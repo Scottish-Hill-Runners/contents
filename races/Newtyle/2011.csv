@@ -1,51 +1,51 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Harris,Mark,Fife AC,MV40,00:29:18
-2,Crowe,Jamie,Dundee Hawkhill Harriers,Mjunior,00:30:06
-3,Bonnyman,Brian,Westerlands,MV40,00:30:11
-4,Crowe,Des,Dundee Hawkhill Harriers,MV40,00:30:53
-5,Davis,Adrian,Carnethy,MV40,00:30:59
-6,Whittel,Jeremy,Keith & District AC,MV40,00:31:06
-7,Love,Craig,Dundee Hawkhill Harriers,MV40,00:31:11
-8,Rawlinson,Stephen,Unattached,MS,00:32:27
-9,Combs,Richard,Central AC,MV40,00:32:31
-10,Smith,Alan,Deeside Runners,MV50,00:32:50
-11,Anderson,Laurie,Fife AC,MV50,00:34:35
-12,Davie,Kevin,Carnegie Harriers,MS,00:34:46
-13,Tipping,Phil,Strathearn Harriers,MV40,00:34:56
-14,Mitchell,Dave,Dundee Hawkhill Harriers,MV40,00:34:57
-15,Smith,Alistair,Deeside Runners,MS,00:35:19
-16,Watson,Dan,Unattached,Mv40,00:35:48
-17,Buchanan,Hugh,Central AC,MV50,00:35:55
-18,Cummings,James,Dundee University,MS,00:36:34
-19,Forte,Phil,Dundee Hawkhill Harriers,MV50,00:36:38
-20,Brennan,Brian,Westerlands,MV50,00:36:39
-21,Mill,John,Dundee Road Runners,MV40,00:36:43
-22,Wayte,Tony,Strathearn Harriers,MV50,00:36:50
-23,Shaw,Trevor,Unattached,MV40,00:37:08
-24,Wilson,Colin,Carnethy,MV40,00:38:14
-25,Nowicki,Michael,Portobello RC,MV50,00:38:23
-26,Ogston,Matt,Westerlands,MV50,00:38:31
-27,McLean,Herbie,Lothian RC,MV60,00:38:39
-28,Morrison,Gordon,Strathearn Harriers,MV50,00:38:42
-29,Wilson,Joan,Carnethy,FV40,00:39:11
-30,Bowman,Gus,Lomond Hill Runners,MV50,00:39:21
-31,Sweeney,Kerry,Strathearn Harriers,FS,00:39:52
-32,Steel,George,Unattached,MV40,00:40:06
-33,Calothis,Marinos,Kinross Road Runners,MS,00:40:08
-34,Tilbrook,Cathy,Strathearn Harriers,FV40,00:40:16
-35,Baxter,Peter,Westerlands,MV50,00:40:27
-36,Davidson,Stewart,Fife AC,MV60,00:40:42
-37,Smith,Tilly,Deeside Runners,FV50,00:45:57
-38,Watson,Nicola,Strathearn Harriers,FV40,00:46:05
-39,Thornton,Robert,Perth Road Runners,MV50,00:46:19
-40,Mestecky,Liz,Strathearn Harriers,FV40,00:46:22
-41,Love,Charlie,Dundee Hawkhill Harriers,MV60,00:46:30
-42,Bowman,Jean,Lomond Hill Runners,FV50,00:46:35
-43,Cromar,Steve,Dundee Hawkhill Harriers,MV70,00:46:42
-44,Fraser,Ronald,Dundee Road Runners,MV40,00:46:55
-45,Stapley,Tony,Portobello RC,MV60,00:47:13
-46,Kuberska,Karoline,Unattached,FS,00:47:52
-47,Wining,Jenifer,Lomond Hill Runners,FS,00:48:08
-48,Winning,Jim,Lomond Hill Runners,MV50,00:48:59
-49,Forster,Kate,Unattached,FV40,00:50:58
-50,Wright,Peny,Unattached,FV40,00:55:34
+1,Harris,Mark,Fife AC,M40,00:29:18
+2,Crowe,Jamie,Dundee Hawkhill Harriers,M16,00:30:06
+3,Bonnyman,Brian,Westerlands,M40,00:30:11
+4,Crowe,Des,Dundee Hawkhill Harriers,M40,00:30:53
+5,Davis,Adrian,Carnethy,M40,00:30:59
+6,Whittel,Jeremy,Keith & District AC,M40,00:31:06
+7,Love,Craig,Dundee Hawkhill Harriers,M40,00:31:11
+8,Rawlinson,Stephen,Unattached,M,00:32:27
+9,Combs,Richard,Central AC,M40,00:32:31
+10,Smith,Alan,Deeside Runners,M50,00:32:50
+11,Anderson,Laurie,Fife AC,M50,00:34:35
+12,Davie,Kevin,Carnegie Harriers,M,00:34:46
+13,Tipping,Phil,Strathearn Harriers,M40,00:34:56
+14,Mitchell,Dave,Dundee Hawkhill Harriers,M40,00:34:57
+15,Smith,Alistair,Deeside Runners,M,00:35:19
+16,Watson,Dan,Unattached,M40,00:35:48
+17,Buchanan,Hugh,Central AC,M50,00:35:55
+18,Cummings,James,Dundee University,M,00:36:34
+19,Forte,Phil,Dundee Hawkhill Harriers,M50,00:36:38
+20,Brennan,Brian,Westerlands,M50,00:36:39
+21,Mill,John,Dundee Road Runners,M40,00:36:43
+22,Wayte,Tony,Strathearn Harriers,M50,00:36:50
+23,Shaw,Trevor,Unattached,M40,00:37:08
+24,Wilson,Colin,Carnethy,M40,00:38:14
+25,Nowicki,Michael,Portobello RC,M50,00:38:23
+26,Ogston,Matt,Westerlands,M50,00:38:31
+27,McLean,Herbie,Lothian RC,M60,00:38:39
+28,Morrison,Gordon,Strathearn Harriers,M50,00:38:42
+29,Wilson,Joan,Carnethy,F40,00:39:11
+30,Bowman,Gus,Lomond Hill Runners,M50,00:39:21
+31,Sweeney,Kerry,Strathearn Harriers,F,00:39:52
+32,Steel,George,Unattached,M40,00:40:06
+33,Calothis,Marinos,Kinross Road Runners,M,00:40:08
+34,Tilbrook,Cathy,Strathearn Harriers,F40,00:40:16
+35,Baxter,Peter,Westerlands,M50,00:40:27
+36,Davidson,Stewart,Fife AC,M60,00:40:42
+37,Smith,Tilly,Deeside Runners,F50,00:45:57
+38,Watson,Nicola,Strathearn Harriers,F40,00:46:05
+39,Thornton,Robert,Perth Road Runners,M50,00:46:19
+40,Mestecky,Liz,Strathearn Harriers,F40,00:46:22
+41,Love,Charlie,Dundee Hawkhill Harriers,M60,00:46:30
+42,Bowman,Jean,Lomond Hill Runners,F50,00:46:35
+43,Cromar,Steve,Dundee Hawkhill Harriers,M70,00:46:42
+44,Fraser,Ronald,Dundee Road Runners,M40,00:46:55
+45,Stapley,Tony,Portobello RC,M60,00:47:13
+46,Kuberska,Karoline,Unattached,F,00:47:52
+47,Wining,Jenifer,Lomond Hill Runners,F,00:48:08
+48,Winning,Jim,Lomond Hill Runners,M50,00:48:59
+49,Forster,Kate,Unattached,F40,00:50:58
+50,Wright,Peny,Unattached,F40,00:55:34

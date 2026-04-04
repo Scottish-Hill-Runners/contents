@@ -1,10 +1,10 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Wright,Angus,Edinburgh Uni H&H,MJ,00:40:37
-2,Taylor,Rowan,Lasswade AC,MJ,00:42:29
+1,Wright,Angus,Edinburgh Uni H&H,M16,00:40:37
+2,Taylor,Rowan,Lasswade AC,M16,00:42:29
 3,Mcinally,Ralph,Strathearn Harriers,M,00:43:03
 4,Wright,Andrew,PH Racing Club,M50,00:45:07
 5,Van Rensburg,Ruan,Fife AC,M,00:46:14
-6,Field,Zico,Gala Harriers,MJ,00:46:40
+6,Field,Zico,Gala Harriers,M16,00:46:40
 7,Baxter,Grant,Ochil Hill Runners,M50,00:47:49
 8,Gough,Tom,Fife AC,M,00:48:22
 9,Howorth,Charles,Stonehaven RC,M40,00:49:39
@@ -22,7 +22,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 21,Davis,Adrian,Lomond Hill Runners,M60,00:53:35
 22,Priestley,Alex,Falkland Trail Runners,M,00:54:09
 23,Jack,Ewan,Ochil Hill Runners,M50,00:54:10
-24,Paterson,Isla,Gala Harriers,FJ,00:54:17
+24,Paterson,Isla,Gala Harriers,F16,00:54:17
 25,Barber,Twig,Falkland Trail Runners,F,00:54:45
 26,Gilbertson,Jenny,Falkland Trail Runners,F,00:55:10
 27,Dickson,Stephen,Fife AC,M40,00:55:14

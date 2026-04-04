@@ -1,98 +1,98 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Chepelin,Sasha,Carnethy,O,00:37:00
-2,Roberts,Fergus,Highland HR,O,00:38:25
-3,Owens,Tom,Shettlestone Harriers,O40,00:40:02
-4,Downie,Robin,Lochaber AC,O,00:40:42
-5,Thorburn,Ewan,Lochaber AC,O40,00:41:41
-6,Mcinally,Ralph,Strathearn H,O,00:42:08
-7,Kennedy,Jamie,Lochaber AC,O,00:43:32
-8,Martin,Calum,Highland HR,O,00:43:33
-9,Turnbull,Jonathan,Strathearn H,O40,00:43:49
-10,Kirby,Andrew,Highland HR,O,00:44:07
-11,Ward,Jack,Highland HR,O,00:44:27
+1,Chepelin,Sasha,Carnethy,M,00:37:00
+2,Roberts,Fergus,Highland HR,M,00:38:25
+3,Owens,Tom,Shettlestone Harriers,M40,00:40:02
+4,Downie,Robin,Lochaber AC,M,00:40:42
+5,Thorburn,Ewan,Lochaber AC,M40,00:41:41
+6,Mcinally,Ralph,Strathearn H,M,00:42:08
+7,Kennedy,Jamie,Lochaber AC,M,00:43:32
+8,Martin,Calum,Highland HR,M,00:43:33
+9,Turnbull,Jonathan,Strathearn H,M40,00:43:49
+10,Kirby,Andrew,Highland HR,M,00:44:07
+11,Ward,Jack,Highland HR,M,00:44:27
 12,Hodgson,Sarah,Highland HR,F,00:44:41
-13,Gilmore,Andrew,Highland HR,O,00:45:02
-14,Tresidder,Esmond,Lochaber AC,O40,00:45:52
+13,Gilmore,Andrew,Highland HR,M,00:45:02
+14,Tresidder,Esmond,Lochaber AC,M40,00:45:52
 15,Graves,Catriona,Highland HR,F,00:46:11
-16,Stevens,Max,Unattached,O,00:46:31
-17,Nicholson,James,Highland HR,O,00:46:34
-18,Hoult,Michael,Ross County AC,O50,00:46:42
-19,Ruddiman-Futers,Joshua,Unattached,O,00:47:04
-20,MacCulloch,Stuart,Inverness Harriers,O40,00:47:36
-21,Pilbrow,Matthew,Highland HR,O,00:48:11
+16,Stevens,Max,Unattached,M,00:46:31
+17,Nicholson,James,Highland HR,M,00:46:34
+18,Hoult,Michael,Ross County AC,M50,00:46:42
+19,Ruddiman-Futers,Joshua,Unattached,M,00:47:04
+20,MacCulloch,Stuart,Inverness Harriers,M40,00:47:36
+21,Pilbrow,Matthew,Highland HR,M,00:48:11
 22,Richardson,Elizabeth,Highland HR,F,00:48:03
-23,Swift,Frederick,Highland HR,O,00:49:13
-24,Raeburn,Thomas,Unattached,O,00:49:25
-25,Jones,David,Highland HR,O40,00:49:37
-26,Hansen,Helge,Inverness Harriers,O40,00:49:52
+23,Swift,Frederick,Highland HR,M,00:49:13
+24,Raeburn,Thomas,Unattached,M,00:49:25
+25,Jones,David,Highland HR,M40,00:49:37
+26,Hansen,Helge,Inverness Harriers,M40,00:49:52
 27,Mcinally,Hanna,Strathearn H,F,00:49:55
-28,Sparks,Arron,Highland HR,O,00:49:58
+28,Sparks,Arron,Highland HR,M,00:49:58
 29,Peters,Ella,Westerlands CCC,F,00:50:52
-30,Giangreco,Adam,Highland HR,O40,00:50:55
-31,Hall,Andy,Highland HR,O40,00:51:26
-32,Prentice,Stuart,Nairn Road Runners,O,00:51:42
-33,Thomson,Calum,Unattached,O40,00:52:06
-34,Rodgers,Fergus,Deveron,O,00:52:09
-35,Carter,Nick,Unattached,O50,00:52:17
-36,Comisso,George,Ross County AC,O,00:53:04
+30,Giangreco,Adam,Highland HR,M40,00:50:55
+31,Hall,Andy,Highland HR,M40,00:51:26
+32,Prentice,Stuart,Nairn Road Runners,M,00:51:42
+33,Thomson,Calum,Unattached,M40,00:52:06
+34,Rodgers,Fergus,Deveron,M,00:52:09
+35,Carter,Nick,Unattached,M50,00:52:17
+36,Comisso,George,Ross County AC,M,00:53:04
 37,Meek,Katie,Inverness Harriers,F,00:53:01
 38,Watson,Rachel,Highland HR,F40,00:53:22
-39,Diver,Michael,Clydesdale Harriers,O50,00:54:04
+39,Diver,Michael,Clydesdale Harriers,M50,00:54:04
 40,Comisso,Kate,Highland HR,F40,00:54:24
-41,Mackie,Chris,Unattached,O,00:54:35
+41,Mackie,Chris,Unattached,M,00:54:35
 42,Aitken,Heather,Unattached,F,00:54:36
 43,Blake,Lorna,Highland HR,F40,00:54:37
-44,Leigh,Jake,Highland HR,O,00:54:47
-45,Pearks,David,Highland HR,O50,00:55:02
+44,Leigh,Jake,Highland HR,M,00:54:47
+45,Pearks,David,Highland HR,M50,00:55:02
 46,Tough,Jenny,Highland HR,F,00:55:32
-47,Morrison,Sean,Unattached,O50,00:55:33
-48,Popple,Steve,Highland HR,O50,00:55:35
-49,Chatburn,Richard,Highland HR,O50,00:55:43
-50,Dobbs,Simon,Forres Harriers,O60,00:55:52
-51,Soffe,Ben,Unattached,O40,00:56:31
+47,Morrison,Sean,Unattached,M50,00:55:33
+48,Popple,Steve,Highland HR,M50,00:55:35
+49,Chatburn,Richard,Highland HR,M50,00:55:43
+50,Dobbs,Simon,Forres Harriers,M60,00:55:52
+51,Soffe,Ben,Unattached,M40,00:56:31
 52,Coull,Lorraine,Highland HR,F50,00:56:36
-53,Green,James,Unattached,O40,00:56:43
+53,Green,James,Unattached,M40,00:56:43
 54,Hamilton,Iona,Unattached,F,00:57:01
 55,Cant,Isla,Lochaber AC,F,00:57:13
-56,Ryder,Steve,Unattached,O50,00:57:21
+56,Ryder,Steve,Unattached,M50,00:57:21
 57,Myatt,Rona,Highland HR,F,00:57:42
 58,Mackie,Shona,Highland HR,F40,00:58:00
 59,Ewing,Tabitha,Highland HR,F,00:58:03
 60,Lowder,Cathy,Highland HR,F40,00:58:18
 61,McKay,Caroline,Unattached,F40,00:58:25
 62,Green,Michelle,Unattached,F40,00:58:34
-63,MacSween,Alasdair,Skye,O60,00:58:35
-64,Cameron,Kenneth,Highland HR,O60,00:58:46
+63,MacSween,Alasdair,Skye,M60,00:58:35
+64,Cameron,Kenneth,Highland HR,M60,00:58:46
 65,Wilkinson,Manouk,Highland HR,F,00:59:19
-66,McGuire,Steven,Highland HR,O40,00:59:24
-67,Fraser,Derek,Highland HR,O50,00:59:38
+66,McGuire,Steven,Highland HR,M40,00:59:24
+67,Fraser,Derek,Highland HR,M50,00:59:38
 68,Hammonds,Claire,Unattached,F,00:59:05
-69,Elder,Barry,Unattached,O50,00:59:54
-70,Tait,Erlend,Unattached,O50,00:59:54
-71,Storton,Richard,Unattached,O50,01:00:02
+69,Elder,Barry,Unattached,M50,00:59:54
+70,Tait,Erlend,Unattached,M50,00:59:54
+71,Storton,Richard,Unattached,M50,01:00:02
 72,Keil,Jenny,Unattached,F,01:00:26
-73,Silver,Colin,Highland HR,O50,01:00:33
-74,Sanctuary,Marcus,Unattached,O40,01:00:35
+73,Silver,Colin,Highland HR,M50,01:00:33
+74,Sanctuary,Marcus,Unattached,M40,01:00:35
 75,MacRae,Anne,Highland HR,F50,01:00:45
-76,Gilbertson,Toby,Unattached,O40,01:01:21
-77,Chouet,Gerard,Strathearn H,O50,01:01:25
-78,Meehan,Jim,Highland HR,O60,01:02:31
+76,Gilbertson,Toby,Unattached,M40,01:01:21
+77,Chouet,Gerard,Strathearn H,M50,01:01:25
+78,Meehan,Jim,Highland HR,M60,01:02:31
 79,Moon,Samantha,Highland HR,F,01:03:23
-80,Aitken,Richard,Highland HR,O50,01:03:28
+80,Aitken,Richard,Highland HR,M50,01:03:28
 81,Paterson,Joanne,Highland HR,F50,01:03:34
-82,Chol,Marie,Unattached,O40,01:03:46
+82,Chol,Marie,Unattached,M40,01:03:46
 83,Edwards,Kayleigh,Dundee Hawkhill,F,01:04:19
 84,Green,Anna,Unattached,F,01:06:35
 85,Morris,Kate,Unattached,F50,01:07:26
 86,Wykurz,Karen,Unattached,F,01:08:12
-87,Macdonald,Martin,Lochaber AC,O40,01:09:02
-88,Cameron,Duncan,Highland HR,O,01:09:15
-89,Denny,Colin,Lochaber AC,O60,01:09:27
+87,Macdonald,Martin,Lochaber AC,M40,01:09:02
+88,Cameron,Duncan,Highland HR,M,01:09:15
+89,Denny,Colin,Lochaber AC,M60,01:09:27
 90,Bowles,Ella,Forres Harriers,F60,01:11:54
-91,Morris,Owen,Unattached,O50,01:12:00
+91,Morris,Owen,Unattached,M50,01:12:00
 92,Simpson,Joanne,Unattached,F50,01:12:50
-93,Smith,Steven,JS Westhill,O60,01:13:16
+93,Smith,Steven,JS Westhill,M60,01:13:16
 94,Grozelier,Anna,Unattached,F,01:14:29
 95,Mackay,Joni,Unattached,F40,01:18:47
-96,MacDonald,William,Lochaber AC,O60,01:20:56
+96,MacDonald,William,Lochaber AC,M60,01:20:56
 97,Shadforth,Jane,Unattached,F50,01:30:17

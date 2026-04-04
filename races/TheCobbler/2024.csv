@@ -118,7 +118,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 117,Walter,Lisette,Lochaber AC,F40,01:16:42
 118,Fallas,Helen,Carnethy HRC,F,01:16:43
 119,Garnett,Ian,Unattached,M,01:17:13
-120,Griffiths,Gemma,Shettleston Harriers,FU23,01:17:31
+120,Griffiths,Gemma,Shettleston Harriers,F23,01:17:31
 121,Breckenridge,Myrtle,Shettleston Harriers,F,01:17:41
 122,Mackinnon,Fionna,Carnethy HRC,F50,01:17:46
 123,Greig,Kevin,Dundee Roadrunners,M40,01:17:59
@@ -164,7 +164,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 163,Macgillivray,Shelley,Lochaber AC,F,01:33:08
 164,Williams,Manon,Beagle Tower Hounds,F,01:34:00
 165,Thompson,Fabienne,Lomond Hill Runners,F55,01:34:21
-166,Murphy,Ryan,Carnethy HRC,MU23,01:35:37
+166,Murphy,Ryan,Carnethy HRC,M23,01:35:37
 167,Furse,Chris,Westerlands CCC,M55,01:36:02
 168,Cornall,Matilda,Highland Hill Runners,F,01:36:37
 169,MacLeod,Murdo,Westerlands CCC,M70,01:37:06

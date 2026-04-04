@@ -52,7 +52,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 51,Pickett,Willian,Norham,M40,01:32:35
 52,Painter,Andy,South Cheshire Harriers,M40,01:32:40
 53,Preiss,Alastair,Ochil HR,M,01:32:53
-54,Cowan,David,Fife AC,m40,01:33:00
+54,Cowan,David,Fife AC,M40,01:33:00
 55,Davie,Kevin,Carnegie Harriers,M,01:34:36
 56,Patterson,Robert,Unattached,M,01:34:53
 57,Reid,Don,Westerlands,M50,01:35:18
@@ -110,7 +110,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 109,Thacker,Nigel,Unattached,M,01:53:15
 110,Love,Charlie,Dundee Hawkhill,M60,01:53:48
 111,Brown,Nicholas,Costorphine AAC,M,01:54:48
-112,Stavert,Andrew,Portobello,m50,01:55:56
+112,Stavert,Andrew,Portobello,M50,01:55:56
 113,Simpson,Alan,Portobello,M50,01:56:00
 114,Stoddart,Kirsty,Harmeny AC,F40,01:56:32
 115,Broadhurst,Lorna,Harmeny AC,F50,01:58:22

@@ -6,7 +6,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Martin,Calum,Unattached,M,1:18:40
 6,Woods,Ben,Unattached,M,1:19:23
 7,Smith,Alan,Deeside Runners,M50,1:20:06
-8,Robertson,Alastair,Lothian RC,MU23,1:20:37
+8,Robertson,Alastair,Lothian RC,M23,1:20:37
 9,McAlinden,Niall,westerlands,M,1:22:09
 10,Upson,Chris,westerlands,M40,1:22:14
 11,Jarvis,James,HBT,M40,1:22:25
@@ -28,7 +28,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Denny,Scott,Unattached,M,1:26:49
 28,Fulton,David,HBT,M,1:27:02
 29,Matthews,Steve,Dundee Hawkhill Harriers,M,1:27:02
-30,Macdonald,Matt,Lochaber AC,MU23,1:27:38
+30,Macdonald,Matt,Lochaber AC,M23,1:27:38
 31,Stevenson,John,Ochil Hill Runners,M50,1:27:52
 32,Munro,David,Lochaber AC,M40,1:28:23
 33,Robertson,Shona,westerlands,F40,1:28:27
@@ -46,14 +46,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Finlay,Alayne,Ochil Hill Runners,F,1:32:15
 46,Bone,Graeme,Unattached,M40,1:32:16
 47,Blackhall,Amanda,lochaber AC,F40,1:32:50
-48,Gilmore,Andrew,Ochil Hill Runners,MU23,1:33:15
+48,Gilmore,Andrew,Ochil Hill Runners,M23,1:33:15
 49,Duke,Alasdair,Westerlands,M,1:33:34
-50,Cross,Daniel,Unattached,MU23,1:33:37
+50,Cross,Daniel,Unattached,M23,1:33:37
 51,Macdonald,Gio,Carnethy,M40,1:33:56
 52,Yule,Steven,Tinto Hill Runners,M,1:34:02
 53,Moses,Christopher,Helensburgh AAC,M,1:34:21
 54,Hunter,Andrew,Beeston AC,M,1:34:40
-55,Campbell,Alexandra,Moorfoot Runners,FU23,1:35:01
+55,Campbell,Alexandra,Moorfoot Runners,F23,1:35:01
 56,Elertowicz,Stefan,Fife AC,M,1:35:24
 57,Scott,Tom,Fife AC,M60,1:35:44
 58,Cowan,Paula,westerlands,F40,1:36:39
@@ -63,7 +63,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 62,Weir,Jonathan,Unattached,M,1:37:14
 63,Ritchie,Hilary,Fife AC,F40,1:37:17
 64,MacNab,Graham,Lochaber AC,M40,1:38:09
-65,Waldie,James,Carnethy,MU23,1:38:12
+65,Waldie,James,Carnethy,M23,1:38:12
 66,Elliot,Simon,Beeston AC,M50,1:38:32
 67,Conner,Julia,Moorfoot Runners,F,1:38:39
 68,Laird,Fraser,Westerlands,M,1:39:26
@@ -101,7 +101,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 100,Irving,John,Dundee Road Runners,M40,1:49:36
 101,Ryan,John,Unattached,M,1:50:22
 102,Murphy,Gavin,Unattached,M,1:50:40
-103,Halliday,Jessica,Shettleston,FU23,1:50:46
+103,Halliday,Jessica,Shettleston,F23,1:50:46
 104,Friend,Kate,Carnethy,F40,1:53:10
 105,MacPherson,Helen,westerlands,F50,1:53:12
 106,Goldfinch,Nick,Unattached,M,1:56:00

@@ -11,31 +11,31 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 10,Maclennan,Ross,FVO,M,00:37:09
 11,Jones,Alex,Stirling University,M,00:37:53
 12,Mudge,Angela,Carnethy,F,00:37:54
-13,Riach,David,Westerlands CCC,MV40,00:38:16
+13,Riach,David,Westerlands CCC,M40,00:38:16
 14,Tolson,Jonathan,Central,M,00:38:41
 15,Sutherland,Matthew,Edinburgh University,M,00:38:54
-16,Smith,Alan,Deeside,MV40,00:39:09
+16,Smith,Alan,Deeside,M40,00:39:09
 17,Johnston,Mark,Bellahouston,M,00:39:47
 18,Ross,Dougal,Bellahouston,M,00:39:49
 19,Jack,Euan,Ochil,M,00:39:57
 20,Glencorse,Colin,Strathearn,M,00:39:58
 21,Winter,Stephen,Shettleston,M,00:40:00
 22,Cowie,Kyle,Stirling University,M,00:40:03
-23,McGougan,Duncan,SPS AAC,MV40,00:40:09
+23,McGougan,Duncan,SPS AAC,M40,00:40:09
 24,Schmidt,Elke,Bellahouston,F,00:40:17
-25,Warner,Robert,Wee Country Harriers,MV40,00:40:18
+25,Warner,Robert,Wee Country Harriers,M40,00:40:18
 26,Goddae,Roger,FVO,M,00:40:27
 27,Arnott,Neill,Lochaber,M,00:40:49
-28,Upson,Chris,Westerlands CCC,MV40,00:41:05
+28,Upson,Chris,Westerlands CCC,M40,00:41:05
 29,O'Neill,Owen,Westerlands CCC,M,00:41:16
-30,Cross,John,FVO,MV40,00:41:20
+30,Cross,John,FVO,M40,00:41:20
 31,Hensman,Will,Central,M,00:41:27
 32,Connor,Brad,Ochil,M,00:41:30
 33,Spence,Crawford,Westerlands CCC,M,00:41:32
 34,Neal,Craig,Unattached,M,00:41:36
 35,Johnston,Graham,Strathearn,M,00:41:37
-36,Anderson,Russell,Norcroft,MV40,00:41:38
-37,Cowper,Steve,Millburn Harriers,MV40,00:41:41
+36,Anderson,Russell,Norcroft,M40,00:41:38
+37,Cowper,Steve,Millburn Harriers,M40,00:41:41
 38,Cartmell,Blair,Stirling University,M,00:41:43
 39,Thin,Jamie,HBT,M,00:41:54
 40,Triger,Simon,Westerlands,M,00:41:59
@@ -43,216 +43,216 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 42,Bradford,Daniel,Glasgow University,M,00:42:15
 43,Priestley,Andrea,Ochil,F,00:42:20
 44,Lewis,Ian,Unattached,M,00:42:22
-45,Scholes,John,Unattached,MV40,00:42:26
+45,Scholes,John,Unattached,M40,00:42:26
 46,Walder,Patrick,Shettleston,M,00:42:32
-47,Halpin,Shaun,Unattached,MV40,00:42:41
+47,Halpin,Shaun,Unattached,M40,00:42:41
 48,Kelly,Graham,Westerlands,M,00:42:42
-49,O'Brien,Paul,Corstorphine,MV40,00:42:48
-50,Reid,Don,Westerlands,MV50,00:43:00
+49,O'Brien,Paul,Corstorphine,M40,00:42:48
+50,Reid,Don,Westerlands,M50,00:43:00
 51,Inman,Jason,FVO,M,00:43:04
-52,Bennet,Sandy,Carnegie,MV40,00:43:18
-53,Mackay,Euan,Ochil,MV40,00:43:20
+52,Bennet,Sandy,Carnegie,M40,00:43:18
+53,Mackay,Euan,Ochil,M40,00:43:20
 54,Priestley,Mark,Ochil,M,00:43:23
 55,Fowler,Nigel,Fife,M,00:43:34
 56,Bowers,William,Unattached,M,00:43:36
 57,Homewood,Ellen,Westerlands,F,00:43:38
 58,Weir,Nick,Carnegie,M,00:43:47
-59,Bearhop,Derek,Carnethy,MV40,00:44:04
-60,Randfield,Simon,FVO,MV40,00:44:10
-61,Harris,Fraser,Unattached,MV40,00:44:21
+59,Bearhop,Derek,Carnethy,M40,00:44:04
+60,Randfield,Simon,FVO,M40,00:44:10
+61,Harris,Fraser,Unattached,M40,00:44:21
 62,McTier,Ian,Aberdeen University,M,00:44:21
 63,Reid,Craig,Stirling University,M,00:44:25
 64,Fraser,Gary,Ochil,M,00:44:25
-65,Tudhope,Sandy,Unattached,MV40,00:44:26
-66,Diver,Michael,Clydesdale,MV40,00:44:29
-67,Field,Steve,Central,MV40,00:44:44
+65,Tudhope,Sandy,Unattached,M40,00:44:26
+66,Diver,Michael,Clydesdale,M40,00:44:29
+67,Field,Steve,Central,M40,00:44:44
 68,Houston,Val,Westerlands,F,00:44:52
 69,Marshall,Alastair,Edinburgh University,M,00:44:52
-70,Craigie,Andy,Forces,MV40,00:44:55
-71,MacLeod,Murdo,Westerlands,MV50,00:45:07
+70,Craigie,Andy,Forces,M40,00:44:55
+71,MacLeod,Murdo,Westerlands,M50,00:45:07
 72,Sweeney,Philip,Central,M,00:45:11
-73,Donnelly,John,Westerlands,MV40,00:45:13
+73,Donnelly,John,Westerlands,M40,00:45:13
 74,Taylor,Judith,Carnegie,F,00:45:14
 75,Dudchenko,Paul,Unattached,M,00:45:25
-76,Laing,Steve,Central,MV50,00:45:26
+76,Laing,Steve,Central,M50,00:45:26
 77,Plunkett,Paul,Wee Country Harriers,M,00:45:33
 78,Scott,Allan,Bellahouston,M,00:45:35
-79,Duffy,John,Shettleston,MV40,00:45:37
+79,Duffy,John,Shettleston,M40,00:45:37
 80,Robertson,Derek,Ochil,M,00:45:40
 81,Gamble,Lisa,Fife,F,00:45:41
-82,Bullen,Brian,Ochil,MV50,00:45:47
-83,Erskine,Alec,Unattached,MV40,00:45:49
+82,Bullen,Brian,Ochil,M50,00:45:47
+83,Erskine,Alec,Unattached,M40,00:45:49
 84,Docherty,Martin,Unattached,M,00:46:03
-85,Duncan,David,Ochil,MV50,00:46:07
+85,Duncan,David,Ochil,M50,00:46:07
 86,Scheuerl,Stephan,Unattached,M,00:46:20
 87,Pickett,Sarah,Central,F,00:46:24
-88,Robinson,Gordon,Westerlands,MV50,00:46:25
+88,Robinson,Gordon,Westerlands,M50,00:46:25
 89,Jones,Andrew,Unattached,M,00:46:25
-90,Richardson,Matthew,Lothian,MV40,00:46:26
+90,Richardson,Matthew,Lothian,M40,00:46:26
 91,Wardlaw,Eilidh,HBT,F,00:46:27
-92,Mackay,Iain,HBT,MV40,00:46:28
-93,Roberts,Nigel,Ochil,MV40,00:46:30
+92,Mackay,Iain,HBT,M40,00:46:28
+93,Roberts,Nigel,Ochil,M40,00:46:30
 94,Paskins,Thomas,Stirling University,M,00:46:31
 95,Poolman,Ian,Fife,M,00:46:36
 96,Higginbottom,Jacqui,Carnethy,F,00:46:39
-97,Macewan,John,Ochil,MV40,00:46:41
+97,Macewan,John,Ochil,M40,00:46:41
 98,Frances,Stuart,Unattached,M,00:46:41
 99,McQuarter,Robert,Westerlands,M,00:46:47
 100,Smirthwaite,Rachel,Glasgow University,F,00:46:50
-101,Bowers,John,Ochil,MV50,00:46:54
-102,Bartlett,Pat,Interlopers,MV40,00:46:56
+101,Bowers,John,Ochil,M50,00:46:54
+102,Bartlett,Pat,Interlopers,M40,00:46:56
 103,Curtis,Briony,Edinburgh University,F,00:47:02
-104,Mackenzie,Robbie,Carnegie,MV40,00:47:03
+104,Mackenzie,Robbie,Carnegie,M40,00:47:03
 105,Penderis,Jacques,Westerlands,M,00:47:20
 106,Hill,Richard,Westerlands,M,00:47:22
 107,Darlow,Tim,Carnethy,M,00:47:22
-108,McCaffrey,Gordon,Clydesdale,MV50,00:47:27
-109,Macenroy,Ross,Helensburgh,MV50,00:47:28
+108,McCaffrey,Gordon,Clydesdale,M50,00:47:27
+109,Macenroy,Ross,Helensburgh,M50,00:47:28
 110,Colver,Keith,Unattached,M,00:47:36
-111,Flint,Doug,Strathearn,MV40,00:47:42
+111,Flint,Doug,Strathearn,M40,00:47:42
 112,Burgess,Steven,Unattached,M,00:47:46
 113,Morrison,Gordon,Strathearn,M,00:47:50
 114,Hudson,Mark,Unattached,M,00:48:06
-115,Monkford,David,Lothian,MV40,00:48:09
+115,Monkford,David,Lothian,M40,00:48:09
 116,Young,Sarah,Tri Club,F,00:48:10
 117,Adams,Keith,Westerlands,M,00:48:13
 118,Blake,Kenneth,Unattached,M,00:48:17
 119,Johnson,Nigel,Unattached,M,00:48:29
-120,Manson,Alan,Unattached,MV40,00:48:34
+120,Manson,Alan,Unattached,M40,00:48:34
 121,Bell-Scott,Rowena,Edinburgh University,F,00:48:35
 122,McPherson,Gordon,Wee Country Harriers,M,00:48:38
-123,Gardiner,David,Unattached,MV40,00:48:40
+123,Gardiner,David,Unattached,M40,00:48:40
 124,Mackenzie,Sarah,Lochaber,F,00:48:44
 125,McMillan,George,Unattached,M,00:48:47
 126,Orr,Johnstone,Westerlands,M,00:49:02
 127,Riley,Elsie,Westerlands,F,00:49:08
 128,Mathers,John,Unattached,M,00:49:10
-129,Greig,Carol,Dundee Road Runners,FV40,00:49:24
+129,Greig,Carol,Dundee Road Runners,F40,00:49:24
 130,Inman,Janine,FVO,F,00:49:34
 131,Desmond,Finbarr,Unattached,M,00:49:44
-132,Semple,Hamilton,Westerlands,MV50,00:49:55
-133,Bowman,Gus,Beacon,MV50,00:49:55
-134,Telfer,John,Keswick,MV40,00:50:05
-135,Schreiber,Jo,Pudsey,FV40,00:50:12
-136,Junnier,Beryl,Wee Country Harriers,FV40,00:50:15
+132,Semple,Hamilton,Westerlands,M50,00:49:55
+133,Bowman,Gus,Beacon,M50,00:49:55
+134,Telfer,John,Keswick,M40,00:50:05
+135,Schreiber,Jo,Pudsey,F40,00:50:12
+136,Junnier,Beryl,Wee Country Harriers,F40,00:50:15
 137,Drewette,David,Unattached,M,00:50:20
 138,Udaghy,Mike,Unattached,M,00:50:29
 139,Hay,David,Central,M,00:50:31
 140,Ramsay,Kirsten,Unattached,F,00:50:33
-141,Johnston,Steven,Milburn,MV40,00:50:39
+141,Johnston,Steven,Milburn,M40,00:50:39
 142,Gravelings,Richard,Wee Country Harriers,M,00:50:40
 143,Docherty,Simon,Unattached,M,00:50:40
-144,Pendrill,Geoff,Kirkintilloch,MV40,00:50:43
+144,Pendrill,Geoff,Kirkintilloch,M40,00:50:43
 145,Graham,Robert,Central,M,00:50:46
 146,McKechnie,Andrew,HBT,M,00:51:00
-147,Moran,Edward,Unattached,MV50,00:51:15
+147,Moran,Edward,Unattached,M50,00:51:15
 148,Emsley,Jennifer,Central,F,00:51:16
 149,Orr,Hollie,Edinburgh University,F,00:51:22
 150,Sim,Andrew,Carnegie,M,00:51:22
-151,Fitzpatrick,Pat,Ochil,MV50,00:51:27
+151,Fitzpatrick,Pat,Ochil,M50,00:51:27
 152,Henty,Chris,Carnethy,M,00:51:34
-153,Whitehead,Jonathan,Edinburgh AC,MV50,00:51:35
-154,Williamson,Don,Unattached,MV40,00:51:39
-155,Boyle,David,Bellahouston,MV40,00:51:41
-156,Love,Charlie,Dundee Hawkhill,MV60,00:51:44
-157,Lawlor,Tommie,Carnegie,MV50,00:51:46
-158,Martin,Dave,Unattached,MV40,00:51:46
+153,Whitehead,Jonathan,Edinburgh AC,M50,00:51:35
+154,Williamson,Don,Unattached,M40,00:51:39
+155,Boyle,David,Bellahouston,M40,00:51:41
+156,Love,Charlie,Dundee Hawkhill,M60,00:51:44
+157,Lawlor,Tommie,Carnegie,M50,00:51:46
+158,Martin,Dave,Unattached,M40,00:51:46
 159,McIntosh,Mairi,Ochil,F,00:51:47
-160,Both,Simon,Unattached,MV40,00:51:48
-161,Hunt,Peter,Unattached,MV50,00:51:51
-162,Fraser,Iain,Irvine,MV40,00:51:52
+160,Both,Simon,Unattached,M40,00:51:48
+161,Hunt,Peter,Unattached,M50,00:51:51
+162,Fraser,Iain,Irvine,M40,00:51:52
 163,Blake,Allan,Unattached,M,00:52:00
 164,O'Neill,Eilis,HBT,F,00:52:01
-165,Dealtry,Eddie,Ochil,MV40,00:52:03
-166,Wilson,Graeme,Wee Country Harriers,MV40,00:52:05
-167,Taylor,Garry,Carnegie,MV40,00:52:06
+165,Dealtry,Eddie,Ochil,M40,00:52:03
+166,Wilson,Graeme,Wee Country Harriers,M40,00:52:05
+167,Taylor,Garry,Carnegie,M40,00:52:06
 168,Nicholson,Rose,Edinburgh University,F,00:52:07
-169,Mitchell,Neill,Unattached,MV40,00:52:08
+169,Mitchell,Neill,Unattached,M40,00:52:08
 170,Greenhill,Robin,Unattached,M,00:52:13
-171,Bussey,James,Strathearn Harriers,MV40,00:52:16
+171,Bussey,James,Strathearn Harriers,M40,00:52:16
 172,Macerlean,Fergal,Stirling Tri,M,00:52:17
-173,Nash,Simon,Central,MV40,00:52:37
-174,Kilburn,David,FVO,MV40,00:52:44
+173,Nash,Simon,Central,M40,00:52:37
+174,Kilburn,David,FVO,M40,00:52:44
 175,Jansson,Sandra,Stirling University,F,00:52:45
-176,Gatehouse,Richard,Lomond Hill Runners,MV50,00:52:47
+176,Gatehouse,Richard,Lomond Hill Runners,M50,00:52:47
 177,Stewart,Danielle,Unattached,F,00:53:00
 178,Burns,Stuart,Westerlands,M,00:53:04
 179,Brown,Jamie,Unattached,M,00:53:07
-180,Buchanan,Andrina,Central,FV40,00:53:21
-181,West,Alison,Carnegie,FV50,00:53:51
+180,Buchanan,Andrina,Central,F40,00:53:21
+181,West,Alison,Carnegie,F50,00:53:51
 182,Johnstone,Alistair,Unattached,M,00:53:58
 183,Johnston,Sally,Unattached,F,00:53:58
-184,Brosnan,Kevin,Unattached,MV40,00:54:30
+184,Brosnan,Kevin,Unattached,M40,00:54:30
 185,McGregor,Andrew,Unattached,F,00:54:34
 186,Lyons,Emma,Unattached,F,00:54:40
 187,Kirk,Katherine,Westerlands,F,00:54:41
 188,Winning,Jim,Beacon Runners,M,00:54:53
-189,Kirk,Keith,Unattached,MV40,00:54:54
+189,Kirk,Keith,Unattached,M40,00:54:54
 190,Ferguson,Mark,Unattached,M,00:55:00
 191,Thin,Joanne,Carnethy,F,00:55:05
-192,Holl,Emily,Unattached,FV40,00:55:08
+192,Holl,Emily,Unattached,F40,00:55:08
 193,Caldwell,Christine,Unattached,F,00:55:09
 194,Aitken,Lesley,Dundee Road Runners,F,00:55:31
-195,Polak,Sue,Unattached,FV40,00:55:35
-196,Young,Archie,Unattached,MV50,00:55:36
+195,Polak,Sue,Unattached,F40,00:55:35
+196,Young,Archie,Unattached,M50,00:55:36
 197,Dimeo,Paul,Unattached,M,00:55:38
-198,Johnston,Simon,Unattached,MV40,00:55:39
-199,Drummond,Jim,Central,MV50,00:55:48
-200,Musk,David,Unattached,MV50,00:55:55
+198,Johnston,Simon,Unattached,M40,00:55:39
+199,Drummond,Jim,Central,M50,00:55:48
+200,Musk,David,Unattached,M50,00:55:55
 201,Stewart,Michael,Whiskey Boys,M,00:56:06
-202,Lindsay,Susan,Ochil,FV40,00:56:12
+202,Lindsay,Susan,Ochil,F40,00:56:12
 203,Thomson,Jan,Unattached,M,00:56:16
-204,Brett,Jill,Central,FV40,00:56:23
-205,Tilbrook,Cathy,Strathearn Harriers,FV40,00:56:28
+204,Brett,Jill,Central,F40,00:56:23
+205,Tilbrook,Cathy,Strathearn Harriers,F40,00:56:28
 206,Spalding,Maggie,Hunters Bog Trotters,F,00:56:33
 207,Grotlin,Edward,Unattached,M,00:56:33
 208,Elder,Scott,Unattached,M,00:56:34
 209,Bartlet,Eilidh,Unattached,F,00:56:45
-210,McAdam,Pauline,Westerlands,FV50,00:57:01
-211,Murray,Frances,Unattached,MV40,00:57:06
+210,McAdam,Pauline,Westerlands,F50,00:57:01
+211,Murray,Frances,Unattached,M40,00:57:06
 212,Lyon,William,Unattached,M,00:57:36
-213,McManus,Ian,Irvine,MV60,00:57:53
-214,Stapley,Tony,Portobello RC,MV50,00:58:02
-215,Manners,Alison,Strathearn Harriers,FV40,00:58:04
+213,McManus,Ian,Irvine,M60,00:57:53
+214,Stapley,Tony,Portobello RC,M50,00:58:02
+215,Manners,Alison,Strathearn Harriers,F40,00:58:04
 216,King,Alex,Ochil,M,00:58:05
-217,Cox,Byron,HBT,MV40,00:58:20
-218,Longhurst,Louise,FVO,FV40,00:58:24
+217,Cox,Byron,HBT,M40,00:58:20
+218,Longhurst,Louise,FVO,F40,00:58:24
 219,Russell,Louise,Unattached,F,00:59:08
 220,Jarvis,Claire,Edinburgh University,F,00:59:11
 221,Sutherland,Calum,Unattached,M,00:59:17
-222,Campbell,Neill,Carnegie,MV40,00:59:33
-223,Gault,William,Central,MV50,00:59:38
+222,Campbell,Neill,Carnegie,M40,00:59:33
+223,Gault,William,Central,M50,00:59:38
 224,Wren,Katherine,Unattached,F,00:59:39
-225,Gail,Vernon,Unattached,MV40,00:59:41
-226,Randfield,Helen,FVO,FV40,00:59:42
+225,Gail,Vernon,Unattached,M40,00:59:41
+226,Randfield,Helen,FVO,F40,00:59:42
 227,Malcolm,Colin,Unattached,M,00:59:49
 228,King,Stuart,Unattached,M,01:00:54
 229,Leishman,Andrew,Unattached,M,01:01:21
 230,Morrison,David,Stirling Tri,M,01:01:23
-231,Russell,Paul,Unattached,MV40,01:01:32
+231,Russell,Paul,Unattached,M40,01:01:32
 232,Nairns,William,Ochil,M,01:02:16
 233,Renton,Louise,Unattached,F,01:02:27
 234,McQuillan,Alison,FVO,F,01:02:48
-235,Williamson,Hazel,Unattached,FV40,01:03:05
-236,McLaughlin,Patricia,Westerlands,FV50,01:04:00
-237,Hudson,Thomas,Unattached,MV40,01:04:42
-238,Hunter,Morag,Wee Country Harriers,FV40,01:04:48
-239,Hunter,Gordon,Wee Country Harriers,MV40,01:04:49
-240,Donnelly,Mark,Unattached,MV50,01:05:07
-241,Coon,John,Unattached,MV50,01:06:52
+235,Williamson,Hazel,Unattached,F40,01:03:05
+236,McLaughlin,Patricia,Westerlands,F50,01:04:00
+237,Hudson,Thomas,Unattached,M40,01:04:42
+238,Hunter,Morag,Wee Country Harriers,F40,01:04:48
+239,Hunter,Gordon,Wee Country Harriers,M40,01:04:49
+240,Donnelly,Mark,Unattached,M50,01:05:07
+241,Coon,John,Unattached,M50,01:06:52
 242,Davie,Moira,Aberdeen University,F,01:07:23
-243,Halsall,Chris,Unattached,MV50,01:07:37
+243,Halsall,Chris,Unattached,M50,01:07:37
 244,Retary,Annelie,Unattached,F,01:08:22
 245,Hopcroft,Dwynwen,Unattached,F,01:09:04
 246,Paterson,Esther,Unattached,F,01:09:54
-247,Benny,Graham,Westerlands,MV50,01:11:15
+247,Benny,Graham,Westerlands,M50,01:11:15
 248,Baird,Gillian,Unattached,F,01:11:44
-249,Macfarlane,Max,Kilbarchan,MV50,01:11:52
+249,Macfarlane,Max,Kilbarchan,M50,01:11:52
 250,Falconer,Emma,Unattached,F,01:11:54
 251,Seery,Janny,Unattached,M,01:15:48
 252,Rice,George,Unattached,M,01:15:51
 253,Neil,Pamela,Unattached,F,01:18:28
-254,Mould,Gill,Unattached,FV50,01:18:39
+254,Mould,Gill,Unattached,F50,01:18:39
 255,Giles,Ian,Unattached,M,01:24:02
 256,Waddington,Donna,Unattached,F,01:25:19
 257,Wright,David,Unattached,M,01:33:52

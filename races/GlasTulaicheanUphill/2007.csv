@@ -1,48 +1,48 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Whitfield,Matt,Bingley,M 20,00:34:57
-2,Stewart,Grant,Edinburgh AC,M 20,00:35:39
-3,Anthony,Alasdair,Ochil Hill Runners,M 20,00:35:47
-4,Whitlie,Stuart,Carnethy,M 40 *,00:37:14
-5,Quinn,Robert,Kilbarchan,M 40,00:37:18
-6,Weir,Dave,Fife AC,M 40 *,00:37:51
-7,Cummins,Dave,Shettleston,M 40,00:38:44
-8,Bell,Matt,Edinburgh AC,M 20,00:38:58
-9,Paterson,Ewan,Moray RR,M 50,00:39:50
-10,Varney,Keith,Cosmic Hill Bashers,M 50,00:40:56
-11,Jones,Alex,Fife,J M,00:41:04
-12,Arbuckle,Ross,Keith & Dist.,M 40 *,00:41:08
-13,Britton,James,Moorfoot,M 20,00:41:55
-14,Glencorse,Colin,Strathearn Harriers,M 20,00:42:28
-15,Cunningham,Richie,Carnegie,M 20,00:42:45
-16,Gill,Stephen,Keith & Dist,M 20,00:42:46
-17,Inglis,Robert,Lothian,J M,00:43:25
-18,Mooney,Edel,Lothian,W 20,00:42:34
-19,Whyte,Ken,Lochaber,M 50,00:43:41
-20,Blair-Fish,John,Carnethy,M 50,00:43:56
-21,Love,Craig,Dundee Hawkhill,M 20,00:44:06
-22,Stevenson,Jim,Irvine AC,M 50,00:44:58
-23,Watson,Gordon,Dundee HH,M 50,00:45:08
-24,Whitfield,Beverley,Bingley,W 20,00:45:11
-25,Hutt,Colin,Carnethy,M 40,00:45:54
-26,Diver,Michael,Clydesdale Harriers,M 40,00:45:58
-27,Scott,Dawn,Lochaber,W 20,00:48:39
-28,McEwan,Murdo,Carnethy,M 50,00:48:39
-29,Gemmell,Clare,Springburn Harriers,W 20,00:49:04
-30,Mitchell,Dave,Dundee Hawhhill,M 40,00:49:13
-31,Fowler,Nigel,Fife A C,M 20,00:49:45
-32,Winton,Simon,Dalmunzie,M 50,00:49:56
-33,Gamble,Lisa,Fife AC,W 20,00:50:29
-34,McKinlay,Gavin,Dundee Road Runners,M 20,00:50:45
-35,Smith,Rachael,Moorfoot,W 20,00:51:17
-36,McLean,Herbie,Lothian,M 60,00:51:22
-37,Oliver,David,Deeside,M 40,00:52:10
-38,Hamilton,Anita,Cosmic,W 50,00:52:25
-39,Vignes,Matti,Dundee Hawkhill,M 20,00:52:33
-40,Love,Charlie,Dundee Hawkhill,M 60,00:52:36
-41,Hay,Bruce,-,M 20,00:52:42
-42,Fraser,Gary,-,M 20,00:54:34
-43,Johnson,Dina,Dundee Road Runners,W 40 *,00:55:25
-44,Cromar,Steve,Dundee Hawikhill,M 60 *,00:55:58
-45,Noble,Lois,Cosmic Hill Bashers,W 40 *,00:57:14
-46,Stewart,Elaine,Cosmic Hill Bashers,W 50,00:57:44
-47,McManus,Ian,Irvine,M 60 *,01:01:02
+1,Whitfield,Matt,Bingley,M20,00:34:57
+2,Stewart,Grant,Edinburgh AC,M20,00:35:39
+3,Anthony,Alasdair,Ochil Hill Runners,M20,00:35:47
+4,Whitlie,Stuart,Carnethy,M40,00:37:14
+5,Quinn,Robert,Kilbarchan,M40,00:37:18
+6,Weir,Dave,Fife AC,MM40,00:37:51
+7,Cummins,Dave,Shettleston,M40,00:38:44
+8,Bell,Matt,Edinburgh AC,M20,00:38:58
+9,Paterson,Ewan,Moray RR,M50,00:39:50
+10,Varney,Keith,Cosmic Hill Bashers,M50,00:40:56
+11,Jones,Alex,Fife,M16,00:41:04
+12,Arbuckle,Ross,Keith & Dist.,M40,00:41:08
+13,Britton,James,Moorfoot,M20,00:41:55
+14,Glencorse,Colin,Strathearn Harriers,M20,00:42:28
+15,Cunningham,Richie,Carnegie,M20,00:42:45
+16,Gill,Stephen,Keith & Dist,M20,00:42:46
+17,Inglis,Robert,Lothian,M16,00:43:25
+18,Mooney,Edel,Lothian,F20,00:42:34
+19,Whyte,Ken,Lochaber,M50,00:43:41
+20,Blair-Fish,John,Carnethy,M50,00:43:56
+21,Love,Craig,Dundee Hawkhill,M20,00:44:06
+22,Stevenson,Jim,Irvine AC,M50,00:44:58
+23,Watson,Gordon,Dundee HH,M50,00:45:08
+24,Whitfield,Beverley,Bingley,F20,00:45:11
+25,Hutt,Colin,Carnethy,M40,00:45:54
+26,Diver,Michael,Clydesdale Harriers,M40,00:45:58
+27,Scott,Dawn,Lochaber,F20,00:48:39
+28,McEwan,Murdo,Carnethy,M50,00:48:39
+29,Gemmell,Clare,Springburn Harriers,F20,00:49:04
+30,Mitchell,Dave,Dundee Hawhhill,M40,00:49:13
+31,Fowler,Nigel,Fife A C,M20,00:49:45
+32,Winton,Simon,Dalmunzie,M50,00:49:56
+33,Gamble,Lisa,Fife AC,F20,00:50:29
+34,McKinlay,Gavin,Dundee Road Runners,M20,00:50:45
+35,Smith,Rachael,Moorfoot,F20,00:51:17
+36,McLean,Herbie,Lothian,M60,00:51:22
+37,Oliver,David,Deeside,M40,00:52:10
+38,Hamilton,Anita,Cosmic,F50,00:52:25
+39,Vignes,Matti,Dundee Hawkhill,M20,00:52:33
+40,Love,Charlie,Dundee Hawkhill,M60,00:52:36
+41,Hay,Bruce,-,M20,00:52:42
+42,Fraser,Gary,-,M20,00:54:34
+43,Johnson,Dina,Dundee Road Runners,F0,00:55:25
+44,Cromar,Steve,Dundee Hawikhill,M60,00:55:58
+45,Noble,Lois,Cosmic Hill Bashers,F40,00:57:14
+46,Stewart,Elaine,Cosmic Hill Bashers,F50,00:57:44
+47,McManus,Ian,Irvine,M60,01:01:02

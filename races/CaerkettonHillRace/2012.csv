@@ -1,76 +1,76 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Faulkner,Paul,Carnethy,Sen,00:18:42
-2,Gay,Dan,HBT,Sen,00:18:53
-3,Naylor,Don,HBT,V40,00:19:20
-4,Whitlie,Stewart,Carnethy,V50,00:19:52
-5,Fallon,Steven,Carnethy,V40,00:20:00
-6,McAlinden,Niall,Westies,Sen,00:20:11
-7,Huthinson,Charles,HBT,Sen,00:20:29
-8,Foss,Luke,Law & District,Jun (15),00:20:31
-9,Fraser,Gary,Ochils,V40,00:20:31
-10,Wilson,Ali,Glasgow Uni,Sen,00:20:36
-11,Johnston,Fergus,Galashiels,Sen,00:20:43
-12,Crampton,Neil,Pudsey & Bramley,Sen,00:20:50
-13,Hardie,James,Carnethy,Sen,00:21:06
-14,Gilmour,Andrew,Carnethy,Sen,00:21:20
-15,Hammond,John,Carnethy,Sen,00:21:21
-16,O'Neill,Owen,Westies,Sen,00:21:25
-17,Upson,Chris,Westies,V40,00:21:27
-18,Boyd,Euan,Carnethy,Sen,00:21:36
-19,Gilmore,Iain,Carnethy,Sen,00:21:39
-20,Williamson,Coll,Edinburgh Uni,Sen,00:21:39
-21,Ball,Duncan,Penicuik Harriers,V50,00:21:40
-22,Ascroft,Jon,Carnethy,V40,00:21:47
-23,Berrill,David,Lothian,Sen,00:21:58
-24,Titmuss,Simon,Carnethy,Sen,00:21:59
-25,Morgan,Charlotte,Carnethy,FS,00:22:08
-26,Gilmore,Neil,Carnethy,V40,00:22:42
-27,Sleggs,Paul,U/A,Sen,00:22:58
-28,McKechanie,Eilis,HBT,FS,00:23:23
-29,Hunter,Alan,Ochils,V40,00:23:31
-30,Earle,Paddy,Tinto HR,V50,00:23:34
-31,Andreas,Garcia,U/A,Sen,00:23:35
-32,Robertson,Ally,Carnethy,Sen,00:23:44
-33,Weir,Jonathan,U/A,Sen,00:24:02
-34,Calothis,Marinos,Kinross RR,V40,00:24:12
-35,Wilson,Rob,Penicuik Harriers,V40,00:24:20
-36,Cameron,Gordon,Carnethy,V50,00:24:23
-37,Evans,Neah,Shettleston,FS,00:24:34
-38,Waterhouse,Bob,Carnethy,V60,00:24:36
-39,Jones,Matthew,Carnethy,Sen,00:24:36
-40,Simpson,Jane,Bellahouston RR,FS,00:24:41
-41,McKechanie,Andrew,HBT,Sen,00:24:47
-42,Cromie,Connor,Carnethy,Sen,00:24:50
-43,Bowden,James,HBT,Sen,00:24:53
-44,Hulme,Martin,Corstorphine,V60,00:24:56
-45,Brown,Jamie,HBT,Sen,00:24:56
-46,Connor,Julia,Moorfoots,FS,00:25:03
-47,Fitzpatrick,Pat,Ochils,V60,00:25:07
-48,Blair-Fish,John,Carnethy,V60,00:25:15
-49,Sword,Lawrence,U/A,V40,00:25:38
-50,Gibson,Fraser,Carnethy,Sen,00:26:02
-51,Keaveney,Marcus,Lomond Hill Runners,Sen,00:26:04
-52,Duncan,David,Ochils,V50,00:26:19
-53,Lye,Mary,Carnethy,FS,00:26:44
-54,Bouchier,Shane,Carnethy,Sen,00:26:48
-55,McHarg,Steven,U/A,Sen,00:26:49
-56,Roqowski,Andreas,Kinross RR,V40,00:27:12
-57,Howie,Brian,Carnethy,V60,00:27:29
-58,Campbell,Ian,HBT,V40,00:27:50
-59,Nowicki,Michael,Carnethy,Sen,00:27:55
-60,Dunn,Nicola,Carnethy,FV40,00:28:26
-61,Ozers,Thomas,Carnethy,Sen,00:28:31
-62,Wilson,Andrea,Penicuik Harriers,FV40,00:28:56
-63,Kelly,Mairhead,HBT,FS,00:28:58
-64,Midgley,Peter,Westies,V50,00:29:14
-65,McDougall,Ken,Tinto HR,Sen,00:29:29
-66,McPherson,Hugh,Tinto HR,V60,00:30:33
-67,Calder,Mandy,Carnethy,FV40,00:30:59
-68,Lee,Phil,U/A,Sen,00:31:21
-69,Gauld,Bill,Carnethy,V79,00:31:33
-70,Ingham,Cali,Carnethy,FV50,00:31:55
-71,Stapley,Tony,Portobello,V60,00:33:56
-72,Strain,Shiela,East Lothian Or,FV60,00:33:59
-73,Diego,Alonso,U/A,Sen,00:37:01
-74,McHarg,Andrew,U/A,Sen,00:38:00
-75,Falconer,Helen,U/A,FS,00:38:49
+1,Faulkner,Paul,Carnethy,M,00:18:42
+2,Gay,Dan,HBT,M,00:18:53
+3,Naylor,Don,HBT,M40,00:19:20
+4,Whitlie,Stewart,Carnethy,M50,00:19:52
+5,Fallon,Steven,Carnethy,M40,00:20:00
+6,McAlinden,Niall,Westies,M,00:20:11
+7,Huthinson,Charles,HBT,M,00:20:29
+8,Foss,Luke,Law & District,M15,00:20:31
+9,Fraser,Gary,Ochils,M40,00:20:31
+10,Wilson,Ali,Glasgow Uni,M,00:20:36
+11,Johnston,Fergus,Galashiels,M,00:20:43
+12,Crampton,Neil,Pudsey & Bramley,M,00:20:50
+13,Hardie,James,Carnethy,M,00:21:06
+14,Gilmour,Andrew,Carnethy,M,00:21:20
+15,Hammond,John,Carnethy,M,00:21:21
+16,O'Neill,Owen,Westies,M,00:21:25
+17,Upson,Chris,Westies,M40,00:21:27
+18,Boyd,Euan,Carnethy,M,00:21:36
+19,Gilmore,Iain,Carnethy,M,00:21:39
+20,Williamson,Coll,Edinburgh Uni,M,00:21:39
+21,Ball,Duncan,Penicuik Harriers,M50,00:21:40
+22,Ascroft,Jon,Carnethy,M40,00:21:47
+23,Berrill,David,Lothian,M,00:21:58
+24,Titmuss,Simon,Carnethy,M,00:21:59
+25,Morgan,Charlotte,Carnethy,F,00:22:08
+26,Gilmore,Neil,Carnethy,M40,00:22:42
+27,Sleggs,Paul,U/A,M,00:22:58
+28,McKechanie,Eilis,HBT,F,00:23:23
+29,Hunter,Alan,Ochils,M40,00:23:31
+30,Earle,Paddy,Tinto HR,M50,00:23:34
+31,Andreas,Garcia,U/A,M,00:23:35
+32,Robertson,Ally,Carnethy,M,00:23:44
+33,Weir,Jonathan,U/A,M,00:24:02
+34,Calothis,Marinos,Kinross RR,M40,00:24:12
+35,Wilson,Rob,Penicuik Harriers,M40,00:24:20
+36,Cameron,Gordon,Carnethy,M50,00:24:23
+37,Evans,Neah,Shettleston,F,00:24:34
+38,Waterhouse,Bob,Carnethy,M60,00:24:36
+39,Jones,Matthew,Carnethy,M,00:24:36
+40,Simpson,Jane,Bellahouston RR,F,00:24:41
+41,McKechanie,Andrew,HBT,M,00:24:47
+42,Cromie,Connor,Carnethy,M,00:24:50
+43,Bowden,James,HBT,M,00:24:53
+44,Hulme,Martin,Corstorphine,M60,00:24:56
+45,Brown,Jamie,HBT,M,00:24:56
+46,Connor,Julia,Moorfoots,F,00:25:03
+47,Fitzpatrick,Pat,Ochils,M60,00:25:07
+48,Blair-Fish,John,Carnethy,M60,00:25:15
+49,Sword,Lawrence,U/A,M40,00:25:38
+50,Gibson,Fraser,Carnethy,M,00:26:02
+51,Keaveney,Marcus,Lomond Hill Runners,M,00:26:04
+52,Duncan,David,Ochils,M50,00:26:19
+53,Lye,Mary,Carnethy,F,00:26:44
+54,Bouchier,Shane,Carnethy,M,00:26:48
+55,McHarg,Steven,U/A,M,00:26:49
+56,Roqowski,Andreas,Kinross RR,M40,00:27:12
+57,Howie,Brian,Carnethy,M60,00:27:29
+58,Campbell,Ian,HBT,M40,00:27:50
+59,Nowicki,Michael,Carnethy,M,00:27:55
+60,Dunn,Nicola,Carnethy,F40,00:28:26
+61,Ozers,Thomas,Carnethy,M,00:28:31
+62,Wilson,Andrea,Penicuik Harriers,F40,00:28:56
+63,Kelly,Mairhead,HBT,F,00:28:58
+64,Midgley,Peter,Westies,M50,00:29:14
+65,McDougall,Ken,Tinto HR,M,00:29:29
+66,McPherson,Hugh,Tinto HR,M60,00:30:33
+67,Calder,Mandy,Carnethy,F40,00:30:59
+68,Lee,Phil,U/A,M,00:31:21
+69,Gauld,Bill,Carnethy,M79,00:31:33
+70,Ingham,Cali,Carnethy,F50,00:31:55
+71,Stapley,Tony,Portobello,M60,00:33:56
+72,Strain,Shiela,East Lothian Or,F60,00:33:59
+73,Diego,Alonso,U/A,M,00:37:01
+74,McHarg,Andrew,U/A,M,00:38:00
+75,Falconer,Helen,U/A,F,00:38:49

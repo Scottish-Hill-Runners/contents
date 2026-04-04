@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Jones,Kristian,Dark Peak,M,01:21:04
 2,Feltbower,Steve,Ochil Hill Runners,M,01:26:51
-3,Callan,Thomas,Unattached,MJ21,01:29:54
+3,Callan,Thomas,Unattached,M21,01:29:54
 4,Davis,Adrian,Lomond Hill Runners,M50,01:32:54
 5,Gardner,Peter,HBT,M,01:35:08
 6,Ball,Duncan,Penicuik Harriers,M50,01:36:02
@@ -37,7 +37,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 36,Smith,Brian,Fife AC,M,01:57:38
 37,Inkster,Berit,Unattached,F,01:57:44
 38,Best,Michelle,Carnegie Harriers,F,01:58:08
-39,Gilmore,Marie,Glasgow University Hare & Hounds,FJ21,01:58:43
+39,Gilmore,Marie,Glasgow University Hare & Hounds,F21,01:58:43
 40,Entwhistle,Marie,Deeside Runners,F40,01:59:37
 41,Burns,Denise,Lomond Hill Runners,F40,01:59:41
 42,Milne,Ronald,Forfar Road Runners,M60,02:00:50

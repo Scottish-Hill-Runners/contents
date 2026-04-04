@@ -1,71 +1,71 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Johnston,Fergus,Gala Harriers,MS,00:45:22
-2,Cox,Alistair,Tinto Hill Runners,SNR,00:48:09
-3,Bucciarello,Gabriele,Edinburgh AC,SNR,00:48:47
-3,Bowers,William,Ochil,SNR,00:48:47
-5,Cox,Andrew,Moorcroft,SNR,00:49:53
-6,Morgan,Charlotte,N/A,SNR,00:51:58
+1,Johnston,Fergus,Gala Harriers,M,00:45:22
+2,Cox,Alistair,Tinto Hill Runners,M,00:48:09
+3,Bucciarello,Gabriele,Edinburgh AC,M,00:48:47
+3,Bowers,William,Ochil,M,00:48:47
+5,Cox,Andrew,Moorcroft,M,00:49:53
+6,Morgan,Charlotte,N/A,M,00:51:58
 7,Rendle,Craig,n/a,M,00:53:13
-8,Murray,Keith,Teviotdale,V40,00:53:44
-9,Anderson,Adam,Carnethy,V40,00:54:04
-10,Lawrie,Andrew,Gala Harriers,MS,00:54:04
-11,Walkinshaw,Alick,Tinto Hill Runners,V50,00:54:15
+8,Murray,Keith,Teviotdale,M40,00:53:44
+9,Anderson,Adam,Carnethy,M40,00:54:04
+10,Lawrie,Andrew,Gala Harriers,M,00:54:04
+11,Walkinshaw,Alick,Tinto Hill Runners,M50,00:54:15
 12,Clarke,Martin,Gala Harriers,M50,00:55:09
 13,Nightingale,Dave,Gala Harriers,M50,00:55:17
-14,Threadgall,Kim,Valley Striders,SNR,00:55:57
-15,Crane,Steve,Portobello,V50,00:56:40
-16,Stocker,Tom,N/A,SNR,00:56:52
+14,Threadgall,Kim,Valley Striders,M,00:55:57
+15,Crane,Steve,Portobello,M50,00:56:40
+16,Stocker,Tom,N/A,M,00:56:52
 17,Reville,Jim,Portobello,M40,00:58:04
-18,Munn,Kenny,N/A,SNR,00:58:25
-19,Mccullogh,Billy,Gala Harriers,V50,00:58:47
-20,McKean,Joeleen,Gala Harriers,SNR,00:59:02
-21,Brown,Jamie,HBT,SNR,00:59:02
-22,Campbell,Roy,Gala Harriers,V40,00:59:13
+18,Munn,Kenny,N/A,M,00:58:25
+19,Mccullogh,Billy,Gala Harriers,M50,00:58:47
+20,McKean,Joeleen,Gala Harriers,M,00:59:02
+21,Brown,Jamie,HBT,M,00:59:02
+22,Campbell,Roy,Gala Harriers,M40,00:59:13
 23,McHugh,Derek,N/A,M50,00:59:27
 24,Fairbairn,Kevin,Border Traithletes,M40,00:59:29
-25,Fraser,John,N/A,SNR,00:59:35
-26,dalgleish,Fiona,Gala Harriers,V40,00:59:42
+25,Fraser,John,N/A,M,00:59:35
+26,dalgleish,Fiona,Gala Harriers,M40,00:59:42
 27,Campbell,Anya,Gala Harriers,F40,01:00:48
 28,Knox,Tommy,Gala Harriers,M40,01:02:28
-29,Berry,Nicholas,N/A,SNR,01:03:09
+29,Berry,Nicholas,N/A,M,01:03:09
 30,Douglas,George,Westies,M40,01:03:22
-31,Williams,Fiona,Moorfoot,SNR,01:03:34
+31,Williams,Fiona,Moorfoot,M,01:03:34
 32,Powers,Audrey,Unattached,F40,01:03:40
-33,Spencer,Barry,Teviotdale Harriers,V60,01:03:49
+33,Spencer,Barry,Teviotdale Harriers,M60,01:03:49
 34,Meikle,Karen,Carnethy,F50,01:03:49
-35,Clunes,Catriona,N/A,SNR,01:03:54
-36,Foster,Paul,N/A,MS,01:04:10
-37,Stavert,Andrew,Portobello,V50,01:04:28
+35,Clunes,Catriona,N/A,M,01:03:54
+36,Foster,Paul,N/A,M,01:04:10
+37,Stavert,Andrew,Portobello,M50,01:04:28
 38,Maass,Digby,Carnethy,M60,01:04:49
 39,Scott,Alan,N/A,M50,01:04:50
-40,Lockie,Duncan,Unattached,MS,01:04:50
+40,Lockie,Duncan,Unattached,M,01:04:50
 41,Malcolm,Colin,N/A,M60,01:05:36
-42,Carric,Aurore,N/A,FS,01:05:47
-43,Duncan,David,Ochil Hill Runners,V50,01:05:52
-44,Arres,mark,Gala Harriers,V40,01:06:20
-45,Weir,Ann,Gala harriers,V40,01:06:39
-46,Macdonald,Rosanna,N/A,SNR,01:06:49
+42,Carric,Aurore,N/A,F,01:05:47
+43,Duncan,David,Ochil Hill Runners,M50,01:05:52
+44,Arres,mark,Gala Harriers,M40,01:06:20
+45,Weir,Ann,Gala harriers,M40,01:06:39
+46,Macdonald,Rosanna,N/A,M,01:06:49
 47,Purves,James,Gala Harriers,M50,01:07:12
 48,Macnab,Sheila,Gala Harriers,F50,01:08:22
-49,King,Keith,Gala Harriers,V40,01:08:53
+49,King,Keith,Gala Harriers,M40,01:08:53
 50,Renton,Chris,Harmeny Pentland Runners,M40,01:09:13
 51,Elder,Alan,N/A,M50,01:09:22
 52,McAdam,Pauline,Westerlands,F50,01:11:27
 53,Moss,Gerry,Gala Harriers,M50,01:11:56
 54,Lockie,Paul,Teviotdale Harriers,M40,01:12:06
 55,Grant,Dawn,Gala Harriers,F40,01:12:10
-56,Morris,paul,Gala Harriers,V50,01:12:45
+56,Morris,paul,Gala Harriers,M50,01:12:45
 57,Reilly,Ian,N/A,M50,01:12:54
-58,Minto,Paul,N/A,V40,01:13:00
-59,Forbes,Vicky,N/A,FS,01:13:23
-60,Murray,Martin,N/A,MS,01:14:32
+58,Minto,Paul,N/A,M40,01:13:00
+59,Forbes,Vicky,N/A,F,01:13:23
+60,Murray,Martin,N/A,M,01:14:32
 61,Plain,Senga,Carnethy,F40,01:15:01
-62,Pham,Lan,Jog Scotland,FS,01:15:07
-63,Sandi,Spence,Teviotdale Harriers,SNR,01:16:18
-64,Short,Mandy,Teviotdale Harriers,V40,01:16:18
-65,Knox,Lindsay,Teviotdale Harriers,V50,01:16:39
-66,Plain,Fiona,N/A,FS,01:18:33
-67,Ascroft,Lorna,Carnethy,SNR,01:19:43
-68,Lockie,Rachel,Gala Harriers,V40,01:25:06
+62,Pham,Lan,Jog Scotland,F,01:15:07
+63,Sandi,Spence,Teviotdale Harriers,M,01:16:18
+64,Short,Mandy,Teviotdale Harriers,M40,01:16:18
+65,Knox,Lindsay,Teviotdale Harriers,M50,01:16:39
+66,Plain,Fiona,N/A,F,01:18:33
+67,Ascroft,Lorna,Carnethy,M,01:19:43
+68,Lockie,Rachel,Gala Harriers,M40,01:25:06
 69,Watson,Diane,N/A,F60,01:28:42
 70,King,Shelagh,Gala Harriers,F50,01:33:54

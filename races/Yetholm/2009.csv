@@ -1,27 +1,27 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Ward,Adam,Carnethy HRC,M40,01:11:00
 2,Rodwell,Damon,U/A,M40,01:12:00
-3,Dougal,Darin,Moorfoot Runners,MS,01:12:10
-4,Butler,Ian,Shettleston H,MS,01:13:14
-5,Jones,Gary,NFR,MS,01:13:21
-6,McGovern,Michael,Moorfoot Runners,MS,01:14:07
+3,Dougal,Darin,Moorfoot Runners,M,01:12:10
+4,Butler,Ian,Shettleston H,M,01:13:14
+5,Jones,Gary,NFR,M,01:13:21
+6,McGovern,Michael,Moorfoot Runners,M,01:14:07
 7,Hynd,Wull,Moorfoot Runners,M40,01:15:05
 8,Buchanan,Peter,Portobello RC,M40,01:17:03
 9,Macdonald,Alistair,Dundee Hawkhill,M40,01:17:38
 10,Anderson,Russell,Moorfoot Runners,M50,01:18:55
 11,McCall,Tim,Norham RC,M40,01:21:37
 12,Davidson,Kenneth,Moorfoot Runners,M40,01:25:16
-13,Matthews,Stephen,Blyth RC,MS,01:25:23
+13,Matthews,Stephen,Blyth RC,M,01:25:23
 14,Clarke,Martin,Gala H,M50,01:25:57
 15,Arnott,Iain,Borders Tri,M40,01:25:59
 16,Calder,David,Westerlands,M40,01:26:13
 17,Rodney,Edmund,Lauderdale Liimpers,M40,01:26:20
-18,Hall,Johnny,Moorfoot Runners,MS,01:27:57
-19,Connor,Julia,Moorfoot Runners,FS,01:28:34
+18,Hall,Johnny,Moorfoot Runners,M,01:27:57
+19,Connor,Julia,Moorfoot Runners,F,01:28:34
 20,Collins,Trevor,Carnethy HRC,M50,01:28:36
-21,Simpson,Stephen,Norham RC,MS,01:29:59
+21,Simpson,Stephen,Norham RC,M,01:29:59
 22,Stephens,Rob,NFR,M40,01:30:24
-23,Martin,Steven,Moorfoot Runners,MS,01:30:33
+23,Martin,Steven,Moorfoot Runners,M,01:30:33
 24,Paul,Alastair,U/A,M50,01:30:45
 25,Hutchinson,Wilf,U/A,M50,01:32:18
 26,Stankiewicz,Rob,Norham RC,M50,01:33:17
@@ -29,13 +29,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Macaulay,Allan,Norham RC,M50,01:34:59
 29,Pigg,John,Norham RC,M50,01:35:06
 30,Appleby,Paul,NFR,M40,01:38:45
-31,Nicholson,George,U/A,MS,01:39:35
-32,Laskowski,Cyprian,U/A,MS,01:40:16
-33,Shaw,Kyle,U/A,MS,01:40:29
+31,Nicholson,George,U/A,M,01:39:35
+32,Laskowski,Cyprian,U/A,M,01:40:16
+33,Shaw,Kyle,U/A,M,01:40:29
 34,Newbigging,Gary,U/A,M40,01:41:14
 35,Hunter,Mary,Portobello RC,F40,01:41:34
 36,Calder,Muffy,Westerlands,F50,01:42:38
-37,Knight,David,Norham RC,MS,01:43:39
+37,Knight,David,Norham RC,M,01:43:39
 38,Marynicz,Paul,Norham RC,M50,01:44:42
 39,Tyser,Caroline,Norham RC,F40,01:44:46
 40,Reed,Peter,NFR,M50,01:45:27

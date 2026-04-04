@@ -4,7 +4,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 3,Bannerman,Ross,East Sutherland,M40,1:01:08
 4,Macdonald,Steve,Lochaber AC,M,1:01:25
 5,Gay,Jon,Lochaber AC,M40,1:02:21
-6,Fraser,Callum,Lochaber AC,MJ,1:03:16
+6,Fraser,Callum,Lochaber AC,M16,1:03:16
 7,Forrester,Brendan,Unattached,M,1:06:12
 8,Mackenzie,Sarah,Lochaber AC,F,1:07:06
 9,Kennedy,Ali,Lochaber AC,M50,1:07:13
@@ -33,7 +33,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 32,Lye,Mary,Carnethy,F,1:23:51
 33,Ness,Christopher,Lochaber AC,M,1:24:58
 34,Smith,Gordon,Lochaber AC,M60,1:25:03
-35,MacKay,Isla,Lochaber AC,FJ,1:26:34
+35,MacKay,Isla,Lochaber AC,F16,1:26:34
 36,Bellshaw,Sara,Lochaber AC,F,1:26:51
 37,Ness,Katherine,Lochaber AC,F,1:28:17
 38,Douglas,George,Westerlands,M40,1:28:27

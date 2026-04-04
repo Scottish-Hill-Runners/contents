@@ -1,41 +1,41 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,MS,00:37:33
-2,Wright,Andrew,Cambuslang H,MS,00:39:10
-3,Scotney,Marcus,Shettlston H.,MS,00:40:57
-4,Campbell,Graeme,Highland H.R.,MS,00:41:16
-5,Smith,Alan,Deeside,MV40,00:42:07
-6,Stuart,Grant,City of Edinburgh,MS,00:43:06
-7,Brash,Colin,Girvan,MV40,00:43:09
-8,Whitelaw,Mark,ADAC,MS,00:43:24
-9,Upson,Chris,Westerlands CCC,MV40,00:43:29
-10,Anderson,Adam,Carnethy,MS,00:43:39
-11,Scott,Nigel,Westerlands CCC,MS,00:44:16
-12,Fairgrieve,Andy,ADAC,MV40,00:45:38
-13,Mykura,Jill,Carnethy,FS,00:46:15
-14,Holt,Luke,U/A,SM,00:46:59
-15,Irvine,Roger,ADAC,MV40,00:48:30
-16,Barrie,Stuart,HBT,MV40,00:48:40
-17,Murgatroyd,Ian,Fugitives,MV40,00:48:48
-18,Taylor,Nat,Girvan,MV50,00:49:32
-19,Symington,Stuart,U/A,MV40,00:49:38
-20,Weetman,Ian,U/A,MV40,00:49:54
-21,Goldsworthy,John,Galloway H.,MV50,00:50:16
-22,Mortlock,Simon,Dumfries,MV40,00:50:53
-23,Duncan,David,Ochils,MV50,00:50:56
-24,Patterson,Ian,Whisky Chasers,MS,00:51:40
-25,Ross,Sandy,Kilbarchan,MV40,00:52:48
-26,Wiseman,Bob,Ochils,MS,00:52:55
-27,Collins,Trevor,Carnethy,MV50,00:55:17
-28,Singh,Shirley,U/A,FV40,00:56:02
-29,Gordon,Nick,Fugitives,MV40,00:56:18
-30,Davidson,Iain,Girvan,MV40,00:56:28
-31,Marshall,Alan,U/A,MV40,00:56:46
-32,Priestley,Nigel,ADAC,MV50,00:57:43
-33,Walker,Peter,Carnethy,MV40,00:58:13
-34,Stakes,David,Bellahouston H.,MV40,00:58:50
-35,Gunn,Sharon,Falkirk,FS,01:00:05
-36,Smith,Tilly,Deeside,FV40,01:02:40
-37,McManus,Ian,Irvine,MV60,01:03:37
-38,Anderson,Adam,Dumfries,MV60,01:04:24
-39,Robson,Jean,ADAC,FV40,01:04:35
-40,Sherlock,David,U/A,MV40,01:11:06
+1,Marshall,Brian,HELP,M,00:37:33
+2,Wright,Andrew,Cambuslang H,M,00:39:10
+3,Scotney,Marcus,Shettlston H.,M,00:40:57
+4,Campbell,Graeme,Highland H.R.,M,00:41:16
+5,Smith,Alan,Deeside,M40,00:42:07
+6,Stuart,Grant,City of Edinburgh,M,00:43:06
+7,Brash,Colin,Girvan,M40,00:43:09
+8,Whitelaw,Mark,ADAC,M,00:43:24
+9,Upson,Chris,Westerlands CCC,M40,00:43:29
+10,Anderson,Adam,Carnethy,M,00:43:39
+11,Scott,Nigel,Westerlands CCC,M,00:44:16
+12,Fairgrieve,Andy,ADAC,M40,00:45:38
+13,Mykura,Jill,Carnethy,F,00:46:15
+14,Holt,Luke,U/A,M,00:46:59
+15,Irvine,Roger,ADAC,M40,00:48:30
+16,Barrie,Stuart,HBT,M40,00:48:40
+17,Murgatroyd,Ian,Fugitives,M40,00:48:48
+18,Taylor,Nat,Girvan,M50,00:49:32
+19,Symington,Stuart,U/A,M40,00:49:38
+20,Weetman,Ian,U/A,M40,00:49:54
+21,Goldsworthy,John,Galloway H.,M50,00:50:16
+22,Mortlock,Simon,Dumfries,M40,00:50:53
+23,Duncan,David,Ochils,M50,00:50:56
+24,Patterson,Ian,Whisky Chasers,M,00:51:40
+25,Ross,Sandy,Kilbarchan,M40,00:52:48
+26,Wiseman,Bob,Ochils,M,00:52:55
+27,Collins,Trevor,Carnethy,M50,00:55:17
+28,Singh,Shirley,U/A,F40,00:56:02
+29,Gordon,Nick,Fugitives,M40,00:56:18
+30,Davidson,Iain,Girvan,M40,00:56:28
+31,Marshall,Alan,U/A,M40,00:56:46
+32,Priestley,Nigel,ADAC,M50,00:57:43
+33,Walker,Peter,Carnethy,M40,00:58:13
+34,Stakes,David,Bellahouston H.,M40,00:58:50
+35,Gunn,Sharon,Falkirk,F,01:00:05
+36,Smith,Tilly,Deeside,F40,01:02:40
+37,McManus,Ian,Irvine,M60,01:03:37
+38,Anderson,Adam,Dumfries,M60,01:04:24
+39,Robson,Jean,ADAC,F40,01:04:35
+40,Sherlock,David,U/A,M40,01:11:06

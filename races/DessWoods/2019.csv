@@ -5,7 +5,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 4,Pringle,Stuart,Deeside Runners,M40,00:37:15
 5,Harper,Kevin,Cosmics,M40,00:37:20
 6,Wagner,Stefan,Cosmics,M40,00:38:31
-7,Dempster,Calum,Unattached,MJ,00:39:38
+7,Dempster,Calum,Unattached,M16,00:39:38
 8,Stevens,David,Metro Aberdeen,M,00:40:44
 9,Smith,Alan,Deeside Runners,M50,00:40:56
 10,Sheridan,Bob,Deeside Runners,M50,00:41:08
@@ -14,12 +14,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Croll,David,Deeside Runners,M50,00:41:51
 14,Baxter,Arron,Unattached,M,00:42:09
 15,Newman,Miles,Deeside Runners,M50,00:42:11
-16,Musgrave,Ewan,Deeside Runners,MJ,00:42:48
+16,Musgrave,Ewan,Deeside Runners,M16,00:42:48
 17,Mathieson,Stuart,Jog Scotland Kintore,M,00:43:03
 18,McDonald,Fiona,Cosmics,F40,00:43:48
 19,Musgrave,Jon,Deeside Runners,M50,00:44:01
 20,Hirst,David,Deeside Runners,M50,00:44:14
-21,Ronald,Callum,Unattached,MJ,00:44:17
+21,Ronald,Callum,Unattached,M16,00:44:17
 22,Bott,Michael,Grampoc,M,00:45:01
 23,Henderson,Katie,Deeside Runners,F40,00:45:02
 24,Tandy,Mark,Deeside Runners,M40,00:45:04
@@ -34,7 +34,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 33,Harper,Kirsty,Metro Aberdeen,F40,00:48:54
 34,Kerridge,Donald,Deeside Runners,M50,00:49:01
 35,Provan,Louise,Cosmics,F40,00:49:27
-36,Gomersall,Josie,Cosmics,FJ,00:49:43
+36,Gomersall,Josie,Cosmics,F16,00:49:43
 37,Davie,Brian,Stonehaven Running Club,M40,00:49:45
 38,Kennedy,Craig,Garioch Road Runners,M40,00:50:07
 39,Payne,Lina,Deeside Runners,F50,00:50:08

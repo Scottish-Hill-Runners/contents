@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Henry,Peter,Deeside Runners,M,00:31:23
-2,Kitching,Calum,Deeside Runners,MJ,00:31:27
+2,Kitching,Calum,Deeside Runners,M16,00:31:27
 3,Taylor,Luke,Highland Hill Runner,M,00:31:47
 4,Nicolson,William,Highland Hill Runner,M40,00:33:08
 5,Tomlin,Chris,Cosmic Hillbashers,M40,00:34:30
@@ -16,7 +16,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 15,Rose,Alex,Metro Aberdeen Running Club,M40,00:37:30
 16,Newman,Miles,Deeside Runners,M50,00:37:34
 17,Sealy,Alan,Unattached,M50,00:38:15
-18,Clark,Liam,Cosmic Hill Bashers,MJ,00:38:15
+18,Clark,Liam,Cosmic Hill Bashers,M16,00:38:15
 19,Ingram,Richard,Garioch Road Runners,M40,00:38:16
 20,McDonald,Fiona,Cosmic Hillbashers,F,00:38:22
 21,Nadin,Bethan,Highland Hill Runner,F,00:38:26

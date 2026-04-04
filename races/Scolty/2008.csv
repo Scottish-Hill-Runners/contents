@@ -1,54 +1,54 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Whitehead,Dan,Cosmics,M,00:33:36
 2,Wiseman,Bob,Ochil Hill Runners,M,00:35:59
-3,Crowe,Des,Dundee Hawkhill Harriers,MV,00:37:36
-4,Sealy,Alan,Deeside Runners,MV,00:38:05
+3,Crowe,Des,Dundee Hawkhill Harriers,M,00:37:36
+4,Sealy,Alan,Deeside Runners,M,00:38:05
 5,Love,Craig,Dundee Hawkhill Harriers,M,00:38:18
 6,Rogan,Paul,Forres Harriers,M,00:38:22
-7,Smith,Alan,Deeside Runners,MV,00:38:30
-8,McDonald,Denis,Cosmics,MV,00:39:03
-9,Rees,Roger,Fife AC,MV,00:39:40
+7,Smith,Alan,Deeside Runners,M,00:38:30
+8,McDonald,Denis,Cosmics,M,00:39:03
+9,Rees,Roger,Fife AC,M,00:39:40
 10,Harper,Kevin,Cosmics,M,00:39:45
-11,Johnson,Mark,Metro,MSV,00:40:05
-12,Kerridge,Donald,UA,MV,00:40:33
-13,Armitage,Sonia,Cosmics,FV,00:41:06
+11,Johnson,Mark,Metro,M40,00:40:05
+12,Kerridge,Donald,UA,M,00:40:33
+13,Armitage,Sonia,Cosmics,F,00:41:06
 14,Jeesiman,Chris,UA,M,00:41:10
-15,Hirst,Dave,Deeside Runners,MV,00:41:26
-16,Bass,Owen,Deeside Runners,MV,00:41:29
-17,Larmour,Colin,Cosmics,MV,00:41:56
-18,Mcleod,Carloyn,UA,FV,00:42:19
-19,Mackenzie,Ruth,Deeside Runners,FV,00:43:02
-20,Hepburn,Tommy,Corstorphine,MSV,00:43:44
-21,Milne,Graham,UA,MSV,00:44:21
-22,Pickett,Sarah,Central AC,FV,00:44:41
-23,Duncan,David,Ochil Hill Runners,MSV,00:44:51
+15,Hirst,Dave,Deeside Runners,M,00:41:26
+16,Bass,Owen,Deeside Runners,M,00:41:29
+17,Larmour,Colin,Cosmics,M,00:41:56
+18,Mcleod,Carloyn,UA,F,00:42:19
+19,Mackenzie,Ruth,Deeside Runners,F,00:43:02
+20,Hepburn,Tommy,Corstorphine,M40,00:43:44
+21,Milne,Graham,UA,M40,00:44:21
+22,Pickett,Sarah,Central AC,F,00:44:41
+23,Duncan,David,Ochil Hill Runners,M40,00:44:51
 24,Scheck,Michael,UA,M,00:45:34
-25,Hamilton,Ian,Grampian Orienteers,MV,00:46:06
-26,Morgan,Dougal,Cosmics,MV,00:46:10
-27,Hamilton,Anita,Cosmics,FSV,00:46:16
-28,Waldie,John,Cornwall Athletics,MV,00:46:29
-29,Bailey,Nick,UA,MV,00:46:33
-30,Williams,Rupert,UA,MV,00:46:40
-31,Calder,Mike,UA,MV,00:47:24
+25,Hamilton,Ian,Grampian Orienteers,M,00:46:06
+26,Morgan,Dougal,Cosmics,M,00:46:10
+27,Hamilton,Anita,Cosmics,F40,00:46:16
+28,Waldie,John,Cornwall Athletics,M,00:46:29
+29,Bailey,Nick,UA,M,00:46:33
+30,Williams,Rupert,UA,M,00:46:40
+31,Calder,Mike,UA,M,00:47:24
 32,Stuart,Stephen,UA,M,00:47:31
-33,White,Ian,UA,MV,00:48:08
-34,Reid,Colin,Cosmics,MV,00:48:14
-35,Henderson,Bill,Carnethy,MSV,00:48:36
-36,Adams,Iain,UA,MV,00:49:06
+33,White,Ian,UA,M,00:48:08
+34,Reid,Colin,Cosmics,M,00:48:14
+35,Henderson,Bill,Carnethy,M40,00:48:36
+36,Adams,Iain,UA,M,00:49:06
 37,Wright,Hazel,UA,F,00:49:21
-38,Bryce,Murray,Cosmics,MSV,00:49:42
-39,Taylor,Colin,Cosmics,MV,00:50:01
-40,Elder,Bob,Cosmics,MSV,00:50:15
-41,Bruce,John,UA,MV,00:50:53
-42,Provan,Louise,Fife AC,FV,00:52:07
-43,Martin,Clare,Deeside Runners,FV,00:52:26
-44,Clunas,Gillian,Cosmics,FV,00:52:52
-45,Clark,Murray,Cosmics,MSV,00:52:58
+38,Bryce,Murray,Cosmics,M40,00:49:42
+39,Taylor,Colin,Cosmics,M,00:50:01
+40,Elder,Bob,Cosmics,M40,00:50:15
+41,Bruce,John,UA,M,00:50:53
+42,Provan,Louise,Fife AC,F,00:52:07
+43,Martin,Clare,Deeside Runners,F,00:52:26
+44,Clunas,Gillian,Cosmics,F,00:52:52
+45,Clark,Murray,Cosmics,M40,00:52:58
 46,Douglas,Jane,Deeside Runners,F,00:53:28
-47,Milmse,Michael,Forres Harriers,MSV,00:53:33
-48,Verra,Graeme,UA,MSV,00:53:36
-49,Dale,Kathy,Deeside Runners,FV,00:54:04
-50,Dickie,June,Fleet Feet,FSV,00:55:32
+47,Milmse,Michael,Forres Harriers,M40,00:53:33
+48,Verra,Graeme,UA,M40,00:53:36
+49,Dale,Kathy,Deeside Runners,F,00:54:04
+50,Dickie,June,Fleet Feet,F40,00:55:32
 51,Bass,Ursual,Deeside Runners,F,00:57:10
 52,Berry,Julia,UA,F,00:58:55
-53,O'Sullivan,Sarah,Cosmics,FV,01:03:56
+53,O'Sullivan,Sarah,Cosmics,F,01:03:56

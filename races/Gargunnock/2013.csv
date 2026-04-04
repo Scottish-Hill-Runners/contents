@@ -19,7 +19,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 18,Burns,Mark,Unattached,M40,0:38:02
 19,Drummond,James,Unattached,M,0:38:08
 20,Dean,Hazel,Central AC,F40,0:38:13
-21,Brown,Frances,Garscube Harriers,FU20,0:38:27
+21,Brown,Frances,Garscube Harriers,F20,0:38:27
 22,Campbell,Isla,Central AC,F,0:38:54
 23,Mills,Steve,Unattached,M,0:39:22
 24,Smith,Jon,Arran Runners,M40,0:39:26
@@ -42,7 +42,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 41,Hoey,Trevor,Forth Valley Orienteers,M40,0:43:45
 42,Johnston,Stephen,Milburn Harriers,M40,0:43:54
 43,Anthony,Mark,Unattached,M,0:43:56
-44,Hyland,Alasdair,Unattached,MU20,0:45:26
+44,Hyland,Alasdair,Unattached,M20,0:45:26
 45,McCabe,Ewan,Unattached,M40,0:45:31
 46,Coombs,Elinor,Wee County Harriers,F40,0:46:07
 47,Cornfoot,Neil,Unattached,M40,0:46:42

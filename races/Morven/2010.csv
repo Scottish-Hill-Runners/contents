@@ -1,47 +1,47 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Brookes,Robert,Cosmics,M,00:48:22
-2,Bartlett,Graeme,Forres H,MV,00:49:54
+2,Bartlett,Graeme,Forres H,M,00:49:54
 3,Green,Gareth,Portobello,M,00:50:36
-4,Smith,Alan,Deeside R,MSV,00:50:41
+4,Smith,Alan,Deeside R,M40,00:50:41
 5,Espie,James,Deeside R,M,00:50:48
-6,Hubbard,Alistair,Unattached,MV,00:50:55
-7,Williamson,Jason,Cosmics,MV,00:51:53
-8,Sealy,Alan,Deeside R,MV,00:52:49
-9,Mackenzie,John,Unattached,MV,00:53:35
-10,McDonald,Dennis,Cosmics,MV,00:54:31
-11,Tomlin,Chris,Cosmics,MV,00:55:15
-12,Bass,Owen,Deeside R,MV,00:55:16
+6,Hubbard,Alistair,Unattached,M,00:50:55
+7,Williamson,Jason,Cosmics,M,00:51:53
+8,Sealy,Alan,Deeside R,M,00:52:49
+9,Mackenzie,John,Unattached,M,00:53:35
+10,McDonald,Dennis,Cosmics,M,00:54:31
+11,Tomlin,Chris,Cosmics,M,00:55:15
+12,Bass,Owen,Deeside R,M,00:55:16
 13,Tivendale,Drew,Deeside R,M,00:56:41
 14,Curtis,Briony,HBT,F,00:56:45
 15,Ingram,Richard,Garioch RR,M,00:57:09
-16,Oldham,Veronique,Cosmics,FV,00:58:17
-17,Mardell,Nick,Deeside R,MV,00:58:58
+16,Oldham,Veronique,Cosmics,F,00:58:17
+17,Mardell,Nick,Deeside R,M,00:58:58
 18,Larmour,Colin,Cosmics,M,00:59:39
-19,Mackenzie,Ruth,Deeside R,FV,01:00:04
-20,Murray,Rab,Garioch RR,MV,01:00:19
-21,McLeod,Carolyn,Unattached,FV,01:02:10
+19,Mackenzie,Ruth,Deeside R,F,01:00:04
+20,Murray,Rab,Garioch RR,M,01:00:19
+21,McLeod,Carolyn,Unattached,F,01:02:10
 22,Weir,Jonathon,Unattached,M,01:03:19
 23,Culley,Michael,Unattached,M,01:03:38
 24,Leslie,Blair,Unattached,M,01:05:10
-25,Wolfe,Ruth,Metro Aberdeen,FV,01:06:02
-26,Hirst,David,Deeside R,MV,01:06:07
-27,Newman,Miles,Deeside R,MV,01:06:10
+25,Wolfe,Ruth,Metro Aberdeen,F,01:06:02
+26,Hirst,David,Deeside R,M,01:06:07
+27,Newman,Miles,Deeside R,M,01:06:10
 28,Reid,George,Unattached,M,01:06:11
-29,Reid,Colin,Cosmics,MV,01:06:29
-30,Charlton,Keith,Aberdeen AAC,MSV,01:07:18
-31,Payne,Nina,Deeside R,FV,01:09:03
-32,Mackenzie,Ian,Deeside R,MSV,01:10:14
+29,Reid,Colin,Cosmics,M,01:06:29
+30,Charlton,Keith,Aberdeen AAC,M40,01:07:18
+31,Payne,Nina,Deeside R,F,01:09:03
+32,Mackenzie,Ian,Deeside R,M40,01:10:14
 33,Delaney,Liz,Cosmics,F,01:10:41
 34,Robertson,Gary,Unattached,M,01:11:35
-35,Gamba,Bill,Unattached,MV,01:11:47
-36,Cran,Ian,Garioch RR,MV,01:11:52
-37,Clunas,Gillian,Cosmics,FSV,01:12:11
-38,Bass,Ursula,Deeside R,FV,01:14:33
+35,Gamba,Bill,Unattached,M,01:11:47
+36,Cran,Ian,Garioch RR,M,01:11:52
+37,Clunas,Gillian,Cosmics,F40,01:12:11
+38,Bass,Ursula,Deeside R,F,01:14:33
 39,Coyle,Caroline,Unattached,F,01:15:45
-40,Williams,Rupert,Cosmics,MV,01:17:39
-41,Angus,Mel,Fat Bobs,FV,01:18:22
-42,Watt,Gillian,Garioch RR,FV,01:18:31
-43,Oliver,Jane,Deeside R,FSV,01:19:41
+40,Williams,Rupert,Cosmics,M,01:17:39
+41,Angus,Mel,Fat Bobs,F,01:18:22
+42,Watt,Gillian,Garioch RR,F,01:18:31
+43,Oliver,Jane,Deeside R,F40,01:19:41
 44,Wood,Nicola,Unattached,F,01:21:09
-45,Milmoe,Michael,Forres H,MSV,01:26:57
-46,Bramby,Guy,Gramp O,MSV,01:32:31
+45,Milmoe,Michael,Forres H,M40,01:26:57
+46,Bramby,Guy,Gramp O,M40,01:32:31

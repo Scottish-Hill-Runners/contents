@@ -1,25 +1,25 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil Hill Runners,M,00:29:09
 2,Cowie,Kyle,Central AC,M,00:30:09
-3,Cammack,Robbie,Moray Road Runners,MU17,00:30:19
-4,Cummins,Dave,Highland Hill Runners,MV,NULL
+3,Cammack,Robbie,Moray Road Runners,M17,00:30:19
+4,Cummins,Dave,Highland Hill Runners,M,NULL
 5,Gill,Steve,Keith &District AAC,M,00:33:30
-6,Stewart,Mike,Keith &District AAC,MV,00:34:20
-7,Angus,Gerald,Keith &District AAC,MV,00:35:04
-8,Bass,Owen,Deeside Runners,MV,NULL
-9,Duncan,David,Ochil Hill Runners,MSV,NULL
+6,Stewart,Mike,Keith &District AAC,M,00:34:20
+7,Angus,Gerald,Keith &District AAC,M,00:35:04
+8,Bass,Owen,Deeside Runners,M,NULL
+9,Duncan,David,Ochil Hill Runners,M40,NULL
 10,Wilson,Kenny,Moray Road Runners,M,NULL
-11,Hall,Jim,Highland Hill Runners,MSV,NULL
-12,Cowie,Connor,Moray Road Runners,MU17,NULL
-13,Lyall,Norrie,Forres Harriers,MV,00:39:44
-14,Beharrel,Malcolm,Nairn Road Runners,MV,00:39:45
+11,Hall,Jim,Highland Hill Runners,M40,NULL
+12,Cowie,Connor,Moray Road Runners,M17,NULL
+13,Lyall,Norrie,Forres Harriers,M,00:39:44
+14,Beharrel,Malcolm,Nairn Road Runners,M,00:39:45
 15,Higgenbottom,Jacqui,Carnethy,F,NULL
-16,Brennan,Brian,Westerlands,MSV,NULL
+16,Brennan,Brian,Westerlands,M40,NULL
 17,Wardlaw,Eilidh,Hunters Bog Trotters,F,NULL
 18,Slimon,Cathy,Unattached,F,NULL
-19,Milmoe,Mike,Forres Harriers,MSV,00:43:08
-20,Lyall,Moraig,Forres Harriers,FV,00:44:08
+19,Milmoe,Mike,Forres Harriers,M40,00:43:08
+20,Lyall,Moraig,Forres Harriers,F,00:44:08
 21,Munro,Eleanor,Keith &District AAC,F,00:49:01
 22,Daye,Simone,Moray Road Runners,F,NULL
-23,Gorman,Duncan,Westerlands,MU17,00:53:00
+23,Gorman,Duncan,Westerlands,M17,00:53:00
 24,Gorman,Manny,Westerlands,M,00:53:00

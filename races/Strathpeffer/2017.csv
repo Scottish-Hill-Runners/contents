@@ -1,6 +1,6 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,00:25:43
-2,Gollan,Ross,Shettleston,MU23,00:26:43
+2,Gollan,Ross,Shettleston,M23,00:26:43
 3,Espie,James,Deeside,M,00:26:49
 4,Fallas,Andrew,Carnethy,M,00:27:04
 5,Beavan,Ally,Highland Hill Runners,M,00:27:41
@@ -72,7 +72,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 71,Milligan,Douglas,Solway Running Club,M70,00:40:30
 72,Seed,Matthew,Unattached,M50,00:40:45
 73,Cowie,Lachlan,Unattached,M,00:40:47
-74,Mcleod,Rachel,Glasgow Uni Tri Club,FU23,00:41:11
+74,Mcleod,Rachel,Glasgow Uni Tri Club,F23,00:41:11
 75,Huc,Euan,Jog Scotland,M40,00:41:12
 76,Provan,Louise,Fife AC,F40,00:41:17
 77,Beedie,Iain,Lomond Hill Runners,M40,00:41:23
@@ -82,7 +82,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 81,Scott,Jocelyn,Fife AC,F60,00:42:42
 82,Boyer,Alistair,Westerlands,M,00:43:08
 83,Ruddick,Jenn,Westerlands,F,00:43:11
-84,Taylor,Luke,Highland Hill Runners,MU23,00:43:39
+84,Taylor,Luke,Highland Hill Runners,M23,00:43:39
 85,Brennan,Brian,Westerlands,M60,00:43:44
 86,Mackenzie,Alastair,Unattached,M,00:43:51
 87,Killean,Liz,Fife AC,F50,00:43:51

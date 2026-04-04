@@ -9,7 +9,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 8,Cox,Andrew,Moorfoot Runners,M,0:53:36
 9,Buchanan,Peter,Portobello,M40,0:54:05
 10,Ridley,Susan,Edinburgh AC,F40,0:54:53
-11,Knox,Thomas,Anster Haddies,MJ,0:55:41
+11,Knox,Thomas,Anster Haddies,M16,0:55:41
 12,McKechanie,Eilis,HBT,F,0:55:53
 13,Spenceley,Andy,Carnethy,M50,0:56:00
 14,Wilson,Rob,Penicuik Harriers,M40,0:56:54
@@ -30,7 +30,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 29,Reid,Don,Westerlands,M50,1:02:59
 30,Sanders,Eddie,Fife AC,M60,1:03:07
 31,Harley,Susan,Falkland Trail Runners,F40,1:03:29
-32,Hulme,Martin,Corstorphine,V60,1:03:41
+32,Hulme,Martin,Corstorphine,M60,1:03:41
 33,Jones,Matthew,Carnethy,M,1:03:41
 34,Gall,Allan,Central AC,M50,1:04:23
 35,Nimmo,Peter,Anster Haddies,M50,1:05:31
@@ -39,7 +39,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 38,Ramsay,Emily,Portobello,F,1:08:17
 39,Stavert,Andrew,Portobello,M50,1:08:21
 40,Cameron,Ewan,Anster Haddies,M50,1:08:36
-41,Cruickshanks,Jennifer,Fife AC,FJ,1:09:01
+41,Cruickshanks,Jennifer,Fife AC,F16,1:09:01
 42,Lomas,Paul,Unattached,M40,1:09:13
 43,Furse,Chris,Westerlands,M40,1:10:01
 44,Osborn,David,Lomond Hill Runners,M50,1:10:22
@@ -56,7 +56,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Bracegirdle,Innes,Fife AC,F50,1:12:38
 56,Johnstone,Ruth,Portobello,F,1:12:43
 57,Renwick,Alistair,Unattached,M,1:12:44
-58,Osborn,Robert,Lomond Hill Runners,MJ,1:12:47
+58,Osborn,Robert,Lomond Hill Runners,M16,1:12:47
 59,Steadham,Rebecca,HBT,F,1:12:55
 60,Mearns,Kenny,Lothian,M50,1:12:56
 61,Duff,Andrew,Unattached,M50,1:13:00
@@ -70,7 +70,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 69,Christie,Gordon,Unattached,M40,1:13:46
 70,Spenceley,Hilary,Carnethy,F50,1:13:48
 71,Sneddon,Richard,Portobello,M,1:14:10
-72,Knox,Lizzie,Anster Haddies,FJ,1:14:17
+72,Knox,Lizzie,Anster Haddies,F16,1:14:17
 73,McAlpine,Roddy,Unattached,M50,1:14:41
 74,Cromar,Steve,Dundee Hawkhill,M70,1:15:35
 75,Donnachie,Adrian,Unattached,M40,1:16:22
@@ -92,7 +92,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 91,Anderson,Kevin,Unattached,M,1:31:32
 92,Hay,George,Anster Haddies,M40,1:31:36
 93,Shepherd,Karen,Anster Haddies,F,1:31:41
-94,Cruickshanks,Fiona,Anster Haddies,FJ,1:31:53
+94,Cruickshanks,Fiona,Anster Haddies,F16,1:31:53
 95,Rooney,Paul,Unattached,M,1:32:31
 96,Kennedy,Alan,Dundee Hawkhill,M50,1:32:59
 97,Adams,Brian,Unattached,M40,1:38:46

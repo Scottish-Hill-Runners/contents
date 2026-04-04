@@ -2,54 +2,54 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil,M,00:27:17
 2,Rankin,Garry,Kilbarchan,M,00:27:48
 3,Rawlinson,Stephen,Loch Tayside,M,00:28:29
-4,Stevenson,John,Ochil,SV,00:30:24
-5,Coombs,Richard,Central,MV,00:30:57
-6,Gilkison,Alan,Westerlands,MV,00:31:27
-7,Theaker,Damien,Helensburgh,MSV,00:31:50
-8,McLean,Alan,,MV,00:32:01
-9,Simpson,Stuart,Ochil,MV,00:32:11
+4,Stevenson,John,Ochil,M40,00:30:24
+5,Coombs,Richard,Central,M,00:30:57
+6,Gilkison,Alan,Westerlands,M,00:31:27
+7,Theaker,Damien,Helensburgh,M40,00:31:50
+8,McLean,Alan,,M,00:32:01
+9,Simpson,Stuart,Ochil,M,00:32:11
 10,Rankin,Christina,Kilbarchan,F,00:32:13
-11,Kelly,Grham,Westerlands,MV,00:32:18
+11,Kelly,Grham,Westerlands,M,00:32:18
 12,Oneill,Owen,Westerlands,M,00:32:29
-13,Hogarth,Stephen,Linlithgow,MV,00:32:36
-14,Reed,Don,Westerlands,MSV,00:33:00
-15,Ryan,Christopher,,MJ,00:33:24
-16,Watson,Dan,Loch Tayside,MV,00:33:25
+13,Hogarth,Stephen,Linlithgow,M,00:32:36
+14,Reed,Don,Westerlands,M40,00:33:00
+15,Ryan,Christopher,,M16,00:33:24
+16,Watson,Dan,Loch Tayside,M,00:33:25
 17,Denovan,John,Westerlands,M,00:33:26
-18,Hunter,Alan,Ochil,MV,00:34:47
-19,Riddell,Duncan,Maryhill,MV,00:35:07
+18,Hunter,Alan,Ochil,M,00:34:47
+19,Riddell,Duncan,Maryhill,M,00:35:07
 20,Smith,Alastair,Dundee Hawkhill,M,00:35:09
-21,Nicoll,Grahame,Tayside Orienteers,MSV,00:35:11
-22,MacLeod,Murdo,Westerlands,MSV,00:35:51
+21,Nicoll,Grahame,Tayside Orienteers,M40,00:35:11
+22,MacLeod,Murdo,Westerlands,M40,00:35:51
 23,Mathews,Steve,Dundee Hawkhill,M,00:35:55
 24,Wardlaw,Eilidh,Hunters Bog Trotters,F,00:36:02
-25,Love,Craig,Dundee Hawkhill,MV,00:37:20
-26,Duff,Bill,Carnegie,MSV,00:37:39
-27,McNulty,Ian,Dundee Hawkhill,MV,00:37:51
+25,Love,Craig,Dundee Hawkhill,M,00:37:20
+26,Duff,Bill,Carnegie,M40,00:37:39
+27,McNulty,Ian,Dundee Hawkhill,M,00:37:51
 28,Weir,Jonathan,,M,00:38:17
-29,McLean,Herbie,Lothian,MSV,00:38:20
-30,Bowman,Angus,Lomond Hillrunners,MSV,00:38:32
+29,McLean,Herbie,Lothian,M40,00:38:20
+30,Bowman,Angus,Lomond Hillrunners,M40,00:38:32
 31,Connor,Julia,Moorfoot,F,00:39:07
-32,Mitchell,Neill,Fife,MV,00:39:11
-33,Beyts,Angus,,MSV,00:39:33
-34,Quinn,John,Westerlands,MSV,00:39:48
+32,Mitchell,Neill,Fife,M,00:39:11
+33,Beyts,Angus,,M40,00:39:33
+34,Quinn,John,Westerlands,M40,00:39:48
 35,Brown,Kevin,Ochil,M,00:39:58
-36,Duncan,David,Ochil,MSV,00:41:15
-37,Forte,Phil,Dundee Hawkhill,MSV,00:41:33
+36,Duncan,David,Ochil,M40,00:41:15
+37,Forte,Phil,Dundee Hawkhill,M40,00:41:33
 38,Drummond,James,,M,00:41:36
 39,Adam,Sarah,Maryhill,F,00:41:36
-40,Lindasay,Susan,Ochil,FV,00:41:42
+40,Lindasay,Susan,Ochil,F,00:41:42
 41,Fletcher,Tabea,,F,00:41:54
-42,Love,Charlie,Dundee Hawkhill,MSV,00:41:59
-43,Dealtry,Eddie,Ochil,MSV,00:42:26
-44,Stakes,David,Bellahouston,MV,00:42:27
-45,Gatehouse,Richard,Lomond,MSV,00:43:08
+42,Love,Charlie,Dundee Hawkhill,M40,00:41:59
+43,Dealtry,Eddie,Ochil,M40,00:42:26
+44,Stakes,David,Bellahouston,M,00:42:27
+45,Gatehouse,Richard,Lomond,M40,00:43:08
 46,Meikle,Tom,,M,00:44:57
 47,Mathieson,Shelley,,F,00:45:00
-48,King,Alec,Ochil,MV,00:49:50
-49,Forster,Kate,Loch Tayside,FV,00:51:59
-50,Fairley,Bill,Carnegie,MSV,00:52:58
-51,Nairns,William,Ochil,MV,00:53:24
-52,McManus,Ian,Irvine,MSV,01:02:48
+48,King,Alec,Ochil,M,00:49:50
+49,Forster,Kate,Loch Tayside,F,00:51:59
+50,Fairley,Bill,Carnegie,M40,00:52:58
+51,Nairns,William,Ochil,M,00:53:24
+52,McManus,Ian,Irvine,M40,01:02:48
 53,Doak,Christopher,Bellahouston,M,01:03:23
 54,Lyon,Heather,,F,01:05:20

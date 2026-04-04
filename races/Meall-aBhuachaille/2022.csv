@@ -6,7 +6,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Mann,Joe,Highland HR,M,01:10:49
 6,Crutchfield,Stuart,Westerlands CCC,M,01:11:14
 7,Gilmore,Andrew,Highland HR,M,01:11:30
-8,Williamson,Clyde,Cosmics,U23,01:12:05
+8,Williamson,Clyde,Cosmics,M23,01:12:05
 9,Cabrera Valdes,Francisco Javier,Highland HR,M,01:13:50
 10,Smith,Ben,Unattached,M,01:15:41
 11,Gilmore,Iain,Carnethy,M,01:16:22
@@ -21,7 +21,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 20,Shaw,Ruairidh,Lochaber AC,M,01:20:51
 21,Lorimer,Hayden,HBT,M50,01:21:03
 22,Sparks,Arron,Highland HR,M,01:21:07
-23,Reid,Lewis,Strathclyde Uni MC,U23,01:21:19
+23,Reid,Lewis,Strathclyde Uni MC,M23,01:21:19
 24,Gordon,Ryan,Stonehaven RC,M40,01:21:20
 25,Watters,Steven,Stonehaven RC,M40,01:21:26
 26,Farquharson,Edward,Unattached,M,01:22:22
@@ -77,7 +77,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 76,Disher,Amy,Lochaber AC,F,01:41:35
 77,Shaw,Richard,Lochaber AC,M50,01:41:40
 78,Macpherson,Rory,Cosmics,M,01:41:43
-79,Philip,Cameron,Carnethy,U23,01:42:00
+79,Philip,Cameron,Carnethy,M23,01:42:00
 80,Walsh,Gary,Carnethy,M,01:42:12
 81,Cross,Andrew,Carnethy,M40,01:42:28
 82,Daynes,Ed,Lochaber AC,M50,01:43:26
@@ -92,7 +92,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 91,Fowler,Alasdair,Unattached,M40,01:51:22
 92,Wilson,Joan,Lomond Hill Runners,F,01:51:24
 93,Windle,Matthew,Dronfield RC,M40,01:51:48
-94,Shepherd,Freya,Highland HR,U23,01:52:12
+94,Shepherd,Freya,Highland HR,M23,01:52:12
 95,Kippen,Vicky,Unattached,F40,01:52:12
 96,Tsoutis,Ioannis,Metro Aberdeen RC,M40,01:53:06
 97,MacGillivray,Shelley,Lochaber AC,F,01:56:15
@@ -101,13 +101,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 100,Patterson,Mairi,Unattached,F50,01:57:42
 101,Gibson,Andy,Unattached,M40,01:57:58
 102,Dobbs,Simon,Moray RR,M50,01:58:32
-103,Oliver,Jane,Deeside Runners,FV60,01:58:35
+103,Oliver,Jane,Deeside Runners,F60,01:58:35
 104,Douglas,George,Westerlands CCC,M50,01:59:16
 105,Kennedy,Angelina,Lochaber AC,F40,01:59:25
 106,Reid,Colin,Unattached,M50,02:01:18
 107,Edwards,Colin,Ochils,M50,02:01:42
 108,Brown,Sharon,Anster Haddies,F,02:05:10
-109,Polak,Jo,Highland HR,FV60,02:06:36
+109,Polak,Jo,Highland HR,F60,02:06:36
 110,Mearns,Vikki,Insch TRC,F40,02:07:37
 111,Mitchell,Karen,Kinross RR,F40,02:10:15
 112,Klunder,Katherine,Chorley A&TC,F,02:12:39

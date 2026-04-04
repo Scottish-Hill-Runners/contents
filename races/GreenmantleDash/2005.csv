@@ -12,8 +12,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Carracher,Graeme,Carnethy,M40,0:18:46
 12,Eades,Colin,Lothian,M,0:19:04
 13,Cottom,Stephen,Lothian,M,0:19:07
-14,Tullie,James,Highland Hill Runners,MJ,0:19:10
-15,Tullie,Douglas,HBT,MJ,0:19:13
+14,Tullie,James,Highland Hill Runners,M16,0:19:10
+15,Tullie,Douglas,HBT,M16,0:19:13
 16,Hay,Alec,Glasgow Couriers,M40,0:19:21
 17,Hulme,Martin,Corstorphine,M50,0:19:28
 18,Upson,Chris,Westerlands,M40,0:19:33
@@ -47,7 +47,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 46,Fairgrieve,Andy,Annan & District AC,M,0:22:09
 47,Duncan,David,Ochil Hill Runners,M50,0:22:12
 48,Millar,David,Ochil Hill Runners,M,0:22:14
-49,Tullie,Andrew,Edinburgh Uni H&H,MJ,0:22:17
+49,Tullie,Andrew,Edinburgh Uni H&H,M16,0:22:17
 50,Howie,Brian,Carnethy,M50,0:22:20
 51,Legge,Sarah,Fife AC,F,0:22:27
 52,MacLeod,Murdo,Westerlands,M50,0:22:44
@@ -57,9 +57,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 56,Dransfield,Malcolm,Unattached,M,0:23:09
 57,Kitchin,Kate,Unattached,F,0:23:13
 58,Turner,Judith,Falkland Trail Runners,F,0:23:18
-59,McKay,Michael,Nithsdale,MJ,0:23:19
-60,Brown,Stephen,Unattached,MJ,0:23:22
-61,Kingscott,Philip,Lothian,MJ,0:23:32
+59,McKay,Michael,Nithsdale,M16,0:23:19
+60,Brown,Stephen,Unattached,M16,0:23:22
+61,Kingscott,Philip,Lothian,M16,0:23:32
 62,Campbell,Neil,Carnethy,M40,0:23:34
 63,Green,Brett,Unattached,M,0:23:36
 64,Knox,Bill,Teviotdale Harriers,M50,0:23:46
@@ -69,7 +69,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 68,Forrest,Ian,Penicuik Harriers,M50,0:24:15
 69,McLeod,Christine,Carnethy,F40,0:24:23
 70,Dalitz,Rod,Carnethy,M50,0:24:30
-71,Aitken,Martha,Carnethy,FJ,0:24:39
+71,Aitken,Martha,Carnethy,F16,0:24:39
 72,Henderson,David,Corstorphine,M40,0:24:42
 73,Mallett,Patrick,Lomond Hill Runners,M40,0:24:48
 74,Calder,Muffy,Westerlands,F40,0:24:55
@@ -79,7 +79,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 78,Sloan,Robin,Carnethy,M50,0:25:17
 79,MacDonald,Deborah,HBT,F40,0:25:24
 80,Taylor,Garry,Carnegie Harriers,M40,0:25:26
-81,Aitken,Evie,Carnethy,FJ,0:25:30
+81,Aitken,Evie,Carnethy,F16,0:25:30
 82,Nimmo,Anne,Carnethy,F50,0:25:35
 83,McIntosh,Willie,Nithsdale,M50,0:25:52
 84,Stapley,Tony,Portobello,M60,0:26:11
@@ -94,7 +94,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 93,Irons,Martin,Edinburgh Tri Club,M50,0:27:40
 94,McNeillage,Alison,HBT,F,0:27:45
 95,Savage,Helen,Unattached,F,0:27:49
-96,Robson,Rachel,Nithsdale,FJ,0:27:53
+96,Robson,Rachel,Nithsdale,F16,0:27:53
 97,Bennet,Bill,Penicuik Harriers,M60,0:28:09
 98,Nimmo,Ian,Carnethy,M60,0:28:17
 99,Turnbull,Drew,Westerlands,M60,0:28:49

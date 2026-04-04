@@ -2,21 +2,21 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Symonds,Joe,HBT,M,01:02:45
 2,Marshal,Brian,HELP,M40,01:07:14
 3,Whitehead,Dan,Deeside,M,01:07:49
-4,Mattocks,Craig,HBT,S,01:07:59
+4,Mattocks,Craig,HBT,M,01:07:59
 5,Wilby,David,HHR,M,01:08:04
 6,Keith,Alec,HBT,M40,01:08:26
 7,Wiseman,Bob,Ochil Hill,M,01:09:14
 8,Gorman,Manny,Westerlands,M,01:09:43
-9,Cliffe,Martin,Eryri Harriers,MV40,01:09:46
+9,Cliffe,Martin,Eryri Harriers,M40,01:09:46
 10,Ward,Jack,U/A,M,01:10:01
 11,Weir,David,Forres,M50,01:10:26
 12,Anthony,Alasdair,Ochil Hill,M,01:12:39
 13,Love,Craig,Dundee Hawkhill,M40,01:13:53
-14,Bannerman,Ross,HHR,S,01:14:11
+14,Bannerman,Ross,HHR,M,01:14:11
 15,Gilkison,Alan,Westerlands,M40,01:15:41
 16,Miller,Paul,Inverness Har,M40,01:16:16
 17,Carter,Nick,U/A,M40,01:16:33
-18,Macdonald,Dougie,HHR,V40,01:16:39
+18,Macdonald,Dougie,HHR,M40,01:16:39
 19,Morgan,Charlotte,Carnethy,F,01:16:39
 20,Coates,James,U/A,M,01:16:54
 21,Mcmanus,Garan,U/A,M,01:17:15
@@ -77,20 +77,20 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 76,Meldrum,Marie,LAC,F,01:40:41
 77,McLean,Herbie,Tayside,M,01:41:07
 78,Gaff,Melanie,U/A,F,01:41:50
-79,Martin,Clare,Deeside,W40,01:43:07
+79,Martin,Clare,Deeside,F40,01:43:07
 80,Smith,Gordon,LAC,M60,01:45:03
 81,Drozdowicz,Marie Louise,NFR,F,01:46:15
 82,McNeillage,Alison,HBT,F40,01:46:42
 83,MacDonald,Ian,U/A,M50,01:47:08
-84,Maclennan,Calum D.,U/A,S,01:47:36
+84,Maclennan,Calum D.,U/A,M,01:47:36
 85,Claxton,Iain,U/A,M50,01:47:46
 86,Lawlor,Katherine,Dundee,F,01:47:54
-87,Thomson,Jude,Cairngorm,FS,01:48:00
+87,Thomson,Jude,Cairngorm,F,01:48:00
 88,Matthews,Catherine,Dundee,F,01:48:08
 89,Jackson,Nicola,Macclesfield,F40,01:48:54
 90,Francis,Gemma,U/A,F,01:49:30
 91,McIntyre,Kenneth,U/A,M50,01:49:47
-92,Pollock,Anne Marie,U/A,W40,01:50:48
+92,Pollock,Anne Marie,U/A,F40,01:50:48
 93,Love,Charlie,Dundee,M60,01:50:59
 94,Hughes,Bob,Ochil,M60,01:51:21
 95,Beck,Sharon,U/A,F40,01:51:31

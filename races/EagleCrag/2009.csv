@@ -1,29 +1,29 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Smith,Alan,Deeside,MV40,01:02:48
+1,Smith,Alan,Deeside,M40,01:02:48
 2,Smith,Tom,LAC,M,01:03:19
-3,Bennett,Sandy,Carnegie,MV40,01:06:02
+3,Bennett,Sandy,Carnegie,M40,01:06:02
 4,Kennedy,Peter,LAC,M,01:09:15
 5,MacLean,Paul,LAC,M,01:09:50
-6,Shaw,Richard,LAC,MV40,01:11:16
-7,Brooks,Graham,LAC,MV50,01:11:27
-8,Kennedy,Ali,LAC,MV40,01:11:35
-9,Maitland,John R,LAC,MV40,01:12:47
-10,Meekin,Nicola,LAC,F Record,01:13:06
+6,Shaw,Richard,LAC,M40,01:11:16
+7,Brooks,Graham,LAC,M50,01:11:27
+8,Kennedy,Ali,LAC,M40,01:11:35
+9,Maitland,John R,LAC,M40,01:12:47
+10,Meekin,Nicola,LAC,F,01:13:06
 11,MacDonald,Matthew,LAC,M,01:13:52
 12,Grant,John,LAC,M,01:16:11
 13,Blackhall,Amanda,LAC,F,01:18:35
-14,MacNab,Graham,LAC,MV40,01:24:11
-15,Forster,Nix,LAC,FV40,01:26:26
-16,Treasurer,Jim,LAC,MV50,01:28:00
-17,Banks,Johnny,LAC,MV50,01:28:35
-18,Orr,Ernie,LAC,MV60,01:29:28
-19,Smith,Gordon,LAC,MV60,01:31:17
+14,MacNab,Graham,LAC,M40,01:24:11
+15,Forster,Nix,LAC,F40,01:26:26
+16,Treasurer,Jim,LAC,M50,01:28:00
+17,Banks,Johnny,LAC,M50,01:28:35
+18,Orr,Ernie,LAC,M60,01:29:28
+19,Smith,Gordon,LAC,M60,01:31:17
 20,Morgan,Sharyn,LAC,F,01:31:31
-21,Smith,Tilly,Deeside,FV40,01:32:53
-22,Morrison,Michael,LAC,MV40,01:33:05
+21,Smith,Tilly,Deeside,F40,01:32:53
+22,Morrison,Michael,LAC,M40,01:33:05
 23,Langan,Scott,Unattached,M,01:35:04
 24,Henderson,Iain,LAC,M,01:38:24
-25,Ness,Jo,LAC,FV40,01:38:25
-26,Ross,Susan Jane,LAC,FV40,01:44:09
-27,Kitson,Aileen,LAC,FV50,01:44:13
-28,Duncan,Aileen,LAC,FV40,01:50:12
+25,Ness,Jo,LAC,F40,01:38:25
+26,Ross,Susan Jane,LAC,F40,01:44:09
+27,Kitson,Aileen,LAC,F50,01:44:13
+28,Duncan,Aileen,LAC,F40,01:50:12

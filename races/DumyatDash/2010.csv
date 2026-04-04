@@ -2,61 +2,61 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil,M,00:53:27
 2,Millar,Lewis,Central AC,M,00:53:32
 3,Rankin,Garry,Kilbarchan AC,M,00:53:38
-4,Harris,Mark,Fife AC,MV,00:54:31
-5,Simpson,Peter,Carnegie Harriers,MSV,00:57:20
+4,Harris,Mark,Fife AC,M,00:54:31
+5,Simpson,Peter,Carnegie Harriers,M40,00:57:20
 6,Deason,Michael,Glasgow Uni Hares & Hounds,M,00:59:16
 7,Stewart,Grant,Edinburgh AC,M,00:59:20
-8,Nash,Graham,Unattached,MV,00:59:28
-9,Fraser,Gary,Ochil,MV,01:00:20
-10,Pryde,Gordon,Lomond,MSV,01:00:29
+8,Nash,Graham,Unattached,M,00:59:28
+9,Fraser,Gary,Ochil,M,01:00:20
+10,Pryde,Gordon,Lomond,M40,01:00:29
 11,Buchanan,Catriona,Ochil,F,01:00:42
 12,O'Shea,Emma,Deeside,F,01:00:54
 13,Norwood,Tim,Corstorphine AAC,M,01:02:02
 14,Rankin,Christina,Kilbarchan AC,F,01:02:15
 15,Weatherhogg,Keri,Perth RR,F,01:02:38
-16,Anderson,Laurie,Fife AC,MSV,01:03:28
+16,Anderson,Laurie,Fife AC,M40,01:03:28
 17,Houston,David,Glasgow Uni Hares & Hounds,M,01:03:52
 18,Mackie,Peter,Unattached,M,01:04:21
 19,Davie,Kevin,Pitreavie,M,01:05:09
 20,Johns,Andy,Kinross RR,M,01:05:12
-21,MacEwan,John,Ochil,MV,01:05:26
-22,McCulloch,Angus,Kinross RR,MV,01:05:34
-23,Gildea,Stephen,Unattached,MV,01:06:48
+21,MacEwan,John,Ochil,M,01:05:26
+22,McCulloch,Angus,Kinross RR,M,01:05:34
+23,Gildea,Stephen,Unattached,M,01:06:48
 24,Nash,Paul,Unattached,M,01:07:00
-25,Duncan,David,Ochil,MSV,01:08:28
-26,Rennie,Willie,Carnegie Harriers,MV,01:08:40
+25,Duncan,David,Ochil,M40,01:08:28
+26,Rennie,Willie,Carnegie Harriers,M,01:08:40
 27,King,Steven,Carnegie Harriers,M,01:08:40
 28,Clarke,Daniel,Mersey Tri,M,01:09:38
 29,Weir,Jonathan,Unattached,M,01:10:31
-30,Jablonski,Derek,Lomond,MSV,01:10:34
+30,Jablonski,Derek,Lomond,M40,01:10:34
 31,Lawther,Alex,Bellahouston RR,M,01:10:57
-32,Brotherston,Chris,Bellahouston RR,MV,01:11:03
-33,Riddell,Duncan,Maryhill Harriers,MV,01:11:07
+32,Brotherston,Chris,Bellahouston RR,M,01:11:03
+33,Riddell,Duncan,Maryhill Harriers,M,01:11:07
 34,Walker,Sarah,Helensburgh AC,F,01:11:23
-35,Mullen,Ian,Unattached,MV,01:11:25
-36,Hutton,Paul,Carnegie Harriers,MV,01:12:51
-37,Goll,Allan,Central AC,MSV,01:12:51
-38,Bowman,Angus,Lomond,MSV,01:12:56
+35,Mullen,Ian,Unattached,M,01:11:25
+36,Hutton,Paul,Carnegie Harriers,M,01:12:51
+37,Goll,Allan,Central AC,M40,01:12:51
+38,Bowman,Angus,Lomond,M40,01:12:56
 39,Brindley,Sandy,Bellahouston RR,F,01:12:59
 40,Adam,Sarah,Maryhill Harriers,F,01:13:03
-41,Duff,Bill,Carnegie Harriers,MSV,01:13:04
-42,Law,David,Corstorphine AAC,MV,01:13:29
-43,Mill,John,Dundee Road Runners,MV,01:13:35
+41,Duff,Bill,Carnegie Harriers,M40,01:13:04
+42,Law,David,Corstorphine AAC,M,01:13:29
+43,Mill,John,Dundee Road Runners,M,01:13:35
 44,McCallum,Mark,Unattached,M,01:13:38
-45,Midgley,Peter,Unattached,MSV,01:13:42
-46,McFarlane,Ian,Wee County Harriers,MSV,01:17:38
+45,Midgley,Peter,Unattached,M40,01:13:42
+46,McFarlane,Ian,Wee County Harriers,M40,01:17:38
 47,Smith,Alastair,Unattached,M,01:18:37
-48,Greer,Stephen,Carnegie Harriers,MSV,01:19:40
+48,Greer,Stephen,Carnegie Harriers,M40,01:19:40
 49,Calothis,Marinos,Kinross RR,M,01:21:01
 50,Smithard,Steve,Unattached,M,01:23:16
-51,Smithard,Phil,Carnegie Harriers,MSV,01:25:04
+51,Smithard,Phil,Carnegie Harriers,M40,01:25:04
 52,Sinclair,Melanie,Carnegie Harriers,F,01:25:12
-53,Smith,Brian,Fife AC,MSV,01:25:44
-54,Skelhorn,Andy,Macclesfield Harriers,MV,01:25:45
-55,Fyfe,Ian,Unattached,MSV,01:26:21
-56,Mallett,Patrick,Lomond,MV,01:27:40
+53,Smith,Brian,Fife AC,M40,01:25:44
+54,Skelhorn,Andy,Macclesfield Harriers,M,01:25:45
+55,Fyfe,Ian,Unattached,M40,01:26:21
+56,Mallett,Patrick,Lomond,M,01:27:40
 57,Stobie,William,Unattached,M,01:31:47
-58,Abercrombie,Mary,Stirling Tri,FV,01:32:00
-59,Winning,Jim,Lomond,MSV,01:37:36
-60,Bowman,Jean,Beacon Runners,FSV,01:38:32
-61,Fleming,Morna,Carnegie Harriers,FSV,01:39:21
+58,Abercrombie,Mary,Stirling Tri,F,01:32:00
+59,Winning,Jim,Lomond,M40,01:37:36
+60,Bowman,Jean,Beacon Runners,F40,01:38:32
+61,Fleming,Morna,Carnegie Harriers,F40,01:39:21

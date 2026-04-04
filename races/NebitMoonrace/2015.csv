@@ -4,55 +4,55 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 3,Alexander,Sam,Westies,M,00:24:31
 4,Cope,David,Stirling Uni,M,00:25:05
 5,Wiseman,Bob,Ochil HR,M,00:25:32
-6,Baxter,Grant,Ochil HR,MV40,00:26:53
-7,Jack,Ewan,Ochil HR,MV40,00:27:22
+6,Baxter,Grant,Ochil HR,M40,00:26:53
+7,Jack,Ewan,Ochil HR,M40,00:27:22
 8,Montgomery,James,Bellahouston Road Runners,M,00:27:28
 9,MacDonald,Grant,Bellahouston Road Runners,M,00:27:34
 10,Buchanan,Catriona,Ochil HR,F,00:27:39
 11,Gardner,Peter,HBT,M,00:28:20
-12,Gilkinson,Alan,Westies,MV40,00:28:23
-13,Downey,David,Dunblane Runners,MV40,00:28:28
+12,Gilkinson,Alan,Westies,M40,00:28:23
+13,Downey,David,Dunblane Runners,M40,00:28:28
 14,Davie,Kevin,Carnegie,M,00:28:40
-15,Archer,Steve,Unattached,MV40,00:28:41
-16,Scheuerl,Stephan,Wee County Harriers,MV40,00:29:18
-17,Henderson,Walter,Shettleston Harriers,MV40,00:29:33
+15,Archer,Steve,Unattached,M40,00:28:41
+16,Scheuerl,Stephan,Wee County Harriers,M40,00:29:18
+17,Henderson,Walter,Shettleston Harriers,M40,00:29:33
 18,Smith,Gavin,HBT,M,00:29:58
-19,Thurlbeck,Ian,Westies,MV50,00:30:00
+19,Thurlbeck,Ian,Westies,M50,00:30:00
 20,Frost,Hamish,Unattached,M,00:30:01
 21,Campbell,David,Unattached,M,00:30:02
-22,Bass,Owen,Deeside Runners,MV50,00:30:02
-23,Cowan,David,Fife AC,MV50,00:30:04
+22,Bass,Owen,Deeside Runners,M50,00:30:02
+23,Cowan,David,Fife AC,M50,00:30:04
 24,Wheeler,Mark,Hamilton Harriers,M,00:30:25
-25,Scott,Dave,Ochil HR,MV50,00:30:28
-26,Coombs,Richard,Central A.C.,MV40,00:30:29
-27,Turner,Dave,Lomond Hill Runners,MV40,00:30:30
-28,Greene,Bran,Unattached,MV40,00:30:35
-29,Upson,Chris,Westies,MV50,00:31:27
-30,Howe,David,Lomond Hill Runners,MV40,00:31:30
-31,Wilson,Rob,Penicuik Harriers,MV40,00:31:32
+25,Scott,Dave,Ochil HR,M50,00:30:28
+26,Coombs,Richard,Central A.C.,M40,00:30:29
+27,Turner,Dave,Lomond Hill Runners,M40,00:30:30
+28,Greene,Bran,Unattached,M40,00:30:35
+29,Upson,Chris,Westies,M50,00:31:27
+30,Howe,David,Lomond Hill Runners,M40,00:31:30
+31,Wilson,Rob,Penicuik Harriers,M40,00:31:32
 32,Black,Ali,Carnethy,M,00:31:33
-33,Reid,Don,Westies,MV50,00:31:53
-34,Telfer,Kenneth,Kinross Road Runners,MV50,00:31:54
-35,Wilson,Colin,Lomond Hill Runners,MV50,00:32:25
+33,Reid,Don,Westies,M50,00:31:53
+34,Telfer,Kenneth,Kinross Road Runners,M50,00:31:54
+35,Wilson,Colin,Lomond Hill Runners,M50,00:32:25
 36,Finlay,Alayne,Ochil HR,F,00:32:28
 37,Brodie,Stuart,Ochil HR,M,00:32:32
-38,Munro,Frazer,Carnegie,MV40,00:32:40
+38,Munro,Frazer,Carnegie,M40,00:32:40
 39,Brown,Jamie,HBT,M,00:32:52
-40,Kelsall,Fiona,Ochil HR,FV40,00:33:00
-41,Duncan,David,Ochil HR,MV60,00:33:02
-42,Bowman,Angus,Lomond Hill Runners,MV50,00:33:10
-43,Brennan,Brian,Westies,MV60,00:33:20
-44,Fitzpatrick,Pat,Ochil HR,MV60,00:33:22
-45,Stakes,David,Bellahouston Road Runners,MV50,00:33:42
-46,Somerville,Elaine,Bellahouston Road Runners,MV40,00:35:12
-47,Beedie,Iain,Lomond Hill Runners,MV40,00:36:13
-48,Burns,Denise,Lomond Hill Runners,FV40,00:36:19
+40,Kelsall,Fiona,Ochil HR,F40,00:33:00
+41,Duncan,David,Ochil HR,M60,00:33:02
+42,Bowman,Angus,Lomond Hill Runners,M50,00:33:10
+43,Brennan,Brian,Westies,M60,00:33:20
+44,Fitzpatrick,Pat,Ochil HR,M60,00:33:22
+45,Stakes,David,Bellahouston Road Runners,M50,00:33:42
+46,Somerville,Elaine,Bellahouston Road Runners,M40,00:35:12
+47,Beedie,Iain,Lomond Hill Runners,M40,00:36:13
+48,Burns,Denise,Lomond Hill Runners,F40,00:36:19
 49,Boyer,Alistair,Unattached,M,00:36:28
 50,Dunn,S,Wee County Harriers,M,00:37:03
 51,Blackley,Lisa,Unattached,F,00:37:05
-52,Devon,Grant,Unattached,MV40,00:37:43
-53,Gatehouse,Richard,Lomond Hill Runners,MV60,00:38:22
-54,Bowman,Jean,Lomond Hill Runners,FV50,00:39:09
-55,Sinclair,Melanie,Carnegie,FV40,00:39:37
-56,Collyon,Lee,Unattached,MV40,00:55:54
+52,Devon,Grant,Unattached,M40,00:37:43
+53,Gatehouse,Richard,Lomond Hill Runners,M60,00:38:22
+54,Bowman,Jean,Lomond Hill Runners,F50,00:39:09
+55,Sinclair,Melanie,Carnegie,F40,00:39:37
+56,Collyon,Lee,Unattached,M40,00:55:54
 57,McAroy,Clair,Wee County Harriers,M,00:55:57

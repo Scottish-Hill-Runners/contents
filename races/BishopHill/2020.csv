@@ -14,13 +14,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Strachan,Scott,Kinross RR,M40,00:23:54
 14,Sanderson,Stuart,Penicuik Harriers,M50,00:23:56
 15,Andrew,Mike,Carnethy,M50,00:23:58
-16,Gatherer,Struan,Perth Strathtay,MJ,00:24:06
+16,Gatherer,Struan,Perth Strathtay,M16,00:24:06
 17,Duncan,Eric,Highland HR,M40,00:24:09
 18,Elder,Callum,Unattached,M,00:24:30
 19,Stone,Maya,Fife AC,F,00:24:31
-20,Penacchio,Marti,Fife AC,MJ,00:24:38
+20,Penacchio,Marti,Fife AC,M16,00:24:38
 21,Smith,Bruce,Carnethy,M50,00:24:52
-22,Penacchio,Guillem,Fife AC,MJ,00:25:22
+22,Penacchio,Guillem,Fife AC,M16,00:25:22
 23,Thomson,Iain,Lomond HR,M,00:25:39
 24,Renville,Alan,Carnethy,M50,00:25:58
 25,Dudchenko,Paul,Linlithgow AC,M50,00:26:11
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Mason,David,Linlithgow AC,M50,00:26:38
 29,Campbell,Donald,Wee County Harriers,M40,00:26:42
 30,Reid,Don,Westerlands CCC,M60,00:26:47
-31,Smith,Libby,Fife AC,MJ,00:27:10
+31,Smith,Libby,Fife AC,M16,00:27:10
 32,Mitchell,Neill,Fife AC,M50,00:27:55
 33,Brennan,Brian,Westerlands CCC,M60,00:28:03
 34,Purves,Denise,Lomond HR,F50,00:28:52
@@ -42,10 +42,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 41,Wilson,Colin,Lomond HR,M50,00:29:45
 42,Mackay,Mike,Cosmics,M40,00:29:58
 43,Smith,Brian R,Fife AC,M60,00:30:28
-44,Hurrell,Harvey,Unattached,MJ,00:31:33
+44,Hurrell,Harvey,Unattached,M16,00:31:33
 45,Hartree,Mark,Carnethy,M50,00:31:55
 46,Brown,Jamie,HBT,M40,00:32:02
-47,Smith,Alexander,Fife AC,MJ,00:32:04
+47,Smith,Alexander,Fife AC,M16,00:32:04
 48,Landels,Brian,Lomond HR,M50,00:32:20
 49,Munro,Frazer,Kinross RR,M50,00:32:25
 50,Summers,Robert,Beacon Runners,M50,00:32:26
@@ -53,7 +53,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Hunter,Lynn,Kinross RR,F40,00:33:19
 53,Birkby,Sarah,Lomond HR,F40,00:33:28
 54,Smith,Gillian,Fife AC,F40,00:33:31
-55,Bennet,Ailsa,Kinross RR,FJ,00:34:22
+55,Bennet,Ailsa,Kinross RR,F16,00:34:22
 56,Scott,Jocelyn,Fife AC,F60,00:34:28
 57,Mathews,David,Dundee Mountain Club,M50,00:35:34
 58,Valentine,Russ,Falkland TR,M50,00:35:38
@@ -67,7 +67,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 66,Fraser,Ron,Dundee RR,M50,00:36:39
 67,Hunter,Neil,Kinross RR,M50,00:37:02
 68,Calothis,Marinos,Westerlands CCC,M40,00:37:39
-69,Brown,Keira,Lomond HR,FJ,00:37:46
+69,Brown,Keira,Lomond HR,F16,00:37:46
 70,Aitken,Kerry,Kinross RR,F,00:38:55
 71,Robertson,Lindsey,Fife AC,F40,00:39:35
 72,Davidson,Stewart,Fife AC,M60,00:39:47

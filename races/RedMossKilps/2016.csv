@@ -17,11 +17,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 16,Martyn,Tom,HBT,M,00:48:13
 17,Smith,Gav,HBT,M,00:48:15
 18,Tullie,Douglas,HBT,M,00:48:19
-19,Cottle,Georgia,Edinburgh Uni H&H,FU23,00:48:31
+19,Cottle,Georgia,Edinburgh Uni H&H,F23,00:48:31
 20,Hardie,James,Carnethy,M,00:48:45
 21,Freshwater,Craig,Westerlands CCC,M,00:49:00
 22,Buchanan,Peter,Portobello,M50,00:49:11
-23,Husbands,Jess,Edinburgh Uni H&H,FU23,00:49:17
+23,Husbands,Jess,Edinburgh Uni H&H,F23,00:49:17
 24,Scott,Viv,Unattached,M,00:49:20
 25,Gilmore,Andrew,Carnethy,M,00:49:30
 26,Gilmore,Neil,Carnethy,M50,00:49:40
@@ -33,7 +33,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 32,Strachan,Scott,Kinross Road Runners,M40,00:51:02
 33,O'Neil,Owen,Westerlands CCC,M,00:51:12
 34,Boyd,Euan,Carnethy,M,00:51:15
-35,Elder,David,Lomond Hill Runners,MU23,00:51:20
+35,Elder,David,Lomond Hill Runners,M23,00:51:20
 36,Hanson,Beth,Edinburgh Uni H&H,F,00:51:28
 37,Gaffney,David,Unattached,M,00:51:30
 38,Lamont,Richard,Portobello,M,00:51:34
@@ -103,7 +103,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 102,Findlay,Eilidh,Unattached,F,01:06:28
 103,Horsburgh,Jill,Linlithgow AC,F50,01:06:32
 104,Godfrey,Kevin,Lothian,M50,01:07:11
-105,Luetchford,Alex,Edinburgh Uni H&H,MU23,01:07:22
+105,Luetchford,Alex,Edinburgh Uni H&H,M23,01:07:22
 106,McAdam,Sarah,Unattached,F,01:07:28
 107,Mearns,Kenny,Lothian,M50,01:07:46
 108,Warner,Mark,HBT,M50,01:08:42

@@ -1,11 +1,11 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Hukins,Ben,Cambuslang Harriers,M,0:29:24
-2,Rees,Logan,Fife AC,MJ,0:30:29
-3,Rees,Tristan,Fife AC,MJ,0:31:18
+2,Rees,Logan,Fife AC,M16,0:30:29
+3,Rees,Tristan,Fife AC,M16,0:31:18
 4,Bonnyman,Brian,Westerlands,M40,0:31:24
-5,Ingledew,Jamie,Fife AC,MJ,0:32:26
+5,Ingledew,Jamie,Fife AC,M16,0:32:26
 6,Millar,Kerr,Fife AC,M,0:32:54
-7,Rees,George,Fife AC,MJ,0:33:35
+7,Rees,George,Fife AC,M16,0:33:35
 8,Simpson,Peter,Carnegie Harriers,M50,0:33:44
 9,Crozier,James,Lomond Hill Runners,M40,0:34:10
 10,Clarke,Daniel,Fife AC,M,0:34:28
@@ -19,12 +19,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 18,Knox,Thomas,Anster Haddies,M,0:35:53
 19,Taylor,Keith,Fife AC,M,0:35:57
 20,Rees,Roger,Fife AC,M45,0:35:59
-21,Morris,Craig,Fife AC,MJ,0:36:03
-22,Harris,Tom,Fife AC,MJ,0:36:04
+21,Morris,Craig,Fife AC,M16,0:36:03
+22,Harris,Tom,Fife AC,M16,0:36:04
 23,Love,Craig,Dundee Hawkhill,M40,0:36:11
-24,Ingledew,Fergus,Fife AC,MJ U18,0:36:14
+24,Ingledew,Fergus,Fife AC,M18,0:36:14
 25,King,Steven,Carnegie Harriers,M40,0:36:25
-26,Fernando,Sam,Fife AC,MJ,0:36:41
+26,Fernando,Sam,Fife AC,M16,0:36:41
 27,Turner,Judith,Falkland Trail Runners,F40,0:36:48
 28,Pryde,Gordon,Lomond Hill Runners,M50,0:37:00
 29,Anderson,Laurie,Lomond Hill Runners,M50,0:37:07

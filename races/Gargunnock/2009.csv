@@ -1,70 +1,70 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Millar,Lewis,Central AC,MS,00:31:43
-2,Whitlie,Stewart,Carnethy Hill Runners,MV,00:33:20
-3,Birnie,Andy,Bellahouston RR,MV,00:34:35
-4,Johnston,Fergus,Gala Harriers,MS,00:35:03
-5,Carrick,William,2 Scots,MS,00:35:24
-6,Milne,Alex,Central AC,MV,00:35:27
-7,Taylor,Ewan,2 Scots,MS,00:35:33
-8,Coubrough,Alexander,Central AC,MJ,00:35:40
-9,Simpson,Stuart,Ochil Hill Runners,MS,00:36:02
-10,Goulson,Dave,Unattached,MV,00:36:20
-11,White,David,Kilmarnock Harriers,MV,00:36:22
-12,Sutherland,Alasdair,Unattached,MS,00:36:27
-13,Milne,Ross,Central AC,MJ,00:36:57
-14,Pryde,Gordon,Lomond Hill Runners,MV,00:37:31
-15,Inman,Jason,Forth Valley Orienteers,MS,00:37:50
-16,Buchanan,Hugh,Central AC,MV,00:37:57
-17,Tinsley,Matt,Unattached,MS,00:38:02
-18,Denovan,John,Unattached,MS,00:38:06
-19,Brannan,Tosh,Lothian,MV,00:38:07
-20,Birnie,Emma,Bellahouston RR,FV Record,00:38:08
-21,Hutchison,Robert,Central AC,MV,00:38:10
-22,Houston,Valerie,Westerlands,FV,00:38:24
-23,Buchanan,Catriona,Central AC,FJ,00:38:39
-24,Mitchell,Dave,Dundee Hawkhill,MV,00:38:48
-25,Buchanan,Peter,Ochil Hill Runners,MV,00:39:22
-26,Riddell,Duncan,Maryhill Harriers,MV,00:39:51
-27,Campbell,Isla,Central AC,FS,00:40:24
-28,Valencia,Miriam,London Frontrunners,FS,00:40:50
-29,Whitehouse,Katie,Central AC,FV,00:40:51
-30,Steel,Bob,Central AC,MV,00:41:24
-31,Waterhouse,Jane,Central AC,FV,00:41:41
-32,McIntosh,Mairi,Ochil Hill Runners,FV,00:41:52
-33,Kelsall,Fiona,Central AC,FV,00:41:54
-34,Baker,Duncan,Hunters Bog Trotters,MV,00:41:55
-35,Logan,Colin,Unattached,MS,00:41:56
-36,Johnston,Stephen,Milburn Harriers,MV,00:42:03
-37,Drummond,James,Unattached,MS,00:42:06
-38,Dunlop,Fiona,Unattached,FV,00:42:09
-39,Brown,Jamie,Unattached,MS,00:42:20
-40,Irvine,Roddy,Central AC,MJ,00:42:22
-41,Murray,Francis,Unattached,MV,00:42:26
-42,Mallett,Patrick,Lomond Hill Runners,MV,00:43:14
-43,Hoey,Trevor,Forth Valley Orienteers,MV,00:43:18
-44,Smith,Brian,Fife AC,MV,00:43:35
-45,Martin,Angela,Unattached,FV,00:43:38
-46,Weir,Jonathan,Unattached,MS,00:43:56
-47,McCabe,Ewan,Unattached,MV,00:44:04
-48,Martin,Alastair,Unattached,MV,00:44:06
-49,Nash,Simon,Central AC,MV,00:44:16
-50,Dealtry,Eddie,Ochil Hill Runners,MV,00:44:34
-51,Emsley,Paul,Arran Runners,MV,00:44:58
-52,Martin,Ron,Unattached,MV,00:45:01
-53,Milne,Gordon,Central AC,MJ,00:45:06
-54,McGuire,Jackie,Bellahouston RR,FV,00:45:19
-55,Sandbach,John,Bellahouston RR,MV,00:45:32
-56,Spalding,Maggie,HBT,FS,00:46:58
-57,Coyle,Caroline,Unattached,FS,00:47:15
-58,Houldsworth,Sandra,Bellahouston RR,FS,00:48:06
-59,Ferguson,Jegsy,Reading RR,FV,00:48:06
-60,Anderson,Stuart,Central AC,MV,00:48:15
-61,MacLarty,Sandy,Central AC,MJ,00:51:12
-62,Clarke,Calvin,Unattached,MV,00:51:47
-63,Crerar,Rosie,Unattached,FS,00:52:40
-64,Dickson,John,Central AC,MV,00:52:56
-65,Martin,Kenneth,Unattached,MV,00:53:05
-66,Ferguson,Colin,Reading RR,MV,00:53:31
-67,Spalding,Jim,Central AC,MV,00:55:03
-68,Gall,Lewis,Unattached,MS,01:02:09
-69,Gall,Allan,Central AC,MV,01:02:10
+1,Millar,Lewis,Central AC,M,00:31:43
+2,Whitlie,Stewart,Carnethy Hill Runners,M,00:33:20
+3,Birnie,Andy,Bellahouston RR,M,00:34:35
+4,Johnston,Fergus,Gala Harriers,M,00:35:03
+5,Carrick,William,2 Scots,M,00:35:24
+6,Milne,Alex,Central AC,M,00:35:27
+7,Taylor,Ewan,2 Scots,M,00:35:33
+8,Coubrough,Alexander,Central AC,M16,00:35:40
+9,Simpson,Stuart,Ochil Hill Runners,M,00:36:02
+10,Goulson,Dave,Unattached,M,00:36:20
+11,White,David,Kilmarnock Harriers,M,00:36:22
+12,Sutherland,Alasdair,Unattached,M,00:36:27
+13,Milne,Ross,Central AC,M16,00:36:57
+14,Pryde,Gordon,Lomond Hill Runners,M,00:37:31
+15,Inman,Jason,Forth Valley Orienteers,M,00:37:50
+16,Buchanan,Hugh,Central AC,M,00:37:57
+17,Tinsley,Matt,Unattached,M,00:38:02
+18,Denovan,John,Unattached,M,00:38:06
+19,Brannan,Tosh,Lothian,M,00:38:07
+20,Birnie,Emma,Bellahouston RR,F,00:38:08
+21,Hutchison,Robert,Central AC,M,00:38:10
+22,Houston,Valerie,Westerlands,F,00:38:24
+23,Buchanan,Catriona,Central AC,F16,00:38:39
+24,Mitchell,Dave,Dundee Hawkhill,M,00:38:48
+25,Buchanan,Peter,Ochil Hill Runners,M,00:39:22
+26,Riddell,Duncan,Maryhill Harriers,M,00:39:51
+27,Campbell,Isla,Central AC,F,00:40:24
+28,Valencia,Miriam,London Frontrunners,F,00:40:50
+29,Whitehouse,Katie,Central AC,F,00:40:51
+30,Steel,Bob,Central AC,M,00:41:24
+31,Waterhouse,Jane,Central AC,F,00:41:41
+32,McIntosh,Mairi,Ochil Hill Runners,F,00:41:52
+33,Kelsall,Fiona,Central AC,F,00:41:54
+34,Baker,Duncan,Hunters Bog Trotters,M,00:41:55
+35,Logan,Colin,Unattached,M,00:41:56
+36,Johnston,Stephen,Milburn Harriers,M,00:42:03
+37,Drummond,James,Unattached,M,00:42:06
+38,Dunlop,Fiona,Unattached,F,00:42:09
+39,Brown,Jamie,Unattached,M,00:42:20
+40,Irvine,Roddy,Central AC,M16,00:42:22
+41,Murray,Francis,Unattached,M,00:42:26
+42,Mallett,Patrick,Lomond Hill Runners,M,00:43:14
+43,Hoey,Trevor,Forth Valley Orienteers,M,00:43:18
+44,Smith,Brian,Fife AC,M,00:43:35
+45,Martin,Angela,Unattached,F,00:43:38
+46,Weir,Jonathan,Unattached,M,00:43:56
+47,McCabe,Ewan,Unattached,M,00:44:04
+48,Martin,Alastair,Unattached,M,00:44:06
+49,Nash,Simon,Central AC,M,00:44:16
+50,Dealtry,Eddie,Ochil Hill Runners,M,00:44:34
+51,Emsley,Paul,Arran Runners,M,00:44:58
+52,Martin,Ron,Unattached,M,00:45:01
+53,Milne,Gordon,Central AC,M16,00:45:06
+54,McGuire,Jackie,Bellahouston RR,F,00:45:19
+55,Sandbach,John,Bellahouston RR,M,00:45:32
+56,Spalding,Maggie,HBT,F,00:46:58
+57,Coyle,Caroline,Unattached,F,00:47:15
+58,Houldsworth,Sandra,Bellahouston RR,F,00:48:06
+59,Ferguson,Jegsy,Reading RR,F,00:48:06
+60,Anderson,Stuart,Central AC,M,00:48:15
+61,MacLarty,Sandy,Central AC,M16,00:51:12
+62,Clarke,Calvin,Unattached,M,00:51:47
+63,Crerar,Rosie,Unattached,F,00:52:40
+64,Dickson,John,Central AC,M,00:52:56
+65,Martin,Kenneth,Unattached,M,00:53:05
+66,Ferguson,Colin,Reading RR,M,00:53:31
+67,Spalding,Jim,Central AC,M,00:55:03
+68,Gall,Lewis,Unattached,M,01:02:09
+69,Gall,Allan,Central AC,M,01:02:10

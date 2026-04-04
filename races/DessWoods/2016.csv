@@ -1,7 +1,7 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Henry,Peter,Deeside Runners,M,00:36:00
 2,Marshall,David,Cosmics,M,00:36:31
-3,Wright,Joseph,Deeside Runners,MJ,00:37:57
+3,Wright,Joseph,Deeside Runners,M16,00:37:57
 4,Ross,Jamie,Deeside Runners,M40,00:38:01
 5,Stockton,Mark,Cosmics,M,00:38:21
 6,Kerridge,Donald,Deeside Runners,M40,00:39:24
@@ -15,8 +15,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Coombs,Roger,Deeside Runners,M50,00:42:20
 15,Arthur,Dermid,Unattached,M50,00:42:24
 16,Comber,Ayron,Garioch Road Runners,M40,00:42:26
-17,McMahon,Frankie,Deeside Runners,MJ,00:42:26
-18,Chapman,Jake,MAROC,MJ,00:43:06
+17,McMahon,Frankie,Deeside Runners,M16,00:42:26
+18,Chapman,Jake,MAROC,M16,00:43:06
 19,Rendall,Samantha,Deeside Runners,F,00:43:32
 19,Ingram,Richard,Cosmics,M40,00:43:32
 21,Tandy,Mark,Deeside Runners,M40,00:43:49
@@ -32,12 +32,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 31,Henderson,Katie,Deeside Runners,F,00:46:24
 32,Wright,Hazel,MAROC,F,00:46:35
 33,Mason,John,Banchory Runners,M50,00:47:28
-34,Mcleod,Lucy,Aberdeen AC,FJ,00:47:48
-35,Mason,Abigail,Deeside Runners,FJ,00:48:37
-36,Kirk,Lachlan,Grampian Orienteers,MJ,00:48:38
+34,Mcleod,Lucy,Aberdeen AC,F16,00:47:48
+35,Mason,Abigail,Deeside Runners,F16,00:48:37
+36,Kirk,Lachlan,Grampian Orienteers,M16,00:48:38
 37,Mcleod,Roddy,Metro Aberdeen,M40,00:49:15
 38,Bennett,Alan,MAROC,M40,00:49:30
-39,Gooch,Matthew,MAROC,MJ,00:50:55
+39,Gooch,Matthew,MAROC,M16,00:50:55
 40,Kirk,Dave,Grampian Orienteers,M40,00:52:25
 41,Martin,Clare,Deeside Runners,F50,00:52:44
 42,Wright,Denise,Deeside Runners,F50,00:54:01

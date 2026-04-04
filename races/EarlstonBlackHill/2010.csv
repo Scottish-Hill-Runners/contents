@@ -1,12 +1,12 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Murdoch,Graham,Gala Harriers,1st M,00:32:43
+1,Murdoch,Graham,Gala Harriers,M,00:32:43
 2,McGovern,Michael,Moorfoot,M,00:33:40
 3,Hynd,Will,Moorfoot,M,00:34:36
 4,Grieve,Craig,Teviotdale,M,00:34:56
 5,Anderson,Rory,Trail Blazers,M,00:35:04
 6,Taylor,Jonathan,Border Tri-Athletes,M,00:35:05
 7,Murray,Keith,Teviotdale,M50,00:35:20
-8,Nesbitt,Georgia,Gala Harriers,1st F,00:36:50
+8,Nesbitt,Georgia,Gala Harriers,F,00:36:50
 9,Aitchison,Neil,Gala Harriers,M,00:36:59
 10,Clark,Martin,Gala Harriers,M,00:37:05
 11,Short,Kenny,Teviotdale,M,00:37:26
@@ -14,10 +14,10 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Moffat,David,Gala Harriers,M,00:38:02
 14,Brydon,Derrick,Gala Harriers,M,00:38:03
 15,Fagan,Rachel,Gala Harriers,F,00:38:04
-16,Craig,Neil,Lauderdale,1st Lauderdale,00:38:05
+16,Craig,Neil,Lauderdale,M,00:38:05
 17,Rooney,Edmund,Lauderdale,M,00:38:06
-18,Turnbull,Les,Norham,V,00:38:36
-19,Sharp,Johnathan,Jog Earlston,1st Local,00:38:44
+18,Turnbull,Les,Norham,M,00:38:36
+19,Sharp,Johnathan,Jog Earlston,M,00:38:44
 20,Maxwell,Ian,Portobello,M,00:38:46
 21,Rooney,Aidan,Lauderdale,M,00:38:47
 22,Barrie,Stewart,H.B.T,M,00:38:55

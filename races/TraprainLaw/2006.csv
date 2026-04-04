@@ -1,43 +1,43 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Hood,Keith,Corstorphine AAC,M,00:40:16
-2,Rowland,Ian,Dunbar,V,00:43:57
+2,Rowland,Ian,Dunbar,M,00:43:57
 3,Menzies,Colin,HELP,M,00:44:31
-4,Jarvie,Willie,Portobello,V,00:44:37
+4,Jarvie,Willie,Portobello,M,00:44:37
 5,Laycock,Andy,City of Edinburgh,M,00:44:56
-6,Hulme,Martin,Corstorphine AAC,SV,00:45:22
+6,Hulme,Martin,Corstorphine AAC,M40,00:45:22
 7,Popham,Frank,Fife AC,M,00:47:18
-8,Henry,Graham,Portobello,V,00:47:23
-9,Waterhouse,Bob,Carnethy,SV,00:47:48
-10,Cameron,Gordon,Carnethy,V,00:48:44
+8,Henry,Graham,Portobello,M,00:47:23
+9,Waterhouse,Bob,Carnethy,M40,00:47:48
+10,Cameron,Gordon,Carnethy,M,00:48:44
 11,Wardlaw,Eilidh,HBT,F,00:49:12
-12,Semple,Hamilton,Westerlands,SV,00:49:20
-13,O`Brien,Paul,Corstorphine AAC,V,00:49:22
-14,Knox,Bill,Teviotdale,SV,00:49:55
+12,Semple,Hamilton,Westerlands,M40,00:49:20
+13,O`Brien,Paul,Corstorphine AAC,M,00:49:22
+14,Knox,Bill,Teviotdale,M40,00:49:55
 15,Young,Karen,Portobello,F,00:50:43
-16,Carr,Brian,HELP,SV,00:51:22
+16,Carr,Brian,HELP,M40,00:51:22
 17,Berwick,Simon,Unattached,M50,00:51:32
-18,MacEwan,Alex,City of Edinburgh,SV,00:51:57
-19,Kernaghan,Fred,Unattached,SV,00:52:10
-20,Contier,Gilles,Scottish Vet Harriers,SV60,00:52:26
-21,Robertson,Jane,Carnethy,FV,00:52:35
-22,Henderson,Douglas,Tynedale Harriers,SV,00:52:36
-23,Mitchell,Phyllis,Corstorphine AAC,FV,00:53:42
-24,Robertson,Alan,Lothian,SV,00:54:33
+18,MacEwan,Alex,City of Edinburgh,M40,00:51:57
+19,Kernaghan,Fred,Unattached,M40,00:52:10
+20,Contier,Gilles,Scottish Vet Harriers,M60,00:52:26
+21,Robertson,Jane,Carnethy,F,00:52:35
+22,Henderson,Douglas,Tynedale Harriers,M40,00:52:36
+23,Mitchell,Phyllis,Corstorphine AAC,F,00:53:42
+24,Robertson,Alan,Lothian,M40,00:54:33
 25,Caldwell,Gordon,HELP,M,00:54:54
-26,Taylor,Gary,Carnegie Harriers,V,00:56:05
-27,Armstrong,George,HELP,SV60,00:56:23
-28,Holder,Robin,Unattached,V,00:56:32
-29,Mennary,Alex,Carnethy,SV70,00:56:44
-30,Campbell,Bobby,Unattached,SV60,00:57:38
-31,Brearley,Ken,Unattached,V,00:58:10
-32,Russel,Robert,Unattached,SV60,00:59:55
+26,Taylor,Gary,Carnegie Harriers,M,00:56:05
+27,Armstrong,George,HELP,M60,00:56:23
+28,Holder,Robin,Unattached,M,00:56:32
+29,Mennary,Alex,Carnethy,M70,00:56:44
+30,Campbell,Bobby,Unattached,M60,00:57:38
+31,Brearley,Ken,Unattached,M,00:58:10
+32,Russel,Robert,Unattached,M60,00:59:55
 33,Watson,Jim,Unattached,M,01:00:13
-34,Holmes,Martin,Unattached,V,01:00:23
-35,Walker,Peter,Carnethy,V,01:01:57
-36,Marshall,Ian,HBT,SV,01:02:13
+34,Holmes,Martin,Unattached,M,01:00:23
+35,Walker,Peter,Carnethy,M,01:01:57
+36,Marshall,Ian,HBT,M40,01:02:13
 37,Miller,Gordon,Unattached,M,01:05:17
-38,Stapley,Tony,Portobello,SV60,01:07:02
+38,Stapley,Tony,Portobello,M60,01:07:02
 39,Clark,Chris,Unattached,M,01:09:05
-40,Nimmo,Ian,Carnethy,SV60,01:09:20
+40,Nimmo,Ian,Carnethy,M60,01:09:20
 41,Clark,Sally,Unattached,F,01:09:21
-42,Mills,Keith,Dunbar,SV,01:40:10
+42,Mills,Keith,Dunbar,M40,01:40:10

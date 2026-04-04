@@ -1,64 +1,64 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-NULL,Simpson,Robbie,Deeside Runners,MSenior,01:18:46
-NULL,Hill,Chris,Cosmics,MSenior,01:29:58
-NULL,Bonnyman,Brian,Westerlands,MVet,01:30:42
-NULL,Bartlett,Graeme,Forres Harriers,MVet,01:31:14
-NULL,Gooch,Daniel,Deeside Runners,MSenior,01:31:31
-NULL,Davis,Adrian,Carnethy,MVet,01:32:54
-NULL,Smith,Alan,Deeside Runners,MSVet,01:35:05
-NULL,Espie,James,Deeside Runners,MSenior,01:35:49
-NULL,Love,Craig,Dundee Hawkhill Harriers,MVet,01:36:23
-NULL,Williamson,Jason,Cosmics,MVet,01:36:29
-NULL,Crowe,Des,Shettleston,MVet,01:40:27
-NULL,Murray,Rab,The Darkside,MVet,01:42:16
-NULL,Marshall,Dave,Cosmics,MSenior,01:42:29
-NULL,McDonald,Dennis,Cosmics,MVet,01:42:54
-NULL,Addy,Stephen,None,MSenior,01:43:28
-NULL,Abrahams,Ben,Cosmics,MSenior,01:43:47
-NULL,Smith,Stuart,Cosmics,MSenior,01:44:10
-NULL,Larmour,Colin,Cosmics,MVet,01:45:32
-NULL,Fraser,Iain,Tri Buchan,MVet,01:45:32
-NULL,Angus,Gerald,Keith and District,MVet,01:46:25
-NULL,Strachan,Graham,Metro Aberdeen,MVet,01:46:45
-NULL,Oldham,Veronique,Cosmics,FVet,01:47:33
-NULL,Higginbottom,Jacqui,Carnethy,FVet,01:49:18
-NULL,Hirst,David,Deeside Runners,MVet,01:50:26
-NULL,Stewart,Craig,Forfar Roadrunners,MVet,01:51:34
-NULL,Nicolson,William,None,MSenior,01:52:11
-NULL,West-Watson,Paul,None,MSenior,01:52:42
-NULL,Urquhart,Gordon,None,MSenior,01:53:05
-NULL,O'Sullivan,Sean,Cosmics,MSenior,01:53:45
-NULL,Rennie,Nick,N/A,MVet,01:54:38
-NULL,Bowman,Angus,Lomond Hill Runners,MSVet,01:55:00
-NULL,Ryan,John,None,MSenior,01:55:01
-NULL,Hamilton,Ian,Cosmics,MSVet,01:55:43
-NULL,Colegrave,John,Cosmics,MSVet,01:55:46
-NULL,Smith,Alastair,Dundee Hawkhill Harriers,MSenior,01:55:47
-NULL,Weir,Jonathan,None,MSenior,01:56:29
-NULL,Burt,Louise,Fife AC,FVet,01:56:43
-NULL,McLean,Herbie,Lochtayside,MHVet,01:57:56
-NULL,Hamilton,Anita,Cosmics,FSVet,01:59:40
-NULL,Bowie,Tom,Carnegie,MHVet,02:02:29
-NULL,Grassl,Peter,Westerlands,MSenior,02:02:47
-NULL,Mitchell,Neill,Fife AC,MVet,02:03:11
-NULL,Shaw,Trevor,Lochtayside,MVet,02:03:21
-NULL,Donoghue,Derek,Westerlands,MSenior,02:03:44
-NULL,Reynolds,Colin,Carnegie,MVet,02:04:23
-NULL,Bennet,Lynne,Carnegie,FVet,02:06:29
-NULL,Walker,Peter,Carnethy,MVet,02:08:40
-NULL,Smith,Tilly,Deeside Runners,FSVet,02:09:00
-NULL,Reid,Colin,Cosmics,MVet,02:09:46
-NULL,Taylor,Colin,Cosmics,MVet,02:10:47
-NULL,Love,Charlie,Dundee Hawkhill Harriers,MHVet,02:11:30
-NULL,Stewart,Elaine,Cosmics,FSVet,02:12:31
-NULL,Friend,Kate,Carnethy,FVet,02:14:43
-NULL,Milmoe,Michael,Forres Harriers,MSVet,02:16:48
-NULL,Cormack,Alan,Cosmics,MVet,02:17:04
-NULL,Stewart,Simon,None,MVet,02:20:59
-NULL,Larmour,Pauline,Cosmics,FVet,02:21:11
-NULL,Leslie,Judy,None,FVet,02:21:11
-NULL,Donoghue,Craig,Stonehaven Running Club,MSenior,02:25:22
-NULL,Stapley,Tony,Portobello,MHVet,02:26:34
-NULL,Bowman,Jean,Lomond Hill Runners,FSVet,02:30:23
-NULL,Bain,Andy,MAROC,MVet,00:00:00
-NULL,Russell,Colin,Cosmics,MSenior,00:00:00
+1,Simpson,Robbie,Deeside Runners,M,01:18:46
+2,Hill,Chris,Cosmics,M,01:29:58
+3,Bonnyman,Brian,Westerlands,M40,01:30:42
+4,Bartlett,Graeme,Forres Harriers,M40,01:31:14
+5,Gooch,Daniel,Deeside Runners,M,01:31:31
+6,Davis,Adrian,Carnethy,M40,01:32:54
+7,Smith,Alan,Deeside Runners,M40,01:35:05
+8,Espie,James,Deeside Runners,M,01:35:49
+9,Love,Craig,Dundee Hawkhill Harriers,M40,01:36:23
+10,Williamson,Jason,Cosmics,M40,01:36:29
+11,Crowe,Des,Shettleston,M40,01:40:27
+12,Murray,Rab,The Darkside,M40,01:42:16
+13,Marshall,Dave,Cosmics,M,01:42:29
+14,McDonald,Dennis,Cosmics,M40,01:42:54
+15,Addy,Stephen,None,M,01:43:28
+16,Abrahams,Ben,Cosmics,M,01:43:47
+17,Smith,Stuart,Cosmics,M,01:44:10
+18,Larmour,Colin,Cosmics,M40,01:45:32
+19,Fraser,Iain,Tri Buchan,M40,01:45:32
+20,Angus,Gerald,Keith and District,M40,01:46:25
+21,Strachan,Graham,Metro Aberdeen,M40,01:46:45
+22,Oldham,Veronique,Cosmics,F40,01:47:33
+23,Higginbottom,Jacqui,Carnethy,F40,01:49:18
+24,Hirst,David,Deeside Runners,M40,01:50:26
+25,Stewart,Craig,Forfar Roadrunners,M40,01:51:34
+26,Nicolson,William,None,M,01:52:11
+27,West-Watson,Paul,None,M,01:52:42
+28,Urquhart,Gordon,None,M,01:53:05
+29,O'Sullivan,Sean,Cosmics,M,01:53:45
+30,Rennie,Nick,N/A,M40,01:54:38
+31,Bowman,Angus,Lomond Hill Runners,M40,01:55:00
+32,Ryan,John,None,M,01:55:01
+33,Hamilton,Ian,Cosmics,M40,01:55:43
+34,Colegrave,John,Cosmics,M40,01:55:46
+35,Smith,Alastair,Dundee Hawkhill Harriers,M,01:55:47
+36,Weir,Jonathan,None,M,01:56:29
+37,Burt,Louise,Fife AC,F40,01:56:43
+38,McLean,Herbie,Lochtayside,M40,01:57:56
+39,Hamilton,Anita,Cosmics,F40,01:59:40
+40,Bowie,Tom,Carnegie,M40,02:02:29
+41,Grassl,Peter,Westerlands,M,02:02:47
+42,Mitchell,Neill,Fife AC,M40,02:03:11
+43,Shaw,Trevor,Lochtayside,M40,02:03:21
+44,Donoghue,Derek,Westerlands,M,02:03:44
+45,Reynolds,Colin,Carnegie,M40,02:04:23
+46,Bennet,Lynne,Carnegie,F40,02:06:29
+47,Walker,Peter,Carnethy,M40,02:08:40
+48,Smith,Tilly,Deeside Runners,F40,02:09:00
+49,Reid,Colin,Cosmics,M40,02:09:46
+50,Taylor,Colin,Cosmics,M40,02:10:47
+51,Love,Charlie,Dundee Hawkhill Harriers,M40,02:11:30
+52,Stewart,Elaine,Cosmics,F40,02:12:31
+53,Friend,Kate,Carnethy,F40,02:14:43
+54,Milmoe,Michael,Forres Harriers,M40,02:16:48
+55,Cormack,Alan,Cosmics,M40,02:17:04
+56,Stewart,Simon,None,M40,02:20:59
+57,Larmour,Pauline,Cosmics,F40,02:21:11
+58,Leslie,Judy,None,F40,02:21:11
+59,Donoghue,Craig,Stonehaven Running Club,M,02:25:22
+60,Stapley,Tony,Portobello,M40,02:26:34
+61,Bowman,Jean,Lomond Hill Runners,F40,02:30:23
+62,Bain,Andy,MAROC,M40,00:00:00
+63,Russell,Colin,Cosmics,M,00:00:00

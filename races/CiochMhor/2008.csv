@@ -1,12 +1,12 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Naylor,Donald,HBT,MS,01:11:55
+1,Naylor,Donald,HBT,M,01:11:55
 2,Keith,Alex,HBT,M40,01:12:55
 3,Donnelly,Colin,Lochaber AC,M40,01:15:42
 4,Speight,Neil,Highland HR,M40,01:16:12
 5,Smith,Alan,Deeside R,M40,01:19:03
-6,Bannerman,Ross,Highland HR,MS,01:19:11
+6,Bannerman,Ross,Highland HR,M,01:19:11
 7,Gorman,Manny,Westies,M40,01:20:22
-8,McDonald,Donnie,Unatt,MS,01:21:23
+8,McDonald,Donnie,Unatt,M,01:21:23
 9,Worsley,Steve,Highland HR,M40,01:23:19
 10,Love,Craig,Dundee HH,M40,01:24:53
 11,Anderson,Laurie,Fife AC,M40,01:26:05
@@ -15,7 +15,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 14,Edge,Glenn,Skye & Lochalsh AC,M50,01:35:35
 15,Olden,Colin,Unatt,M,01:37:31
 16,Reid,George,Unatt,M,01:38:11
-17,Bannerman,Roxy,Highland HR,FS,01:41:59
+17,Bannerman,Roxy,Highland HR,F,01:41:59
 18,Wilson,Colin,Carnethy HRC,M40,01:42:31
 19,Harrison,Raymond,Unatt,M40,01:44:16
 20,Love,Charlie,Dundee HH,M65,01:44:31
@@ -23,4 +23,4 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 22,Orr,Ernie,Lochaber AC,M50,01:56:12
 23,Menhennet,Christine,Westies,F50,01:58:49
 24,Schreiber,Jo,Pudsey & Bramley AC,F40,01:58:49
-25,Paul,Brenda,Westies,FS,02:22:06
+25,Paul,Brenda,Westies,F,02:22:06

@@ -1,87 +1,87 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gomersall,Tim,Grampian Orienteers,M,01:11:28
 2,Henry,Peter,Deeside Runners,M,01:11:53
-3,Bonnyman,Brian,Westerlands CCC,MV40,01:13:41
+3,Bonnyman,Brian,Westerlands CCC,M40,01:13:41
 4,Taylor,Luke,Highland Hill Runners,M,01:15:51
 5,Mitchell,John,Cosmic Hillbashers,M,01:16:34
-6,Smith,Alan,Deeside Runners,MV50,01:17:30
+6,Smith,Alan,Deeside Runners,M50,01:17:30
 7,Barr,Andrew,Forres Harriers,M,01:18:39
-8,Tomlim,Chris,Cosmic Hillbashers,MV40,01:19:37
+8,Tomlim,Chris,Cosmic Hillbashers,M40,01:19:37
 9,Provan,Stephanie,Deeside Runners,F,01:20:08
 10,Davie,Moira,Forres Harriers,F,01:20:20
 11,Dunford,Simon,Cosmic Hillbashers,M,01:21:26
 12,Whiteside,Gavin,Highland Hill Runners,M,01:21:32
-13,Williamson,Jason,Cosmic Hillbashers,MV40,01:22:37
+13,Williamson,Jason,Cosmic Hillbashers,M40,01:22:37
 14,Muir,Innis,Jura AC,M,01:23:35
-15,Simpson,Geoff,HBT,MV50,01:23:42
+15,Simpson,Geoff,HBT,M50,01:23:42
 16,Dunbar,Ed,Moray Road Runners,M,01:24:22
 17,Armitage,Rachel,Edinburgh Uni H&H,F,01:24:47
 18,Stockton,Mark,Cosmic Hillbashers,M,01:25:03
-19,Jack,Tony,Metro Aberdeen,MV40,01:25:17
-20,Hirst,David,Deeside Runners,MV50,01:26:00
-21,McDonald,Dennis,Cosmic Hillbashers,MV50,01:26:06
-22,Urquhart,John,Sprey Runners,MV40,01:26:13
-23,Oldham,Veronique,Cosmic Hillbashers,FV40,01:26:16
-24,Anderson,Craig,Metro Aberdeen,MV40,01:26:29
-25,Paterson,George,Moravian Orienteers,MV40,01:26:40
+19,Jack,Tony,Metro Aberdeen,M40,01:25:17
+20,Hirst,David,Deeside Runners,M50,01:26:00
+21,McDonald,Dennis,Cosmic Hillbashers,M50,01:26:06
+22,Urquhart,John,Sprey Runners,M40,01:26:13
+23,Oldham,Veronique,Cosmic Hillbashers,F40,01:26:16
+24,Anderson,Craig,Metro Aberdeen,M40,01:26:29
+25,Paterson,George,Moravian Orienteers,M40,01:26:40
 26,Gillies,Michael,Unattached,M,01:26:42
 27,Reid,Chris,Unattached,M,01:26:43
-28,Bass,Owen,Deeside Runners,MV50,01:27:46
-29,Taylor,Gordie,Highland Hill Runners,MV50,01:27:57
+28,Bass,Owen,Deeside Runners,M50,01:27:46
+29,Taylor,Gordie,Highland Hill Runners,M50,01:27:57
 30,Hill,Chris,Brit Hill Fit,M,01:29:27
-31,Hargreaves,Stephen,Steel City Striders,MV40,01:29:27
-32,Ingram,Richard,Cosmic Hillbashers,MV40,01:29:28
+31,Hargreaves,Stephen,Steel City Striders,M40,01:29:27
+32,Ingram,Richard,Cosmic Hillbashers,M40,01:29:28
 33,Morgan,Andrew,Forres Harriers,M,01:29:33
 34,McFadzean,Peter,Cosmic Hillbashers,M,01:29:38
 35,Howson,Andy,Unattached,M,01:29:47
-36,Coles,Rob,Cosmic Hillbashers,MV60,01:29:51
+36,Coles,Rob,Cosmic Hillbashers,M60,01:29:51
 37,Mills,Chris,Cosmic Hillbashers,M,01:30:07
 38,Rickets,Jennifer,Deeside Runners,F,01:30:51
-39,Higginbottom,Jacqui,Carnethy,FV40,01:31:18
-40,McClure,Neil,Unattached,MV40,01:31:25
-41,Anderson,Laurie,Lomond Hill Runners,MV50,01:31:25
-42,Thompson,Fabienne,Carnegie,FV40,01:31:53
-43,Macdougall,Colin,Tinto Hill Runners,MV40,01:32:23
-44,Welsh,Alan,Forfar Road Runners,MV50,01:32:54
-45,Bellarby,Jonathan,Cosmic Hillbashers,MV40,01:33:05
-46,Larmour,Colin,Cosmic Hillbashers,MV40,01:33:17
+39,Higginbottom,Jacqui,Carnethy,F40,01:31:18
+40,McClure,Neil,Unattached,M40,01:31:25
+41,Anderson,Laurie,Lomond Hill Runners,M50,01:31:25
+42,Thompson,Fabienne,Carnegie,F40,01:31:53
+43,Macdougall,Colin,Tinto Hill Runners,M40,01:32:23
+44,Welsh,Alan,Forfar Road Runners,M50,01:32:54
+45,Bellarby,Jonathan,Cosmic Hillbashers,M40,01:33:05
+46,Larmour,Colin,Cosmic Hillbashers,M40,01:33:17
 47,Biggar,Richard,Darkside,M,01:34:00
 48,Rendell,Samantha,Deeside Runners,F,01:34:03
-49,Armitage,Sonia,Cosmic Hillbashers,FV50,01:34:11
-50,Newman,Miles,Deeside Runners,MV50,01:36:01
+49,Armitage,Sonia,Cosmic Hillbashers,F50,01:34:11
+50,Newman,Miles,Deeside Runners,M50,01:36:01
 51,Ferguson,Allan,Unattached,M,01:36:10
-52,Jones,Graham,Unattached,MV40,01:36:12
-53,Matthewson,Alastair,Highland Hill Runners,MV50,01:36:27
-54,Bowman,Angus,Lomond Hill Runners,MV50,01:36:29
-55,Roy,Scott,Unattached,MV40,01:36:47
+52,Jones,Graham,Unattached,M40,01:36:12
+53,Matthewson,Alastair,Highland Hill Runners,M50,01:36:27
+54,Bowman,Angus,Lomond Hill Runners,M50,01:36:29
+55,Roy,Scott,Unattached,M40,01:36:47
 56,O'Sullivan,Sean,Cosmic Hillbashers,M,01:36:57
-57,Hamilton,Ian,Cosmic Hillbashers,MV50,01:39:23
+57,Hamilton,Ian,Cosmic Hillbashers,M50,01:39:23
 58,Thomson,Graham,Unattached,M,01:39:30
 59,Gaff,Melanie,Wester Ross,F,01:39:52
-60,Forte,Phil,Dundee Hawkhill,MV50,01:40:00
+60,Forte,Phil,Dundee Hawkhill,M50,01:40:00
 61,Henderson,Katie,Deeside Runners,F,01:40:13
-62,Connor,Julia,Unattached,FV40,01:40:42
-63,Irvine,Rob,Cosmic Hillbashers,MV40,01:40:44
+62,Connor,Julia,Unattached,F40,01:40:42
+63,Irvine,Rob,Cosmic Hillbashers,M40,01:40:44
 64,Jelly,Ewan,Perth Road Runners,M,01:40:59
-65,Gutteridge,Gary,Cosmic Hillbashers,MV60,01:41:42
-66,Burgess,Warren,Deeside Runners,MV50,01:41:59
-67,Milne,Ron,Forfar Road Runners,MV50,01:42:21
-68,Beedie,Iain,Lomond Hill Runners,MV40,01:43:36
-69,Entwistle,Marie,Deeside Runners,FV40,01:43:50
-70,Munro,Frazer,Carnegie,MV40,01:43:59
-71,Morgan,Dougal,Unattached,MV40,01:44:41
-72,Williams,Rupert,Cosmic Hillbashers,MV50,01:45:32
+65,Gutteridge,Gary,Cosmic Hillbashers,M60,01:41:42
+66,Burgess,Warren,Deeside Runners,M50,01:41:59
+67,Milne,Ron,Forfar Road Runners,M50,01:42:21
+68,Beedie,Iain,Lomond Hill Runners,M40,01:43:36
+69,Entwistle,Marie,Deeside Runners,F40,01:43:50
+70,Munro,Frazer,Carnegie,M40,01:43:59
+71,Morgan,Dougal,Unattached,M40,01:44:41
+72,Williams,Rupert,Cosmic Hillbashers,M50,01:45:32
 73,Provan,Louise,HBT,F,01:45:37
-74,Tunstall,Duncan,Deeside Runners,MV50,01:45:48
+74,Tunstall,Duncan,Deeside Runners,M50,01:45:48
 75,Campbell,Liz,Unattached,F,01:47:04
-76,Mackenzie,Iain,Deeside Runners,MV50,01:51:16
+76,Mackenzie,Iain,Deeside Runners,M50,01:51:16
 77,Brook,Colin,Unattached,M,01:53:03
-78,Macdonald,Hamish,Aberdeen AAC,MV50,01:55:25
-79,Campbell,Rod,Cosmic Hillbashers,MV60,01:56:39
-80,Bass,Ursula,Deeside Runners,FV40,01:56:47
-81,Munro,Eleanor,Keith and District,FV40,01:57:37
-82,Silcocks,Linda,Alford Jog Scotland,FV50,02:05:19
-83,Bowman,Jean,Lomond Hill Runners,FV50,02:09:28
-84,Lemoncello,Phyllis,Fife AC,FV60,02:14:29
-85,Hare,Rolfe,Unattached,MV50,02:16:51
-86,Taylor,Sue,Cosmic Hillbashers,FV60,02:19:32
+78,Macdonald,Hamish,Aberdeen AAC,M50,01:55:25
+79,Campbell,Rod,Cosmic Hillbashers,M60,01:56:39
+80,Bass,Ursula,Deeside Runners,F40,01:56:47
+81,Munro,Eleanor,Keith and District,F40,01:57:37
+82,Silcocks,Linda,Alford Jog Scotland,F50,02:05:19
+83,Bowman,Jean,Lomond Hill Runners,F50,02:09:28
+84,Lemoncello,Phyllis,Fife AC,F60,02:14:29
+85,Hare,Rolfe,Unattached,M50,02:16:51
+86,Taylor,Sue,Cosmic Hillbashers,F60,02:19:32

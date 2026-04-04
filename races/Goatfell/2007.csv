@@ -5,7 +5,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 4,Strain,Murray,Hunters Bog Trotters,M,01:05:43
 5,Peachey,Simon,Carnethy,M,01:05:48
 6,Whitlie,Stewart,Carnethy,M40,01:06:52
-7,McCall,Andrew,Greenock Glenpark Harriers,MU23,01:08:16
+7,McCall,Andrew,Greenock Glenpark Harriers,M23,01:08:16
 8,Wellock,Ian,Hunters Bog Trotters,M,01:08:31
 9,Richmond,Kenny,Bellahouston RR,M,01:10:07
 10,Smith,Alan,Deeside Runners,M40,01:10:39
@@ -23,7 +23,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 22,Anderson,Adam M,Carnethy,M,01:15:23
 23,Arnott,Neil,Lochaber AC,M,01:15:31
 24,Johnston,Mark,Carnethy,M,01:15:45
-25,Sullivan,Matthew,Shettleston Harriers,MU23,01:16:00
+25,Sullivan,Matthew,Shettleston Harriers,M23,01:16:00
 26,Stevenson,John,Ochil Hill Runners,M40,01:16:05
 27,Williamson,Matt,Bellahouston RR,M,01:16:11
 28,Schmidt,Elke,Bellahouston RR,F,01:16:15
@@ -58,7 +58,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 57,Milligan,Dougie,Solway RC,M60,01:25:48
 58,Popham,Frank,Fife AC,M,01:25:57
 59,Jervis,Graeme,Forres Harriers,M40,01:26:03
-60,Macrae,Donald,Glasgow University H&H,MU23,01:26:12
+60,Macrae,Donald,Glasgow University H&H,M23,01:26:12
 61,Begley,Tommy,Irvine AC,M,01:26:59
 62,Hall,Jim,Highland Hill Runners,M50,01:27:55
 63,Legge,Sarah,Fife AC,F,01:28:12
@@ -71,7 +71,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 70,Hodges,Adrian,Forres Harriers,M,01:29:18
 71,Abram,Michael,Arran Runners,M50,01:29:49
 72,Stuart,Helen,Bellahouston RR,F,01:30:00
-73,Bailey,Will Hugh,Edinburgh University H&H,MU23,01:30:10
+73,Bailey,Will Hugh,Edinburgh University H&H,M23,01:30:10
 74,Pugh,Roderick,JW Kilmarnock Harriers,M50,01:30:32
 75,Bowie,Tom,Fife AC,M60,01:30:36
 76,Cameron,Gordon,Carnethy,M40,01:31:49
@@ -96,7 +96,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 95,Walker,Brian,unattached,M,01:39:31
 96,Spence,Michael,unattached,M40,01:39:37
 97,Smillie,Andrew,Bellahouston RR,M40,01:39:57
-98,MacEwan,Linda,Lochaber AC,W40,01:40:13
+98,MacEwan,Linda,Lochaber AC,F40,01:40:13
 99,Diver,Michael,Clydesdale Harriers,M40,01:41:38
 100,McCann,Martin,Rossendale Harriers,M,01:41:45
 101,Scott,Jocelyn,Fife AC,F50,01:42:11

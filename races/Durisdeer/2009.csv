@@ -1,9 +1,9 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Anthony,A,Ochil,SeniorM,01:36:00
+1,Anthony,A,Ochil,M,01:36:00
 2,Smith,A,Deeside,M40,01:41:00
 3,Anderson,A,Carnethy,M40,01:46:00
-4,Heron,G,Carnethy,SeniorM,01:49:00
-5,Holt,L,Solway,SeniorM,01:53:00
+4,Heron,G,Carnethy,M,01:49:00
+5,Holt,L,Solway,M,01:53:00
 6,White,D,Kilmarnock,M40,01:54:00
 7,Anderson,R,Moorfoot,M50,01:54:00
 8,Irving,R,Annan,M40,01:57:00
@@ -17,15 +17,15 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 16,Fairgrieve,A,Annan,M40,02:09:00
 17,Could,C,Ochil,M40,02:09:00
 18,Bowie,T,Fife,M60,02:13:00
-19,Whitelaw,M,Annan,SeniorM,02:13:00
+19,Whitelaw,M,Annan,M,02:13:00
 20,Pugh,R,Kilmarnock,M50,02:13:00
 21,Thomas,R,Unattached,M40,02:14:00
 22,Littlewood,J,Carnethy,M70,02:20:00
 23,Priestley,N,Annan,M50,02:20:00
-24,Anderson,M,Unattached,SeniorM,02:21:00
-25,Gordon,N,Solway,SeniorM,02:26:00
+24,Anderson,M,Unattached,M,02:21:00
+25,Gordon,N,Solway,M,02:26:00
 26,Smith,T,Deeside,F40,02:28:00
-27,Gatenby,A,Glasgow Uni,SeniorM,02:28:00
+27,Gatenby,A,Glasgow Uni,M,02:28:00
 28,Flannaghan,M,Unattached,M40,02:33:00
 29,Bass,U,Deeside,F40,02:44:00
 30,Robson,J,Annan,F50,02:47:00

@@ -1,101 +1,101 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside Runners,MSenior,01:05:31
-2,McCarthy,Ewan,None,MSenior,01:10:04
-3,Bonnyman,Brian,Westerlands,MVet,01:11:14
-4,Stewart,Ryan,Dundee Hawkhill Harriers,MSenior,01:13:39
-5,Mattocks,Craig,Carnethy,MVet,01:15:35
-6,Smith,Stuart,Cosmics,MSenior,01:15:56
-7,Whitehead,Dan,Deeside Runners,MVet,01:15:58
-8,Smith,Alan,Deeside Runners,MSVet,01:16:19
-9,Smith,Harry,Deeside Runners,MSenior,01:16:52
-10,Tomlin,Chris,Cosmics,MVet,01:17:12
-11,Russell,Colin,Cosmics,MSenior,01:18:52
-11,Marshall,David,Cosmics,MSenior,01:18:52
-13,Gilmore,Iain,Carnethy,MSenior,01:19:32
-14,Ingram,Barry,Metro Aberdeen,MSenior,01:19:34
-15,Wright,Dave,Hunters Bogtrotters,MSenior,01:20:12
-16,Easton,Neil,Cosmics,MSenior,01:20:53
-17,Pringle,Stuart,Deeside Runners,MSenior,01:20:56
-18,Warman,Julian,Hunters Bogtrotters,MVet,01:21:04
-19,Mardall,Nick,Deeside Runners,MVet,01:22:17
-20,Walsh,Chris,None,MSenior,01:22:36
-21,Armitage,Rachel,Edinburgh Uni H&H,FSenior,01:22:39
-22,Pearce,Simon,Cosmics,MSenior,01:22:46
-23,Provan,Stephanie,Deeside Runners,FSenior,01:23:43
-24,Rahn,Thilo,Aberdeen MRT,MSenior,01:23:47
-25,Murray,Rab,The Darkside,MSVet,01:25:41
-26,Ord,Steven,Deeside Runners,MVet,01:26:54
-26,Largey,Ciara,Cosmics,FSenior,01:26:54
-28,Croll,David,Deeside Runners,MSVet,01:27:08
-29,Lonn,Michael,Lomond Hill Runners,MVet,01:27:22
-30,Hirst,David,Deeside Runners,MSVet,01:27:27
-31,Ralph,Stephen,Carnethy,MVet,01:27:31
-32,Jenkins,Kate,Carnethy,FVet,01:27:53
-33,Larmour,Colin,Cosmics,MVet,01:27:56
-34,Stockton,Mark,Cosmics,MSenior,01:28:11
-35,Pryde,Gordon,Lomond Hill Runners,MSVet,01:28:28
-36,Clark,David,Garioch Roadrunners,MVet,01:28:40
-37,Hena,Nari,Forfar RR,MSenior,01:28:55
-38,Gillies,Michael,None,MSenior,01:29:12
-39,Oldham,Veronique,Cosmics,FVet,01:30:00
-40,Ingram,Richard,Garioch Roadrunners,MVet,01:30:46
-41,Mackenzie,Ruth,Deeside Runners,FVet,01:30:53
-42,Allan,Andrew,None,MSenior,01:31:11
-42,Inkster,Erlend,None,MSenior,01:31:11
-44,Anderson,Craig,Metro Aberdeen,MVet,01:31:24
-45,Wright,Megan,Hunters Bogtrotters,FVet,01:31:29
-46,Fulton,David,None,MSenior,01:31:53
-47,Paterson,Scott,None,MVet,01:32:01
-48,Morgan,Neil,Cosmics,MVet,01:32:52
-49,Reeves,Carl,Cosmics,MVet,01:33:47
-50,Ross,Robert,Aberdeen MRT,MSenior,01:34:02
-51,Angus,Gerald,Keith and District,MSVet,01:34:07
-52,Ackesjo,Jan,Lomond Hill Runners,MVet,01:34:09
-53,Armitage,Sonia,Cosmics,FSVet,01:34:15
-54,Newman,Miles,Deeside Runners,MSVet,01:35:18
-55,McFadzean,Peter,Statoil UK,MSenior,01:35:54
-56,Knight,Paul,None,MSenior,01:36:19
-57,Wilson,Colin,Lomond Hill Runners,MSVet,01:36:26
-58,Ostmo,Emilie,None,FSenior,01:37:00
-59,Bevan,Oliver,None,MSenior,01:37:06
-60,Sell,Scott,Stonehaven Running Club,MSenior,01:38:31
-61,Roy,Scott,None,MVet,01:38:43
-62,Harrison,Jason,Lomond Hill Runners,MVet,01:39:24
-63,Hamilton,Ian,Cosmics,MSVet,01:39:39
-64,Wilson,Joan,Carnethy,FSVet,01:40:25
-65,Hamilton,Anita,Cosmics,FSVet,01:41:26
-66,Duncan,David,Ochil HR,MSVet,01:41:47
-67,Reynolds,Colin,Lomond Hill Runners,MVet,01:43:50
-68,Reid,Colin,Cosmics,MVet,01:44:01
-69,Lindsay,Billy,Aberdeen MRT,MSenior,01:44:09
-70,Forte,Phil,Dundee Hawkhill Harriers,MSVet,01:44:37
-71,,Irina,Moray RR,FSenior,01:44:54
-72,Brennan,Brian,Westerlands,MSVet,01:45:02
-73,Fielding,Debbie,Cosmics,FSenior,01:45:10
-74,Ostmo,Svend,Statoil UK,MVet,01:45:43
-75,Clark,Lesley,Cosmics,FSenior,01:46:29
-76,Kaas,Martin,Cosmics,MVet,01:48:21
-77,Herron,Colin,None,MSVet,01:48:23
-78,Ridyard,Alison,None,FVet,01:48:52
-79,Irvine,Rob,Cosmics,MVet,01:49:03
-80,Bowie,Tom,Carnegie,MHVet,01:49:53
-81,Musgrave,Posy,Three Peaks Triathletes,FSenior,01:51:00
-82,Mackenzie,Iain,Deeside Runners,MSVet,01:51:16
-83,Shaw,Trevor,Lochtayside,MSVet,01:52:03
-84,Campbell,Rod,Cosmics,MHVet,01:52:29
-85,Orr,Gordon,Garioch Roadrunners,MSenior,01:53:05
-86,Smithard,Phil,Carnegie,MHVet,01:53:41
-87,Greek,Stephen,Carnegie,MSVet,01:53:52
-88,Larmour,Pauline,Cosmics,FVet,01:56:19
-89,Macdonald,Hamish,Aberdeen AAC,MSVet,01:58:12
-90,Oliver,David,Deeside Runners,MSVet,02:01:12
-91,Dellros,Tony,Hjarnarps Orienteering,MSVet,02:05:21
-92,Taylor,Anne,None,FSenior,02:10:59
-93,Musgrave,Frank,Three Peaks Triathletes,MHVet,02:12:23
-94,Clark,Sarah,Forfar RR,FSenior,02:13:20
-95,Kennedy,Alan,Dundee Hawkhill Harriers,MSVet,02:14:01
-96,Taylor,Sue,Cosmics,FSVet,02:20:29
-97,Fontes,Nuno,None,MSenior,02:25:00
-98,Mann,Phil,Metro Aberdeen,MSVet,02:25:01
-99,Love,Charlie,Dundee Hawkhill Harriers,MHVet,02:27:31
-100,Oliver,John,None,MVet,02:28:37
+1,Simpson,Robbie,Deeside Runners,M,01:05:31
+2,McCarthy,Ewan,None,M,01:10:04
+3,Bonnyman,Brian,Westerlands,M40,01:11:14
+4,Stewart,Ryan,Dundee Hawkhill Harriers,M,01:13:39
+5,Mattocks,Craig,Carnethy,M40,01:15:35
+6,Smith,Stuart,Cosmics,M,01:15:56
+7,Whitehead,Dan,Deeside Runners,M40,01:15:58
+8,Smith,Alan,Deeside Runners,M40,01:16:19
+9,Smith,Harry,Deeside Runners,M,01:16:52
+10,Tomlin,Chris,Cosmics,M40,01:17:12
+11,Russell,Colin,Cosmics,M,01:18:52
+11,Marshall,David,Cosmics,M,01:18:52
+13,Gilmore,Iain,Carnethy,M,01:19:32
+14,Ingram,Barry,Metro Aberdeen,M,01:19:34
+15,Wright,Dave,Hunters Bogtrotters,M,01:20:12
+16,Easton,Neil,Cosmics,M,01:20:53
+17,Pringle,Stuart,Deeside Runners,M,01:20:56
+18,Warman,Julian,Hunters Bogtrotters,M40,01:21:04
+19,Mardall,Nick,Deeside Runners,M40,01:22:17
+20,Walsh,Chris,None,M,01:22:36
+21,Armitage,Rachel,Edinburgh Uni H&H,F,01:22:39
+22,Pearce,Simon,Cosmics,M,01:22:46
+23,Provan,Stephanie,Deeside Runners,F,01:23:43
+24,Rahn,Thilo,Aberdeen MRT,M,01:23:47
+25,Murray,Rab,The Darkside,M40,01:25:41
+26,Ord,Steven,Deeside Runners,M40,01:26:54
+26,Largey,Ciara,Cosmics,F,01:26:54
+28,Croll,David,Deeside Runners,M40,01:27:08
+29,Lonn,Michael,Lomond Hill Runners,M40,01:27:22
+30,Hirst,David,Deeside Runners,M40,01:27:27
+31,Ralph,Stephen,Carnethy,M40,01:27:31
+32,Jenkins,Kate,Carnethy,F40,01:27:53
+33,Larmour,Colin,Cosmics,M40,01:27:56
+34,Stockton,Mark,Cosmics,M,01:28:11
+35,Pryde,Gordon,Lomond Hill Runners,M40,01:28:28
+36,Clark,David,Garioch Roadrunners,M40,01:28:40
+37,Hena,Nari,Forfar RR,M,01:28:55
+38,Gillies,Michael,None,M,01:29:12
+39,Oldham,Veronique,Cosmics,F40,01:30:00
+40,Ingram,Richard,Garioch Roadrunners,M40,01:30:46
+41,Mackenzie,Ruth,Deeside Runners,F40,01:30:53
+42,Allan,Andrew,None,M,01:31:11
+42,Inkster,Erlend,None,M,01:31:11
+44,Anderson,Craig,Metro Aberdeen,M40,01:31:24
+45,Wright,Megan,Hunters Bogtrotters,F40,01:31:29
+46,Fulton,David,None,M,01:31:53
+47,Paterson,Scott,None,M40,01:32:01
+48,Morgan,Neil,Cosmics,M40,01:32:52
+49,Reeves,Carl,Cosmics,M40,01:33:47
+50,Ross,Robert,Aberdeen MRT,M,01:34:02
+51,Angus,Gerald,Keith and District,M40,01:34:07
+52,Ackesjo,Jan,Lomond Hill Runners,M40,01:34:09
+53,Armitage,Sonia,Cosmics,F40,01:34:15
+54,Newman,Miles,Deeside Runners,M40,01:35:18
+55,McFadzean,Peter,Statoil UK,M,01:35:54
+56,Knight,Paul,None,M,01:36:19
+57,Wilson,Colin,Lomond Hill Runners,M40,01:36:26
+58,Ostmo,Emilie,None,F,01:37:00
+59,Bevan,Oliver,None,M,01:37:06
+60,Sell,Scott,Stonehaven Running Club,M,01:38:31
+61,Roy,Scott,None,M40,01:38:43
+62,Harrison,Jason,Lomond Hill Runners,M40,01:39:24
+63,Hamilton,Ian,Cosmics,M40,01:39:39
+64,Wilson,Joan,Carnethy,F40,01:40:25
+65,Hamilton,Anita,Cosmics,F40,01:41:26
+66,Duncan,David,Ochil HR,M40,01:41:47
+67,Reynolds,Colin,Lomond Hill Runners,M40,01:43:50
+68,Reid,Colin,Cosmics,M40,01:44:01
+69,Lindsay,Billy,Aberdeen MRT,M,01:44:09
+70,Forte,Phil,Dundee Hawkhill Harriers,M40,01:44:37
+71,,Irina,Moray RR,F,01:44:54
+72,Brennan,Brian,Westerlands,M40,01:45:02
+73,Fielding,Debbie,Cosmics,F,01:45:10
+74,Ostmo,Svend,Statoil UK,M40,01:45:43
+75,Clark,Lesley,Cosmics,F,01:46:29
+76,Kaas,Martin,Cosmics,M40,01:48:21
+77,Herron,Colin,None,M40,01:48:23
+78,Ridyard,Alison,None,F40,01:48:52
+79,Irvine,Rob,Cosmics,M40,01:49:03
+80,Bowie,Tom,Carnegie,M40,01:49:53
+81,Musgrave,Posy,Three Peaks Triathletes,F,01:51:00
+82,Mackenzie,Iain,Deeside Runners,M40,01:51:16
+83,Shaw,Trevor,Lochtayside,M40,01:52:03
+84,Campbell,Rod,Cosmics,M40,01:52:29
+85,Orr,Gordon,Garioch Roadrunners,M,01:53:05
+86,Smithard,Phil,Carnegie,M40,01:53:41
+87,Greek,Stephen,Carnegie,M40,01:53:52
+88,Larmour,Pauline,Cosmics,F40,01:56:19
+89,Macdonald,Hamish,Aberdeen AAC,M40,01:58:12
+90,Oliver,David,Deeside Runners,M40,02:01:12
+91,Dellros,Tony,Hjarnarps Orienteering,M40,02:05:21
+92,Taylor,Anne,None,F,02:10:59
+93,Musgrave,Frank,Three Peaks Triathletes,M40,02:12:23
+94,Clark,Sarah,Forfar RR,F,02:13:20
+95,Kennedy,Alan,Dundee Hawkhill Harriers,M40,02:14:01
+96,Taylor,Sue,Cosmics,F40,02:20:29
+97,Fontes,Nuno,None,M,02:25:00
+98,Mann,Phil,Metro Aberdeen,M40,02:25:01
+99,Love,Charlie,Dundee Hawkhill Harriers,M40,02:27:31
+100,Oliver,John,None,M40,02:28:37

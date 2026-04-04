@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Sparrow,Peter,Unattached,M,00:47:28
 13,Howett,Andrew,Lauderdale Limpers,M,00:47:42
 14,Linton,Robbie,Teviotdale Harriers,M,00:48:08
-15,Dalgleish,Charlie,Unattached,MJ,00:48:11
+15,Dalgleish,Charlie,Unattached,M16,00:48:11
 16,Moss,Carol,Moorfoot Runners,F50,00:48:21
 17,Fairbairn,Paul,Unattached,M,00:48:21
 18,Tharme,Callum,Cambuslang Harriers,M,00:48:21
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Gibson,Liam,Unattached,M,00:51:49
 29,Balderston,Jamie,Unattached,M50,00:52:14
 30,Dijkman,Naomi,Lauderdale Limpers,F,00:53:02
-31,Alfast,Reuben,Unattached,MJ,00:53:26
+31,Alfast,Reuben,Unattached,M16,00:53:26
 32,Murdoch,Joeleen,Gala Harriers,F,00:54:17
 33,Lewthwaite,Andy,Unattached,M,00:54:25
 34,McHugh,Derek,Teviotdale Harriers,M50,00:54:46
@@ -38,7 +38,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 37,Crawford,Rosanna,Unattached,F,00:55:04
 38,Needham,Robert,Unattached,M,00:55:33
 39,Jackson,Neil,Moorfoot Runners,M50,00:55:42
-40,Francis,Charlie,Unattached,MJ,00:55:45
+40,Francis,Charlie,Unattached,M16,00:55:45
 41,Rees,Tim,Unattached,M50,00:55:53
 42,Kelly,Angie,Unattached,F,00:56:04
 43,Wagg,Henry,Unattached,M,00:56:15
@@ -105,7 +105,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 104,Munro,Ian,Moorfoot Runners,M50,01:11:01
 105,Job,Delia,Unattached,F50,01:12:00
 106,Tulloch,Emma,Unattached,F,01:13:00
-107,Alfast,Agnes,Unattached,FJ,01:13:01
+107,Alfast,Agnes,Unattached,F16,01:13:01
 108,Barrie,Will,Galloway Harriers AAC,M50,01:13:02
 109,Carstairs,Ray,Unattached,M50,01:14:00
 110,Bruce,Vikki,Portobello RC,F,01:14:01

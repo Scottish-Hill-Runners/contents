@@ -3,24 +3,24 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 2,Trevelyan,Jack,Highland Hill Runners,M,00:42:14
 3,Gorman,Manny,Westerlands,M40,00:43:14
 4,Henry,Peter,Deeside Runners,M,00:43:40
-5,Coupar,Alasdair,East Sutherland,MU20,00:43:49
-6,Taylor,Luke,Highland Hill Runners,MU20,00:44:28
+5,Coupar,Alasdair,East Sutherland,M20,00:43:49
+6,Taylor,Luke,Highland Hill Runners,M20,00:44:28
 7,O`Donnell,Michael,Metro Aberdeen,M,00:44:52
 8,Rogan,Paul,Forres Harriers,M40,00:45:06
 9,Nicolson,William,Highland Hill Runners,M40,00:45:18
 10,Williams,Francis,Unattached,M,00:45:35
 11,Keith,Alec,HBT,M50,00:46:07
-12,Todd,Finlay,Ross County AC,MU20,00:46:36
-13,Barr,Andrew,Forres Harriers,MU20,00:46:40
+12,Todd,Finlay,Ross County AC,M20,00:46:36
+13,Barr,Andrew,Forres Harriers,M20,00:46:40
 14,Smith,Alan,Deeside Runners,M50,00:47:09
 15,Krogulec,Waldemar,Highland Hill Runners,M,00:47:18
 16,Miller,Paul,Inverness Harriers,M40,00:47:27
 17,Forrest,Stuart,Highland Hill Runners,M,00:47:33
 18,Worsley,Steven,Inverness Harriers,M50,00:47:36
-19,Taylor,Mark,North Highland Harriers,MU20,00:47:40
+19,Taylor,Mark,North Highland Harriers,M20,00:47:40
 20,Ross,Martin,Unattached,M,00:47:51
 21,Green,Colin,Moray Road Runners,M40,00:48:04
-22,MacFadyen,Anna,Forres Harriers,FU20,00:48:24
+22,MacFadyen,Anna,Forres Harriers,F20,00:48:24
 23,Urquhart,John,Spey Runners,M40,00:48:35
 24,Macdonald,Dougie,Highland Hill Runners,M40,00:48:43
 25,Provan,Stephanie,Deeside Runners,F,00:48:46
@@ -61,16 +61,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 60,Bryan,David,East Sutherland,M40,00:56:30
 61,Wallace,Craig,Highland Hill Runners,M,00:56:34
 62,MacGregor,Iain,Unattached,M40,00:56:38
-63,Gorman,Duncan,Westerlands,MU20,00:56:39
+63,Gorman,Duncan,Westerlands,M20,00:56:39
 64,Dent,Matthew,Unattached,M,00:56:47
-65,Kerr,Hamish,Ross County AC,MU20,00:56:48
+65,Kerr,Hamish,Ross County AC,M20,00:56:48
 66,Duncan,David,Ochil Hill Runners,M60,00:56:49
 67,MacLean,Robert,Unattached,M50,00:56:51
-68,Keith,Rachel,Inverness Harriers,FU20,00:57:03
+68,Keith,Rachel,Inverness Harriers,F20,00:57:03
 69,Barr,Nick,Forres Harriers,M50,00:57:43
 70,Earnshaw,Colin,North Highland Harriers,M40,00:57:44
 71,Innes,Scott,East Sutherland,M,00:58:03
-72,Munro,Rhuairidh,Unattached,MU20,00:58:06
+72,Munro,Rhuairidh,Unattached,M20,00:58:06
 73,MacKenzie,Gavin,Unattached,M,00:58:41
 74,McRitchie,Susan,Forres Harriers,F40,00:58:59
 75,Sneddon,George,Highland Hill Runners,M40,00:59:01
@@ -92,13 +92,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 91,Orr,Colin,Unattached,M,01:00:39
 92,Orr,Euan,Unattached,M,01:00:40
 93,Davidson,Harley,Inverness Harriers,M,01:00:47
-94,MacKay,Connor,Unattached,MU20,01:01:13
+94,MacKay,Connor,Unattached,M20,01:01:13
 95,Burnside,Steven,Unattached,M,01:01:16
 96,Smith,Chris,Unattached,M,01:01:21
 97,McLean,Kevin,Unattached,M,01:01:42
 98,Mackie,Eugene,Unattached,M,01:02:27
 99,Wood,Kirsty,North Highland Harriers,F,01:02:56
-100,Barr,Kathryn,Forres Harriers,FU20,01:03:32
+100,Barr,Kathryn,Forres Harriers,F20,01:03:32
 101,Rothe,Lucie,Muir of Ord Jog Scotland,F,01:03:49
 102,Holloway,John,Forres Harriers,M50,01:03:50
 103,Dawson,Tim,Highland Hill Runners,M50,01:04:07
@@ -114,7 +114,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 113,Bowman,Jean,Lomond Hill Runners,M50,01:09:59
 114,Reid,George,Triathlon Inverness,M60,01:10:45
 115,Stuart,Aileen,Unattached,F40,01:11:00
-116,Bryan,Rebekah,East Sutherland,FU20,01:11:12
+116,Bryan,Rebekah,East Sutherland,F20,01:11:12
 117,Thom,Aileen,Unattached,F,01:14:27
 118,Brown,Stephanie,Muir of Ord Jog Scotland,F,01:14:30
 119,Quate,Jim,Unattached,M40,01:14:31

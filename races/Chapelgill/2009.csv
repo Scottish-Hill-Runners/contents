@@ -1,48 +1,48 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Prasad,Prasad,Clydesdale,MS,00:19:34
-2,Simpson,Robbie,Deeside,MJ,00:19:54
-3,Marshall,Brian,HELP,MS,00:20:29
-4,Fallon,Steven,Carnethy,MV40,00:21:44
-5,Strain,Murray,HBT,MS,00:22:15
-6,Smith,Alan,Deeside,MV45,00:22:31
-7,Wellock,Ian,HBT,MS,00:22:54
-8,Jardine,Euan,Gala Harriers,MS,00:22:55
-9,Bennet,Sandy,Carnegie,MV45,00:23:20
-10,Anthony,Al,Ochil,MS,00:23:48
-11,Reid,Don,Westerlands,MV50,00:24:07
-12,Bass,Owen,Deeside,MV45,00:24:14
-13,Grieve,Craig,Teviotdale,MS,00:24:15
-14,Murray,Keith,Teviotdale,MV45,00:24:23
-15,Pryde,Gordon,Lomond,MV50,00:24:48
-16,Horsfield,Richard,Dark Peak,MV45,00:25:05
-17,Anderson,Russell,Moorfoot,MV45,00:25:05
-18,Anderson,Laurence,Fife,MV45,00:25:45
-19,Robson,John,Annan,MV50,00:26:46
-20,Rogers,David,Westerlands,MV45,00:26:52
-21,Murgatroyd,Ian,Solway,MV45,00:26:54
-22,MacLeod,Murdo,Westerlands,MV55,00:27:30
-23,Colchester,Jim,Solway,MS,00:27:35
-24,Duncan,David,Ochil,MV50,00:28:06
-25,Wardlaw,Eilidh,HBT,FS,00:28:18
-26,Adkin,Scout,Moorfoot,FJ,00:28:24
-27,Mason,David,Linlithgow,MV40,00:28:33
-28,Fraser,Billy,Northumberland FR,MV45,00:29:40
-29,Shiell,Douglas,Carnethy,MV45,00:30:30
-30,Brown,Jamie,Unatt,MS,00:30:40
-31,Gatehouse,Richard,Lomond,MV55,00:30:55
-32,Howie,Brian,Carnethy,MV55,00:31:00
-33,Oliver,Chris,HBT,MV60,00:31:50
-34,Gordon,Nick,Solway,MV40,00:31:54
-35,Beyts,Angus,Forfar RR,MV50,00:31:57
-36,Valencia,Miriam,London Frontrunners,FS,00:31:59
-37,Ledlie,Colin,Carnethy,MV40,00:32:32
-38,Smith,Tilly,Deeside,FV45,00:32:36
-39,MacDonald,Debbie,HBT,FV45,00:32:52
-40,Lawrie,Fiona,Carnethy,FS,00:33:54
-41,Robson,Jean,Annan,FV50,00:35:00
-42,McManus,Ian,Irvine,MV65,00:35:22
-43,Stokoe,Deborah,Westerlands,FJ,00:35:58
-44,Brookes,Liz,Carnethy,FS,00:38:35
-45,Forrest,Margaret,Carnethy,FV50,00:43:15
-46,Reid,Victoria,Westerlands,FJ,00:48:58
-47,Thomas,Robin,HBT,MV50,00:51:35
+1,Prasad,Prasad,Clydesdale,M,00:19:34
+2,Simpson,Robbie,Deeside,M16,00:19:54
+3,Marshall,Brian,HELP,M,00:20:29
+4,Fallon,Steven,Carnethy,M40,00:21:44
+5,Strain,Murray,HBT,M,00:22:15
+6,Smith,Alan,Deeside,M45,00:22:31
+7,Wellock,Ian,HBT,M,00:22:54
+8,Jardine,Euan,Gala Harriers,M,00:22:55
+9,Bennet,Sandy,Carnegie,M45,00:23:20
+10,Anthony,Al,Ochil,M,00:23:48
+11,Reid,Don,Westerlands,M50,00:24:07
+12,Bass,Owen,Deeside,M45,00:24:14
+13,Grieve,Craig,Teviotdale,M,00:24:15
+14,Murray,Keith,Teviotdale,M45,00:24:23
+15,Pryde,Gordon,Lomond,M50,00:24:48
+16,Horsfield,Richard,Dark Peak,M45,00:25:05
+17,Anderson,Russell,Moorfoot,M45,00:25:05
+18,Anderson,Laurence,Fife,M45,00:25:45
+19,Robson,John,Annan,M50,00:26:46
+20,Rogers,David,Westerlands,M45,00:26:52
+21,Murgatroyd,Ian,Solway,M45,00:26:54
+22,MacLeod,Murdo,Westerlands,M55,00:27:30
+23,Colchester,Jim,Solway,M,00:27:35
+24,Duncan,David,Ochil,M50,00:28:06
+25,Wardlaw,Eilidh,HBT,F,00:28:18
+26,Adkin,Scout,Moorfoot,F16,00:28:24
+27,Mason,David,Linlithgow,M40,00:28:33
+28,Fraser,Billy,Northumberland FR,M45,00:29:40
+29,Shiell,Douglas,Carnethy,M45,00:30:30
+30,Brown,Jamie,Unatt,M,00:30:40
+31,Gatehouse,Richard,Lomond,M55,00:30:55
+32,Howie,Brian,Carnethy,M55,00:31:00
+33,Oliver,Chris,HBT,M60,00:31:50
+34,Gordon,Nick,Solway,M40,00:31:54
+35,Beyts,Angus,Forfar RR,M50,00:31:57
+36,Valencia,Miriam,London Frontrunners,F,00:31:59
+37,Ledlie,Colin,Carnethy,M40,00:32:32
+38,Smith,Tilly,Deeside,F45,00:32:36
+39,MacDonald,Debbie,HBT,F45,00:32:52
+40,Lawrie,Fiona,Carnethy,F,00:33:54
+41,Robson,Jean,Annan,F50,00:35:00
+42,McManus,Ian,Irvine,M65,00:35:22
+43,Stokoe,Deborah,Westerlands,F16,00:35:58
+44,Brookes,Liz,Carnethy,F,00:38:35
+45,Forrest,Margaret,Carnethy,F50,00:43:15
+46,Reid,Victoria,Westerlands,F16,00:48:58
+47,Thomas,Robin,HBT,M50,00:51:35

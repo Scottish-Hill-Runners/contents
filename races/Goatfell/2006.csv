@@ -1,27 +1,27 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,SM,01:17:48
-2,Anthony,Alasdair,Ochil Hill Runners,SM,01:21:03
+1,Marshall,Brian,HELP,M,01:17:48
+2,Anthony,Alasdair,Ochil Hill Runners,M,01:21:03
 3,Macrae,John,Lochaber AC,M40,01:27:02
 4,Smith,Bruce,Standard Life,M40,01:27:38
-5,M. Anderson,Adam,Carnethy,SM,01:28:10
+5,M. Anderson,Adam,Carnethy,M,01:28:10
 6,Riach,David,Westerlands,M40,01:28:36
 7,Minto,Billy,HBT,M40,01:29:13
 8,Rumgay,Ken,Lochaber AC,M40,01:31:17
 9,Anderson,Russell,Moorfoot Runners,M40,01:31:53
-10,Arnott,Neil,Lochaber AC,SM,01:32:00
+10,Arnott,Neil,Lochaber AC,M,01:32:00
 11,Birnie,Andy,Bellahouston Road Runners,M,01:32:05
-12,Walder,Patrick,Shettleston,SM,01:32:20
+12,Walder,Patrick,Shettleston,M,01:32:20
 13,Scott,David,Ochil Hill Runners,M50,01:32:46
-14,Allsop,Gordon,Arran Runners,SM,01:33:30
+14,Allsop,Gordon,Arran Runners,M,01:33:30
 15,Anderson,Laurie,Fife AC,M40,01:33:56
-16,Mykura,Jill,Carnethy,SL,01:34:28
-17,Macbeath,Niall,Lochaber AC,SM,01:34:45
-18,Coy,Thomas,Unattached,SM,01:35:03
-19,Kennedy,Scott,Bellahouston Road Runners,SM,01:35:15
+16,Mykura,Jill,Carnethy,F,01:34:28
+17,Macbeath,Niall,Lochaber AC,M,01:34:45
+18,Coy,Thomas,Unattached,M,01:35:03
+19,Kennedy,Scott,Bellahouston Road Runners,M,01:35:15
 20,Howie,Peter,Larne AC,M50,01:35:29
-21,Mackenzie,Donald,Unattached,SM,01:35:38
-22,Mcgill,Colin,Bellahouston Road Runners,SM,01:35:56
-23,Richardson,William,Irvine AC,SM,01:36:30
+21,Mackenzie,Donald,Unattached,M,01:35:38
+22,Mcgill,Colin,Bellahouston Road Runners,M,01:35:56
+23,Richardson,William,Irvine AC,M,01:36:30
 24,Buchanan,Peter,Ochil Hill Runners,M40,01:37:18
 25,Bass,Owen,Deeside Runners,M40,01:37:38
 26,Mykura,Willie,Carnethy,M40,01:37:40
@@ -30,26 +30,26 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 29,Duggan,Peter,Lochaber AC,M40,01:38:02
 30,Miller,Colin,Irvine AC,M40,01:38:12
 31,Macnab,Graham,Lochaber AC,M40,01:38:50
-32,Caldwell,Alan,Kirkintilloch Olympians,SM,01:38:55
+32,Caldwell,Alan,Kirkintilloch Olympians,M,01:38:55
 33,Robinson,Gordon,Westerlands,M50,01:39:16
 34,Galbraith,Jim,Giffnock North,M40,01:39:31
-35,Fitchie,Martin,Banchory,SM,01:39:40
-36,Maclean,Paul,Lochaber AC,SM,01:40:08
-37,Begley,Tommy,Irvine AC,SM,01:40:16
+35,Fitchie,Martin,Banchory,M,01:39:40
+36,Maclean,Paul,Lochaber AC,M,01:40:08
+37,Begley,Tommy,Irvine AC,M,01:40:16
 38,Macleod,Murdo,Westerlands,M50,01:40:20
-39,Fraser,Garry,Unattached,SM,01:40:53
-40,Wardlaw,Eilidh,HBT,SL,01:41:03
-41,Murray,Alasdair,J W Kilmarnock Harriers,SM,01:41:07
-42,Allerdyce,Alex,Troon Tortoises,SM,01:41:21
-43,Fairgrieve,Andy,Annan & District AC,SM,01:43:19
-44,Welsh,Ewan,Ilkley Harriers,SM,01:43:28
+39,Fraser,Garry,Unattached,M,01:40:53
+40,Wardlaw,Eilidh,HBT,F,01:41:03
+41,Murray,Alasdair,J W Kilmarnock Harriers,M,01:41:07
+42,Allerdyce,Alex,Troon Tortoises,M,01:41:21
+43,Fairgrieve,Andy,Annan & District AC,M,01:43:19
+44,Welsh,Ewan,Ilkley Harriers,M,01:43:28
 45,Kenny,Triss,Skipton,M40,01:43:35
-46,Sullivan,Matthew,Deeside Runners,SM,01:43:54
+46,Sullivan,Matthew,Deeside Runners,M,01:43:54
 47,Semple,Hamilton,Westerlands,M50,01:44:07
-48,Templeman,Simon,Ochil Hill Runners,SM,01:45:10
-49,Roberstson,Stewart,Bellahouston Road Runners,SM,01:45:39
+48,Templeman,Simon,Ochil Hill Runners,M,01:45:10
+49,Roberstson,Stewart,Bellahouston Road Runners,M,01:45:39
 50,Adamson,Richie,Unattached,M40,01:46:11
-51,Smith,Nick,Carnegie Harriers,SM,01:46:41
+51,Smith,Nick,Carnegie Harriers,M,01:46:41
 52,Sullivan,David,Deeside Runners,M50,01:47:47
 53,Corson,Michael,J W Kilmarnock Harriers,M40,01:48:02
 54,Connery,Douglas,Irvine AC,M40,01:48:53
@@ -62,13 +62,13 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 61,Magee,Billy,Larne AC,M60,01:52:11
 62,Cameron,Gordon,Carnethy,M40,01:52:16
 63,Whittington,Russell,Bellahouston Road Runners,M,01:52:28
-64,Roberston,Alistair,Unattached,SM,01:52:53
+64,Roberston,Alistair,Unattached,M,01:52:53
 65,Sneddon,Jim,Irvine AC,M40,01:52:55
-66,Thomson,Derren,Giffnock North,SM,01:53:34
-67,Mathieson,Stuart,Unattached,SM,01:53:43
-68,Menhennet,Christine,Westerlands,W40,01:54:01
+66,Thomson,Derren,Giffnock North,M,01:53:34
+67,Mathieson,Stuart,Unattached,M,01:53:43
+68,Menhennet,Christine,Westerlands,F40,01:54:01
 69,Howie,Brian,Carnethy,M50,01:54:58
-70,Daynes,Ed,Lochaber AC,SM,01:55:03
+70,Daynes,Ed,Lochaber AC,M,01:55:03
 71,Mckeith,Douglas,Unattached,M50,01:55:25
 72,White,James,Irvine AC,M50,01:56:19
 73,Lockwood,Dave,Unattached,M40,01:56:35
@@ -79,21 +79,21 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 78,Hatton,Christopher,Helsby,M50,02:00:31
 79,Gatehouse,Richard,Lomond Hill Runners,M50,02:01:23
 80,Kaushal,Jason,Westerlands,M40,02:03:33
-81,Ness,John,Lochaber AC,W40,02:03:48
-82,Mair,Richard,Unattached,SM,02:04:08
+81,Ness,John,Lochaber AC,F40,02:03:48
+82,Mair,Richard,Unattached,M,02:04:08
 83,Ogg,Bill,Metro Aberdeen,M50,02:05:45
-84,Ross,Susan-Jane,Lochaber AC,SL,02:06:53
+84,Ross,Susan-Jane,Lochaber AC,F,02:06:53
 85,Lathe,Richard,Carnethy,M50,02:08:22
-86,Taylor,Cameron,Bellahouston Road Runners,SM,02:09:14
-87,Mcfarland,Andrew,Unattached,SM,02:10:56
+86,Taylor,Cameron,Bellahouston Road Runners,M,02:09:14
+87,Mcfarland,Andrew,Unattached,M,02:10:56
 88,Stakes,David,Unattached,M40,02:10:56
 89,Mcmanus,Ian,Irvine AC,M60,02:11:15
-90,Macpherson,Helen,Westerlands,W40,02:12:06
+90,Macpherson,Helen,Westerlands,F40,02:12:06
 91,Stevenson,Kenneth,Maryhill Harriers,M40,02:13:33
 92,Stapely,Tony,Portobello,M60,02:16:56
-93,Mclaughlin,Patricia,Westerlands,W50,02:17:50
+93,Mclaughlin,Patricia,Westerlands,F50,02:17:50
 94,Proudfoot,Douglas,Metro Aberdeen,M40,02:17:50
-95,Miller,Mary,Irvine AC,W40,02:19:25
-96,Rumgay,Claire,Lochaber AC,SL,02:22:30
-97,Kitson,Aileen,Lochaber AC,W50,02:23:31
+95,Miller,Mary,Irvine AC,F40,02:19:25
+96,Rumgay,Claire,Lochaber AC,F,02:22:30
+97,Kitson,Aileen,Lochaber AC,F50,02:23:31
 98,Hamilton,Iain,Irvine AC,M60,02:56:44

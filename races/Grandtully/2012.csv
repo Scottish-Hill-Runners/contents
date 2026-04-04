@@ -1,15 +1,15 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Smith,Alan,Deeside Runners,MSV,00:30:30
-2,Simpson,Stuart,Ochill Hill Runners,MV,00:30:57
-3,Robertson,Adrian,Unattached,MS,00:32:23
-4,Weir,Jonathan,Unattached,MS,00:32:45
-5,Young,Phil,Carnethy,MV,00:32:50
-6,Rogers,David,Westerlands,MV,00:33:29
-7,O'Shea,Emma,Deeside Runners,FS,00:34:03
-8,Shaw,Trevor,North Tayside,MV,00:34:18
-9,Oliphant,Piers,Shepperton,MJ16,00:36:14
-10,Oliphant,Pete,Shepperton,MSV,00:40:15
-11,Oliphant,Hana,Shepperton,FJ16,00:43:30
-12,Beaumont,Susan,Lochtayside,FSV,00:44:34
-13,Young,Eleanor,Carnethy,FJ16,00:46:47
-14,Smith,Tony,Winchester,MV,00:59:33
+1,Smith,Alan,Deeside Runners,M40,00:30:30
+2,Simpson,Stuart,Ochill Hill Runners,M,00:30:57
+3,Robertson,Adrian,Unattached,M,00:32:23
+4,Weir,Jonathan,Unattached,M,00:32:45
+5,Young,Phil,Carnethy,M,00:32:50
+6,Rogers,David,Westerlands,M,00:33:29
+7,O'Shea,Emma,Deeside Runners,F,00:34:03
+8,Shaw,Trevor,North Tayside,M,00:34:18
+9,Oliphant,Piers,Shepperton,M16,00:36:14
+10,Oliphant,Pete,Shepperton,M40,00:40:15
+11,Oliphant,Hana,Shepperton,F16,00:43:30
+12,Beaumont,Susan,Lochtayside,F40,00:44:34
+13,Young,Eleanor,Carnethy,F16,00:46:47
+14,Smith,Tony,Winchester,M,00:59:33

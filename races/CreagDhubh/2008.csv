@@ -9,7 +9,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 8,Crone,Gary,u/a [Oxon],M,00:33:27
 9,Ward,Peter,Lochaber AC,M,00:33:41
 10,Macbeath,Niall,Lochaber AC,M40,00:34:03
-11,Simpson,Geoff,Hunters Bog Trotters,1st local,00:34:36
+11,Simpson,Geoff,Hunters Bog Trotters,M,00:34:36
 12,Maclean,Paul,Lochaber AC,M,00:34:45
 13,Rawlik,Konrad,Germany,M,00:35:14
 14,Kennedy,Ali,Lochaber AC,M40,00:35:31
@@ -21,11 +21,11 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 20,Brooks,Graham,Lochaber AC,M50,00:37:06
 21,Law,William,u/a [Auchtermuchty],M,00:37:24
 22,Clark,Niall,Lochaber AC,M,00:37:39
-23,Gordon,Claire,Hunters Bog Trotters,1st female,00:37:45
-24,Houston,Val,Westerlands,2nd female,00:37:45
-25,Higginbottom,Jacqui,Carnethy,3rd female,00:37:55
-26,Forrest,Stuart,Badenoch AC,2nd local,00:38:15
-27,Malcolm,Stuart,u/a [Kingussie],3rd local,00:38:16
+23,Gordon,Claire,Hunters Bog Trotters,F,00:37:45
+24,Houston,Val,Westerlands,F,00:37:45
+25,Higginbottom,Jacqui,Carnethy,F,00:37:55
+26,Forrest,Stuart,Badenoch AC,M,00:38:15
+27,Malcolm,Stuart,u/a [Kingussie],M,00:38:16
 28,Shearer,Graham,"u/a [Kirkwall, Orkney]",M,00:38:30
 29,Beckett,Dan,Hunters Bog Trotters,M,00:38:33
 30,Duncan,David,Ochil HR,M60,00:38:36

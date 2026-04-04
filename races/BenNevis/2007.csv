@@ -1,8 +1,8 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Holmes,Ian,Bingley Harriers,M40,01:32:57
-2,Lightfoot,Ricky,Ellenborough AC,MU23,01:33:54
+2,Lightfoot,Ricky,Ellenborough AC,M23,01:33:54
 3,Hope,Danny,Pudsey & Bramley AC,M,01:34:07
-4,Wild,Finlay,Lochaber Athletic Club,MU23,01:34:11
+4,Wild,Finlay,Lochaber Athletic Club,M23,01:34:11
 5,Gray,Karl,Calder Valley Fell Runners,M,01:34:17
 6,Fanning,Mike,Borrowdale Fell Runners,M,01:34:32
 7,Leigh,Nick,Pudsey & Bramley AC,M,01:37:09
@@ -29,7 +29,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 28,Simpson,Stuart,Ochil Hill Runners,M,01:48:32
 29,Ward,David,Borrowdale Fell Runners,M,01:48:41
 30,Hepburn,John,Lochaber Athletic Club,M40,01:48:50
-31,Little,Robert,Dark Peak Fell Runners,MU23,01:49:15
+31,Little,Robert,Dark Peak Fell Runners,M23,01:49:15
 32,Senior,James,Bingley Harriers,M,01:49:16
 33,Hoyle,Stephen,Rossendale Harriers,M40,01:49:30
 34,Rank,Julian,Holmfirth Harriers,M40,01:49:46
@@ -46,7 +46,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Taylor,Sharon,Bingley Harriers,F,01:52:00
 46,Gay,Jon,Lochaber Athletic Club,M,01:52:12
 47,Scott,David,Ochil Hill Runners,M50,01:52:18
-48,Watson,Sam,Wharfedale Harriers,MU23,01:52:25
+48,Watson,Sam,Wharfedale Harriers,M23,01:52:25
 49,Arnott,Luke,Westerlands CCC,M,01:52:26
 50,Herron,Samuel,Mourne Runners,M,01:52:30
 51,MacInnes,Garry,Carnethy Hill Runners,M40,01:52:31
@@ -96,7 +96,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 95,Khattab,Hassan,Lancaster & Morecambe,M,01:59:10
 96,Atkinson,David,Northumberland Fell Runners,M40,01:59:11
 97,White,David,JW Kilmarnock Harriers,M,01:59:21
-98,Hunn,Stuart,Skipton AC,MU23,01:59:36
+98,Hunn,Stuart,Skipton AC,M23,01:59:36
 99,Waites,Jo,Calder Valley Fell Runners,F,01:59:38
 100,Munro,David,Lochaber Athletic Club,M40,01:59:40
 101,Scott,Tom,Fife AC,M50,01:59:44
@@ -175,7 +175,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 174,Irving,Roger,Annan & District,M40,02:14:56
 175,Robinson,Edward,Settle Harriers,M,02:15:11
 176,Appleby,Jonathan,Highland Hill Runners,M40,02:15:19
-177,Hanna,Richard,Mourne Runners,MU23,02:15:22
+177,Hanna,Richard,Mourne Runners,M23,02:15:22
 178,Blackhall,Amanda,Lochaber Athletic Club,F,02:15:26
 179,Bowie,Tom,Fife AC,M60,02:15:30
 180,Clawson,Steve,Rossendale Harriers,M,02:15:42
@@ -282,7 +282,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 281,Johnston,Stephen,Milburn Harriers,M40,02:30:23
 282,Baldwin,Michael,Denby Dale Travellers,M50,02:30:30
 283,Gow,Elizabeth,Lochaber Athletic Club,F,02:30:37
-284,MacKenzie,Sarah,Lochaber Athletic Club,FU23,02:30:39
+284,MacKenzie,Sarah,Lochaber Athletic Club,F23,02:30:39
 285,Hanlon,David,Dundee Hawkhill Harriers,M50,02:30:40
 286,Close,Andrew,Lancaster & Morecambe,M40,02:31:11
 287,Reed,Peter,Northumberland Fell Runners,M50,02:32:20

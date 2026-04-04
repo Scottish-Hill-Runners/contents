@@ -1,29 +1,29 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Jones,Gary,NFR,MS,01:11:27
+1,Jones,Gary,NFR,M,01:11:27
 2,Hobbs,Tom,Moorfoot,M40,01:12:24
 3,McGovern,Michael,Moorfoot,M40,01:12:53
 4,Gallagher,Ronnie,Carnethy,M50,01:12:57
 5,Simpson,Peter,Carnegie,M50,01:13:38
-6,Hutchinson,Charles,HBT,MS,01:14:49
+6,Hutchinson,Charles,HBT,M,01:14:49
 7,Murray,Keith,Teviotdale,M40,01:17:58
 8,Anderson,Russell,Moorfoot,M50,01:18:10
 9,Hynd,Wull,Moorfoot,M40,01:18:42
 10,MacDonald,Ally,Dundee Hawkhill,M40,01:19:02
-11,Mykura,Jill,Carnethy,FS,01:19:40
+11,Mykura,Jill,Carnethy,F,01:19:40
 12,Short,Kenny,Teviotdale,M40,01:19:41
 13,McCall,Tim,Norham,M40,01:20:14
 14,Murray,Cameron,Carnethy,M40,01:22:10
 15,Duff,John,NFR,M40,01:23:03
-16,King,Steven,Carnegie,MS,01:23:12
+16,King,Steven,Carnegie,M,01:23:12
 17,Davidson,Kenneth,Moorfoot,M40,01:25:33
 18,Brydon,Derrick,Gala,M40,01:26:00
 19,Turnbull,Les,Norham,M50,01:26:36
-20,Bailey,Will Hugh,HBT,MS,01:26:41
-21,Wardlaw,Eilidh,HBT,FS,01:26:55
+20,Bailey,Will Hugh,HBT,M,01:26:41
+21,Wardlaw,Eilidh,HBT,F,01:26:55
 22,Clarke,Martin,Gala,M50,01:27:11
-23,Roberts,Mark,HBT,MS,01:27:34
-24,Connor,Julia,Moorfoot,FS,01:28:25
-25,Gibson,Scott,NFR,MS,01:33:40
+23,Roberts,Mark,HBT,M,01:27:34
+24,Connor,Julia,Moorfoot,F,01:28:25
+25,Gibson,Scott,NFR,M,01:33:40
 26,Stankiewicz,Rob,Norham,M50,01:34:21
 27,Pigg,John,Norham,M50,01:36:52
 28,MacDonald,Gio,Carnethy,M40,01:37:33
@@ -32,16 +32,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 31,Davis,Katherine,NFR,F40,01:38:17
 32,Macaulay,Allan,Carnegie,M50,01:38:26
 33,Renny,Steven,U/A,M40,01:38:27
-34,McKenzie,Forbes,U/A,MS,01:39:26
-35,Hutton,Paul,Carnegie,MS,01:40:35
-36,Tait,Gayle,Motherwell AC,FS,01:40:57
+34,McKenzie,Forbes,U/A,M,01:39:26
+35,Hutton,Paul,Carnegie,M,01:40:35
+36,Tait,Gayle,Motherwell AC,F,01:40:57
 37,Morris,Paul,Gala,M50,01:41:08
 38,West,Alison,Carnegie,F50,01:41:36
 39,Newbiggin,Gary,U/A,M40,01:43:49
 40,Purves,James,Gala,M50,01:44:00
 41,Cranston,Rob,Teviotdale,M40,01:46:31
 42,McWilliams,Glen,NFR,M40,01:46:55
-43,Knight,David,Norham,MS,01:51:00
+43,Knight,David,Norham,M,01:51:00
 44,Cockburn,John,Alnwick,M60,01:51:10
 45,McPherson,Hugh,U/A,M60,01:57:13
 46,Warner,Mark,HBT,M40,02:08:26
