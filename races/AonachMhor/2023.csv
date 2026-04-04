@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Brown,Ewan,Corstorphine AAC,M,00:23:42
 2,Mann,Joe,Highland HR,M,00:23:55
 3,Thorburn,Ewan,Lochaber AC,M,00:24:04
@@ -11,7 +11,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Ross,Alan,Lochaber AC,M40,00:26:42
 11,Farnell,Joe,Totley AC,M,00:27:22
 12,Bentley,Alfie,Lochaber AC,M,00:28:15
-13,Horrocks,Sophie,Carnethy ,F,00:28:48
+13,Horrocks,Sophie,Carnethy,F,00:28:48
 14,Hemstock,Ollie,Unattached,M,00:29:22
 15,Shirley,James,Unattached,M,00:29:32
 16,Brown,Steven,Lochaber AC,M,00:29:41

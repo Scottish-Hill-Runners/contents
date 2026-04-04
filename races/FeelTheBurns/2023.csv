@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Sasha,Carnethy,M,01:24:18
 2,Lennon,Eoin,Carnethy,M,01:32:17
 3,Callan,Thomas,Westerlands CCC,M,01:32:50
@@ -8,7 +8,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 7,Otton,Thomas,Carnethy,M,01:35:18
 8,Fallas,Andrew,Carnethy,M40,01:36:53
 9,Hugtenburg,Kai,HBT,M,01:38:14
-10,Smith,Aidan,Dark Peak ,M,01:38:27
+10,Smith,Aidan,Dark Peak,M,01:38:27
 11,Coombs,Duncan,HBT,M,01:38:50
 12,Scott,Clark,Gala Harriers,M40,01:39:06
 13,Sedman,Eliot,Carnethy,M40,01:40:18
@@ -59,12 +59,12 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 58,McGovern,Michael,Moorfoot Runners,M50,01:57:14
 59,Robson,Scott,Carnethy,M,01:57:34
 60,Sherman,Ronan,Carnethy,M,01:57:38
-61,Morris,John,Edinburgh AC,M,01:57:41
+61,Morris,John,Carnethy,M,01:57:41
 62,Lowe,Rob,Westerlands CCC,M,01:58:09
 63,Griffiths,Evan,Westerlands CCC,M,01:58:20
 64,Ferenbach,Barry,Portobello RC,M,01:58:29
 65,Ronaldson,Bruce,Gala harriers,M,01:59:32
-66,Slifer,Paul,Musselburgh ,M50,01:59:34
+66,Slifer,Paul,Musselburgh,M50,01:59:34
 67,Butler,Ossian,Westerlands CCC,M40,02:00:21
 68,Thin,Jamie,HBT,M50,02:00:59
 69,Girdham,Oliver,Portobello RC,M,02:01:15
@@ -88,12 +88,12 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 87,Peters,Ella,Westerlands CCC,F,02:07:11
 88,Murgatroyd,Anna,Carnethy,F,02:07:33
 89,Tullie,John,Teviotdale Harriers,M60,02:07:45
-90,Henry,Robert,Musselburgh ,M40,02:08:08
+90,Henry,Robert,Musselburgh,M40,02:08:08
 91,MacDonald,Alistair,Bellahouston RR,M50,02:08:39
 92,Allan,Iona,Unattached,F,02:09:05
 93,Painting,Andy,Gala Harriers,M,02:09:45
 94,Wilson,Rob,Penicuik Harriers,M50,02:10:06
-95,Zeiner,Karl,Musselburgh ,M40,02:10:19
+95,Zeiner,Karl,Musselburgh,M40,02:10:19
 96,Duncan,Nicola,Carnethy,F40,02:10:53
 97,Renville,Alan,Carnethy,M50,02:10:57
 98,Challands,Diana,Moorfoot Runners,F40,02:11:01
@@ -149,7 +149,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 148,Elder,Alan,Moorfoot Runners,M60,02:22:46
 149,Janczak,Stuart,Unattached,M,02:22:52
 150,Mott,Andrew,Westerlands CCC,M40,02:22:57
-151,Keast,Mark,Musselburgh ,M40,02:22:59
+151,Keast,Mark,Musselburgh,M40,02:22:59
 152,Fordyce,Kenneth,Carnethy,M50,02:23:11
 153,Williamson,Ben,Carnethy,M,02:23:43
 154,McElroy,Francis,Unattached,M,02:24:08
@@ -163,9 +163,9 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 162,Hosking,Dawn,Durham FR,F40,02:27:09
 163,Henderson,Kate,Lauderdale Limpers,F50,02:27:19
 164,Fraser,Catherine,Carnethy,F,02:28:00
-165,Smith,Kieran,Unattached,M,02:28:15
+165,Smith,Kieran,Penicuik Harriers,M,02:28:15
 166,Suttie,Philip,Unattached,M40,02:28:26
-167,Hume,Megan,Unattached,F40,02:28:42
+167,Hume,Megan,Peebles Tri,F40,02:28:42
 168,Husbands,Jessica,HBT,F,02:28:44
 169,McLaughlin,Neville,Unattached,M40,02:28:58
 170,Williamson,Philip,Unattached,M60,02:29:01
@@ -245,7 +245,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 244,Russo,Deborah,Carnethy,F40,02:59:22
 245,Fry,Mark,Portobello RC,M50,03:00:03
 246,Fraser,Ronald,Dundee RR,M60,03:00:07
-247,Zeiner,Fiona,Musselburgh ,F50,03:01:40
+247,Zeiner,Fiona,Musselburgh,F50,03:01:40
 248,Hunt,Rachel,Westerlands CCC,F40,03:03:22
 249,Cleary,Richard,Dundee RR,M50,03:04:05
 250,Milne,Fiona,Unattached,F40,03:04:15

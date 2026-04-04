@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Alexander,Carnethy,M,00:53:17
 2,Lennon,Eoin,Carnethy,M,00:54:08
 3,McLeod,Alasdair,Shettleston Harriers,M,00:54:35
@@ -12,7 +12,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Gilmore,Andrew,Highland Hill Runners,M,00:58:17
 12,Masson,Alistair,Carnethy,M,00:58:17
 13,van Dijk,Benjamin,Howgill Harriers,M,00:58:30
-14,Battle,Hamish,Metro Aberdeen ,M,00:58:36
+14,Battle,Hamish,Metro Aberdeen,M,00:58:36
 15,Chepelin,Oleg,HBT,M,00:59:26
 16,Collison,Kim,Borrowdale,M,00:59:27
 17,Gardner,Peter,HBT,M,00:59:27
@@ -21,7 +21,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 20,Perry,Adam,Helm Hill Runners,M,01:00:10
 21,Thorburn,Ewan,Lochaber AC,M,01:00:18
 22,Richmond,Kenny,Shettleston Harriers,M50,01:00:29
-23,Khan,Lewis,Edinburgh Uni Tri ,M,01:00:46
+23,Khan,Lewis,Edinburgh Uni Tri,M,01:00:46
 24,Williamson,Clyde,Cosmics,MJ,01:01:01
 25,Harvey,Dougie,Lochaber AC,M,01:01:14
 26,Tresidder,Esmond,Lochaber AC,M40,01:01:23
@@ -68,7 +68,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 67,Mattocks,Craig,Carnethy,M40,01:07:41
 68,Cherry,Joseph,Jesmond Joggers,M,01:07:42
 69,Huxford,Matt,Glossopdale Harriers,M,01:08:01
-70,Pyke,Stephen,Dark Peak ,M50,01:08:02
+70,Pyke,Stephen,Dark Peak,M50,01:08:02
 71,MacDonald,Matt,Lochaber AC,M,01:08:23
 72,Cruickshanks,Ross,Shettleston Harriers,M,01:08:24
 73,Umpleby,Richard,Carnethy,M,01:08:27
@@ -78,7 +78,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 77,Davis,Adrian,Lomonds,M50,01:08:53
 78,Hunt,Hugo,Ambleside AC,M,01:08:56
 79,Baxter,Grant,Ochil Hill Runners,M40,01:09:02
-80,Bird,Matthew,Portobello ,M,01:09:19
+80,Bird,Matthew,Portobello,M,01:09:19
 81,Pugh,Dan,Carnethy,M,01:09:30
 82,Johnston,Fergus,Carnethy,M,01:09:30
 83,Hanna,David,Carnethy,M,01:09:31
@@ -111,9 +111,9 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 110,Reid,Richard,Dunoon Hill Runners,M40,01:11:53
 111,Culshaw,Tim,Glossopdale Harriers,M,01:11:54
 112,Baugh,Mark,Ochil Hill Runners,M40,01:11:55
-113,Bolton,Ryan,Leeds University ,M,01:11:56
+113,Bolton,Ryan,Leeds University,M,01:11:56
 114,Dickie,Adam,Dumfries Running Club,M,01:11:57
-115,Buchanan,Roy,Portobello ,M40,01:12:00
+115,Buchanan,Roy,Portobello,M40,01:12:00
 116,Muir,Jonny,Carnethy,M,01:12:03
 117,Coakley,Alex,Carnethy,M,01:12:07
 118,Wilkinson,Craig,Unattached,M,01:12:14
@@ -123,7 +123,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 122,Marwick,Caroline,Highland Hill Runners,F,01:12:28
 123,Dyer,Bianca,Helm Hill Runners,F40,01:12:30
 124,Crewe,Ruth,Westerlands CCC,F,01:12:32
-125,Partridge,Colin,Lothian ,M40,01:12:43
+125,Partridge,Colin,Lothian,M40,01:12:43
 126,Hemmings,Anthony,Carnethy,M,01:12:47
 127,Sanderson,Stuart,Penicuik Harriers,M50,01:12:50
 128,Noble,Richard,Northern Fells Running Club,M40,01:13:04
@@ -151,7 +151,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 150,Alexander,Mark,Ballymena Runners,M40,01:15:17
 151,Gordon,Neil,Carnethy,M,01:15:21
 152,Welsh,Cailean,Westerlands CCC,M,01:15:24
-153,Wilson,Megan,Dark Peak ,F,01:15:26
+153,Wilson,Megan,Dark Peak,F,01:15:26
 154,Anderson,Ross,Westerlands CCC,M,01:15:40
 155,Maxwell,Kirstin,Gala Harriers,F,01:15:51
 156,Mccall,Tim,Norham Running Club,M50,01:15:54
@@ -193,7 +193,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 192,Entwhistle,Jamie,Lauderdale Limpers,M,01:19:29
 193,Roper,Marc,Westerlands CCC,M50,01:19:36
 194,Bagge,John,Helm Hill Runners,M50,01:20:01
-195,Jepson,Judith,Dark Peak ,F50,01:20:05
+195,Jepson,Judith,Dark Peak,F50,01:20:05
 196,Fan,Antonia,Ambleside AC,F,01:20:07
 197,Allen,Clive,Helm Hill Runners,M50,01:20:08
 198,Maxwell,Ian,Gala Harriers,M50,01:20:12
@@ -208,7 +208,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 207,Holland,Arianne,Carnegie Harriers,F,01:20:34
 208,Ogilvie,Charles,Carnethy,M40,01:20:35
 209,Holland,Lee,Carnegie Harriers,M50,01:20:36
-210,Buchanan,Peter,Portobello ,M50,01:20:40
+210,Buchanan,Peter,Portobello,M50,01:20:40
 211,Titmuss,Simon,Carnethy,M40,01:20:53
 212,Simpson,Peter,Carnegie Harriers,M60,01:20:56
 213,Neilson,Norman,Hartfell HRC,M60,01:20:58
@@ -216,8 +216,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 215,Martindale,Andrew,Northern Fells Running Club,M50,01:21:08
 216,Mercer,Louise,Ambleside AC,F,01:21:11
 217,Murray,Tim,Helm Hill Runners,M50,01:21:13
-218,Meldrum,Alasdair,Ayr Seaforth ,M40,01:21:16
-219,Cluley,Ben,Portobello ,M40,01:21:28
+218,Meldrum,Alasdair,Ayr Seaforth,M40,01:21:16
+219,Cluley,Ben,Portobello,M40,01:21:28
 220,Magill,Catherine,HBT,F,01:21:34
 221,Malcolmson,Craig,Hartfell HRC,M50,01:21:38
 222,Hogg,Alan,Carnethy,M60,01:21:41
@@ -246,7 +246,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 245,Anderson,Laurie,Lomonds,M60,01:23:43
 246,Garside,Richard,Ochil Hill Runners,M40,01:23:44
 247,Murphy,Lee,Carnethy,M40,01:23:50
-248,Galloway,Michael,Dundee Hawkhill ,M50,01:23:52
+248,Galloway,Michael,Dundee Hawkhill,M50,01:23:52
 249,Appleyard,David,Helm Hill Runners,M50,01:23:53
 250,Simkin,Steven,Carnethy,M40,01:23:54
 251,Campbell,Scot,Springburn Harriers,M40,01:23:54
@@ -265,7 +265,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 264,Mcbirnie,Kirsty,Carnethy,F40,01:25:08
 265,Mitchell,Rory,Carnethy,M40,01:25:09
 266,Waterhouse,Bob,Carnethy,M60,01:25:11
-267,Pound,Oliver,Portobello ,M40,01:25:14
+267,Pound,Oliver,Portobello,M40,01:25:14
 268,Lopez,Ailsa,Lochaber AC,F,01:25:18
 269,McCloy,Michael,Carnethy,M40,01:25:18
 270,Simpson,Jo,Ambleside AC,F,01:25:24
@@ -291,7 +291,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 290,Ascroft,Lorna,Carnethy,F40,01:27:17
 291,Gibson,Innes,Edinburgh Racing Club,M50,01:27:18
 292,Brennan,Brian,Westerlands CCC,M60,01:27:31
-293,Macvarish,Christine,Lothian ,F40,01:27:33
+293,Macvarish,Christine,Lothian,F40,01:27:33
 294,Anderson,Joanne,Carnethy,F40,01:27:35
 295,Hartree,Mark,Carnethy,M50,01:27:43
 296,Howard,Mike,Musselburgh and District AC,M50,01:27:44
@@ -309,7 +309,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 308,Cunningham,Kerry,Westerlands CCC,F,01:28:48
 309,Reis,Rodrigo,Shettleston Harriers,M40,01:28:49
 310,Carson,John,West Lothian Triathlon,M,01:28:58
-311,Stewart,Graeme,Portobello ,M,01:29:02
+311,Stewart,Graeme,Portobello,M,01:29:02
 312,Duncan,Andy,Musselburgh and District AC,M50,01:29:05
 313,Stevens,Georgia,Helm Hill Runners,F,01:29:20
 314,Davies,Jason,Ochil Hill Runners,M40,01:29:24
@@ -322,11 +322,11 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 321,Purves,Denise,Lomonds,F50,01:29:56
 322,Mccullough,Stephen,Edinburgh Road Club,M50,01:30:03
 323,Pugh,Roderick,Kilmarnock Harriers,M60,01:30:17
-324,Pettigrew,Iain,Ayr Seaforth ,M50,01:30:41
+324,Pettigrew,Iain,Ayr Seaforth,M50,01:30:41
 325,Bowman,Angus,Lomonds,M60,01:30:42
 326,Stewart,Brian,Edinburgh Running Network,M40,01:30:43
-327,McAdam,Sarah,Portobello ,F,01:30:45
-328,Kirk,Simon,Ayr Seaforth ,M40,01:30:49
+327,McAdam,Sarah,Portobello,F,01:30:45
+328,Kirk,Simon,Ayr Seaforth,M40,01:30:49
 329,Wright,Frances,Deeside Runners,F,01:30:52
 330,Mclennan,Jean,Dunoon Hill Runners,F60,01:30:56
 331,Eadie,Gordon,Carnethy,M60,01:30:58
@@ -339,7 +339,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 338,Wallace,Sandy,HELP,M60,01:31:25
 339,Massey,Sarah,Carnethy,F40,01:31:27
 340,Walker,Sean,Carnethy,M40,01:31:31
-341,Godfrey,Kevin,Lothian ,M50,01:31:34
+341,Godfrey,Kevin,Lothian,M50,01:31:34
 342,Cameron,Gordon,Carnethy,M60,01:31:36
 343,Taylor,Laura,Northumberland Fell Runners,F,01:31:38
 344,McIntyre,Kenneth,Lochaber AC,M50,01:31:40
@@ -369,7 +369,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 368,Bray,Kevin,Morpeth Harriers & AC,M60,01:33:55
 369,White,Thomas,Harmeny AC,M60,01:34:30
 370,Boyd,Helen,Carnethy,F40,01:34:45
-371,Bowie,Greg,Ayr Seaforth ,M40,01:34:58
+371,Bowie,Greg,Ayr Seaforth,M40,01:34:58
 372,Downham,Lucy,Ambleside AC,F,01:35:14
 373,Blackburn,Colin,Northumberland Fell Runners,M50,01:35:15
 374,Firth,Andrew,Clayton-le-Moors Harriers,M60,01:35:20
@@ -407,7 +407,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 406,Heron,Gregor,Carnethy,M50,01:39:32
 407,Milne,Ron,Forfar Road Runners,M60,01:39:38
 408,Davenport,Craig,Penicuik Harriers,M40,01:39:42
-409,Marsh,Duncan,Dark Peak ,M40,01:39:46
+409,Marsh,Duncan,Dark Peak,M40,01:39:46
 410,Crowe,Kate,Penicuik Harriers,F50,01:40:06
 411,Kiely,Mary,Carnethy,F50,01:40:12
 412,Kidman,Phil,Dunoon Hill Runners,M60,01:40:24
@@ -417,7 +417,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 416,Ailano,David,Northumberland Fell Runners,M50,01:41:03
 417,Kershaw,Daniel,Falkland Trail Runners,M40,01:41:06
 418,McKechnie,John,West Lothian Triathlon,M,01:41:20
-419,Hunter,Mary,Portobello ,F50,01:41:26
+419,Hunter,Mary,Portobello,F50,01:41:26
 420,Elliott,Dorothy,Carnethy,F50,01:41:30
 421,Scott,Jocelyn,Fife Athletic Club,F60,01:41:35
 422,Innes,Nicki,Carnethy,F50,01:41:35
@@ -432,7 +432,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 431,Till,Dave,Skye & Lochalsh Running Club,M60,01:43:53
 432,Landels,Brian,Lomonds,M50,01:44:14
 433,Gorman,Duncan,Westerlands CCC,M,01:44:17
-434,Forte,Phil,Dundee Hawkhill ,M60,01:44:31
+434,Forte,Phil,Dundee Hawkhill,M60,01:44:31
 435,Sloan,Robin,Carnethy,M70,01:44:59
 436,Schierloh,Nick,Carnethy,M60,01:45:29
 437,Wade,Richard,Holmfirth Harriers AC,M50,01:45:39
@@ -445,7 +445,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 444,Acheson,Jessica,Lochaber AC,F,01:47:01
 445,Foster,Sarah,Carnethy,F40,01:47:25
 446,Bowman,Jean,Lomonds,F60,01:47:48
-447,Alexander,Jim,Lothian ,M50,01:48:37
+447,Alexander,Jim,Lothian,M50,01:48:37
 448,Larmour,Pauline,Cosmics,F50,01:48:58
 449,Murdoch,Ray,Lochaber AC,M70,01:49:03
 450,Caka,Mirsie,Bellahouston Road Runners,F40,01:49:10
@@ -460,7 +460,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 459,Brown,Mairi,Carnethy,F50,01:52:00
 460,Chisholm,Alison,Carnethy,F40,01:52:12
 461,Moss,Ruth,Carnethy,F40,01:52:23
-462,Scott,Ewart,Lothian ,M70,01:52:25
+462,Scott,Ewart,Lothian,M70,01:52:25
 463,Paul,Gillian,Carnethy,F70,01:53:02
 464,Borthwick,Carol,Fetch Everyone,F50,01:53:14
 465,Doyle,Tim,Penicuik Harriers,M50,01:53:15
@@ -493,7 +493,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 492,Paul,Brenda,Westerlands CCC,F40,02:03:42
 493,Jones,Fran,Penicuik Harriers,F50,02:04:12
 494,King,Shelagh,Gala Harriers,F60,02:05:46
-495,Gray,Kirsty,Lothian ,F,02:05:48
+495,Gray,Kirsty,Lothian,F,02:05:48
 496,Downie,Chris,Penicuik Harriers,M50,02:05:50
 497,Ingham,Cali,Carnethy,F60,02:07:01
 498,Wilson,Graeme,Carnethy,M50,02:07:47

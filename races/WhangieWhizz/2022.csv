@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Pulham,Harry,Shettleston Harriers,M,00:31:05
 2,Feltbower,Steve,Ochil HR,M40,00:31:36
 3,Hinchcliffe,Alex,Carnethy,M,00:31:46
@@ -55,7 +55,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Reid,Don,Westerlands CCC,M60,00:41:02
 55,Felstead,Maaike,Unattached,F,00:41:23
 56,Myatt,Rona,Westerlands CCC,F,00:41:30
-57,Patel ,Karen,West End RR,F40,00:42:04
+57,Patel,Karen,West End RR,F40,00:42:04
 58,Kelly,Graham,Westerlands CCC,M50,00:42:13
 59,Barwick,Holly,Westerlands CCC,F,00:42:14
 60,Rivers,Steve,Unattached,M40,00:42:16

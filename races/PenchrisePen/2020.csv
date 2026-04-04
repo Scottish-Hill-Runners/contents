@@ -1,14 +1,14 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Griffin,Sam,Aberdeen AAC,M,00:33:20
 2,Wilkinson,Marc,Lauderdale Limpers RC,M,00:34:30
 3,Stewart,Iain,Westerlands CCC,M40,00:35:13
-4,Lavin,Daniel,Carnethy ,M,00:35:26
+4,Lavin,Daniel,Carnethy,M,00:35:26
 5,MacNeil,Sam,Edinburgh AC,M,00:35:31
-6,Muir,Jonny,Carnethy ,M,00:35:36
+6,Muir,Jonny,Carnethy,M,00:35:36
 7,Williams,Colin,Moorfoot Runners,M40,00:36:57
 8,Lockie,Duncan,Teviotdale Harriers,M,00:36:59
 9,Bandeen,Sam,Unattached,M,00:37:22
-10,Riggans,Liam,Carnethy ,M,00:38:37
+10,Riggans,Liam,Carnethy,M,00:38:37
 11,Gilmour,Andrew David,Unattached,M40,00:39:35
 12,Ker,Gregor,Lauderdale Limpers RC,M,00:40:28
 13,Smith,Brian,Moorfoot Runners,M40,00:42:37

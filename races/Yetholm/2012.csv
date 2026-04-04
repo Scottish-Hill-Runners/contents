@@ -1,89 +1,89 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Aggleton,Hugh,MDC,M,1:07:58
-2,Faulkner,Paul,Carnethy,M,1:09:08
-3,Sanderson,Philip,Elswick Harriers,M40,1:10:09
-4,Fulton,David,HBT,M,1:10:35
-5,Stewart,Iain,Westerlands,M,1:11:26
-6,Bennett,Lee,Northumberland FR,M40,1:11:43
-7,Hutchinson,Charles,HBT,M,1:13:03
-8,Winter,Chris,Northumberland FR,M,1:14:49
-9,Millar,David,Ochil Hill Runners,M,1:15:21
-10,Jones,Gary,Northumberland FR,M,1:15:32
-11,Fletcher,Adam,Alnwick Harriers,M40,1:16:40
-12,Simpson,Peter,Carnegie Harriers,M50,1:16:58
-13,Cox,Andrew,Moorfoot Runners,M,1:17:31
-14,Mykura,Jill,Carnethy,F,1:17:36
-15,Crombie,Bruce,Alnwick Harriers,M,1:18:32
-16,Baty,John,North Shields Poly,M40,1:19:30
-17,Gilmore,Andrew,Highland Hill Runners,M,1:21:07
-18,Sims,Andrew,HBT,M,1:22:18
-19,Horsfall,Brian,Wakefield Harriers,M40,1:22:47
-20,Morris,Neil,Low Fell Running Club,M40,1:23:36
-21,Gilmore,Neil,Carnethy,M40,1:24:22
-22,Grove,Matthew,Carnethy,M40,1:24:41
-23,McCall,Tim,Norham RC,M50,1:25:13
-24,Rooney,Edmund,Lauderdale Limpers,M50,1:25:16
-25,McCall,Colin,Gala Harriers,M,1:26:11
-26,Humphries,Phil,Carnethy,M40,1:27:46
-27,Davie,Kevin,Carnegie Harriers,M,1:27:53
-28,Charles,Andrew,Durham Fell Runners,M50,1:27:58
-29,Connor,Julia,Unattached,F,1:28:13
-30,Runciman,George,Lauderdale Limpers,M50,1:29:55
-31,Bowman,Angus,Lomond Hill Runners,M50,1:30:12
-32,Sleggs,Paul,HBT,M,1:30:26
-33,Symington,Stuart,Dunbar RC,M50,1:30:28
-34,Pikett,William,Norham RC,M40,1:30:29
-35,Walker,Ewan,Norham RC,M,1:30:35
-36,Fagan,Rachel,Gala Harriers,F,1:30:36
-37,Brydon,Derrick,Gala Harriers,M40,1:30:37
-38,Stankiewicz,Rob,Norham RC,M50,1:31:01
-39,Paul,Alastair,Northumberland FR,M50,1:31:27
-40,Davinson,Mark,Derwentside AC,M,1:32:05
-41,McCallum,Alasdair,Norham RC,M40,1:32:16
-42,Henry,Graham,Portobello,M40,1:32:18
-43,Lawrence,Will,Northumberland FR,M50,1:32:31
-44,Mitchell,Neill,Fife AC,M40,1:32:33
-45,Robertson,Ally,Carnethy,M,1:32:43
-46,Tunstall,Denise,Durham Fell Runners,F40,1:32:55
-47,McLean,Graham,Corstorphine,M50,1:33:12
-48,O`Brien,Phyllis,HBT,F50,1:33:41
-49,Forsyth,Catherine,Unattached,F,1:33:42
-50,Collins,Trevor,Carnethy,M50,1:33:56
-51,Middleton,Andy,Elswick Harriers,M,1:33:57
-52,Stephens,Rob,Northumberland FR,M50,1:34:43
-53,Duff,Bill,Falkland Trail Runners,M60,1:35:04
-54,Gilmore,Iain,Carnethy,M,1:35:52
-55,McWilliams,Glen,Northumberland FR,M50,1:36:13
-56,Tough,Colin,Gala Harriers,M40,1:36:36
-57,Sinclair,Melanie,Unattached,F,1:38:35
-58,Reynolds,Colin,Carnegie Harriers,M40,1:39:27
-59,Law,David,Corstorphine,M50,1:40:51
-60,Rutherford,Craig,Norham RC,M,1:41:54
-61,Marsh,Duncan,Dark Peak,M40,1:42:53
-62,MacPherson,Helen,Westerlands,F50,1:43:02
-63,Curry,Steve,Elswick Harriers,M50,1:43:36
-64,Dunn,Nicola,Carnethy,F40,1:44:24
-65,Jones,Mike,Norham RC,M40,1:44:35
-66,Peberdy,Bridget,Alnwick Harriers,F50,1:44:56
-67,Martin,Kim,Unattached,F,1:45:04
-68,Cochrane,Sheila,Unattached,F40,1:45:06
-69,Jardin,David,Elswick Harriers,M40,1:45:49
-70,Drozdowicz,Marie Louise,Elswick Harriers,F50,1:45:54
-71,Warner,Mark,HBT,M40,1:46:46
-72,Broadhurst,Lorna,Harmeny AC,F50,1:46:56
-73,Walker,Peter,Carnethy,M40,1:47:29
-74,Fleming,Morna,Pitreavie,F50,1:47:51
-75,Reynolds,Lesley,Carnegie Harriers,F40,1:48:28
-76,Duncan,David,Ochil Hill Runners,M50,1:48:43
-77,Craig,Carrie,HBT,F,1:48:48
-78,Smith,Janice,HBT,F50,1:49:10
-79,Stoddart,Kirsty,Harmeny AC,F40,1:49:41
-80,Sommerville,Jim,Holmfirth Harriers,M60,1:51:42
-81,Cockburn,John,Alnwick Harriers,M60,1:53:05
-82,Atwell,Kevin,Northumberland FR,M50,1:53:05
-83,MacKenzie,Becky,Unattached,F,1:53:54
-84,McKenzie,Forbes,Unattached,M,1:57:59
-85,Whewell,Peter,North York Moors AC,M60,2:03:04
-86,Hay,Debz,Anster Haddies,F40,2:05:32
-87,Shaw,Hilary,Saltwell Harriers,F50,2:15:28
-88,Hay,George,Anster Haddies,M40,2:27:29
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,AGGLETON,Hugh,Mynyddwyr De Cmyru,Senior Men,01:07:58
+2,FAULKNER,Paul,Carnethy Hill RC,Senior Men,01:09:08
+3,SANDERSON,Philip,Elswick Harriers,Veteran 40 Men,01:10:09
+4,FULTON,David,Hunters Bog Trotters,Senior Men,01:10:35
+5,STEWART,Iain,Westerlands CCC,Senior Men,01:11:26
+6,BENNETT,Lee,Northumberland FR,Veteran 40 Men,01:11:43
+7,HUTCHINSON,Charles,Hunters Bog Trotters,Senior Men,01:13:03
+8,WINTER,Chris,Northumberland FR,Senior Men,01:14:49
+9,MILLAR,Davie,Carnegie Harriers,Senior Men,01:15:21
+10,JONES,Gary,Northumberland FR,Senior Men,01:15:32
+11,FLETCHER,Adam,Berwick Harriers,Veteran 40 Men,01:16:40
+12,SIMPSON,Peter,Carnegie Harriers,Veteran 50 Men,01:16:58
+13,COX,Andrew,Moorfoot Runners,Senior Men,01:17:31
+14,MYKURA,Jill,Carnethy Hill RC,Senior Ladies,01:17:36
+15,CROMBE,Bruce,Alnwick H.,Senior Men,01:18:32
+16,BATY,John,North Shields Polytechnic AC,Veteran 40 Men,01:19:30
+17,GILMORE,Andrew,Carnethy Hill RC,Senior Men,01:21:07
+18,SIMS,Andrew,Hunters Bog Trotters,Senior Men,01:22:18
+19,HORSFALL,Brian,Wakefield H.,Veteran 40 Men,01:22:47
+20,MORRIS,Neil,Low Fell RC,Veteran 40 Men,01:23:36
+21,GILMORE,Neil,Carnethy Hill RC,Veteran 40 Men,01:24:22
+22,GROVE,Matthew,Carnethy Hill RC,Veteran 40 Men,01:24:41
+23,MCCALL,Tim,Norham RC,Veteran 50 Men,01:25:13
+24,ROONEY,Edmund,Lauderdale Limpers,Veteran 50 Men,01:25:16
+25,MCCALL,Colin,Gala Harriers,Senior Men,01:26:11
+26,HUMPHRIES,Phil,Carnethy Hill RC,Veteran 40 Men,01:27:46
+27,DAVIE,Kevin,Carnegie Harriers,Senior Men,01:27:53
+28,CHARLES,Andrew,Durham FR,Veteran 50 Men,01:27:58
+29,CONNOR,Julia,Moorfoot Runners,Senior Ladies,01:28:13
+30,RUNCIMAN,George,Lauderdale Limpers,Veteran 50 Men,01:29:55
+31,BOWMAN,Angus,Lomond Hill Runners AAC,Veteran 50 Men,01:30:12
+32,SLEGGS,Paul,Unattached,Senior Men,01:30:26
+33,SYMINGTON,Stuart,Dunbar RC,Veteran 50 Men,01:30:28
+34,PIKETT,William,Norham RC,Veteran 40 Men,01:30:29
+35,WALKER,Ewan,Norham RC,Senior Men,01:30:35
+36,FAGAN,Rachel,Gala Harriers,Senior Ladies,01:30:36
+37,BRYDON,Derrick,Gala Harriers,Veteran 40 Men,01:30:37
+38,STANKIEWICZ,Rob,Norham RC,Veteran 50 Men,01:31:01
+39,PAUL,Alastair,Northumberland FR,Veteran 50 Men,01:31:27
+40,DAVINSON,Mark,Derwentside AC,Senior Men,01:32:05
+41,MCCALLUM,Alasdair,Unattached,Veteran 40 Men,01:32:16
+42,HENRY,Graham,Portobello RC,Veteran 40 Men,01:32:18
+43,LAWRENCE,Will,Unattached,Veteran 50 Men,01:32:31
+44,MITCHELL,Neil,Fife AC,Veteran 40 Men,01:32:33
+45,MOUSE,Mike,Carnethy Hill RC,Senior Men,01:32:43
+46,TUNSTALL,Denise,Durham FR,Veteran 40 Ladies,01:32:55
+47,MCLEAN,Graham,Corstophine AAC,Veteran 50 Men,01:33:12
+48,O'BRIEN,Phyllis,Hunters Bog Trotters,Veteran 50 Ladies,01:33:41
+49,FORSYTH,Catherine,Unattached,Senior Ladies,01:33:42
+50,COLLINS,Trevor,Carnethy Hill RC,Veteran 50 Men,01:33:56
+51,MIDDLETON,Andy,Elswick Harriers,Senior Men,01:33:57
+52,STEPHENS,Rob,Northumberland FR,Veteran 50 Men,01:34:43
+53,DUFF,Bill,Carnegie Harriers,Veteran 60 Men,01:35:04
+54,GILMORE,Iain,Carnethy Hill RC,M,01:35:52
+55,MCWILLIAMS,Glen,Northumberland FR,Veteran 50 Men,01:36:13
+56,TOUGH,Colin,Lauderdale Limpers,Veteran 40 Men,01:36:36
+57,SINCLAIR,Melanie,Carnegie Harriers,Senior Ladies,01:38:35
+58,REYNOLDS,Colin,Carnegie Harriers,Veteran 40 Men,01:39:27
+59,LAW,David,Corstophine AAC,Veteran 50 Men,01:40:51
+60,RUTHERFORD,Craig,Norham RC,Senior Men,01:41:54
+61,MARSH,Duncan,Thame Runners,Veteran 40 Men,01:42:53
+62,MACPHERSON,Helen,Westerlands CCC,Veteran 50 Ladies,01:43:02
+63,CURRY,Stevie,Elswick Harriers,Veteran 50 Men,01:43:36
+64,DUNN,Nicola,Carnethy Hill RC,Veteran 40 Ladies,01:44:24
+65,JONES,Michael,Norham RC,Veteran 40 Men,01:44:35
+66,PEBERDY,Bridget,Alnwick H.,Veteran 50 Ladies,01:44:56
+67,MARTIN,Kim,Unattached,Senior Ladies,01:45:04
+68,COCHRANE,Sheila,Unattached,Veteran 40 Ladies,01:45:06
+69,JARDIN,David,Elswick Harriers,Veteran 40 Men,01:45:49
+70,DROZDOWICZ,Marie,Northumberland FR,Veteran 50 Ladies,01:45:54
+71,WARNER,Mark,Hunters Bog Trotters,Veteran 40 Men,01:46:46
+72,BROADHURST,Lorna,Harmeny AC,Veteran 50 Ladies,01:46:56
+73,WALKER,Peter,Carnethy Hill RC,Veteran 40 Men,01:47:29
+74,FLEMING,Morna,Carnegie Harriers,Veteran 50 Ladies,01:47:51
+75,HALSTEAD,Lesley,Carnegie Harriers,Veteran 40 Ladies,01:48:28
+76,DUNCAN,David,Ochil Hill Runners,Veteran 50 Men,01:48:43
+77,CRAIG,Carrie,Hunters Bog Trotters,Senior Ladies,01:48:48
+78,SMITH,Janice,Hunters Bog Trotters,Veteran 50 Ladies,01:49:10
+79,STODDART,Kirsty,Harmeny AC,Veteran 40 Ladies,01:49:41
+80,SOMMERVILLE,Jim,Holmfirth H.,Veteran 60 Men,01:51:42
+81,COCKBURN,John,Alnwick H.,Veteran 60 Men,01:53:05
+82,ATWELL,Kevin,Northumberland FR,Veteran 50 Men,01:53:05
+83,MACKENZIE,Becky,Carnethy Hill RC,Senior Ladies,01:53:54
+84,MCKENZIE,Forbes,Unattached,Senior Men,01:57:59
+85,WHEWELL,Peter,Northumberland FR,Veteran 60 Men,02:03:04
+86,HAY,Debbie,Anster Haddies RC,Veteran 40 Ladies,02:05:32
+87,SHAW,Hilary,Saltwell H.,Veteran 50 Ladies,02:15:28
+88,HAY,George,Anster Haddies RC,Veteran 40 Men,02:27:29

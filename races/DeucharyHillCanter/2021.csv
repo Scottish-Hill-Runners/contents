@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,01:22:23
 2,Cooper,Kieran,University of St. Andrews,M,01:23:34
 3,Davis,Andrew,Ochil Hill Runners,M40,01:24:55
@@ -17,7 +17,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 16,Barnet,James,Unattached,M,01:47:17
 17,Allik,Mirjam,Clydeside Orienteers,F,01:47:43
 18,Garside,Richard,Ochil Hill Runners,M40,01:48:13
-19,Gillies,Sam,Carnethy ,M,01:51:20
+19,Gillies,Sam,Carnethy,M,01:51:20
 20,Tippetts,Hannah,Unattached,F,01:51:26
 21,Brown,Graeme,Dundee RR,M40,01:51:43
 22,Kettles,Allan,Dundee RR,M50,01:54:30
@@ -26,7 +26,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Gatherer,Lynn,Highland Hill Runners,F40,01:57:05
 26,Stubbs,Dave,Dunblane Runners,M40,01:58:51
 27,Tait-Westwell,Amy,Falkland Trail Runners,F,01:59:16
-28,Canavan,Fíona,Dundee RR,F,02:00:17
+28,Canavan,F?ona,Dundee RR,F,02:00:17
 29,Dawson,Jan,Penicuik Harriers,F40,02:03:14
 30,Ward,Ausrine,Kirkintilloch Olympians,F40,02:03:47
 31,Thompson,Fabienne,Perth Road Runners,F50,02:04:01

@@ -1,53 +1,53 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Hill,Chris,Cosmics,M,0:50:27
-2,Bartlett,Graeme,Forres Harriers,M40,0:52:26
-3,Tomlin,Chris,Cosmics,M40,0:52:50
-4,Williamson,Jason,Cosmics,M40,0:53:01
-5,Sealy,Alan,Deeside Runners,M40,0:53:04
-6,Kerridge,Donald,Deeside Runners,M40,0:54:19
-7,Jack,Tony,Metro Aberdeen,M40,0:55:34
-8,Bain,Andy,Deeside Runners,M40,0:56:19
-9,Murray,Rab,The Darkside,M40,0:56:23
-10,Angus,Gerald,Keith & District AAC,M40,0:56:58
-11,Henry,Peter,Deeside Runners,M,0:57:39
-12,Addy,Stephen,Cosmics,M,0:58:26
-13,Duggan,David,Unattached,M,0:58:46
-14,Rennie,Nick,Unattached,M40,0:59:00
-15,Larmour,Colin,Cosmics,M40,0:59:05
-16,MacKenzie,Ruth,Deeside Runners,F40,1:00:35
-17,Forrest,Stuart,Highland Hill Runners,M,1:00:43
-18,McMurtrie,Andrew,Cosmics,M40,1:00:47
-19,Williams,Rupert,Cosmics,M50,1:01:52
-20,Taylor,Gordie,Lochaber AC,M40,1:02:24
-21,Hastie,Sandy,Peterhead Running Club,M50,1:03:03
-22,Monk,Kenny,Garioch Road Runners,M40,1:04:04
-23,Watt,Malcolm,Garioch Road Runners,M,1:04:14
-24,Clark,David,Garioch Road Runners,M40,1:04:15
-25,Shaw,Trevor,Lochtayside,M40,1:04:19
-26,Dewhurst,David,Garioch Road Runners,M40,1:04:42
-27,Mann,Phil,Metro Aberdeen,M50,1:05:20
-28,Ingram,Jim,Ythan CC,M50,1:05:50
-29,McLeod,Roddy,Metro Aberdeen,M40,1:06:11
-30,Kirkwood,Aileen,Garioch Road Runners,F40,1:06:26
-31,Smith,Lynn,Cosmics,F40,1:06:29
-32,Campbell,Liz,Unattached,F,1:06:33
-33,Hamilton,Ian,Cosmics,M50,1:06:51
-34,Clark,Lesley,Cosmics,F,1:07:15
-35,Litterick,Tom,Aberdeen AAC,M40,1:08:09
-36,Broomfield,Andrew,Garioch Road Runners,M,1:08:39
-37,Crewe,Ruth,Westerlands,F,1:08:40
-38,Watt,Mike,The Darkside,M40,1:08:54
-39,Rhind,Nicola,Stonehaven RC,F,1:09:05
-40,Black,Colleen,The Darkside,F,1:09:23
-41,Kibble,Jeremy,Metro Aberdeen,M,1:10:26
-42,Oliver,David,Deeside Runners,M50,1:10:55
-43,Thom,Josephine,Stonehaven RC,F40,1:11:07
-44,Angus,Mel,Aberdeen AAC,F40,1:12:08
-45,Bryce,Murray,Cosmics,M50,1:12:18
-46,Taylor,Colin,Cosmics,M50,1:12:30
-47,Macdougall,Ken,Tinto Hill Runners,M,1:14:32
-48,Stewart,Elaine,Cosmics,F50,1:16:15
-49,Oliver,Jane,Deeside Runners,F50,1:20:21
-50,Khan,Mohammed,Dumfries RC,M,1:20:43
-51,Larmour,Pauline,Cosmics,F40,1:25:48
-52,Allen,Gordon,Unattached,M,1:32:00
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Hill,Chris,Cosmic HB,SM(1),00:50:27
+2,Bartlett,Graeme,Forres Harrs,VM(1),00:52:26
+3,Tomlin,Chris,Cosmic HB,VM(2),00:52:50
+4,Williamson,Jason,Cosmic HB,VM(3),00:53:01
+5,Sealy,Alan,Deeside Runs,VM(4),00:53:04
+6,Kerridge,Donald,Deeside Runs,VM(5),00:54:19
+7,Jack,Tony,Metro Abdn,VM(6),00:55:34
+8,Bain,Andy,Maroc OC,VM(7),00:56:19
+9,Murray,Rab,The Darkside,VM(8),00:56:23
+10,Angus,Gerald,Keith & Dist,VM(9),00:56:58
+11,Henry,Peter,Deeside Runs,SM(2),00:57:39
+12,Addy,Steve,Unattached,SM(3),00:58:26
+13,Duggan,David,Unattached,SM(4),00:58:46
+14,Rennie,Nick,Unattached,VM(10),00:59:00
+15,Larmour,Colin,Cosmic HB,VM(11),00:59:05
+16,MacKenzie,Ruth,Deeside Runs,VL(1),01:00:35
+17,Forrest,Stuart,Highland HR,SM(5),01:00:43
+18,McMurtrie,Andrew,Cosmic HB,VM(12),01:00:47
+19,Williams,Rupert,Cosmic HB,SVM(1),01:01:52
+20,Taylor,Gordie,Highland HR,VM(13),01:02:24
+21,Hastie,Sandy,Peterhead,SVM(2),01:03:03
+22,Monk,Kenny,Garioch RR,VM(14),01:04:04
+23,Watt,Malcolm,The Darkside,SM(6),01:04:14
+24,Clark,David,Garioch RR,SM(7),01:04:15
+25,Shaw,Trevor,Lochtayside,VM(15),01:04:19
+26,Dewhurst,David,Chapel Cheetahs,VM(16),01:04:42
+27,Mann,Phil,Unattached,SVM(3),01:05:20
+28,Ingram,Jim,Unattached,SVM(4),01:05:50
+29,McLeod,Roddy,Metro Abdn,VM(17),01:06:11
+30,Kirkwood,Aileen,Garioch RR,VL(2),01:06:26
+31,Smith,Lynn,Cosmic HB,VL(3),01:06:29
+32,Campbell,Liz,Unattached,SL(1),01:06:33
+33,Hamilton,Ian,Cosmic HB,SVM(5),01:06:51
+34,Clark,Lesley,Garioch RR,SL(2),01:07:15
+35,Litterick,Tom,Aberdeen AAC,VM(18),01:08:09
+36,Broomfield,Andrew,The Darkside,SM(8),01:08:39
+37,Crewe,Ruth,Unattached,SL(3),01:08:40
+38,Watt,Mike,The Darkside,VM(19),01:08:54
+39,Rhind,Nicola,Unattached,SL(4),01:09:05
+40,Black,Colleen,The Darkside,SL(5),01:09:23
+41,Kibble,Jeremy,Unattached,SM(9),01:10:26
+42,Oliver,David,Deeside Runs,SVM(6),01:10:55
+43,Thom,Jo,Stonehaven,VL(4),01:11:07
+44,Angus,Mel,Fat Bobs,VL(5),01:12:08
+45,Bryce,Murray,Cosmic HB,SVM(7),01:12:18
+46,Taylor,Colin,Cosmic HB,SVM(8),01:12:30
+47,MacDougall,Ken,Tinto,SM(10),01:14:32
+48,Stewart,Elaine,Cosmic HB,SVL(1),01:16:15
+49,Oliver,Jane,Deeside Runs,SVL(2),01:20:21
+50,Khan,Mohammed,Unattached,SM(11),01:20:43
+51,Larmour,Pauline,Cosmic HB,VL(6),01:25:48
+52,Allen,Gordon,Unattached,SM(12),01:32:00

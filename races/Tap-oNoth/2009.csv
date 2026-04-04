@@ -1,41 +1,41 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Topalian,Stanley,Westerlands,M,0:36:21
-2,Bartlett,Graeme,Forres Harriers,M40,0:37:28
-3,Angus,Gerald,Keith & District AAC,M40,0:41:00
-4,Charles,George,Unattached,M,0:41:07
-5,Bain,Andy,Deeside Runners,M,0:41:13
-6,Larmour,Colin,Cosmics,M40,0:41:17
-7,Oldham,Veronique,Cosmics,F40,0:41:58
-8,Bass,Owen,Solway,M40,0:42:01
-9,Masson,Richard,Metro Aberdeen,M,0:43:28
-10,O`Sullivan,Sean,Deeside Runners,M,0:44:10
-11,Jermieson,Ashley,Cosmics,M50,0:44:16
-12,Hunter,Stuart,Cosmics,M40,0:44:36
-13,MacKenzie,Ruth,Deeside Runners,F40,0:45:16
-14,Milligan,Douglas,Solway,M60,0:45:42
-15,Brettle,Matt,Cosmics,M,0:45:50
-16,Henry,Peter,Deeside Runners,M,0:46:36
-17,Bruce,Kevin,Cosmics,M40,0:46:52
-18,Higginbottom,Jacqui,Carnethy,F40,0:47:16
-19,Hamilton,Anita,Cosmics,F40,0:47:41
-20,Williams,Rupert,Cosmics,M40,0:48:25
-21,Jones,Mike,Unattached,M,0:48:55
-22,Taylor,Colin,Cosmics,M40,0:49:01
-23,Delaney,Liz,Cosmics,F40,0:50:37
-24,Bryce,Murray,Cosmics,M40,0:50:41
-25,Cran,Ian,Garioch Road Runners,M40,0:51:07
-26,Van der Pol,Marjon,Cosmics,F,0:51:43
-27,Reid,Colin,Cosmics,M40,0:51:52
-28,Stewart,Elaine,Cosmics,F50,0:52:27
-29,Bass,Ursula,Deeside Runners,F40,0:54:01
-30,Angus,Mel,Aberdeen AAC,F40,0:54:35
-31,Clark,Jason,Peterhead Jog Scotland,M,0:54:39
-32,Petrie,Mona,Cosmics,F,0:54:59
-33,Anderson,Barbara,Keith & District AAC,F,0:55:51
-34,Smith,Ann,Cosmics,F40,0:56:23
-35,Croly,Chris,Cosmics,M,0:56:26
-36,Musgrave,Frank,Three Peaks Tri,M50,0:57:54
-37,Simpson,Sandra,Fat Bobs Running Club,F40,0:58:11
-38,Macdonald,Simon,Unattached,M40,0:58:22
-39,Clunas,Gillian,Cosmics,F40,0:59:47
-40,O`Sullivan,Sarah,Cosmics,F,1:04:44
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Charles,Joe,Clwydian Range Runners,S,00:36:21
+2,Bartlett,Graeme,Forres,V,00:37:28
+3,Angus,Gerald,Keith & District,V,00:41:00
+4,Charles,George,UNAT,S,00:41:07
+5,Bain,Andy,MAROC,S,00:41:13
+6,Larmour,Colin,Cosmics,V,00:41:17
+7,Oldham,Veronique,Cosmics,FV,00:41:58
+8,Bass,Owen,Deeside,V,00:42:01
+9,Masson,Richard,Cosmics,S,00:43:28
+10,O'Sullivan,Sean,Cosmics,S,00:44:10
+11,Jermieson,Ashley,Cosmics,SV,00:44:16
+12,Hunter,Stuart,Cosmics,V,00:44:36
+13,Mackenzie,Ruth,Deeside,FV,00:45:16
+14,Milligan,Dougie,Solway,V60,00:45:42
+15,Brettle,Matt,Cosmics,S,00:45:50
+16,Henry,Peter,Deeside,S,00:46:36
+17,Bruce,Kevin,Cosmics,V,00:46:52
+18,Higginbottom,Jacqui,Carnethy,FV,00:47:16
+19,Hamilton,Anita,Cosmics,FV,00:47:41
+20,Williams,Rupert,UNAT,V,00:48:25
+21,Jones,Mike,UNAT,S,00:48:55
+22,Taylor,Colin,Cosmics,V,00:49:01
+23,Delaney,Liz,Cosmics,FV,00:50:37
+24,Bryce,Murray,Cosmics,V,00:50:41
+25,Cran,Ian,Garioch,V,00:51:07
+26,Der Pol,Marjon Van,Cosmics,F,00:51:43
+27,Reid,Colin,Cosmics,V,00:51:52
+28,Stewart,Elaine,Cosmics,FV,00:52:27
+29,Bass,Ursula,Deeside,FV,00:54:01
+30,Angus,Mel,Fat Bobs,V,00:54:35
+31,Clark,Jason,Peterhead Jog Scotland,S,00:54:39
+32,Petrie,Mona,Cosmics,F,00:54:59
+33,Anderson,Barbara,Keith & District,F,00:55:51
+34,Smith,Anne,Cosmics,FV,00:56:23
+35,Croly,Chris,Cosmics,S,00:56:26
+36,Musgrave,Frank,TPT,SV,00:57:54
+37,Simpson,Sandra,Fat Bobs,FV,00:58:11
+38,MacDonald,Simon,UNAT,V,00:58:22
+39,Clunas,Gillian,Cosmics,FV,00:59:47
+40,O'Sullivan,Sarah,Cosmics,F,01:04:44

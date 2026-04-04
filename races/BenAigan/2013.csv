@@ -1,38 +1,38 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Tullie,James,Highland Hill Runners,M,0:32:29
-2,Rogan,Paul,Moray Road Runners,M40,0:34:05
-3,Weir,David,Forres Harriers,M50,0:34:24
-4,Goodall,John,Keith & District AAC,M50,0:34:47
-5,MacKenzie,John,Highland Hill Runners,M40,0:35:52
-6,Schofield,Malcolm,Keith & District AAC,M,0:35:59
-7,Taylor,Paul,Moray Road Runners,M,0:36:13
-8,Cooke,Tim,Inverness Harriers,M40,0:36:27
-9,Williamson,Jason,Cosmics,M40,0:36:39
-10,Mardall,Nick,Deeside Runners,M40,0:36:56
-11,Wilson,Stewart,Highland Hill Runners,M40,0:37:27
-12,Whiteside,Gavin,Highland Hill Runners,M,0:37:33
-13,Ord,Steven,Deeside Runners,M40,0:37:51
-14,Nicolson,William,Highland Hill Runners,M,0:38:16
-15,Forrest,Stuart,Highland Hill Runners,M,0:38:20
-16,Paterson,George,Highland Hill Runners,M40,0:38:55
-17,Archibald,Henry,Forres Harriers,M,0:39:07
-18,Urquhart,John,Moray Road Runners,M40,0:39:30
-19,Angus,Gerald,Keith & District AAC,M50,0:40:55
-20,Hurst,Harry,Forres Harriers,MJ,0:41:09
-21,Sutherland,Alex,Highland Hill Runners,M60,0:41:46
-22,Rogan,Kirstie,Moray Road Runners,F,0:42:07
-23,Mathers,Dave,Keith & District AAC,M50,0:45:03
-24,Jenkins,Elspeth,Moray Road Runners,F40,0:45:55
-25,Davis,Lydia,Moray Road Runners,F40,0:47:06
-26,Varwell,Stephen,Unattached,M,0:47:23
-27,Laing,Neil,Moray Road Runners,M50,0:47:25
-28,Thompson,Irina,Moray Road Runners,F,0:50:17
-29,Munro,Mike,Unattached,M,0:50:31
-30,Morrison,Lesley-Anne,Carnethy,F50,0:50:35
-31,Bird,Chris,Unattached,M40,0:53:17
-32,Burn,Stewart,Forres Harriers,M50,0:53:17
-33,Strang,Amanda,Moray Road Runners,F40,0:54:00
-34,Brown,Donna,Spey Runners,F40,0:54:03
-35,Coelho,Jenni,Moray Road Runners,F40,0:56:20
-36,Milmoe,Michael,Forres Harriers,M60,0:56:50
-37,Wright,James,HBT,M50,0:59:02
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Tullie,James,Cairngorm Runners,M,00:32:29
+2,Rogan,Paul,Forres Harriers,M40,00:34:05
+3,Weir,Dave,FH,M50,00:34:24
+4,Goodall,John,Keith + District,M50,00:34:47
+5,MacKenzie,John,Highland Hill Runners,M40,00:35:52
+6,Schofield,M.,KD,M,00:35:59
+7,Taylor,Paul,Moray Road Runners,M,00:36:13
+8,Cooke,Tim,Inverness Harriers,M40,00:36:27
+9,Williamson,Jason,Cosmic,M40,00:36:39
+10,Mardall,Nick,Deeside,M40,00:36:56
+11,Wilson,Stewart,IH,M40,00:37:27
+12,Whiteside,Gavin,HHR,M,00:37:33
+13,Ord,Steven,Deeside Runners,M40,00:37:51
+14,Nicolson,William,Cosmic,M,00:38:16
+15,Forrest,Stuart,HHR,M,00:38:20
+16,Paterson,George,Moravian O,M40,00:38:55
+17,Archibald,Henry,FH,M,00:39:07
+18,A. Urguhart,John,U/A,M40,00:39:30
+19,Angus,Gerald,KD,M50,00:40:55
+20,Hurst,Harry,FH,Mjunior,00:41:09
+21,Sutherland,Alex,IH,M60,00:41:46
+22,Rogan,Kirstie,FH,F,00:42:07
+23,Mathers,Dave,KD,M50,00:45:03
+24,Jenkins,Elspeth,MRR,F40,00:45:55
+25,Page,Lydia,MRR,F40,00:47:06
+26,Varwell,Stephen,U/A,M,00:47:23
+27,Laing,Neil,U/A,M50,00:47:25
+28,Thompson,Irina,MRR,F,00:50:17
+29,Munro,Mike,U/A,M,00:50:31
+30,Morrsin,Lesley-Anne,Carnethy,F50,00:50:35
+31,Bird,Chris,U/A,M40,00:53:17
+32,Burn,Stew,FH,M50,00:53:17
+33,Strang,Amanda,MRR,F40,00:54:00
+34,Brown,Donna,Spey Runners,F40,00:54:03
+35,Coelho,Jenni,MRR,F40,00:56:20
+36,Milmoe,Michael,FH,M60,00:56:50
+37,Wright,James,HBT,M50,00:59:02

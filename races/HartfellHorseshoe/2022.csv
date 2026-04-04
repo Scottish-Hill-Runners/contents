@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Murray,Hamish,Keswick AC,M,01:31:06
 2,Cox,Andrew,Moorfoot Runners,M40,01:39:31
 3,Lavin,Daniel,Moorfoot Runners,M,01:39:31
@@ -14,7 +14,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Dickie,Adam,Dumfries RC,M40,01:52:45
 14,Brodie,Stuart,Ochil Harriers,M40,01:58:16
 15,Malcolmson,Craig,Hartfell Hill Runners,M50,01:58:39
-16,Hetherington,Michelle,Carnethy ,F50,02:00:12
+16,Hetherington,Michelle,Carnethy,F50,02:00:12
 17,Beattie,Steven,Unattached,M,02:02:20
 18,Irving,Roger,Hartfell Hill Runners,M60,02:02:20
 19,Johnson,Bob,Gala Harriers,M60,02:02:25

@@ -1,42 +1,43 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Gilmore,Andrew,Highland Hill Runners,M,0:26:32
-2,Taylor,Luke,Highland Hill Runners,M,0:26:41
-3,Ward,Jack,Highland Hill Runners,M,0:26:59
-4,Anderson,Ben,Unattached,M,0:27:45
-5,Fyfe,Lewis,Lochaber AC,M,0:28:01
-6,Wright,Angus,HBT,M,0:28:03
-7,Cabrera Valdes,Francisco Javier,Highland Hill Runners,M,0:28:10
-8,Macdonald,Matthew,Lochaber AC,M50,0:28:59
-9,Smith,Angus,Inverness Harriers,M,0:29:21
-10,Wright,David,HBT,M40,0:30:12
-11,Smith,Alan,Deeside Runners,M50,0:30:35
-12,Hutson,Liam,Lochaber AC,M,0:30:49
-13,Malcolm,Stuart,Highland Hill Runners,M50,0:30:54
-14,Stewart,Gordon,Unattached,M60,0:31:34
-15,Munro,Ian,Cairngorm Runners,M,0:32:00
-16,Gorman,Manny,Westerlands,M50,0:32:02
-17,Tomaszewski,Rafal,Unattached,M40,0:34:02
-18,Carroll,Bradley,Unattached,M40,0:34:17
-19,Jennings,Peter,Unattached,M40,0:35:20
-20,Matthewson,Alastair,Highland Hill Runners,M50,0:35:21
-21,Munro,Gemma,Lochaber AC,F,0:35:59
-22,Jones,Emma,Highland Hill Runners,F,0:36:00
-23,Jennings,Alex,Unattached,M,0:36:16
-24,Taylor,Gordie,Lochaber AC,M50,0:36:25
-25,Wright,Megan,HBT,F40,0:36:50
-26,Irvine,Hamish,Highland Hill Runners,M50,0:37:19
-27,Loftus,Megan,Unattached,F,0:38:32
-28,Irving,John,Dundee Road Runners,M40,0:39:28
-29,Yuill,Andre,Deeside Runners,M,0:39:37
-30,Bowman,Angus,Lomond Hill Runners,M60,0:40:06
-31,Sim,Andrew,Carnegie Harriers,M50,0:42:03
-32,Duncan,David,Ochil Hill Runners,M60,0:42:08
-33,Stewart,Helen,Unattached,F,0:42:19
-34,Jamieson,Madeleine,Unattached,F,0:43:12
-35,Loftus,Alex,Unattached,F50,0:43:34
-36,Loftus,Tim,Unattached,M40,0:44:44
-37,Loftus,Hamish,Unattached,M,0:44:50
-38,Oliver,Jane,Deeside Runners,F60,0:44:54
-39,Bowman,Jean,Lomond Hill Runners,F60,0:45:34
-40,Paul,Brenda,Westerlands,F40,0:51:32
-41,Sim,Helena,Carnegie Harriers,F50,0:51:46
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Gilmore,Andrew,Highland Hill Runners,M,00:26:32
+2,Taylor,Luke,Highland Hill Runners,M,00:26:41
+3,Ward,Jack,Highland Hill Runners,M,00:26:59
+4,Anderson,Ben,Cycle Friendly Kingussie,M,00:27:45
+5,Fyfe,Lewis,Lochaber AC,M,00:28:01
+6,Wright,Angus,HBT,M,00:28:03
+7,Cabrera Valdes,Francisco Javier,Highland Hill Runners,M,00:28:10
+8,MacDonald,Matt,Lochaber AC,M50,00:28:59
+9,Smith,Angus,Inverness Harriers,M,00:29:21
+10,Wright,Dave,HBT,M40,00:30:12
+11,Smith,Alan,Deeside,M50,00:30:35
+12,Hutson,Liam,Lochaber AC,M,00:30:49
+13,Malcolm,Stuart,Highland Hill Runners,M50,00:30:54
+14,Stewart,Gordon,Unattached,M60,00:31:34
+15,Munro,Ian,Cairgorm Runners,M,00:32:00
+16,Gorman,Manny,Westies,M50,00:32:02
+17,Forrest,Stuart,Highland Hill Runners,M,00:32:54
+18,Tomaszewski,Rafal,Above 2000,M40,00:34:02
+19,Carroll,Brad,Unattached,M40,00:34:17
+20,Jennings,Peter,Unattached,M40,00:35:20
+21,Matthewson,Alastair,Highland Hill Runners,M50,00:35:21
+22,Munro,Gemma,Lochaber AC,F,00:35:59
+23,Jones,Emma,Highland Hill Runners,F,00:36:00
+24,Jennings,Alex,Unattached,M,00:36:16
+25,Taylor,Gordie,Highland Hill Runners,M50,00:36:25
+26,Wright,Megan,HBT,F40,00:36:50
+27,Irvine,Hamish,Highland Hill Runners,M50,00:37:19
+28,Loftus,Megan,Unattached,F,00:38:32
+29,Irving,John,Dundee Road Runners,M40,00:39:28
+30,Yuill,Andre,Unattached,M,00:39:37
+31,Bowman,Angus,Lomonds,M60,00:40:06
+32,Sim,Andrew,Carnegie,M50,00:42:03
+33,Duncan,David,Ochils,M60,00:42:08
+34,Stewart,Helen,Unattached,F,00:42:19
+35,Jamieson,Madeleine,Unattached,F,00:43:12
+36,Loftus,Alex,Unattached,F50,00:43:34
+37,Loftus,Tim,Unattached,M40,00:44:44
+38,Loftus,Hamish,Unattached,M,00:44:50
+39,Oliver,Jane,Deeside,F60,00:44:54
+40,Bowman,Jean,Lomonds,F60,00:45:34
+41,Paul,Brenda,Westies,F40,00:51:32
+42,Sim,Helena,Carnegie,F50,00:51:46

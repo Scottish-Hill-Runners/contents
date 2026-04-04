@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:26:31
 2,Gallacher,Craig,Westerlands CCC,M,00:28:24
 3,Marshall,Brian,Haddington,M50,00:30:11
@@ -25,7 +25,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Weir,Jonathan,Unattached,M40,00:43:22
 25,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:44:50
 26,Ashworth,Collette,Ochil Hill Runners,F40,00:45:27
-27,Ryan,Derry ,Unattached,F,00:47:14
+27,Ryan,Derry?,Unattached,F,00:47:14
 28,Fullwood,Andrew,Westerlands CCC,M50,00:55:37
 29,Davies,Jason,Ochil Hill Runners,M50,01:02:07
 30,Fowler,Paul,Ochil Hill Runners,M50,01:02:25

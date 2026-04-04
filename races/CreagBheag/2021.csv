@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Slimon,James,Highland HR,M19,00:26:42
 2,Pagett,Harris,Strathearn Harriers,M16,00:26:48
 3,Anthony,Alasdair,Ochils,M40,00:26:53
@@ -7,7 +7,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 6,Oates,Calum,Shettleston Harriers,M32,00:28:18
 7,Field,Zico,Gala Harriers,J14,00:29:07
 8,Thelier,Chris,Highland HR,M27,00:29:42
-9,Baird,Andrew,Ross County ,J13,00:31:05
+9,Baird,Andrew,Ross County,J13,00:31:05
 10,Thom,Caiden,Metro Aberdeen,J16,00:31:10
 11,Malcolm,Stuart,Highland HR,M53,00:31:22
 12,Gardner,Peter,HBT,M36,00:31:24

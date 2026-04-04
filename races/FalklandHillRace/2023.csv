@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Cooper,Kieran,Carnethy HRC,M,00:43:11
 2,Hukins,Ben,PH Racing Club,M40,00:45:44
 3,McKenna,Bryan,Carnethy HRC,M40,00:47:09
@@ -33,7 +33,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 32,Schochle,Kai,RSC Luneburg Triathlon,M40,01:02:52
 33,Lamb,Jake,Good Time RC,M,01:03:58
 34,Hamilton,Lee,Unattached,M,01:04:00
-35,Smith,Robyn,Falkland TR ,F,01:04:19
+35,Smith,Robyn,Falkland TR,F,01:04:19
 36,Burnett,Seona,Harmeny AC,F50,01:04:31
 37,Wilson,Tania,Buxton AC,F50,01:05:18
 38,Scott,Simone,Good Time RC,F40,01:05:24
@@ -41,7 +41,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 40,Patterson,Alice,Unattached,F,01:05:29
 41,Hunter,Sean,Unattached,M,01:06:50
 42,Dunleavey,David,Unattached,M60,01:06:56
-43,Unwin,Alison,Vegan Runners ,F40,01:07:32
+43,Unwin,Alison,Vegan Runners,F40,01:07:32
 44,Thomson,Lewis,Unattached,M,01:08:04
 45,Carney,Will,Good Time RC,M,01:08:27
 46,Marshall,Harry,Unattached,M,01:08:28
@@ -56,9 +56,9 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Dobson,Judith,Kinross RR,F60,01:10:48
 56,Landels,Brian,Lomonds,M60,01:11:12
 57,Gold,John,Unattached,M40,01:11:24
-58,Alexander,Helene,Vegan Runners ,F40,01:12:04
+58,Alexander,Helene,Vegan Runners,F40,01:12:04
 59,Watkins,Huw,Unattached,M,01:12:07
-60,Pease,David,Falkland TR ,M50,01:12:18
+60,Pease,David,Falkland TR,M50,01:12:18
 61,Yule,Zak,Unattached,M50,01:14:21
 62,Cooijmans,Chris,Unattached,M,01:14:25
 63,Noble,Anne,Troon Tortoises,F60,01:14:56
@@ -66,13 +66,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 65,Henderson,Tristan,Unattached,M40,01:15:59
 66,Schochle,Eileen,RSC Luneburg Triathlon,F40,01:17:12
 67,Hannigan,Craig,Good Time RC,M,01:19:09
-68,Wallace,Paul,Falkland TR ,M40,01:19:09
+68,Wallace,Paul,Falkland TR,M40,01:19:09
 69,Astbury,Caitlin,Portobello RC,F,01:20:56
 70,Arthur,Wendy,Unattached,F50,01:20:57
 71,Wallace,Graham,Unattached,M,01:21:19
 72,Mitchell,Hannah,Good Time RC,F,01:23:34
 73,Stables,Scott,Portobello RC,M,01:25:17
-74,Smith,Joseph,Falkland TR ,M,01:27:42
+74,Smith,Joseph,Falkland TR,M,01:27:42
 75,Smith,Rebekah,Unattached,F,01:28:53
 76,Maican,Mihaela,Unattached,F,01:29:40
 77,Urch,Ashley,Unattached,F,01:29:42

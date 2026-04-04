@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Fraser,Callum,Lochaber AC,M,00:19:11
 2,Williamson,Clyde,Cosmics,M,00:19:16
 3,Smith-Price,Ben,Unattached,M,00:20:01

@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Burr,Joe,Unattached,M,00:29:10
 2,Wilson,Euan,Insch TRC,M,00:31:29
 3,Lorimer,Hayden,HBT,M50,00:34:04

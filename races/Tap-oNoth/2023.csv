@@ -1,5 +1,5 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Bennett,Ewan,Unattached,M,00:39:30
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Bennett,Ewan,Deeside Runners,M,00:39:30
 2,Wilson,Euan,Unattached,M,00:40:06
 3,Gooch,Daniel,Unattached,M50,00:40:20
 4,Lorimer,Hayden,HBT,M50,00:41:26
@@ -8,7 +8,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 7,Williamson,Jason,Cosmics,M50,00:43:11
 8,Littlejohn,Kevin,Deeside Runners,M40,00:43:19
 9,Kirk,Lachlan,Unattached,M,00:43:31
-10,Padilla,Monica,Unattached,F,00:44:25
+10,Padilla,Monica,Highland HR,F,00:44:25
 11,Omand,Elaine,Cosmics,F,00:44:35
 12,Oldham,Veronique,Cosmics,F50,00:44:51
 13,Junor,Martin,Unattached,M40,00:45:06

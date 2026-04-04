@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Lennon,Eoin,Carnethy,M,01:30:25
 2,Callan,Thomas,Westerlands CCC,M,01:31:09
 3,McLeod,Alasdair,Ochil Hill Runners,M,01:32:02
@@ -128,7 +128,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 127,Canavan,Fiona,Dundee RR,F,02:11:30
 128,Pound,Oliver,Portobello RC,M40,02:11:52
 129,Warner,Deborah,Portobello RC,F40,02:11:53
-130,Stable,Charles,Musselburgh ,M50,02:11:58
+130,Stable,Charles,Musselburgh,M50,02:11:58
 131,Carr,Dean,Moorfoot Runners,M40,02:12:49
 132,Hosking,Dawn,Durham Fell Runners,F40,02:13:07
 133,Hutchison,Lee,Portobello RC,M,02:13:10
@@ -157,7 +157,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 156,Struthers,Mairi,Tinto Hill Runners,F,02:18:20
 157,Dalgliesh,Lisa,Gala Harriers,F40,02:18:32
 158,Ward,Ausrine,Kirkintilloch Olympians,F40,02:18:54
-159,Healy,Sarah,Musselburgh ,F,02:19:00
+159,Healy,Sarah,Musselburgh,F,02:19:00
 160,Fordyce,Kenneth,Carnethy,M50,02:19:10
 161,Lupton,George,Portobello RC,M40,02:19:14
 162,Mcpartland,Frank,HELP,M60,02:19:21
@@ -171,7 +171,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 170,Matthews,Catherine,Dundee Hawkhill,F40,02:23:40
 171,Dalgliesh,Ross,Gala Harriers,M40,02:23:43
 172,Hunt,James,Unattached,M40,02:24:10
-173,Knox,Lizzie,Anster Haddies ,F,02:24:20
+173,Knox,Lizzie,Anster Haddies,F,02:24:20
 174,Ramsay,Neil,Unattached,M40,02:24:35
 175,Gilliland,Andrew,Unattached,M,02:24:42
 176,Cowan,David,Fife AC,M50,02:25:02
@@ -184,7 +184,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 183,Ruddick,Jennifer,Westerlands CCC,F,02:26:33
 184,Nichol,Paul,Moorfoot Runners,M50,02:27:04
 185,Southworth,Cathy,Carnethy,F40,02:27:08
-186,Wilson,Alison,Horsforth Fellandale ,F50,02:27:19
+186,Wilson,Alison,Horsforth Fellandale,F50,02:27:19
 187,Hooper,Mark,Carnethy,M,02:28:01
 188,Shepherd,Fiona,Vegan Runners UK,F50,02:28:15
 189,Coutts,Philip,Moorfoot Runners,M50,02:28:31
@@ -196,7 +196,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 195,Shankey,Rosie,Unattached,F,02:30:11
 196,Foster,Sarah,Carnethy,F40,02:30:19
 197,Howie,Brian,Carnethy,M70,02:30:21
-198,Howard,Mike,Musselburgh ,M50,02:30:40
+198,Howard,Mike,Musselburgh,M50,02:30:40
 199,Ritchie,Hilary,Fife AC,F50,02:31:35
 200,Leggatt,Angela,Portobello RC,F40,02:31:49
 201,Kemp,Sadie,Penicuik Harriers,F40,02:32:04
@@ -247,8 +247,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 246,Chandler,Richard,Carnethy,M60,03:16:00
 247,Eleftheriou,Katerina,Unattached,F,03:16:13
 248,Chandler,Sandra,Carnethy,F50,03:16:22
-249,Blaikie,Adele,Musselburgh ,F,03:31:13
+249,Blaikie,Adele,Musselburgh,F,03:31:13
 250,Dodds,Stephanie,Unattached,F50,03:31:13
 251,Moss,Gerry,Gala Harriers,M50,03:39:04
-252,Davidson,Diane,Jed Joggers,F40,04:06:51
-253,Grimsditch,Kate,Jed Joggers,F40,04:06:51
+252,Davidson,Diane,Jed Joggers,F40,03:36:51
+253,Grimsditch,Kate,Jed Joggers,F40,03:36:51

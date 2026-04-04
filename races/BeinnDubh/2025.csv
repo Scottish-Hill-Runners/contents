@@ -1,0 +1,100 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Pulham,Harry,Shettleston Harriers,M,00:33:59
+2,Symonds,Joe,Shettleston Harriers,M40,00:35:12
+3,Chebbout,Ryad,Shettleston Harriers,M,00:35:56
+4,Thornton,Alistair,Ochill Hill Runners,M,00:36:02
+5,Lawson,David,Shettleston Harriers,M,00:38:02
+6,Lang,Naomi,Carnethy HRC,F,00:38:22
+7,Gallacher,Craig,Westerlands CCC,M,00:38:27
+8,Beresford,Will,Westerlands CCC,M,00:38:05
+9,Turnbull,Jonathan,Strathearn Harriers,M40,00:40:09
+10,MacLeod,James,Garscube Harriers,M40,00:40:45
+11,Horne,Arran,Westerlands CCC,M,00:42:25
+12,Cox,Andrew,Unattached,M40,00:42:44
+13,Henderson,Scott,Westerlands CCC,M40,00:43:23
+14,Watson,Ed,Westerlands CCC,M,00:43:35
+15,Smithard,Alison,Ochil Hill Runners,F,00:44:17
+16,Blaikie,Robert,Westerlands CCC,M,00:44:19
+17,Brennan,Oisin,Unattached,M,00:44:43
+18,Crowe,Des,Penicuik Harriers,M60,00:45:07
+19,Kenny,Conor,Westerlands CCC,M,00:45:42
+20,Foreman,Ella,Westerlands CCC,F,00:45:51
+21,Campbell,Donald,Unattached,M40,00:45:58
+22,Poulter,Alwyn,Westerlands CCC,M,00:45:59
+23,Hatfield,David,Westerlands CCC,M,00:46:06
+24,Mackinnon,Gordon,Lochaber,M40,00:46:25
+25,Anderson,Micky,Westerlands CCC,M60,00:46:27
+26,MacKenzie,Ruaraidh,Lochaber Athletic Club,M,00:46:49
+27,Macphail,CJ,Shettleston Harriers,F,00:47:03
+28,Humble,Felton,Westerlands CCC,M40,00:47:23
+29,Callender,James,Westerlands CCC,M,00:47:36
+30,Reid,Don,Westerlands CCC,M60,00:47:44
+31,Wilson,Malcolm,Westerlands CCC,M,00:47:48
+32,Gilmore,Neil,Carnethy HRC,M60,00:47:49
+33,Johnstone,Leo,Dumbarton,M,00:47:55
+34,Edenborough,Calum,Unattached,M,00:48:01
+35,Foster,Paul,Westerlands CCC,M,00:48:05
+36,Wheeler,Mark,Hamilton Harriers,M40,00:48:01
+37,Rountree,Helen,Ochil Hill Runners,F,00:48:13
+38,Atkinson,Owen,Greenock Glenpark H,M40,00:48:49
+39,Crawford,Ross,Shettleston Harriers,M40,00:49:09
+40,Heron,Rosalind,Carnethy HRC,F,00:49:15
+41,Eadsforth,Holly,Unattached,F,00:49:55
+42,Heron,Kyle,Carnethy HRC,M,00:49:12
+43,Theaker,David,Unattached,M,00:50:01
+44,Meldrum,Alasdair,Ayr Seaforth,M50,00:50:08
+45,Ward,Jason,Unattached,M,00:50:12
+46,Aitchison,Rowan,Tayvallich,M,00:50:22
+47,Watkiss,Natasha,Unattached,F,00:50:47
+48,Black,Ali,Carnethy HRC,M40,00:51:03
+49,Bryson,James,Westerlands CCC,M,00:51:26
+50,Brodie,Stuart,Ochil Hill Runners,M40,00:51:28
+51,Dickson,David,Westerlands CCC,M60,00:51:47
+52,Kelly,Graham,Westerlands CCC,M50,00:52:04
+53,Reid,Fraser,Westerlands CCC,M,00:52:23
+54,Ring,Lucy,Unattached,F,00:52:37
+55,Caldwell,Mark,Ayr Seaforth,M50,00:52:55
+56,Forcer,Stephen,Westerlands CCC,M40,00:53:03
+57,Gorgas,Steffen,Westerlands CCC,M50,00:53:06
+58,Mitchell,Romy,Shettleston Harriers,F,00:53:28
+59,McGlennon,Chris,Westerlands CCC,M50,00:53:29
+60,Mooney,Edel,Ochil Hill Runners,F50,00:53:42
+61,Fullarton,Glen,Unattached,M,00:53:47
+62,Stevenson,John,Ochil Hill Runners,M60,00:53:51
+63,Kay,Adrian,Unattached,M50,00:54:31
+64,Lavin,Daniel,Unattached,M,00:54:59
+65,Matthewson,Alastair,Highland Hillrunners,M60,00:55:01
+66,Pugh,Roderick,Kilmarnock Harriers,M60,00:55:21
+67,Macbeth,Gaby,Westerlands CCC,F40,00:55:26
+68,Furse,Chris,Westerlands CCC,M50,00:55:35
+69,Meldrum,Marie,Lochaber AC,F40,00:55:41
+70,Morrison,Sean,Unattached,M50,00:55:52
+71,Heron,Ceana,Shettleston Harriers,F,00:56:19
+72,Halliday,William,Mid Argyll Tri,M60,00:56:45
+73,Eckton,Ben,Poles and Crocs,M,00:56:48
+74,Strachan,Paul,Westerlands CCC,M70,00:56:53
+75,Sandhu,Kal,Westerlands CCC,M,00:57:23
+76,Nolan,Craig,Unattached,M,00:57:04
+77,Macfarlane,Colin,Mid Argyll Tri,M40,00:57:55
+78,Lindsay,Susan,Ochil Hill Runners,F50,00:57:57
+79,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:58:05
+80,MacLeod,Murdo,Westerlands CCC,M70,00:58:07
+81,Ratcliffe,Sasha,Seaforth,F40,00:58:56
+82,McGreevy,Kay,Unattached,F60,00:59:42
+83,MacInnes,Kerry,Westerlands CCC,F,00:59:55
+84,Ridyard,Alison,HBT,F50,00:59:58
+85,Mulholland,Arthur,East Kilbride AC,M60,01:02:54
+86,Littler,Alice,Poles and Crocs,F,01:03:03
+87,Frontier,Nadia,Glasgow Uni Orienteering,F,01:03:29
+88,Urquhart,William Murdo,Unattached,M60,01:03:34
+89,Ashworth,Collette,Ochil Hill Runners,F40,01:04:40
+90,Finbow,Gavin,Shettleston Harriers,M40,01:05:06
+91,Beveridge,Rebecca,Westerlands CCC,F,01:05:50
+92,Marsh,Duncan,Dark Peak FR,M50,01:06:31
+93,Vincett,Anna,Westerlands CCC,F,01:07:12
+94,Stakes,David,Westerlands CCC,M60,01:07:49
+95,Lammers,Wiebke,Westerlands CCC,F40,01:09:23
+96,Mulholland,Kirsty,Bike Shed Banter,F50,01:10:34
+97,Fullwood,Andrew,Westerlands CCC,M50,01:14:37
+98,Lean,Carmen,Westerlands CCC,F,01:17:42
+99,King,Alex,Ochil Hill Runners,M60,01:24:59

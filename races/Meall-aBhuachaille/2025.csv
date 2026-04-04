@@ -1,0 +1,97 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Harris,Tom,Highland Hill Runners,O,00:55:36
+2,Owens,Tom,Lochaber AC,O40,00:55:52
+3,Battle,Hamish,Deeside Runners,O,00:56:38
+4,Thorburn,Ewan,Lochaber AC,O40,00:56:50
+5,Gilmore,Andrew,Highland Hill Runners,O,00:57:22
+6,McInally,Ralph,Strathearn Harriers,O,00:57:32
+7,Oliver,Hugh,Lochaber AC,O,00:57:41
+8,Appleton,Dave,Drumguish D & JC,O,01:00:51
+9,Bartholomew,Douglas,Highland Hill Runners,O40,01:01:11
+10,Davies,Benjamin,Unattached,O,01:04:20
+11,Fricker,Tom,Highland Hill Runners,O,01:01:29
+12,Watts,Kieran,Highland Hill Runners,O,01:02:13
+13,Meikle,Thomas,Unattached,O,01:04:20
+14,Pringle,Stuart,Deeside Runners,O40,01:04:20
+15,Crutchfield,Stuart,Lochaber AC,O40,01:04:20
+16,Tweedie,Craig,Unattached,O50,01:04:20
+17,Nicholson,James,Highland Hill Runners,O,01:03:13
+18,Hodgson,Sarah,Highland Hill Runners,F,01:03:28
+19,Kirby,Andrew,Highland Hill Runners,O,01:03:38
+20,Hester,Ben,Drumguish D & JC,O,01:04:07
+21,Freshwater,Craig,Deeside Runners,O40,01:04:20
+22,Rose,Brendan,Unattached,OU23,01:04:20
+23,Baxter,Grant,Ochil Hill Runners,O50,01:06:05
+24,Kellingbeck,Siobhan,Highland Hill Runners,F,01:07:00
+25,Campbell,Andrew,Unattached,O,01:07:20
+26,Gibson,Ben,Unattached,O40,01:07:11
+27,Glover,Charlie,Unattached,OU23,01:07:57
+28,Dodman,Ben,Lochaber AC,O50,01:08:23
+29,Silva,Lic?nio,Grupo Alegre UB,O,01:08:30
+30,Thomson,Ella,Unattached,F,01:08:50
+31,Comber,Ayron,Deeside Runners,O50,01:08:52
+32,McInally,Hanna,Strathearn Harriers,F,01:09:29
+33,Yule,Steven,Deeside Runners,O40,01:10:07
+34,Worlock,Benjamin,Unattached,O,01:10:50
+35,Taylor,Lucy,Deeside Runners,F,01:10:58
+36,Wilson,Stewart,Highland Hill Runners,O50,01:11:53
+37,Metcalf,Philip,Borrowdale FR,O50,01:12:13
+38,Ibbott,Michael,Strathearn Harriers,O40,01:12:16
+39,Kemp,Calum,Highland Hill Runners,O40,01:12:19
+40,Peaks,David,Highland Hill Runners,O50,01:12:32
+41,Pipkin,Thomas,Unattached,O,01:12:58
+42,Sealy,Alan,Deeside Runners,O60,01:13:09
+43,Williams,David,Lochaber AC,O,01:13:42
+44,Mackenzie,Gavin,Unattached,O40,01:14:13
+45,Hand,Murphy,Unattached,O,01:14:37
+46,Marwick,Caroline,Highland Hill Runners,F40,01:14:49
+47,Barnes,Jason,Unattached,O50,01:15:16
+48,Pilbrow,Matthew,Highland Hill Runners,O,01:15:25
+49,Little,Rachel,Deeside Runners,F40,01:15:51
+50,Philip,Cameron,Unattached,OU23,01:16:29
+51,Shaw,Rory,Highland Hill Runners,O40,01:16:29
+52,Cameron,Tom,Unattached,O,01:16:31
+53,Oldham,Veronique,Deeside Runners,F50,01:18:02
+54,Watson,Beckie,Highland Hill Runners,F40,01:18:14
+55,Jones,John,Unattached,O50,01:18:16
+56,Ensell,Jess,Carnethy HRX,F,01:18:20
+57,Agnew,Mark,Mercia Fell Runners,O50,01:18:31
+58,Bee,Megan,Highland Hill Runners,F,01:18:45
+59,Singleton,Keir,Unattached,O,01:18:52
+60,MacBeth,Niall,Lochaber AC,O50,01:19:31
+61,Roberts,Clive,Fife AC,O60,01:20:17
+62,Davies,Beckie,Drumguish D & JC,F,01:20:47
+63,Sinnamon,Rachy,Unattached,F40,01:21:29
+64,Henderson,Katie,Deeside Runners,F40,01:22:25
+65,Dunn,Sarah,Deeside Runners,F50,01:22:51
+66,Laird,James,Highland Hill Runners,O50,01:23:02
+67,McColl,Sean,Unattached,O,01:23:07
+68,Meikle,Clive,Unattached,O50,01:23:34
+69,Daynes,Ed,Lochaber AC,O50,01:24:11
+70,Hirst,David,Deeside Runners,O60,01:24:39
+71,Stevens,Andrew,Moray Firth Tri,O50,01:24:45
+72,Buchan,Fiona,Unattached,F40,01:25:23
+73,Fraice,Karen,Highland Hill Runners,F40,01:25:30
+74,Campbell,Gilly,Unattached,F,01:27:58
+75,Silver,Colin,Highland Hill Runners,O50,01:29:07
+76,Wilson,Neil,Scottish Mountaineering Club,O50,01:29:34
+77,Ryder,Stephen,Unattached,O50,01:29:40
+78,Ritchie,Charles,Deeside Runners,O70,01:30:32
+79,Strlijic,Anamarija,Lochaber AC,F,01:30:49
+80,Lawther,Sofia,Norbegs OK,F,01:30:53
+81,Boyd,William,Unattached,O,01:31:00
+82,Tatlow,Helen,Unattached,F,01:31:50
+83,Seguin,Julien,Unattached,O50,01:32:12
+84,Farquhar,Lorna,Unattached,F,01:32:38
+85,Samide,Kira,Unattached,F,01:32:38
+86,Williams,Non,Lochaber AC,F,01:32:54
+87,Mackay,David,Forfar Road Runners,O50,01:33:16
+88,Sutherland,Catherine,Cuillin Dubh AC,F40,01:33:39
+89,Till,Dave,Skye & Lochalsh AC,O60,01:34:42
+90,Hay,Debz,Anster Haddies,F50,01:35:40
+91,Richharson,Fiona,Highland Hill Runners,F40,01:36:04
+92,Davie,Bruce,Lochaber AC,O50,01:37:16
+93,Wood,Douglas,Unattached,O60,01:38:05
+94,Cameron,Duncan,Highland Hill Runners,O,01:50:00
+95,Young,Carol,Cairngorm Runners,F60,01:50:36
+96,Broadley,Drew,Lochaber AC,O60,01:55:25

@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Abernethy,Rory,Ochil Hill Runners,M,00:28:23
 2,Patton,Euan,Dark Peak,M,00:28:58
 3,Wright,Angus,Team East Lothian,M,00:29:50
@@ -6,7 +6,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 5,Fisher,Sam,Howgill Harriers,M,00:31:37
 6,Paterson,Robbie,Highland Hill Runners,M40,00:31:46
 7,Hill,Alex,Lochaber AC,M,00:32:10
-8,Gilmore,Iain,Carnethy ,M,00:32:28
+8,Gilmore,Iain,Carnethy,M,00:32:28
 9,Ward,Jack,Highland Hill Runners,M,00:32:43
 10,Mann,Joe,Highland Hill Runners,M,00:32:48
 11,MacDonald,Matt,Lochaber AC,M,00:33:01

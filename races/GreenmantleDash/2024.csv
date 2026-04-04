@@ -1,0 +1,123 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Narbett,Eddie,Carnethy HRC,M,00:15:39
+2,Martin,Tom,HBT,M,00:15:51
+3,Crowe,Jamie,Central AC,M,00:15:59
+4,Masson,Ali,Carnethy HRC,M,00:16:10
+5,Carcas,Freddie,Edinburgh AC,M,00:16:24
+6,Walton,Jack,Keithly and Craven,M,00:16:55
+7,Gilmore,Iain,Carnethy HRC,M,00:17:38
+8,Gebbie,Joe,Doss AC,M,00:18:07
+9,Gordon,Jim,Leeds University XC Club,M,00:18:32
+10,Marshall,Brian,Haddington Running Club,M50,00:18:36
+11,Tweedie,Craig,Unattached,M40,00:18:49
+12,Baxter,Grant,Ochil Hill Runners,M50,00:19:13
+13,Lindsay,Scott,Unattached,M,00:19:28
+14,Gardner,Peter,HBT,M,00:19:34
+15,Allsop,David,Kirkintilloch Olympians,M50,00:19:36
+16,Bate,Ewan,Doss AC,M,00:19:40
+17,Moor,James,Moorfoot Runners,M,00:19:53
+18,Carcas,Pippa,Doss AC,F,00:19:57
+19,Post,Benjamin,Unattached,M,00:20:01
+20,Duncan,Eric,Highland Hill Runners,M50,00:20:03
+21,Grieve,Luke,Moorfoot Runners,M,00:20:39
+22,McGonnigal,Afden,Unattached,M,00:20:40
+23,Samplonius,Jelmer,HBT,M,00:20:42
+24,King,Laura,Ilkley Harriers,F,00:20:48
+25,Corrigan,Sean,Carnethy HRC,M,00:21:07
+26,Crowe,Des,Penicuik Harriers,M60,00:21:18
+27,Wilson,Emma,Garscube Harriers,F,00:21:27
+28,Forcer,Stephen,Westerlands CCC,M40,00:21:30
+29,Sanderson,Stuart,Penicuik Harriers,M50,00:21:36
+30,Kitchin,Bethan,Lasswade AC,F,00:21:38
+31,Gilmore,Neil,Carnethy HRC,M60,00:21:45
+32,White,David,Kilmarnock Harriers,M50,00:21:52
+33,Fettes,Paul,Dundee RR,M50,00:21:57
+34,Kitchin,Andy,Unattached,M50,00:22:00
+35,Westincraft,Calum,Unattached,M,00:22:13
+36,Plummer,Kevin,Hartfell Hill Runners,M50,00:22:33
+37,Campbell,Donald,Unattached,M40,00:22:44
+38,Brodie,Stuart,Ochil Hill Runners,M40,00:22:57
+39,Banford,Alison,Hartfell Hill Runners,F40,00:23:02
+40,Normand,Ivor,HBT,M50,00:23:10
+41,Tompsett,Gary,Strathaven Striders,M50,00:23:18
+42,Greens,Daniel,Penicuik Harriers,M,00:23:27
+43,McClelland,Peter,HBT,M40,00:23:32
+44,MacKinnon,Gordon,Lochaber AC,M40,00:23:33
+45,Young,Eleanor,Unattached,F,00:23:33
+46,MacMillan,Jura,Carnethy HRC,F,00:23:37
+47,MacDonald,Laura,Tinto Hill Runners,F,00:23:41
+48,Carr,Dean,Moorfoot Runners,M50,00:24:05
+49,McAllister,Georgina,Penicuik Harriers,F40,00:24:29
+50,Pryde,Gordon,Lomond Hill Runners,M60,00:24:35
+51,Mott,Andrew,Westerlands CCC,M40,00:24:41
+52,Walling,Katie,Moorfoot Runners,F,00:24:47
+53,Bentall,Joe,Doss AC,M,00:25:06
+54,Malcolmson,Craig,Hartfell Hill Runners,M50,00:25:10
+55,Padley,Ian,Hartfell Hill Runners,M60,00:25:12
+56,Adams,Louise,Carnethy HRC,F,00:25:17
+57,Horgan,Oscar,Unattached,M,00:25:26
+58,Hill,Stuart,Tinto Hill Runners,M,00:25:28
+59,Hand,Julie,Penicuik Harriers,F,00:25:33
+60,Blackley,Lisa,Unattached,F40,00:25:47
+61,Carr,Gillian,Moorfoot Runners,F40,00:25:52
+62,Wilson,Alice,Garscube Harriers,F,00:26:17
+63,Pettigrew,Iain,Ayr Seaforth AC,M50,00:26:19
+64,Bruce,Kenneth,Unattached,M50,00:26:27
+65,Goddard,Mike,Moorfoot Runners,M70,00:26:30
+66,Fordyce,Ken,Carnethy HRC,M50,00:26:42
+67,Turnbull,Lana,Lothian Running Club,F,00:27:02
+68,Laydon,Sam,Moorfoot Runners,M40,00:27:04
+69,Lilley,Roanne,Carnethy HRC,F,00:27:11
+70,Brownlee,David,Penicuik Harriers,M60,00:27:20
+71,Orr,Sandy,Lothian Running Club,M50,00:27:23
+72,Ledlie,Colin,Carnethy HRC,M50,00:27:28
+73,Bardsley,Nicky,Hartfell Hill Runners,M40,00:27:45
+74,Kitchin,Kate,Ferranti AAC,F40,00:27:49
+75,Fettes,Heidi,Dundee RR,F50,00:27:50
+76,Philp,Tracy,Portobello Running Club,F50,00:27:56
+77,Murgatroyd,Ian,Hartfell Hill Runners,M60,00:28:05
+78,Howie,Brian,Carnethy HRC,M70,00:28:08
+79,Holmes,Nigel,Unattached,M60,00:28:09
+80,Noble,Lucy,Unattached,F40,00:28:11
+81,Paul,Alastair,Northumberland FR,M60,00:28:14
+82,Aitken,Mathew,Unattached,M,00:28:25
+83,Stewart,James,Unattached,M,00:28:25
+84,Weir,Alan,Lothian Running Club,M50,00:28:29
+85,Post,Samuel,Unattached,M,00:28:33
+86,Alexander,Jim,Lothian Running Club,M60,00:28:37
+87,MacLeod,Murdo,Westerlands CCC,M70,00:28:42
+88,Walker,Stewart,Unattached,M60,00:28:47
+89,Turnbull,Jennifer,Unattached,F,00:28:58
+90,Vivers,Gordon,ADAC,M60,00:28:59
+91,Haycock,Lucy,Hartfell Hill Runners,F50,00:29:10
+92,Kimenai,Dorien,Moorfoot Runners,F,00:29:22
+93,Jamieson,Allan,Penicuik Harriers,M60,00:29:27
+94,Donnelly,John,Westerlands CCC,M50,00:29:36
+95,Antunes,Andre,HBT,M40,00:29:50
+96,Lee,Jennifer,Hartfell Hill Runners,F50,00:29:57
+97,Hale,David,Unattached,M,00:30:18
+98,Beveridge-Hale,Lorna,Unattached,F,00:30:20
+99,Kemp,Sadie,Penicuik Harriers,F40,00:30:39
+100,Burness,Ros,Unattached,F50,00:31:17
+101,Findlayson,Marianna,Unattached,F,00:31:17
+102,Moore,Miranda,Unattached,F40,00:31:18
+103,Chrighton,Alan,Hartfell Hill Runners,M60,00:31:47
+104,Tweedie,Michael,Unattached,M40,00:31:52
+105,Post,Co,Altis,M50,00:31:59
+106,Gray,Sybil,Unattached,F50,00:32:28
+107,Davies,Carolyn,Hartfell Hill Runners,F50,00:33:08
+108,Paton,Euan,Unattached,M40,00:33:36
+109,Smith,Harry,Tinto Hill Runners,M60,00:34:40
+110,Tweedie,Callum,Unattached,M40,00:34:50
+111,Hoppr,Louise,ADAC,F60,00:34:50
+112,Blackburn,David,Portobello Running Club,M60,00:35:41
+113,Dawson,Mark,Penicuik Harriers,M50,00:36:50
+114,Mann,Jacqui,Unattached,F50,00:37:00
+115,Cowan,David,Tinto Hill Runners,M60,00:37:45
+116,Warner,Tim,Moorfoot Runners,M60,00:37:49
+117,Clark,Grant,Unattached,M,00:39:30
+118,McPherson,Hugh,Tinto Hill Runners,M70,00:40:25
+119,Bruce,Malcolm,Unattached,M50,00:42:45
+120,Stewart,Donald,Unattached,M40,00:45:25
+121,Nymeyer,Thom,Unattached,M,00:47:00
+122,Post,Niamo,Unattached,F,00:48:19

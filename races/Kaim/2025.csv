@@ -1,0 +1,109 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Chebbout,Ryad,Shettleston Harriers,M,28:00
+2,Cooper,Kieran,Carnethy HRC,M,28:18
+3,Amtcliff,Toby,Unattached,M,30:46
+4,Blake,Kristopher,Westerlands CCC,M,31:14
+5,MacLeod,James,Garscube Harriers,M40,31:46
+6,Beresford,Will,Westerlands CCC,M,32:09
+7,Horne,Arran,Westerlands CCC,M,32:55
+8,Watson,Ed,Westerlands CCC,M,33:48
+9,McMillan,Alan,Unattached,M,35:06
+10,Henderson,Scott,Westerlands CCC,M40,35:08
+11,Anderson,James,Ochil Hill Runners,M,35:35
+12,Anderson,Ross,Westerlands CCC,M,35:46
+13,Heger,Elena,Shettleston Harriers,F,35:52
+14,King,Chris,Westerlands CCC,M,35:56
+15,Poulter,Alwyn,Westerlands CCC,M,36:32
+16,Anderson,Micky,Westerlands CCC,M60,36:33
+17,Humble,Felton,Westerlands CCC,M40,36:47
+18,Griffiths,Evan,Westerlands CCC,M,36:53
+19,Kenny,Conor,Westerlands CCC,M,37:06
+20,Lorimer,Hayden,HBT,M50,37:10
+21,Atkinson,Owen,Greenock Glenpark Harriers,M40,37:13
+22,Campbell,Donald,Unattached,M40,37:27
+23,Foster,Paul,Westerlands CCC,M,37:49
+24,Green,Jordan,Unattached,M,37:56
+25,Murphy,Jim,Unattached,M50,38:06
+26,Rountree,Helen,Ochil Hill Runners,F,38:15
+27,Taggart,David,Hamilton Harriers,M40,38:18
+28,Callender,James,Westerlands CCC,M,38:30
+29,McCoull,Fraser,Troon Tortoises,M,38:39
+30,Reid,Daniel,Westerlands CCC,M60,38:43
+31,Brown,Thomas,Johnstone wheelers,M,38:41
+32,Black,Ali,Carnethy HRC,M40,38:56
+33,Brown,Gareth,Unattached,M40,39:10
+34,Crawford,Ross,Shettleston Harriers,M40,39:12
+35,Jaeger,Theo,Westerlands CCC,M,39:10
+36,O'Neill,Owen,Westerlands CCC,M40,39:31
+37,Wilson,Malcolm,Westerlands CCC,M,39:29
+38,Eadsforth,Holly,Unattached,F,39:48
+39,Coubrough,Graham,Westerlands CCC,M40,39:47
+40,Ward,Jason,Unattached,M,39:56
+41,Brodie,Stuart,Ochil Hill Runners,M40,40:23
+42,Reid,Fraser,Westerlands CCC,M,40:27
+43,Meldrum,Alasdair,Ayr Seaforth AC,M50,40:30
+44,Evans,Richard,Bellahouston Road Runners,M40,40:35
+45,McGlennon,Chris,Epic Trails,M50,40:37
+46,Mitchell,Romy,Shettleston Harriers,F,40:41
+47,Corson,Michael,Kilmarnock Harriers,M60,41:33
+48,Chang,Michael,Westerlands CCC,M,41:40
+49,Dickson,David,Westerlands CCC,M60,41:41
+50,Meikle,Gavin,Unattached,M50,41:41
+51,Muir,Stuart,Ayrshire Trail Runners,M40,41:43
+52,Begley,Tommy,Irvine Running Club,M50,41:47
+53,Macbeth,Gaby,Westerlands CCC,F40,41:48
+54,Williams,Daniel,Westerlands CCC,M,42:04
+55,Pemberton,Joanne,Westerlands CCC,F,42:18
+56,Kelly,Graham,Westerlands CCC,M50,42:17
+57,Glasgow,Steven,Westerlands CCC,M,42:19
+58,Fullarton,Glen,Unattached,M,42:34
+59,Chabrut,Jean-Marc,WaveRiderz,M40,42:42
+60,Primrose,Deborah,Unattached,F,42:38
+61,Dawson,Nicola,Westerlands CCC,F40,42:45
+62,Dunn,Michael,Greenock Glenpark Harriers,M60,42:51
+63,Pearce,Matt,Troon Tortoises,M50,43:13
+64,Gamble,Alice,Westerlands CCC,F,44:00
+65,Kamarainen,Outi,Westerlands CCC,F40,44:00
+66,Stevenson,John,Ochil Hill Runners,M60,44:03
+67,Jones,Hari,None,M,44:04
+68,Furse,Chris,Westerlands CCC,M50,44:36
+69,Pugh,Roderick,Kilmarnock Harriers,M60,44:52
+70,Peebles,Jenny,Westerlands CCC,F40,44:51
+71,Young,Amanda,Westerlands CCC,F,45:04
+72,Wilson,Joan,Lomond Hill Runners,F60,45:16
+73,Boyer,Alistair,Westerlands CCC,M40,45:25
+74,Rogerson,Emma,WaveRiderz,F40,46:13
+75,Heron,Ceana,Shettleston Harriers,F,46:10
+76,Mangan,Clodagh,Westerlands CCC,F,46:53
+77,Ridyard,Alison,HBT,F50,47:09
+78,Fitzpatrick,Pat,Ochil Hill Runners,M70,47:46
+79,Wigzell,Craig,Unattached,M40,47:55
+80,Ballantyne,Susan,Kilmarnock Harriers,F50,48:28
+81,Lindsay,Susan,Ochil Hill Runners,F50,48:38
+82,McGreevy,Kay,Unattached,F60,49:35
+83,Donnelly,John,Westerlands CCC,M60,49:38
+84,Ratcliffe,Sasha,Ayr Seaforth AC,F40,50:14
+85,Finbow,Gavin,Shettleston Harriers,M40,50:23
+86,Manesh,Ben,Unattached,M40,51:31
+87,Beveridge,Rebecca,Westerlands CCC,F,51:56
+88,Vincett,Anna,Westerlands CCC,F,52:38
+89,Sutherland,Rhona,Unattached,F,52:39
+90,Wilson,Colin,Lomond Hill Runners,M60,53:06
+91,Ballantyne,Mhairi,Kilmarnock Harriers,F,53:09
+92,Lean,Carmen,Westerlands CCC,F,53:33
+93,Stakes,David,Westerlands CCC,M60,53:50
+94,Cox,Lynne,Westerlands CCC,F40,55:02
+95,Hair,Steven,RunSteveRun,M,55:07
+96,Scotter,Fiona,WaveRiderz,F50,56:01
+97,Noble,Anne,Troon Tortoises,F60,56:25
+98,Waddington,Michael,Stewarton Ultrarunners,M40,57:00
+99,Fullwood,Andrew,Westerlands CCC,M50,57:14
+100,Bennett,Lynda,Westerlands CCC,F,57:33
+101,Murray,Rosalind,Westerlands CCC,F40,58:52
+102,Porteous,Pamela,Ron's Runners,F50,1:00:00
+103,Wilson,Rachel,Springburn harriers,F50,1:01:11
+104,Ganeko,Seiya,Unattached,M,1:02:18
+105,King,Alex,Ochil Hill Runners,M60,1:07:48
+106,Tulloch,Nicole,Irvine Running Club,F,1:17:56
+107,Adams,Karen,Unattached,F40,1:17:56
+108,Rhodes,Susan,Irvine Running Club,F60,1:17:56

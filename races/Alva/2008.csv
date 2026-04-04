@@ -1,67 +1,67 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Dunn,Alastair,Helm Hill Runners,M,0:20:22
-2,McCarthy,Ewan,Unattached,M,0:20:53
-3,Whitlie,Stewart,Carnethy,M40,0:20:58
-4,Mason,Ted,Wharfedale Harriers,M,0:21:03
-5,Fallon,Steven,Carnethy,M40,0:21:14
-6,Whitehead,Dan,Deeside Runners,M,0:21:23
-7,Elsworth,Bruce,Wharfedale Harriers,M,0:21:54
-8,Taylor,Brendon,Rossendale,M,0:22:19
-9,McGoldrick,Mark,Wharfedale Harriers,M,0:22:59
-10,Johnston,Jamie,Bournville Harriers,M,0:23:08
-11,Watson,Sam,Wharfedale Harriers,MU23,0:23:16
-12,Procter,Billy,Helm Hill Runners,M50,0:23:26
-13,Thompson,Jack,Pendle AC,MU23,0:23:37
-14,Smith,Bruce,Carnethy,M40,0:23:48
-15,Laing,Martin,Unattached,M50,0:23:55
-16,Perry,John,Wharfedale Harriers,M,0:23:58
-17,Preedy,Andrew,Rossendale,M,0:24:28
-18,Urmston,Colin,Clayton Le Moors,M45,0:25:02
-19,Holt,Jack,Clayton Le Moors,M50,0:25:05
-20,Paterson,Roy,Kinross Road Runners,M45,0:25:07
-21,Athersmith,Matthew,Wharfedale Harriers,MU23,0:25:27
-22,Upson,Chris,Westerlands,M40,0:25:38
-23,Lacon,Lisa,Holmfirth Harriers,F,0:25:49
-24,Pryde,Gordon,Lomond Hill Runners,M50,0:25:57
-25,Hensman,Will,Central AC,M,0:26:04
-26,Adair,John,Holmfirth Harriers,M40,0:26:30
-27,Bennett,Andrew,Helm Hill Runners,M,0:26:34
-28,Procter,Ben,Helm Hill Runners,M,0:26:46
-29,Turner,Judith,Falkland Trail Runners,F,0:26:52
-30,Fielden,Olly,Cumberland Fell Runners,M,0:26:59
-31,Gibson,Jonathan,Wharfedale Harriers,M40,0:27:07
-32,Bradshaw,Carl,Wharfedale Harriers,M40,0:27:11
-33,Neil,Craig,Stirling University,M,0:27:18
-34,Sands,Lionel,Unattached,M45,0:27:47
-35,Stevenson,John,Ochil Hill Runners,M45,0:28:41
-36,Procter,Lee,Helm Hill Runners,M,0:28:52
-37,Scholes,Barry,Settle Harriers,M50,0:29:02
-38,Buchanan,Peter,Ochil Hill Runners,M40,0:29:35
-39,Martin,Ryan,Unattached,M,0:29:51
-40,Scholes,Damien,Keighley & Craven,M,0:30:10
-41,Law,William,Unattached,M,0:30:20
-42,Bell-Scott,Rowena,HBT,FU23,0:30:27
-43,Athersmith,Sam,Skipton,MU23,0:30:28
-44,Wilson,Thomas,Pendle AC,MU23,0:30:43
-45,Done,Tim,Wharfedale Harriers,M45,0:30:49
-46,Morrison,Alex,Arbroath Footers,M,0:31:20
-47,Sessford,Paul,Keighley & Craven,M40,0:31:37
-48,Drewette,David,Ochil Hill Runners,M,0:31:42
-49,Wilson,Paul,Wharfedale Harriers,M45,0:32:42
-50,Forrester,Gregor,Unattached,M,0:32:51
-51,Paterson,Barry,Falkirk Victoria Harriers,M,0:32:54
-52,Plunkett,Paul,Wee County Harriers,M,0:33:01
-53,McNeil,Gordon,Wee County Harriers,M40,0:33:05
-54,Taylor,Garry,Carnegie Harriers,M45,0:33:31
-55,Richards,Dawn,Clayton Le Moors,F40,0:35:04
-56,Lindsay,Susan,Ochil Hill Runners,F,0:35:33
-57,Done,Val,Wharfedale Harriers,F40,0:35:49
-58,McCallum,Fergus,Unattached,M45,0:36:49
-59,Peacock,Miles,Unattached,M40,0:36:51
-60,Nairns,William,Ochil Hill Runners,M,0:36:53
-61,Morphet,Samantha,Cumberland Fell Runners,FU23,0:37:24
-62,Hall,Roger,Wharfedale Harriers,M50,0:37:54
-63,Biddle,Andrew,West Pennine,M50,0:37:57
-64,Narey,Sue,Wharfedale Harriers,F,0:39:13
-65,Johnson,Stuart,Unattached,M40,0:45:59
-66,Marshall,Lee,Settle Harriers,M,0:46:39
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Dunn,Alastair,Helm Hill,M,00:20:22
+2,McCarthy,Ewan,Stirling Uni,M,00:20:53
+3,Whitlie,Stewart,Carnethy,M40,00:20:58
+4,Mason,Ted,Wharfedale,M,00:21:03
+5,Fallon,Steven,Carnethy,M40,00:21:14
+6,Whitehead,Dan,Cosmics,M,00:21:23
+7,Elsworth,Bruce,Wharfedale,M,00:21:54
+8,Taylor,Brendon,Rossendale,M,00:22:19
+9,McGoldrick,Mark,Wharfedale,M,00:22:59
+10,Johnston,Jamie,Bournville Harriers,M,00:23:08
+11,Watson,Sam,Wharfedale,MU23,00:23:16
+12,Proctor,Billy,Helm Hill,M50,00:23:26
+13,Thompson,Jack,Pendle,MU23,00:23:37
+14,Smith,Bruce,Carnethy,M40,00:23:48
+15,Laing,Martin,Fife AC,M50,00:23:55
+16,Perry,John,Wharfedale,M,00:23:58
+17,Preedy,Andy,Rossendale,M,00:24:28
+18,Urmston,Colin,Clayton le Moors,M45,00:25:02
+19,Holt,Jack,Clayton le Moors,M50,00:25:05
+20,Patterson,Roy,Kinross RR,M45,00:25:07
+21,Athersmith,Matthew,Skipton,MU23,00:25:27
+22,Upson,Chris,Westerlands,M40,00:25:38
+23,Lacon,Lisa,Holmfirth,F,00:25:49
+24,Pryde,Gordon,Lomond HR,M50,00:25:57
+25,Hensman,Will,Forth Valley Orienteers,M,00:26:04
+26,Adair,John,Holmfirth,M40,00:26:30
+27,Bennett,Andrew,Helm Hill,M,00:26:34
+28,Proctor,Ben,Helm Hill,M,00:26:46
+29,Taylor,Judith,Carnegie,F,00:26:52
+30,Fielden,Olly,Helm Hill,M,00:26:59
+31,Gibson,Jonathan,Wharfedale,M40,00:27:07
+32,Bradshaw,Carl,Wharfedale,M40,00:27:11
+33,Neil,Craig,Stirling Uni,M,00:27:18
+34,Sands,Lionel,Unattached,M45,00:27:47
+35,Stevenson,John,Ochil HR,M45,00:28:41
+36,Proctor,Lee,Helm Hill,M,00:28:52
+37,Scholes,Barry,Wharfedale,M50,00:29:02
+38,Buchanan,Peter,Ochil HR,M40,00:29:35
+39,Martin,Ryan,Unattached,M,00:29:51
+40,Scholes,Damien,Keighley & Craven,M,00:30:10
+41,Law,William,Fife AC,M,00:30:20
+42,Bell-Scott,Rowena,Edinbugh Uni H&H,FU23,00:30:27
+43,Athersmith,Sam,Skipton,MU23,00:30:28
+44,Wilson,Thomas,Pendle,MU23,00:30:43
+45,Done,Tim,Keighley & Craven,M45,00:30:49
+46,Morrison,Alex,Arbroath Footers,M,00:31:20
+47,Sessford,Paul,Keighley & Craven,M40,00:31:37
+48,Drewette,David,Ochil HR,M,00:31:42
+49,Wilson,Paul,Pendle,M45,00:32:42
+50,Forrester,Gregor,Unattached,M,00:32:51
+51,Paterson,Barry,Unattached,M,00:32:54
+52,Plunkett,Paul,Wee County Harriers,M,00:33:01
+53,McNeil,Gordon,Central AC,M40,00:33:05
+54,Taylor,Garry,Carnegie,M45,00:33:31
+55,Richards,Dawn,Pendle,F40,00:35:04
+56,Lindsay,Susan,Ochil HR,F,00:35:33
+57,Done,Val,Unattached,F40,00:35:49
+58,McCallum,Fergus,Unattached,M45,00:36:49
+59,Peacock,Miles,Unattached,M40,00:36:51
+60,Nairns,William,Ochil HR,M,00:36:53
+61,Morphet,Samantha,Cumberland FR,FU23,00:37:24
+62,Hall,Roger,Bingley Harriers,M50,00:37:54
+63,Biddle,Andrew,West Pennine,M50,00:37:57
+64,Narey,Sue,Bingley Harriers,F,00:39:13
+65,Johnson,Stuart,Unattached,M40,00:45:59
+66,Marshall,Lee,Burton,M,00:46:39

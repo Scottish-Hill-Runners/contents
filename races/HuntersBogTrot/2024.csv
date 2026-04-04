@@ -1,0 +1,106 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Espie,James,Deeside Runners,M,00:25:31
+2,Sparks,Robert,Edinburgh Uni H&H,M,00:26:26
+3,Thomson,Fearghas,Granite City Harriers,M,00:26:46
+4,Doherty,Max,Olympic Harriers,MJ,00:27:44
+5,Ward,Dave,HBT,M40,00:28:36
+6,Fleming,Matt,Hoad Hill Harriers,M,00:28:58
+7,Gray,Adam,Penicuik Harriers,M,00:29:21
+8,Ockenden,John,HBT,M,00:29:27
+9,Henderson,Jonny,HBT,M,00:29:34
+10,Gardner,Peter,HBT,M,00:29:37
+11,Robinson,James,Unattached,M,00:29:52
+12,Jones,Huw,HBT,M40,00:30:14
+13,Macpherson,Ian,Kilbarchan AC,MJ,00:30:53
+14,Strathdee,Ishbel,Unattached,F,00:30:57
+15,Walsh,Chris,HBT,M40,00:31:03
+16,Bowden,James,HBT,M,00:31:44
+17,Smith,Gav,HBT,M40,00:31:51
+18,Wallace,Joe,Unattached,M,00:31:56
+19,Mcfadden,Fraser,Unattached,M,00:32:25
+20,Ferguson,Andrew,Granite City Harriers,M,00:32:55
+21,Vitry,Jean-Paul,Edinburgh Triathlete,M,00:33:02
+22,Lorimer,Hayden,HBT,M50,00:33:03
+23,Jacques,Lucy,HBT,F,00:33:28
+24,Williamson,Ben,Unattached,M,00:33:31
+25,Wilson,Rob,Penicuik Harriers,M50,00:33:36
+26,Winn,Alexander,Bellahouston Harriers,M,00:33:44
+27,Chadwick,Rob,HBT,M,00:33:44
+28,Daigeaun,Micah,Unattached,F40,00:33:55
+29,Belton,Aidan,HBT,M,00:34:01
+30,Hansen,Max,Carnethy HRC,M,00:34:04
+31,Samplonius,Jelmer,HBT,M,00:34:09
+32,Morton,David,Musselburgh,MJ,00:34:12
+33,Whiteford,Andy,Springwell RC,M40,00:34:15
+34,Jacques,Ben,Unattached,M,00:34:38
+35,Crawford,Sarah,HBT,F,00:34:42
+36,Kafka,Graeme,HBT,M40,00:35:00
+37,Normand,Ivor,HBT,M50,00:35:28
+38,Brown,Gregor,Unattached,M40,00:35:33
+39,Williamson,Coll,HBT,M,00:35:34
+40,Massie,Grant,HBT,M,00:35:39
+41,Hart,Jonathon,Carnethy HRC,M,00:35:41
+42,Winstock,Callum,HBT,M,00:35:49
+43,Mcclelland,Pete,HBT,M40,00:35:51
+44,Ross,Kyle,Unattached,M,00:35:55
+45,Willetts,Andy,North Ayrshire AC,M40,00:36:00
+46,Scott,Andrew,Musselburgh,M40,00:36:03
+47,Grassie,Duncan,HBT,M40,00:36:18
+48,Bareford,Michael,HBT,M50,00:36:22
+49,Mcallister,Gina,Penicuik Harriers,F40,00:36:24
+50,White,Vicki,HBT,F40,00:36:37
+51,Philip,Daryl,HBT,M40,00:37:54
+52,Ostheimer,Mark,HBT,M,00:37:57
+53,Chambers,Andrew,Ochil Hill Runners,M40,00:38:16
+54,Thirlwell,Andrew,HBT,M,00:38:26
+55,Farrell,Tom,Unattached,MJ,00:38:39
+56,Wastnedge,Lizzie,HBT,F,00:38:46
+57,Frew,Georgie,HBT,F,00:39:14
+58,Gliebitz,Dan,HBT,M,00:39:17
+59,Watson,Joe,HBT,M,00:39:19
+60,Stable,Charles,Musselburgh,M50,00:39:23
+61,Webb,Richard,Unattached,M,00:39:30
+62,Weil,Esther,Carnethy HRC,F,00:40:14
+63,Brown,Ralph,EH3 Milers,M,00:40:20
+64,Antunes,Andre,HBT,M40,00:40:29
+65,Porter,Keiran,Linlithgow AC,M,00:40:49
+66,Underwood,Ian,HBT,M,00:41:08
+67,Scott,Hannah,Musselburgh,FJ,00:41:16
+68,Rudland,Steve,HBT,M60,00:41:24
+69,Michalowski,Michal,Unattached,M40,00:41:52
+70,Wallace,Robert,Unattached,M50,00:41:53
+71,Twigg,Martin,HBT,M50,00:41:57
+72,Hylton,Sarah,HBT,F,00:41:59
+73,Kedziora,Marta,Unattached,F,00:42:53
+74,Kemp,Sadie,Penicuik Harriers,F40,00:42:59
+75,Kimenai,Dorian,Moorfoot,F,00:43:24
+76,Holland,James,Unattached,M,00:43:27
+77,Malcolm-Smith,Mike,Musselburgh,M50,00:43:57
+78,Organ,Sarah,Good Times RC,F,00:44:14
+79,Scott,Rosie,Musselburgh,F,00:44:56
+80,Brown,Jasmine,HBT,F,00:45:04
+81,De Bakker,Marie,Unattached,F,00:45:24
+82,Weede,James,Strathaven Striders,M50,00:45:27
+83,Gessford,Lee,Falkland Trail Runners,M40,00:45:34
+84,Cook,Daniel,Unattached,M,00:45:45
+85,Jenson,Adam,Unattached,M,00:45:47
+86,Mearns,Hannah,West End Road Runners,F,00:45:57
+87,Fernandez,Paula,Unattached,F,00:45:58
+88,Wilkinson,Miles,Kafka'S Stag,M40,00:46:19
+89,Bisset,Michael,Carnegie Harriers,M50,00:46:42
+90,Fraser,Ron,Dundee RR,M60,00:47:26
+91,Stroobants,Matthijs,HBT,M,00:48:04
+92,Wehking,Martin,HBT,M,00:48:04
+93,Coltman,Alan,Teviotdale Harriers,M50,00:49:37
+94,Dixon,Chris,Unattached,M,00:50:18
+95,Mcgowan,Daniel,Unattached,M,00:50:34
+96,Brack,Kat,Musselburgh,F,00:50:50
+97,Collins,Danielle,Unattached,F40,00:51:02
+98,Robertson,David,Unattached,M40,00:51:05
+99,Morton,Ian,Musselburgh,M60,00:51:17
+100,Fox,Chris,Good Times RC,M50,00:51:19
+101,Tweedie,Steven,Unattached,M,00:52:18
+102,Warner,Tim,Moorfoot,M60,00:54:36
+103,King,Shelagh,Gala Harriers,F60,00:54:38
+104,Emerson,Pete,Good Times RC,M,00:56:28
+105,Wall,Dick,HBT,M60,00:58:01

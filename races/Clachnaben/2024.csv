@@ -1,0 +1,90 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Gollan,Ross,East Sutherland AC,M,01:07:34
+2,Douglas,Andrew,Westerlands CCC,M,01:07:51
+3,Sinclair,Rob,Highland Hill Runners,M,01:12:46
+4,Ralph,McInally,Strathearn Harriers,M,01:15:18
+5,Gilmore,Andrew,Highland Hill Runners,M,01:15:42
+6,Anderson,Darroch,Carnethy HRC,M,01:17:18
+7,Wilkins,Robin,Ochil Hill Runners,M40,01:17:36
+8,Barrie,Adam,Unattached,M,01:17:47
+9,Wood,Fergus,Deeside Runners,M,01:19:20
+10,Beaven,Ally,Highland Hill Runners,M,01:21:15
+11,Battle,Hamish,Metro Aberdeen RC,M,01:22:22
+12,Gilmore,Iain,Carnethy HRC,M,01:24:03
+13,Freshwater,Craig,Deeside Runners,M40,01:24:21
+14,Stewart,Munro,Dundee Hawkhill,M,01:24:48
+15,Bracegirdle,Tom,Muddy Mucky Munkeys,M40,01:24:54
+16,Thom,Caiden,Metro Aberdeen RC,M,01:26:14
+17,Wilson,Euan,Insch TRC,M40,01:26:53
+18,Bloomfield,Harry,Unattached,M,01:27:23
+19,Whitehead,Ranolph,Unattached,M,01:28:28
+20,Whitehead,Dan,Deeside Runners,M50,01:28:33
+21,Stephen,Jill,Deeside Runners,F40,01:28:41
+22,Comber,Ayron,Deeside Runners,M40,01:29:41
+23,Kirk,Lachlan,Unattached,M,01:31:34
+24,Irvine,Clara-Jane,Deeside Runners,F,01:31:37
+25,Johnston,Fergus,Deeside Runners,M40,01:32:27
+26,Prise,Eilidh,Lochaber AC,F,01:33:23
+27,Bostock,Andrew,Unattached,M40,01:33:52
+28,Fallon,Steven,Carnethy HRC,M60,01:35:33
+29,Campbell,Kirsty,Deeside Runners,F,01:36:40
+30,Jobling,Robert,Cosmic Hillbashers,M,01:36:43
+31,Horsfall,Tim,Mearns Hill Runners,M40,01:37:27
+32,Kerridge,Donald,Deeside Runners,M50,01:39:33
+33,Vassallo,Alexander,Dundee Hawkhill,M,01:40:15
+34,Williamson,Jason,Cosmic Hillbashers,M50,01:40:41
+35,Darlington,Anwen,Dundee RR,F,01:43:06
+36,Gilmore,Neil,Carnethy HRC,M60,01:43:32
+37,Murray,Laura,Deeside Runners,F,01:43:35
+38,Padilla,Monica,Highland Hill Runners,F40,01:43:54
+39,Murray,Rab,Unattached,M60,01:44:04
+40,Ewart,Andrew,Unattached,M,01:44:06
+41,Henderson,Katie,Deeside Runners,F40,01:44:36
+42,Hirst,David,Deeside Runners,M60,01:44:38
+43,Muir,Amy,Stonehaven Running Club,F,01:45:31
+44,Robertson,Hugh,Insch TRC,M40,01:45:38
+45,O'Neil,Zac,Ochil Hill Runners,M40,01:45:56
+46,Henderson,David,Stonehaven Running Club,M40,01:46:51
+47,Lang,Richard,Cosmic Hillbashers,M50,01:46:59
+48,Cooke,Matthew,Metro Aberdeen RC,M40,01:47:38
+49,Kirk,David,Cosmic Hillbashers,M50,01:49:01
+50,Anderson,Graeme,Deeside Runners,M50,01:49:07
+51,Brown,Donald,Lomond Hill Runners,M50,01:49:29
+52,Krauss,Ludovic,Metro Aberdeen RC,M40,01:50:01
+53,Mackenzie,Ruth,Deeside Runners,F50,01:50:15
+54,Macgillivray,Mark,Stonehaven Running Club,M50,01:51:04
+55,Harris,Annaelle,Cosmic Hillbashers,F,01:51:23
+56,Phillips,Andre,Unattached,M,01:51:27
+57,Stephen,Jeffrey,Garioch Roadrunners,M60,01:51:41
+58,Soper,Chris,Garioch Roadrunners,M,01:51:46
+59,Hohensee,Paula,Unattached,F,01:52:30
+60,Lawrence,Benjamin,AUAC,M,01:52:43
+61,Lawrence,Peter,Stonehaven Running Club,M60,01:54:41
+62,Erskine,Caitlin,Unattached,F,01:55:06
+63,Erskine,Callan,Unattached,M,01:55:07
+64,Balfour,Mabel,Deeside Runners,F,01:55:08
+65,Canavan,F?ona,Dundee RR,F,01:55:37
+66,Baxter,Ros,Deeside Runners,F50,01:55:50
+67,Sheridan,Bob,Deeside Runners,M50,01:56:15
+68,Bryce,Rebecca,Stonehaven Running Club,F40,01:57:10
+69,Furse,Chris,Westerlands CCC,M50,01:58:05
+70,Maccagno,Paolo,Banchory Running Club,M50,01:58:17
+71,Robertson,Julia,Lochaber AC,F,01:58:52
+72,Swinton,Adam,Metro Aberdeen RC,M50,01:59:11
+73,Sell,Scott,Stonehaven Running Club,M40,02:01:00
+74,Yule,Michael,Unattached,M40,02:01:04
+75,McDonald,Fiona,Cosmic Hillbashers,F40,02:02:24
+76,Dick,Alan,Cosmic Hillbashers,M50,02:09:16
+77,Lindsay,Neil,Stonehaven Running Club,M50,02:12:40
+78,Wilson,Anthony,Insch TRC,M50,02:13:12
+79,Ritchie,Graham,Stonehaven Running Club,M60,02:13:49
+80,Ward,Becky,Metro Aberdeen RC,F,02:14:54
+81,Mearns,Vikki,Insch TRC,F40,02:15:13
+82,Locke,Alison,Garioch Roadrunners,F40,02:15:16
+83,Hale,Mark,Metro Aberdeen RC,M40,02:18:14
+84,Lacan,Ludovic,Metro Aberdeen RC,M40,02:18:43
+85,Beaton,Jamie,Garioch Roadrunners,M40,02:19:29
+86,Smith,Linda,Moray Road Runners,F60,02:19:32
+87,Reid,Colin,Unattached,M50,02:20:08
+88,Murray,Anne,Insch TRC,F50,02:26:23
+89,Ipsen,Caroline,Insch TRC,F50,02:33:12

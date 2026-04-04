@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Smith,Alan,Deeside Runners,M,00:37:01
 2,Williamson,Jason,Cosmics,M,00:37:57
 3,Graham,Luke,Unattached,M,00:39:18

@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Pulham,Harry,Shettleston Harriers,M,00:34:17
 2,Thornton,Alistair,Ochil Hill Runners,M,00:34:30
 3,Campbell,Alasdair,Unattached,M,00:35:05
@@ -28,13 +28,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 27,Johnstone,Leo,Dumbarton AAC,M,00:44:32
 28,Lorimer,Hayden,HBT,M50,00:44:46
 29,Buglass,Donnie,Shettleston Harriers,M,00:44:47
-30,Swift,Jordan,Chorley Athletic & Tri Club,M,00:44:55
+30,Swift,Jordan,Chorley Athletic & Tri Club,NB,00:44:55
 31,Morris,Ross,Westerlands CCC,M,00:45:20
 32,Sweeney,Michael,Helensburgh AAC,M40,00:45:27
 33,Brown,Gareth,North Ayrshire AC,M40,00:45:45
 34,Griffiths,Evan,Westerlands CCC,M,00:45:50
 35,Weir,Jonathan,Unattached,M40,00:45:56
-36,Macphail,Cj,Shettleston Harriers,F,00:46:00
+36,Macphail,C J,Shettleston Harriers,F,00:46:00
 37,Wheeler,Mark,Hamilton Harriers,M40,00:46:01
 38,Stuart,Meg,Westerlands CCC,F,00:46:05
 39,Taylor,Andrew,Shettleston Harriers,M,00:46:35
@@ -56,7 +56,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Garnett,Ian,Unattached,M,00:49:41
 56,MacMahon,Ken,Garscube Harriers,M40,00:50:05
 57,Reis,Rodrigo,Shettleston Harriers,M40,00:50:35
-58,Shelton,Henry,Unattached,M,00:51:40
+58,Shelton,Henry,Unattached,NB,00:51:40
 59,Partington,Tom,Westerlands CCC,M,00:52:28
 60,O'Hanlon,Fergus,Unattached,M,00:52:59
 61,Husbands,Jess,HBT,F,00:53:09
@@ -67,7 +67,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 66,McGreevy,Paul,Unattached,M50,00:53:41
 67,Butler,Chris,Westerlands CCC,M,00:53:43
 68,Easton,Ian,Westerlands CCC,M50,00:53:46
-69,Nolan,Craig,Corstorphine,M,00:54:47
+69,Nolan,Craig,Corstorphine,NB,00:54:47
 70,Boyer,Alistair,Westerlands CCC,M40,00:55:15
 71,Sandhu,Kal,Westerlands CCC,M,00:55:20
 72,Kelly,Graham,Westerlands CCC,M50,00:55:29

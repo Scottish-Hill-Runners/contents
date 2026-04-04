@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wilson,Euan,Insch TRC,M,00:45:05
 2,Adams,Scott,Metro Aberdeen,M,00:45:45
 3,Henry,Peter,Deeside Runners,M,00:46:21
@@ -36,5 +36,5 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 35,Oliver,Jane,Deeside Runners,F60,01:10:55
 36,Reid,Colin,Unattached,M50,01:11:41
 37,Adams,Lewis,Insch TRC,M,01:13:19
-38,Barrie,Sue ,MAROC,F50,01:15:55
+38,Barrie,Sue,MAROC,F50,01:15:55
 39,Paterson,Rachel,JSK Running Club,F50,01:16:05

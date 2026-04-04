@@ -1,26 +1,26 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Naylor,Donald,HBT,M,1:11:55
-2,Keith,Alec,Inverness Harriers,M40,1:12:55
-3,Donnelly,Colin,Cambuslang Harriers,M40,1:15:42
-4,Speight,Neil,Highland Hill Runners,M40,1:16:12
-5,Smith,Alan,Deeside Runners,M40,1:19:03
-6,Bannerman,Ross,East Sutherland,M,1:19:11
-7,Gorman,Manny,Westerlands,M40,1:20:22
-8,MacDonald,Donnie,Inverness Harriers,M,1:21:23
-9,Worsley,Steven,Inverness Harriers,M40,1:23:19
-10,Love,Craig,Dundee Hawkhill,M40,1:24:53
-11,Anderson,Laurie,Lomond Hill Runners,M40,1:26:05
-12,Delaney,Kevin,Skye & Lochalsh RC,M40,1:26:25
-13,Fowler,Nigel,Fife AC,M40,1:35:04
-14,Edge,Glenn,Skye & Lochalsh RC,M50,1:35:35
-15,Olden,Colin,Unattached,M,1:37:31
-16,Reid,George,Triathlon Inverness,M,1:38:11
-17,Bannerman,Roxy,East Sutherland,F,1:41:59
-18,Wilson,Colin,Lomond Hill Runners,M40,1:42:31
-19,Harrison,Raymond,Unattached,M40,1:44:16
-20,Love,Charlie,Dundee Hawkhill,M65,1:44:31
-21,Wilson,Joan,Lomond Hill Runners,F40,1:55:42
-22,Orr,Ernie,Lochaber AC,M50,1:56:12
-23,Menhennet,Christine,Westerlands,F50,1:58:49
-24,Schreiber,Jo,Girvan Harriers,F40,1:58:49
-25,Paul,Brenda,Westerlands,F,2:22:06
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Naylor,Donald,HBT,MS,01:11:55
+2,Keith,Alex,HBT,M40,01:12:55
+3,Donnelly,Colin,Lochaber AC,M40,01:15:42
+4,Speight,Neil,Highland HR,M40,01:16:12
+5,Smith,Alan,Deeside R,M40,01:19:03
+6,Bannerman,Ross,Highland HR,MS,01:19:11
+7,Gorman,Manny,Westies,M40,01:20:22
+8,McDonald,Donnie,Unatt,MS,01:21:23
+9,Worsley,Steve,Highland HR,M40,01:23:19
+10,Love,Craig,Dundee HH,M40,01:24:53
+11,Anderson,Laurie,Fife AC,M40,01:26:05
+12,Delaney,Kevin,Skye & Lochalsh AC,M40,01:26:25
+13,Fowler,Nigel,Fife AC,M40,01:35:04
+14,Edge,Glenn,Skye & Lochalsh AC,M50,01:35:35
+15,Olden,Colin,Unatt,M,01:37:31
+16,Reid,George,Unatt,M,01:38:11
+17,Bannerman,Roxy,Highland HR,FS,01:41:59
+18,Wilson,Colin,Carnethy HRC,M40,01:42:31
+19,Harrison,Raymond,Unatt,M40,01:44:16
+20,Love,Charlie,Dundee HH,M65,01:44:31
+21,Wilson,Joan,Carnethy HRC,F40,01:55:42
+22,Orr,Ernie,Lochaber AC,M50,01:56:12
+23,Menhennet,Christine,Westies,F50,01:58:49
+24,Schreiber,Jo,Pudsey & Bramley AC,F40,01:58:49
+25,Paul,Brenda,Westies,FS,02:22:06

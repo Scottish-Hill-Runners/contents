@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Battle,Hamish,Metro Aberdeen,M,00:32:11
 2,Espie,James,Deeside Runners,M,00:32:22
 3,Henry,Peter,Deeside Runners,M,00:35:17
@@ -13,7 +13,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Payne,Lina,Deeside Runners,F50,00:43:44
 13,Cruickshank,Greig,JSK Running Club,M50,00:44:10
 14,Hendrson,katie,Deeside Runners,F40,00:44:52
-15,Ingram,Richard ,Cosmic Hill Bashers,M40,00:45:57
+15,Ingram,Richard,Cosmic Hill Bashers,M40,00:45:57
 16,Dunn,Sarah,Deeside Runners,F50,00:46:06
 17,Provan,Louise,Cosmic Hillbashers,F40,00:46:31
 18,Lornie,Graeme,Unattached,M50,00:46:42
@@ -24,7 +24,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Anderson,Graeme,Deeside Runners,M50,00:48:09
 24,Pearce,katie,Cosmic Hill Bashers,F40,00:48:25
 25,Hamilton,Ian,Cosmic Hillbashers,M50,00:48:48
-26,Kerridge,Donald ,Deeside Runners,M50,00:48:58
+26,Kerridge,Donald,Deeside Runners,M50,00:48:58
 27,Radford,Mark,Insch Trail Running Club,M50,00:49:00
 28,Robertson,Hugh,Insch Trail Running Club,M40,00:49:42
 29,Duncan,David,Unattached,M60,00:51:08

@@ -1,41 +1,42 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Parrish,David,Dumfries RC,M,1:32:01
-2,Fulton,David,HBT,M,1:36:12
-3,Haworth,Jim,Galloway Harriers,M40,1:36:36
-4,Anderson,Adam,Hartfell HRC,M40,1:37:05
-5,Pryde,Gordon,Lomond Hill Runners,M50,1:40:33
-6,Anderson,Russell,Moorfoot Runners,M50,1:43:14
-7,Osbourne,Rafe,Unattached,M,1:44:11
-8,Malcolmson,Craig,Hartfell HRC,M40,1:45:09
-9,Goldsworthy,John,Hardrock Hoodlums,M50,1:46:19
-10,Galbraith,Jim,Giffnock North,M50,1:46:30
-11,Milligan,Douglas,Solway,M60,1:46:40
-12,Riddell,Duncan,Westerlands,M40,1:47:21
-13,Brash,Colin,Girvan Harriers,M40,1:49:00
-14,Webster,Andrew,Solway,M,1:49:23
-15,Murphy,Craig,Girvan Harriers,M40,1:49:41
-16,Mair,Will,HBT,M,1:51:14
-17,Mackie,Peter,Shettleston Harriers,M,1:51:28
-18,Bloxham,Alistair,Dumfries RC,M,1:52:30
-19,Cherry,Bob,Ayr Seaforth,M50,1:54:18
-20,Cowper,Stephen,Milburn Harriers,M40,1:54:56
-21,Johnston,Stephen,Milburn Harriers,M40,1:59:38
-22,Gerrie,Bill,Troon Tortoises,M40,2:00:38
-23,Singh,Shirley,Hardrock Hoodlums,F40,2:01:04
-24,Thompson,Fabienne,Perth Road Runners,F40,2:03:09
-25,Adam,Sarah,Westerlands,F,2:03:19
-26,Maass,Digby,Carnethy,M60,2:03:36
-27,Schreiber,Jo,Girvan Harriers,F40,2:03:55
-28,Pugh,Roderick,Kilmarnock Harriers,M50,2:06:03
-29,Elder,Bob,Cosmics,M50,2:07:15
-30,Wheeler,Mark,Hamilton Harriers,M,2:08:44
-31,Gordon,Nick,Solway,M40,2:11:03
-32,Parker,Craig,Solway,M40,2:11:23
-33,Evans,Malcolm,Westerlands,M60,2:11:59
-34,Drain,Alex,Troon Tortoises,M50,2:16:50
-35,McNicol,David,Unattached,M50,2:18:15
-36,Davidson,Iain,Girvan Harriers,M50,2:18:39
-37,Coe,Nigel,Ambleside,M50,2:22:58
-38,Etchells,David,Troon Tortoises,M,2:24:12
-39,Campbell,Ian,HBT,M40,2:30:17
-40,McManus,Ian,Irvine RC,M60,2:48:07
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Parish,David,Dumfries RC,Senior Male,01:32:01
+2,Fulton,David,Hunter Bog Trotters,Senior Male,01:36:12
+3,Haworth,Jim,Unatt,Male 40+,01:36:36
+4,Anderson,Adam,Carnethy Hill Runners,Male 40+,01:37:05
+5,Pryde,Gordon,Lomond Hill Runners,Male 50+,01:40:33
+6,Anderson,Russell,Moorfoot Runners,Male 50+,01:43:14
+7,Osborne,Rafe,Unatt,Senior Male,01:44:11
+8,Malcolmson,Craig,Dumfries RC,Male 40+,01:45:09
+9,Gudsworthy,John,Galloway Harriers,Male 50+,01:46:19
+10,Galbraith,Jim,Giffnock North,Male 50+,01:46:30
+11,Milligan,Dougie,Solway Runners,Male 60+,01:46:40
+12,Riddell,Duncan,Maryhill Harriers,Male 40+,01:47:21
+13,Brash,Colin,Girvan AAC,Male 40+,01:49:00
+14,Webster,Andrew,Solway Runners,Senior Male,01:49:23
+15,Murphy,Craig,Girvan AAC,Male 40+,01:49:41
+16,Mair,William,Hunter Bog Trotters,Senior Male,01:51:14
+17,Mackie,Peter,Unatt,Senior Male,01:51:28
+18,Blonthan,Alastair,Dumfries RC,Senior Male,01:52:30
+19,Cherry,Bob,Ayr Seaforth,Male 50+,01:54:18
+20,Cowper,Stephen,Millburn Harriers,Male 40+,01:54:56
+21,Johnston,Stephen,Millburn Harriers,Male 40+,01:59:38
+22,Gerrie,Bill,Troon Tortoises,Male 40+,02:00:38
+23,Singh,Shirley,Dumfries RC,Female 40+,02:01:04
+24,Thompson,Fabienne,Carnegie,Female 40+,02:03:09
+25,Adam,Sarah,Maryhill Harriers,Senior Female,02:03:19
+26,Maass,Digby,Carnethy Hill Runners,Male 60+,02:03:36
+27,Shcrieber,Jo,Girvan AAC,Female 40+,02:03:55
+28,Pugh,Roderick,Kilmarnock Harriers,Male 50+,02:06:03
+29,Elder,Bob,Cosmic Hill Bashers,Male 50+,02:07:15
+30,Wheeler,Mark,Unatt,Senior Male,02:08:44
+31,Grodon,Nick,Solway Runners,Male 40+,02:11:03
+32,Parker,Craig,Solway Runners,Male 40+,02:11:23
+33,Evans,Malcolm,Westerlands,Male 60+,02:11:59
+34,Drain,Alex,Troon Tortoises,Male 50+,02:16:50
+35,McNicol,David,Unatt,Male 50+,02:18:15
+36,Davidson,Iain,Girvan AAC,Male 50+,02:18:39
+37,Coe,Nigel,Ambleside AC,Male 50+,02:22:58
+38,Etchells,David,Troon Tortoises,Senior Male,02:24:12
+39,Campbell,Ian,Hunter Bog Trotters,Male 40+,02:30:17
+40,McManus,Ian,Irvine Athletic Club,Male 60+,02:48:07
+999,Paul,Chris,Unatt,Senior Male,00:00:00

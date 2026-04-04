@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:25:40
 2,Thornton,Alistair,Ochil Hill Runners,M,00:25:56
 3,Taylor,Jack,Ochil Hill Runners,M,00:27:08

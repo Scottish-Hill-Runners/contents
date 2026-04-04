@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde AC,MSEN,01:51:29
 2,Barrington,Andrew,Lochaber AC,MSEN,02:09:57
 3,Bisset,Alasdair,Edinburgh Uni H&H,MU23,02:11:21
@@ -50,7 +50,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 49,Robertson,Hugh,Insch Trail RC,M40,03:08:13
 50,Dey,Jacoline,Insch Trail RC,W40,03:09:41
 51,McIntosh,Pete,Unattached,M40,03:12:40
-52,Farquar,John ,Unattached,M50,03:13:39
+52,Farquar,John,Unattached,M50,03:13:39
 53,Kammer,Philip,Deveron Harriers,M60,03:14:19
 54,Macpherson,Rory,Unattached,MSEN,03:14:28
 55,Dick,Alan,Cosmics,M50,03:14:43
@@ -60,7 +60,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 59,Allan-Cook,Malcolm,Insch Trail RC,M40,03:20:27
 60,Pearce,Katie,Cosmics,W40,03:20:35
 61,Till,Dave,Skye & Lochalsh RC,M60,03:27:32
-62,Cumberland,Rachel ,Vegan Runners,WSEN,03:29:21
+62,Cumberland,Rachel,Vegan Runners,WSEN,03:29:21
 63,Andrews,Stuart,Unattached,M40,03:30:21
 64,Lang,Kenny,Lochaber AC,M50,03:33:12
 65,Duffus,Ivor,Unattached,M50,03:33:41

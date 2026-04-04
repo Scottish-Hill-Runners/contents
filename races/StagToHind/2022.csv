@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Park,Adam,Hartfell HRC,M,00:24:33
 2,Boyd,Nicholas,Moorfoot Runners,M,00:25:33
 3,Lavin,Daniel,Moorfoot Runners,M,00:26:22
@@ -17,14 +17,14 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 16,Mortlock,Simon,Dumfries RC,M50,00:32:16
 17,Gonzales,Alexandrea,Queenberry Running Club,F,00:32:32
 18,Black,Lewis,Queenberry Running Club,M,00:33:24
-19,Dean,Adrian ,Hartfell HRC,M40,00:33:25
+19,Dean,Adrian,Hartfell HRC,M40,00:33:25
 20,Ramage,Elysha,Hartfell HRC,F,00:33:57
 21,Duncan,David,Ochil Hill Runners,M60,00:34:04
 22,Murgatroyd,Ian,Hartfell HRC,M60,00:34:44
 23,Elder,Alan,Moorfoot Runners,M50,00:35:06
 24,Heycock,Lucy,Hartfell HRC,F50,00:35:56
 25,Black,Stuart,Queenberry Running Club,M,00:36:49
-26,Priestley,Janet ,Hartfell HRC,F60,00:37:21
+26,Priestley,Janet,Hartfell HRC,F60,00:37:21
 27,Gordon,Nicholas,Hartfell HRC,M50,00:38:03
 28,Park,Archibald,Hartfell HRC,M60,00:38:17
 29,Huntley,Chris,Tinto Hill Runners,M60,00:38:24

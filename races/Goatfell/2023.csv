@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde AC,M,01:14:43
 2,Masson,Alistair,Carnethy HRC,M,01:16:27
 3,Campbell,Alasdair,Cambuslang Harriers,M,01:17:50
@@ -51,7 +51,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 50,McAlinden,Niall,Westerlands CCC,M,01:37:10
 51,Boyne,Grant,Shettleston Harriers,M,01:37:15
 52,Barber,Zoe,Shettleston Harriers,F,01:37:19
-53,Upson,Chris,Cambuslang Harriers,M50,01:37:22
+53,Upson,Chris,Cambuslang Harriers,M55,01:37:22
 54,Maciver,Alasdair,Westerlands CCC,M,01:37:33
 55,Thurlow-Begg,Richard,Westerlands CCC,M,01:37:42
 56,Callender,James,Westerlands CCC,M,01:37:53
@@ -64,7 +64,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,Foreman,Ella,Westerlands CCC,F,01:39:47
 64,Watson,Cameron,Lomonds,M50,01:39:52
 65,Harkin,Richie,Ayrshire Hill & Trail Runners,M,01:40:34
-66,Anderson,Adam,Hartfell HRC,M50,01:40:42
+66,Anderson,Adam,Hartfell HRC,M55,01:40:42
 67,Macphail,Catherine Joanne,Shettleston Harriers,F,01:40:47
 68,Leigh,Helen,Highland Hill Runners,F,01:41:15
 69,Dobson,Jason,Highland Hill Runners,M,01:41:19
@@ -83,7 +83,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 82,Johnstone,Eleanor,Carnethy HRC,F,01:43:48
 83,Mudge,Angela,Ochil Hill Runners,F50,01:43:57
 84,Morris,Ross,Westerlands CCC,M,01:44:06
-85,MacDonald,Ally,Bellahouston RR,M50,01:44:26
+85,MacDonald,Ally,Bellahouston RR,M55,01:44:26
 86,Wilson,Rob,Penicuik Harriers,M50,01:44:49
 87,Wight,Ally,Hardrock Hoodlums,M40,01:45:00
 88,Goodger,Michael,Westerlands CCC,M,01:45:18
@@ -91,7 +91,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 90,Normand,Will,Carnethy HRC,M,01:45:41
 91,Smith,Matthew,Glasgow Uni H&H,M,01:46:22
 92,Cameron,Angus,Lochaber AC,M,01:47:00
-93,Wilson,Stewart,Highland Hill Runners,M50,01:47:01
+93,Wilson,Stewart,Highland Hill Runners,M55,01:47:01
 94,Flores,Leyre,Westerlands CCC,F,01:47:17
 95,Bucciarello,Gabriele,ASD Roma Ecomaratona,M,01:47:41
 96,Newton,Matt,Kinross RR,M40,01:48:11
@@ -105,15 +105,15 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 104,Watson,Madeleine,Law & District AAC,F,01:48:59
 105,Collins,Ian,Westerlands CCC,M40,01:49:24
 106,Cox,Andrew,Moorfoot Runners,M40,01:50:08
-107,Tullie,John,Teviotdale Harriers,M60,01:50:22
-108,Plummer,Kevin,Hartfell HRC,M50,01:50:23
+107,Tullie,John,Teviotdale Harriers,M65,01:50:22
+108,Plummer,Kevin,Hartfell HRC,M55,01:50:23
 109,Challands,Diana,Moorfoot Runners,F40,01:50:50
 110,Beveridge,Keith,Lochaber AC,M40,01:50:51
-111,McLure,Neil,Carnegie Harriers,M50,01:50:53
+111,McLure,Neil,Carnegie Harriers,M55,01:50:53
 112,Thomas,Jamie,Dunbar AC,M40,01:50:58
 113,Foster,Paul,Westerlands CCC,M,01:51:10
 114,Templeman,Simon,Ochil Hill Runners,M50,01:51:22
-115,Oldham,Veronique,Cosmics,F50,01:51:48
+115,Oldham,Veronique,Cosmics,F55,01:51:48
 116,Macfarlane,Kate,Carnethy HRC,F,01:52:16
 117,Stuart,Meg,Westerlands CCC,F,01:52:35
 118,Robbins,Hugo,Westerlands CCC,M,01:53:08
@@ -121,8 +121,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 120,Reis,Rodrigo,Shettleston Harriers,M40,01:53:41
 121,Aubrey,Roger,Helm Hill Runners,M60,01:54:03
 122,Carson,Andrew,Unattched,M50,01:54:15
-123,Bentley,Mark,Unattched,M50,01:54:36
-124,Reid,Don,Westerlands CCC,M60,01:54:42
+123,Bentley,Mark,Unattched,M55,01:54:36
+124,Reid,Don,Westerlands CCC,M65,01:54:42
 125,Bayes,Hannah,Unattched,F40,01:54:43
 126,Jurasinski,Marek,Unattched,M40,01:54:51
 127,Stewart,Craig,Forfar Road Runners,M50,01:55:22
@@ -145,13 +145,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 144,Livingstone,Andrew,Unattched,M,02:00:38
 145,Li,Hongyu,Fusion Triathlon Club,M,02:01:27
 146,Philbrick,Sophie,Westerlands CCC,F,02:01:35
-147,Thurlbeck,Ian,Westerlands CCC,M50,02:01:43
+147,Thurlbeck,Ian,Westerlands CCC,M55,02:01:43
 148,Barwick,Holly,Westerlands CCC,F,02:01:53
 149,Lennie,Drew,Carnethy HRC,M60,02:01:57
-150,Aubrey,Kathleen,Helm Hill Runners,F50,02:02:08
+150,Aubrey,Kathleen,Helm Hill Runners,F55,02:02:08
 151,Dean,Hazel,Ochil Hill Runners,F60,02:02:11
 152,Hahn,Luisa,Westerlands CCC,F,02:02:17
-153,Malcolmson,Craig,Hartfell HRC,M50,02:02:18
+153,Malcolmson,Craig,Hartfell HRC,M55,02:02:18
 154,Mangan,Clodagh,Westerlands CCC,F,02:02:21
 155,McKiddie,Christopher,Westerlands CCC,M40,02:02:27
 156,Ritchie,Hilary,Fife AC,F60,02:02:30
@@ -159,11 +159,11 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 158,MacDonald,Kira,Lochaber AC,F,02:02:46
 159,Kinninmonth,Alexander,Carnethy HRC,M40,02:03:05
 160,Tirbooman,Alice,Westerlands CCC,F,02:03:06
-161,Smith,Bruce,Lomonds,M50,02:03:21
+161,Smith,Bruce,Lomonds,M55,02:03:21
 162,Simpson,Iain,Lomonds,M50,02:03:54
 163,Ward,Ausrine,Westerlands CCC,F40,02:04:09
 164,Kelsall,Fiona,Ochil Hill Runners,F50,02:04:18
-165,Robertson,Colin,Unattched,M50,02:04:43
+165,Robertson,Colin,Unattched,M55,02:04:43
 166,Pemberton,Joanne,Westerlands CCC,F,02:05:03
 167,Mcneil,Padraig,Lochaber AC,M,02:05:37
 168,Stephen,Jill,HBT,F40,02:05:45
@@ -171,11 +171,11 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 170,Partington,Tom,Westerlands CCC,M,02:06:04
 171,Cavin,Liam,Unattched,M40,02:06:47
 172,Collings,David,Unattched,M,02:06:54
-173,Pugh,Roderick,Kilmarnock Harriers,M60,02:06:54
-174,Kammer,Philip,Deveron Harriers,M60,02:07:33
-175,Cameron,Gordon,Carnethy HRC,M60,02:07:45
+173,Pugh,Roderick,Kilmarnock Harriers,M65,02:06:54
+174,Kammer,Philip,Deveron Harriers,M65,02:07:33
+175,Cameron,Gordon,Carnethy HRC,M65,02:07:45
 176,Ruddick,Jennifer,Westerlands CCC,F,02:08:00
-177,Hall,Roger,Haldon Trail Runners,M50,02:08:25
+177,Hall,Roger,Haldon Trail Runners,M55,02:08:25
 178,Sandhu,Kal,Westerlands CCC,M,02:08:26
 179,Macfarlane,Laura,FRA,F,02:08:54
 180,Ashworth,Collette,Ochil Hill Runners,F40,02:09:21
@@ -189,8 +189,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 188,Begley,Tommy,Irvine RC,M50,02:11:53
 189,Haworth,Victoria,Keswick AC,F,02:12:43
 190,Lee,Andrew,Rossendale Harriers AC,M50,02:13:13
-191,Blain,Ben,Unattched,M50,02:14:13
-192,Furse,Chris,Westerlands CCC,M50,02:14:34
+191,Blain,Ben,Unattched,M55,02:14:13
+192,Furse,Chris,Westerlands CCC,M55,02:14:34
 193,Kennedy,Michaela,Lochaber AC,F,02:14:45
 194,Wilson,Joan,Lomonds,F60,02:15:11
 195,Miller,Neil,Unattched,M50,02:15:16
@@ -199,14 +199,14 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 198,Oliver,David,Deeside Runners,M60,02:16:06
 199,Rheinallt,Heledd,Unattched,F,02:15:13
 200,Fenton,Lynda,Unattched,F40,02:16:53
-201,Fullwood,Andrew,Westerlands CCC,M50,02:17:39
+201,Fullwood,Andrew,Westerlands CCC,M55,02:17:39
 202,MacLeod,Murdo,Westerlands CCC,M70,02:17:49
 203,MacGillivray,Shelley,Lochaber AC,F,02:17:55
 204,Dadswell,Jack,Unattched,M,02:18:17
 205,Duncan,Nicola,Carnethy HRC,F40,02:18:21
 206,Malakoty,Hazel,Unattched,F40,02:19:34
 207,Nayar,Anil,Unattched,M50,02:21:03
-208,Wood,Douglas,Unattched,M50,02:21:19
+208,Wood,Douglas,Unattched,M55,02:21:19
 209,Dalton,Lucy,Unattched,F,02:21:42
 210,Grassl,Peter,Westerlands CCC,M40,02:22:08
 211,Wolfendale,Ian,Pennine,M60,02:23:30
@@ -214,8 +214,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 213,Lasserre,Perrine,Unattched,F,02:25:34
 214,Currie,Alice,Lochaber AC,F,02:25:35
 215,Howie,Brian,Carnethy HRC,M70,02:26:09
-216,Macfarlane,Peter,Dark Peak ,M60,02:27:08
-217,Robinson,Angus,Unattched,M50,02:29:46
+216,Macfarlane,Peter,Dark Peak,M65,02:27:08
+217,Robinson,Angus,Unattched,M55,02:29:46
 218,Till,Dave,Skye and Lochalsh RC,M60,02:33:04
 219,Smith,Harry,Tinto HR,M60,02:33:45
 220,Innes,George,Unattched,M50,02:34:19

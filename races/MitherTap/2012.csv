@@ -1,71 +1,71 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Hill,Chris,Cosmics,M,0:33:38
-2,Harper,Kevin,Cosmics,M,0:34:00
-3,Tomlin,Chris,Cosmics,M40,0:35:24
-4,Abrahams,Ben,Cosmics,M,0:35:54
-5,Smith,Alan,Deeside Runners,M50,0:36:35
-6,Smith,Stuart,Cosmics,M,0:36:57
-7,Easton,Neil,Stonehaven RC,M,0:37:11
-8,Love,Craig,Dundee Hawkhill,M40,0:37:14
-9,French,George,Garioch Road Runners,M,0:37:28
-10,Leadham,Daniel,Moray Road Runners,M,0:37:35
-11,Green,Colin,Moray Road Runners,M40,0:38:02
-12,Wilson,Stewart,Highland Hill Runners,M40,0:38:13
-13,Jones,Roland,Unattached,M40,0:38:36
-14,Dobbs,Simon,Moray Road Runners,M40,0:38:57
-15,Addy,Stephen,Cosmics,M,0:39:19
-16,Inglis,Andrew,Cosmics,M,0:39:31
-17,Henry,Peter,Deeside Runners,M,0:40:06
-18,Murray,Rab,The Darkside,M40,0:40:07
-19,Angus,Gerald,Keith & District AAC,M50,0:40:27
-20,Cowie,Philip,Metro Aberdeen,M50,0:40:58
-21,Stockton,Mark,Cosmics,M,0:41:13
-22,Taylor,Steven,Keith & District AAC,M,0:41:14
-23,Verbiest,Dirk,Garioch Road Runners,M50,0:41:26
-24,Clark,David,Garioch Road Runners,M40,0:41:32
-25,McNulty,Ian,Dundee Hawkhill,M40,0:41:36
-26,McKellar,Kevin,Unattached,M40,0:41:39
-27,Mackenzie,Sarah,Lochaber AC,F,0:41:44
-28,Rennie,Nick,Unattached,M40,0:42:18
-29,Paxman,Jim,Dark Peak,M50,0:42:46
-30,Ingram,Richard,Cosmics,M,0:42:47
-31,Scott,Alan,Unattached,M,0:42:48
-32,O`Sullivan,Sean,Deeside Runners,M,0:43:08
-33,Manning,Bruce,Cosmics,M60,0:43:22
-34,Wallace,Rod,Forres Harriers,M40,0:43:49
-35,Colegrave,John,Cosmics,M50,0:43:50
-36,Ritchie,Graham,Stonehaven RC,M50,0:44:19
-37,Delaney,Liz,Cosmics,F,0:44:25
-38,Redgwell,Nicola,Garioch Road Runners,F40,0:44:28
-39,Mathers,Dave,Keith & District AAC,M50,0:45:04
-40,Duncan,David,Ochil Hill Runners,M50,0:45:14
-41,Hamilton,Anita,Cosmics,F50,0:45:33
-42,Mackay,Mike,Unattached,M40,0:46:08
-43,Stuart,Derek,Fleet Feet Triathletes,M40,0:46:50
-44,Crewe,Ruth,Westerlands,F,0:46:51
-45,Cran,Ian,Garioch Road Runners,M50,0:46:55
-46,Anderson,Fiona,Unattached,F40,0:47:00
-47,Stewart,Elaine,Cosmics,F50,0:47:37
-48,Stephenson,Alan,Unattached,M,0:47:45
-49,Myles,Mark,Unattached,M,0:48:32
-50,Bryce,Murray,Cosmics,M60,0:48:37
-51,Black,Corri,Cosmics,F40,0:48:46
-52,French,Isla,Garioch Road Runners,F,0:49:03
-53,Hill,Chris,Unattached,M40,0:49:28
-54,Clunas,Gillian,Cosmics,F50,0:49:30
-55,Richard,Dean,Unattached,M,0:49:40
-56,Smith,Tilly,Deeside Runners,F50,0:50:39
-57,Kirk,David,Grampian Orienteers,M40,0:50:57
-58,Smith,Linda,Moray Road Runners,F40,0:51:53
-59,Mutch,Ronnie,Unattached,M,0:52:08
-60,MacKay,James,Unattached,M,0:52:24
-61,More,Callum,Cosmics,M50,0:53:35
-62,Munro,Eleanor,Keith & District AAC,F40,0:53:39
-63,Watt,Gillian,Garioch Road Runners,F50,0:53:45
-64,Kidd,John,Unattached,M40,0:55:05
-65,Oliver,Jane,Deeside Runners,F50,0:55:49
-66,Stokes,Mathew,Cosmics,M,1:00:22
-67,Tough,Anne,Stonehaven RC,F60,1:02:45
-68,Aitken,Gordon,Unattached,M,1:02:52
-69,Barron,Ritchie,Unattached,M,1:02:53
-70,Carson,Louise,Unattached,F,1:08:13
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Hill,Chris,Cosmic,MS,00:33:38
+2,Harper,Kevin,Cosmic,MS,00:34:00
+3,Tomlin,Chris,Cosmic,MV40,00:35:24
+4,Abrahams,Ben,Cosmic,MS,00:35:54
+5,Smith,Alan,Deeside,MV50,00:36:35
+6,Smith,Stuart,Cosmic,MS,00:36:57
+7,Easton,Neil,Stonehaven Running Club,MS,00:37:11
+8,Love,Craig,Dundee Hawkhill Harriers,MV40,00:37:14
+9,French,George,Garioch Road Runners,MS,00:37:28
+10,Leedman,Daniel,Morray Road Runners,MS,00:37:35
+11,Green,Colin,Morray Road Runners,MV40,00:38:02
+12,Wilson,Stewart,Inverness Harriers,MV40,00:38:13
+13,Jones,Roland,Unattached,MV40,00:38:36
+14,Dobbs,Simon,Morray Road Runners,MV40,00:38:57
+15,Addy,Steve,Cosmic,MS,00:39:19
+16,Inglis,Andrew,Cosmic,MS,00:39:31
+17,Henry,Peter,Deeside Runners,MS,00:40:06
+18,Murray,Rab,The Darkside,MV40,00:40:07
+19,Gerald,Angus,Keith and District,MV50,00:40:27
+20,Philip,Cowie,Unattached,MV50,00:40:58
+21,Stockton,Mark,Cosmic,MS,00:41:13
+22,Taylor,Steven,Keith and District,MS,00:41:14
+23,Verbiest,Dirk,Keith and District,MV50,00:41:26
+24,Clark,David,Garioch Road Runners,MV40,00:41:32
+25,McNulty,Ian,Dundee Hawkhill Harriers,MV40,00:41:36
+26,McKellar,Kevin,Unattached,MV40,00:41:39
+27,MacKenzie,Sarah,Cosmic,FS,00:41:44
+28,Rennie,Nick,Unattached,MV40,00:42:18
+29,Paxman,Jim,Cosmic,MV50,00:42:46
+30,Ingram,Richard,Garioch Road Runners,MS,00:42:47
+31,Scott,Alan,Unattached,MS,00:42:48
+32,O'Sullivan,Sean,Cosmic,MS,00:43:08
+33,Manning,Bruce,Cosmic,MV60,00:43:22
+34,Wallace,Rod,Forres Harriers,MV40,00:43:49
+35,Colegrave,John,Cosmic,MV50,00:43:50
+36,Ritchie,Graham,Stonehaven Running Club,MV50,00:44:19
+37,Delaney,Liz,Cosmic,FS,00:44:25
+38,Redgwell,Nicola,Garioch Road Runners,FV40,00:44:28
+39,Mathers,Dave,Keith and District,MV50,00:45:04
+40,Duncan,David,Ochill Hill Runners,MV50,00:45:14
+41,Hamilton,Anita,Cosmic,FV50,00:45:33
+42,MacKay,Mike,Unattached,MV40,00:46:08
+43,Stuart,Derek,Unattached,MV40,00:46:50
+44,Crewe,Ruth,Cosmic,FS,00:46:51
+45,Cran,Ian,Garioch Road Runners,MV50,00:46:55
+46,Anderson,Fiona,Unattached,FV40,00:47:00
+47,Stewart,Elaine,Cosmic,FV50,00:47:37
+48,Stephenson,Alan,Unattached,MS,00:47:45
+49,Myles,Mark,Unattached,MS,00:48:32
+50,Bryce,Murray,Cosmic,MV60,00:48:37
+51,Black,Corrie,Cosmic,FV40,00:48:46
+52,French,Isla,Garioch Road Runners,FS,00:49:03
+53,Hill,Chris,Unattached,MV40,00:49:28
+54,Clunas,Gillian,Cosmic,FV50,00:49:30
+55,Richard,Dean,Unattached,MS,00:49:40
+56,Smith,Tilly,Deeside Runners,FV50,00:50:39
+57,Kirk,David,Grampian Orienteers,MV40,00:50:57
+58,Smith,Linda,Cosmic,FV40,00:51:53
+59,Mutch,Ronnie,Unattached,MS,00:52:08
+60,MacKay,James,Unattached,MS,00:52:24
+61,More,Callum,Unattached,MV50,00:53:35
+62,Munro,Eleanor,Keith and District,FV40,00:53:39
+63,Watt,Gillian,Garioch Road Runners,FV50,00:53:45
+64,Kidd,John,Unattached,MV40,00:55:05
+65,Oliver,Jane,Deeside Runners,FV50,00:55:49
+66,Stokes,Mathew,Cosmic,MS,01:00:22
+67,Tough,Ann,Stonehaven Running Club,FV60,01:02:45
+68,Aiken,Gordon,Unattached,MS,01:02:52
+69,Barron,Ritchie,Unattached,MS,01:02:53
+70,Carson,Louise,Unattached,FS,01:08:13

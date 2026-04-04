@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Masson,Alistair,Carnethy,M,02:48:27
 2,Halsall,Steve,Keswick AC,M,02:51:42
 3,Morgan,Tim,Carnethy,M,02:56:30
@@ -73,7 +73,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 72,Donnelly,John,Westerlands CCC,M50,04:37:18
 73,Dougal,Richard,HBT,M,04:39:39
 74,White,Vicki,HBT,F40,04:40:21
-75,Stable,Charles,Musselburgh ,M50,04:40:36
+75,Stable,Charles,Musselburgh,M50,04:40:36
 76,Kinninmonth,Alexander,Carnethy,M40,04:42:17
 77,Walling,Katie,Moorfoot Runners,F,04:43:59
 78,Kelly,Graham,Westerlands CCC,M50,04:44:17
@@ -88,7 +88,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 87,Wilson,David,Unattached,M50,04:59:02
 88,Cheskin,David,Unattached,M50,04:59:03
 89,Grigor,Donald,Unattached,M50,05:01:42
-90,Macdonald,Gio,Unattached,,05:04:09
+90,Macdonald,Gio,Unattached,M40,05:04:09
 91,Young,Heather,Moorfoot Runners,F,05:05:48
 92,McMillan,Stuart,Carnethy,M40,05:07:33
 93,Russell,Fiona,Highland Hill Runners,F50,05:08:15

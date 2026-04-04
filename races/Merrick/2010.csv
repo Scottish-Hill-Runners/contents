@@ -1,35 +1,35 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Fallon,Steven,Carnethy,M40,1:32:35
-2,Simpson,Peter,Carnegie Harriers,M50,1:35:37
-3,Smith,Alan,Deeside Runners,M50,1:35:51
-4,Anderson,Adam,Hartfell HRC,M40,1:36:52
-5,Bradley,Scott,Carnegie Harriers,M,1:43:51
-6,Kelly,Graham,Westerlands,M40,1:45:08
-7,Anderson,Russell,Moorfoot Runners,M40,1:50:30
-8,Begley,Tommy,Irvine RC,M40,1:51:45
-9,Duke,Alasdair,Westerlands,M,1:58:39
-10,Brash,Colin,Girvan Harriers,M40,1:59:01
-11,Murphy,Craig,Girvan Harriers,M40,2:00:42
-12,Cowper,Stephen,Milburn Harriers,M40,2:00:58
-13,Laird,Fraser,Westerlands,M,2:02:47
-14,Campbell,Neil,Carnethy,M40,2:03:17
-15,Brotherston,Chris,Bellahouston RR,M40,2:05:59
-16,Thompson,Fabienne,Perth Road Runners,F35,2:06:00
-17,Goldsworthy,John,Hardrock Hoodlums,M50,2:09:01
-18,Singh,Shirley,Hardrock Hoodlums,F45,2:09:01
-19,Priestley,Nigel,Annan & District AC,M50,2:11:11
-20,Connor,Julia,Unattached,F,2:12:12
-21,Johnston,Stephen,Milburn Harriers,M40,2:12:50
-22,Smithard,Phil,Carnegie Harriers,M60,2:17:48
-23,Butler,Colin,Helensburgh AAC,M50,2:18:35
-24,Davidson,Iain,Girvan Harriers,M50,2:19:21
-25,Weir,Jonathan,Unattached,M,2:20:29
-26,Hamilton,Gordon,Girvan Harriers,M,2:20:44
-27,West,Alison,Carnegie Harriers,F55,2:21:52
-28,McDougal,Rachel,Dumfries RC,F,2:24:02
-29,Krezdorn,Chris,Unattached,M,2:28:27
-30,Anderson,Adam,Dumfries RC,M60,2:30:59
-31,McManus,Ian,Irvine RC,M60,2:36:18
-32,Flanagan,Stephen,Girvan Harriers,M40,2:44:00
-33,Wilson,Paula,Dumfries RC,F35,2:57:21
-34,Coyle,Caroline,Unattached,F,2:57:22
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Fallon,Steven,Carnethy,M40,01:32:35
+2,Simpson,Peter,Carnegie,M50,01:35:37
+3,Smith,Alan,Deeside,M50,01:35:51
+4,Anderson,Adam,Carnethy,M40,01:36:52
+5,Bradley,Scott,Carnegie,MS,01:43:51
+6,Kelly,Graham,Westerlands,M40,01:45:08
+7,Anderson,Russell,Moorfoot,M40,01:50:30
+8,Begley,Tommy,Irvine,M40,01:51:45
+9,Duke,Alasdair,Westerlands,MS,01:58:39
+10,Brash,Colin,Girvan,M40,01:59:01
+11,Murphy,Craig,Girvan,M40,02:00:42
+12,Cowper,Stephen,Milburn,M40,02:00:58
+13,Laird,Fraser,Westerlands,MS,02:02:47
+14,Campbell,Neil,Carnegie,M40,02:03:17
+15,Brotherston,Chris,Bellahouston,M40,02:05:59
+16,Thompson,Fabienne,Carnegie,F35,02:06:00
+17,Goldsworthy,John,Galloway,M50,02:09:01
+18,Singh,Shirley,Unattached,F45,02:09:01
+19,Priestley,Nigel,Annan,M50,02:11:11
+20,Connor,Julia,Moorfoot,F35,02:12:12
+21,Johnstone,Stephen,Milburn,M40,02:12:50
+22,Smithard,Phil,Carnegie,M60,02:17:48
+23,Butler,Colin,Helensburgh,M50,02:18:35
+24,Davidson,Iain,Girvan,M50,02:19:21
+25,Weir,Jonathan,Unattached,MS,02:20:29
+26,Hamilton,Gordon,Girvan,MS,02:20:44
+27,West,Alison,Carnegie,F55,02:21:52
+28,McDougal,Rachel,Dumfries,FS,02:24:02
+29,Krezdorn,Christoph,Unattached,MS,02:28:27
+30,Anderson,Adam,Dumfries,M60,02:30:59
+31,McManus,Ian,Irvine,M60,02:36:18
+32,Flanagan,Stephen,Girvan,M40,02:44:00
+33,Wilson,Paula,Dumfries,F35,02:57:21
+34,Coyle,Caroline,Unattached,FS,02:57:22

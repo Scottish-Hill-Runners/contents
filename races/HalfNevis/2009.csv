@@ -1,36 +1,36 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Rodgers,David,Lochaber AC,M40,0:56:54
-2,Richmond,Kenny,Shettleston Harriers,M40,0:57:11
-3,Mitchell,Craig,Vegan Runners,M,0:59:30
+2,Richmond,Kenny,Bellahouston RR,M40,0:57:11
+3,Mitchell,Craig,Lochaber AC,M,0:59:30
 4,Paterson,Donald,Lochaber AC,M,1:00:14
 5,Williamson,Jason,Cosmics,M,1:00:33
-6,MacRae,John,Lochaber AC,M40,1:01:01
+6,Macrae,John,Lochaber AC,M40,1:01:01
 7,Smith,Alan,Deeside Runners,M40,1:01:09
 8,Harris,Mark,Fife AC,M40,1:01:38
 9,Cairns,George,Lochaber AC,M40,1:02:20
-10,MacLean,Paul,Lochaber AC,M,1:02:34
+10,Maclean,Paul,Lochaber AC,M,1:02:34
 11,Shaw,Richard,Lochaber AC,M40,1:02:41
-12,Gallie,David,Lochaber AC,M40,1:03:04
+12,Gallie,David,Inverness Harriers,M40,1:03:04
 13,Birnie,Andy,Bellahouston RR,M40,1:04:00
-14,Blomfield,Oliver,Eden Runners,M,1:04:09
+14,Blomfield,Oliver,Lochaber AC,M,1:04:09
 15,Craig,Andrew,Lochaber AC,M40,1:04:22
 16,Smith,Bruce,Carnethy,M40,1:04:33
 17,Macdonald,Matthew,Lochaber AC,M,1:05:00
-18,Simpson,Stuart,Stornoway AC,M40,1:06:10
+18,Simpson,Stuart,Ochil Hill Runners,M40,1:06:10
 19,Brooks,Graham,Lochaber AC,M50,1:07:25
-20,MacBeath,Niall,Lochaber AC,M40,1:07:37
+20,Macbeath,Niall,Lochaber AC,M40,1:07:37
 21,Dent,Alan,Lochaber AC,M50,1:08:01
-22,Maitland,John,Lochaber AC,M40,1:08:03
+22,Maitland,John R,Lochaber AC,M40,1:08:03
 23,Whyte,Graham,Unattached,M50,1:09:40
-24,MacTavish,Stephen,Lochaber AC,M,1:10:08
+24,Mactavish,Steven,Unattached,M,1:10:08
 25,Blackhall,Amanda,Lochaber AC,F35,1:10:56
 26,Duncan,David,Ochil Hill Runners,M50,1:12:04
-27,Verbiest,Dirk,Garioch Road Runners,M50,1:12:21
+27,Verbiest,Dirk,Keith & District,M50,1:12:21
 28,King,Steven,Carnegie Harriers,M,1:13:15
 29,Beagrie,Joe,Lochaber AC,M40,1:13:54
-30,Macdonald,Dougie,Highland Hill Runners,M,1:13:58
-31,Bannerman,Roxy,East Sutherland,F,1:14:02
-32,MacKenzie,Ruth,Deeside Runners,F40,1:14:29
+30,Macdonald,Douglas,Inverness Harriers,M,1:13:58
+31,Bannerman,Roxy,Highland Hill Runners,F,1:14:02
+32,Mackenzie,Ruth,Deeside Runners,F40,1:14:29
 33,Byrne,Sara,Lochaber AC,F35,1:14:45
 34,Macnab,Graham,Lochaber AC,M40,1:15:11
 35,Hunter,Alan,Ochil Hill Runners,M40,1:15:15
@@ -47,20 +47,20 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 46,Campbell,Brian,Lochaber AC,M40,1:19:46
 47,Rankin,Christina,Kilbarchan,FJ,1:20:40
 48,Shaw,Richard,Anster Haddies,M50,1:20:43
-49,Smith,Ian,Highland Hill Runners,M,1:20:48
+49,Smith,Iain,Highland Hill Runners,M,1:20:48
 50,Campbell,Ewen,Lochaber AC,M,1:22:04
 51,Morgan,Sharyn,Lochaber AC,F35,1:22:33
-52,Walker,Sarah,Westerlands,F,1:22:37
-53,Stewart,Jim,Lochaber AC,M50,1:22:58
+52,Walker,Sarah,Helensburgh,F,1:22:37
+53,Stewart,Jimmy,Lochaber AC,M50,1:22:58
 54,Orr,Ernie,Lochaber AC,M60,1:23:08
 55,Finnimore,Andrew,Lochaber AC,M50,1:23:24
 56,Langan,Scott,Lochaber AC,M,1:24:43
 57,Pearce,Emma,Lochaber AC,F40,1:25:00
 58,Smith,Tilly,Deeside Runners,F40,1:26:16
-59,Bennet,Lynne,Unattached,F40,1:27:03
-60,O`Neill,John,Lochaber AC,M40,1:27:09
-61,Kirkdale,Brian,Hastings Runners,M50,1:28:44
-62,Ness,Joanna,Lochaber AC,F40,1:29:02
+59,Bennet,Lynne,Carnegie Harriers,F40,1:27:03
+60,O'Neill,John,Lochaber AC,M40,1:27:09
+61,Kirkdale,Brian,Hastings Road Runners,M50,1:28:44
+62,Ness,Jo,Lochaber AC,F40,1:29:02
 63,Oliver,David,Deeside Runners,M50,1:29:26
 64,Reid,Colin,Cosmics,M40,1:29:39
 65,Bass,Ursula,Deeside Runners,F40,1:29:58
@@ -78,5 +78,5 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 77,Murdoch,Elma,Lochaber AC,F50,1:52:27
 78,Oliver,Jane,Deeside Runners,F50,1:53:07
 79,Watt,June,Lochaber AC,F40,1:56:40
-80,MacPhee,Margaret Rose,Lochaber AC,F40,1:58:08
+80,Macphee,Margaret Rose,Lochaber AC,F40,1:58:08
 81,Wilson,Rachel,Springburn Harriers,F35,2:09:22

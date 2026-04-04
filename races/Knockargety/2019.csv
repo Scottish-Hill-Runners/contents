@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Dempster,Calum,Unattached,MJ,00:38:12
 2,Henry,Peter,Deeside Runners,M,00:39:25
 3,Comber,Ayron,Deeside Runners,M40,00:39:36
@@ -14,7 +14,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Campbell,Kirsty,Deeside Runners,FJ,00:47:57
 14,Savege,Jim,Deeside Runners,M40,00:48:07
 15,McDonald,Dennis,Cosmics,M50,00:48:11
-16,Cruickshank,Greig ,JSK Running Club,M50,00:48:23
+16,Cruickshank,Greig,JSK Running Club,M50,00:48:23
 17,Payne,Lina,Deeside Runners,F50,00:49:06
 18,Ingram,Richard,Cosmics,M40,00:49:50
 19,Larmour,Colin,Cosmics,M50,00:50:22

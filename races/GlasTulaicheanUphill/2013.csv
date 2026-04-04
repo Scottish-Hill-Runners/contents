@@ -1,52 +1,52 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside Runners,M,0:36:17
-2,Haines,Hector,HBT,M,0:37:58
-3,Hesling,Sam,Highland Hill Runners,M,0:38:03
-4,Fallas,Andrew,Carnethy,M,0:38:07
-5,Nixon,Mark,Edinburgh Uni H&H,M,0:38:17
-6,Martyn,Tom,HBT,M,0:38:20
-7,MacCorquodale,Iain,Cambuslang Harriers,M,0:38:38
-8,Faulkner,Paul,Carnethy,M,0:39:16
-9,Quinn,Robert,Kilbarchan,M40,0:39:54
-10,Crowe,Jamie,Central AC,MJ,0:41:33
-11,Johnston,Fergus,Carnethy,M,0:42:03
-12,Campbell,Ross,Highland Hill Runners,M,0:42:03
-13,Whiteside,Iain,Carnethy,M,0:42:38
-14,Hill,Tessa,HBT,F,0:43:12
-15,van Gompel,Roger,Dundee Hawkhill,M40,0:43:23
-16,Nash,Graham,Carnethy,M40,0:43:47
-17,Matthews,Steve,Dundee Hawkhill,M40,0:44:11
-18,Waldie,James,HBT,M,0:44:13
-19,Brookes,Rob,Cosmics,M,0:44:40
-20,Adkin,Scout,Ambleside,F,0:45:12
-21,Easton,Neil,Stonehaven RC,M,0:45:43
-22,Gibson,Billy,Dundee Hawkhill,M,0:45:51
-23,Anderson,Iain,Dundee Hawkhill,M40,0:46:24
-24,Morgan,Charlotte,Carnethy,F,0:46:35
-25,Tomlin,Chris,Cosmics,M40,0:47:44
-26,Henry,Peter,Deeside Runners,M,0:48:00
-27,Fallas,Helen,Carnethy,F,0:48:10
-28,Galloway,Mike,Dundee Hawkhill,M40,0:49:05
-29,Godden,Andrew,AUOTC,M,0:49:34
-30,Mitchell,Dave,Dundee Hawkhill,M50,0:50:31
-31,Bass,Owen,Solway,M50,0:51:16
-32,Taylor,Luke,Highland Hill Runners,MJ,0:51:27
-33,Purves,Alan,Unattached,M,0:52:24
-34,Mazzoni,Luke,AUOTC,M,0:52:30
-35,MacBeath,Niall,Lochaber AC,M40,0:53:00
-36,MacDougall,Morina,Highland Hill Runners,F,0:53:18
-37,Taylor,Gordie,Lochaber AC,M50,0:55:04
-38,Forte,Phil,Dundee Hawkhill,M50,0:56:12
-39,Parminter,John,Black Combe Runners,M40,0:56:26
-40,Moffat,John,Highland Hill Runners,M50,0:56:45
-41,Velzian,Laura,Highland Hill Runners,F40,0:57:42
-42,Lee,Phil,Unattached,M,0:59:27
-43,McLean,Herbie,Lochtayside,M60,0:59:49
-44,Cowan,Lachlan,Unattached,M40,1:01:18
-45,Marsh,Duncan,Dark Peak,M40,1:02:04
-46,Ross,Susan Jane,Lochaber AC,F40,1:02:55
-47,Blackley,Lisa,Unattached,F,1:07:39
-48,Weir,Jonathan,Unattached,M,1:07:39
-49,Oliver,Jane,Deeside Runners,F50,1:09:24
-50,Love,Charlie,Dundee Hawkhill,M70,1:10:08
-51,Kennedy,Alan,Dundee Hawkhill,M50,1:11:04
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Simpson,Robbie,Deeside,SEN,00:36:17
+2,Haines,Hector,HBT,SEN,00:37:58
+3,Hesling,Sam,Carnethy,SEN,00:38:03
+4,Fallas,Andrew,Carnethy,SEN,00:38:07
+5,Nixon,Mark,Pudsey & Bramley,SEN,00:38:17
+6,Martyn,Tom,EUHH,SEN,00:38:20
+7,MacCorquindale,Ian,Cambuslang,SEN,00:38:38
+8,Faulkner,Paul,Carnethy,SEN,00:39:16
+9,Quinn,Robert,Kilbarchan,V40,00:39:54
+10,Crowe,Jamie,Dundee Hawkhill,Junior,00:41:33
+11,Johnston,Fergus,Gala,SEN,00:42:03
+12,Campbell,Ross,EUHH,SEN,00:42:03
+13,Whiteside,Ian,Lochaber,V40,00:42:38
+14,Hill,Tessa,HBT,FSEN,00:43:12
+15,Gompel,Roger Van,Dundee Hawkhill,V40,00:43:23
+16,Nash,Graham,Carnethy,V40,00:43:47
+17,Matthews,Steve,Dundee Hawkhill,V40,00:44:11
+18,Waldie,James,Carnethy,SEN,00:44:13
+19,Brookes,Bob,Cosmics,SEN,00:44:40
+20,Adkin,Scout,Moorfoot,FSEN,00:45:12
+21,Easten,Neil,Cosmics,SEN,00:45:43
+22,Gibson,Billy,Dundee Hawkhill,SEN,00:45:51
+23,Anderson,Ian,Dundee Hawkhill,V40,00:46:24
+24,Morgan,Charlotte,Carnethy,FSEN,00:46:35
+25,Tomlin,Chris,Cosmics,V40,00:47:44
+26,Henry,Peter,Deeside,SEN,00:48:00
+27,Bonsor,Helen,Carnethy,FSEN,00:48:10
+28,Galloway,Mike,Dundee Hawkhill,V40,00:49:05
+29,Godden,Andrew,AUOTC,SEN,00:49:34
+30,Mitchell,Dave,Dundee Hawkhill,V50,00:50:31
+31,Bass,Owen,Deeside,V50,00:51:16
+32,Taylor,Luke,Highland Hill Runners,Junior,00:51:27
+33,Purves,Alan,AUOTC,SEN,00:52:24
+34,Mazzoni,Luke,AUOTC,SEN,00:52:30
+35,MacBeath,Niall,Lochaber,V40,00:53:00
+36,McDougal,Marina,Highland Hill Runners,FSEN,00:53:18
+37,Taylor,Gordie,Highland Hill Runners,V50,00:55:04
+38,Forte,Phil,Dundee Hawkhill,V50,00:56:12
+39,Parminter,John,Black Combe Runners,V40,00:56:26
+40,Moffatt,John,Highland Hill Runners,V50,00:56:45
+41,MacLennon,Laura,Highland Hill Runners,FV40,00:57:42
+42,Lee,Phil,Unatt,SEN,00:59:27
+43,McLean,Herbie,Lochtayside,V60,00:59:49
+44,Cowan,Lachlan,Unatt,V40,01:01:18
+45,Marsh,Duncan,Thame Runners,V40,01:02:04
+46,Ross,Susan,Lochaber,FV40,01:02:55
+47,Blackley,Lisa,HBT,FSEN,01:07:39
+48,Weir,Jonathan,HBT,SEN,01:07:39
+49,Oliver,Jane,Deeside,FV50,01:09:24
+50,Love,Charlie,Dundee Hawkhill,V70,01:10:08
+51,Kennedy,Alan,Dundee Hawkhill,V50,01:11:04

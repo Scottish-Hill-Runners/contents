@@ -1,12 +1,12 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Wright,Andrew,PH Racing,M,0:16:49
-2,Donnelly,Colin,Cambuslang Harriers,M50,0:17:14
-3,Hastie,Darrell,Gala Harriers,M,0:18:22
-4,Bowden,James,HBT,M,0:19:12
-5,Murray,Keith,Teviotdale Harriers,M40,0:20:28
-6,Otton,Felix,Gala Harriers,M40,0:20:33
-7,Andrew,Mike,Carnethy,M40,0:21:55
-8,Tough,Colin,Gala Harriers,M40,0:22:17
-9,Brown,Jamie,HBT,M,0:23:40
-10,Small,Douglas,Kelso,M40,0:25:08
-11,Lillico,Anne,Lauderdale Limpers,F40,0:29:10
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Wright,Andrew,Ochil Hill Runners,MS,00:16:49
+2,Donnely,Colin,Lochaber,MV,00:17:14
+3,Hastie,Darrel,Unattached,MS,00:18:22
+4,Boden,James,HBT,MS,00:19:12
+5,Murray,Keith,Teviotdale,MV,00:20:28
+6,Otton,Felix,Gala,MV,00:20:33
+7,Andrew,Mike,Unattached,MV,00:21:55
+8,Tough,Colin,Gala,MV,00:22:17
+9,Brown,James,HBT,MS,00:23:40
+10,Small,Doug,Kelso,MV,00:25:08
+11,Lillico,Anne,Lauderdale Limpers,FV,00:29:10

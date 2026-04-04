@@ -1,0 +1,109 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Pryde,Moray,Lothian RC,M,00:17:10
+2,Cooper,Kieran,Carnethy HRC,M,00:17:28
+3,Pagett,Harris,Strathearn Harriers,M,00:17:40
+4,Fisher,Luke,Carnethy HRC,M,00:17:46
+5,Thornton,Alistair,Ochil Hill Runners,M,00:17:47
+6,Chebbout,Ryad,Shettleston Harriers,M,00:17:47
+7,Masson,Ali,Carnethy HRC,M,00:18:00
+8,Luetchford,Alex,HBT,M,00:19:01
+9,Hooper,Sam,Carnethy HRC,M,00:19:13
+10,Layet,Sam,Carnethy HRC,M,00:19:55
+11,Atkinson,Joel,Edinburgh Uni Orienteering,M,00:20:00
+12,Morgan,Tim,Carnethy HRC,M,00:20:19
+13,Cox,Andrew,Gala Harriers,M40,00:20:42
+14,Turnbull,Jonathan,Strathearn Harriers,M40,00:20:51
+15,Stevens,Ben,Carnethy HRC,M,00:20:55
+16,Atkinson,Emily,Haddington RC,F,00:20:56
+17,McConnell,Morgan,Hartfell Hill Runners,M,00:21:02
+18,White,Solomon,Carnethy HRC,M,00:21:26
+19,Ockenden,John,HBT,M,00:21:39
+20,Carter-Brown,David,Moorfoot,M40,00:21:44
+21,Dozier,Laura,Carnethy HRC,F,00:21:46
+22,Umpleby,Richard,Carnethy HRC,M40,00:21:54
+23,Valters,Declan,Carnethy HRC,M,00:22:17
+24,Walsh,Sam,Carnethy HRC,M,00:22:22
+25,Rigby,James,Carnethy HRC,M,00:22:38
+26,Shaw,Ruairidh,Lochaber AC,M,00:22:44
+27,Thin,Jamie,HBT,M50,00:22:45
+28,Greig,Matthew,HBT,M,00:22:59
+29,McClelland,Morag,HBT,F40,00:23:17
+30,O'Callaghan,Alan,Carnethy HRC,M,00:23:23
+31,Campbell,Donald,Unattached,M40,00:23:24
+32,Anderson,Micky,Westerlands CCC,M60,00:23:26
+33,Hunter,Niamh,Carnethy HRC,F,00:23:40
+34,O'Neill,Owen,Westerlands CCC,M40,00:23:48
+35,Crawford,Sarah,HBT,F,00:23:53
+36,Baillie,Lachlan,Team East Lothian,M,00:24:00
+37,Han,Andrew,Fulham Running Club,M40,00:24:15
+38,Lorimer,Hayden,HBT,M50,00:24:17
+39,Carr,Niamh,Dublin City Harriers,F,00:24:18
+40,Foster,Paul,Westerlands CCC,M,00:24:19
+41,Hall,Will,HBT,M,00:24:45
+42,Barber,Twig,Falkland Trail Runners,F,00:24:51
+43,Smiith,John,Lomond Hill Runners,M50,00:25:02
+44,Williamson,Max,Westerlands CCC,M,00:25:03
+45,Reid,Don,Westerlands CCC,M60,00:25:06
+46,Riley,Edward,Unattached,M,00:25:07
+47,Irving,Taylor,Unattached,M,00:25:09
+48,Gray,Andrew,Aberdour Gravel Club,M40,00:25:16
+49,Boloux,Alex,Carnethy HRC,F,00:25:23
+50,Heron,Kyle,Carnethy HRC,M,00:25:24
+51,Samplonius,Jelmer,HBT,M40,00:25:35
+52,Eadsforth,Holly,Unattached,F,00:25:38
+53,Fishburn,Rona,Carnethy HRC,F,00:25:39
+54,Riggans,Liam,Carnethy HRC,M40,00:25:43
+55,Heron,Rosalind,Carnethy HRC,F,00:25:51
+56,McAdam,Bruce,Carnethy HRC,M40,00:26:12
+57,Turner,Simon,Tinto Hill Runners,M50,00:26:13
+58,Baillie,Peter,Stirling Sentamentalists MC,M50,00:26:22
+59,Vasiladiotis,Chris,HBT,M40,00:26:35
+60,McLure,Neil,Carnethy HRC,M50,00:26:39
+61,Underwood,Ian,HBT,M,00:26:45
+62,Moran,Clodagh,Carnethy HRC,F,00:26:59
+63,Kiely,Tom,Carnethy HRC,M50,00:27:11
+64,Mooney,Edel,Ochil Hill Runners,F50,00:27:28
+65,Stevenson,John,Ochil Hill Runners,M60,00:27:52
+66,Kirkham-Wareing,Peter,Portobello RC,M,00:28:03
+67,Biagi,Marco,Unattached,M40,00:28:05
+68,Macbeth,Gaby,Westerlands CCC,F40,00:28:06
+69,Reid,Fraser,Westerlands CCC,M,00:28:10
+70,Murray,Kevin,Falkland Trail Runners,M50,00:28:16
+71,Cameron,Gordon,Carnethy HRC,M60,00:29:03
+72,Cameron,Iain,Lothian RC,M40,00:29:05
+73,Knox,Lizzie,Carnethy HRC,F,00:29:12
+74,Orr,Sandy,Lothian RC,M50,00:29:17
+75,Best,Sally,Carnethy HRC,F40,00:29:23
+76,Thompson,Fabienne,Lomond Hill Runners,F50,00:29:35
+77,Thomson,Jonny,Lothian RC,M50,00:29:39
+78,Peebles,Jenny,Westerlands CCC,F40,00:29:43
+79,Sadaj,Kasia,Carnethy HRC,F40,00:29:51
+80,Allan,Lyle,Falkland Trail Runners,M60,00:29:54
+81,Boyle,John,Lothian RC,M50,00:30:22
+82,Alexander,Jim,Lothian RC,M60,00:30:22
+83,Brown,Donald,Lomond Hill Runners,M50,00:30:35
+84,Vincett,Anna,Westerlands CCC,F,00:30:41
+85,Walker,Sean,Carnethy HRC,M50,00:31:00
+86,Adams,Louise,Carnethy HRC,F,00:31:10
+87,Lindsay,Susan,Ochil Hill Runners,F50,00:31:11
+88,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:31:15
+89,Berry,Neil,Unattached,M40,00:31:22
+90,McLaughlin,Phil,Falkland Trail Runners,M50,00:31:52
+91,Heron,Ceana,Shettleston Harriers,F,00:32:16
+92,Brown,Norman,Carnethy HRC,M60,00:32:24
+93,Gall,Allan,Central AC,M60,00:32:32
+94,Weir,Alan,Lothian RC,M50,00:33:00
+95,Finbow,Gavin,Shettleston Harriers,M40,00:34:19
+96,Thin,Joanne,Carnethy HRC,F50,00:34:37
+97,Eddie,Yasmin,Lothian RC,F,00:36:02
+98,Watson,Dawn,Lothian RC,F50,00:36:08
+99,Doherty,Karen,Radcliffe Athletic Club,F50,00:37:11
+100,Fowler,Paul,Ochil Hill Runners,M50,00:37:45
+101,Ure,Barry,Wee County Harriers,M40,00:37:47
+102,Balgowan,June,Falkland Trail Runners,F50,00:40:02
+103,Ure,Jennifer,Ochil Hill Runners,F40,00:40:04
+104,Hutchison,Kerri,Wee County Harriers,F40,00:40:21
+105,King,Alex,Ochil Hill Runners,M60,00:42:51
+106,Pease,David,Falkland Trail Runners,M60,00:43:18
+107,Paul,Kirsten,Lothian RC,F,00:43:32
+108,Strain,Sheila,HBT,F70,00:48:33

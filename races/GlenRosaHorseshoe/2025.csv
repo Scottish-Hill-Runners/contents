@@ -1,0 +1,82 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Wild,Finlay,Lochaber AC,M40,02:16:10
+2,Vokes,Philip,Highland Hill Runners,M,02:31:13
+3,Taylor,Luke,Highland Hill Runners,M,02:36:33
+4,Barton,Will,Ambleside AC,M,02:38:46
+5,Thomson,Fearghas,Corstorphine AAC,M,02:39:36
+6,Spalding,Ross,Ochil Hill Runners,M,02:39:39
+7,Thorburn,Ewan,Lochaber AC,M40,02:41:22
+8,Gilmore,Andrew,Highland Hill Runners,M,02:41:23
+9,Fallas,Andrew,Carnethy HRC,M40,02:56:19
+10,Furness,Ethan,Black Combe Runners,M,03:02:11
+11,Wilkins,Robin,Ochil Hill Runners,M40,03:02:23
+12,Atkinson,Jono,Ochil Hill Runners,M,03:04:45
+13,Carter,Hamish,Unattached,M,03:06:36
+14,Knill,Zak,Ambleside AC,M,03:06:38
+15,Taylor,Ben,Unattached,M,03:07:26
+16,Findlay-Robinson,Rhys,Dark Peak FR,M,03:11:50
+17,Herman,Will,Clayton-le-Moors Harriers,M50,03:13:52
+18,Reid,Michael,Carnethy HRC,M40,03:18:13
+19,Peters,Ella,Westerlands CCC,F,03:19:42
+20,Jackson,David,Achille Ratti CC,M40,03:19:54
+21,Pringle,Stuart,Deeside Runners,M40,03:20:46
+22,Whittaker,Mark,Clayton-le-Moors Harriers,M50,03:26:29
+23,Anderson,Adam,Hartfell Hill Runners,M50,03:28:20
+24,Abdelnoor,Ben,Ambleside AC,M40,03:31:13
+25,Lumsdon,Chloe,Helm Hill Runners,F,03:33:32
+26,Comber,Ayron,Deeside Runners,M50,03:33:39
+27,Henderson,Walter,Westerlands CCC,M50,03:33:41
+28,Spinks,Nicky,Dark Peak FR,F50,03:33:49
+29,Green,Robert,Achille Ratti CC,M,03:39:09
+30,Cunnah,Harrison,Unattached,M,03:39:42
+31,Crossett,Scott,Unattached,M,03:39:57
+32,Allsop,David,Kirkintilloch Olympians,M50,03:39:58
+33,Williams,Dominic,Dundee Road Runners,M,03:41:23
+34,Whitlie,Stewart,Carnethy HRC,M60,03:41:28
+35,Makin,Tom,Achille Ratti CC,M,03:41:55
+36,Naylor,Chris,Keswick AC,M40,03:42:22
+37,Bolton,Richard,Pennine Fell Runners,M50,03:44:07
+38,Stansfield,Craig,Rossendale Harriers & AC,M50,03:44:19
+39,Hebblethwaite,Zoe,Keswick AC,F40,03:44:33
+40,Fallas,Helen,Carnethy HRC,F,03:46:26
+41,Riding,David,Achille Ratti CC,M40,03:50:33
+42,Bentley,Mark,Unattached,M50,03:51:03
+43,Mellor,Mike,Arran Runners,M60,03:53:56
+44,McCoull,Fraser,Troon Tortoises AC,M,03:54:13
+45,Fournier,Nicolas,Team Bath AC,M50,03:54:45
+46,Templeman,Simon,Ochil Hill Runners,M50,03:54:45
+47,Callender,James,Westerlands CCC,M,03:56:06
+48,Poulter,Alwyn,Westerlands CCC,M,04:01:14
+49,Crawford,Ewan,HBT,M,04:07:49
+50,Crawford,Ross,Shettleston Harriers,M40,04:08:17
+51,Dick,Paul,PAACE,M40,04:08:34
+52,Blackman,Simon,Arran Runners,M50,04:10:01
+53,Mott,Andrew,Westerlands CCC,M40,04:12:59
+54,Reid,Don,Westerlands CCC,M60,04:13:48
+55,Gilmore,Neil,Carnethy HRC,M60,04:14:55
+56,Oldham,Veronique,Cosmics,F50,04:15:05
+57,Macbeth,Gaby,Westerlands CCC,F40,04:16:06
+58,Brown,Gareth,North Ayrshire AC,M40,04:19:23
+59,Millar,Duncan,Ballymena Runners,M50,04:19:23
+60,Weston,Alison,Ilkley Harriers AC,F50,04:25:12
+61,Goeckeritz,Corinna,Arran Runners,F40,04:25:20
+62,Bryan-Jones,Kirsty,Dark Peak FR,F50,04:25:23
+63,O'Neill,Owen,Westerlands CCC,M40,04:28:50
+64,Meldrum,Alasdair,Ayr Seaforth AAC,M50,04:30:37
+65,Hughes,Dominic,Dundee Road Runners,M40,04:38:50
+66,Radcliffe,Andrew,Insch TRC,M50,04:39:06
+67,Fenton,Lynda,Arran Runners,F40,04:41:45
+68,MacFarlane,Colin,Mid Argyll Tri,M40,04:42:08
+69,Wainwright,Alison,Dark Peak FR,F50,04:43:20
+70,Entwistle,Marie,Deeside Runners,F50,04:43:31
+71,Wainwright,Eleanor,Clapham Chasers,F,04:44:00
+72,Nicholson,Steven,Jog Scotland,M,04:59:00
+73,Hogge,Ken,Arran Runners,M50,04:59:00
+74,Mackintosh,Fiona,Arran Runners,F40,05:02:45
+75,McNamara,Andy,Arran Runners,M50,05:25:53
+76,Miller,Neil,Unattached,M50,05:25:53
+77,Lammers,Wiebke,Westerlands CCC,F40,05:33:51
+78,Sargent,Elaine,Arran Runners,F50,05:36:27
+79,Blomkvist,Andrea,Westerlands CCC,F,05:37:21
+80,McNamara,Elanor,Arran Runners,F40,05:41:40
+81,Sabate,David,Arran Runners,M40,05:59:46

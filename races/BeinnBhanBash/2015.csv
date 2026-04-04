@@ -1,40 +1,62 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Taylor,Luke,Highland Hill Runners,MU18,0:41:57
-2,Burns,Steven,Lochaber AC,MU18,0:44:47
-3,Runcieman,Douglas,Unattached,M40,0:45:48
-4,MacKintosh,Hugh,Lochaber AC,M50,0:46:54
-5,Macmillan,Gavin,Lochaber AC,M,0:47:17
-6,Mackellaig,Iain,Lochaber AC,M40,0:48:06
-7,Urquhart,John,Moray Road Runners,M40,0:48:25
-8,Watson,Dan,Lochtayside,M50,0:48:43
-9,Kennedy,Ali,Lochaber AC,M50,0:49:06
-10,Taylor,Gordie,Lochaber AC,M50,0:50:01
-11,Lamont,Allan,Lochaber AC,M,0:51:01
-12,Blackhall,Amanda,Lochaber AC,F40,0:51:02
-13,MacKinnon,Barrie,Lochaber AC,M,0:51:40
-14,Davis,Matt,Carnethy,M40,0:51:54
-15,Bass,Owen,Solway,M50,0:52:51
-16,Forster,Nix,Lochaber AC,F40,0:54:00
-17,Connolly,Michael,Lochaber AC,M60,0:54:33
-18,Campbell,Brian,Lochaber AC,M50,0:54:50
-19,Paterson,Chloe,Lochaber AC,F40,0:55:08
-20,Maclean,Robert,Lochaber AC,M40,0:56:49
-21,Corner,Julie,Lochaber AC,F40,0:57:35
-22,Macnab,Graham,Lochaber AC,M50,0:58:05
-23,Brennan,Brian,Westerlands,M50,0:58:28
-24,Cameron,Bill,Lochaber AC,M40,1:00:50
-25,Douglas,George,Westerlands,M40,1:01:46
-26,Macmillan,Ross,Lochaber Jog Scotland,M,1:02:21
-27,Kennedy,Nancy,Lochaber AC,F50,1:03:48
-28,Valentine,Debbie,Lochaber AC,F,1:04:16
-29,Hunter,Lia,Lochaber AC,F,1:04:29
-30,Pearce,Emma,Lochaber AC,F40,1:05:33
-31,Kennedy,Angelina,Lochaber AC,F,1:05:47
-32,Conlon,Lisa,Lochaber AC,F,1:06:28
-33,Murdoch,Ray,Lochaber AC,M60,1:08:29
-34,Duncan,Aileen,Lochaber AC,F40,1:14:16
-35,Orr,Ernie,Lochaber AC,M70,1:15:08
-36,MacPhee,Margaret Rose,Lochaber AC,F40,1:18:23
-37,Kitson,Aileen,Lochaber AC,F50,1:19:21
-38,Murdoch,Elma,Lochaber AC,F60,1:21:04
-39,Jardine,Jimmy,Lochaber AC,M70,1:21:25
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Henry,Peter,Deeside Runners,M,00:41:43
+2,Gorman,Manuel,Westerlands,MV40,00:41:47
+3,Taylor,Luke,Highland Hill Runners,M,00:42:54
+4,Gay,Jon,Lochaber AC,MV40,00:43:18
+5,Mattocks,Craig,Gala Harriers,MV40,00:45:52
+6,Smith,Alan,Deeside Runners,MV50,00:47:17
+7,MacMillan,Gavin,Lochaber AC,M,00:47:45
+8,Mackellaig,Ian,Lochaber AC,MV40,00:47:50
+9,Simpson,Geoff,HBT,MV50,00:48:45
+10,Waslidge,Neil,Lochaber AC,MV40,00:49:45
+11,Kennedy,Ali,Lochaber AC,MV50,00:50:36
+12,MacKinnon,Barrie,Lochaber AC,M,00:50:40
+13,Taylor,Gordie,Highland Hill Runners,MV50,00:50:54
+14,Bass,Owen,Deeside Runners,MV50,00:51:02
+15,Watson,Dan,Lochtayside,MV50,00:51:19
+16,Gertig,Helen,Unattached,F,00:51:22
+17,Jenkins,Kate,Gala Harriers,F,00:51:26
+18,Wood,Sam,Unattached,M,00:51:44
+19,Willetts,Mark,Lochaber AC,MV50,00:51:53
+20,Lamont,Allan,Lochaber AC,M,00:52:08
+21,Martens,Markus,Lochaber AC,MV40,00:52:22
+22,Paterson,Donald,Lochaber AC,MV40,00:52:34
+23,Blackhall,Keith,Lochaber AC,MV40,00:52:37
+24,MacLeod,Allan,Unattached,MV40,00:53:09
+25,Connolly,Michael,Lochaber AC,MV60,00:53:32
+26,Wallace,Kerry,Unattached,F,00:53:35
+27,Blackhall,Amanda,Lochaber AC,FV40,00:53:40
+28,MacLean,Robert,Lochaber AC,MV40,00:54:35
+29,Turner,Ronnie,Lochaber AC,MV50,00:54:52
+30,Shaw,Lyndsey,Lochaber AC,F,00:54:58
+31,Campbell,Brian,Lochaber AC,MV50,00:55:02
+32,Munro,Spook,Lochaber AC,MV50,00:55:42
+33,Denny,Colin,Lochaber AC,MV50,00:56:14
+34,Gorman,Duncan,Westerlands,M,00:56:19
+35,Duncan,Davy,Ochill Hill Runners,MV60,00:56:33
+36,Forster,Damien,Lochaber AC,MV40,00:56:46
+37,Forster,Nix,Lochaber AC,FV40,00:56:50
+38,Devey,Suzy,Lochaber AC,F,00:57:08
+39,Daynes,Ed,Lochaber AC,MV40,00:57:33
+40,Shaw,Trevor,Lochtayside,MV50,00:57:41
+41,Taylor,Tony,Lochaber AC,MV40,00:58:21
+42,Kyle,Phil,Lochaber AC,MV50,00:58:24
+43,MacDonald,Brian,Lochaber AC,M,00:58:59
+44,Prins,Lucy,Lochaber AC,FV40,01:00:41
+45,MacDermott,Martin,Lochaber AC,MV40,01:00:56
+47,Byrne,Sarah,Lochaber AC,FV40,01:01:40
+48,Briton,Emma,Lochaber AC,F,01:01:35
+48,Tighe,Mick,Lochaber AC,MV60,01:01:51
+49,Barnes,Hannah,Unattached,F,01:02:08
+50,Tunstall,Duncan,Unattached,MV50,01:04:21
+51,Thompson,Fiona,Lochaber AC,F,01:04:33
+52,Pearce,Emma,Lochaber AC,FV50,01:04:44
+53,Masson,Rebecca,Lochaber AC,F,01:05:53
+54,Tighe,Kathy,Lochaber AC,FV50,01:06:11
+55,Baum,Diane,Lochaber AC,F,01:06:18
+56,Campbell,Klara,Lochaber AC,FV40,01:08:39
+57,Collins,Richie,Lochaber AC,MV40,01:09:45
+58,Smith,Helen,Lochaber AC,FV40,01:11:06
+59,Aitken,Morag,Lochaber AC,FV50,01:11:41
+60,Paul,Brenda,Westerlands,F,01:13:53
+61,Orr,Ernie,Lochaber AC,MV70,01:16:12

@@ -1,0 +1,121 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Crowe,Jamie,Central AC,M,00:31:07
+2,Douglas,Andrew,Westerlands CCC,M,00:31:18
+3,Pryde,Moray,Lothian RC,M,00:32:26
+4,Abernethy,Rory,Ochil Hill Runners,M,00:32:42
+5,Pulham,Harry,Shettleston Harriers,M,00:33:23
+6,Wright,Angus,Edinburgh Uni H&H,MU23,00:33:33
+7,Davies,Fred,Shettleston Harriers,M,00:33:52
+8,Malcolm,Gregor,Ochil Hill Runners,M,00:34:09
+9,Hickey,Hamish,Central AC,M,00:34:35
+10,Sparks,Robert,Edinburgh Uni H&H,M,00:35:05
+11,Gamble,Jonathan,Insch TRC,M,00:35:09
+12,Fallas,Andrew,Carnethy HRC,M40,00:35:21
+13,Wright,Andrew,PH Racing Club,M50,00:36:46
+14,Sedman,Eliot,Carnethy HRC,M40,00:36:49
+15,MacKay,Ryan,Lochaber AC,M,00:36:51
+16,Pender,Iain,Shettleston Harriers,M40,00:36:54
+17,Gilmore,Andrew,Highland Hill Runners,M,00:37:24
+18,Macrae,Andrew,Carnethy HRC,M50,00:37:31
+19,Young,Cameron,Shettleston Harriers,M,00:37:35
+20,Chepelin,Oleg,HBT,M,00:37:53
+21,Richmond,Kenny,Shettleston Harriers,M50,00:38:06
+22,Brown,Graeme,Highland Hill Runners,M40,00:38:18
+23,Turnbull,Jonathan,Strathearn Harriers,M40,00:38:25
+24,Grant Pantrey,Chris,Shettleston Harriers,M40,00:38:50
+25,Connaghan,John,Shettleston Harriers,M50,00:39:16
+26,Cowie,Martyn,Unattached,M40,00:39:37
+27,Shaw,Emily,Edinburgh Uni H&H,FU23,00:39:46
+28,Stephen,Jill,Deeside Runners,F40,00:40:04
+29,Freshwater,Craig,Deeside Runners,M40,00:40:19
+30,Leigh,Helen,Inverness Harriers,F,00:40:28
+31,Rodney,Angus,Shettleston Harriers,M,00:40:29
+32,Sharkey,Drew,Carnethy HRC,M50,00:40:33
+33,Yule,Steven,Deeside Runners,M40,00:40:36
+34,Henderson,Scott,Westerlands CCC,M40,00:40:43
+35,Wagner,Stefan,Unattached,M50,00:40:47
+36,Fairgrieve,Jonathan,Shettleston Harriers,M,00:40:50
+37,Henderson,Walter,Cumbernauld AAC,M50,00:40:59
+38,Thin,Jamie,HBT,M50,00:41:33
+39,Anderson,Adam,Hartfell Hill Runners,M50,00:41:41
+40,Cruickshanks,Ross,Shettleston Harriers,M,00:41:54
+41,Foreman,Ella,Westerlands CCC,F,00:42:02
+42,Browell,Jethro,Bellahouston RR,M,00:42:11
+43,Breckenridge,Bill,Shettleston Harriers,M50,00:42:21
+44,Collins,Ian,Westerlands CCC,M40,00:42:35
+45,Wallis,Sally,Deeside Runners,F40,00:42:39
+46,Irvine,Clara-Jane,Deeside Runners,F,00:43:22
+47,Stockton,Mark,Cosmics,M40,00:43:31
+48,Astley,Ellen,Strathclyde Uni,FU23,00:43:43
+49,Mudge,Angela,Ochil Hill Runners,F50,00:43:52
+50,Murdoch,Elaine,Cosmics,F,00:43:58
+51,Colley,Dale,Central AC,M,00:44:06
+52,Wilson,Stewart,Highland Hill Runners,M50,00:44:14
+53,Pringle,Alastair,Shettleston Harriers,M50,00:44:17
+54,Mayers,James,Musselburgh,M60,00:44:26
+55,Williamson,Jason,Cosmics,M50,00:44:27
+56,Stone,Malcolm,AAAC,M50,00:44:34
+57,Griffiths,Gemma,Shettleston Harriers,FU23,00:44:42
+58,O'neill,Owen,Westerlands CCC,M40,00:44:56
+59,Winter,Stephen,Shettleston Harriers,M40,00:45:01
+60,Ball,Duncan,Penicuik Harriers,M60,00:45:04
+61,Murray,Rab,Methlick Jog Scotland,M60,00:45:11
+62,McDonald,Dennis,Cosmics,M60,00:45:23
+63,Fallas,Helen,Carnethy HRC,F,00:45:38
+64,Macphail,CJ,Shettleston Harriers,F,00:46:00
+65,Rodgers,Fergus,Deveron Harriers,M,00:47:04
+66,Oldham,Veronique,Cosmics,F50,00:47:29
+67,Meek,Ian,Unattached,M50,00:47:32
+68,Curtis,Bobby,Shettleston Harriers,M,00:47:38
+69,Myatt,Rona,Westerlands CCC,F,00:48:14
+70,More,Dave,Unattached,M40,00:48:28
+71,Dowse,David,Strathearn Harriers,M40,00:48:38
+72,Gilmore,Neil,Carnethy HRC,M60,00:48:41
+73,Dickson,David,Westerlands CCC,M60,00:48:49
+74,Wynne,Rob,Garioch Roadrunners,M60,00:48:59
+75,Templeman,Simon,Ochil Hill Runners,M50,00:49:08
+76,Spinks,Nicky,Dark Peak FR,F50,00:49:14
+77,Malcolmson,Craig,Hartfell Hill Runners,M60,00:49:16
+78,Reid,Don,Westerlands CCC,M60,00:49:18
+79,Meek,Katie,Unattached,FU23,00:49:20
+80,Larmour,Colin,Cosmics,M50,00:49:30
+81,Mackenzie,Ruth,Deeside Runners,F50,00:49:46
+82,Whelan,Grace,Central AC,F,00:49:59
+83,Sheridan,Bob,Deeside Runners,M50,00:50:11
+84,Gunstone,Chris,Dunbar RC,M60,00:50:17
+85,Reid,Rodrigo,Shettleston Harriers,M40,00:50:20
+86,Pryde,Gordon,Lomond Hill Runners,M60,00:50:33
+87,Taylor,Alison,Garioch Roadrunners,F50,00:50:42
+88,Heath,Kevin,Cosmics,M60,00:50:51
+89,McDonald,Fiona,Cosmics,F40,00:51:06
+90,Dean,Hazel,Ochil Hill Runners,F60,00:51:20
+91,Parson,Simon,Unattached,M50,00:51:30
+92,Ritchie,Hilary,Fife AC,F60,00:52:08
+93,Lang,Richard,Cosmics,M50,00:52:57
+94,Lennie,Drew,Carnethy HRC,M60,00:53:02
+95,Hamilton,Ian,Cosmics,M60,00:54:17
+96,Thompson,Fabienne,Lomond Hill Runners,F50,00:54:28
+97,Pflanz,Sebastian,Dumfries RC,M60,00:55:06
+98,Dring,Tim,Fit Like Joggers,M50,00:55:36
+99,Wilson,Joan,Lomond Hill Runners,F60,00:56:28
+100,Coull,Lorraine,Highland Hill Runners,F50,00:56:29
+101,Entwistle,Marie,Deeside Runners,F50,00:56:47
+102,MacLeod,Murdo,Westerlands CCC,N70,00:57:14
+103,Angus,Gerald,Keith & District AAC,M60,00:58:15
+104,Millen,John,Unattached,M50,00:58:56
+105,Dick,Alan,Cosmics,M50,00:59:20
+106,Hall,Mark,Unattached,M60,00:59:48
+107,Breheny,Martin,Unattached,M50,00:59:56
+108,Oliver,David,Deeside Runners,M60,01:00:31
+109,Beck,Sharon,Unattached,F50,01:00:57
+110,Thin,Joanne,Carnethy HRC,F50,01:01:16
+111,Wink,Rebecca,Unattached,F,01:01:20
+112,Whelan,Mike,Moray RR,M60,01:01:33
+113,Heron,Ceana,Shettleston Harriers,F,01:02:52
+114,Finbow,Gavin,Shettleston Harriers,M40,01:03:34
+115,Thomson,Frances,Garioch Roadrunners,F60,01:04:08
+116,Ferguson,Mark,Unattached,M,01:04:27
+117,Brooke,Sarah,Unattached,F,01:09:17
+118,Campbell,Rod,Cosmics,V70,01:14:05
+119,Oliver,Jane,Deeside Runners,F60,01:15:04
+120,Nakaya,Tohru,Unattached,M60,01:15:28

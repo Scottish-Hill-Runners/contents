@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Neilson,Philip,Unattached,M,00:30:58
 2,Anderson,Adam,Hartfell HRC,M50,00:34:32
 3,Worsley,Steven,Inverness Harriers A A C,M50,00:36:27

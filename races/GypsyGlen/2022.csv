@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Misak,Milan,Moorfoot Runners,M,00:34:58
 2,Carter-Brown,David,Peebles Tri,M,00:35:10
 3,Lamont,Andrew,Carnethy,MV,00:35:34
@@ -25,7 +25,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Mckiddie,Christopher,Westerlands,M,00:43:16
 25,Molero,Luis,Lauderdale Limpers,MV,00:43:22
 26,Somerfield,Chloe,Lauderdale Limpers,F,00:43:24
-27,Perron,F,Unattached,M ,00:43:27
+27,Perron,F,Unattached,M,00:43:27
 28,Plint,Sarah,Lauderdale Limpers,FV,00:43:52
 29,Dunbar,Allan,Penicuik Harriers,MV,00:43:54
 30,Holt,Martin,Moorfoot Runners,MV,00:44:02

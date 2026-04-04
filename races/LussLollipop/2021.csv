@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Abernethy,Rory,Ochil Hill Runners,MSEN,01:07:59
 2,Pulham,Harry,Shettleston Harriers,MSEN,01:14:35
 3,Grant Pantrey,Chris,Shettleston Harriers,MV40,01:16:08
@@ -33,21 +33,21 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 32,Crewe,Ruth,Westerlands CCC,FSEN,01:35:12
 33,O'Neill,Owen,Westerlands CCC,MV40,01:38:23
 34,Pace,Molly,Jesmond Joggers,FSEN,01:39:16
-35,Laing,Catriona,University of Dundee ,FSEN,01:41:58
+35,Laing,Catriona,University of Dundee,FSEN,01:41:58
 36,McCahill,Emma,Westerlands CCC,FSEN,01:41:58
 37,Reid,Don,Westerlands CCC,MV60,01:43:06
 38,Mahoney,Lorna,Westerlands CCC,FV50,01:43:40
-39,Hewitson,Sue,Greenock Glenpark ,FV40,01:43:51
+39,Hewitson,Sue,Greenock Glenpark,FV40,01:43:51
 40,Macmillan,Susannah,Jura AC,FV50,01:44:56
 41,Shaw,Trevor,Lochtayside,MV50,01:44:57
 42,Furse,Chris,Westerlands CCC,MV50,01:45:02
-43,Gray,Ross,University of Dundee ,MSEN,01:45:50
+43,Gray,Ross,University of Dundee,MSEN,01:45:50
 44,Donnelly,John,Westerlands CCC,MV50,01:46:02
 45,Gorgas,Steffen,Westerlands CCC,MV50,01:46:05
 46,Turner,Dave,Lomonds,MV50,01:46:17
 47,Ruddick,Jennifer,Westerlands CCC,FSEN,01:46:22
 48,Fletcher,Roberta,Unattached,FSEN,01:46:50
-49,Berry,Hannah,University of Dundee ,FSEN,01:47:21
+49,Berry,Hannah,University of Dundee,FSEN,01:47:21
 50,Johnston,Stephen,Milburn Harriers,MV60,01:47:47
 51,Blackley,Lisa,Unattached,FV40,01:48:49
 52,MacLeod,Murdo,Westerlands CCC,MV70,01:49:06

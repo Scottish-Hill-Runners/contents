@@ -1,0 +1,100 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Hilton,Thomas,Edinburgh Uni H&H,M,00:15:28
+2,Fisher,Luke,Carnethy HRC,M,00:15:32
+3,Tosh,Sam,Carnethy HRC,M,00:15:55
+4,Douglas,Andrew,Westerlands CCC,M,00:15:59
+5,Bolton,Harry,Carnethy HRC,M,00:16:09
+6,Ackland,James,Dumfries RC,M,00:16:18
+7,Halsall,Steve,Unattached,M40,00:16:54
+8,Homes,Ben,Carnethy HRC,M,00:16:56
+9,Umpleby,Richard,Carnethy HRC,M40,00:18:39
+10,McInally,Ralph,Strathearn Harriers,M,00:18:43
+11,Gilmore,Iain,Carnethy HRC,M,00:19:00
+12,Goldsworthy,Richard,Strathaven Striders,M40,00:19:14
+13,Cox,Andrew,Gala Harriers,M40,00:19:46
+14,Duncan,Eric,Highland Hill Runners,M50,00:19:55
+15,Philip,Jack,Moorfoot Runners,M,00:20:00
+16,Ross,Heidi,Carnethy HRC,F,00:20:03
+17,Wiseman,Bob,Ochil Hill Runners,M40,00:20:18
+18,Greig,Mathew,HBT,M,00:20:20
+19,Bergstrand,Betty,Carnethy HRC,F,00:20:35
+20,McGee,Michael,Unattached,M,00:20:38
+21,O'Callaghan,Alan,Carnethy HRC,M,00:20:44
+22,Anderson,Adam,Hartfell HRC,M50,00:20:53
+23,McInally,Hanna,Strathearn Harriers,F,00:21:03
+24,Woodward,Gregory,Glasgow Uni H&H,M,00:21:04
+25,Crowe,Des,Penicuik Harriers,M60,00:21:09
+26,Wight,Ally,Hartfell HRC,M50,00:21:15
+27,Wheeler,Mark,Hamilton Harriers,M40,00:21:17
+28,Reid,Don,Westerlands CCC,M60,00:21:28
+29,Gilmore,Neil,Carnethy HRC,M60,00:21:46
+30,Fowler,Paddy,Portobello,M,00:21:49
+31,Kirkham-Wareing,Peter,Portobello,M,00:22:34
+32,Reid,Fraser,Westerlands CCC,M,00:22:45
+33,Bruce,Kenneth,Unattached,M50,00:22:51
+34,Plummer,Kevin,Hartfell HRC,M60,00:22:56
+35,McAllister,Georgina,Penicuik Harriers,F40,00:23:00
+36,Malcolmson,Craig,Hartfell HRC,M60,00:23:12
+37,Gordon,Stephen,Carnethy HRC,M60,00:23:14
+38,Banford,Alison,Hartfell HRC,F40,00:23:20
+39,Marshall,Marie,Annan and District AC,F40,00:23:27
+40,Greens,Daniel,Penicuik Harriers,M,00:23:49
+41,McKechanie,Eilis,HBT,F40,00:24:01
+42,Mellanby,Richard,Unattached,M50,00:24:24
+43,Dasiukevich,Joseph,Unattached,M,00:24:31
+44,Wheelan,Kai,Calderglen Harriers,M,00:24:47
+45,Blackley,Lisa,Unattached,F40,00:24:54
+46,Ball,James,Unattached,M,00:25:21
+47,Jones,Geronimo,Carnethy HRC,M,00:25:25
+48,Durward,Jonathan,Cambridge Tri Club,M50,00:25:59
+49,Oswald,Julie,Musselburgh,F50,00:26:12
+50,Robertson,Alec,Unattached,M,00:26:13
+51,Walling,Katie,Moorfoot Runners,F40,00:26:14
+52,Finlayson,Mariana,Unattached,F,00:26:20
+53,Sadaj,Kasia,Carnethy HRC,F40,00:26:33
+54,Dasiukevich,Peter,Unattached,M,00:26:38
+55,PflanZ,Sebastian,Dumfries RC,M60,00:26:53
+56,Singh,Shirley,Unattached,F60,00:26:58
+57,Heycock,Lucy,Hartfell HRC,F50,00:27:00
+58,Bardsley,Nicky,Hartfell HRC,M40,00:27:16
+59,Murgatroyd,Ian,Hartfell HRC,M60,00:27:17
+60,Addison,Craig,Carnethy HRC,M50,00:27:18
+61,Jones,Mathew,Carnethy HRC,M50,00:27:20
+62,Lye,Mary,Carnethy HRC,F50,00:27:20
+63,Brownlee,David,Penicuik Harriers,M60,00:27:47
+64,Stewart,James,Unattached,MJ,00:27:57
+65,Bates,Rachel,Unattached,F,00:28:03
+66,Venerus,May,Glasgow Uni H&H,F,00:28:06
+67,Stable,Charles,Musselburgh,M50,00:28:13
+68,Cochrane,Charlotte,Goodtime Running Club,F,00:28:18
+69,Morrice,David,Edinburgh Running Network,M50,00:28:18
+70,Law,Alex,Unattached,M,00:28:29
+71,Turnbull,Jennifer,Unattached,F,00:28:32
+72,Homes,Nigel,Tinto Hill Runners,M60,00:28:36
+73,Welsh,Tom,Unattached,M,00:28:39
+74,Paul,Alastair,Portobello,M70,00:28:48
+75,Walker,Stewart,Tinto Hill Runners,M60,00:28:55
+76,Goldsworthy,John,Hardrock Hoodlums,M70,00:29:15
+77,Beattie,Suzanne,Musselburgh,F50,00:29:34
+78,Huntley,Chris,Tinto Hill Runners,M60,00:29:47
+79,Kemp,Sadie,Penicuik Harriers,F40,00:29:55
+80,Abel,Gavin,Penicuik Harriers,M,00:30:11
+81,Bell,Robbie,Unattached,M,00:31:01
+82,Howie,Brian,Carnethy HRC,M70,00:31:06
+83,Chandler,Richard,Carnethy HRC,M60,00:31:08
+84,Astbury,Caitlin,Unattached,F,00:31:15
+85,Hopper,Louise,Annan and District AC,F60,00:31:38
+86,Latham,Mark,Northumberland FR,M60,00:33:00
+87,Brack,Kat,Musselburgh,F40,00:33:06
+88,McConnel-Trevillion,Lou,Tinto Hill Runners,F50,00:33:11
+89,Antunes,Andre,HBT,M40,00:33:17
+90,Ross,Katherine,Unattached,F,00:35:12
+91,Abel,Isla,JogScotland,F,00:37:08
+92,Tweddle,Kathy,Unattached,F,00:37:17
+93,Wilson,Moira,Tinto Hill Runners,F50,00:37:57
+94,Huynh,Jacqueline,Unattached,F,00:39:45
+95,Ferguson,Rachel,Carnethy HRC,F,00:39:45
+96,Wall,Dick,HBT,M70,00:40:22
+97,Donaldson,Alex,Strathaven Striders,M50,00:40:37
+98,Chrighton,Alan,Hartfell HRC,M60,00:48:59
+99,Ross,Rhoda,Unattached,F60,00:49:45

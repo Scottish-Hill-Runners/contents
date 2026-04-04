@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,01:15:33
 2,Yells,John,Lochaber AC,M,01:28:02
 3,Thorburn,Ewan,Lochaber AC,M,01:28:34
@@ -11,7 +11,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Downie,Robin,Ochil Hill Runners,M,01:39:58
 11,Drysdale,Simon,Lochaber AC,M,01:40:29
 12,MacDonald,John Lawrie,Lochaber AC,M40,01:41:04
-13,Battle,Hamish,Metro Aberdeen ,M,01:41:34
+13,Battle,Hamish,Metro Aberdeen,M,01:41:34
 14,Shaw,Ruairidh,Lochaber AC,M,01:41:44
 15,Wright,Finlay,Lochaber AC,M,01:41:56
 16,Cameron,Angus,Lochaber AC,M,01:44:01
@@ -24,7 +24,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Comiskey,Sean,Unattached,M40,01:46:48
 24,Whiteside,Gavin,Highland Hill Runners,M40,01:47:07
 25,Marwick,Caroline,Highland Hill Runners,F,01:47:20
-26,Johnston,Fergus,Carnethy,M40,01:47:21
+26,Johnston,Fergus,Deeside Runners,M40,01:47:21
 27,Mudge,Angela,Ochil Hill Runners,F50,01:48:16
 28,Smith,Alan,Deeside Runners,M60,01:49:47
 29,Sparks,Arron,Highland Hill Runners,M,01:50:58
@@ -44,7 +44,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 43,Disher,Amy,Lochaber AC,F,02:09:11
 44,MacDonald,Kira,Lochaber AC,F,02:09:14
 45,Jones,Sam,Unattached,M,02:09:37
-46,MacDonald,Gio,Carnethy ,M40,02:09:37
+46,MacDonald,Gio,Carnethy,M40,02:09:37
 47,Tirbooman,Alice,Westerlands CCC,F,02:09:38
 48,Munro,David,Lochaber AC,M50,02:10:13
 49,Taylor,Gordie,Highland Hill Runners,M50,02:13:12

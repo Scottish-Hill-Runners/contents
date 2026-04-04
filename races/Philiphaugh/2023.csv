@@ -1,6 +1,6 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wright,Andrew,PH Racing Club,M40,00:48:40
-2,Stewart,Iain,Gala Harriers,M40 ,00:49:19
+2,Stewart,Iain,Gala Harriers,M40,00:49:19
 3,Hughes,Richie,Northumberland FE,M,00:49:43
 4,Lavin,Daniel,Moorfoot Runners,M,00:50:18
 5,Darlow,Tim,Gala Harriers,M40,00:54:39

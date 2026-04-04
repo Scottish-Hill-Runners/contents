@@ -1,10 +1,10 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Cooper,Kieran,Carnethy HRC,M,01:14:31
 2,Dry,Dan,Shettleston Harriers,M,01:18:26
 3,Campbell,Alasdair,Cambuslang Harriers,M,01:19:35
 4,Pulham,Harry,Shettleston Harriers,M,01:19:37
 5,Symonds,Joe,Shettleston Harriers,M40,01:21:41
-6,Wilkinson,Marc,Lauderdale Limpers ,M,01:22:49
+6,Wilkinson,Marc,Lauderdale Limpers,M,01:22:49
 7,Halsall,Steve,Shettleston Harriers,M,01:23:14
 8,Malcolm,Gregor,Ochil Hill Runners,M,01:23:48
 9,Quinn,Adam,Westerlands CCC,M,01:23:51
@@ -31,15 +31,15 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 30,Wilson,Rob,Penicuik Harriers,M50,01:44:12
 31,Ashworth,James,Ochil Hill Runners,M50,01:44:55
 32,Williams,Dominic,Dundee RR,M,01:45:05
-33,Smith,Alan ,Deeside Runners,M60,01:45:57
+33,Smith,Alan,Deeside Runners,M60,01:45:57
 34,Ferguson,Craig,Kilmarnock Harriers,M,01:46:03
 35,Roper,Marc,Westerlands CCC,M60,01:46:11
 36,Wight,Ally,Hartfell HRC,M40,01:48:07
 37,Collins,Ian,Westerlands CCC,M40,01:49:15
 38,Tullie,John,Teviotdale Harriers,M65,01:49:35
-39,Spinks,Nicky,Dark Peak ,F55,01:49:51
+39,Spinks,Nicky,Dark Peak,F55,01:49:51
 40,Thomas,Jamie,Dunbar AC,M40,01:50:06
-41,Mayers,James,Musselburgh ,M60,01:50:47
+41,Mayers,James,Musselburgh,M60,01:50:47
 42,McInally,Hanna,Strathearn Harriers,F,01:51:10
 43,Murphy,Craig,Girvan Harriers,M55,01:52:25
 44,Callender,James,Westerlands CCC,M,01:54:10
@@ -64,7 +64,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,Mangan,Clodagh,Westerlands CCC,F,02:16:04
 64,Bygrave,Keith,Galloway Harriers,M40,02:17:34
 65,Bygrave,Nicole,Galloway Harriers,F40,02:17:35
-66,Clark ,Daniel,Ochil Hill Runners,M40,02:19:15
+66,Clark,Daniel,Ochil Hill Runners,M40,02:19:15
 67,Howie,Brian,Carnethy HRC,M70,02:20:10
 68,Purves,Denise,Lomonds,F50,02:21:16
 69,Park,Archibald,Hartfell HRC,M60,02:21:39
@@ -76,7 +76,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 75,Ross,Gary,Unattached,M,02:30:26
 76,Gilligan,Amy,Dundee RR,F,02:30:41
 77,Lessells,Tony,Lomonds,M40,02:32:07
-78,Till,Dave,Skye and Lochalsh ,M60,02:34:12
+78,Till,Dave,Skye and Lochalsh,M60,02:34:12
 79,Paterson,Ian,Cairnsmore Milemunchers,M50,02:35:18
 80,Scott,David,Ochil Hill Runners,M65,02:42:49
 81,Oliver,Jane,Deeside Runners,F60,02:43:42

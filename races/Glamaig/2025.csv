@@ -1,0 +1,113 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Simpson,Tom,Ambleside AC,M,00:50:07
+2,Thornton,Alistair,Howgill Harriers,M,00:51:48
+3,Vokes,Philip,Highland Hill Runners,M,00:51:52
+4,Taylor,Like,Highland Hill Runners,M,00:54:51
+5,Wilson,Felix,Carnethy HRC,M,00:55:09
+6,Gilmore,Andrew,Highland Hill Runners,M,00:56:35
+7,Cooling,Harry,Howgill Harriers,M,00:58:15
+8,Ashwood,Daniel,Carnethy HRC,M,00:58:57
+9,Thorburn,Ewan,Unattached,M40,00:59:39
+10,Mann,Joe,Highland Hill Runners,M,01:00:36
+11,Oliver,Huw,Lochaber AC,M,01:01:09
+12,Gallacher,Craig,Westerlands CCC,M,01:03:08
+13,Bartholomew,Doug,Highland Hill Runners,M40,01:03:21
+14,Turnbull,Jonathan,Strathearn Harriers,M40,01:05:11
+15,Tresidder,Esmond,Lochaber AC,M40,01:05:37
+16,Deamer,Matt,Cuillin Dubh HRC,M,01:05:45
+17,Rigg,Will,Carnethy HRC,M,01:05:48
+18,Anthony,Alisdair,Drumguish D&JC,M40,01:05:51
+19,Gorman,Manny,Drumguish D&JC,M50,01:06:24
+20,Crowe,Jamie,Central AC,M,01:07:39
+21,Pedley,Alasdair,Unattached,M,01:07:49
+22,Nicholson,James,Highland Hill Runners,M,01:07:59
+23,Halcrow,Bryony,Ambleside AC,F,01:08:22
+24,Masson,Alistair,Carnethy HRC,M,01:08:34
+25,Killingbeck,Siobhan,Highland Hill Runners,F,01:09:38
+26,Oliver-Jones,Ruairdh,Lochaber AC,M,01:10:10
+27,Hodgson,Sarah,Highland Hill Runners,F,01:11:07
+28,Mackinnon,Gordon,Lochaber AC,M40,01:11:17
+29,Davidson,Gregor,Lochaber AC,M40,01:11:27
+30,Valters,Declan,Carnethy HRC,M,01:12:49
+31,Crowsley,Sarah,Drumguish D&JC,F,01:13:58
+32,Lawrie MacDonald,John,Lochaber AC,M40,01:14:05
+33,Smith,Alan,Deeside Runners,M60,01:14:33
+34,Brown,Steven,Lochaber AC,M40,01:15:16
+35,Williams,David,Lochaber AC,M,01:15:51
+36,Sutherland,Darren,North Highland Harriors,M40,01:16:14
+37,Kennedy,Anna,Carnethy HRC,F,01:16:57
+38,Sheehan,Ruari,Unattached,M,01:17:31
+39,Cox,Alistair,Tinto Hill Runners,M40,01:18:07
+40,Wilson,Stewart,Highland Hill Runners,M50,01:18:15
+41,Shepherd,Oscar,Edinburgh Uni H&H,M,01:18:50
+42,Till,Niall,Cuillin Dubh HRC,M,01:21:49
+43,MacPherson,Sarah,Cuillin Dubh HRC,F,01:22:51
+44,Maclennan,Iain,Highland Hill Runners,M50,01:22:54
+45,Ridley,Jon,Unattached,M,01:23:02
+46,Reid,Don,Westerlands CCC,M60,01:23:04
+47,Wheeler,Mark,Hamilton Harriers,M40,01:23:22
+48,Gilmore,Neil,Carnethy HRC,M60,01:24:34
+49,Oakley,Kirstin,Lochaber AC,F,01:25:07
+50,Worlock,Benjamin,Unattached,M,01:25:57
+51,Towers,Eilidh,Cuillin Dubh HRC,F,01:26:49
+52,Sutherland,Catherine,Cuillin Dubh HRC,F40,01:26:50
+53,Philip,Cameron,Unattached,M,01:26:59
+54,Weller,Zach,Unattached,M,01:28:34
+55,Fishburn,Rona,Carnethy HRC,F,01:29:09
+56,Holgate,Emma,Drumguish D&JC,F40,01:29:15
+57,Turner,Simon,Tinto Hill Runners,M50,01:29:34
+58,Brown,Gareth,North Ayrshire AC,M40,01:30:25
+59,Strljic,Anamarija,Lochaber AC,F,01:31:04
+60,Wall,Richard,HBT,M70,01:31:52
+61,MacKenzie,Ross,Lochaber AC,M,01:35:41
+62,Pipkin,Thomas,Unattached,M,01:36:15
+63,O'Connell,Marcus,Cuillin Dubh HRC,M,01:37:31
+64,Macleod,Ally,Unattached,M60,01:37:37
+65,Cope,David,Howgill Harriers,M,01:37:45
+66,Gilchrist,Lucy,Ambleside AC,F50,01:38:00
+67,Bryant,Alex,Unattached,M,01:38:03
+68,Davies,Beckie,Drumguish D&JC,F,01:39:06
+69,Moffat,John,Highland Hill Runners,M60,01:39:37
+70,Wishart,Bronagh,Unattached,F,01:40:55
+71,Paul,Brenda,Unattached,F40,01:41:31
+72,Shepherd,Andrew,Carnethy HRC,M60,01:42:29
+73,Chadwick,Rob,HBT,M,01:44:14
+74,MacSween,Alasdair,Skye and Lochalsh RC,M60,01:45:06
+75,Currie,Alice,Lochaber AC,F,01:45:45
+76,Macleod,John,Unattached,M40,01:45:52
+77,Basten,Beni,Unattached,M,01:45:55
+78,MacNeacail,Coinneach,Unattached,M,01:47:16
+79,McIntyre,Cheryl,Cuillin Dubh HRC,F,01:47:27
+80,Combe,Alastair,Unattached,M50,01:47:28
+81,Silvester,Ian,Skye and Lochalsh RC,M60,01:47:56
+82,Wilson,Joan,Lomond Hill Runners,F60,01:48:14
+83,Tucker,Josh,Unattached,M,01:48:47
+84,Urmston,Kevin,Unattached,M40,01:48:50
+85,Stabler,Arif,Unattached,M,01:49:58
+86,Shaw,Rachel,Cuillin Dubh HRC,F,01:50:10
+87,Butterworth,Nick,Unattached,M60,01:51:45
+88,Manchel,Mehdi,Unattached,M,01:52:09
+89,Pritchard,Angus,Unattached,M,01:53:10
+90,Williams,Non,Lochaber AC,F,01:53:58
+91,Barratt,Josh,Unattached,M,01:54:01
+92,Hornby,Christian,Unattached,M,01:54:05
+93,Winaski,Allison,Lochaber AC,M,01:55:02
+94,Stansfield,Lizzie,Edinburgh Uni H&H,F,01:55:32
+95,Hayes,Caetanu,Unattached,M,01:56:05
+96,Coldrick,Joseph,Unattached,M,01:58:41
+97,Robertson,Hugh,Insch Trail Running Club,M40,01:59:03
+98,Gamble,Connor,Lochaber AC,M,02:01:05
+99,Lamond,Rosalind,Unattached,F,02:09:17
+100,Sharp,Caroline,Unattached,F,02:15:00
+101,Collingwood,Lucy,Unattached,F,02:15:02
+102,Wraight,Luke,Unattached,M,02:33:01
+103,Walker,Tom,Drumguish D&JC,M40,02:34:04
+104,Rodham,Elliot,Unattached,M,02:36:01
+105,Balkey,Connor,Unattached,M,02:41:59
+106,Hannah,Ross,Unattached,M,02:42:05
+107,Moore,George,Unattached,M,02:48:52
+108,Ovens,Carly Jo,Keith and District AAC,F,02:50:34
+109,Todd,Andy,Unattached,M50,03:05:43
+110,Samyn,Lenny,Unattached,M,03:23:48
+111,Callaghan,Abby,Unattached,F,03:26:49
+112,Walker,SJ,Unattached,F,03:26:50

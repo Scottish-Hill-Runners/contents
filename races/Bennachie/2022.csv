@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Sinclair,Rob,Highland Hill Runners,M,00:52:00
 2,Thomson,Fearghas,Aberdeen AAC,M,00:58:51
 3,Greig,Kyle,Metro Aberdeen,M,00:59:14
@@ -56,7 +56,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,O'neill,Ryan,Unattached,M,01:22:41
 56,Mclelland,Drew,JSK Running Club,M40,01:22:56
 57,Moreno,Victor,Unattached,M40,01:23:54
-58,Duncan,John,Jog Scotland Meldrum ,M40,01:23:58
+58,Duncan,John,Jog Scotland Meldrum,M40,01:23:58
 59,Quesada Martin,Miguel Angel,Unattached,M40,01:24:16
 60,Kedward,Paul,Unattached,M40,01:24:18
 61,Radford,Mark,Insch TRC,M50,01:24:21
@@ -89,7 +89,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 88,Hay,Chantal,Unattached,F40,01:33:23
 89,Douglas,Garry,Insch TRC,M40,01:33:33
 90,Spencer,Alex,Cosmics,M40,01:34:01
-91,Gray,Brian,Jog Scotland Meldrum ,M50,01:34:39
+91,Gray,Brian,Jog Scotland Meldrum,M50,01:34:39
 92,Scott,Dan,Unattached,M,01:35:21
 93,Linklater,Susan,Shetland AAC,F60,01:35:21
 94,Davies,Geraint,Unattached,M,01:35:25

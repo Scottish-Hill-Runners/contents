@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Battle,Hamish,Metro Aberdeen RC,M,00:24:39
 2,Pringle,Stuart,,M40,00:25:26
 3,Henry,Peter,,M,00:26:01
@@ -20,7 +20,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 19,Hirst,David,,M60,00:31:43
 20,Samphier,Pippa,,F,00:31:47
 21,Heath,Kevin,,M60,00:31:49
-22,Henderson,Katie ,,F40,00:31:53
+22,Henderson,Katie,,F40,00:31:53
 23,Harris,Greg,,M40,00:32:21
 24,Jackson,Kimberley,,F,00:32:29
 25,Anderson,Graeme,,M50,00:32:36

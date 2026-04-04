@@ -1,0 +1,197 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Douglas,Andrew,Westerlands CCC,M,02:10:16
+2,Roberts,Fergus,Ochil Hill Runners,M,02:11:05
+3,Downie,Robin,Lochaber AC,M,02:13:33
+4,Thornton,Alistair,Ochil Hill Runners,M,02:16:02
+5,Chepelin,Sasha,Carnethy HRC,M,02:16:25
+6,Fisher,Sam,Howgill Harriers,M,02:17:26
+7,Balogh,Csoban,Carnethy HRC,M,02:18:15
+8,Graves,Alastair,Ochil Hill Runners,M,02:18:40
+9,Otton,Thomas,Carnethy HRC,M,02:19:48
+10,Wilson,Felix,Carnethy HRC,M,02:20:07
+11,Taylor,Luke,Highland Hill Runners,M,02:22:10
+12,Smith,Aidan,Carnethy HRC,M,02:23:04
+13,MacPherson,Chris,The Green Runners,MS,02:24:31
+14,Fallas,Andrew,Carnethy HRC,M40,02:24:56
+15,Hooper,Sam,Carnethy HRC,M,02:25:17
+16,Molina,Rodrigo Lara,Carnethy HRC,M,02:28:25
+17,Stansfield,Daniel,Carnethy HRC,M,02:28:54
+18,Mcinally,Ralph,Strathearn Harriers,M,02:29:50
+19,Wainwright,Sam,Ochil Hill Runners,M,02:30:42
+20,Spalding,Ross,Ochil Hill Runners,M,02:31:14
+21,Anderson,Darroch,Carnethy HRC,M,02:32:09
+22,Reeve,Andrew,Highland Hill Runners,M,02:32:14
+23,Chebbout,Ryad,Shettleston Harriers,M,02:32:34
+24,Wilkins,Robin,Ochil Hill Runners,M40,02:33:43
+25,Lamont,Andrew,Carnethy HRC,M40,02:33:52
+26,Tresidder,Es,Lochaber AC,M,02:34:16
+27,Cameron,Hamish,Unattached,M,02:34:21
+28,Harding,Iain,Highland Hill Runners,M,02:34:48
+29,Mclaren,Jamie,Unattached,MU16,02:36:05
+30,Turnbull,Jonathan,Strathearn Harriers,M40,02:37:10
+31,Crowe,Jamie,Central AC,M,02:38:03
+32,Mccomb,Lewis,Central AC,M,02:38:42
+33,Knox,Thomas,Perth Road Runners,M,02:39:14
+34,Patton,Euan,Dark Peak FR,M,02:42:23
+35,Farnell,Joe,Lochaber AC,M,02:44:25
+36,Phillips,George,Westerlands CCC,M,02:44:27
+37,Sparks,Robert,Edinburgh Uni H&H,M,02:44:54
+38,Harrison,Pete,Howgill Harriers,M,02:45:06
+39,Reid,Michael,Carnethy HRC,M40,02:45:31
+40,Rodney,Angus,Dundee RR,M,02:45:46
+41,Graves,Catriona,Highland Hill Runners,F,02:47:06
+42,Allingham,Fred,Bellahouston Harriers,M,02:49:27
+43,Martin,Craig,Unattached,M,02:50:52
+44,Milne,Cameron,Central AC,M,02:51:51
+45,Whitlie,Stewart,Carnethy HRC,M60,02:52:27
+46,Cooper,James,Lochaber AC,M,02:53:23
+47,Anderson,Adam,Hartfell Hill Runners,M50,02:54:05
+48,White,Steven,Unattached,M,02:54:30
+49,Atkinson,Jonathan,Ochil Hill Runners,M,02:55:40
+50,Robinson,James,Unattached,M,02:55:46
+51,Hepburn,David,Glasgow Triathlon Club,M,02:56:12
+52,Turner,Declan,Unattached,M,02:56:59
+53,Normand,Will,Carnethy HRC,M,02:57:14
+54,Gilmore,Iain,Carnethy HRC,M,02:58:33
+55,Irvine,Clara-Jane,Deeside Runners,F,02:58:38
+56,Bowers,William,Ochil Hill Runners,M,02:58:55
+57,Wheeler,Gareth,Carnethy HRC,M,02:58:59
+58,McKenna,Bryan,Carnethy HRC,M40,03:00:33
+59,Allsop,David,Kirkintilloch Olympians,M40,03:00:49
+60,Meikle,Thomas,Unattached,M,03:00:52
+61,Fallas,Helen,Carnethy HRC,F,03:01:11
+62,MacDonald,John Lawrie,Lochaber AC,M40,03:01:44
+63,Shaw,Ruairidh,Lochaber AC,M,03:02:23
+64,Heron,Rosalind,Carnethy HRC,F,03:02:30
+65,MacDonald,Sarah,Lochaber AC,F,03:03:01
+66,McCarthy,Rory,Pentland Triathletes,M,03:03:47
+67,Wilkinson,Chris,Highland Hill Runners,M,03:04:31
+68,Mykura,Jill,Carnethy HRC,F,03:05:51
+69,Anderson,Alasdair,Unattached,M,03:06:03
+70,Macfadyen,Anna,Shettleston Harriers,F,03:06:20
+71,Vasepuru,Tom,Ochil Hill Runners,M,03:07:18
+72,Boucher,Lauren,Lauderdale Limpers,F,03:07:31
+73,Gillies,Jenny,Unattached,F,03:07:46
+74,Hill,Christopher,Cosmic Hillbashers,M,03:08:06
+75,Shaw,Mark,Lochaber AC,M55,03:09:42
+76,Knox,Rosie,Carnethy HRC,FJ,03:11:11
+77,Short,Kenny,Teviotdale Harriers,M40,03:11:16
+78,Wilson,Stewart,Highland Hill Runners,M40,03:11:21
+79,Kirk,Lachlan,Stonehaven RC,M,03:11:39
+80,Gough,Tom,Fife AC,M,03:14:02
+81,Templeman,Simon,Ochil Hill Runners,M40,03:14:24
+82,Lumsdon,Chloe,Helm Hill Runners,F,03:14:42
+83,Blackhall,Amanda,Lochaber AC,F40,03:14:44
+84,Spinks,Nicky,Dark Peak FR,F55,03:15:20
+85,Walker,Neil,Happy Little Trees,M,03:15:30
+86,Crawford,Ewan,HBT,M,03:15:34
+87,Saunders,Dave,Dunbar RC,M40,03:15:48
+88,Horsfield,Fiona,Kinross Road Runners,F40,03:16:01
+89,Bothwell,Alexander,Unattached,M,03:17:34
+90,Hutchison,William,Edinburgh Running Network,M,03:17:41
+91,Oates,Janie,Helm Hill Runners,F,03:18:00
+92,Crawford,Ross,Unattached,M,03:18:23
+93,Anderson,Eck,Anster Haddies,M,03:19:03
+94,Murray,Keith,Teviotdale Harriers,M40,03:20:10
+95,Dijkman,Naomi,Lauderdale Limpers,F40,03:21:55
+96,Reid,Don,Westerlands CCC,M60,03:22:09
+97,Tullie,John,Teviotdale Harriers,M50,03:23:03
+98,Semple,James,Westerlands CCC,M,03:23:30
+99,Lovegrove,John,Happy Little Trees,M,03:23:52
+100,O'Neill,Owen,Westerlands CCC,M40,03:24:10
+101,Horne,Arran,Westerlands CCC,M,03:24:14
+102,Anderson,Niall,Unattached,M,03:24:36
+103,Painter,Myles,Westerlands CCC,M,03:25:15
+104,Padilla,Monica,Highland Hill Runners,F,03:25:23
+105,McHardy,Michael,Unattached,M,03:25:34
+106,Brodnax,Angus,Westerlands CCC,M,03:25:57
+107,Heron,Kyle,Stag,M,03:25:59
+108,Camburn,Juliette,Ochil Hill Runners,F,03:26:21
+109,Simpson,Dave,Montrose Triathlon Club,M,03:26:55
+110,Little,Rachel,Insch TRC,F40,03:27:30
+111,Coubrough,Graham,Westerlands CCC,M40,03:28:18
+112,Bourne,Samuel,Unattached,M,03:28:58
+113,Dowse,Dave,Strathearn Harriers,M40,03:29:11
+114,Robbins,Hugo,Westerlands CCC,M,03:29:46
+115,Dean,Hazel,Ochil Hill Runners,F60,03:30:18
+116,Darlow,Tim,Gala Harriers,M,03:30:37
+117,Maclennan,Iain,Highland Hill Runners,M40,03:31:04
+118,Malcolmson,Craig,Hartfell Hill Runners,M50,03:31:11
+119,MacMahon,Ken,Fusion Triathlon Club,M,03:31:44
+120,Hetherington,Michelle,Carnethy HRC,F50,03:32:09
+121,Knox,Jonny,Anster Haddies,M40,03:34:42
+122,Smissen,Rupert,Unattached,M,03:36:15
+123,Lefevre,Lucas,Carnethy HRC,M40,03:36:44
+124,Henderson,Katie,Deeside Runners,F40,03:37:28
+125,Fraser,Calum,Cumberland FR,M,03:37:32
+126,Purba,Tarun,Unattached,M,03:37:40
+127,Shaw,Lyndsey,Lochaber AC,F,03:40:27
+128,Plummer,Kevin,Hartfell Hill Runners,M50,03:40:56
+129,Gillies,Sam,Unattached,M,03:41:31
+130,O'Neil,Zac,Ochil Hill Runners,M,03:43:01
+131,Donnelly,John,Ochil Hill Runners,M50,03:44:51
+132,Ritchie,Lucy,Carnethy HRC,F,03:45:38
+133,Kennedy,Michaela,Lochaber AC,F,03:46:32
+134,Wallace,Jenny,Strathearn Harriers,F,03:46:42
+135,Thornton,Vicky,FVO,F,03:48:01
+136,Robertson,Hugh,Insch TRC,M40,03:51:33
+137,Hodkinson,Joy,Unattached,F,03:51:34
+138,Dunm,Michael,Unattached,M,03:51:41
+139,Kennovin,Gordon,Unattached,M,03:52:37
+140,Wilkinson,Owen,Carnethy HRC,M,03:53:35
+141,Dawson,Nicola,Westerlands CCC,F40,03:55:04
+142,Cameron,Fraser,Lochaber AC,M,03:55:48
+143,Leith,Clifford,Metro Aberdeen,M50,03:57:36
+144,Campos,Marc Codera,Carnethy HRC,M,03:57:45
+145,Gibson,Roy,Ambleside AC,M,03:58:03
+146,MacDonald,Gio,Carnethy HRC,M40,03:58:20
+147,Rees-Jenkins,Jennifer,Insch TRC,F40,03:58:33
+148,Kelly,Graham,Westerlands CCC,M50,03:58:33
+149,Weston,Steve,Carnethy HRC,M,03:58:37
+150,Gunstone,Chris,Dunbar AC,M,03:58:57
+151,Henderson,Jack,Unattached,M,03:59:02
+152,Wilson,Tania,Fife AC,F,03:59:02
+153,Westwell,Amy Tait,Falkland Trail Runners,F,03:59:56
+154,Cavin,Liam,Linlithgow AC,M40,04:01:18
+155,Kirby,Graham,Fife AC,M40,04:01:35
+156,Evans,Angus,Unattached,M40,04:01:37
+157,Shaw,Richard,Lochaber AC,M40,04:02:37
+158,Darlow,Kate,Gala Harriers,F,04:04:07
+159,Droop,Stephanie,Carnethy HRC,F,04:04:44
+160,Gallagher,Andy,Strathearn Harriers,M60,04:05:17
+161,Purves,James,Gala Harriers,M50,04:05:23
+162,Pflanz,Sebastian,Dumfries RC,M50,04:07:24
+163,Sim,Texa,Unattached,F,04:08:02
+164,Young,John,Unattached,M50,04:08:25
+165,Thompson,Andrew,Glasgow Triathlon Club,M55,04:08:51
+166,Stewart,Emma,Dunoon Hill Runners,F,04:09:17
+167,Johnston,Stephen,Milburn Harriers,M50,04:09:26
+168,Bartlett,Pat,Interlopers,M40,04:09:44
+169,Sommerville,Emma,Westerlands CCC,F,04:11:16
+170,Crawford,Alistair,Carnethy HRC,M40,04:11:56
+171,Beveridge,Erin,Unattached,F,04:13:03
+172,Struthers,Mairi,Unattached,F,04:13:03
+173,Gorgas,Steffen,Westerlands CCC,M50,04:13:50
+174,Jumelle,Paddy,Carnethy HRC,M,04:14:04
+175,Henderson,Scott,Westerlands CCC,M40,04:15:47
+176,Moffat,John,Highland Hill Runners,M50,04:17:02
+177,Martin,Sunny,Unattached,M,04:18:44
+178,Ryan,Derry,Unattached,F,04:20:22
+179,Coles,Frances,Strathearn Harriers,F,04:20:58
+180,Padmanabhan,Catriona,Garscube Harriers,F50,04:23:14
+181,Ritchie,James,Carnethy HRC,M,04:25:29
+182,Furse,Chris,Westerlands CCC,M50,04:27:09
+183,Leitch,Kenneth,Unattached,M,04:28:23
+184,Heavenor,Sophie,Unattached,F,04:28:29
+185,Robertson,Andrew,Unattached,M40,04:31:45
+186,Aitken,Fergus,Unattached,M40,04:31:45
+187,Kedziora,Marta,Unattached,F,04:32:43
+188,Kelly,Zoe,HBT,F,04:33:33
+189,Brown,Jasmine,HBT,F,04:33:33
+190,Conolly,Richard,Carnethy HRC,M40,04:34:47
+191,Shepherd,Mabel,Unattached,F,04:41:24
+192,Beveridge,Rebecca,Westerlands CCC,F,04:44:19
+193,Kimenai,Dorien,Moorfoot Runners,F,04:45:05
+194,Storton,Richard,Unattached,M40,05:04:14
+195,Stakes,David,Westerlands CCC,M50,05:05:50
+196,Watson,Bryce,Montrose Flyers,M,05:18:29

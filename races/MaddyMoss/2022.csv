@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Vokes,Philip,Unattached,M,00:51:32
 2,Van Dijk,Benjamin,Ochils,M,00:52:20
 3,Thrornton,Alistair,Ochils,M,00:52:58
@@ -54,7 +54,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 53,Clarke,Daniel,Ochils,M40,01:17:20
 54,Ward,Austine,Kirkintilloch Olympians,F40,01:18:14
 55,Donnelly,John,Ochils,M50,01:18:41
-56,Furge,Chris,Westerlands CCC,M50,01:18:48
+56,Furse,Chris,Westerlands CCC,M50,01:18:48
 57,Stratton,Andy,Ochils,M60,01:19:27
 58,Webster,Billy,Kinross RR,M40,01:20:21
 59,Lindsay,Susan,Ochils,F50,01:20:46

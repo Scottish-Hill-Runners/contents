@@ -1,11 +1,11 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Howie,Robin,Highland Hill Runners,M,00:58:27
-2,Battle,Hamish,Metro Aberdeen ,M,01:00:18
+2,Battle,Hamish,Metro Aberdeen,M,01:00:18
 3,Oliver-Jones,Ruairdh,East Sutherland AC,M,01:03:02
 4,Hill,Christopher,Cosmics,M40,01:04:17
 5,Wilson,Euan,Insch TRC,M,01:05:14
 6,Marshall,Brian,Haddington,M50,01:07:00
-7,Cruickshank,Jordan,Metro Aberdeen ,M,01:07:19
+7,Cruickshank,Jordan,Metro Aberdeen,M,01:07:19
 8,Howorth,Charles,Stonehaven RC,M,01:07:29
 9,Walls,David,Unattached,M,01:09:10
 10,Lorimer,Hayden,HBT,M50,01:10:43
@@ -33,7 +33,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 32,Cook,Mal,Insch TRC,M40,01:20:37
 33,Little,Rachel,Insch TRC,F40,01:20:38
 34,Gray,Simon,Unattached,M40,01:20:47
-35,Morrison,David,Metro Aberdeen ,M40,01:20:56
+35,Morrison,David,Metro Aberdeen,M40,01:20:56
 36,Smith,Stephen,Unattached,M40,01:21:05
 37,Watters,Dee,Unattached,F,01:21:26
 38,Wild,Jason,Unattached,M50,01:21:58
@@ -41,11 +41,11 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 40,Muir,Amy,Stonehaven RC,F,01:22:09
 41,Ipsen,Poul,Insch TRC,M40,01:22:11
 42,Taylor,Lucy,Unattached,F,01:22:14
-43,Chalmers,Quintin,Metro Aberdeen ,M40,01:22:41
+43,Chalmers,Quintin,Metro Aberdeen,M40,01:22:41
 44,Ingram,Richard,Garioch Road Runners,M40,01:22:48
 45,Macmillan,Jura,Isle Of Jura AC,F,01:23:01
 46,Hall,Mark,Unattached,M50,01:23:04
-47,Mcpherson,George,Metro Aberdeen ,M40,01:23:11
+47,Mcpherson,George,Metro Aberdeen,M40,01:23:11
 48,Harris,Greg,Unattached,M40,01:23:20
 49,Broad,Rob,Stonehaven RC,M40,01:23:56
 50,Kirby,Ben,Unattached,M40,01:24:46
@@ -82,13 +82,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 81,Winton,Stewart,Jog Scotland Meldrum,M50,01:34:00
 82,Ross,Alan,Unattached,M40,01:34:27
 83,Watson,Simon,Unattached,M40,01:34:57
-84,Kriauzaite,Ilona,Metro Aberdeen ,F,01:35:00
+84,Kriauzaite,Ilona,Metro Aberdeen,F,01:35:00
 85,Milne,Ronald,Forfar Road Runners,M40,01:35:03
 86,Barrow,Steve,Unattached,M50,01:35:05
 87,Litterick,Thomas,Unattached,M50,01:35:24
 88,Cousins,Nicola,Insch TRC,F40,01:35:30
 89,Howorth,Ishbel,Stonehaven RC,F,01:36:00
-90,Hull-Bailey,Alison,Metro Aberdeen ,F40,01:36:37
+90,Hull-Bailey,Alison,Metro Aberdeen,F40,01:36:37
 91,Tierney,Paul,Unattached,M,01:36:38
 92,Blum,Katherine,Unattached,F,01:36:56
 93,Ipsen,Caroline,Insch TRC,F50,01:37:11

@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andy,Inverclyde,M,00:18:11
 2,Thornton,Alistair,Ochil Hill Runners,M,00:18:15
 3,Wilson,Felix,Carnethy HRC,M,00:19:30
@@ -46,14 +46,14 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Mathier,Sven,West End Road Runners,M,00:26:51
 46,Dawson,Nicola,Westerlands CCC,F40,00:27:04
 47,Knox,Elizabeth,Carnethy HRC,F,00:27:25
-48,Murray,Kevin,Falkland TR ,M50,00:28:12
+48,Murray,Kevin,Falkland TR,M50,00:28:12
 49,Kelly,Graham,Westerlands CCC,M50,00:28:15
 50,Cunningham,Emer,Westerlands CCC,F,00:28:26
 51,Easton,Ian,Westerlands CCC,M50,00:28:28
 52,Cross,Nicholas,Carnethy HRC,M40,00:28:40
 53,Cameron,Gordon,Carnethy HRC,M60,00:28:44
 54,Sandhu,Kal,Westerlands CCC,M,00:29:05
-55,Tait,Amy,Falkland TR ,F,00:29:12
+55,Tait,Amy,Falkland TR,F,00:29:12
 56,Mitchell,Neill,Fife AC,M50,00:29:49
 57,Grant,Michael,HBT,M,00:29:52
 58,Kelsall,Fiona,Ochil Hill Runners,F50,00:29:55
@@ -66,21 +66,21 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 65,Waterhouse,Bob,Carnethy HRC,M70,00:31:09
 66,Guthrie,Neil,Carnethy HRC,M40,00:31:10
 67,Bouchier,Shane,Carnethy HRC,M40,00:31:24
-68,Mason,Liam,Falkland TR ,M40,00:31:36
-69,Pease,David,Falkland TR ,M50,00:31:40
+68,Mason,Liam,Falkland TR,M40,00:31:36
+69,Pease,David,Falkland TR,M50,00:31:40
 70,Martin,Claire,Carnethy HRC,F,00:32:00
 71,Alexander,Jim,Lothian RC,m60,00:32:04
 72,Walker,Sean,Carnethy HRC,M40,00:32:28
 73,Murray,Alastair,Lothian RC,M40,00:32:38
 74,Atkinson,Jennifer,Unattached,F40,00:32:45
-75,Murdoch,Mike,Falkland TR ,M40,00:32:49
+75,Murdoch,Mike,Falkland TR,M40,00:32:49
 76,Fullwood,Andrew,Westerlands CCC,M50,00:32:52
 77,Duncan,David,Ochil Hill Runners,M60,00:32:57
-78,Cessford,Lee,Falkland TR ,M40,00:33:45
+78,Cessford,Lee,Falkland TR,M40,00:33:45
 79,Atkinson,Julie,Lothian RC,F50,00:33:54
-80,Kirkbride,Martin,Falkland TR ,M60,00:34:21
+80,Kirkbride,Martin,Falkland TR,M60,00:34:21
 81,Chandler,Richard,Carnethy HRC,M60,00:35:04
-82,Ross,Fiona,Falkland TR ,F,00:37:03
+82,Ross,Fiona,Falkland TR,F,00:37:03
 83,Atkinson,Michael,Unattached,M40,00:37:37
 84,Lammers,Wiebke,Westerlands CCC,F40,00:37:41
 85,Strain,Sheila,HBT,F70,00:51:09

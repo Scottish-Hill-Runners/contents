@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Griffin,Sam,Aberdeen AAC,U20M,00:25:15
 2,Bennet,Struan,Fife AC,U20M,00:25:28
 3,Simpson,Robert,Shettleston H,SenM,00:25:40

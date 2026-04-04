@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Sedman,Eliot,Carnethy,M40,00:46:40
 2,Davis,Andrew,Ochils,M40,00:47:16
 3,Lamont,Andrew,Carnethy,M40,00:48:25
@@ -11,19 +11,19 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Bonnyman,Brian,Westerlands CCC,M50,00:52:51
 11,Anderson,Heather,Fife AC,F40,00:53:53
 12,Newnham,Paul,Carnethy,M40,00:55:06
-13,Clark,Dave,Falkland TR ,M40,00:55:42
+13,Clark,Dave,Falkland TR,M40,00:55:42
 14,Wilson,Craig,Unattached,M,00:55:49
 15,Collins,Brian,Unattached,M,00:56:01
 16,Drozd,Lukasz,Unattached,M40,00:56:42
-17,Tait Westwell,Amy,Falkland TR ,F,00:57:38
+17,Tait Westwell,Amy,Falkland TR,F,00:57:38
 18,Butler,Jim,Unattached,M40,00:58:04
 19,Freeland,Stephen,Kinross RR,M40,00:58:06
 20,Brown,Paige,Perth RR,F,00:58:18
 21,Murray,Chris,Unattached,M50,00:58:31
 22,Finnie,Neil,Unattached,M50,00:58:35
 23,Stewart,Craig,Forfar RR,M50,00:59:12
-24,Harley,Andy,Falkland TR ,M,00:59:14
-25,Murray,Kevin,Falkland TR ,M50,00:59:30
+24,Harley,Andy,Falkland TR,M,00:59:14
+25,Murray,Kevin,Falkland TR,M50,00:59:30
 26,MacDonald,Alistair,Bellahouston RR,M50,00:59:49
 27,Turner,Judith,PH Racing Club,F50,00:59:50
 28,Woolhead,Samuel,Unattached,M,01:00:39
@@ -52,8 +52,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 51,Best,Lloyd,Strathearn Harriers,M60,01:07:20
 52,Watson,Nicola,Strathearn Harriers,F50,01:07:28
 53,Grace,Paul,Perth RR,M50,01:07:30
-54,Brand,Steven,Falkland TR ,M,01:07:37
-55,Allan,Lyle,Falkland TR ,M60,01:07:43
+54,Brand,Steven,Falkland TR,M,01:07:37
+55,Allan,Lyle,Falkland TR,M60,01:07:43
 56,Brigato,Massimiliano,East Fife Tri,M40,01:07:56
 57,Gallagher,Rachel,Strathearn Harriers,F50,01:08:12
 58,Stokes,Craig,Kirkcaldy Wizards,M40,01:08:14
@@ -65,13 +65,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 64,Forbes,David,Unattached,M40,01:10:27
 65,Watson,Graeme,Forfar RR,M60,01:10:33
 66,Young,Robin,Tribridges,M,01:10:48
-67,Brown,Sharon,Anster Haddies ,F,01:10:57
+67,Brown,Sharon,Anster Haddies,F,01:10:57
 68,Sweeney,Barbara,Monifieth Tri,F50,01:10:58
-69,Findlay,George,Anster Haddies ,M60,01:11:00
+69,Findlay,George,Anster Haddies,M60,01:11:00
 70,Atkinson,Michael,Kinross RR,M,01:11:25
 71,Mcintosh,John,Dundee RR,M50,01:12:00
 72,Clark,Sarah,Forfar RR,F40,01:12:24
-73,Pease,David,Falkland TR ,M50,01:12:40
+73,Pease,David,Falkland TR,M50,01:12:40
 74,McLachlan,Roy,Unattached,M70,01:13:18
 75,Davidson,Shelagh,Beacon Runners,F50,01:13:48
 76,Graham,Alan,Ochils,M50,01:14:40
@@ -81,7 +81,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 80,Tulloch,Sandra,Fife AC,F40,01:14:45
 81,Young,Karen,Beacon Runners,F50,01:16:13
 82,Louden,Andy,Unattached,M50,01:16:14
-83,Hay,Debz Way,Anster Haddies ,F50,01:16:32
+83,Hay,Debz Way,Anster Haddies,F50,01:16:32
 84,Fraser,Ronald,Dundee RR,M60,01:16:38
 85,Loyd,Tim,Strathearn Harriers,M60,01:16:53
 86,Scott,Jocelyn,Fife AC,F60,01:16:55
@@ -89,7 +89,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 88,Henderson,John,Fife AC,M50,01:17:27
 89,Weir,Alan,Lothian RC,M50,01:18:10
 90,Dean,Sonia,Kirkcaldy Wizards,F40,01:18:31
-91,Gibson,Allan,Anster Haddies ,M70,01:18:41
+91,Gibson,Allan,Anster Haddies,M70,01:18:41
 92,mcclelland,tony,Strathearn Harriers,M50,01:19:11
 93,Whitelaw,Patricia,Beacon Runners,F60,01:19:11
 94,Bryson,Sarah,Portobello RC,F50,01:19:45
@@ -100,7 +100,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 99,Chambers,Christine,Unattached,F60,01:21:59
 100,Kinsella,Grace,Unattached,F60,01:22:43
 101,Greenlees,Julia,Strathearn Harriers,F60,01:22:48
-102,McAdam,Pauline,Falkland TR ,F60,01:23:16
+102,McAdam,Pauline,Falkland TR,F60,01:23:16
 103,Smith,Rebecca,Unattached,F,01:23:27
 104,Williams,Shaun,Anster Allsorts,M40,01:23:48
 105,Elrick,John,JSK Running Club,M60,01:23:59
@@ -109,10 +109,10 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 108,Slider,Gillian,Five Star RC,F,01:26:48
 109,Cameron,Anne,Unattached,F60,01:29:11
 110,Eadington,Eilidh,Wee County Harriers,F,01:29:35
-111,Gardener,Alan,Falkland TR ,M50,01:31:15
+111,Gardener,Alan,Falkland TR,M50,01:31:15
 112,Mcintyre snr,John,Fife AC,M50,01:32:05
 113,Osborne,Adele,Unattached,F50,01:33:48
 114,Grace,Daile,Perth RR,F50,01:34:19
-115,Gardener,Sandra,Falkland TR ,F50,01:41:43
+115,Gardener,Sandra,Falkland TR,F50,01:41:43
 116,Ness,Caroline,Unattached,F50,01:43:25
 117,Stewart,Debbie,Nutritional Fit,F,01:49:22

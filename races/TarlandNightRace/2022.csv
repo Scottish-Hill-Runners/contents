@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Greig,Kyle,Metro Aberdeen,M,00:29:12
 2,Brooks,Rob,Unattached,M40,00:29:29
 3,Torrance,Peter,Unattached,M40,00:30:36
@@ -13,7 +13,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Pritchett,Martin,Unattached,M50,00:35:01
 13,Clark,Eric,Unattached,M,00:35:09
 14,More,Dave,Metro Aberdeen,M40,00:36:19
-15,Jackson,Kimberley,Unattached,F ,00:37:31
+15,Jackson,Kimberley,Unattached,F,00:37:31
 16,Heath,Kevin,Cosmics,M60,00:37:49
 17,Jackson,Harry,Unattached,MJ,00:38:30
 18,McLelland,Drew,JSK Running Club,M40,00:38:34

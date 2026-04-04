@@ -1,22 +1,22 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Neill,Kenny,Ayr Seaforth,M,0:23:08
-2,Glencorse,Colin,Kilmarnock Harriers,M40,0:24:04
-3,Andrew,Mike,Carnethy,M50,0:25:11
-4,Pollock,Drew,Cambuslang Harriers,MJ,0:25:39
-5,Murphy,Craig,Girvan Harriers,M40,0:26:09
-6,Hannay,Mark,Cairnsmore Hill Runners,M40,0:27:13
-7,Begley,Tommy,Irvine RC,M40,0:27:44
-8,Hamilton,Gordon,Girvan Harriers,M40,0:28:07
-9,Pettigrew,Iain,Ayr Seaforth,M40,0:30:08
-10,Hunter,Craig,Ayr Seaforth,M,0:30:23
-11,McKendrick,Scott,North Ayrshire AC,M40,0:30:28
-12,Noble,Peter,Unattached,M,0:30:31
-13,Goodenough,John,Galloway Harriers,M,0:30:32
-14,Hughes,Ian,Calderglen Harriers,M40,0:31:16
-15,Drain,Alex,Troon Tortoises,M60,0:32:08
-16,Rennie,John,Unattached,M50,0:36:31
-17,Ross,Paul,Girvan Harriers,M40,0:36:31
-18,Trenchard,Peter,Girvan Harriers,M60,0:38:37
-19,Noble,Alastair,Girvan Harriers,M60,0:39:03
-20,Wilson,Stuart,Unattached,M,0:40:04
-21,McManus,Ian,Irvine RC,M70,0:48:50
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Neill,Kenny,Ayr Seaforth,MS,00:23:08
+2,Glencorse,Colin,Kilmarnock Harriers,MV40,00:24:04
+3,Andrew,Mike,Carnethy,MV50,00:25:11
+4,Pollock,Drew,Ronhill Cambuslang,MJ,00:25:39
+5,Murphy,Craig,Girvan AAC,MV40,00:26:09
+6,Hannay,Mark,Hillingtons,MV40,00:27:13
+7,Begley,Tommy,Irvine Running Club,MV40,00:27:44
+8,Hamilton,Gordon,Girvan AAC,MV40,00:28:07
+9,Pettigrew,Iain,Ayr Seaforth,MV40,00:30:08
+10,Hunter,Craig,Ayr Seaforth,MS,00:30:23
+11,McKendrick,Scott,North Ayrshire AC,MV40,00:30:28
+12,Noble,Peter,Unattached,MS,00:30:31
+13,Goodenough,John,Girvan AAC,MS,00:30:32
+14,Hughes,Ian,Calderglen Harriers,MV40,00:31:16
+15,Drain,Alex,Troon Tortoises,MV60,00:32:08
+16,Rennie,John,Unattached,MV50,00:36:31
+17,Ross,Paul,Girvan AAC,MV40,00:36:31
+18,Trenchard,Peter,Girvan AAC,MV60,00:38:37
+19,Noble,Alastair,Girvan AAC,MV60,00:39:03
+20,Wilson,Stuart,Unattached,MS,00:40:04
+21,McManus,Ian,Irvine Running Club,MV60,00:48:50

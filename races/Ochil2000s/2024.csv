@@ -1,0 +1,92 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Douglas,Andrew,Westerlands CCC,M,02:56:06
+2,Graves,Alastair,Ochil Hill Runners,M,02:59:06
+3,Pulham,Harry,Shettleston Harriers,M,03:01:25
+4,Wright,Joseph,Deeside Runners,M,03:04:29
+5,Wilkins,Robin,Ochil Hill Runners,M40,03:17:41
+6,Sedman,Eliot,Carnethy HRC,M40,03:26:19
+7,Reid,Michael,Carnethy HRC,M40,03:34:13
+8,Mckeeman,Iain,Unattached,M,03:34:43
+9,Atkinson,Jono,Ochil Hill Runners,M,03:34:57
+10,Bowers,William,Ochil Hill Runners,M,03:35:35
+11,Whitlie,Stewart,Carnethy HRC,M60,03:39:00
+12,Farrell,Joshua,Dumbarton AAC,M,03:39:18
+13,Turnbull,Jonathan,Strathearn Harriers,M40,03:40:49
+14,Watts,Kieran,Ochil Hill Runners,M,03:45:45
+15,Kelly,Chris,Unattached,M40,03:45:50
+16,Martin,Calum,Highland Hill Runners,M,03:47:52
+17,Milne,Cameron,Central AC,M,03:48:29
+18,Colley,Dale,Central AC,M,03:48:31
+19,Brown,Andrew,HBT,M,03:48:54
+20,Johnstone,Leo,Dumbarton AAC,M,03:49:42
+21,Reid,Jim,Strathearn Harriers,M40,03:54:04
+22,Wallace,David,Ochil Hill Runners,M40,03:55:20
+23,Dozier,Laura,Carnethy HRC,F,03:55:20
+24,Peden,Jamie,Unattached,M,04:00:47
+25,Patton,Simon,Dark Peak FR,M50,04:01:18
+26,Harrison,Philip,Carnethy HRC,M,04:01:38
+27,Eriksen,Thomas,Ochil Hill Runners,M,04:01:54
+28,Gillanders,Stephen,Unattached,M40,04:02:19
+29,Coakley,Alex,Carnethy HRC,M40,04:04:41
+30,Laucht,Richard,Carnethy HRC,M40,04:04:49
+31,Spinks,Nicky,Dark Peak FR,F50,04:05:39
+32,Stephen,Kevin,Unattached,M40,04:05:58
+33,Cross,Rich,Unattached,M40,04:06:01
+34,Painter,Myles,Westerlands CCC,M,04:14:40
+35,Shirley,Rory,Unattached,M,04:14:46
+36,Wilson,Rob,Penicuik Harriers,M50,04:16:10
+37,Speight,Kelly-Anne,Unattached,F,04:18:27
+38,Henderson,Scott,Westerlands CCC,M40,04:18:32
+39,Rountree,Helen,Ochil Hill Runners,F,04:18:42
+40,Vasepuru,Tom,Ochil Hill Runners,M,04:20:16
+41,Davie,Kevin,Carnegie Harriers,M40,04:23:32
+42,Purba,Tarun,Unattached,M,04:23:42
+43,Hetherington,Michelle,Carnethy HRC,F60,04:31:14
+44,Clark,David,Garioch Hill Runners,M50,04:31:18
+45,Lockie,Gavin,Cumberland FR,M,04:32:04
+46,Heron,Rosalind,Carnethy HRC,F,04:32:23
+47,Lefevre,Lucas,Carnethy HRC,M40,04:32:56
+48,Mahoney,Luke,Westerlands CCC,M,04:33:21
+49,Wilkinson,Owen,Carnethy HRC,M,04:34:24
+50,Kennedy,Brian,Carnethy HRC,M40,04:34:36
+51,Caldwell,Christine,Wee County Harriers,F50,04:35:46
+52,Reeks,Gordon,Unattached,M40,04:38:12
+53,Bowman,Clive,Perth Road Runners,M50,04:41:47
+54,Winter,George,Ochil Hill Runners,M,04:42:14
+55,Reis,Rodrigo,Shettleston Harriers,M40,04:45:31
+56,Friel,Caroline,Westerlands CCC,F40,04:46:13
+57,More,Dave,Unattached,M40,04:47:41
+58,Turner,Judith,PH Racing Club,F50,04:48:40
+59,Krikke,Teun,NB Runners,M,04:49:46
+60,Bartlett,Pat,interlopers,M50,04:49:50
+61,Pryde,Gordon,Lomonds,M60,04:50:47
+62,Bevan,Imogen,Carnethy HRC,F,04:51:23
+63,Restorick,Dale,Unattached,M40,04:51:56
+64,Donnelly*,John,Ochil Hill Runners,M50,04:52:33
+65,Ingram,Richard,Cosmics,M50,04:53:03
+66,Marshall,David,Westerlands CCC,M,04:54:20
+67,Dick,Paul,Pitreavie AAC,M40,04:54:34
+68,Dean,Hazel,Ochil Hill Runners,F60,04:55:35
+69,Waters,Louise,Ochil Hill Runners,F,04:57:58
+70,Jones,Paul,Unattached,M40,04:58:31
+71,Bryan-Jones,Kirsty,Dark Peak FR,F50,05:02:09
+72,Cavin,Liam,Linlithgow AC,M40,05:02:43
+73,Rees-Jenkins,Jennifer,Insch TRC,F40,05:15:04
+74,Sommerville,Emma,Westerlands CCC,F,05:18:50
+75,Gorgas,Steffen,Westerlands CCC,M50,05:19:18
+76,Gillies,Sam,Unattached,M40,05:21:02
+77,Tomlinson,Andrew,Unattached,M,05:24:00
+78,Bone,Colin,Unattached,M40,05:24:05
+79,Ipsen,Caroline,Insch TRC,F50,05:39:48
+80,Dick,Alan,Cosmics,M50,05:41:10
+81,Melvin,Martin,Unattached,M,05:41:18
+82,McFarlane,Andrew,Pitreavie AAC,M40,05:42:29
+83,Kirkpatrick,Elspeth,EK Fitness,F50,05:51:14
+84,Dunn,Sandy,EK Fitness,M60,05:51:16
+85,Stroud,Tom,Carnethy HRC,M,05:54:50
+86,Donnelly,John,Westerlands CCC,M60,06:02:53
+87,Gillen,David,Unattached,M50,06:09:43
+88,Ure,Jennifer E,Ochil Hill Runners,F40,06:13:31
+89,MacDonald,Gio,Unattached,M40,06:15:33
+90,Sinclair,Melanie,Ferranti AAC,F50,06:45:33
+91,McClelland,Clare,Strathearn Harriers,F50,06:45:34

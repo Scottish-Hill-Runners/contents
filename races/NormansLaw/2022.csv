@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Davis,Andrews,Ochil HR,M40,00:32:06
 2,Rodney,Angus,Dundee RR,M,00:32:02
 3,Hall,Russell,Fife AC,M,00:32:47
@@ -53,7 +53,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 52,Watson,Graeme,Forfar RR,M60,00:45:01
 53,Millar,Jonathan,Carnegie,M,00:45:24
 54,Cleary,Richard,Dundee RR,M50,00:45:24
-55,Torres,Mercè,Fife AC,F40,00:45:25
+55,Torres,Merc?,Fife AC,F40,00:45:25
 56,Cessford,Lee,Falkland TR,M40,00:45:26
 57,Fowler,Nigel,Unattached,M50,00:45:32
 58,Darbyshire,Peter,Fife AC,M60,00:45:47
@@ -80,7 +80,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 79,Smithard,Phil,Carnegie,M70,00:57:02
 80,Craig,David,Bellahouston Harriers,M,00:59:02
 81,Alexander,Geoff,Unattached,M70,01:00:05
-82,Florence,Alex,Unattached,M,01:00:08
+82,Florence,Alex,U/A,M,01:00:08
 83,Alcur,Jude,Falkland TR,F60,01:09:32
 84,Gardner,Sandra,Falkland TR,F50,01:14:23
 85,McCallum,Fiona,Dundee RR,F40,01:16:55

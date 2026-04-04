@@ -1,5 +1,5 @@
 FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Barnett-Johnston,Blair,Carnethy ,M,00:31:32
+1,Barnett-Johnston,Blair,Carnethy,M,00:31:32
 2,Howie,Robin,Highland Hill Runners,M,00:31:58
 3,Barrable,Julian,Corstorphine AAC,M,00:32:24
 4,Wainwright,Sam,Ochil Hill Runners,M,00:33:51
@@ -16,7 +16,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 15,Brown,Douglas,Unattached,M,00:41:49
 16,Campbell,Douglas,Unattached,M40,00:42:19
 17,Richmond,Mike,Unattached,M40,00:43:02
-18,Hooper,Mark,Carnethy ,M,00:43:19
+18,Hooper,Mark,Carnethy,M,00:43:19
 19,Stevenson,John,Ochil Hill Runners,M60,00:43:28
 20,Davie,Kevin,Carnegie Harriers,M40,00:44:11
 21,Mulholland,Arthur,East Kilbride AC,M50,00:44:14
@@ -25,7 +25,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Aubrey,Kathleen,Helm Hill Runners,F50,00:44:46
 25,Aubrey,Roger,Helm Hill Runners,M50,00:44:51
 26,Best,Michelle,Carnegie Harriers,F40,00:45:29
-27,Matthews,Catherine,Dundee Hawkhill ,F40,00:45:57
+27,Matthews,Catherine,Dundee Hawkhill,F40,00:45:57
 28,Brannan,Terence,Lothian RC,M60,00:46:07
 29,Kelsall,Fiona,Ochil Hill Runners,F50,00:46:34
 30,Fitzpatrick,Pat,Ochil Hill Runners,M70,00:46:58

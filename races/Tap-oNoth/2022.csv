@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Williamson,Jason,Cosmics,M50,00:42:45
 2,Oldham,Veronique,Cosmics,F50,00:44:00
 3,Omand,Elaine,Cosmics,F,00:44:32

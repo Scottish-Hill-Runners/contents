@@ -1,15 +1,15 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Kelly,Jason,Metro Aberdeen ,M,02:52:41
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Kelly,Jason,Metro Aberdeen,M,02:52:41
 2,Herbert,Anthony,Deveron Harriers,M40,03:04:59
 3,Chedburn,Duncan,Unattached,M,03:06:19
-4,Knight,Paul,Metro Aberdeen ,M,03:07:45
+4,Knight,Paul,Metro Aberdeen,M,03:07:45
 5,Christie,Allan,Unattached,M,03:09:22
-6,Pallister,Jamie,Metro Aberdeen ,M,03:22:47
-7,Batt,Dwayne,Metro Aberdeen ,M,03:27:26
+6,Pallister,Jamie,Metro Aberdeen,M,03:22:47
+7,Batt,Dwayne,Metro Aberdeen,M,03:27:26
 8,Stephen,Kevin,Garioch RR,M40,03:28:10
 9,Park,Craig,Unattached,M40,03:29:23
 10,Leslie,Andy,Banchory RC,M40,03:29:59
-11,Saunders,Joe,Metro Aberdeen ,M,03:35:27
+11,Saunders,Joe,Metro Aberdeen,M,03:35:27
 12,Torrance,Peter,Unattached,M,03:38:01
 13,Campbell,Iain,St Cyrus Solos,M50,03:39:10
 14,Allum,Aisling,Carnethy,F,03:42:29
@@ -23,8 +23,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 22,Doidge-Harrison,Steve,Unattached,M40,03:52:09
 23,Pearce,Simon,Cosmics,M40,03:52:21
 24,Howson,Andy,Dundee RR,M,03:57:18
-25,Borgeal,Romain,Dundee Hawkhill ,M,03:58:09
-26,Scott,David,Metro Aberdeen ,M40,03:59:05
+25,Borgeal,Romain,Dundee Hawkhill,M,03:58:09
+26,Scott,David,Metro Aberdeen,M40,03:59:05
 27,Beswick,Russell,Unattached,M,03:59:08
 28,Wallace,Jo,Edinburgh Running Network,F,04:00:01
 29,Calder,Mark,Insch TRC,M,04:01:34
@@ -38,14 +38,14 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Sahraie,Arash,Unattached,M50,04:08:54
 38,Young,Shona,Lothian RC,F50,04:10:34
 39,Dey,Jacoline,Insch TRC,F40,04:11:00
-40,Cole,Stephen,Metro Aberdeen ,M50,04:12:41
+40,Cole,Stephen,Metro Aberdeen,M50,04:12:41
 41,Harrold,Luke,Insch TRC,M,04:13:19
 42,Maley,Sean,Unattached,M,04:14:23
 43,McLean,Nick,Huntly Quines & Loons,M,04:14:53
 44,Black,Ann-marie,Brechin RR,F,04:16:12
 45,Gall,Stuart,Unattached,M40,04:16:49
 46,Sell,Scott,Stonehaven RC,M,04:16:59
-47,Gibson,Fiona,Dundee Hawkhill ,F40,04:17:13
+47,Gibson,Fiona,Dundee Hawkhill,F40,04:17:13
 48,Winn,Mike,Unattached,M40,04:18:13
 49,Henry,Sara,Deeside Runners,F40,04:24:05
 50,Gordon,Andrew,Cosmics,M50,04:25:29
@@ -78,7 +78,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 77,Sahraie,Tracey,Unattached,F50,05:08:58
 78,Mackenzie,FIona,Edinburgh Running Network,F50,05:10:24
 79,Mackenzie,Eleanor,Edinburgh Running Network,F50,05:10:24
-80,Wallace,Sarah,Metro Aberdeen ,F,05:11:28
+80,Wallace,Sarah,Metro Aberdeen,F,05:11:28
 81,McLeod,Tina,Cosmics,F40,05:11:29
 82,Third,Colin,Unattached,M50,05:17:00
 83,Honey,Jack,Newburgh Dunes RC,M60,05:40:09

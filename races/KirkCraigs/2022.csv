@@ -1,8 +1,8 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Tosh,Sam,Carnethy ,M,00:22:32
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Tosh,Sam,Carnethy,M,00:22:32
 2,Thornton,Alistair,Ochil Hill Runners,M,00:22:54
 3,McInally,Ralph,Strathearn Harriers,M,00:23:19
-4,Gilmore,Iain,Carnethy ,M,00:23:28
+4,Gilmore,Iain,Carnethy,M,00:23:28
 5,Davis,Andrew,Ochil Hill Runners,M40,00:24:16
 6,Malcolm,Gregor,HBT,M,00:24:19
 7,Watts,Kieran,Ochil Hill Runners,M,00:24:56
@@ -14,15 +14,15 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Reid,Don,Westerlands CCC,M60,00:28:57
 14,McChill,Emma,Westerlands CCC,F,00:29:33
 15,Wallace,Joe,Unattached,M,00:29:34
-16,Wilkinson,Owen,Carnethy ,M,00:29:48
+16,Wilkinson,Owen,Carnethy,M,00:29:48
 17,Smith,John,Lomonds,M50,00:31:19
-18,Ross,Heidi,Carnethy ,F,00:31:25
-19,Gilmore,Neil,Carnethy ,M50,00:31:30
-20,Ball,James,Carnethy ,M,00:31:35
+18,Ross,Heidi,Carnethy,F,00:31:25
+19,Gilmore,Neil,Carnethy,M50,00:31:30
+20,Ball,James,Carnethy,M,00:31:35
 21,Stubbs,Dave,DDR,M50,00:32:32
 22,Pryde,Gordon,Lomonds,M60,00:32:36
 23,Brannan,Tosh,Lothian,M60,00:32:59
-24,Sheperd,Rozy,Carnethy ,F,00:33:17
+24,Sheperd,Rozy,Carnethy,F,00:33:17
 25,Cunningham,Kenny,Westerlands CCC,M,00:34:08
 26,Dry,Hannah,Unattached,F,00:34:47
 27,Brickell,Jack,Ochil Hill Runners,M,00:34:52

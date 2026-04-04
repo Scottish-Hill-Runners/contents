@@ -1,61 +1,61 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Espie,James,Deeside Runners,M,0:31:28
-2,Chepelin,Alexander,Carnethy,M,0:32:31
-3,Henry,Peter,Deeside Runners,M,0:33:46
-4,Drummond,Fraser,Newburgh Dunes RC,M,0:34:22
-5,Manson,Iain,Metro Aberdeen,M,0:33:48
-6,Barr,Andrew,Forres Harriers,M,0:35:56
-7,Nicolson,William,Highland Hill Runners,M40,0:35:57
-8,Pringle,Stuart,Deeside Runners,M,0:36:17
-9,Forrest,Stuart,Highland Hill Runners,M,0:36:32
-10,Young,James,Insch Trail Running Club,M,0:36:58
-11,Williamson,Jason,Cosmics,M40,0:37:04
-12,James,Caspian,Unattached,M,0:37:21
-13,Provan,Stephanie,Deeside Runners,F,0:37:28
-14,Mark,Niall,Fleet Feet Triathletes,M,0:37:32
-15,Murray,Rab,The Darkside,M50,0:37:35
-16,Dobbs,Simon,Moray Road Runners,M50,0:38:01
-17,Barnes,Ross,Jog Scotland,M,0:38:03
-18,Hirst,David,Deeside Runners,M50,0:38:10
-19,McDonald,Dennis,Cosmics,M50,0:38:19
-20,Greig,James,Unattached,M,0:38:31
-21,McFadzean,Peter,Deeside Runners,M,0:38:35
-22,Anderson,Craig,Metro Aberdeen,M40,0:38:39
-23,Wilson,Stewart,Highland Hill Runners,M40,0:38:48
-24,Wallis,Dirk,Deeside Runners,M,0:39:06
-25,Stockton,Mark,Cosmics,M,0:39:10
-26,Oldham,Veronique,Cosmics,F40,0:39:15
-27,Ingram,Richard,Cosmics,M40,0:39:21
-28,Sutherland,Ally,Cosmics,M,0:39:26
-29,Hargreaves,Stephen,Steel City Striders,M40,0:39:29
-30,Angus,Gerald,Keith & District AAC,M50,0:39:57
-31,Weir,Jonathan,Unattached,M,0:41:16
-32,Larmour,Colin,Cosmics,M50,0:41:23
-33,Rennie,Nick,Unattached,M50,0:41:58
-34,Parminter,John,Black Combe Runners,M40,0:42:40
-35,McKane,Jonny,Rebel PT,M,0:42:40
-36,Hamilton,Ian,Cosmics,M50,0:42:56
-37,Attridge,Will,Unattached,M,0:43:03
-38,Bain,Katie,Metro Aberdeen,F,0:43:12
-39,Roy,Scott,Unattached,M40,0:43:24
-40,Duncan,David,Ochil Hill Runners,M60,0:43:48
-41,Baxter,Tim,Forres Harriers,M40,0:43:55
-42,Aitken,Graham,Insch Trail Running Club,M,0:43:59
-43,Mathieson,Anthony,Unattached,M,0:44:26
-44,Bowman,Angus,Lomond Hill Runners,M50,0:44:55
-45,Paxman,Jim,Dark Peak,M50,0:45:19
-46,Anderson,Fiona,Unattached,F40,0:45:20
-47,McDonald,Ross,Unattached,M,0:45:26
-48,Gutteridge,Gary,Cosmics,M60,0:45:44
-49,Stewart,Elaine,Cosmics,F50,0:47:50
-50,Munro,Eleanor,Keith & District AAC,F40,0:48:09
-51,Oliver,David,Deeside Runners,M50,0:48:23
-52,Campbell,Rod,Cosmics,M50,0:51:36
-53,Tunstall,Duncan,Deeside Runners,M50,0:51:39
-54,Taylor,Colin,Cosmics,M50,0:51:59
-55,Blackley,Lisa,Unattached,F,0:53:15
-56,Oliver,Jane,Deeside Runners,F50,0:53:33
-57,Larmour,Pauline,Cosmics,F50,0:54:30
-58,Moloney,Susan,Unattached,F,0:56:03
-59,Garnett,Jeff,Unattached,M40,1:02:31
-60,Taylor,Sue,Cosmics,F60,1:04:10
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Espie,James,Deeside Runners,MS,00:31:28
+2,Chepelin,Alexander,Edinburgh Univeristy Hare & Hounds,MS,00:32:31
+3,Henry,Peter,Deeside Runners,MS,00:33:46
+4,Drummond,Fraser,Edinburgh University,MS,00:34:22
+5,Manson,Iain,U/A,MS,00:33:48
+6,Barr,Andrew,Forres Harriers,MS,00:35:56
+7,Nicolson,William,Highland Hill Runners,MV,00:35:57
+8,Pringle,Stuart,Deeside Runners,MS,00:36:17
+9,Forrest,Stuart,Highland Hill Runners,MS,00:36:32
+10,Young,James,THE DARKSIDE,MS,00:36:58
+11,Williamson,Jason,Cosmics,MV,00:37:04
+12,James,Caspian,U/A,MS,00:37:21
+13,Proven,Stephanie,Deeside Runners,FS,00:37:28
+14,Mark,Niall,U/A,MS,00:37:32
+15,Murray,Rab,THE DARKSIDE,MSV,00:37:35
+16,Dobbs,Simon,Moray Road Runners,MSV,00:38:01
+17,Barnes,Ross,U/A,MS,00:38:03
+18,Hirst,David,Deeside Runners,MSV,00:38:10
+19,McDonald,Dennis,Cosmics,MSV,00:38:19
+20,Greig,James,U/A,MS,00:38:31
+21,McFadzean,Peter,Cosmics,MS,00:38:35
+22,Anderson,Craig,Metro Aberdeen,MV,00:38:39
+23,Wilson,Stewart,Inverness Harriers,MV,00:38:48
+24,Wallis,Dirk,Deeside Runners,MS,00:39:06
+25,Stockton,Mark,Cosmics,MS,00:39:10
+26,Oldham,Veronique,Cosmics,FV,00:39:15
+27,Ingram,Richard,Cosmics,MV,00:39:21
+28,Sutherland,Ally,U/A,MS,00:39:26
+29,Hargreaves,Stephen,Steel City Striders,MV,00:39:29
+30,Angus,Gerald,Keith & District AAC,MSV,00:39:57
+31,Weir,Jonathan,U/A,MS,00:41:16
+32,Larmour,Colin,Cosmics,MSV,00:41:23
+33,Rennie,Nick,U/A,MSV,00:41:58
+34,Parminter,John,Black Combe Runners,MV,00:42:40
+35,McKane,Jonathan,U/A,MS,00:42:40
+36,Hamilton,Ian,Cosmics,MSV,00:42:56
+37,Attridge,Will,U/A,MS,00:43:03
+38,Bain,Katie,U/A,FS,00:43:12
+39,Roy,Scott,U/A,MV,00:43:24
+40,Duncan,David,Ochill Hillrunners,MUV,00:43:48
+41,Baxter,Tim,Forres Harriers,MV,00:43:55
+42,Aitken,Graham,Garioch Gazelles,MS,00:43:59
+43,Mathieson,Anthony,U/A,MS,00:44:26
+44,Bowman,Angus,Lomond Hill Runners,MSV,00:44:55
+45,Paxman,Jim,Dark Peak Fell Runners,MSV,00:45:19
+46,Anderson,Fiona,U/A,FV,00:45:20
+47,McDonald,Ross,U/A,MS,00:45:26
+48,Gutteridge,Gary,Cosmics,MUV,00:45:44
+49,Stewart,Elaine,Cosmics,FSV,00:47:50
+50,Munro,Eleanor,Keith & District AAC,FV,00:48:09
+51,Oliver,David,Deeside Runners,MSV,00:48:23
+52,Campbell,Rod,Cosmics,MSV,00:51:36
+53,Tunstall,Duncan,Deeside Runners,MSV,00:51:39
+54,Taylor,Colin,Cosmics,MSV,00:51:59
+55,Buckley,Lisa,U/A,FS,00:53:15
+56,Oliver,Jane,Deeside Runners,FSV,00:53:33
+57,Larmour,Pauline,Cosmics,FSV,00:54:30
+58,Moloney,Susan,U/A,FS,00:56:03
+59,Garnett,Jeff,U/A,MV,01:02:31
+60,Taylor,Sue,Cosmics,FUV,01:04:10

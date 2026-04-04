@@ -1,97 +1,96 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Haines,Hector,HBT,M,1:27:56
-2,Harris,Mark,Fife AC,M40,1:30:00
-3,Naylor,Donald,HBT,M40,1:34:08
-4,Gorman,Manny,Westerlands,M40,1:34:58
-5,Green,Gareth,Portobello,M,1:39:20
-6,Fraser,Gary,Ochil Hill Runners,M40,1:39:32
-7,Walker,Iain,Westerlands,M,1:40:34
-8,Simpson,Peter,Carnegie Harriers,M50,1:42:07
-9,O`Neil,Sarah,HBT,F,1:42:13
-10,Morgan,Charlotte,Carnethy,F,1:42:58
-11,Scott,Fraser,Lomond Hill Runners,M,1:43:12
-12,Johnston,Fergus,Carnethy,M,1:43:17
-13,Gilmore,Iain,Carnethy,M,1:44:41
-14,Kirby,Graham,Fife AC,M40,1:44:45
-15,Upson,Chris,Westerlands,M40,1:45:42
-16,Wilson,Stewart,Highland Hill Runners,M40,1:45:49
-17,Titmuss,Simon,Carnethy,M,1:46:01
-18,Burnett,Neil,Carnethy,M40,1:46:21
-19,Pryde,Gordon,Lomond Hill Runners,M50,1:47:33
-20,Andersson,Jonas,Carnethy,M,1:47:37
-21,McCall,Tim,Norham RC,M50,1:47:58
-22,Love,Craig,Dundee Hawkhill,M40,1:48:12
-23,King,Steven,Carnegie Harriers,M40,1:48:45
-24,Malcolm,Bruce,Corstorphine,M40,1:49:40
-25,Matthews,Steve,Dundee Hawkhill,M40,1:52:03
-26,Fulton,David,HBT,M,1:52:25
-27,Robertson,Ally,Carnethy,M,1:52:38
-28,Gilmore,Neil,Carnethy,M40,1:54:15
-29,O`Neill,Owen,Westerlands,M,1:54:19
-30,Anderson,Laurie,Lomond Hill Runners,M50,1:54:59
-31,Davie,Kevin,Carnegie Harriers,M,1:55:53
-32,Wilson,Rob,Penicuik Harriers,M40,1:56:32
-33,Anderson,Eck,Anster Haddies,M,1:56:57
-34,Calothis,Marinos,Westerlands,M40,1:56:59
-35,Hawkins,Ian,Fife AC,M40,1:57:13
-36,Pugh,Roderick,Kilmarnock Harriers,M50,1:57:58
-37,Bowman,Angus,Lomond Hill Runners,M50,2:01:27
-38,Forrest,Stuart,Highland Hill Runners,M,2:01:33
-39,Connor,Julia,Unattached,F,2:01:34
-40,Hill-Stirling,Louise,Ayr Seaforth,F,2:01:36
-41,Hill,Christopher,British Military Fitness,M40,2:02:08
-42,Fletcher,Kenny,Perth Road Runners,M,2:04:04
-43,Rennie,Willie,Carnegie Harriers,M40,2:04:12
-44,Ingram,Richard,Cosmics,M,2:04:28
-45,Liddle,Craig,Lomond Hill Runners,M40,2:06:12
-46,Forte,Phil,Dundee Hawkhill,M50,2:07:14
-47,Rawcliffe,Richard,Unattached,M40,2:08:20
-48,Stewart,Alister,Tinto Hill Runners,M40,2:08:43
-49,Crewe,Ruth,Westerlands,F,2:08:51
-50,Duncan,David,Ochil Hill Runners,M50,2:09:12
-51,Ritchie,Hilary,Fife AC,F40,2:09:48
-52,Boyle,John,Kinross Road Runners,M50,2:10:02
-53,Jelly,Ewan,Perth Road Runners,M,2:10:04
-54,Smithard,Phil,Carnegie Harriers,M60,2:10:33
-55,Bowie,Tom,Unattached,M60,2:11:04
-56,Lomas,Paul,Unattached,M40,2:12:30
-57,Millar,Neil,Fife AC,M40,2:12:54
-58,Macaulay,Allan,Carnegie Harriers,M50,2:15:04
-59,Campbell,Neil,Carnethy,M50,2:15:35
-60,Milne,Andrew,Fife AC,M40,2:16:01
-61,Legge,Sarah,Fife AC,F,2:16:32
-62,Milton,Robert,PH Racing,M40,2:17:28
-63,Osborn,David,Lomond Hill Runners,M50,2:20:30
-64,Graham,Alasdair,Lomond Hill Runners,M,2:20:44
-65,Haines,Rachel,HBT,F,2:21:04
-66,Nash,Simon,Ochil Hill Runners,M40,2:21:58
-67,Kinsell,Sally,Kinross Road Runners,F,2:23:09
-68,Sinclair,Melanie,Unattached,F40,2:24:51
-69,Law,William,Unattached,M40,2:25:56
-70,Hamer,John,Westerlands,M40,2:28:49
-71,Arnold,Romain,Tri Club Narbonnais,M,2:31:04
-72,Gratzke,Michael,Unattached,M40,2:31:53
-73,Marsh,Duncan,Dark Peak,M40,2:32:05
-74,Love,Charlie,Dundee Hawkhill,M60,2:33:26
-75,Nelson,Rachel,Tri Club Narbonnais,F,2:34:02
-76,Struthers,Mairi,Tinto Hill Runners,F,2:35:23
-77,Davidson,Stewart,Fife AC,M60,2:36:18
-78,Irving,John,Dundee Road Runners,M40,2:37:05
-79,McInally,John,Westerlands,M50,2:38:12
-80,Fleming,Morna,Pitreavie,F50,2:46:58
-81,Smith,Janice,HBT,F50,2:49:24
-82,Wright,Andrew,Fife AC,M70,2:49:46
-83,Adams,Chris,Unattached,M,2:51:27
-84,Stapley,Tony,Portobello,M60,2:52:10
-85,Hay,Debz,Anster Haddies,F40,2:54:12
-86,Methven,Elise,Anster Haddies,F40,2:54:12
-87,Hall,Alice,Anster Haddies,F40,2:54:12
-88,Paul,Brenda,Westerlands,F,2:56:52
-89,Meikle,Karen,Carnethy,F50,3:04:50
-90,Plain,Fiona,Unattached,F,3:04:50
-91,Carric,Aurore,Carnethy,F,3:04:50
-92,Hay,George,Anster Haddies,M40,3:10:48
-93,Fraser,Ronald,Dundee Road Runners,M40,3:19:43
-94,Ellison,David,Fife AC,M60,3:23:10
-95,Campbell,Dougie,Anster Haddies,M,3:28:42
-96,Heathcote,Rachel,HBT,F,3:34:35
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Haines,Hector,HBT,MS,01:27:56
+2,Harris,Mark,Fife AC,MV,01:30:00
+3,Naylor,Donald,HBT,MV,01:34:08
+4,Gorman,Manuel,Westerlands,MV,01:34:58
+5,Green,Gareth,Portobello,MS,01:39:20
+6,Fraser,Gary,Ochil HR,MV,01:39:32
+7,Walker,Iain,Westerlands,MS,01:40:34
+8,Simpson,Peter,Carnegie,MV50,01:42:07
+9,O'Neil,Sarah,HBT,FS,01:42:13
+10,Morgan,Charlotte,Carnethy,FS,01:42:58
+11,Scott,Fraser,Lomond HR,MS,01:43:12
+12,Gilmore,Iain,Carnethy,MS,01:44:41
+13,Kirby,Graham,Fife AC,MV,01:44:45
+14,Upson,Chris,Westerlands,MV,01:45:02
+15,Wilson,Stewart,Inverness,MV,01:45:49
+16,Titmuss,Simon,Carnethy,MS,01:46:01
+17,Burnett,Neil,Carnethy,MV,01:46:21
+18,Pryde,Gordon,Lomond HR,MV50,01:47:33
+19,Anderson,Jonas,Carnethy,MS,01:47:37
+20,McCall,Tim,Norham,MV50,01:47:58
+21,Love,Craig,Dundee Hawkhill,MV,01:48:12
+22,King,Steven,Carnegie,MV,01:48:45
+23,Malcolm,Bruce,Corstorphine,MV,01:49:40
+24,Mathews,Steve,Dundee Hawkhill,MV,01:52:03
+25,Fulton,David,HBT,MS,01:52:25
+26,Robertson,Ally,Carnethy,MS,01:52:38
+27,Gilmore,Neil,Carnethy,MV,01:54:15
+28,O'Neil,Owen,Westerlands,MS,01:54:19
+29,Anderson,Laurie,Lomond HR,MV50,01:54:59
+30,Davie,Kevin,Carnegie,MS,01:55:53
+31,Wilson,Rob,Penicuik,MV,01:56:32
+32,Anderson,Eck,Anster Haddies,MS,01:56:57
+33,Calothis,Marinos,Kinross RR,MV,01:56:59
+34,Hawkins,Ian,Fife AC,MV,01:57:13
+35,Pugh,Roderick,Kilmarnock,MV50,01:57:58
+36,Bowman,Gus,Lomond HR,MV50,02:01:27
+37,Forrest,Stuart,Highland HR,MS,02:01:33
+38,Connor,Julia,Moorfoot,FS,02:01:34
+39,Hill-Stirling,Louise,Ayr Seaforth,FS,02:01:36
+40,Hill,Christopher,British Military Fitness,MV,02:02:08
+41,Fletcher,Kenny,Perth Road Runners,MS,02:04:04
+42,Rennie,Willie,Carnegie,MV,02:04:12
+43,Ingram,Richard,Garioch,MS,02:04:28
+44,Liddle,Craig,Lomond HR,MV,02:06:12
+45,Forte,Phil,Dundee Hawkhill,MV50,02:07:14
+46,Rawcliffe,Richard,U/A,MV,02:08:20
+47,Stewart,Alister,Tinto,MV,02:08:43
+48,Crewe,Ruth,Cosmics,FS,02:08:51
+49,Duncan,David,Ochil HR,MV50,02:09:12
+50,Ritchie,Hilary,Fife AC,FV,02:09:48
+51,Boyle,John,Kinross RR,MV50,02:10:02
+52,Jelly,Ewan,U/A,MS,02:10:04
+53,Smithard,Phil,Carnegie,MV60,02:10:33
+54,Bowie,Tom,Carnegie,MV60,02:11:04
+55,Lomas,Paul,U/A,MV,02:12:30
+56,Millar,Neil,Fife AC,MV,02:12:54
+57,McCaulay,Allan,Carnegie,MV50,02:15:04
+58,Campbell,Neil,Carnethy,MV50,02:15:35
+59,Milne,Andy,Fife AC,MV,02:16:01
+60,Legge,Sarah,Fife AC,FS,02:16:32
+61,Milton,Robert,Carnegie,MV,02:17:28
+62,Osborn,David,Lomond HR,MV50,02:20:30
+63,Graham,Alasdair,Lomond HR,MS,02:20:44
+64,Smirthwaite,Rachel,HBT,FS,02:21:04
+65,Nash,Simon,Central,MV,02:21:58
+66,Kinsell,Sally,Kinross RR,FS,02:23:09
+67,Sinclair,Melanie,Carnegie,FV,02:24:51
+68,Law,William,U/A,MV,02:25:56
+69,Hamer,John,Westerlands,MV,02:28:49
+70,Arnold,Romain,TCN,MS,02:31:04
+71,Gratzke,Michael,U/A,MV,02:31:53
+72,Marsh,Duncan,Thame Runners,MV,02:32:05
+73,Love,Charlie,Dundee Hawkhill,MV60,02:33:26
+74,Nelson,Rachel,TCN,FS,02:34:02
+75,Struthers,Mairi,U/A,FS,02:35:23
+76,Davidson,Stewart,Fife AC,MV60,02:36:18
+77,Irvine,John,Dundee Road Runners,MV,02:37:05
+78,McInally,John,Westerlands,MV50,02:38:12
+79,Fleming,Morna,Carnegie,FV50,02:46:58
+80,Smith,Janice,HBT,FV50,02:49:24
+81,Wright,Andy,Fife AC,MV70,02:49:46
+82,Adams,Chris,U/A,MS,02:51:27
+83,Stapley,Tony,Portobello,MV60,02:52:10
+84,Hay,Debz,Anster Haddies,FV,02:54:12
+85,Methven,Elsie,Anster Haddies,FV,02:54:12
+86,Hall,Alice,Anster Haddies,FV,02:54:12
+87,Paul,Brenda,Westerlands,FS,02:56:52
+88,Meikle,Karen,Carnethy,FV50,03:04:50
+89,Plain,Fiona,U/A,FS,03:04:50
+90,Carric,Aurore,U/A,FS,03:04:50
+91,Hay,George,Anster Haddies,MV,03:10:48
+92,Fraser,Ronald,Dundee Road Runners,MV,03:19:43
+93,EllIson,David,Fife AC,MV60,03:23:10
+94,Campbell,Dougie,Anster Haddies,MS,03:28:42
+95,Heathcote,Rachel,HBT,FS,03:34:35

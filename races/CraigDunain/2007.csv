@@ -1,53 +1,53 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Donnelly,Colin,Cambuslang Harriers,M40,0:33:18
-2,Greig,Kyle,Metro Aberdeen,M,0:33:49
-3,Campbell,Graeme,Ochil Hill Runners,M,0:34:39
-4,Austin,Tim,Pudsey & Bramley,M,0:36:17
-5,Gorman,Manny,Westerlands,M,0:36:26
-6,Lennox,Gordon,Inverness Harriers,M,0:37:05
-7,Brash,Colin,Girvan Harriers,M40,0:37:07
-8,Worsley,Steven,Inverness Harriers,M40,0:37:38
-9,Nixon,Ross,Inverness Harriers,M,0:37:55
-10,Bannerman,Ross,East Sutherland,M,0:38:00
-11,White,Natalie,Kendal AC,F,0:38:07
-12,Smith,Alan,Deeside Runners,M40,0:38:37
-13,MacRae,Andrew,Inverness Harriers,M,0:38:43
-14,Taylor,Steven,Keith & District AAC,M,0:38:55
-15,Cumming,Mike,Highland Hill Runners,M40,0:39:09
-16,Angus,Gerald,Keith & District AAC,M40,0:40:38
-17,Gallie,David,Lochaber AC,M40,0:40:45
-18,Wilson,Stewart,Highland Hill Runners,M40,0:41:35
-19,Howie,Brian,Carnethy,M40,0:41:42
-20,Edge,Glenn,Skye & Lochalsh RC,M40,0:41:56
-21,Kennedy,Ali,Lochaber AC,M40,0:42:03
-22,McIntyre,Iain,Highland Hill Runners,M40,0:42:14
-23,Prentice,Stuart,Nairn Road Runners,M,0:42:23
-24,Beharrell,Malcolm,Nairn Road Runners,M40,0:42:33
-25,Lyons,Karen,Highland Hill Runners,F40,0:42:39
-26,White,Robert,Unattached,M40,0:42:47
-27,Hodges,Adrian,Forres Harriers,M,0:43:26
-28,MacLean,Martin,Highland Hill Runners,M40,0:43:36
-29,Paton,Marty,Unattached,M,0:43:54
-30,Main,Gordon,Nairn Road Runners,M40,0:44:05
-31,Macdonald,Dougie,Highland Hill Runners,M,0:44:27
-32,Raistrick,Eilidh,Highland Hill Runners,F,0:44:46
-33,Higginbottom,Jacqui,Carnethy,F40,0:45:20
-34,Rankine,Jenny,Unattached,F,0:45:36
-35,Reid,George,Triathlon Inverness,M40,0:46:54
-36,MacDonald,Hamish,Aberdeen AAC,M40,0:47:03
-37,Jardine,Jimmy,Lochaber AC,M40,0:47:54
-38,Dodd,Eric,Unattached,M40,0:47:55
-39,Milmoe,Michael,Forres Harriers,M50,0:48:08
-40,Adams,Ian,Lochaber AC,M40,0:48:20
-41,Church,Richard,Unattached,M,0:48:20
-42,Drury,Chris,Keith & District AAC,M40,0:48:45
-43,MacLean,Anne,Unattached,F40,0:49:08
-44,Fuller,Andy,Unattached,M40,0:49:17
-45,Johnston,Michael,Unattached,M40,0:49:21
-46,Clark,Andrew,Highland Hill Runners,M,0:49:35
-47,Fuller,Muriel,Unattached,F40,0:49:46
-48,Munro,Eleanor,Keith & District AAC,F40,0:49:50
-49,Wilson,Alison,Inverness Harriers,F40,0:50:28
-50,Mcintyre,Grant,Dundee Road Runners,M,0:50:58
-51,Crowe,Paul,Inverness Harriers,M40,0:51:33
-52,Anderson,Barbara,Keith & District AAC,F,0:57:03
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Donnelly,Colin,Lochaber,MV,00:33:18
+2,Greig,Kyle,Forres,M,00:33:49
+3,Campbell,Graeme,Highland HR,M,00:34:39
+4,Austin,Tim,Dark Peak,M,00:36:17
+5,Gorman,Manny,Westies,M,00:36:26
+6,Lennox,Gordon,Unattached,M,00:37:05
+7,Brash,Colin,Girvan,MV,00:37:07
+8,Worsley,Steve,Inverness,MV,00:37:38
+9,Nixon,Ross,Unattached,M,00:37:55
+10,Bannerman,Ross,Highland HR,M,00:38:00
+11,White,Natalie,Bingley,F,00:38:07
+12,Smith,Alan,Deeside,MV,00:38:37
+13,MacRae,Andrew,Inverness,M,00:38:43
+14,Taylor,Steven,Keith,M,00:38:55
+15,Cumming,Mike,Highland HR,MV,00:39:09
+16,Angus,Gerald,Keith,MV,00:40:38
+17,Gallie,David,Inverness,MV,00:40:45
+18,Wilson,Stewart,Inverness,MV,00:41:35
+19,Howie,Brian,Carnethy,MV,00:41:42
+20,Edge,Glenn,Skye & Lochalsh,MV,00:41:56
+21,Kennedy,Ali,Lochaber,MV,00:42:03
+22,McIntyre,Ian,Highland HR,MV,00:42:14
+23,Prentice,Stuart,Nairn RR,M,00:42:23
+24,Beharrell,Malcolm,Nairn RR,MV,00:42:33
+25,Macleod,Karen,Inverness,FV,00:42:39
+26,White,Robert,Unattached,MV,00:42:47
+27,Hodges,Adrian,Forres,M,00:43:26
+28,Maclean,Martin,Highland HR,MV,00:43:36
+29,Paton,Marty,Unattached,M,00:43:54
+30,Main,Gordon,Nairn RR,MV,00:44:05
+31,Macdonald,Douglas,Unattached,M,00:44:27
+32,Paterson,Eilidh,Highland HR,F,00:44:46
+33,Higginbottom,Jacqui,Carnethy,FV,00:45:20
+34,Rankine,Jenny,Unattached,F,00:45:36
+35,Reid,George,Unattached,MV,00:46:54
+36,Macdonald,Hamish,Aberdeen AAC,MV,00:47:03
+37,Jardine,Jimmy,Lochaber,MV,00:47:54
+38,Dodd,Eric,Unattached,MV,00:47:55
+39,Michael,Milmoe,Forres,MV,00:48:08
+40,Adams,Ian,Lochaber,MV,00:48:20
+40,Church,Richard,Unattached,M,00:48:20
+42,Drury,Chris,Keith,MV,00:48:45
+43,Maclean,Anne,Unattached,FV,00:49:08
+44,Fuller,Andy,Inverness,MV,00:49:17
+45,Johnstone,Michael,Unattached,MV,00:49:21
+46,Clark,Andrew,Highland HR,M,00:49:35
+47,Fuller,Muriel,Inverness,FV,00:49:46
+48,Munro,Eleanor,Keith,FV,00:49:50
+49,Wilson,Alison,Inverness,FV,00:50:28
+50,Mcintyre,Grant,Dundee RR,M,00:50:58
+51,Crowe,Paul,Inverness,MV,00:51:33
+52,Anderson,Barbara,Keith,F,00:57:03

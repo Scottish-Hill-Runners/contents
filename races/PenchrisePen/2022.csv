@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Stewart,Iain,Gala Harriers,M40,00:35:53
 2,Young,Mark,Teviotdale Harriers,M,00:36:21
 3,Lockie,Duncan,Teviotdale Harriers,M,00:36:24
@@ -15,7 +15,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 14,Lockie,Gavin,Cumberland Fell Runners,M,00:47:53
 15,Molero,Luis,Lauderdale Limpers,M40,00:49:06
 16,Maxwell,Eileen,Gala Harriers,F50,00:49:19
-17,McAleese,Rachel,Lauderdale Limpers,F ,00:50:05
+17,McAleese,Rachel,Lauderdale Limpers,F,00:50:05
 18,Lockie,Paul,Teviotdale Harriers,M50,00:51:35
 19,Coltman,Alan,Teviotdale Harriers,M50,00:52:55
 20,Hughes,Kirsty,Teviotdale Harriers,F40,00:53:28

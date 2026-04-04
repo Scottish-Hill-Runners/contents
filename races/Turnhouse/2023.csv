@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Crowe,Jamie,Central AC,M,00:22:53
 2,Masson,Alistair,Carnethy HRC,M,00:24:03
 3,Wright,Angus,Team East Lothian AC,M,00:24:16
@@ -77,4 +77,4 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 76,Aniecko,Jenny,Warrior Fit,F,00:43:54
 77,Lammers,Wiebke,Westerlands CCC,F40,00:45:51
 78,King,Alex,Ochil Hill Runners,M60,00:54:44
-79,Mcpherson,Hugh,Tinto Hill  Runners,M70,00:59:18
+79,Mcpherson,Hugh,Tinto Hill Runners,M70,00:59:18

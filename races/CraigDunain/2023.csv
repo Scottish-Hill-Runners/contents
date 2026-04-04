@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Alexander,Sam,Westerlands CCC,M,00:39:41
 2,Bisset,Alasdair,Edinburgh Uni H&H,M,00:39:54
 3,Dry,Dan,Shettleston Harriers,M,00:41:11
@@ -37,7 +37,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Green,Colin,Moray Road Runners,M50,00:50:59
 37,Lamont,Donald,Lochaber AC,M,00:51:09
 38,Buchheim,Lana,Highland Hill Runners,F,00:51:11
-39,Gallacher,Yuka,Unattached,F ,00:51:16
+39,Gallacher,Yuka,Unattached,F,00:51:16
 40,Wallace,Craig,Highland Hill Runners,M,00:52:18
 41,Meek,Ian,Highland Hill Runners,M50,00:52:28
 42,MacDonald,Sarah,Lochaber AC,F,00:52:29

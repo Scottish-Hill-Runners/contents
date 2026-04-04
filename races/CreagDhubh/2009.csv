@@ -1,97 +1,97 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Simpson,Robbie,Deeside Runners,MJ,0:28:42
-2,Rodgers,David,Lochaber AC,M40,0:29:08
-3,Wright,Andrew,PH Racing,M,0:29:13
-4,Donnelly,Colin,Cambuslang Harriers,M40,0:29:32
-5,Gorman,Manny,Westerlands,M40,0:31:27
-6,Williamson,Matt,Blane Runners,M,0:32:00
-7,Waldie,James,HBT,MJ,0:32:23
-8,Burns,Stephen,Lochaber AC,M,0:32:26
-9,Woods,John,Morpeth Harriers,M,0:32:50
-10,Smith,Alan,Deeside Runners,M40,0:32:52
-11,Riach,David,Westerlands,M40,0:33:11
-12,Nash,Graham,Carnethy,M40,0:33:19
-13,Hepburn,John,Lochaber AC,M40,0:33:32
-14,Upson,Chris,Westerlands,M40,0:33:50
-15,MacLean,Paul,Lochaber AC,M,0:33:53
-16,Malcolm,Stuart,Highland Hill Runners,M40,0:34:01
-17,McLoone,Stephen,Greenock Glenpark Harriers,M40,0:34:27
-18,Carroll,Bradley,Unattached,M,0:35:12
-19,Hansen,Jacob,FIF Hillerød,M,0:35:50
-20,Bass,Owen,Solway,M40,0:35:53
-21,Jarvis,James,HBT,M,0:36:05
-22,Kelly,Graham,Westerlands,M40,0:36:07
-23,Larsen,Mads,FIF Hillerød,M,0:36:09
-24,Rogers,David,Westerlands,M40,0:36:34
-25,Stevenson,John,Ochil Hill Runners,M40,0:36:48
-26,Brooks,Graham,Lochaber AC,M50,0:36:53
-27,Brydie,Chris,Unattached,M,0:36:54
-28,Dixon,Mike,CBNSC,M40,0:37:03
-29,Forrest,Stuart,Highland Hill Runners,M,0:37:26
-30,Devine,John,Unattached,M,0:37:39
-31,Irvine,Hamish,Highland Hill Runners,M40,0:38:06
-32,Duncan,David,Ochil Hill Runners,M50,0:38:07
-33,Buckden,David,Unattached,M,0:38:07
-34,MacBeath,Niall,Lochaber AC,M40,0:38:19
-35,Irvine,Gill,Highland Hill Runners,F40,0:38:21
-36,Calder,Dave,Westerlands,M40,0:38:36
-37,Homewood,Ellen,Westerlands,F,0:38:37
-38,Armitage,Rachel,Inverness Harriers,FJ,0:38:39
-39,MacLeod,Murdo,Westerlands,M50,0:38:47
-40,Hunter,Alan,Ochil Hill Runners,M40,0:39:50
-41,Macnab,Graham,Lochaber AC,M40,0:39:52
-42,Hague,Peter,Cairngorm Runners,M40,0:40:18
-43,O`Rourke,Alan,Greenock Glenpark Harriers,M,0:40:24
-44,Semple,Hamilton,Westerlands,M50,0:40:25
-45,Paul,Alastair,Northumberland FR,M50,0:40:27
-46,Henderson,Iain,Lochaber AC,M,0:40:32
-47,Brennan,Brian,Westerlands,M50,0:40:35
-48,Wilson,Colin,Lomond Hill Runners,M40,0:40:36
-49,Waldie,John,Cornwall AC,M40,0:40:38
-50,Slimon,Cathy,Highland Hill Runners,F,0:40:42
-51,Hall,Jim,Badenoch,M50,0:40:44
-52,MacSween,Alastair,Wee County Harriers,M40,0:42:19
-53,Simpson,Jane,Bellahouston RR,F,0:42:19
-54,Harrington,Mick,Greenock Glenpark Harriers,M40,0:42:29
-55,Williamson,Dermot,Garscube Harriers,M50,0:43:08
-56,Mott,Andrew,Westerlands,M,0:43:29
-57,Weir,Jonathan,Unattached,M,0:43:42
-58,Robertson,David,Unattached,M40,0:43:50
-59,Stewart,Jim,Lochaber AC,M50,0:43:51
-60,Fisher,Catriona,Westerlands,F,0:43:52
-61,MacIntyre,Calum,East Sutherland,MJ,0:44:00
-62,Rogan,Kirstie,Moray Road Runners,FJ,0:44:07
-63,Ferguson,Allan,Forfar Road Runners,M,0:44:26
-64,Berrie,Peter,Lochaber AC,M50,0:44:35
-65,Jelly,Ewan,Perth Road Runners,M,0:44:59
-66,Molero,Luis,Lauderdale Limpers,M,0:45:12
-67,Wilson,Joan,Lomond Hill Runners,F40,0:45:21
-68,O`Kane,John,Lochaber AC,M40,0:45:33
-69,Campbell,Ian,HBT,M40,0:46:02
-70,Clark,Chris,Keswick AC,M50,0:46:15
-71,Smith,Tilly,Deeside Runners,F40,0:46:28
-72,Calder,Muffy,Westerlands,F50,0:47:15
-73,Campbell,Steven,Greenock Glenpark Harriers,M,0:47:23
-74,Coyle,Caroline,Unattached,F,0:47:35
-75,Macpherson,Angus,Unattached,M50,0:47:57
-76,Clark,Kim,Keswick AC,F40,0:48:34
-77,Burn,Stewart,Forres Harriers,M50,0:48:41
-78,Porteous,Peter,Unattached,M60,0:49:32
-79,Ross,Susan Jane,Lochaber AC,F40,0:49:37
-80,Martin,Ciaran,Dulwich Park Runners,M,0:49:49
-81,Jardine,Jimmy,Lochaber AC,M60,0:50:04
-82,Beck,Lesley,Unattached,F40,0:51:27
-83,Kitson,Aileen,Lochaber AC,F50,0:52:40
-84,McGlone,Laura,Unattached,FJ,0:52:40
-85,McManus,Ian,Irvine RC,M60,0:52:58
-86,Spittle,Julie,Cairngorm Runners,F40,0:53:25
-87,Hogg,Sharon,Unattached,F,0:53:25
-88,Craig,Jude,Unattached,M40,0:55:09
-89,Johnston,Alison,HBT,F40,0:55:12
-90,MacIntyre,Anne,Kinross Road Runners,F50,0:56:46
-91,Guigou,Gabriel,Unattached,M,0:57:17
-92,Digby,Olivia,Unattached,FJ,0:58:38
-93,Benny,Graham,Westerlands,M60,1:00:09
-94,Hall,Jeremy,Unattached,M,1:00:09
-95,Fox,Sandra,Unattached,F,1:02:40
-96,Sharp,George,Unattached,M70,1:26:02
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Simpson,Robbie,Deeside Runners,mj,00:28:42
+2,Rodgers,David,Lochaber AC,mv,00:29:08
+3,Wright,Andrew,Carnegie Harriers,ms,00:29:13
+4,Donnelly,Colin,LAC,mv,00:29:32
+5,Gorman,Manny,Westerlands,mv,00:31:27
+6,Williamson,Matt,Bellahouston RR,ms,00:32:00
+7,Waldie,James,Cornwall AC,mj,00:32:23
+8,Burns,Stephen,LAC,ms,00:32:26
+9,Woods,John,u/a Dalwhinnie,ms,00:32:50
+10,Smith,Alan,Deeside Runners,mv,00:32:52
+11,Riach,David,Westerlands,mv,00:33:11
+12,Nash,Graham,u/a Edinburgh,mv,00:33:19
+13,Hepburn,John,LAC,mv,00:33:32
+14,Upson,Chris,Westerlands,mv,00:33:50
+15,Maclean,Paul,LAC,ms,00:33:53
+16,Malcolm,Stuart,Cairngorm Runners,mv,00:34:01
+17,McLoone,Stephen,Greenock Glenpark,mv,00:34:27
+18,Carroll,Bradley,u/a Kingussie,ms,00:35:12
+19,Hansen,Jacob,"FIF Hilleroed, Denmark",ms,00:35:50
+20,Bass,Owen,Deeside Runners,mv,00:35:53
+21,Jarvis,James,HBT,ms,00:36:05
+22,Kelly,Graham,Westerlands,mv,00:36:07
+23,Larsen,Maos,"FIF Hilleroed, Denmark",ms,00:36:09
+24,Rodgers,David,Westerlands,mv,00:36:34
+25,Stevenson,John,Ochil Hill Runners,mv,00:36:48
+26,Brooks,Graham,LAC,msv,00:36:53
+27,Brydie,Chris,u/a Edinburgh,ms,00:36:54
+28,Dixon,Michael,"CBNSC, Aviemore",mv,00:37:03
+29,Forrest,Stuart,Highland Hill Runners,ms,00:37:26
+30,Devine,John,u/a Dingwall,ms,00:37:39
+31,Irvine,Hamish,HHR,mv,00:38:06
+32,Duncan,David,Ochil HR,msv,00:38:07
+33,Buckden,David,u/a Erskine,ms,00:38:07
+34,Macbeath,Niall,LAC,mv,00:38:19
+35,Irvine,Gill,HHR,fv,00:38:21
+36,Calder,David,Westerlands,mv,00:38:36
+37,Homewood,Ellie,Westerlands,fs,00:38:37
+38,Armitage,Rachel,Aberdeen,fj,00:38:39
+39,Macleod,Murdo,Westerlands,msv,00:39:47
+40,Hunter,Alan,Ochil HR,mv,00:39:50
+41,NcNab,Graham,LAC,mv,00:39:52
+42,Hague,Peter,Strathearn H.,mv,00:40:18
+43,O'Rourke,Alan,Greenock Glenpark,ms,00:40:24
+44,Semple,Hamilton,Westerlands,msv,00:40:25
+45,Paul,Alastair,Northumberland,msv,00:40:27
+46,Henderson,Iain,LAC,ms,00:40:32
+47,Brennan,Brian,Westerlands,msv,00:40:35
+48,Wilson,Colin,Carnethy,mv,00:40:36
+49,Waldie,John,Cornwall AC,mv,00:40:38
+50,Slimon,Cathy,u/a Laggan,fs,00:40:42
+51,Hall,Jim,HHR,msv,00:40:44
+52,Macsween,Alasdair,Skye & Lochalsh,mv,00:42:19
+53,Simpson,Jane,Bellahouston RR,fs,00:42:19
+54,Harrington,Mick,Greenock Glenpark,mv,00:42:29
+55,Williamson,Dermot,Garscube Harriers,msv,00:43:08
+56,Mott,Andrew,Westerlands,ms,00:43:29
+57,Weir,Jonathan,u/a Auchterarder,ms,00:43:42
+58,Robertson,David,u/a Kingussie,mv,00:43:50
+59,Stewart,Jim,LAC,msv,00:43:51
+60,Miller,Catriona,Westerlands,ms,00:43:52
+61,Macintyre,Calum,u/a Kinross,mj,00:44:00
+62,Rogan,Kirstie,Forres Harriers,fj,00:44:07
+63,Ferguson,Allan,u/a Blairgowrie,ms,00:44:26
+64,Berrie,Peter,u/a Fort William,msv,00:44:35
+65,Jelly,Ewan,u/a Perth,ms,00:44:59
+66,Lopez,Luis,"Cordoba, Spain",ms,00:45:12
+67,Wilson,Joan,Carnethy,fv,00:45:21
+68,O'Kane,John,LAC,mv,00:45:33
+69,Campbell,Ian,HBT,mv,00:46:02
+70,Clark,Christopher,Keswick AC,msv,00:46:15
+71,Smith,Tilly,Deeside Runners,fv,00:46:28
+72,Calder,Muffy,Westerlands,fsv,00:47:15
+73,Campbell,Steven,Greenock Glenpark H,ms,00:47:23
+74,Coyle,Caroline,u/a Perth,fs,00:47:35
+75,Macpherson,Angus,u/a Newtonmore,msv,00:47:57
+76,Clark,Kim,Keswick AC,fv,00:48:34
+77,Burn,Stewart,Forres Harriers,msv,00:48:41
+78,Porteous,Peter,u/a Carrbridge,msv+60,00:49:32
+79,Jane Ross,Susan,LAC,fv,00:49:37
+80,Martin,Ciaran,Dulwich Park Runners,ms,00:49:49
+81,Jardine,Jimmy,LAC,msv+60,00:50:04
+82,Beck,Lesley,u/a Newtonmore,fv,00:51:27
+83,Kitson,Aileen,LAC,fsv,00:52:40
+84,McGlone,Laura,u/a Henley on Thames,fj,00:52:40
+85,McManus,Ian,Irvine AC,msv+60,00:52:58
+86,Spittle,Julie,Cairngorm Runners,fv,00:53:25
+87,Hogg,Sharon,u/a Fort William,fs,00:53:25
+88,Craig,Jude,u/a Newtonmore,mv,00:55:09
+89,Johnston,Alison,HBT Newtonmore,fv,00:55:12
+90,Macintyre,Anne,Kinross Road Runners,fsv,00:56:46
+91,Guigou,Gabriel,"Barcelona, Spain",ms,00:57:17
+92,Digby,Olivia,u/a Newbury,fj,00:58:38
+93,Benny,Graham,Westerlands,msv+60,01:00:09
+94,Hall,Jeremy,Royal Edinburgh Hosp.,ms,01:00:09
+95,Fox,Sandra,u/a Barnsley,fs,01:02:40
+96,Sharp,George,"u/a Redhill, Surrey",msv+70,01:26:02

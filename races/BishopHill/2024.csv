@@ -1,0 +1,108 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Douglas,Andrew,Westerlands CCC,M,00:18:23
+2,Harris,Tom,Strathearn Harriers,M,00:18:50
+3,Hutson,Liam,Fife AC,M,00:20:12
+4,McPherson,Chris,Unattached,M,00:20:22
+5,Mcinally,Ralph,Strathearn Harriers,M,00:20:55
+6,Elliott,Sam,Unattached,M,00:21:55
+7,Shaw,Ruairidh,Lochaber AC,M,00:22:24
+8,Darlow,Tim,Gala Harriers,M40,00:22:31
+9,Speight,Murray,Kinross Road Runners,M,00:22:35
+10,Barclay,Glenn,Fife AC,M,00:22:36
+11,Kinnell,Lee,Unattached,M,00:22:44
+12,Duncan,Eric,Highland Hill Runners,M50,00:22:50
+13,Crowe,Des,Penicuik Harriers,M60,00:23:32
+14,Geddes,Blair,Carnegie Harriers,M,00:23:44
+15,Henderson,Scott,Westerlands CCC,M40,00:23:46
+16,McConnell,Morgan,Unattached,M,00:23:47
+17,Walsh,Sam,Carnethy HRC,M,00:23:50
+18,Mackinnon,Gordon,Lochaber AC,M40,00:23:51
+19,Ross,Heidi,Carnethy HRC,F,00:23:54
+20,Davie,Kevin,Carnegie Harriers,M40,00:24:00
+21,Fallon,Steven,Carnethy HRC,M60,00:24:07
+22,Han,Andrew,Fulham Running Club,M40,00:24:10
+23,Sanderson,Stuart,Penicuik Harriers,M50,00:24:15
+24,Dickson,Stephen,Fife AC,M40,00:24:37
+25,Gilmore,Neil,Carnethy HRC,M60,00:24:46
+26,Wilson,Rob,Penicuik Harriers,M50,00:24:47
+27,Davis,Adrian,Lomond Hill Runners,M60,00:24:52
+28,King,Steven,Carnegie Harriers,M50,00:25:02
+29,Ashworth,James,Ochil Hill Runners,M50,00:25:12
+30,Mackie,Eugene,Highland Hill Runners,M,00:25:15
+31,Clark,Dave,Falkland Trail Runners,M40,00:25:22
+32,Smith,Bruce,Lomond Hill Runners,M50,00:25:31
+33,Ball,Duncan,Penicuik Harriers,M60,00:25:35
+34,Rowe,Phil,Falkland Trail Runners,M40,00:25:37
+35,Bethune,Iain,Miles Together,M40,00:25:38
+36,Weir,Jonathan,Unattached,M40,00:25:48
+37,Reid,Don,Westerlands CCC,M60,00:25:49
+38,Williams,Dominic,Dundee Road Runners,M,00:25:53
+39,Smith,John,Lomond Hill Runners,M50,00:26:03
+40,McInally,Hanna,Strathearn Harriers,F,00:26:04
+41,Campbell,Donald,Unattached,M40,00:26:11
+42,Wolfe,Patrick,Unattached,M60,00:26:32
+43,Roberts,Clive,Fife AC,M60,00:26:39
+44,Moffatt,Jamie,Unattached,M,00:26:41
+45,Reid,Fraser,Westerlands CCC,M,00:26:43
+46,Seefeldt,Scott,Lomond Hill Runners,M40,00:27:00
+47,O'Neil,Zac,Ochil Hill Runners,M40,00:27:02
+48,Dick,Paul,Pitreavie PAAC,M40,00:27:06
+49,Ball,James,Carnethy HRC,M,00:27:21
+50,Hopkin,Ben,Carnegie Harriers,M40,00:27:22
+51,Brodie,Stuart,Ochil Hill Runners,M40,00:27:24
+52,Greens,Daniel,Penicuik Harriers,M,00:27:29
+53,Adam,Sarah,Lomond Hill Runners,F40,00:27:34
+54,Coombs,Richard,Ochil Hill Runners,M50,00:27:41
+55,Henderson,Jamie,Beacon Runners,M,00:28:00
+56,McMurray,Robert,Unattached,M40,00:28:05
+57,Baillie,Ariane,Pitreavie AAC,FU18,00:28:15
+58,Pryde,Gordon,Lomond Hill Runners,M60,00:28:17
+59,Barber,Twig,Falkland Trail Runners,F,00:28:25
+60,Blackley,Lisa,Unattached,F40,00:28:41
+61,Murray,Kevin,Falkland Trail Runners,M50,00:29:05
+62,McFarlane,Andrew,Pitreavie AAC,M40,00:29:09
+63,White,Georgia,Lochaber AC,F,00:29:41
+64,Chambers,Andy,Unattached,M40,00:29:45
+65,Torres,Merce,Fife AC,F40,00:29:48
+66,Bryce,Scott,Unattached,M40,00:30:08
+67,Suttie,Philip,Falkland Trail Runners,M40,00:30:17
+68,Anderson,Jane,Carnegie Harriers,F50,00:30:18
+69,Wilson,Tania,Fife AC,F60,00:30:21
+70,Cronin,Paul,Unattached,M40,00:30:23
+71,Harkins,Paul,Fife AC,M40,00:30:27
+72,Wilson,Joan,Lomond Hill Runners,F60,00:30:42
+73,Mason,Liam,Falkland Trail Runners,M40,00:30:47
+74,Anderson,Laurie,Lomond Hill Runners,M60,00:30:48
+75,Lumsden,Susanne,Falkland Trail Runners,F40,00:30:49
+76,Ashworth,Collette,Ochil Hill Runners,F40,00:31:28
+77,Stevenson,Tyler,Lomond Hill Runners,M,00:31:30
+78,Atkinson,Michael,Kinross Road Runners,M,00:31:55
+79,Mclaughlin,Philip,Falkland Trail Runners,M40,00:32:05
+80,Wilson,Colin,Lomond Hill Runners,M60,00:32:24
+81,Munro,Frazer,Kinross Road Runners,M50,00:32:26
+82,Kemp,Sadie,Penicuik Harriers,F40,00:32:35
+83,Valentine,Russ,Falkland Trail Runners,M50,00:32:52
+84,Davie,Barry,Carnegie Harriers,M40,00:33:09
+85,Cessford,Lee,Falkland Trail Runners,M40,00:33:10
+86,McManus,Kenny,Unattached,M40,00:33:35
+87,Kirkbride,Martin,Falkland Trail Runners,M60,00:33:47
+88,Johnstone,Michelle,Fife AC,F40,00:34:05
+89,Forsyth,Karen,Carnegie Harriers,F40,00:34:31
+90,McArthur,Ross,Falkland Trail Runners,M,00:35:24
+91,Summers,Robert,Unattached,M50,00:35:25
+92,Fraser,Ronald,Dundee Road Runners,M60,00:35:51
+93,Ure,Barry,Ochil Hill Runners,M40,00:35:52
+94,Crowe,Kate,Penicuik Harriers,F50,00:35:56
+95,Brown,Keira,Lomond Hill Runners,F,00:36:20
+96,Hynd,John,Carnegie Harriers,M60,00:36:28
+97,McAdam,Pauline,Falkland Trail Runners,F60,00:37:11
+98,Kay,Clara,Carnegie Harriers,F40,00:37:20
+99,Gilligan,Amy,Dundee Road Runners,F,00:37:22
+100,Robertson,Alison,Kinross Road Runners,F60,00:37:36
+101,Ure,Jennifer,Ochil Hill Runners,F40,00:37:43
+102,Macintyre,Anne,Kinross Road Runners,F60,00:40:15
+103,Lynch,Shelby,Carnegie Harriers,F,00:43:00
+104,Wright,Christopher,Unattached,M,00:45:06
+105,McManus,Kathleen,Unattached,F,00:49:10
+106,Campbell,Karen,Falkland Trail Runners,F60,00:51:40
+107,Gardener,Alan,Falkland Trail Runners,M50,00:52:18

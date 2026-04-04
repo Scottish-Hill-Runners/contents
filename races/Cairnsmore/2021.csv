@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Dry,Dan,,M,00:56:37
 2,White,Steven,,M,01:02:15
 3,Cox,Andrew,,M,01:03:46
@@ -20,7 +20,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 19,Mclean,Stuart,,M,01:20:25
 20,Stewart,Lindsay,,F,01:21:25
 21,Fisher,Bill,,M,01:21:51
-22,ONeill,Owen,,M,01:22:16
+22,O?Neill,Owen,,M,01:22:16
 23,Crisford,Ben,,M,01:22:43
 24,Mckay,Craig,,M,01:22:44
 25,Furse,Chris,,M,01:22:51
@@ -37,7 +37,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Murgatroyd,Ian,,M,01:32:38
 37,Mccolm,Stuart,,M,01:33:53
 38,Bryson,Dean,,M,01:35:08
-39,Fullwood,Andrew,,,01:35:42
+39,Fullwood,Andrew,,M,01:35:42
 40,Heycock,Lucy,,F,01:35:59
 41,Park,Archie,,M,01:53:04
 42,Vincent,Chrissie,,F,01:53:05

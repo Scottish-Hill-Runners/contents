@@ -1,50 +1,52 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Russell,Colin,Cosmics,M,0:47:51
-2,Leonard,Paul,Dundee Hawkhill,M40,0:47:54
-3,Anderson,Iain,Dundee Hawkhill,M40,0:47:58
-4,Love,Craig,Dundee Hawkhill,M40,0:48:03
-5,Marr,Ian,Unattached,M40,0:49:00
-6,Matthews,Steve,Dundee Hawkhill,M,0:49:53
-7,Smith,Alastair,Dundee Hawkhill,M,0:50:10
-8,McNulty,Ian,Dundee Hawkhill,M40,0:51:08
-9,Stewart,David,Dundee Road Runners,M40,0:52:02
-10,Elertowicz,Stefan,Fife AC,M,0:52:13
-11,McGill,Alison,PH Racing,F,0:52:32
-12,Sheridan,Bob,Deeside Runners,M40,0:52:45
-13,Larmour,Colin,Cosmics,M40,0:52:53
-14,Stewart,Craig,Forfar Road Runners,M40,0:53:13
-15,Mitchell,Dave,Dundee Hawkhill,M40,0:53:31
-16,Fairbairn,Rory,Forfar Road Runners,M,0:54:13
-17,Davidson,Richard,Dundee Hawkhill,M50,0:54:23
-18,Smith,Bill,Fife AC,M40,0:54:43
-19,Hodge,Tom,Unattached,M,0:54:46
-20,Gillies,Michael,Unattached,M,0:56:03
-21,Riley,Michael,Unattached,M,0:56:13
-22,Sleigh,David,Fife AC,M40,0:56:24
-23,Forte,Phil,Dundee Hawkhill,M50,0:56:24
-24,Ritchie,Hilary,Fife AC,F40,0:56:45
-25,Milne,Ron,Forfar Road Runners,M50,0:57:20
-26,Morton,Stuart,Dundee Hawkhill,M50,0:57:30
-27,Legge,Sarah,Fife AC,F40,0:58:04
-28,Weir,Jonathan,Unattached,M,0:58:04
-29,Leckie,Stewart,Unattached,M50,0:58:45
-30,Scott,Kevin,Unattached,M40,0:59:24
-31,Jones,Euros,Dundee University,M,0:59:46
-32,Brennan,Brian,Westerlands,M50,0:59:55
-33,Cadman,Ian,Unattached,M50,1:00:13
-34,McGregor,Jim,Moray Road Runners,M50,1:00:29
-35,Duncan,David,Ochil Hill Runners,M50,1:00:34
-36,McPherson,Scott,Forfar Road Runners,M,1:02:46
-37,Irving,John,Dundee Road Runners,M40,1:03:01
-38,Cammack,Alan,Cosmics,M40,1:03:03
-39,MacDonald,Deborah,HBT,F50,1:05:24
-40,Cowan,David,Fife AC,M40,1:06:39
-41,Love,Charlie,Dundee Hawkhill,M60,1:07:32
-42,Fraser,Ronald,Dundee Road Runners,M40,1:07:40
-43,Thornton,Bob,Fife AC,M50,1:13:23
-44,Ritchie,Colin,Dundee University,M,1:15:09
-45,Campbell,Rose,Dundee University,F,1:15:09
-46,Turner,Paul,Perth Road Runners,M60,1:16:08
-47,Rafferty,Elizabeth,Unattached,F,1:17:02
-48,Ryder,Ursula,Dundee Road Runners,F50,1:17:54
-49,Egan,Mo,Unattached,F,1:20:28
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Russell,Colin,Cosmics,M,00:47:51
+2,Leonard,Paul,Dundee Hawkhill,MV,00:47:54
+3,Anderson,Ian,unattached,MV,00:47:58
+4,Love,Craig,Dundee Hawkhill,MV,00:48:03
+5,Marr,Ian,unattached,MV,00:49:00
+6,Matthews,Steve,Dundee Hawkhill,M,00:49:53
+7,Smith,Alastair,Dundee Hawkhill,M,00:50:10
+8,McNulty,Ian,Dundee Hawkhill,MV,00:51:08
+9,Stewart,David,Dundee Road Runners,MV,00:52:02
+10,Evertamoz,Stefan,Fife AC,M,00:52:13
+11,McGill,Alison,Fife AC,F,00:52:32
+12,Sheridan,Bob,Cosmics,MV,00:52:45
+13,Larmour,Colin,Cosmics,MV,00:52:53
+14,Stewart,Craig,Forfar,MV,00:53:13
+15,Mitchell,Dave,Dundee Hawkhill,MV,00:53:31
+16,Fairbairn,Rory,Forfar,M,00:54:13
+17,Davidson,Richard,Dundee Road Runners,MSV,00:54:23
+18,Smith,Bill,Fife AC,MV,00:54:43
+19,Hodge,Tom,unattached,M,00:54:46
+20,Gillies,Michael,unattached,M,00:56:03
+21,Riley,Michael,unattached,M,00:56:13
+22,Sleigh,David,Fife AC,MV,00:56:24
+23,Forte,Phil,Dundee Hawkhill,MSV,00:56:24
+24,Ritchie,Hilary,Fife AC,FV,00:56:45
+25,Milne,Ron,Dundee Road Runners,MSV,00:57:20
+26,Morton,Stuart,Dundee Hawkhill,MSV,00:57:30
+27,Legge,Sarah,Fife AC,FV,00:58:04
+28,Weir,Jonathan,unattached,M,00:58:04
+29,Leckie,Stewart,unattached,MSV,00:58:45
+30,Scott,Kevin,unattached,MV,00:59:24
+31,Jones,Euros,Dundee Uni,M,00:59:46
+32,Brennan,Brian,Westerlands,MSV,00:59:55
+33,Cadman,Ian,unattached,MSV,00:60:13
+34,McGregor,Jim,Moray Road Runners,MSV,00:60:29
+35,Duncan,David,Ochils,MSV,00:60:34
+36,McPherson,Scott,Forfar,M,00:62:46
+37,Irving,John,Dundee Road Runners,MV,00:63:01
+38,Cammack,Alan,Cosmics,MV,00:63:03
+39,McDonald,Deborah,HBT,FSV,00:65:24
+40,Cowan,David,Fife AC,MV,00:66:39
+41,Love,Charlie,Dundee Hawkhill,over 60,00:67:32
+42,Fraser,Ron,Dundee Road Runners,MV,00:67:40
+43,Thornton,Bob,Fife AC,MSV,00:73:23
+44,Ritchie,Colin,Dundee Uni,M,00:75:09
+45,Campbell,Rose,Dundee Uni,F,00:75:09
+46,Turner,Paul,Perth Road Runners,over 60,00:76:08
+47,Rafferty,Elizabeth,unattached,F,00:77:02
+48,Ryder,Ursula,Dundee Road Runners,FSV,00:77:54
+49,Egan,Mo,unattached,F,00:80:28
+50,Ross,Craig,Dundee Hawkhill,MSV,DNF
+51,Crowe,Des,Dundee Hawkhill,MSV,DNF

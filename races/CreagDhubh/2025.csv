@@ -1,0 +1,117 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Gilmore,Andrew,Highland Hill Runners,M,00:30:17
+2,Owens,Tom,Lochaber AC,M40,00:30:29
+3,Oliver,Huw,Lochaber AC,M,00:30:54
+4,Piercy,Laurence,Dark Peak Fell Runners,M,00:32:26
+5,Pantrey,Chris Grant,Shettleston Harriers,M40,00:32:57
+6,Cox,Andrew,Gala Harriers,M40,00:33:10
+7,McBean,Calum,Strathearn Harriers,M,00:33:32
+8,Marshal,Bryan,Haddington,M50,00:34:22
+9,Watson,Ed,DDJC,M40,00:34:53
+10,Ward,Jack,Highland Hill Runners,M,00:34:54
+11,Larnicol,Ewen,Unattached,M,00:34:58
+12,Ockenden,John,HBT,M,00:35:18
+13,Lynch,Iain,DDJC,M,00:35:26
+14,Grosdanoff,Scott,Unattached,M,00:35:26
+15,Pyrah,Jeff,Cairngorm Runners,M50,00:35:42
+16,Looms,Joshua,Unattached,M,00:36:15
+17,Donnelly,Colin,Cambuslang Harriers,M60,00:36:17
+18,Crowsley,Sarah,DDJC,F,00:36:42
+19,Gorman,Manny,DDJC,M50,00:37:10
+20,Tindley,Georgia,Highland Hill Runners,F,00:37:15
+21,Belton-Schure,Aidan,HBT,M,00:37:19
+22,Lloyd,Sam,HBT,M,00:37:23
+23,Patton,Ellen,Dark Peak Fell Runners,F,00:37:27
+24,L,Olli,Sunnyside Jogging Club,M,00:38:29
+25,Rodgers,David,Unattached,M50,00:38:39
+26,Sparks,Jack,Unattached,M,00:38:42
+27,Oakley,Kirstin,Lochaber AC,F,00:38:43
+28,Beveridge,Keith,Lochaber AC,M40,00:38:57
+29,Wilson,Stewart,Highland Hill Runners,M50,00:38:59
+30,Hole,Florence,Unattached,F,00:38:59
+31,Munro,Iain,Cairngorm Runners,M,00:39:02
+32,Hayman,James Luca,Unattached,M,00:39:03
+33,Smith,Alan,Deeside Runners,M60,00:39:29
+34,Patton,Simon,Dark Peak Fell Runners,M50,00:39:31
+35,Rodgers,David,Lochaber AC,JM,00:39:34
+36,Falk,Seb,Unattached,M40,00:39:45
+37,Bennet,Donald,Orion Harriers,M,00:41:00
+38,Fitchie,Martin,Cumbernauld AAC,M40,00:41:20
+39,Adams,George,Unattached,M,00:41:32
+40,Davis,Adrian,Lomond Hill Runners,M60,00:41:46
+41,Wilkinson,Manouk,DDJC,F,00:42:05
+42,Rodger,Emma,Lochaber AC,F40,00:42:34
+43,Bryan-Jones,Ali,Unattached,M50,00:42:38
+44,Forrest,Stuart,Highland Hill Runners,M40,00:42:43
+45,Whitfield,Aidan,Tyne Bridge Harriers,MJ,00:42:46
+46,Gorman,Maisy,DDJC,JF,00:42:53
+47,Davies,Beckie,DDJC,F,00:42:56
+48,Mackintosh,Alasdair,Unattached,M,00:43:01
+49,Crewe,Ruth,Highland Hill Runners,F,00:43:06
+50,Holgate,Emma,DDJC,F40,00:43:06
+51,Ruigrok,Paul,Unattached,M,00:43:21
+52,Bull,Oliver,Unattached,M,00:43:40
+53,McPherson,Andrew,Unattached,M40,00:43:50
+54,Hayman,Mark,Unattached,M50,00:44:08
+55,Martin,Nathan,Lochaber AC,M50,00:44:37
+56,Blackshaw,Ruth,Sunnyside Jogging Club,F,00:45:00
+57,Shaw,Trevor,Lochtayside,M60,00:45:06
+58,Stevenson,John,Ochil Hill Runners,M60,00:45:17
+59,Mackie,Eugene,Lochaber AC,M,00:45:20
+60,Macchiano III,Angelo,Unattached,M,00:45:37
+61,Mitchell,Neil,DDJC,M40,00:45:57
+62,Bryan-Jones,Kirsty,Dark Peak Fell Runners,F50,00:44:09
+63,Blackshaw,Alasdair,Sunnyside Jogging Club,M40,00:46:09
+64,Watson,Iona,Unattached,F,00:46:14
+65,Westermeier,Christopher,Unattached,M,00:46:19
+66,Albareda,Jordi,Unattached,M40,00:46:59
+67,Pouillot,Matthieu,Unattached,M40,00:47:00
+68,McDonald,Alison,Central AC,F40,00:47:02
+69,Trow,Christopher,Unattached,M40,00:47:34
+70,Guenno,Loic,Triathlon Club Torcy,M50,00:47:55
+71,Silver,Colin,Highland Hill Runners,M50,00:48:11
+72,Wilde,Carrie,Unattached,F,00:48:12
+73,Trow,Ben,Unattached,M40,00:48:30
+74,Watson,Helen,DDJC,F40,00:48:35
+75,Molyneaux,Chris,Unattached,M40,00:49:24
+76,Blackshaw-Crosby,Elsie,Sunnyside Jogging Club,F,00:50:37
+77,Bowman,Angus,Lomond Hill Runners,M60,00:50:53
+78,Lawson,Danielle,Sunnyside Jogging Club,F,00:50:59
+79,Spenceley,Dougal,Unattached,M,00:51:25
+80,Spenceley,Julie,Unattached,F50,00:51:38
+81,Ankone,Evelien,Unattached,F,00:51:49
+82,Cattley,Natasha,Unattached,F,00:53:45
+83,Watson,Michael,Unattached,M50,00:54:00
+84,Gillie,Bo,Unattached,M,00:54:01
+85,Layfield,Adam,Washington Running Club,M,00:54:23
+86,Stewart,Jen,Unattached,F50,00:55:03
+87,Stolk,Jesper,Unattached,M,00:55:42
+88,Akkerhuis,Johan,Unattached,M,00:55:42
+89,Gaetan,Schoere,AGF,M,00:55:49
+90,Sterling,Debbie,Unattached,F,00:55:59
+91,Badenoch,Jamie,Unattached,M,00:55:59
+92,Whyte,Lynsey,Unattached,F40,00:56:23
+93,Bryan-Jones,Anna,Unattached,F,00:59:39
+94,McColm,Lara,Unattached,F,01:00:26
+95,Stewart,John,Hartree Harriers,M60,01:00:29
+96,Macchiano,Giana,Unattached,F,01:01:26
+97,Kays,Harry,Unattached,M50,01:02:14
+98,McColm,Tom,Unattached,M50,01:02:49
+99,Wall,Dick,HBT,M60,01:04:23
+100,Welch,Luke,Nevis Triathlon Club,M,01:04:38
+101,Pamburn,Delphine,Unattached,F,01:04:41
+102,Cattley,Emma,Unattached,F50,01:05:08
+103,Stewart,Helen,Unattached,M,01:06:00
+104,Powell,Mathew,Unattached,M,01:07:41
+105,Ellis,Julie,Unattached,F50,01:07:53
+106,de Haan,Tim,Unattached,M40,01:08:43
+107,de Haan,Sandra,Unattached,F40,01:08:43
+108,Beeston,Mark,Unattached,M70,01:09:00
+109,Mead,Gillian,Unattached,F60,01:13:21
+110,Clarke,Sarah,Unattached,F40,01:14:19
+111,Clarke,Simon,Chorlton Runners,M40,01:14:20
+112,Warner,Tim,Moorfoot Runners,M70,01:14:35
+113,Balfour McLeod,Douglas,Hold Fast,M50,01:17:34
+114,Faramanandraisog,Ralimanga,Unattached,F40,01:19:40
+115,McNeill,Carol,Lakeland Orienteering Club,F60,01:19:40
+116,Paul,Brenda,DDJC,F40,01:19:40

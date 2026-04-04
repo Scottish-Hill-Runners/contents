@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Tosh,Samuel,Carnethy,MS,01:31:16
 2,Masson,Alister,Carnethy,MS,01:33:22
 3,Cooper,Keiren,Cambuslang,MS,01:35:56
@@ -48,14 +48,14 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 47,Blackley,Lisa,Unattached,FS,02:18:12
 48,Freidrich,Juliane,Penicuik,FS,02:18:43
 49,Crichton,Andy,Unattached,MS,02:19:36
-50,Gorgas,Stefan,Unattached,M50,02:20:04
+50,Gorgas,Steffen,Westerlands,M50,02:20:04
 51,Szafransca,Anna,Unattached,F40,02:20:07
 52,Furse,Chris,Westerlands,M50,02:20:20
 53,Pugh,Roderick,Kilmarnock,M60,02:20:43
 54,Anderson,Laurie,Lomond,M60,02:23:40
 55,White,David,Kilmarnock,M50,02:25:22
 56,Hannay,Mark,Unattached,M40,02:27:02
-57,Brannan,Tosh,Lothian ,M60,02:27:48
+57,Brannan,Tosh,Lothian,M60,02:27:48
 58,Ward,Ausrine,Kirkintilloch,F40,02:28:00
 59,Pettigrew,Iain,Ayr Seaforth,M50,02:28:34
 60,Maclean,Peter,Ayr Seaforth,M40,02:30:02

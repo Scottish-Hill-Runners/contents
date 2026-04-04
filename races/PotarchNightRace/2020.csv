@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wright,Joseph,Deeside Runners,M,00:29:42
 2,Henry,Peter,Deeside Runners,M,00:30:36
 3,Dempster,Calum,Unattached,MJ,00:30:50
@@ -14,7 +14,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Mackinnon,Martin,Unattached,M50,00:38:06
 14,Cruikckshank,Greig,JSK Running Club,M50,00:38:26
 15,Newman,Miles,Unattached,M50,00:39:01
-16,Tandy,Mark ,Deeside Runners,M50,00:40:41
+16,Tandy,Mark,Deeside Runners,M50,00:40:41
 17,Anderson,Graeme,Deeside Runners,M50,00:40:46
 18,Coombs,Roger,Deeside Runners,M60,00:40:59
 19,Ingram,Richard,Cosmic Hillbashers,M40,00:41:16
@@ -28,7 +28,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 27,Duncan,Davie,Ochil Hillrunners,M60,00:51:57
 28,Wallace,Liz,Deeside Runners,F60,00:52:01
 29,Wallace,Joe,Unattached,M60,00:52:02
-30,Wallace,Sarah,Metro Aberdeen ,F,00:52:08
+30,Wallace,Sarah,Metro Aberdeen,F,00:52:08
 31,MacDonald,Ian,Unattached,M60,00:52:31
 32,Robertson,Hugh,Insch Trail Running Club,M40,00:56:21
 33,Burgess,Warren,Deeside Runners,M60,00:56:23

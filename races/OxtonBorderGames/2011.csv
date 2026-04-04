@@ -1,31 +1,31 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Dougal,Darin,Moorfoot Runners,M40,0:18:20
-2,Dean,Martin,Ochil Hill Runners,M40,0:19:08
-3,McGovern,Michael,Moorfoot Runners,M40,0:19:13
-4,Gallagher,Ronnie,Carnethy,M50,0:19:15
-5,Geoghegan,Michael,Portobello,M,0:19:30
-6,Jardine,Euan,Gala Harriers,M,0:19:40
-7,Sutherland,Mark,Westerlands,M,0:19:42
-8,Buchanan,Peter,Portobello,M40,0:19:52
-9,Fulton,David,HBT,M,0:20:31
-10,Pryde,Gordon,Lomond Hill Runners,M50,0:20:42
-11,Runciman,George,Lauderdale Limpers,M40,0:21:03
-12,O`Neil,Sarah,HBT,F,0:21:12
-13,Craig,Neil,Lauderdale Limpers,M40,0:21:35
-14,Nightingale,David,Gala Harriers,M40,0:21:45
-15,Anthony,Eilidh,HBT,F,0:21:56
-16,Dean,Hazel,Central AC,F40,0:22:04
-17,Earle,Paddy,Tinto Hill Runners,M40,0:22:39
-18,Ozanne,Sally,Unattached,F,0:22:55
-19,Duncan,David,Ochil Hill Runners,M50,0:23:26
-20,Brennan,Brian,Westerlands,M50,0:23:35
-21,Whitehead,Jonathan,Carnethy,M50,0:24:10
-22,Earle,Andrew,Tinto Hill Runners,M,0:25:16
-23,Mallinson,Derek,Unattached,M40,0:25:24
-24,Henly,Kathy,Carnethy,F40,0:25:30
-25,MacDonald,Deborah,HBT,F40,0:25:43
-26,Morris,Paul,Gala Harriers,M40,0:26:10
-27,Little,Ade,Unattached,F,0:27:16
-28,Tar,Kata,HBT,F,0:27:30
-29,Craig,Carrie,HBT,F,0:29:03
-30,Bridges,Tania,Lauderdale Limpers,F40,0:31:21
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Dougal,Darin,Leithenburn,MV,00:18:20
+2,Dean,Martin,Forth Valley Orienteers,MV,00:19:08
+3,McGovern,Mike,Moorfoot,MV,00:19:13
+4,Gallagher,Ronnie,Lauderdale Limpers,MV,00:19:15
+5,Geoghegan,Michael,Portobello,M,00:19:30
+6,Jardine,Euan,Gala Harriers,M,00:19:40
+7,Sutherland,Mark,Lauderdale Limpers,M,00:19:42
+8,Buchanan,Peter,Portobello,MV,00:19:52
+9,Fulton,David,HBT,M,00:20:31
+10,Pryde,Gordon,Lomond HR,MV,00:20:42
+11,Runciman,George,Lauderdale Limpers,MV,00:21:03
+12,O'Neil,Sarah,HBT,F,00:21:12
+13,Craig,Neil,Lauderdale Limpers,MV,00:21:35
+14,Nightingale,David,Gala Harriers,MV,00:21:45
+15,Wardlaw,Eilidh,HBT,F,00:21:56
+16,Dean,Hazel,Central AC,FV,00:22:04
+17,Earle,Paddy,Tinto Hill Runners,MV,00:22:39
+18,Ozanne,Sally,Unattached,F,00:22:55
+19,Duncan,David,Ochil Hillrunners,MV,00:23:26
+20,Brennan,Brian,Westerlands,MV,00:23:35
+21,Whitehead,Jonathan,Carnethy,MV,00:24:10
+22,Earle,Andrew,Tinto Hill Runners,M,00:25:16
+23,Mallinson,Derek,Unattached,MV,00:25:24
+24,Henly,Kathy,Portobello,FV,00:25:30
+25,Macdonald,Deborah,HBT,FV,00:25:43
+26,Morris,Paul,Gala Harriers,MV,00:26:10
+27,Little,Ade,Unattached,F,00:27:16
+28,Tar,Cata,HBT,F,00:27:30
+29,Craig,Carrie,HBT,F,00:29:03
+30,Bridges,Tania,Lauderdale Limpers,FV,00:31:21

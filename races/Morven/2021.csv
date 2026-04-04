@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Anthony,Alasdair,Ochil Hill Runners,M40,00:49:34
 2,Williamson,Clyde,Cosmics,M,00:50:35
 3,Brookes,Rob,Cosmics,M40,00:52:47

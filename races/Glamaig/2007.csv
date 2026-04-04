@@ -1,67 +1,69 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,M,0:49:48
-2,Smith,Alan,Deeside Runners,M40,0:53:26
-3,Fallon,Steven,Carnethy,M40,0:54:03
-4,MacLean,Paul,Lochaber AC,M,0:58:20
-5,Simpson,Stuart,Stornoway AC,M,0:58:40
-6,Smith,Tom,Lochaber AC,M,0:59:14
-7,O`Donnaghaile,Alasdair,Unattached,M,0:59:22
-8,Brooks,Graham,Lochaber AC,M50,1:01:08
-9,Gibbs,Brock,Unattached,M,1:01:26
-10,Delaney,Kevin,Skye & Lochalsh RC,M40,1:01:38
-11,Maitland,John,Lochaber AC,M40,1:01:42
-12,Shaw,Richard,Lochaber AC,M40,1:02:47
-13,MacBeath,Niall,Lochaber AC,M40,1:04:15
-14,Contier,Gilles,Skye & Lochalsh RC,M40,1:04:48
-15,Kennedy,Ali,Lochaber AC,M40,1:06:18
-16,Stephenson,James,Skye & Lochalsh RC,M,1:07:50
-17,MacIntyre,Ian,Lochaber AC,M,1:09:38
-18,Shepherd,Andrew,Carnethy,M40,1:09:42
-19,Clifford,Sam,Unattached,M,1:10:00
-20,Cope,Alan,Unattached,M,1:10:11
-21,Hunter,Stuart,Cosmics,M40,1:10:38
-22,Wilson,Alan,Tinto Hill Runners,M40,1:11:27
-23,Brett,Alex,Highland Hill Runners,M50,1:11:32
-24,Watkins,Grant,Unattached,M40,1:11:39
-25,Shaw,Lyndsey,Lochaber AC,F,1:11:40
-26,Turner,Neil,Skye & Lochalsh RC,M,1:12:59
-27,Adams,Ian,Lochaber AC,M40,1:13:06
-28,Boswell,Roger,Lochaber AC,M50,1:13:15
-29,Wilson,Colin,Lomond Hill Runners,M40,1:14:44
-30,Logan,Bill,Unattached,M50,1:14:48
-31,Parsons,Lloyd,Unattached,M40,1:15:56
-32,Braydon,David,Unattached,MJ,1:17:42
-33,MacDonald,Ewan,Unattached,M,1:17:54
-34,Evans,Sarah,Unattached,F,1:18:50
-35,Murdoch,Ray,Lochaber AC,M50,1:19:10
-36,Bishop,James,Unattached,M,1:19:41
-37,Johnstone,Derek,Cosmics,M40,1:19:45
-38,Wilson,Joan,Lomond Hill Runners,F40,1:19:53
-39,MacDonald,Deborah,HBT,F40,1:20:34
-40,Coghill,John,Unattached,M,1:21:06
-41,Noble,Lois,Cosmics,F40,1:21:50
-42,Smith,Tilly,Deeside Runners,F40,1:22:53
-43,Earnshaw,Colin,North Highland Harriers,M,1:22:55
-44,Edwards,Chris,Unattached,M,1:28:03
-45,Warby,Tony,Unattached,M50,1:29:08
-46,Larkin,Peter,Cosmics,M40,1:29:47
-47,Earnshaw,Neil,Unattached,M,1:30:30
-48,Logan2,Bill,Unattached,M50,1:34:51
-49,Gibson,Billy,Unattached,M,1:35:21
-50,Boulter,Neil,Unattached,M,1:35:25
-51,Kennedy,Nancy,Lochaber AC,F40,1:35:29
-52,Campbell,Johnny,Unattached,M,1:35:53
-53,Maclean,Neil,Unattached,M40,1:35:59
-54,Dougan,John,Lochaber AC,M50,1:36:18
-55,Goodman,Angela,Unattached,F,1:39:52
-56,Atkinson,Tom,Unattached,M,1:43:10
-57,Strachan,Douglas,Skye & Lochalsh RC,M50,1:43:16
-58,Harris,Giles,Goole Viking Striders,M,1:45:51
-59,O`Donnaghaile,Peter,Unattached,M40,1:46:44
-60,Gifford,Virginia,Unattached,F,1:53:51
-61,Warby,Tony,Unattached,M50,1:58:42
-62,Stewart,Edwin,Jog Scotland,M,1:59:34
-63,Onions,Jude,Unattached,F,2:00:08
-64,Nicolson,Neil,Unattached,M,2:03:30
-65,Campbell,Neil,Carnethy,M,2:11:30
-66,Treasurer,Claire,Lochaber AC,F,2:14:48
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Marshall,Brian,HELP,00:49:48,MS
+2,Smith,Alan,Deeside Runners,00:53:26,MV40
+3,Fallon,Steven,Carnethy,00:54:03,MV40
+4,Maclean,Paul,Lochaber,00:58:20,MS
+5,Simpson,Stewart,Ochils,00:58:40,MS
+6,Smith,Tom,Lochaber,00:59:14,MS
+7,Odonnghaile,Alasdair,u/a,00:59:22,MS
+8,Brooks,Graham,Lochaber,01:01:08,MV50
+9,Gibbs,Brock,u/a,01:01:26,MS
+10,Delaney,Kevin,Skye and Lochalsh,01:01:38,MV40
+11,Maitland,John,Lochaber,01:01:42,MV40
+12,Shaw,Richard,Lochaber,01:02:47,MV40
+13,Macbeth,Niall,Lochaber,01:04:15,MV40
+14,Conter,Gilles,u/a,01:04:48,MV40
+15,Kennedy,Ally,Lochaber,01:06:18,MV40
+16,Stephenson,James,Skye and Lochalsh,01:07:50,MS
+17,MacIntyre,Ian,Lochaber,01:09:38,MS
+18,Shepherd,Andrew,Carnethy,01:09:42,MV40
+19,Clifford,Sam,u/a,01:10:00,MS
+20,Cope,Alan,Slig Team,01:10:11,MS
+21,Hunter,Stewart,Cosmics,01:10:38,MV40
+22,Wilson,Alan,Skye and Lochalsh,01:11:27,MV40
+23,Brett,Alex,Highland Hill Runners,01:11:32,MV50
+24,Watkins,Grant,u/a,01:11:39,MV40
+25,Shaw,Lyndsey,Lochaber,01:11:40,FS
+26,Turner,Neil,Skye and Lochalsh,01:12:59,MS
+27,Adams,Ian,Lochaber,01:13:06,MV40
+28,Boswell,Roger,u/a,01:13:15,MV50
+29,Wilson,Colin,Carnethy,01:14:44,MV40
+30,Logan,Bill,u/a,01:14:48,MV50
+31,Parsons,Lloyd,u/a,01:15:56,MV40
+32,Braydon,David,u/a,01:17:42,MJ
+33,MacDonald,Eaun,u/a,01:17:54,MS
+34,Evans,Sarah,u/a,01:18:50,FS
+35,Murdoch,Raymond,Lochaber,01:19:10,MV50
+36,Bishop,James,u/a,01:19:41,MS
+37,Johnstone,Derek,Cosmics,01:19:45,MV40
+38,Wilson,Joan,Carnethy,01:19:53,FV40
+39,Macdonald,Debbie,HBT,01:20:34,FV40
+40,Coghill,John,Slig Team,01:21:06,MS
+41,Noble,Lois,Cosmics,01:21:50,FV40
+42,Smith,Tilly,Deeside Runners,01:22:53,FV40
+43,Earnshaw,Colin,u/a,01:22:55,MS
+44,Edwards,Christopher,Slig Team,01:28:03,MS
+45,Warby,Tony,u/a,01:29:08,MV50
+46,Larkin,Peter,Cosmics,01:29:47,MV40
+47,Earnshaw,Neil,u/a,01:30:30,MS
+48,Logan,Bill,u/a,01:34:51,MV50
+49,Gibson,Billy,Slig Team,01:35:21,MS
+50,Boulter,Neil,u/a,01:35:25,MS
+51,Kennedy,Nancy,Lochaber,01:35:29,FV40
+52,Campbell,Johnny,u/a,01:35:53,MS
+53,Maclean,Neil,Slig Team,01:35:59,MV40
+54,Dougan,John,Lochaber,01:36:18,MV50
+55,Goodman,Angela,u/a,01:39:52,FS
+56,Atkinson,Tom,Slig Team,01:43:10,MS
+57,Strachan,Douglas,Skye and Lochalsh,01:43:16,MV50
+58,Harris,Giles,Goole Viking Striders,01:45:51,MS
+59,Odonnghaile,Peter,u/a,01:46:44,MV40
+60,Gifford,Virginia,u/a,01:53:51,FS
+61,Warby,Tony,u/a,01:58:42,MV50
+62,Stewart,Edwin,Jog Scotland,01:59:34,MS
+63,Onions,Jude,u/a,02:00:08,FS
+64,Nicolson,Neil,u/a,02:03:30,MS
+65,Campbell,Neil,u/a,02:11:30,MS
+66,Treasure,Claire,Lochaber,02:14:48,FS
+67,Chalmers,Rae,Maine Track Club,M,FV50
+68,Chalmers,Thomas,Maine Track Club,M,MV40

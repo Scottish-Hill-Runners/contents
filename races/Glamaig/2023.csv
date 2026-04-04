@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Thornton,Alistair,Howgill Harriers,M,00:51:29
 2,Fraser,Callum,Lochaber AC,M,00:51:44
 3,Ashwood,Daniel,Carnethy HRC,M,00:52:26
@@ -111,7 +111,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 110,White,Lucy,Westerlands CCC,F,01:37:10
 111,Shaw,Rachel,Cuillin Dubh HRC,F,01:38:03
 112,Lynch,Thomas,Lochaber AC,M40,01:39:02
-113,ORourke,Matt,Unattached,M,01:39:05
+113,O?Rourke,Matt,Unattached,M,01:39:05
 114,Stewart,Jordan,Moray Road Runners,M,01:40:11
 115,Law,Isabelle,Unattached,F,01:40:28
 116,McIntyre,Cheryl,Unattached,F,01:40:31

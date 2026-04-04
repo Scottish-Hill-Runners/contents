@@ -1,9 +1,9 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wilkinson,Marc,Lauderdale Limpers,M,00:34:06
 2,Dobson,Jacob,Unattached,M,00:34:47
 3,Anderson,Rory,Teviotdale Harriers,M,00:35:41
 4,Stewart,Iain,Westerlands CCC,M40,00:36:47
-5,Gilmour,Andrew ,Unattached,M40,00:40:19
+5,Gilmour,Andrew David,Unattached,M40,00:40:19
 6,Tullie,John,Teviotdale Harriers,M60,00:41:22
 7,Murray,Keith,Teviotdale Harriers,M50,00:41:41
 8,Molero,Luis,Gala Harriers,M40,00:41:50

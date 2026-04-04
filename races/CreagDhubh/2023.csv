@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:28:00
 2,Tryner,Euan,Hallamshire Harriers,M Jun,00:29:40
 3,Wright,Angus,Team E Lothian AC,M Jun,00:30:48
@@ -27,7 +27,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 26,Patton,Ellen,Dark Peak,F,00:38:14
 27,Patton,Simon,Dark Peak,M50,00:38:25
 28,Brown,Patrick,Orion Harriers,M,00:38:26
-29,Harvey-Bryant,Lloyd,Unattached,M ,00:38:34
+29,Harvey-Bryant,Lloyd,Unattached,M,00:38:34
 30,Roberts,Adam,Unattached,M,00:38:58
 31,Macpherson,Tom,Unattached,M,00:38:59
 32,Lamont,Donald,Lochaber AC,M,00:39:00
@@ -38,7 +38,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Hayman,Mark,Unattached,M50,00:39:40
 38,Macdonald,Kira,Lochaber AC,F,00:39:52
 39,Maxwell,Ian,Gala Harriers,M60,00:40:03
-40,Gordon,Neil,Carnethy ,M,00:40:27
+40,Gordon,Neil,Carnethy,M,00:40:27
 41,Prise,Eilidh,Unattached,F,00:40:38
 42,White,Georgia,Lochaber AC,F,00:40:56
 43,Wells,Callum,Drumguish D & JC,M,00:41:21
@@ -89,7 +89,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 88,Hall,Jeremy,Unattached,M50,01:07:54
 89,Carr,Kotomi,Unattached,F40,01:08:53
 90,Ellis,Julie,Unattached,F50,01:10:14
-91,Stewart,Helen,Unattached,F ,01:11:46
+91,Stewart,Helen,Unattached,F,01:11:46
 92,Alcock,Helen,Unattached,F40,01:12:54
 93,Campbell,Karen,Falkland Trail Runners,F60,01:21:07
 94,Slesser,Mark,Unattached,M40,01:40:14

@@ -1,8 +1,8 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Gollan,Ross,Shettleston Harriers,M,01:04:30
 2,Alexander,Sam,Westerlands CCC,M,01:07:10
 3,Howie,Robin,Highland Hill Runners,M,01:10:49
-4,Anderson,Darroch,Glasgow  Uni H&H,M,01:14:46
+4,Anderson,Darroch,Glasgow Uni H&H,M,01:14:46
 5,Manson,Ian,Metro Aberdeen RC,M,01:16:08
 6,Brookes,Rob,Cosmics,M40,01:18:16
 7,Freshwater,Craig,HBT,M40,01:19:43
@@ -25,7 +25,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 24,Henderson,David,Stonehaven RC,M40,01:33:25
 25,Sherman,Ronan,Carnethy,M,01:33:54
 26,Horsfall,Tim,Unattached,M40,01:34:08
-27,Vassallo,Alexander,Dundee Hawkhill ,M,01:34:10
+27,Vassallo,Alexander,Dundee Hawkhill,M,01:34:10
 28,Wolfe,Patrick,Unattached,M60,01:36:38
 29,Alexander,Mark,Ballymena Runners,M50,01:36:57
 30,Hooper,Mark,Carnethy,M,01:38:14

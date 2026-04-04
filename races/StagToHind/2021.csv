@@ -1,9 +1,9 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Park,Adam,Hartfell Hill RC,M,00:24:18
-2,Wilkinson,Marc,Lauderdale Limpers ,M,00:24:42
+2,Wilkinson,Marc,Lauderdale Limpers,M,00:24:42
 3,Lavin,Daniel,Moorfoot Runners,M,00:25:57
 4,Ramage,Steve,Hartfell Hill RC,M,00:26:41
-5,Keir,Gregor,Lauderdale Limpers ,M,00:27:05
+5,Keir,Gregor,Lauderdale Limpers,M,00:27:05
 6,McCarron,Christopher,Calderglen Harriers,M,00:28:23
 7,Graham,Darren,Todmorden Harriers,MV50,00:28:35
 8,Pow,Grace,Edinburgh Uni H&H,F,00:28:47
@@ -30,7 +30,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 29,Davies,Carolyn,Hartfell Hill RC,FV50,00:41:53
 30,Comerford,Mike,Hartfell Hill RC,MV60,00:41:55
 31,Stewart,Beverley,Unattached,FV40,00:43:04
-32,Birch,Frank,Lauderdale Limpers ,MV70,00:43:51
+32,Birch,Frank,Lauderdale Limpers,MV70,00:43:51
 33,Creighton,Alan,Annan and District AC,MV60,00:45:27
 34,Gass,Wendy,Unattached,FV50,00:45:27
 35,Robson,John,Unattached,MV60,00:47:10

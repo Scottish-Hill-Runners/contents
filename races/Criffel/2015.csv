@@ -1,50 +1,52 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Gilmore,Andrew,Highland Hill Runners,M,0:56:56
-2,Haworth,Jim,Galloway Harriers,M40,0:59:04
-3,Romo,Javier,Unattached,M,1:01:16
-4,Cox,Alistair,Tinto Hill Runners,M,1:01:24
-5,Smith,Alan,Deeside Runners,M50,1:02:29
-6,Anderson,Adam,Hartfell HRC,M40,1:02:56
-7,McRobert,John,Hardrock Hoodlums,M,1:04:33
-8,Tangey,Jacob,Dumfries RC,M,1:05:46
-9,Dickie,Adam,Dumfries RC,M,1:06:04
-10,Neilson,Adam,Dumfries RC,M50,1:06:14
-11,Spence,Alan,Dumfries and Galloway Tri Club,M,1:06:30
-12,Malcolmson,Craig,Hartfell HRC,M50,1:07:04
-13,Plummer,Kevin,Hartfell HRC,M50,1:08:17
-14,Sloan,David,Dumfries and Galloway Tri Club,M,1:09:19
-15,Begley,Tommy,Irvine RC,M40,1:09:39
-16,Coopland,Martin,Annan & District AC,M40,1:10:01
-17,Webster,Andrew,Solway,M40,1:10:51
-18,Scott,Graeme,Annan & District AC,M40,1:11:11
-19,Gilmore,Neil,Carnethy,M50,1:11:22
-20,Anderson,Laurie,Lomond Hill Runners,M50,1:11:51
-21,Robson,John,Annan & District AC,M50,1:12:15
-22,Beattie,Andrew,Dumfries Harriers,M,1:12:31
-23,Curry,Sandy,Unattached,M,1:13:11
-24,Mortlock,Simon,Dumfries RC,M50,1:13:42
-25,Underwood,Jon,Calder Valley,M40,1:13:58
-26,Goldsworthy,John,Hardrock Hoodlums,M60,1:16:36
-27,Murgatroyd,Ian,Solway,M50,1:16:43
-28,McLachlan,Richard,Hardrock Hoodlums,M,1:16:49
-29,Weir,Jonathan,Unattached,M,1:16:55
-30,Pearson,Neil,Dumfries and Galloway Tri Club,M40,1:17:20
-31,Bowman,Angus,Lomond Hill Runners,M40,1:17:30
-32,Jackson,Jane,Carnethy,F40,1:18:35
-33,Mortlock,Jonathan,Dumfries RC,M,1:18:49
-34,Singh,Shirley,Hardrock Hoodlums,F50,1:19:13
-35,Thomas,Ranjit,Dumfries RC,M40,1:19:43
-36,Wilson,Colin,Lomond Hill Runners,M50,1:19:50
-37,Wilson,Joan,Lomond Hill Runners,F50,1:19:52
-38,Anderson,James,Unattached,M,1:20:31
-39,Duncan,David,Ochil Hill Runners,M60,1:20:45
-40,Gordon,Nick,Solway,M60,1:21:22
-41,Ainslie,Keith,Dumfries Harriers,M50,1:21:44
-42,Priestley,Nigel,Annan & District AC,M50,1:23:20
-43,Dawson,Barbara,Annan & District AC,F,1:25:53
-44,Khan,Mohammed,Dumfries RC,M,1:26:06
-45,Hart,Vicky,Dumfries RC,F,1:26:41
-46,Borland,Jane,Annan & District AC,F,1:27:14
-47,Butler,Frances,Galloway Harriers,F40,1:30:32
-48,Bowman,Jean,Lomond Hill Runners,F50,1:43:26
-49,Robson,Jean,Annan & District AC,F50,1:52:27
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Gilmore,Andrew,Carnethy HRC,M,00:56:56
+2,Haworth,Jim,Galloway Harrier,MV40,00:59:04
+3,Romo,Javier,Unattached,M,01:01:16
+4,Cox,Alisatir,Tinto Hill Runners,M,01:01:24
+5,Smith,Alan,Deeside,MV50,01:02:29
+6,Anderson,Adam,Carnethy HRC,MV40,01:02:56
+7,McRobert,John,Dalbeattie Running Club,M,01:04:33
+8,Tangey,Jacob,Dumfries Running Club,M,01:05:46
+9,Dickie,Adam,Dumfries Running Club,M,01:06:04
+10,Neilson,Adam,Dumfries Running Club,MV50,01:06:14
+11,Spence,Alan,Dumfries and Galloway Tri Club,M,01:06:30
+12,Malcolmson,Craig,Dumfries Running Club,MV50,01:07:04
+13,Plummer,Kevin,Annan and District AC,MV50,01:08:17
+14,Sloan,David,Dumfries and Galloway Tri Club,M,01:09:19
+15,Begley,Tommy,Irvine,MV40,01:09:39
+16,Coupland,Martin,Annan and District AC,MV40,01:10:01
+17,Webster,Martin,Solway,MV40,01:10:51
+18,Scott,Graeme,Annan and District AC,MV40,01:11:11
+19,Gilmore,Neil,Carnethy HRC,MV50,01:11:22
+20,Anderson,Laurie,Lomond HR,MV50,01:11:51
+21,Robson,John,Annan and District AC,MV50,01:12:15
+22,Beattie,Andrew,Dumfries Harriers,M,01:12:31
+23,Curry,Sandy,Unattached,M,01:13:11
+24,Mortlock,Simon,Dumfries Running Club,MV50,01:13:42
+25,Underwood,Jon,Calder Valley FR,MV40,01:13:58
+26,Goldsworthy,John,Hardrock Hoodlums,MV60,01:16:36
+27,Murgatroyd,Ian,Solway,MV50,01:16:43
+28,McLachlan,Richard,Hardrock Hoodlums,M,01:16:49
+29,Weir,Jonathan,Unattached,M,01:16:55
+30,Pearson,Neil,Dumfries and Galloway Tri Club,MV40,01:17:20
+31,Bowman,Angus,Lomond HR,MV40,01:17:30
+32,Jackson,Jane,Carnethy HRC,FV40,01:18:35
+33,Mortlock,Jonathan,Solway,M,01:18:49
+34,Singh,Shirley,Unattached,FV50,01:19:13
+35,Thomas,Ranjit,Dumfries Running Club,MV40,01:19:43
+36,Wilson,Colin,Lomond HR,MV50,01:19:50
+37,Wilson,Joan,Lomond HR,FV50,01:19:52
+38,Anderson,James,Unattached,M,01:20:31
+39,Duncan,David,Ochil Hill Runners,MV60,01:20:45
+40,Gordon,Nick,Solway,MV60,01:21:22
+41,Ainslie,Keith,Dumfries Harriers,MV50,01:21:44
+42,Priestley,Nigel,Annan and District AC,MV50,01:23:20
+43,Dawson,Barbara,Annan and District AC,F,01:25:53
+44,Khan,Mohammed,Dumfries Running Club,M,01:26:06
+45,Hart,Vicky,Dumfries Running Club,F,01:26:41
+46,Borland,Jane,Unattached,F,01:27:14
+47,Butler,Frances,Galloway Harrier,FV40,01:30:32
+48,Bowman,Jean,Lomond HR,FV50,01:43:26
+49,McCloskey,Terry,Dumfries Running Club,Sweeper,01:46:26
+50,Robson,Jean,Annan and District AC,FV50,01:52:27
+51,Creighton,Alan,Annan and District AC,Sweeper,01:52:27

@@ -1,102 +1,102 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Gay,Dan,HBT,M,1:24:54
-2,Marshall,Brian,HELP,M40,1:24:55
-3,Johnston,Fergus,Carnethy,M,1:26:36
-4,Campbell,Ross,Highland Hill Runners,M,1:28:18
-5,Harris,Mark,Fife AC,M40,1:28:42
-6,Gilmore,Andrew,Highland Hill Runners,M,1:29:42
-7,Harris,Adam,Unattached,M,1:32:01
-8,Gorman,Manny,Westerlands,M40,1:32:04
-9,Smith,Alan,Deeside Runners,M50,1:34:08
-10,Knox,Jonny,Anster Haddies,M40,1:34:56
-11,Cox,Andrew,Moorfoot Runners,M,1:36:21
-12,Mackenzie,Donald,Lomond Hill Runners,M40,1:36:52
-13,Morgan,Charlotte,Carnethy,F,1:37:08
-14,O`Neill,Owen,Westerlands,M,1:37:23
-15,Bradley,Scott,Carnegie Harriers,M,1:37:26
-16,Mackie,Peter,Shettleston Harriers,M,1:37:40
-17,Simpson,Peter,Carnegie Harriers,M50,1:37:44
-18,Breckenridge,Bill,Shettleston Harriers,M40,1:38:11
-19,Baxter,Grant,Ochil Hill Runners,M40,1:38:40
-20,Fraser,Gary,Ochil Hill Runners,M40,1:38:44
-21,Gibson,Billy,Dundee Hawkhill,M,1:38:55
-22,Malcolm,Bruce,Corstorphine,M40,1:40:40
-23,Gilmore,Iain,Carnethy,M,1:40:40
-24,Gay,Sula,HBT,F,1:40:52
-25,Pringle,Alastair,Shettleston Harriers,M40,1:42:55
-26,Sanderson,Stuart,Penicuik Harriers,M40,1:43:22
-27,Bird,Sharon,Carnethy,F,1:43:29
-28,King,Steven,Carnegie Harriers,M40,1:43:36
-29,Mowbray,Megan,HBT,F,1:43:50
-30,Knox,Thomas,Anster Haddies,M,1:44:04
-31,Gilmore,Neil,Carnethy,M50,1:44:04
-32,McCall,Tim,Norham RC,M50,1:44:10
-33,Pryde,Gordon,Lomond Hill Runners,M50,1:44:41
-34,Cowan,David,Fife AC,M50,1:45:10
-35,Brooks,Mike,Penicuik Harriers,M40,1:45:26
-36,Kelly,Graham,Westerlands,M40,1:45:36
-37,Harrison,Jason,Lomond Hill Runners,M40,1:47:28
-38,Kenyon,Oliver,HBT,M,1:47:34
-39,Anderson,Neil,MR25,M50,1:48:23
-40,Gallagher,Ronnie,Carnethy,M50,1:49:05
-41,Addie,James,Dunbar RC,M,1:49:20
-42,Hill,Christopher,British Military Fitness,M40,1:50:36
-43,Pugh,Roderick,Kilmarnock Harriers,M50,1:50:40
-44,Cooper,Brian,Perth Road Runners,M,1:50:45
-45,Boyd,Lisa,Carnethy,M,1:51:20
-46,Dickson,David,Westerlands,M50,1:51:42
-47,Jelly,Ewan,Perth Road Runners,M,1:52:11
-48,Anderson,Eck,Anster Haddies,M,1:53:23
-49,Lomas,Paul,Unattached,M40,1:53:50
-50,MacIntyre,Jacqueline,Carnegie Harriers,F,1:54:37
-51,Rennie,Willie,Carnegie Harriers,M40,1:55:03
-52,Bartlett,Pat,Interlopers,M40,1:55:15
-53,Ingram,Richard,Cosmics,M40,1:56:32
-54,Jackson,Jane,Carnethy,F40,1:56:32
-55,Cassells,Derek,Carnegie Harriers,M,1:56:39
-56,Garside,Richard,Ochil Hill Runners,M,1:57:23
-57,Reynolds,Colin,Carnegie Harriers,M40,1:58:25
-58,Hughes,Nick,Unattached,M,1:58:30
-59,Payne,Lina,Deeside Runners,F40,1:58:36
-60,McIntyre,Iain,Highland Hill Runners,M50,1:58:36
-61,Sim,Andrew,Carnegie Harriers,M40,1:59:36
-62,Hartree,Mark,Carnethy,M40,1:59:47
-63,Moffat,John,Highland Hill Runners,M50,2:00:24
-64,Forte,Phil,Dundee Hawkhill,M50,2:03:05
-65,Bowman,Angus,Lomond Hill Runners,M50,2:03:30
-66,Duncan,David,Ochil Hill Runners,M50,2:03:33
-67,Budgett,Suzanne,Horwich,F50,2:04:35
-68,Sinclair,Melanie,Unattached,F40,2:04:46
-69,Anderson,Kevin,Penicuik Harriers,M40,2:05:26
-70,McLean,Graham,Corstorphine,M50,2:05:36
-71,Turner,Dave,Lomond Hill Runners,M40,2:06:51
-72,Osborn,David,Lomond Hill Runners,M50,2:07:38
-73,Crookston,John,Carnegie Harriers,M50,2:08:07
-74,Vallance,Calum,Carnegie Harriers,M40,2:08:19
-75,Macaulay,Allan,Carnegie Harriers,M50,2:08:28
-76,Thomson,Iain,Strathearn Harriers,M60,2:09:12
-77,Ramsay,Graham,Shettleston Harriers,M40,2:09:18
-78,Stakes,David,Unattached,M50,2:10:14
-79,Gilligan,Steven,Westerlands,M,2:10:28
-80,Cumming,Mike,Fife AC,M,2:10:32
-81,Millar,Neil,Fife AC,M40,2:10:50
-82,Ferguson,Mark,Fife AC,M,2:16:30
-83,Davidson,Stewart,Fife AC,M60,2:18:51
-84,O`Brien,Paul,Corstorphine,M50,2:19:17
-85,Smithard,Phil,Carnegie Harriers,M60,2:20:11
-86,Marwick,Katie,HBT,F,2:20:34
-87,Greer,Stephen,Carnegie Harriers,M50,2:21:05
-88,O`Malley,Sinead,HBT,M,2:24:52
-89,Maxwell,Susie,Penicuik Harriers,M40,2:28:13
-90,McLure,Neil,Carnegie Harriers,M40,2:28:40
-91,Bowman,Jean,Lomond Hill Runners,F50,2:34:25
-92,Lawson,Graeme,Linlithgow Harriers,M40,2:36:34
-93,Gorres,Roy,Unattached,M40,2:36:45
-94,Smit,Inge,Unattached,F40,2:36:45
-95,Reynolds,Lesley,Carnegie Harriers,F40,2:37:09
-96,Fleming,Morna,Pitreavie,F60,2:41:45
-97,Brown,Sharon,Anster Haddies,F,2:42:43
-98,Lumsden,Ewan,Anster Haddies,M,2:42:45
-99,Zuniea,Cristobal,Chile,M,2:47:30
-100,Fraser,Ronald,Dundee Road Runners,M50,3:00:25
-101,Zuniea,Carlos,Chile,M40,3:04:20
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Gay,Dan,S,HBT,01:24:54
+2,Marshall,Brian,V40,HELP,01:24:55
+3,Johnston,Fergus,S,Gala,01:26:36
+4,Campbell,Ross,S,Edinburgh Univ,01:28:18
+5,Harris,Mark,V40,Fife AC,01:28:42
+6,Gilmore,Andrew,S,Carnethy,01:29:42
+7,Harris,Adam,S,Shettleston,01:32:01
+8,Gorman,Manny,V40,Westerlands,01:32:04
+9,Smith,Alan,V50,Deeside,01:34:08
+10,Knox,Jonny,V40,Anster,01:34:56
+11,Cox,Andrew,S,Moorfoot,01:36:21
+12,MacKenzie,Donald,V40,Lomond,01:36:52
+13,Morgan,Charlotte,Female,Carnethy,01:37:08
+14,O'Neill,Owen,S,Westerlands,01:37:23
+15,Bradley,Scott,S,Carnegie,01:37:26
+16,Mackie,Peter,S,Shettleston,01:37:40
+17,Simpson,Peter,V50,Carnegie,01:37:44
+18,Breckenridge,Bill,V40,Shettleston,01:38:11
+19,Baxter,Grant,V40,Ochil,01:38:40
+20,Fraser,Gary,V40,Ochil,01:38:44
+21,Gibsoon,Billy,S,Dundee Hawks,01:38:55
+22,Malcolm,Bruce,V40,Corstorphine,01:40:40
+23,Gilmore,Ian,S,Carnethy,01:40:40
+24,Gay,Sula,Female,HBT,01:40:52
+25,Pringle,Alistair,V40,Shettleston,01:42:55
+26,Sanderson,Stuart,V40,Penicuik,01:43:22
+27,Bird,Sharon,Female,U/A,01:43:29
+28,King,Steven,V40,Carnegie,01:43:36
+29,Mowbray,Megan,Female,HBT,01:43:50
+30,Knox,Thomas,S,Anster,01:44:04
+31,Gilmore,Neil,V50,Carnethy,01:44:04
+32,McCall,Tim,V50,Norham,01:44:10
+33,Pryde,Gordon,V50,Lomond,01:44:41
+34,Cowan,David,V50,Fife AC,01:45:10
+35,Brooks,Mike,V40,Penicuik,01:45:26
+36,Kelly,Graham,V40,Westerlands,01:45:36
+37,Harrison,Jason,V40,Lomond,01:47:28
+38,Kenyon,Oliver,S,U/A,01:47:34
+39,Anderson,Neil G,V50,MR25,01:48:23
+40,Gallagher,Ronnie,V50,Carnethy,01:49:05
+41,Addie,James,S,Dunbar,01:49:20
+42,Hill,Christopher,V40,BMF,01:50:36
+43,Pugh,Roderick,V50,Kilmarnock,01:50:40
+44,Cooper,Brian,S,Perth RR,01:50:45
+45,Gamble,Lisa,S,HBT,01:51:20
+46,Dixon,David,V50,westerlands,01:51:42
+47,Jelly,Ewan,S,Perth RR,01:52:11
+48,Anderson,Eck,S,Anster,01:53:23
+49,Lomas,Paul,V40,U/A,01:53:50
+50,McKintyre,Jacqueline,Female,Carnegie,01:54:37
+51,Rennie,Willie,V40,Carnegie,01:55:03
+52,Barlett,Pat,V40,Interlopers,01:55:15
+53,Ingram,Richard,V40,Garioch,01:56:32
+54,Jackson,Jane,FV40,Carnethy,01:56:32
+55,Cassels,Derek,S,Carnegie,01:56:39
+56,Garside,Richard,S,U/A,01:57:23
+57,Reynolds,Colin,V40,Lomond,01:58:25
+58,Hughes,Nick,S,U/A,01:58:30
+59,Mardall,Lina,FV40,Deeside,01:58:36
+60,McKintyre,Iain,V50,Highland,01:58:36
+61,Sim,Andrew,V40,Carnegie,01:59:36
+62,Hartree,Mark,V40,Carnethy,01:59:47
+63,Moffat,John,V50,Highland,02:00:24
+64,Forte,Phil,V50,Dundee Hawks,02:03:05
+65,Bowman,Angus,V50,Lomond,02:03:30
+66,Duncan,David,V50,Ochil,02:03:33
+67,Budgett,Suzanne,FV50,Horwich,02:04:35
+68,Sinclair,Melanie,FV40,Carnegie,02:04:46
+69,Anderson,Kevin,V40,Penicuik,02:05:26
+70,McLean,Graham,V50,Corstorphine,02:05:36
+71,Turner,Dave,V40,Lomond,02:06:51
+72,Osborn,David,V50,Lomond,02:07:38
+73,Crookston,John,V50,Carnegie,02:08:07
+74,Vallance,Calum,V40,Carnegie,02:08:19
+75,MacAulay,Allan,V50,Carnegie,02:08:28
+76,Thompson,Iain,V60,Carnegie,02:09:12
+77,Ramsay,Graham,V40,Shettleston,02:09:18
+78,Stakes,David,V50,Bellahouston,02:10:14
+79,Gilligan,Steven,S,Bellahouston,02:10:28
+80,cumming,Mike,S,Fife AC,02:10:32
+81,Millar,Neil,V40,Fife AC,02:10:50
+82,Ferguson,Mark,S,U/A,02:16:30
+83,Davidson,Stewart,V60,Fife AC,02:18:51
+84,O'Brien,Paul,V50,Corstorphine,02:19:17
+85,Smitham,Phil,V60,Carnegie,02:20:11
+86,Marwick,Katie,FS,U/A,02:20:34
+87,Greer,Stephen,V50,Carnegie,02:21:05
+88,O'Malley,Sinead,S,HBT,02:24:52
+89,Maxwell,Susie,V40,Penicuik,02:28:13
+90,McLure,Neil,V40,U/A,02:28:40
+91,Bowman,Jean,LV50,Lomond,02:34:25
+92,Lawson,Graeme,V40,Linlithgow,02:36:34
+93,Gorres,Roy,v40,U/A,02:36:45
+94,Smit,Inge,V40,U/A,02:36:45
+95,Halstead,Lesley,V40,Lomond,02:37:09
+96,Fleming,Morna,V60,Carnegie,02:41:45
+97,Brown,Sharon,S,Anster,02:42:43
+98,Lumsden,Ewan,S,Anster,02:42:45
+99,Zuniea,Cristobal,S,Chile,02:47:30
+100,Fraser,Ron,V50,Dundee RR,03:00:25
+101,Zuniea,Carlos,V40,Chile,03:04:20

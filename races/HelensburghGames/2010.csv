@@ -1,23 +1,23 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Haines,Hector,HBT,M,0:33:59
-2,Scott-Park,Chris,Unattached,M,0:39:02
-3,Wainwright,Steven,Unattached,M,0:39:10
-4,Theaker,Damien,Westerlands,M,0:39:18
-5,Fay,Thomas,Shettleston Harriers,M,0:40:04
-6,Bell,Stephen,Helensburgh AAC,M,0:40:21
-7,Joss,Ruth,Shettleston Harriers,F,0:41:29
-8,Howat,Gordon,Helensburgh AAC,M,0:42:45
-9,Henderson,Julia,Helensburgh AAC,F,0:44:00
-10,Inglis,Mhairi,Lothian,F,0:45:17
-11,Dye,Phil,Helensburgh AAC,M,0:46:51
-12,Duncan,David,Ochil Hill Runners,M,0:48:10
-13,McKend,Sean,Hermitage Academy,M,0:49:05
-14,Gunn,Steve,Aboyne,M,0:50:35
-15,Ritchie,Angus,Unattached,M,0:51:08
-16,Dye,Maria,Helensburgh AAC,F,0:51:51
-17,Calder,Gavin,Edinburgh Tri Club,M,0:52:02
-18,Midgley,Peter,Westerlands,M50,0:52:05
-19,Mills,Simon,Dark Peak,M,0:53:44
-20,Carroll,Annie,Edinburgh Uni H&H,F,0:53:48
-21,Coyle,Shaun,Westerlands,M,1:00:01
-22,Canty,Zoe,Lomond School,F,1:06:07
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Haines,Hector,Edinburgh University,M,00:33:59
+2,Scott-Park,Chris,u/a,M,00:39:02
+3,Wainwright,Steven,u/a,M,00:39:10
+4,Theaker,Damien,Helensburgh AAC,M,00:39:18
+5,Fay,Thomas,Shettleston,M,00:40:04
+6,Bell,Steven,Helensburgh AAC,M,00:40:21
+7,Joss,Ruth,Glasgow University,F,00:41:29
+8,Howat,Gordon,Helensburgh AAC,M,00:42:45
+9,Henderson,Julia,Helensburgh AAC,F,00:44:00
+10,Inglis,Mhairi,Lothian,F,00:45:17
+11,Dye,Phil,u/a,M,00:46:51
+12,Duncan,David,Ochil Hill Runners,M,00:48:10
+13,Mckend,Sean,Hermitage Academy,M,00:49:05
+14,Gunn,Steve,Aboyne,M,00:50:35
+15,Ritchie,Angus,u/a,M,00:51:08
+16,Dye,Maria,Helensburgh AAC,F,00:51:51
+17,Calder,Gavin,Edinburgh Tri. Club,M,00:52:02
+18,Midgley,Peter,Unatt.,M,00:52:05
+19,Mills,Simon,Lomond School,M,00:53:44
+20,Carroll,Annie,Lomond School,F,00:53:48
+21,Coyle,Shaun,u/a,M,01:00:01
+22,Canty,Zoe,Lomond School,F,01:06:07

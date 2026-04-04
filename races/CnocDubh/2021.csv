@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Greig,Kyle,Metro Aberdeen RC,M,00:30:08
 2,Battle,Hamish,Metro Aberdeen RC,M,00:30:47
 3,Barrie,Adam,Unattached,M,00:32:59

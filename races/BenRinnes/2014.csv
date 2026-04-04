@@ -1,74 +1,74 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Whitlie,Stewart,Carnethy,M50,2:06:51
-2,Gay,Dan,HBT,M,2:09:41
-3,Hesling,Sam,Highland Hill Runners,M,2:12:55
-4,Barrington,Andrew,Lochaber AC,M,2:15:07
-5,Bellamy,Gwyn,Westerlands,M,2:18:20
-6,Gay,Sula,HBT,F,2:20:02
-7,Smith,Alan,Deeside Runners,M50,2:20:04
-8,Marshall,Brian,HELP,M40,2:24:07
-9,Baum,Diane,Lochaber AC,F,2:24:16
-10,Callender,James,Westerlands,M,2:24:48
-11,Weir,David,Forres Harriers,M50,2:27:39
-12,Cushion,Toby,Keswick AC,M,2:27:49
-13,Gay,Jon,Lochaber AC,M40,2:29:04
-14,Malcolm,Stuart,Highland Hill Runners,M40,2:30:31
-15,Murdoch,Paul,Keith & District AAC,M,2:33:02
-16,Silvestre,Luis Marcos,Atletismo Sur Este,M40,2:35:00
-17,Wilson,Stewart,Highland Hill Runners,M40,2:37:11
-18,Robinson,Madeline,Helensburgh AAC,F,2:37:26
-19,Cox,Andrew,Moorfoot Runners,M,2:37:30
-20,Petersen,Johannes,BASOC,M,2:37:35
-21,Bedson,Carl,Glossopdale,M40,2:38:20
-22,Harrison,Scott,Unattached,M40,2:38:32
-23,Peters,Steven,Dundee Road Runners,M,2:39:40
-24,Mardall,Nick,Deeside Runners,M40,2:39:58
-25,Forrest,Stuart,Highland Hill Runners,M,2:41:09
-26,Pearks,David,Highland Hill Runners,M40,2:41:15
-27,Pearce,Simon,Cosmics,M,2:41:53
-28,Burnett,Neil,Carnethy,M40,2:43:37
-29,Rennie,Nick,Unattached,M50,2:44:34
-30,Mitchell,Dave,Dundee Hawkhill,M50,2:45:05
-31,Hetherington,Michelle,Carnethy,F50,2:45:34
-32,Tomlin,Chris,Cosmics,M40,2:46:52
-33,Oldham,Veronique,Cosmics,F40,2:47:46
-34,Angus,Gerald,Keith & District AAC,M50,2:48:35
-35,Moffat,John,Highland Hill Runners,M50,2:49:06
-36,Blackburn,Iain,Nairn Road Runners,M,2:49:06
-37,Baird,Colin,Unattached,M,2:49:22
-38,MacDonald,Gio,Carnethy,M40,2:50:13
-39,McFadzean,Peter,Deeside Runners,M,2:50:47
-40,Culshaw,Tim,Glossopdale,M,2:50:52
-41,Stockton,Mark,Cosmics,M,2:54:11
-42,Bareford,Michael,HBT,M40,2:56:18
-43,Anderson,Joanne,Carnethy,F40,2:56:22
-44,Duncan,David,Ochil Hill Runners,M50,2:58:25
-45,Milne,David,Unattached,M,2:58:57
-46,Connelly,Gary,Harmeny AC,M50,3:00:49
-47,Roberts,Richard,Highland Hill Runners,M50,3:03:16
-48,Barton,Zoe,Glossopdale,F,3:03:43
-49,Stephen,Jeffrey,Unattached,M50,3:05:19
-50,Ward,Peter,Unattached,M,3:05:28
-51,Hamilton,Ian,Cosmics,M50,3:09:29
-52,Ferguson,Mark,Fife AC,M,3:09:35
-53,Grant,Kirstin,Nairn Road Runners,F,3:10:17
-54,Urquhart,John,Moray Road Runners,M40,3:11:47
-55,Macrury,Neil,Stornoway AC,M50,3:13:24
-56,Verbiest,Dirk,Garioch Road Runners,M50,3:13:42
-57,Battle,Joe,Deeside Runners,M50,3:14:14
-58,Clarke,Christopher,Biggleswade AC,M60,3:16:53
-59,Evans,Gerald,Moray Road Runners,M50,3:17:12
-60,Davis,Lydia,Moray Road Runners,F40,3:18:58
-61,Brian,Mike,Unattached,M40,3:19:26
-62,Robertson,Ally,Carnethy,M,3:22:14
-63,Brunton,Val,Westerlands,F40,3:22:56
-64,Main,Gordon,Nairn Road Runners,M60,3:25:05
-65,Stephen,Jill,HBT,F,3:31:27
-66,Ruiz,Jose Miguel,Spain,M40,3:31:30
-67,Ward,Sarah,Cosmics,F40,3:33:30
-68,Clunas,Gillian,Cosmics,F50,3:42:41
-69,Laing,Neil,Moray Road Runners,M50,3:47:07
-70,Edmond,Alasdair,Dhahran RR,M,3:49:37
-71,Murdoch,Ray,Lochaber AC,M60,3:51:37
-72,Low,Andrew,Unattached,M40,4:13:29
-73,McInally,John,Westerlands,M50,4:20:58
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Whitlie,Stewart,Carnethy,M50,02:06:51
+2,Gay,Dan,HBT,M,02:09:41
+3,Hesling,Sam,Carnethy,M,02:12:55
+4,Barrington,Andrew,Lochaber AC,M,02:15:07
+5,Bellamy,Gwyn,Westerlands CCC,M,02:18:20
+6,Gay,Sula,HBT,F,02:20:02
+7,Smith,Alan,Deeside,M50,02:20:04
+8,Marshall,Brian,HELP,M40,02:24:07
+9,Baum,Diane,Lochaber AC,F,02:24:16
+10,Callender,James,Westerlands CCC,M,02:24:48
+11,Weir,Dave,Forres Harriers,M50,02:27:39
+12,Cushion,Toby,Keswick AC,M,02:27:49
+13,Gay,Jon,Lochaber AC,M40,02:29:04
+14,Malcolm,Stuart,Highland HR,M40,02:30:31
+15,Murdoch,Paul,U/A Dufftown,M,02:33:02
+16,Marcos Silvestre,Luis,Suresta (Spain),M40,02:35:00
+17,Wilson,Stewart,Inverness Harriers,M40,02:37:11
+18,Robinson,Madeline,Helensburgh AAC,F,02:37:26
+19,Cox,Andrew,Moorfoot Runners,M,02:37:30
+20,Felter,Johannes,Badenoch OC,M,02:37:35
+21,Bedson,Carl,Glossopdale Harriers,M40,02:38:20
+22,Harrison,Scott,U/A Keith,M40,02:38:32
+23,Peters,Steven,Dundee RR,M,02:39:40
+24,Mardall,Nick,Deeside,M40,02:39:58
+25,Forrest,Stuart,Highland HR,M,02:41:09
+26,Pearks,David,Highland HR,M40,02:41:15
+27,Pearce,Simon,Cosmic Hill Bashers,M,02:41:53
+28,Burnett,Neil,Carnethy,M40,02:43:37
+29,Rennie,Nick,U/A Peterhead,M50,02:44:34
+30,Mitchell,Dave,Dundee Hawkhill Harriers,M50,02:45:05
+31,Hetherington,Michelle,Helensburgh AAC,F50,02:45:34
+32,Tomlin,Chris,Cosmic Hill Bashers,M40,02:46:52
+33,Oldham,Veronique,Cosmic Hill Bashers,F40,02:47:46
+34,Angus,Gerald,Keith & District AAC,M50,02:48:35
+35,Moffat,John,Highland HR,M50,02:49:06
+36,Blackburn,Iain,Nairn Road Runners,M,02:49:06
+37,Baird,Colin,U/A MacAllan,M,02:49:22
+38,MacDonald,Gio,Carnethy,M40,02:50:13
+39,McFadzean,Peter,U/A Aberdeen,M,02:50:47
+40,Culshaw,Tim,Glossopdale Harriers,M,02:50:52
+41,Stockton,Mark,Cosmic Hill Bashers,M,02:54:11
+42,Bareford,Michael,Fife AC,M40,02:56:18
+43,Anderson,Joanne,Carnethy,F40,02:56:22
+44,Duncan,David,Ochil Hill Runners,M50,02:58:25
+45,Milne,David,U/A Garmouth,M,02:58:57
+46,Connelly,Gary,Harmeny AC,M50,03:00:49
+47,Roberts,Richard,Highland HR,M50,03:03:16
+48,Barton,Zoe,Glossopdale Harriers,F,03:03:43
+49,Stephen,Jeffrey,U/A Dufftown,M50,03:05:19
+50,Ward,Peter,U/A Turriff,M,03:05:28
+51,Hamilton,Ian,Cosmic Hill Bashers,M50,03:09:29
+52,Ferguson,Mark,Fife AC,M,03:09:35
+53,Grant,Kirstin,Nairn Road Runners,F,03:10:17
+54,Urquhart,John,U/A Fochabers,M40,03:11:47
+55,MacRury,Neil,U/A Isle of Lewis,M50,03:13:24
+56,Verbiest,Dirk,Gairoch Road Runners,M50,03:13:42
+57,Battle,Joe,Deeside,M50,03:14:14
+58,Clarke,Christopher,Biggleswade AC,M60,03:16:53
+59,Evans,Gerald,Moray Road Runners,M50,03:17:12
+60,Davis,Lydia,U/A Lossiemouth,F40,03:18:58
+61,Brian,Mike,U/A Aviemore,M40,03:19:26
+62,Robertson,Ally,Carnethy,M,03:22:14
+63,Brunton,Val,Westerlands CCC,F40,03:22:56
+64,Main,Gordon T,Nairn Road Runners,M60,03:25:05
+65,Stephen,Jillian,Westerlands CCC,F,03:31:27
+66,Miguel Ruiz,Jose,Calagurris (Spain),M40,03:31:30
+67,Ward,Sarah,U/A New Deer,F40,03:33:30
+68,Clunas,Gillian,Cosmic Hill Bashers,F50,03:42:41
+69,Laing,Neil,Moray Road Runners,M50,03:47:07
+70,Edmond,Alasdair,Dhahran Road Runners,M,03:49:37
+71,Murdoch,Ray,Lochaber AC,M60,03:51:37
+72,Low,Andrew,U/A Fochabers,M40,04:13:29
+73,McInally,John,Westerlands CCC,M50,04:20:58

@@ -1,0 +1,93 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Brown,Ewan,Corstorphine AAC,M,00:23:39
+2,Cooper,Kieran,Carnethy HRC,M,00:23:50
+3,Balogh,Csoban,Carnethy HRC,M,00:24:01
+4,Wilkinson,Marc,Lauderdale Limpers RC,M,00:24:21
+5,Thornton,Alistair,Ochil Hill Runners,M,00:24:43
+6,Cox,Joe,Carnethy HRC,M,00:24:49
+7,Malcolm,Gregor,Ochil Hill Runners,M,00:25:03
+8,Chebbout,Ryad,Shettleston Harriers,M,00:25:05
+9,Smith,Aidan,Carnethy HRC,M,00:25:06
+10,Davies,Fred,Shettleston Harriers,M,00:25:10
+11,Ashwood,Dan,Carnethy HRC,M,00:25:28
+12,Morgan,Tim,Carnethy HRC,M,00:25:58
+13,Laverick,Ben,Carnethy HRC,M,00:26:09
+14,Hooper,Sam,Carnethy HRC,M,00:26:26
+15,Linden,Jared,Unattached,M,00:26:49
+16,Moran,Colm,Carnethy HRC,M,00:26:57
+17,Bryson,Gavin,Unattached,M,00:28:08
+18,Bryce,Andy,Royal Marines RA,M,00:28:31
+19,Baxter,Grant,Ochil Hill Runners,M50,00:28:40
+20,Farley,Jemima,Ladies Running Club,F,00:28:43
+21,Lloyd,Sam,HBT,M,00:29:04
+22,Karpowicz,Marcin,Portobello RC,M,00:29:22
+23,Henderson,Scott,Westerlands CCC,M40,00:29:25
+24,O'neil,Alison,Carnethy HRC,F,00:29:27
+25,Kenny,Jamie,Carnethy HRC,M,00:29:34
+26,Strang,Adam,Musselburgh,M,00:30:26
+27,Bothwell,Alexander,Unattached,M,00:30:26
+28,Ding,James,Unattached,M,00:30:33
+29,Strain,Murray,HBT,M40,00:30:47
+30,Vasepuru,Tom,Ochil Hill Runners,M,00:31:24
+31,Mackinnon,Gordon,Lochaber AC,M40,00:31:25
+32,Gilmore,Neil,Carnethy HRC,M60,00:31:36
+33,Czerwonka,Andrzej,Unattached,M,00:31:55
+34,Morton,David,Musselburgh,M,00:31:58
+35,Mooney,Edel,Ochil Hill Runners,F40,00:32:12
+36,Dickson,Stephen,Fife AC,M40,00:32:20
+37,Wilkinson,Owen,Carnethy HRC,M,00:32:21
+38,Pritchard,Johnny,Carnethy HRC,M,00:32:33
+39,Hamilton,Tilly,Shettleston Harriers,F,00:32:40
+40,Cameron,Lottie,HBT,F,00:32:55
+41,Hatfield,James,Pentland Fun Runners,M40,00:33:01
+42,Crowe,Des,Penicuik Harriers,M60,00:33:16
+43,Mckiddie,Christopher,Westerlands CCC,M40,00:33:53
+44,Ashworth,James,Ochil Hill Runners,M50,00:34:09
+45,Mcallister,Georgina,Penicuik Harriers,F40,00:34:13
+46,Brodie,Stuart,Ochil Hill Runners,M40,00:34:53
+47,Macintyre,Ian,Unattached,M40,00:35:07
+48,Magness,Steve,Unattached,M,00:35:16
+49,Crawford,Sarah,HBT,F,00:35:26
+50,Dudchenko,Paul,Linlithgow AC,M50,00:35:36
+51,Kitchin,Andrew,Unattached,M50,00:35:49
+52,Hetherington,Michelle,Carnethy HRC,F60,00:36:42
+53,Finlay,Alayne,Ochil Hill Runners,F40,00:36:43
+54,Black,Ali,Carnethy HRC,M40,00:36:45
+55,Mcclelland,Peter,HBT,M40,00:36:52
+56,Phillip,Gavin,Edinburgh AC,M50,00:36:58
+57,Mason,David,Linlithgow AC,M50,00:36:58
+58,Shepherd,Rozy,Carnethy HRC,F,00:37:00
+59,Mott,Andrew,Westerlands CCC,M40,00:37:27
+60,Cunningham,Emer,Westerlands CCC,M,00:37:31
+61,Varney,Michael,Penicuik Harriers,M50,00:37:46
+62,Macdonald,Andrew,Unattached,M,00:37:59
+63,Hind,Alasdair,Unattached,M50,00:38:44
+64,Blackley,Lisa,Unattached,F40,00:39:11
+65,Mitchell,Neill,Fife AC,M50,00:39:11
+66,Cunningham,Liz,Unattached,F,00:39:29
+67,Fergusson,Paul,Unattached,M50,00:39:30
+68,Ascroft,Lorna,Carnethy HRC,F40,00:39:36
+69,Mitchell,Kirsten,Westerlands CCC,F,00:40:02
+70,Ashworth,Collette,Ochil Hill Runners,F40,00:40:13
+71,Reid,Laura,Unattached,F,00:40:21
+72,Macleod,Murdo,Westerlands CCC,M70,00:40:50
+73,Gerganova,Gabriela,Westerlands CCC,F,00:41:07
+74,Brownlee,David,Penicuik Harriers,M60,00:41:24
+75,Kemp,Sadie,Penicuik Harriers,F40,00:41:32
+76,Godfrey,Kevin,Lothian Running Club,M50,00:41:38
+77,Kitchin,Kate,Ferranti AAC,F40,00:42:20
+78,Mulholland,Arthur,East Kilbride AC,M60,00:42:42
+79,Stevenson,John,Ochil Hill Runners,M60,00:42:51
+80,Philp,Tracy,Portobello RC,F50,00:43:16
+81,Cessford,Lee,Falkland Trail Runners,M40,00:43:33
+82,Butcher,Rachael,Carnethy HRC,F,00:44:37
+83,Readman,Sophie,Unattached,F,00:44:38
+84,Howie,Brian,Carnethy HRC,M70,00:45:46
+85,Murdoch,Cara,Kirkcaldy Wizards,F40,00:47:37
+86,Fullwood,Andrew,Westerlands CCC,M50,00:47:58
+87,Park,Dorota,Kirkcaldy Wizards,F50,00:48:41
+88,Mcadam,Pauline,Lomond Hill Runners,F60,00:49:03
+89,Richards,Karen,Kirkcaldy Wizards,F50,00:51:46
+90,Dunnet,Karen,Unattached,F50,00:52:35
+91,King,Alex,Ochil Hill Runners,M60,00:57:48
+92,Payne,Chris,Kirkcaldy Wizards,M,01:02:29

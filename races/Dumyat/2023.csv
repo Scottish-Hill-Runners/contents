@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Sasha,Carnethy HRC,M,00:32:33
 2,Cooper,Kieran,Carnethy HRC,M,00:33:16
 3,Lydon,Finn,Carnethy HRC,M,00:33:47
@@ -265,7 +265,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 264,STAVERT,ANDREW,Ochil Hill Runners,M,00:59:30
 265,Donnelly,John,Westerlands CCC,M,00:59:40
 266,Equi,Peter,Wee County Harriers,M,00:59:41
-267,Beauregard,Amélie,Unattached,F,00:59:50
+267,Beauregard,Ame´lie,Unattached,F,00:59:50
 268,Finbow,Gavin,Shettleston Harriers,M40,00:59:58
 269,Dooner,Isobel,Unattached,F,01:00:00
 270,McDaid,Alice,Forth Valley Orienteering Club,F40,01:00:02

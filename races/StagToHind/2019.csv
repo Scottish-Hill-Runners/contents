@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Park,Adam,Hartfell HRC,M,00:25:29
 2,Blamire,Leo,Hartfell HRC,M,00:26:40
 3,Marshall,Brian,HELP,M50,00:26:51

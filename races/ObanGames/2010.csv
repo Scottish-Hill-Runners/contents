@@ -1,19 +1,24 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Haines,Hector,HBT,M,0:13:23
-2,Smith,Tom,Lochaber AC,M,0:13:27
-3,Inglis,Robert,Lothian,M,0:13:54
-4,Kane,Kevin,Inverclyde AC,M,0:14:28
-5,Meekin,Nicola,Lochaber AC,F,0:14:54
-6,Grieve,Gary,Law & District,M,0:15:27
-7,MacAlister,David,Unattached,M,0:15:35
-8,Agnew,William,Unattached,M,0:15:38
-9,Inglis,Sarah,Lothian,F,0:15:46
-10,Rankin,Christina,Kilbarchan,F,0:16:09
-11,Joss,Ruth,Shettleston Harriers,F,0:16:37
-12,Duncan,David,Ochil Hill Runners,M50,0:16:38
-13,Orr,Hollie,Black Combe Runners,F,0:16:53
-14,Rammler,Thomas,Dresden,M,0:17:28
-15,Brennan,Brian,Westerlands,M50,0:17:36
-16,McLean,Herbie,Lochtayside,M60,0:18:28
-17,Gray,Andrew,Taynuilt,M,0:18:46
-18,Pullen,Leslie,Cambridge Harriers,M,0:21:25
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Haines,Hector,Edinburgh,M,00:13:23
+2,Smith,Tom,Oban,M,00:13:27
+3,Inglis,Robert,Lothian,M,00:13:54
+4,Koare,Kevin,Inverclyde,M,00:14:28
+5,Meekin,Nicola,Oban,F Record,00:14:54
+6,Grieve,Gary,Carluke,M,00:15:27
+7,Macalister,David,Oban,M,00:15:35
+8,Agnew,William,Oban,M,00:15:38
+9,Inglis,Sarah,Lothian,F,00:15:46
+10,Rankin,Christine,Paisley,F,00:16:09
+11,Joss,Ruth,Glasgow,F,00:16:37
+12,Duncan,David,Aberfeldy,M,00:16:38
+13,number,no,Unattached,M,00:16:42
+14,number,no,Unattached,M,00:16:48
+15,Orr,Hollie,Edinburgh,F,00:16:53
+16,Rammler,Thomas,Dresden,M,00:17:28
+17,Brennan,Brian,Unattached,M,00:17:36
+18,number,no,Unattached,M,00:18:20
+19,Maclean,Herbie,Killin,M,00:18:28
+20,Gray,Andrew,Oban,M,00:18:46
+21,number,no,Unattached,M,00:21:12
+22,number,no,Unattached,M,00:21:18
+23,Pullen,Les,Cambridge,M,00:21:25

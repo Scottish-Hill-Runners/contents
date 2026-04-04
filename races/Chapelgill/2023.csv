@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Richards,Chris,Cumbria,M,00:19:09
 2,Tosh,Samuel,Carnethy HRC,M,00:21:02
 3,Bolton,Harry,Cumbria,M,00:21:10
@@ -13,7 +13,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Barber,Zoë,Shettleston Harriers,F,00:26:06
 13,Smith,Alan,Deeside Runners,M60,00:26:15
 14,Gilmore,Neil,Carnethy HRC,M60,00:27:03
-15,Blackett,Joe,Dark Peak ,M50,00:27:09
+15,Blackett,Joe,Dark Peak,M50,00:27:09
 16,Anderson,Adam,Hartfell Hill Runners,M50,00:27:28
 17,Weir,Jonathan,Unattached,M40,00:27:50
 18,MacDonald,Euan,Tinto Hill Runners,M,00:27:58

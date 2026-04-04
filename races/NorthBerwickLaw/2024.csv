@@ -1,0 +1,298 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Douglas,Andrew,Westerlands CCC,M,00:19:25
+2,Wright,Angus,Edinburgh Uni H&H,M,00:19:46
+3,Luetchford,Alex,HBT,M,00:20:42
+4,Houston,Charles,HBT,M,00:20:53
+5,Smith,Aidan,Carnethy HRC,M,00:20:57
+6,Hastings,Alex,Lauderdale Limpers,M,00:21:26
+7,Fisher,Calum,HBT,M,00:21:45
+8,Ward,Lawrence,Lasswade AC,MU18,00:21:53
+9,Naylor,Don,HBT,M50,00:22:02
+10,Ward,Dave,HBT,M40,00:22:09
+11,Gilmore,Ian,Carnethy HRC,M,00:22:25
+12,Daff,Euan,Dunbar RC,MU18,00:22:48
+13,Lloyd,Sam,HBT,M,00:22:50
+14,Mussell-Webber,Eric,HBT,M,00:23:02
+15,Crawford,Ewan,HBT,M,00:23:08
+16,Flanagan,Dessie,Carnethy HRC,M40,00:23:14
+17,Grant,Christopher,Unattached,M40,00:23:22
+18,Kitto,Richard,North Berwick Runners,M,00:23:40
+19,Fraser,Andy,North Berwick Runners,M40,00:23:45
+20,Blackbourn,Luke,Carnethy HRC,M,00:23:48
+21,Downie,Chris,Corstorphine AAC,M,00:23:55
+22,Nash,Graham,Carnethy HRC,M50,00:24:05
+23,Mckane,Neil,Hilcheys AC,M,00:24:05
+24,Gornall,Thomas,Team East Lothian,MU18,00:24:17
+25,Ockenden,John,HBT,M,00:24:21
+26,Addie,James,Unattached,M40,00:24:21
+27,Crisp,Will,HBT,M,00:24:25
+28,Strang,Adam,Musselburgh & District AC,M,00:24:25
+29,Cormack,Wade,HBT,M,00:24:33
+30,Cubitt,Isla,Unattached,F,00:24:41
+31,Smith,Gavin,Hbt,M40,00:24:47
+32,Rooney,Clive,Unattached,M40,00:24:53
+33,Ward,Ray,HBT,M40,00:24:56
+34,Thomson,Angus,Thursday Crew,M40,00:24:58
+35,Docherty,Ross,Falkland Trail Runners,M,00:25:01
+36,Greig,Matthe,Good Times RC,M,00:25:01
+37,Reid,Toria,North Berwick Runners,F40,00:25:05
+38,Carr,Kevin,Unattached,M,00:25:08
+39,Fallon,Paul,Unattached,M40,00:25:12
+40,Thin,Jamie,HBT,M50,00:25:15
+41,Lynch,Brendan,Unattached,M,00:25:15
+42,Lamb,Liam,Unattached,M,00:25:28
+43,Slater,Donald,Unattached,M,00:25:28
+44,Ryan,Barry,Unattached,M,00:25:32
+45,Williams,Katie,HBT,F,00:25:34
+46,Ward,David,Unattached,M40,00:25:36
+47,Saxon,James,Unattached,M,00:25:39
+48,Spear,Daniel,Unattached,MU18,00:25:39
+49,Young,Iain,Unattached,M40,00:25:44
+50,Rigg,Paul,Unattached,M40,00:25:45
+51,Harfield,John,North Berwick Runners,M40,00:25:47
+52,Clapperton Surfleet,Ben,Unattached,M40,00:26:04
+53,Tam,Ben,Unattached,M40,00:26:08
+54,Duns,Ross,Unattached,M,00:26:12
+55,Mayers,James,Musselburgh & District AC,M60,00:26:15
+56,Dunbar,Graeme,Carnethy HRC,M50,00:26:16
+57,Tamaillon,Guen,Unattached,M,00:26:20
+58,Slifer,Paul,Musselburgh & District AC,M50,00:26:22
+59,Mcintosh,Shona,HBT,F40,00:26:25
+60,Mccurrach,Andy,East Lothian Triathlon Club,M40,00:26:27
+61,Beaumont,Mark,Thursday Crew,M40,00:26:33
+62,Baird,Alice,Unattached,F,00:26:33
+63,Foy,Mike,Dunbar RC,M50,00:26:36
+64,Strachan,Grant F,Unattached,M40,00:26:43
+65,Gerald,Oscar,Unattached,MU18,00:26:49
+66,O'callaghan,Alan,Vegan Runners UK,M,00:26:50
+67,Brown,Scott,Unattached,M,00:26:50
+68,Ward,Paul,Linlithgow,M40,00:26:57
+69,Tennyson,Timothy,Unattached,M,00:26:58
+70,Bailey,Jack,Unattached,M,00:27:00
+71,Mowbray,Megan,HBT,F50,00:27:07
+72,Nwokoro,Sam,HBT,M,00:27:09
+73,Davies,Damon,Unattached,M,00:27:12
+74,Davis,Zachary,Unattached,M,00:27:14
+75,Lalloo,Yusuf,Unattached,M,00:27:18
+76,Whitwell,Martyn,Edinburgh Frontrunners,M40,00:27:19
+77,Denholm,Linn,Edinburgh AC,M50,00:27:19
+78,Bailey,Michael,Unattached,M,00:27:23
+79,Knox,Rosie,Corstorphine AAC,F,00:27:32
+80,Tweedie,Roy,Musselburgh & District AC,M,00:27:32
+81,Salmond,George,Unattached,M50,00:27:32
+82,Duff,Calum,CDRC,M,00:27:34
+83,Barber,Twig,Falkland Trail Runners,F,00:27:40
+84,Mckiddie,Christopher,Westerlands CCC,M40,00:27:42
+85,Duncanson,Ryan,Unattached,M40,00:27:43
+86,Aitken,Mathew,Lothian Running Club,M,00:27:46
+87,Mcilwraith,Finlay,Unattached,M,00:27:48
+88,Dougal,Richard,HBT,M,00:27:49
+89,Clarke,Shannon,HBT,F,00:27:53
+90,Clouston,Svein,Unattached,M40,00:27:55
+91,Osborne,David,Haddington RC,M50,00:27:56
+92,Baird,Ian,Unattached,M40,00:28:00
+93,Gerald,Isaac,Unattached,MU18,00:28:02
+94,Krikke,Teun,North Berwick Runners,M,00:28:06
+95,Lawson,Fergus,Unattached,MU18,00:28:07
+96,Lawson,Flora,Team East Lothian,FU18,00:28:07
+97,Phillip,Gavin,Edinburgh AC,M50,00:28:13
+98,Pinkus,Julian,Portobello RC,M,00:28:16
+99,Baillie,Lachlan,Team East Lothian,MU18,00:28:17
+100,Peppiette,Andy,Unattached,M,00:28:21
+101,Gilmore,Neil,Carnethy HRC,M60,00:28:22
+102,Umpleby,Richard,Carnethy HRC,M40,00:28:28
+103,Hughes,Duncan,Unattached,M40,00:28:29
+104,Rowland,Ian,East Lothian Orienteers,M60,00:28:30
+105,Williams,Alex,Unattached,M,00:28:35
+106,Ferguson,Adam,Unattached,M,00:28:36
+107,Rigg,Fiona,Unattached,F40,00:28:37
+108,Ostheimer,Mark,HBT,M40,00:28:39
+109,Drysdale,Sean,Portobello RC,M,00:28:45
+110,Kinninmonth,Alex,Carnethy HRC,M40,00:28:45
+111,Keast,Mark,Musselburgh & District AC,M40,00:28:48
+112,Murray,Kevin,Falkland Trail Runners,M50,00:28:52
+113,Johnson,Connor,Unattached,M,00:28:57
+114,Grant,Michael,HBT,M,00:29:02
+115,Darling,Heather,Portobello RC,F,00:29:08
+116,Hilliam,Alex,Portobello RC,M50,00:29:12
+117,Pleasance,Jonathan,Unattached,M40,00:29:14
+118,Kay,David,Unattached,M,00:29:18
+119,Menzies,Graeme,Unattached,M40,00:29:18
+120,Elder,Angus,Unattached,M,00:29:21
+121,Mckenna,Tom,HBT,M,00:29:21
+122,Jellema,Claire,Carnethy HRC,F40,00:29:24
+123,Wastnedge,Lizzie,HBT,F,00:29:28
+124,Kerr,Callum,Unattached,M,00:29:30
+125,Talty,Fergal,Unattached,M,00:29:31
+126,Wehking,Martin,HBT,M,00:29:36
+127,Russell,Sula,Team East Lothian,FU18,00:29:38
+128,Baird,Graham,Unattached,M40,00:29:44
+129,Turnbull,Lana,Lothian Running Club,F,00:29:45
+130,Curtis,Lee,Haddington RC,M50,00:29:47
+131,Newton,Chris,Unattached,M40,00:29:47
+132,Saunders,Rory,Unattached,M,00:29:47
+133,Rock,Aaron,Unattached,M40,00:29:48
+134,Stable,Charles,Musselburgh & District AC,M50,00:29:50
+135,Sheldrick,Andrew,Dunbar RC,M50,00:29:53
+136,White,Vicki,HBT,F40,00:29:56
+137,Richardson,Finlay,Unattached,M,00:29:57
+138,Mccashin,Nick,North Berwick Runners,M,00:30:00
+139,Lennie,Elliot,Unattached,M,00:30:01
+140,Hutchison,Lee,Portobello RC,M,00:30:06
+141,Murray,James,Unattached,M,00:30:09
+142,Burt,Bobby,Unattached,M40,00:30:09
+143,Robson,Sandy,Unattached,M40,00:30:12
+144,Kenrick,Thom,SMBRC,M40,00:30:13
+145,Langlands,Gemma,Unattached,F40,00:30:14
+146,Edmondson,Duncan,Unattached,M50,00:30:25
+147,Tait,Amy,Falkland Trail Runners,F,00:30:27
+148,Dunk,Helen,Carnethy HRC,F40,00:30:27
+149,Blackmore,Lorna,HBT,F,00:30:28
+150,Halliday,Rob,Unattached,M40,00:30:30
+151,Suttie,Philip,Falkland Trail Runners,M40,00:30:32
+152,Macleod,Callum,Unattached,M,00:30:40
+153,Monteith,Rose,Unattached,F,00:30:44
+154,Long,Chris,Unattached,M,00:30:44
+155,Presslie,Emily,Unattached,F,00:30:46
+156,Wallace,Jj,Unattached,M,00:30:47
+157,Clark,Ellen,Unattached,F,00:30:50
+158,Murdoch,Mike,Falkland Trail Runners,M40,00:30:51
+159,Lennie,Drew,Carnethy HRC,M60,00:30:52
+160,Mcdonnell,Clare,Carnethy HRC,F,00:30:55
+161,Millar,Gary,Unattached,M,00:30:56
+162,Clayton,Ben,Unattached,M40,00:30:57
+163,Wood,Darrel,Unattached,M,00:31:06
+164,Mcpartland,Frank,Haddington RC,M60,00:31:08
+165,Cubitt,Joanne,Unattached,F,00:31:12
+166,Richardson,Neil,Unattached,M60,00:31:18
+167,Ward,Claire,HBT,F40,00:31:21
+168,Mclaughlin,Keith,Unattached,M40,00:31:22
+169,Tinniswood,Iain,Unattached,M40,00:31:32
+170,Curtis,Ashley,Unattached,M,00:31:34
+171,Hylton,Sarah,HBT,F,00:31:38
+172,Spear,David,Unattached,M60,00:31:45
+173,Cochrane,Charlotte,Good Times RC,F,00:31:48
+174,Mclaren,Jamie,Unattached,MU18,00:31:50
+175,Malcolm-smith,Mike,Musselburgh & District AC,M50,00:31:50
+176,Mounce,Stuart,HBT,M40,00:31:59
+177,Hodkinson,Peter,Carnethy HRC,M,00:32:03
+178,Rogers,James,HBT,M,00:32:08
+179,Ross,Fiona,Unattached,F,00:32:08
+180,Elliott,Jane,Lauderdale Limpers,F50,00:32:12
+181,Barrow,Ross,Unattached,M,00:32:15
+182,Allen,Gina,Gala Harriers,F40,00:32:17
+183,Nightingale,David,Gala Harriers,M60,00:32:19
+184,Laurie Pile,Douglas,Unattached,M40,00:32:21
+185,Fortune,Carole,Carnethy HRC,F60,00:32:29
+186,Watters,Katie,Unattached,F40,00:32:32
+187,Philp,Tracy,Portobello RC,F50,00:32:35
+188,Willetts,Ben,Unattached,M,00:32:37
+189,Wallace,Sandy,Haddington RC,M70,00:32:39
+190,Craig,Anne,Carnethy HRC,F60,00:32:44
+191,Pratt,Finlay,Unattached,M,00:32:47
+192,Millar,Ben,Unattached,MU18,00:32:47
+193,Rudland,Steven,HBT,M60,00:32:48
+194,Mcbean,Peter,Unattached,M50,00:32:50
+195,Lennie,Sam,Unattached,M,00:32:51
+196,Lockie,Paul,Teviotdale Harriers,M50,00:32:55
+197,Paton,Pauline,Unattached,F50,00:33:00
+198,Burbidge,Tom,Unattached,M50,00:33:04
+199,Porter,Chris,Unattached,M40,00:33:05
+200,Mcgrane,Damian,Unattached,M,00:33:11
+201,Murray,Fiona,Unattached,F,00:33:14
+202,Brown,Steve,Unattached,M40,00:33:17
+203,Simpson,David,Unattached,M40,00:33:19
+204,Mckinley,Norrie,Haddington RC,M50,00:33:19
+205,Ross,Eleanor,Portobello RC,F,00:33:22
+206,Fleming,William,Unattached,M,00:33:27
+207,Cowie,Cameron,Unattached,M,00:33:35
+208,Freeman,Joe,Unattached,M40,00:33:38
+209,Thompson,Jo,North Berwick Runners,F,00:33:38
+210,Hollywell,Sarah,HBT,F,00:33:39
+211,Knight,Melissa,Unattached,F40,00:33:39
+212,Nash,Nicola,Carnethy HRC,F50,00:33:42
+213,Davies,Morgen,Unattached,FU18,00:33:43
+214,Watson,Robin,Unattached,M50,00:33:45
+215,Mason,Liam,Falkland Trail Runners,M40,00:33:46
+216,Dearnley,Linda,North Berwick Runners,F40,00:33:47
+217,Bridgeford,Ailsa,HBT,F,00:33:47
+218,Richardson,Ross,Unattached,M60,00:33:48
+219,Keast,Karen,Portobello RC,F40,00:33:49
+220,Walls,Imogen,HBT,F,00:33:55
+221,Mclaughlin,Phil,Falkland Trail Runners,M50,00:33:56
+222,Dale,Tommy,Unattached,M40,00:33:57
+223,Mcwhinnie,Janet,Unattached,F50,00:34:00
+224,Sisley,Lizzy,HBT,F,00:34:01
+225,Cessford,Lee,Falkland Trail Runners,M40,00:34:03
+226,Lahaise,Alan,Unattached,M60,00:34:07
+227,Gordon,Jennifer,Unattached,F40,00:34:09
+228,Clark,Paul,Unattached,M40,00:34:15
+229,Macgregor,Gavin,Unattached,M,00:34:17
+230,Brown,Jasmine,HBT,F,00:34:19
+231,Lawson,Douglas,Unattached,M40,00:34:32
+232,Campbell,Lindsay,Unattached,F40,00:34:42
+233,Haddow,Andrew,Unattached,M,00:34:42
+234,Gallacher,Caroline,Unattached,F,00:34:54
+235,Pendreigh,Brian,hbt,M60,00:35:04
+236,Howie,Brian,Carnethy HRC,M70,00:35:09
+237,Laurie Pile,Penny,Unattached,F40,00:35:15
+238,Broadley,Charlotte,HBT,F,00:35:18
+239,Porter,Christina,Unattached,F,00:35:19
+240,Sadaj,Kasia,Vegan Runners UK,F40,00:35:21
+241,Peyton,Lee,Unattached,M40,00:35:24
+242,Owens,Jenni,West Edinburgh RC,F40,00:35:25
+243,Selmes,Derek,North Berwick Runners,M50,00:35:37
+244,Brack,Kat,Musselburgh & District AC,F,00:35:43
+245,Mcadam,Sarah,Portobello RC,F40,00:35:45
+246,Jones,Neil,Haddington RC,M60,00:35:54
+247,Mckinney,Ross,Unattached,M40,00:35:59
+248,Wheatley,Emma,Unattached,F40,00:36:01
+249,Smalley,Julian,Unattached,M,00:36:02
+250,Tennant,Hannah,EH3 Milers,F,00:36:05
+251,Pease,David,Falkland Trail Runners,M60,00:36:09
+252,Dudgeon,Sandy,Unattached,M60,00:36:09
+253,Yates,Robbie,Portobello RC,M50,00:36:11
+254,Partington,Liz,Unattached,F50,00:36:14
+255,Ford,Rosie,Unattached,F,00:36:15
+256,Gallagher,Nancy,Unattached,FU18,00:36:31
+257,Cowan,Elizabeth,Unattached,F40,00:36:36
+258,Tar,Kata,HBT,F40,00:36:42
+259,Hailey,Verity,HBT,F40,00:36:42
+260,Dudgeon,Jennifer,Unattached,F60,00:36:47
+261,Nichols,Catrin,HBT,F,00:36:48
+262,Gilbert,Sophie,Unattached,F,00:36:49
+263,Ferguson,Ross,Unattached,M40,00:36:55
+264,Davies,Huw,Unattached,M50,00:36:58
+265,Mccarthy,Connor,Unattached,MU18,00:37:03
+266,Mckay,Alex,Unattached,M,00:37:04
+267,Dunn,Jennifer,HBT,F,00:37:16
+268,Macnair,John,Unattached,M70,00:37:22
+269,Fleming,Rachel,Unattached,F,00:37:32
+270,Adams,Aaron,Unattached,M,00:37:34
+271,Cowan,Charlotte,Unattached,F,00:37:34
+272,Fraser,Hannah,Unattached,F,00:37:57
+273,Mccarthy,Kevin,North Berwick Runners,M50,00:38:01
+274,Gibson,Kevin,Unattached,M50,00:38:21
+275,Freedman,Nicky,Harmeny AC,F50,00:38:28
+276,Mcadam,Pauline,Falkland Trail Runners,F60,00:39:02
+277,May,Timothy,Unattached,M60,00:39:19
+278,Dickson,John,Runners are smilers,M40,00:39:21
+279,Mackenzie,Fiona,Edinburgh Running Network,F60,00:39:26
+280,Reville,Orla,Unattached,F,00:39:47
+281,Fleming,Emma,Unattached,F40,00:39:50
+282,Richardson,Sandra,Unattached,F50,00:40:03
+283,Leslie,Bryan,Unattached,M50,00:40:23
+284,Dale,Isla,Haddington RC,FU18,00:40:45
+285,Nimmo,Ailish,Unattached,F,00:40:59
+286,Watt,Murray,Unattached,M40,00:41:04
+287,Lawson,Ginny,Unattached,F40,00:41:34
+288,Carlin,Graham,Unattached,M40,00:41:38
+289,Pendreigh,Catherine,HBT,F,00:41:39
+290,Lamb,Meghan,Unattached,F,00:42:04
+291,Grant,Fionna,Unattached,F,00:42:17
+292,Wall,Dick,HBT,M60,00:44:35
+293,Mcilwraith,Neil,Unattached,M60,00:44:50
+294,Robertson,Laura,Falkland Trail Runners,F50,00:47:36
+295,Cook,Jacqui,Falkland Trail Runners,F40,00:47:51
+296,Birch,Frank,Lauderdale Limpers,M80,00:50:49
+297,Taggart,Gerry,Malvern Buzzards,M80,01:00:03

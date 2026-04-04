@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Davis,Andrew,Ochils,M40,00:19:52
 2,Harris,Tom,Fife AC,M,00:20:00
 3,Gard-Storry,Bobby,Ochils,M,00:21:03
@@ -38,15 +38,15 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Duncan,David,Ochils,M50,00:29:14
 38,Smith,Colin,Glenrothes Tri Club,M40,00:29:16
 39,Miller,Jonathan,Carnegie Harriers,M,00:29:22
-40,Cessford,Lee,Falkland TR ,M40,00:29:25
+40,Cessford,Lee,Falkland TR,M40,00:29:25
 41,McMillan,Paul,Unattached,M40,00:29:28
 42,Wilson,Colin,Lomond,M60,00:30:14
 43,Landels,Brian,Lomond,M50,00:30:40
 44,Ritchie,Hilary,Fife AC,F50,00:30:42
 45,Stevenson,Tyler,Lomond,M,00:30:48
-46,Haddow,Carolyn,Falkland TR ,F50,00:31:36
+46,Haddow,Carolyn,Falkland TR,F50,00:31:36
 47,Lindsay,Raymond,Unattached,M50,00:31:52
-48,Wallace,Paul,Falkland TR ,M40,00:32:35
+48,Wallace,Paul,Falkland TR,M40,00:32:35
 49,Kemp,Sadie,Penicuik Harriers,F40,00:33:02
 50,Scott,Jocelyn,Fife AC,F60,00:33:04
 51,Lopez,Gillian,Kinross RR,F50,00:33:06

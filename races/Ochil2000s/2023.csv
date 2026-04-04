@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Jones,Kris,Dundee Hawkhill,M,02:47:44
 2,Dry,Dan,Shettleston Harriers,M,03:03:01
 3,Paterson,Stuart,RTC Warriors,M,03:03:07
@@ -89,7 +89,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 88,Bowman,Clive,Perth Road Runners,M50,04:37:48
 89,Donnelly,John,Ochil hill runners,M50,04:38:59
 90,Ingram,Richard,Cosmics,M50,04:41:25
-91,Mayers,James,Musselburgh ,M60,04:42:30
+91,Mayers,James,Musselburgh,M60,04:42:30
 92,Rennie,Willie,PH Racing Club,M55,04:42:45
 93,Findlay-Robinson,Rachel,Westerlands CCC,F,04:43:29
 94,Wilkinson,Owen,Carnethy HRC,M,04:43:41

@@ -1,0 +1,89 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Simpson,Robbie,Deeside Runners,M,02:47:01
+2,Paterson,Stuart,Ochil Hill Runners,M,03:02:45
+3,Mccomb,Lewis,Central AC,M,03:02:52
+4,Stewart,Gregor,Westerlands CCC,M,03:09:02
+5,Wilkins,Robin,Ochil Hill Runners,M40,03:09:10
+6,Taylor,Jack,Ochil Hill Runners,M,03:12:03
+7,Thurlbeck,Alastair,Unattached,M,03:15:19
+8,Insausti Aranega,Victor,Ochil Hill Runners,M,03:16:44
+9,Graves,Catriona,Highland Hill Runners,F,03:20:07
+10,Martin,Craig,Ochil Hill Runners,M,03:25:09
+11,Bowers,William,Ochil Hill Runners,M,03:26:27
+12,Mclaren,Jamie,Unattached,M,03:28:39
+13,Mather,Phil,Lonsdale Fell Runners,M40,03:30:52
+14,Watney,Rebecca,Unattached,F,03:33:15
+15,Goddard,Jamie,Forth Valley Orienteers,M,03:41:13
+16,Sharkey,Drew,Carnethy HRC,M50,03:41:36
+17,Blaikie,Robert,Westerlands CCC,M,03:42:30
+18,Wheeler,Gareth,Carnethy HRC,M,03:43:05
+19,Turnbull,Jonathan,Strathearn Harriers,M40,03:43:58
+20,Gill,Joshua,Victory AC,M,03:44:01
+21,Reid,Jim,Strathearn Harriers,M40,03:45:44
+22,Brown,Andrew,HBT,M,03:45:55
+23,Corcoran,David,Unattached,M40,03:47:58
+24,Penfold,Dean,Ochil Hill Runners,M,03:48:15
+25,McGill,Alison,Kinross Road Runners,F40,03:48:38
+26,Valters,Declan,Carnethy HRC,M,03:50:09
+27,Owen,Rob,Carnethy HRC,M,03:50:31
+28,Vasepuru,Tom,Ochil Hill Runners,M,03:57:57
+29,Daley,Alex,Ochil Hill Runners,M,04:00:16
+30,Hunter,Niamh,Carnethy HRC,F,04:00:42
+31,Goddard,Roger,Central AC,M50,04:00:54
+32,Robertson,Shona,Shettleston Harriers,F50,04:00:57
+33,Hooper,Mark,Carnethy HRC,M,04:06:16
+34,McKinnon,Sam,Ochil Hill Runners,M,04:06:56
+35,Comber,Ayron,Deeside Runners,M50,04:07:00
+36,McMamara,Daisy,Arran Runners,F,04:11:12
+37,Smith,John,Lomond Hill Runners,M50,04:15:58
+38,Dobson,Jacob,Unattached,M,04:16:36
+39,Dijkman,Naomi,Lauderdale Limpers,F40,04:17:01
+40,Poulter,Alwyn,Westerlands CCC,M,04:17:03
+41,Fletcher,Roberta,Milburn Harriers,F,04:19:40
+42,Holland,Lee,Carnegie Harriers,M50,04:22:45
+43,Caithness,Stewart,Unattached,M40,04:26:40
+44,Auchterlonie,Katie,Unattached,F,04:27:00
+45,Rennie,Willie,PH Racing Club,M50,04:28:43
+46,Menu,Sebastien,Carnethy HRC,M,04:29:47
+47,Davies,Chris,Saddleworth Runners Club,M70,04:30:11
+48,Reid,Niall,Unattached,M,04:34:52
+49,Donnelly,John,Ochil Hill Runners,M50,04:35:03
+50,Dawson,Nicola,Westerlands CCC,F40,04:36:15
+51,Sanders,Julia,Carnethy HRC,F50,04:39:25
+52,MacInnes,Donald,Unattached,M50,04:39:29
+53,Pryde,Gordon,Lomond Hill Runners,M60,04:40:36
+54,Walling,Katie,Moorfoot Runners,F,04:43:18
+55,Meldrum,Alasdair,Ayr Seaforth AC,M50,04:44:16
+56,Oshinowo,Matthew,Unattached,M,04:45:09
+57,Dean,Hazel,Ochil Hill Runners,F60,04:45:11
+58,Schneider,Mike,Unattached,M60,04:46:39
+59,Caldwell,Christine,Wee County Harriers,F50,04:47:26
+60,Getley,Robert,Lomond Hill Runners,M,04:51:33
+61,Southworth,Cathy,Carnethy HRC,F50,04:52:22
+62,Rosa,Lucy,Ochil Hill Runners,F,04:52:25
+63,Ball,Duncan,Penicuik Harriers,M60,04:57:06
+64,Ross,Kyle,Unattached,M,04:57:25
+65,Furse,Chris,Westerlands CCC,M50,04:59:59
+66,Brown,Donald,Lomond Hill Runners,M50,05:00:19
+67,Spruženiece,Liene,Westerlands CCC,F40,05:02:38
+68,Thompson,Fabienne,Lomond Hill Runners,F50,05:03:59
+69,Mcstay,Elsbeth,Unattached,F40,05:04:02
+70,Ratcliffe,Sasha,Ayr Seaforth AC,F40,05:08:15
+71,Vincett,Anna,Westerlands CCC,F,05:08:18
+72,Ramsay,Kirsten,Unattached,F50,05:08:29
+73,Purba,Tarun,Unattached,M40,05:08:43
+74,Kubosz,Krzysztof,Ochil Hill Runners,M40,05:16:56
+75,Donnelly,John,Westerlands CCC,M60,05:18:35
+76,Adams,Tom,Ochil Hill Runners,M40,05:24:28
+77,Cable,Linsey,Hartfell Hill Runners.,F40,05:33:54
+78,Tooby,Hugh,Ochil Hill Runners,M60,05:35:23
+79,Kuhlwilm,James,Unattached,M,05:47:44
+80,Cox,Lynne,Westerlands CCC,F40,05:48:07
+81,Beveridge,Rebecca,Westerlands CCC,F,05:51:06
+82,Ansell,Rick,Tring RC,M60,05:51:37
+83,Blair,Kyle,Unattached,M,05:59:55
+84,Auchterlonie,Jimmie,Unattached,M60,06:03:01
+85,Wilde,Daniel,Unattached,M,06:03:03
+86,Leech,John,Dallam Running Club,M60,06:18:50
+87,Calvert,Emilie,Penicuik Harriers,F,06:22:33
+88,Pedrick,Rhona,Ochil Hill Runners,F40,06:24:18

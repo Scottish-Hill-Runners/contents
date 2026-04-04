@@ -1,0 +1,89 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Wright,Angus,Edinburgh Uni H&H,MJ,00:40:37
+2,Taylor,Rowan,Lasswade AC,MJ,00:42:29
+3,Mcinally,Ralph,Strathearn Harriers,M,00:43:03
+4,Wright,Andrew,PH Racing Club,M50,00:45:07
+5,Van Rensburg,Ruan,Fife AC,M,00:46:14
+6,Field,Zico,Gala Harriers,MJ,00:46:40
+7,Baxter,Grant,Ochil Hill Runners,M50,00:47:49
+8,Gough,Tom,Fife AC,M,00:48:22
+9,Howorth,Charles,Stonehaven RC,M40,00:49:39
+10,Wilson,Craig,Unattached,M,00:49:50
+11,Runner,Unknown,Unattached,M,00:50:15
+12,Logan,Ian,Linlithgow AC,M40,00:51:09
+13,Geddes,Blair,Carnegie Harriers,M,00:51:16
+14,Reily,Alex,Kinross Road Runners,M,00:51:38
+15,McCartney,Cameron,Ochil Hill Runners,M,00:51:52
+16,Young,Ross,Anster Haddies,M,00:51:54
+17,Van Rensburg,Nico,Unattached,M,00:52:02
+18,Mackinnon,Gordon,Lochaber AC,M40,00:52:27
+19,Johnson,Stephanie,Kinross Road Runners,F,00:52:36
+20,Newton,Matt,Kinross Road Runners,M50,00:52:45
+21,Davis,Adrian,Lomond Hill Runners,M60,00:53:35
+22,Priestley,Alex,Falkland Trail Runners,M,00:54:09
+23,Jack,Ewan,Ochil Hill Runners,M50,00:54:10
+24,Paterson,Isla,Gala Harriers,FJ,00:54:17
+25,Barber,Twig,Falkland Trail Runners,F,00:54:45
+26,Gilbertson,Jenny,Falkland Trail Runners,F,00:55:10
+27,Dickson,Stephen,Fife AC,M40,00:55:14
+28,Van Rensburg,Hendrik,Fife AC,M50,00:55:30
+29,McGill,Alison,Fife AC,F40,00:55:55
+30,Coleman,Gwilym,Unattached,M,00:56:00
+31,Janowski,Krzysztof,Unattached,M,00:56:07
+32,Rennie,Willie,PH Racing Club,M50,00:57:05
+33,Phimister,Angus,Unattached,M,00:57:31
+34,Weir,Jonathan,Unattached,M40,00:57:45
+35,Rainey,Tom,Anster Haddies,M40,00:58:55
+36,Getley,Robert,Lomond Hill Runners,M,00:59:18
+37,Agnew,David,Dunfermline T & F Club,M40,00:59:40
+38,Turner,Judith,PH Racing Club,F50,00:59:52
+39,Mackenzie,Angela,Strathearn Harriers,F40,01:00:15
+40,Lawson,Doug,Strathearn Harriers,M50,01:00:16
+41,Davie,Barry,Carnegie Harriers,M40,01:00:27
+42,Gallagher,Andrew,Strathearn Harriers,M60,01:00:30
+43,Tait,Amy,Falkland Trail Runners,F,01:00:37
+44,Pryde,Gordon,Lomond Hill Runners,M60,01:01:01
+45,Kalejs,Atis,Unattached,M50,01:01:17
+46,Johns,Andy,Kinross Road Runners,M50,01:01:46
+47,Callaghan,Fiona,Dundee Road Runners,F,01:01:55
+48,Briggs,Charlotte,Carnegie Harriers,F,01:02:26
+49,Milne,Garry,Unattached,M50,01:02:52
+50,Stephen,Lynne,Falkland Trail Runners,F60,01:03:01
+51,Fairfield,Kenny,Carnegie Harriers,M50,01:03:25
+52,McNaughton,Ross,Strathearn Harriers,M40,01:03:45
+53,Cunningham,Alison,Strathearn Harriers,F60,01:03:49
+54,Smith,Derek,Carnegie Harriers,M40,01:04:57
+55,Young,Samuel,Unattached,M,01:06:11
+56,Szafarz,Kasia,Kirkcaldy Wizards,F40,01:06:30
+57,Neillands,Stuart,Strathearn Harriers,M60,01:06:49
+58,Munro,Frazer,Kinross Road Runners,M50,01:07:04
+59,Atkinson,Michael,Kinross Road Runners,M,01:09:08
+60,Wills,Robert,Unattached,M50,01:09:33
+61,Summers,Robert,Unattached,M50,01:09:40
+62,Philp,Tracy,Portobello RC,F50,01:09:52
+63,Burnett,Isobel,Carnegie Harriers,F60,01:10:25
+64,Ritchie,Karen,Kinross Road Runners,F,01:10:32
+65,Lopez,Gillian,Kinross Road Runners,F60,01:11:30
+66,Reynolds,Lesley,Carnegie Harriers,F50,01:11:35
+67,Mackay,David,Forfar Road Runners,M50,01:12:36
+68,Cessford,Lee,Falkland Trail Runners,M40,01:12:51
+69,Pease,David,Falkland Trail Runners,M60,01:12:51
+70,Marshall,Sarah,Carnegie Harriers,F40,01:13:53
+71,MacSween,Alastair,Wee County Harriers,M50,01:15:05
+72,Hutchison,Kerri,Wee County Harriers,F40,01:15:21
+73,Gilligan,Amy,Dundee Road Runners,F,01:16:15
+74,Fraser,Lucy,Kinross Road Runners,F40,01:18:12
+75,Milne,Ronald,Forfar Road Runners,M60,01:20:29
+76,Milne,Elizabeth,Forfar Road Runners,F50,01:21:41
+77,Milne,Gemma,Unattached,F50,01:21:43
+78,Macintyre,Anne,Kinross Road Runners,F60,01:24:06
+79,McAdam,Pauline,Falkland Trail Runners,F60,01:25:17
+80,Cook,Douglas,Unattached,M40,01:26:58
+81,Lynch,Shelby,Carnegie Harriers,F,01:27:58
+82,Lopez,Hannah,Kinross Road Runners,F,01:31:09
+83,MacPherson,Allison,Falkland Trail Runners,F40,01:31:48
+84,Balgowan,June,Falkland Trail Runners,F50,01:31:48
+85,Smithard,Phil,Carnegie Harriers,M70,01:32:59
+86,Turnbull,Wendy,Kinross Road Runners,F50,01:34:38
+87,Ferreira,Fernando,Brazil Running,M40,01:36:14
+88,Young,Simone,Kinross Road Runners,F50,01:37:59

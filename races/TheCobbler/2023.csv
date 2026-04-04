@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Thornton,Alistair,Ochil Hill runners,M,00:49:17
 2,Campbell,Alasdair,Cambuslang Harriers,M,00:50:38
 3,Morgan,Tim,Carnethy,M,00:52.27
@@ -12,7 +12,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Gillespie,Gregor,Unattached,M,00:58:50
 12,Morris,Ross,Westerlands CCC,M,00:59:05
 13,Luetchford,Alex,HBT,M,00:59:41
-14,Farrell,Joshua,Lomond Swim & Tri ,M,01:00:02
+14,Farrell,Joshua,Lomond Swim & Tri,M,01:00:02
 15,Campbell,Garry,Lochaber AC,M,01:00:25
 16,Allsop,David,Kirkintilloch Olympians,M50,01:00:27
 17,Drysdale,Simon,Lochaber AC,M,01:00:33
@@ -26,7 +26,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Brennan,Oisin,Shettleston Harriers,M,01:05:16
 26,MacInnes,Alasdair,Westerlands CCC,M,01:06:58
 27,Duncan,Eric,Highland Hill Runners,M50,01:07:06
-28,Mayers,James,Musselburgh ,M60,01:07:08
+28,Mayers,James,Musselburgh,M60,01:07:08
 29,Wilson,Emma,Garscube Harriers,F,01:07:31
 30,Harkin,Richie,Ayrshire Trail Runners,M,01:07:45
 31,Callander,Alastair,Westerlands CCC,M,01:07:47
@@ -55,7 +55,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Hamilton,Tilly,Carnethy,F,01:19:03
 55,Shepherd,Rozy,Carnethy,F,01:20:05
 56,Quinn,John,Westerlands CCC,M60,01:20:56
-57,Pugh,Roderick,Kilmarnock Harriers ,M60,01:21:31
+57,Pugh,Roderick,Kilmarnock Harriers,M60,01:21:31
 58,Johnston,Stephen,Milburn Harriers,M60,01:21:46
 59,Johnson,Laura,Unattached,F,01:22:25
 60,Majury,Mark,Helensburgh AAC,M,01:23:16

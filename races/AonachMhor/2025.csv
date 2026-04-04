@@ -1,0 +1,120 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Downie,Robin,Lochaber AC,M,00:25:00
+2,Oliver,Huw,Lochaber AC,M,00:25:21
+3,Barrington,Andrew,Lochaber AC,M,00:25:43
+4,Beaven,Alexander,Highland Hill Runners,M,00:25:55
+5,Dowd,Rory,Lochaber AC,M,00:26:11
+6,Cameron,Hamish,Hunters Bog Trotters,M,00:26:27
+7,Marks,Jonathon,Strathearn Harriers,M,00:26:34
+8,Taylor,Ewan,PH Racing Club,M40,00:26:41
+9,MacKay,Ryan,Lochaber AC,M,00:26:48
+10,Crutchfield,Stuart,Westerlands CCC,M40,00:27:10
+11,Harris,James,Ambleside AC,M,00:27:48
+12,Llewellyn,Andrew,Lochaber AC,M,00:28:41
+13,Tedham,James,Lochaber AC,M40,00:29:01
+14,Smith,Tom,Lochaber AC,M50,00:29:10
+15,McInally,Ralph,Strathearn Harriers,M,00:29:19
+16,Anthony,Alasdair,Drumguish D & J C,M40,00:29:23
+17,Dent,Alexander,Lochaber AC,M,00:29:34
+18,Gorman,Manny,Drumguish D & J C,M50,00:29:41
+19,Nicholson,James,Highland Hill Runners,M,00:29:48
+20,Hodgson,Sarah,Highland Hill Runners,F,00:29:52
+21,Foggo,Iain,Lochaber AC,M,00:29:58
+22,Quigg,Darren,Lochaber AC,M,00:30:06
+23,Campbell,Garry,Lochaber AC,M,00:30:09
+24,Warlow,Oli,Lochaber AC,M40,00:30:39
+25,Critchfield,Alex,Lochaber AC,M,00:30:59
+26,Rowe,Andrew,Drumguish D & J C,M40,00:31:16
+27,Blundy,Jack,Unattached,M,00:31:33
+28,McInally,Hanna,Strathearn Harriers,F,00:31:42
+29,Cooper,James,Lochaber AC,M,00:31:45
+30,Loudon,Cameron,Lochaber AC,M,00:31:48
+31,Macdonald,Steve,Lochaber AC,M40,00:31:59
+32,Worsley,Steven,Inverness Harriers,M60,00:32:38
+33,Williams,David,Lochaber AC,M,00:32:39
+34,Normand,Will,Carnethy HRC,M40,00:32:42
+35,Farnell,Hazel,Lochaber AC,F,00:32:45
+36,Malcolm,Stuart,Drumguish D & J C,M50,00:32:51
+37,Wilson,Stewart,Highland Hill Runners,M50,00:33:08
+38,Hopkins,Claire,Drumguish D & J C,F40,00:33:12
+39,Oakley,Kirstin,Lochaber AC,F,00:33:19
+40,Du Plessis,Christoff,Lochaber AC,M,00:33:34
+41,Cameron,Fraser,Lochaber AC,M,00:33:36
+42,Trainer,William,Unattached,M,00:33:39
+43,MacRae,Olivia,Lochaber AC,F40,00:33:42
+44,Brown,Steven,Lochaber AC,M40,00:33:53
+45,Smith,Alan,Drumguish D & J C,M60,00:34:07
+46,Forster,Nicola,Lochaber AC,F50,00:34:23
+47,Pooleman,Ian,Lochaber AC,M,00:34:30
+48,Lamont,Donald,Lochaber AC,M40,00:34:37
+49,Wishart,Bronagh,Lochaber AC,F,00:34:45
+50,Meney,Colin,Lochaber AC,M40,00:34:48
+51,MacDonald,Sarah,Lochaber AC,F,00:34:57
+52,Walter,Lisette,Lochaber AC,F40,00:35:02
+53,Simpson,Geoff,Hunters Bog Trotters,M60,00:35:14
+54,Gray,Euan,Lochaber AC,M,00:35:15
+55,Jones,Sam,Unattached,M40,00:35:17
+56,Mackie,Eugene,Lochaber AC,M,00:35:33
+57,Tot,Barna,Lochaber AC,M,00:36:13
+58,Craig Jnr,Andrew,Unattached,M,00:36:14
+59,Rodger,Emma,Lochaber AC,F40,00:36:26
+60,Cohen,Nadine,Lochaber AC,F,00:36:35
+61,Blackhall,Amanda,Lochaber AC,F50,00:36:47
+62,Shaw,Trevor,Lochtayside,M60,00:36:49
+63,Holgate,Emma,Drumguish D & J C,F40,00:36:55
+64,MacBeath,Niall,Lochaber AC,M50,00:37:04
+65,McDonnell,Clare,Carnethy HRC,F,00:37:05
+66,Forster,Damian,Lochaber AC,M50,00:37:08
+67,Clark,David,Garioch Roadrunners,M50,00:37:20
+68,Applegate,Ken,Unattached,M40,00:37:26
+69,Ellison,Ross,Lochaber AC,M,00:37:31
+70,Meldrum,Marie,Lochaber AC,F40,00:37:44
+71,Hamilton,Iona,Unattached,F,00:37:50
+72,MacKenzie,Ross,Lochaber AC,M,00:38:01
+73,Tant,Clive,Lochaber AC,M60,00:38:43
+74,Kennedy,Michaela,Lochaber AC,F,00:39:16
+75,Kennedy,Ali,Lochaber AC,M60,00:39:18
+76,Craig,Andy,Unattached,M50,00:39:29
+77,Currie,Alice,Lochaber AC,F,00:39:30
+78,Critchfield,Amy,Lochaber AC,F,00:39:30
+79,Clark,Lesley,Unattached,F50,00:39:32
+80,McIntosh,Jim,Lochaber AC,M60,00:39:37
+81,Martin,Kenneth,Lochaber AC,M,00:39:38
+82,Macniven,Craig,Unattached,M,00:39:43
+83,Douglas,George,Westerlands CCC,M50,00:40:02
+84,Munro,David,Lochaber AC,M60,00:40:33
+85,Denny,Colin,Lochaber AC,M60,00:41:11
+86,Gunn,Tarquin,Unattached,M50,00:41:12
+87,MacGillivray,Shelley,Lochaber AC,F,00:41:15
+88,Williams,Non,Lochaber AC,F,00:41:16
+89,Wood,Darrel,Carnethy HRC,M,00:41:17
+90,Gamble,Adam,Unattached,M,00:41:17
+91,Anderson,Zoe,Unattached,F40,00:41:32
+92,Byrne,Sara,Lochaber AC,F50,00:41:55
+93,McIntyre,Kenneth,Lochaber AC,M60,00:41:56
+94,Pooleman,Ailsa,Lochaber AC,F,00:42:19
+95,Hayes,John,Unattached,M,00:42:48
+96,Springett,Geraldine,Lochaber AC,F40,00:43:39
+97,Wilson,Joan,Lomonds,F60,00:44:38
+98,Strljic,Anamarija,Lochaber AC,F,00:44:53
+99,Forster,Katy,Lochtayside,F50,00:45:01
+100,Clay,Penny,Unattached,F50,00:45:17
+101,Du Plessis,Lieze,Unattached,F,00:45:24
+102,Carr,Kayleigh,Unattached,F,00:45:49
+103,Moss,Andrew,Lochaber AC,M,00:46:12
+104,Barjaktaric,Dominik,Unattached,M,00:46:17
+105,Oliver,David,Deeside Runners,M60,00:47:45
+106,Rowe,Madeleine,Cairngorm Runners,F,00:47:54
+107,Wilson,Colin,Lomonds,M60,00:48:15
+108,Ellison,Nadia,Lochaber AC,F,00:48:35
+109,Oliver,Jane,Deeside Runners,F60,00:49:06
+110,Stewart,Alison,Unattached,F60,00:49:29
+111,Ness,Joanna,Lochaber AC,F60,00:50:07
+112,MacDonald,Ashley,Lochaber AC,F,00:50:14
+113,Paul,Brenda,Drumguish D & J C,F40,00:50:37
+114,Douglas,Lorna,Unattached,F50,00:51:00
+115,Flux,Hydi,Unattached,F50,00:51:40
+116,Dickson,John,Unattached,M40,00:51:56
+117,Pooleman,Mark,Unattached,M,00:53:06
+118,Howarth,Joss,Unattached,M,00:53:20
+119,MacDonald,William,Lochaber AC,M60,00:55:02

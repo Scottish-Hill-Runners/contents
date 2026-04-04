@@ -18,8 +18,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 17,Van Rensburg,Rhona,Fife AC,F40,00:54:42
 18,Wallace,Cameron,Ochil Hill Runners,M,00:54:44
 19,Blaikie,Robert,Unattached,M,00:55:07
-20,Vassallo,Alexander,Dundee Hawkhill ,M,00:55:29
-21,Vassallo,Christian,Dundee Hawkhill ,M,00:55:38
+20,Vassallo,Alexander,Dundee Hawkhill,M,00:55:29
+21,Vassallo,Christian,Dundee Hawkhill,M,00:55:38
 22,Milne,Garry,Unattached,M40,00:56:38
 23,Holland,Lee,Carnegie Harriers,M50,00:56:40
 24,Dick,Paul,Pitreavie PAAC,M40,00:56:44
@@ -32,7 +32,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 31,Roberts,Clive,Unattached,M60,00:58:41
 32,Woodhead,Charles,Perth Road Runners,M50,00:59:18
 33,Gatherer,Lynn,Perth Road Runners,F40,00:59:52
-34,Matthews,Catherine,Dundee Hawkhill ,F40,00:59:54
+34,Matthews,Catherine,Dundee Hawkhill,F40,00:59:54
 35,Anderson,Laurie,Lomond Hill Runners,M60,01:01:38
 36,Hamilton,Erni,Perth Road Runners,F50,01:01:57
 37,Duncan,Davie,Unattached,M60,01:02:05

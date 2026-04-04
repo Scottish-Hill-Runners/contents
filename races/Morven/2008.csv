@@ -1,45 +1,45 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Bartlett,Graeme,Forres Harriers,M40,0:47:23
-2,Peachey,Simon,Cosmics,M,0:49:33
-3,Williamson,Jason,Cosmics,M,0:49:37
-4,Sullivan,Matthew,Shettleston Harriers,M,0:49:57
-5,Brookes,Rob,Cosmics,M,0:51:54
-6,McDonald,Dennis,Cosmics,M40,0:53:17
-7,Sealy,Alan,Deeside Runners,M40,0:53:24
-8,Hughes,Gary,Deeside Runners,M,0:54:06
-9,Bass,Owen,Solway,M40,0:55:29
-10,Hampshire,John,HBT,M40,0:59:18
-11,Duley,Paul,Grampian Orienteers,M50,1:00:45
-12,Love,Craig,Dundee Hawkhill,M,1:01:06
-13,MacKenzie,Ruth,Deeside Runners,F40,1:01:08
-14,Hunter,Stuart,Cosmics,M40,1:01:51
-15,Redman,Andy,Stonehaven RC,M40,1:02:29
-16,Duncan,David,Ochil Hill Runners,M50,1:03:07
-17,Lyall,Norrie,Shetland Tri Club,M40,1:03:12
-18,O`Shea,Emma,Deeside Runners,F,1:03:34
-19,Hamilton,Ian,Cosmics,M40,1:03:37
-20,MacKay,Iain,HBT,M40,1:03:41
-21,McDonald,Fiona,Cosmics,F,1:03:50
-22,Dunn,Sarah,Deeside Runners,F40,1:04:16
-23,Macgregor,James,Aberdeen AAC,M40,1:04:31
-24,Hirst,David,Deeside Runners,M40,1:06:47
-25,Jermieson,Ashley,Cosmics,M50,1:06:56
-26,Battle,Joe,Deeside Runners,M50,1:07:48
-27,Morrison,Graeme,Unattached,M50,1:08:20
-28,Love,Charlie,Dundee Hawkhill,M60,1:09:46
-29,Taylor,Richard,Unattached,M,1:10:22
-30,Elder,Bob,Cosmics,M50,1:11:30
-31,Hannah,Andrew,Unattached,M,1:11:45
-32,Dunn,Michael,Unattached,M40,1:13:00
-33,Bryce,Murray,Cosmics,M50,1:15:23
-34,Holmes,Martin,Cosmics,M50,1:16:45
-35,McManus,Ian,Irvine RC,M60,1:16:53
-36,Campbell,Colin,Perth Road Runners,M60,1:16:55
-37,Clunas,Gillian,Cosmics,F50,1:17:28
-38,Johnston,Alistair,Unattached,M50,1:19:02
-39,Verra,Graeme,Unattached,M50,1:23:32
-40,Berry,Julia,Unattached,F,1:23:35
-41,Johnston,Sheila,Unattached,F50,1:23:36
-42,Oliver,Jane,Deeside Runners,F40,1:27:07
-43,O`Sullivan,Sarah,Cosmics,F,1:32:33
-44,MacCalman,Sandy,Kinross Road Runners,M60,1:33:04
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Bartlett,Graeme,Forres Harriers,MV,00:47:23
+2,Peachey,Simon,Carnethy,M,00:49:33
+3,Williamson,Jason,Cosmic Hillbashers,M,00:49:37
+4,Sullivan,Matthew,Shettleston,M,00:49:57
+5,Brookes,Robert,Cosmic Hillbashers,M,00:51:54
+6,McDonald,Dennis,Cosmic Hillbashers,MV,00:53:17
+7,Sealy,Alan,Deeside Runners,MV,00:53:24
+8,Hughes,Gary,Deeside Runners,M,00:54:06
+9,Bass,Owen,Deeside Runners,MV,00:55:29
+10,Hampshire,John,Hunters Bog Trotters,MV,00:59:18
+11,Duley,Paul,Gramp,MSV,01:00:45
+12,Love,Craig,Dundee Hawkhill Hillrunners,M,01:01:06
+13,MacKenzie,Ruth,Deeside Runners,FV,01:01:08
+14,Hunter,Stuart,Cosmic Hillbashers,MV,01:01:51
+15,Redman,Andy,Stonehaven Splash n Dash,MV,01:02:29
+16,Duncan,David,Ochil Hillrunners,MSV,01:03:07
+17,Lyall,Norrie,Forres Harriers,MV,01:03:12
+18,O'Shea,Emma,None,F,01:03:34
+19,Hamilton,Ian,Gramp,MV,01:03:37
+20,Mackay,Bom,HBT,MV,01:03:41
+21,Dahl,Fiona,Cosmic Hillbashers,F,01:03:50
+22,Dunn,Sarah,Deeside Runners,FV,01:04:16
+23,Macgregor,James,Garioch Roadrunners,MV,01:04:31
+24,Hirst,David,Deeside Runners,MV,01:06:47
+25,Jermieson,Ashley,Cosmic Hillbashers,MSV,01:06:56
+26,Battle,Joe,Deeside Runners,MSV,01:07:48
+27,Morrison,Graeme,UNAT,MSV,01:08:20
+28,Love,Charlie,Dundee Hawkhill Hillrunners,M60,01:09:46
+29,Taylor,Richard,None,M,01:10:22
+30,Elder,Bob,Cosmic Hillbashers,MSV,01:11:30
+31,Hannah,Andrew,None,M,01:11:45
+32,Dunn,Michael,None,MV,01:13:00
+33,Bryce,Murray,Cosmic Hillbashers,MSV,01:15:23
+34,Holmes,Martin,Cosmic Hillbashers,MSV,01:16:45
+35,McManus,Ian,None,M60,01:16:53
+36,Campbell,Colin,Perth Roadrunners,M60,01:16:55
+37,Clunas,Gillian,Cosmic Hillbashers,FSV,01:17:28
+38,Johnston,Alistair,None,MSV,01:19:02
+39,Verra,Greame,None,MSV,01:23:32
+40,Berry,Julia,None,F,01:23:35
+41,Johnston,Sheila,None,FSV,01:23:36
+42,Oliver,Jane,Deeside Runners,FV,01:27:07
+43,O'Sullivan,Sarah,Cosmic Hillbashers,F,01:32:33
+44,MacCalman,Sandy,Kinross Roadrunners,M60,01:33:04

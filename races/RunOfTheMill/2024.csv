@@ -1,0 +1,104 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Abernethy,Rory,Ochil Hill Runners,M,01:11:14
+2,Roberts,Fergus,Ochil Hill Runners,M,01:11:53
+3,Pulham,Harry,Shettleston Harriers,M,01:12:13
+4,Vokes,Philip,Highland Hill Runners,M,01:14:03
+5,Malcolm,Gregor,Ochil Hill Runners,M,01:15:00
+6,Smith,Aidan,Carnethy HRC,M,01:16:11
+7,Green,Scott,Central AC,M,01:17:46
+8,Dry,Dan,Shettleston Harriers,M,01:18:27
+9,Taylor,Jack,Ochil Hill Runners,M,01:19:48
+10,Thornton,Alistair,Ochil Hill Runners,M,01:20:45
+11,Richmond,Kenny,Shettleston Harriers,M50,01:20:49
+12,Gilmore,Iain,Carnethy HRC,M,01:21:56
+13,McComb,Lewis,Central AC,M,01:22:15
+14,Macrae,Andrew,Carnethy HRC,M50,01:22:35
+15,Pender,Iain,Shettleston Harriers,M40,01:23:16
+16,Pantrey,Chris Grant,Shettleston Harriers,M40,01:23:25
+17,Turnbull,Jonathan,Strathearn Harriers,M40,01:23:52
+18,Marks,Jonathon,Strathearn Harriers,M,01:24:09
+19,Reed,Jack,Ochil Hill Runners,M,01:24:18
+20,Reid,Michael,Carnethy HRC,M40,01:24:26
+21,Davies,Fred,Shettleston Harriers,M,01:24:46
+22,Connaghan,John,Shettleston Harriers,M50,01:25:00
+23,Sedman,Eliot,Carnethy HRC,M40,01:26:26
+24,Baxter,Grant,Ochil Hill Runners,M50,01:27:06
+25,Oldham,Kirsty,Unattached,F,01:28:14
+26,Sharkey,Drew,Carnethy HRC,M50,01:29:19
+27,Heger,Elena,Shettleston Harriers,F,01:29:41
+28,Fernandes,Hélder,Unattached,M40,01:30:16
+29,Cruickshanks,Ross,Shettleston Harriers,M,01:30:23
+30,Irvine,Clara-Jane,Deeside Runners,F,01:31:54
+31,Mackinnon,Gordon,Lochaber AC,M40,01:33:15
+32,Anderson,Adam,Hartfell Hill Runners,M50,01:33:19
+33,Bloomfield,Harry,Deeside Runners,M,01:33:23
+34,Winter,Stephen,Shettleston Harriers,M40,01:33:32
+35,Peters,Ella,Westerlands CCC,F,01:34:20
+36,Barber,Zoe,Shettleston Harriers,F,01:36:12
+37,Mayers,James,Musselburgh,M60,01:36:15
+38,Gilmore,Neil,Carnethy HRC,M60,01:36:32
+39,Anderson,Ross,Westerlands CCC,M,01:36:47
+40,Hanson,Beth,Moorfoot Runners,F,01:36:50
+41,Wilson,Stewart,Highland Hill Runners,M50,01:36:56
+42,Cunningham,Roddy,Westerlands CCC,M,01:37:50
+43,Wilson,Rob,Penicuik Harriers,M50,01:37:55
+44,Cox,Hannah,Edinburgh Athletics Club,F,01:38:57
+45,Williams,Dominic,Dundee Road Runners,M,01:39:04
+46,Maclennan,Iain,Highland Hill Runners,M50,01:39:09
+47,Breckenridge,William,Shettleston Harriers,M50,01:39:12
+48,Dobson,Jacob,Unattached,M,01:39:32
+49,Collins,Ian,Westerlands CCC,M40,01:39:56
+50,Ball,Duncan,Penicuik Harriers,M60,01:41:01
+51,Henderson,Scott,Westerlands CCC,M40,01:41:04
+52,MacDonald,Grant,Garscube Harriers,M40,01:42:16
+53,Roper,Marc,Westerlands CCC,M60,01:42:19
+54,O'Neill,Owen,Westerlands CCC,M40,01:44:05
+55,Weir,Jonathan,Unattached,M40,01:44:07
+56,Spinks,Nicky,Dark Peak FR,F50,01:44:13
+57,Flores,Leyre,Westerlands CCC,F,01:44:29
+58,Darling,Christopher,Lomonds,M40,01:45:54
+59,Templeman,Simon,Ochil Hill Runners,M50,01:46:31
+60,Oldham,Veronique,Cosmics,F50,01:46:37
+61,Dickson,David,Westerlands CCC,M60,01:47:43
+62,White,David,Kilmarnock Harriers,M50,01:47:45
+63,Dijkman,Naomi,Lauderdale Limpers RC,F40,01:49:10
+64,Allen,Lynne,Unattached,F,01:49:55
+65,Adam,Sarah,Lomonds,F40,01:50:11
+66,Reid,Don,Westerlands CCC,M60,01:50:44
+67,Turner,Judith,PH Racing Club,F50,01:51:01
+68,Greig,Kevin,Dundee Road Runners,M40,01:51:26
+69,Pryde,Gordon,Lomonds,M60,01:52:51
+70,Zhang,Xun,Shettleston Harriers,M,01:53:20
+71,Hetherington,Michelle,Carnethy HRC,F60,01:53:34
+72,Macbeth,Gaby,Westerlands CCC,F40,01:54:05
+73,Smith,John,Lomonds,M50,01:54:59
+74,Ritchie,Hilary,Fife AC,F60,01:55:14
+75,Hughes,Dominic,Dundee Road Runners,M40,01:55:19
+76,Getley,Robert,Lomonds,M,01:55:44
+77,Shaw,Trevor,Lochtayside,M60,01:56:04
+78,Pugh,Roderick,Kilmarnock Harriers,M60,01:56:10
+79,Reis,Rodrigo,Shettleston Harriers,M40,01:56:24
+80,McKeown,Stephen,Milburn Harriers,M50,01:57:43
+81,Hockley,Anwen,Eryri Harriers,F,01:58:25
+82,Johnston,Stephen,Milburn Harriers,M60,01:59:35
+83,Waters,Louise,Ochil Hill Runners,F,02:00:21
+84,Simpson,Heather,Shettleston Harriers,F,02:01:44
+85,Lennie,Drew,Carnethy HRC,M60,02:01:54
+86,Sweeney,Matthew,Ochil Hill Runners,M40,02:03:41
+87,Donnelly,John,Westerlands CCC,M60,02:03:43
+88,MacLeod,Murdo,Westerlands CCC,M70,02:03:49
+89,Gates,Dan,Westerlands CCC,M40,02:03:56
+90,Dyer,Peter,Edinburgh Athletics Club,M,02:04:11
+91,Williamson,Philip,Ochil Hill Runners,M60,02:05:00
+92,Wilson,Joan,Lomonds,F60,02:05:12
+93,Griffiths,Gemma,Shettleston Harriers,F,02:05:15
+94,Brodie,Stuart,Ochil Hill Runners,M40,02:07:58
+95,Thornton,Vicky,Forth Valley Orienteers,F60,02:10:27
+96,Johnstone,Terry,Edinburgh Southern OC,M50,02:17:26
+97,Munro,Frazer,Kinross Road Runners,M50,02:17:34
+98,Gilligan,Amy,Dundee Road Runners,F,02:17:34
+99,Stewart,Billy,Unattached,M,02:17:34
+100,Lockie,Paul,Teviotdale Harriers,M50,02:18:44
+101,Stakes,David,Westerlands CCC,M60,02:22:40
+102,Summers,Robert,Beacon Runners,M50,02:23:26
+103,Kokavesis,Markos,Unattached,M,02:25:11

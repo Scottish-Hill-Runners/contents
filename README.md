@@ -2,7 +2,7 @@
 
 This repository stores editorial content for Scottish Hill Runners.
 
-The admin app at https://admin.scottishhillrunners.uk creates pull requests against this repository for:
+The admin app at <https://admin.scottishhillrunners.uk> creates pull requests against this repository for:
 
 - News posts
 - Race index files
@@ -12,7 +12,8 @@ The admin app at https://admin.scottishhillrunners.uk creates pull requests agai
 
 - news/
   - One markdown file per news post
-  - File name pattern: YYYY-MM-DD[-suffix].md
+  - Each post is filed by year
+  - File name pattern: YEAR/YYYY-MM-DD[-suffix].md
 - races/
   - One folder per race
   - Each race folder contains:
@@ -26,8 +27,8 @@ The admin app at https://admin.scottishhillrunners.uk creates pull requests agai
 
 Path pattern:
 
-- news/2026-03-29.md
-- news/2026-03-29-2.md
+- news/2026/2026-03-29.md
+- news/2026/2026-03-29-2.md
 
 News file format:
 
@@ -59,8 +60,8 @@ Race index format:
 ---
 title: Carnethy 5
 venue: Pentland Hills
-distance: 6 miles
-climb: 2500 ft
+distance: 10
+climb: 760
 maleRecord: 39:00
 femaleRecord: 45:30
 nonBinaryRecord:
@@ -70,6 +71,8 @@ organiser: Carnethy Club
 
 Markdown race description and event notes go here.
 ```
+
+Distance and climb must be in metric units; the UI will convert to imperial when requested.
 
 ## Race Results Content
 
@@ -81,7 +84,7 @@ CSV rules:
 
 - File must be valid CSV
 - Header names and required columns must match SHR validation rules used by the admin app
-- Keep values clean and consistently formatted
+- Keep values clean and consistently formatted; e.g. times should be hh:mm:ss, without omitting leading 0s.
 
 ## Editorial Workflow
 

@@ -1,16 +1,16 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Anderson,Adam,Hartfell HRC,M,1:44:52
-2,Smith,Alan,Deeside Runners,M40,1:46:02
-3,Valentine,Colin,Keswick AC,M40,1:48:49
-4,Whitelaw,Mark,Hartfell HRC,M,1:53:45
-5,Brash,Colin,Girvan Harriers,M,1:54:14
-6,Irving,Roger,Hartfell HRC,M40,1:57:05
-7,Begley,Tommy,Irvine RC,M,2:00:56
-8,Fairgrieve,Andy,Annan & District AC,M,2:11:54
-9,Singh,Shirley,Hardrock Hoodlums,F40,2:20:26
-10,Goldsworthy,John,Hardrock Hoodlums,M50,2:20:26
-11,Bowie,Tom,Unattached,M50,2:33:27
-12,Ryan,Liam,Unattached,M,2:36:15
-13,Ross,Alistair,Unattached,M,2:46:48
-14,Dowell,Finlay,Irvine RC,M40,2:47:08
-15,McManus,Ian,Irvine RC,M60,2:47:24
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Anderson,Adam,Carnethy,SM,01:44:52
+2,Smith,Alan,Deeside Runners,V40,01:46:02
+3,Valentine,Colin,Keswick AC,V40,01:48:49
+4,Whitelaw,Mark,Annan & District AC,SM,01:53:45
+5,Brash,Colin,Girvan AAC,SM,01:54:14
+6,Irving,Roger,Annan & District AC,V40,01:57:05
+7,Begley,Tommy,Irvine AC,SM,02:00:56
+8,Fairgrieve,Andy,Annan & District AC,SM,02:11:54
+9,Singh,Shirley,Unattached,VF40,02:20:26
+10,Goldsworthy,John,Galloway Harriers,V50,02:20:26
+11,Bowie,Tom,Carnegie Harriers,V50,02:33:27
+12,Ryan,Liam,Unattached,SM,02:36:15
+13,Ross,Alistair,Unattached,M,02:46:48
+14,Dowell,Finlay,Irvine AC,V40,02:47:08
+15,Mcmanus,Ian,Irvine AC,V60,02:47:24

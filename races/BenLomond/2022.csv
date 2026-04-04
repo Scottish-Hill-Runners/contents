@@ -1,11 +1,11 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Yells,John,Lochaber AC,M,01:09:38
 2,Quinn,Adam,Unattached,M,01:14:05
 3,Mcinally,Ralph,Unattached,M,01:17:46
 4,Fraser,Gary,Ochil Hill Runners,M50,01:20:04
 5,Ring,Josh,Westerlands CCC,M,01:20:35
 6,Eisen,Luis,Shettleston Harriers,M,01:20:36
-7,Gilmore,Iain,Carnethy ,M,01:21:47
+7,Gilmore,Iain,Carnethy,M,01:21:47
 8,Davidson,Gregor,Lochaber AC,M40,01:22:13
 9,Mulgrew,Bryan,Bellahouston RR,M,01:23:25
 10,MacDonald,Catriona,Bellahouston RR,F,01:24:15
@@ -14,7 +14,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Allsop,David,Arran Runners,M40,01:25:11
 14,Low,Matthew,Shettleston Harriers,M40,01:26:35
 15,Phillips,George,Westerlands CCC,M,01:28:00
-16,Johnston,Fergus,Carnethy ,M,01:28:17
+16,Johnston,Fergus,Carnethy,M,01:28:17
 17,Cameron,Angus,Lochaber AC,M,01:28:29
 18,Henderson,Scott,Westerlands CCC,M40,01:28:31
 19,Davis,Angus,Unattached,M,01:29:04
@@ -28,10 +28,10 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 27,MacDonald,Ally,Bellahouston RR,M50,01:32:04
 28,Leigh,Helen,Blackburn Harriers AC,F,01:32:42
 29,Templeman,Simon,Ochil Hill Runners,M50,01:34:23
-30,Gillies,Sam,Carnethy ,M,01:34:23
-31,Standen,Hugh,Carnethy ,M,01:34:33
-32,Docherty,Ross,Carnethy ,M,01:35:08
-33,Gilmore,Neil,Carnethy ,M50,01:35:34
+30,Gillies,Sam,Carnethy,M,01:34:23
+31,Standen,Hugh,Carnethy,M,01:34:33
+32,Docherty,Ross,Carnethy,M,01:35:08
+33,Gilmore,Neil,Carnethy,M50,01:35:34
 34,Downs,Ellen,Westerlands CCC,F,01:36:35
 35,Stuart,Megan,Westerlands CCC,F,01:36:53
 36,Malcolmson,Craig,Hartfell HR,M50,01:37:10

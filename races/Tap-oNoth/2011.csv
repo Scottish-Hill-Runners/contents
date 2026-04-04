@@ -1,36 +1,36 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Donnelly,Colin,Cambuslang Harriers,M50,0:36:24
-2,Griffin,Tim,Aberdeen AAC,M40,0:37:34
-3,Espie,James,Deeside Runners,M,0:38:29
-4,Burgess,Sam,Deeside Runners,M,0:39:22
-5,Williamson,Jason,Cosmics,M40,0:39:43
-6,Tomlin,Chris,Cosmics,M40,0:40:00
-7,Lorimer,Hayden,HBT,M40,0:40:02
-8,Perez,Manuel,Spain,M50,0:41:54
-9,Wilson,Stewart,Highland Hill Runners,M40,0:42:31
-10,Murray,Rab,The Darkside,M40,0:42:48
-11,Bain,Andy,Deeside Runners,M40,0:43:30
-12,Oldham,Veronique,Cosmics,F40,0:43:43
-13,Larmour,Colin,Cosmics,M40,0:44:09
-14,Hunter,Stuart,Cosmics,M40,0:45:41
-15,MacKenzie,Ruth,Deeside Runners,F40,0:46:04
-16,Brettle,Matt,Cosmics,M,0:46:43
-17,Laing,Martin,Unattached,M40,0:47:01
-18,Rennie,Nick,Unattached,M40,0:47:46
-19,Solomon,Chris,Unattached,M,0:47:56
-20,Williams,Rupert,Cosmics,M40,0:48:14
-21,Burgess,Warren,Deeside Runners,M50,0:50:22
-22,Beverley,Brian,Unattached,M,0:50:38
-23,Brown,Joseph,Cosmics,M40,0:50:38
-24,Cran,Ian,Garioch Road Runners,M50,0:50:54
-25,Reid,Colin,Cosmics,M40,0:51:58
-26,Clark,Lesley,Cosmics,F40,0:52:20
-27,Larmour,Pauline,Cosmics,F40,0:54:07
-28,Collins,Moira,Deeside Runners,F50,0:54:31
-29,Dawson,Phil,Garioch Road Runners,M40,0:54:34
-30,Angus,Mel,Aberdeen AAC,F40,0:55:39
-31,Stewart,Elaine,Cosmics,F40,0:56:20
-32,Mackenzie,Iain,Deeside Runners,M50,0:57:38
-33,Salisbury,Bob,Unattached,M,0:58:04
-34,Watt,Gillian,Garioch Road Runners,F40,0:59:59
-35,Cabrera,Cristobal,Spain,M50,1:18:00
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Donnelly,Colin,Lochaber AC,M50,00:36:24
+2,Griffin,Tim,Cosmics,V,00:37:34
+3,Espie,James,Deeside,S,00:38:29
+4,Burgess,Sam,Deeside,S,00:39:22
+5,Williamson,Jason,Cosmics,V,00:39:43
+6,Tomlin,Chris,Cosmics,V,00:40:00
+7,Lorimer,Hayden,U/A,V,00:40:02
+8,Perez,Manuel,Spain,M50,00:41:54
+9,Wilson,Stewart,Inverness Harriers,V,00:42:31
+10,Lord,Dark,The Dark Side,V,00:42:48
+11,Bain,Andy,Maroc,V,00:43:30
+12,Oldham,Veronique,Cosmics,FV,00:43:43
+13,Larmour,Colin,Cosmics,V,00:44:09
+14,Hunter,Stuart,Cosmics,V,00:45:41
+15,MacKenzie,Ruth,Deeside,FV,00:46:04
+16,Brettle,Matt,Cosmics,S,00:46:43
+17,Laing,Martin,?,V,00:47:01
+18,Rennie,Nick,U/A,V,00:47:46
+19,Solomon,Chris,U/A,S,00:47:56
+20,Williams,Rupert,Cosmics,V,00:48:14
+21,Burgess,Warren,Deeside,SV,00:50:22
+22,Beverly,Brain,U/A,S,00:50:38
+23,Brown,Joe,Cosmics,V,00:50:38
+24,Cran,Iain,Garioch RR,MSV,00:50:54
+25,Reid,Colin,Cosmics,V,00:51:58
+26,Clark,Lesley,Garioch RR,FV,00:52:20
+27,Larmour,Pauline,Cosmics,FV,00:54:07
+28,Collins,Moira,Deeside,FSV,00:54:31
+29,Dawson,Phil,Garioch RR,V,00:54:34
+30,Angus,Mel,Fat Bobs,FV,00:55:39
+31,Stewart,Elaine,Cosmics,FV,00:56:20
+32,MacKenzie,Iain,Deeside,M50,00:57:38
+33,Salsbury,Bob,N/A,S,00:58:04
+34,Watt,Gillian,Garioch RR,FV,00:59:59
+35,Cabrera,Cristobal,Spain,M50,01:18:00

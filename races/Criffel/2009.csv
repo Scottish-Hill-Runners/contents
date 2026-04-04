@@ -1,60 +1,60 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Wright,Andrew,PH Racing,M,0:54:54
-2,Smith,Alan,Deeside Runners,M40,0:59:21
-3,Anderson,Adam,Hartfell HRC,M40,0:59:54
-4,Bennet,Sandy,Unattached,M40,1:01:31
-5,Ross,Dougal,Bellahouston RR,M,1:01:48
-6,White,David,Kilmarnock Harriers,M40,1:02:04
-7,Anderson,Mark,Unattached,M,1:03:13
-8,Roper,Marc,Westerlands,M40,1:03:29
-9,Holt,Luke,Solway,M,1:04:09
-10,Neilson,Norman,Hartfell HRC,M40,1:04:30
-11,Horsfield,Richard,Dark Peak,M40,1:05:02
-12,Bass,Owen,Solway,M40,1:05:28
-13,Barr,Tom,HBT,M,1:06:04
-14,Glendinning,Greig,Bellahouston RR,M,1:06:45
-15,Pflanz,Sebastian,Dumfries RC,M40,1:07:09
-16,Robson,John,Annan & District AC,M50,1:07:38
-17,Rogers,David,Westerlands,M40,1:07:48
-18,Mortlock,Simon,Dumfries RC,M40,1:08:11
-19,Rooney,Edmund,Lauderdale Limpers,M40,1:08:13
-20,Begley,Tommy,Irvine RC,M,1:08:23
-21,Milligan,Douglas,Solway,M60,1:08:35
-22,Goldsworthy,John,Hardrock Hoodlums,M50,1:08:57
-23,Galbraith,Jim,Giffnock North,M50,1:09:16
-24,McCulloch,Tom,Ayr Seaforth,M50,1:10:19
-25,Duncan,David,Ochil Hill Runners,M50,1:11:29
-26,Semple,Hamilton,Westerlands,M50,1:11:54
-27,Thomas,Ranjit,Dumfries RC,M40,1:12:30
-28,Colchester,Jim,Solway,M,1:12:37
-29,Niblock,Catherine,Helm Hill Runners,F,1:14:00
-30,Waude,Ian,Annan & District AC,M40,1:14:11
-31,Singh,Shirley,Hardrock Hoodlums,F40,1:15:50
-32,Riddell,Duncan,Westerlands,M40,1:16:27
-33,Gall,Allan,Central AC,M50,1:17:18
-34,Priestley,Nigel,Annan & District AC,M50,1:18:04
-35,Gordon,Nick,Solway,M40,1:20:12
-36,Schreiber,Jo,Girvan Harriers,F40,1:20:23
-37,Morris,Paul,Gala Harriers,M40,1:21:17
-38,MacDonald,Deborah,HBT,F40,1:21:30
-39,Turner,Ian,Solway Orienteers,M60,1:21:37
-40,Gauld,Aaron,Unattached,M,1:21:46
-41,Drain,Alex,Troon Tortoises,M50,1:23:13
-42,Smith,Tilly,Deeside Runners,F40,1:24:05
-43,Flannaghan,Maurice,Unattached,M40,1:24:12
-44,West,Alison,Carnegie Harriers,F50,1:24:49
-45,Stapley,Tony,Portobello,M60,1:25:29
-46,Downie,Tim,Ayr Seaforth,M50,1:25:33
-47,Bass,Ursula,Deeside Runners,F40,1:25:53
-48,Brown,Matilda,Unattached,F,1:26:04
-49,Robson,Jean,Annan & District AC,F50,1:26:59
-50,Davidson,Iain,Girvan Harriers,M40,1:27:48
-51,McManus,Ian,Irvine RC,M60,1:28:37
-52,MacDonald,Rory,HBT,M40,1:31:10
-53,Martin,Angela,Unattached,F40,1:31:31
-54,Cross,Graham,Dumfries RC,M40,1:32:27
-55,Anderson,Adam,Dumfries RC,M60,1:32:29
-56,Plant,Roz,Dumfries RC,F40,1:35:20
-57,Gilhooly,John,Bellahouston Harriers,M40,1:36:02
-58,Gibson,Phil,Galloway Harriers,M50,1:46:03
-59,King,Shelagh,Gala Harriers,F50,1:46:55
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Wright,Andrew,Carnegie,mSnr,00:54:54
+2,Smith,Alan,Deeside,mv40,00:59:21
+3,Anderson,Adam,Carnethy,mv40,00:59:54
+4,Bennet,Sandy,Carnegie,mv40,01:01:31
+5,Ross,Dougal,Bellahouston H,mSnr,01:01:48
+6,White,David,Kilmarnock H,mv40,01:02:04
+7,Anderson,Mark,U/A,mSnr,01:03:13
+8,Roper,Marc,Giffnock North,mV40,01:03:29
+9,Holt,Luke,Solway,mSnr,01:04:09
+10,Neilson,Norman,Dumfries RC,mv40,01:04:30
+11,Horsfield,Richard,Dark Peak,mv40,01:05:02
+12,Bass,Owen,Deeside,mv40,01:05:28
+13,Barr,Tommy,HBT,mSnr,01:06:04
+14,Glendinning,Greig,Bellahouston H,mSnr,01:06:45
+15,Planz,Sebastian,Dumfries RC,mv40,01:07:09
+16,Robson,John,Annan & Dist,mv50,01:07:38
+17,Rogers,David,Westerlands,mv40,01:07:48
+18,Mortlock,Simon,Solway,mv40,01:08:11
+19,Rooney,Edmund,Lauderdale H,mv40,01:08:13
+20,Beagley,Tommy,Irvine,mSnr,01:08:23
+21,Milligan,Douglas,Solway,mv60,01:08:35
+22,Goldsworthy,John,Galloway H,mv50,01:08:57
+23,Galbraith,Jim,Giffnock North,mv50,01:09:16
+24,McCulloch,Tommy,Ayr Seaforth,mv50,01:10:19
+25,Duncan,David,Ochils,mv50,01:11:29
+26,Semple,Hamilton,Westerlands,mv50,01:11:54
+27,Thomas,Ranjit,U/A,mv40,01:12:30
+28,Colchester,Jim,Solway,mSnr,01:12:37
+29,Niblock,Catherine,U/A,fSnr,01:14:00
+30,Waude,Ian,Annan & Dist,mv40,01:14:11
+31,Singh,Shirley,U/A,fv40,01:15:50
+32,Riddell,Duncan,Maryhill H,mv40,01:16:27
+33,Gall,Alan,Central,mv50,01:17:18
+34,Priestley,Nigel,Annan & Dist,mv50,01:18:04
+35,Gordon,Nick,Solway,mv40,01:20:12
+36,Schreiber,Jo,P&Bramley,fv40,01:20:23
+37,Morris,Paul,Gala H,mv40,01:21:17
+38,McDonald,Deborah,HBT,fv40,01:21:30
+39,Turner,Ian,Moffat M Resc,mv60,01:21:37
+40,Gauld,Aaron,U/A,mSnr,01:21:46
+41,Drain,Alex,Troon Tort.,mv50,01:23:13
+42,Smith,Tilly,Deeside,fv40,01:24:05
+43,Flannigan,Maurice,U/A,mv40,01:24:12
+44,West,Alison,Carnegie,fv50,01:24:49
+45,Stapley,Tony,Portobello,mv60,01:25:29
+46,Downie,Timothy,Troon Tort.,mv50,01:25:33
+47,Bass,Ursula,Deeside,fv40,01:25:53
+48,Brown,Matilda,U/A,fSnr,01:26:04
+49,Robson,Jean,Annan & Dist,fv50,01:26:59
+50,Davidson,Iain,Girvan,mv40,01:27:48
+51,McManus,Ian,Irvine,mv60,01:28:37
+52,McDonald,Rory,HBT,mv40,01:31:10
+53,Martin,Angela,U/A,fv40,01:31:31
+54,Cross,Graham,U/A,mv40,01:32:27
+55,Anderson,Adam,Dumfries RC,mv60,01:32:29
+56,Plant,Roz,Dumfries RC,fv40,01:35:20
+57,Gilhooly,John,U/A,mv40,01:36:02
+58,Gibson,Phil,Galloway H,mv50,01:46:03
+59,King,Shelagh,Gala H,fv50,01:46:55

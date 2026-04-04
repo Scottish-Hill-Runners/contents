@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:27:00
 2,Andrew,Steven,Perth Road Runners,M,00:29:00
 3,Marshall,Brian,Haddington,M,00:29:36

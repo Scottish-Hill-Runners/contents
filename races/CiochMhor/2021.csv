@@ -1,14 +1,14 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,01:01:07
 2,Campbell,Alasdair,Cambuslang Harriers,M,01:07:21
 3,Howie,Robin,Highland Hill Runners,M,01:08:04
 4,Anthony,Alasdair,Ochil Hill Runners,M40,01:09:58
 5,Wright,Andrew,PH Racing Club,M40,01:10:07
-6,Reid,Michael,Carnethy ,M40,01:11:00
+6,Reid,Michael,Carnethy,M40,01:11:00
 7,Fraser,Callum,Lochaber AC,M,01:11:08
 8,Pulham,Harry,Shettleston Harriers,M,01:11:47
 9,Crutchfield,Stuart,Lochaber AC,M,01:12:16
-10,McKenna,Bryan,Carnethy ,M40,01:12:35
+10,McKenna,Bryan,Carnethy,M40,01:12:35
 11,Taylor,Luke,Highland Hill Runners,M,01:12:40
 12,Ward,Jack,Highland Hill Runners,M,01:12:57
 13,Trevelyan,Jack,Highland Hill Runners,M40,01:14:07
@@ -45,7 +45,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 44,Oldham,Veronique,Cosmics,F50,01:26:06
 45,Andrews,Steven,Unattached,M40,01:26:08
 46,Peters,Ella,Westerlands CCC,F,01:26:09
-47,McLure,Neil,Carnethy ,M50,01:26:22
+47,McLure,Neil,Carnethy,M50,01:26:22
 48,Smith,Christopher,Highland Hill Runners,M40,01:26:36
 49,Weir,Jonathan,Unattached,M40,01:26:55
 50,Carter,Nick,Unattached,M50,01:27:49
@@ -74,7 +74,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 73,Reis,Rodrigo,Shettleston Harriers,M40,01:38:44
 74,Pryde,Gordon,Lomonds,M60,01:39:03
 75,Irvine,Gill,Highland Hill Runners,F60,01:39:54
-76,Cameron,Gordon,Carnethy ,M60,01:40:01
+76,Cameron,Gordon,Carnethy,M60,01:40:01
 77,Jamieson,David,Cuillin Dubh RC,M50,01:40:27
 78,Pugh,Roderick,Kilmarnock Harriers,M60,01:40:48
 79,Burt,Louise,Fife AC,F50,01:40:54
@@ -104,5 +104,5 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 103,Clunas,Gillian,Cosmics,F60,02:00:43
 104,Laidlaw,Anita,Fife AC,F40,02:01:16
 105,McAdam,Pauline,Teviotdale Harriers,F60,02:16:40
-106,McPherson,Hugh,Tinto Hill  Runners,M70,02:18:30
+106,McPherson,Hugh,Tinto Hill Runners,M70,02:18:30
 107,Lammers,Wiebke,Westerlands CCC,F40,02:20:32

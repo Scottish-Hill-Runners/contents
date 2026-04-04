@@ -1,69 +1,72 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Marshall,Brian,HELP,M,0:51:50
-2,Keith,Alec,Inverness Harriers,M40,0:53:30
-3,Smith,Alan,Deeside Runners,M40,0:53:42
-4,Fallon,Steven,Carnethy,M40,0:55:44
-5,Shaw,Mark,Jura AC,M40,0:57:20
-6,Procter,Billy,Helm Hill Runners,M40,0:58:57
-7,Meikle,Alistair,Lochaber AC,M,0:59:08
-8,Simpson,Stuart,Stornoway AC,M,1:00:01
-9,Arnott,Neil,Carnegie Harriers,M,1:00:15
-10,Brooks,Graham,Lochaber AC,M50,1:00:57
-11,Maitland,John,Lochaber AC,M40,1:01:11
-12,Delaney,Kevin,Skye & Lochalsh RC,M40,1:01:33
-13,Tuson,Paul,Helm Hill Runners,M40,1:02:07
-14,Gay,Jon,Lochaber AC,M,1:02:31
-15,Bass,Owen,Solway,M40,1:04:02
-16,Munro,David,Lochaber AC,M40,1:05:05
-17,MacBeath,Niall,Lochaber AC,M,1:06:09
-18,Scott,Dawn,Lochaber AC,F,1:07:56
-19,Shepherd,Andrew,Carnethy,M40,1:09:38
-20,MacSween,Alastair,Wee County Harriers,M40,1:12:08
-21,Green,Colin,Moray Road Runners,M,1:12:05
-22,Wilson,Alan,Tinto Hill Runners,M40,1:13:07
-23,MacPherson,Alastair,Unattached,M40,1:13:29
-24,Coghill,John,Unattached,M,1:14:16
-25,Hardie,Raymond,Moray Road Runners,M40,1:14:33
-26,Bain,Gilbert,Moray Road Runners,M40,1:15:17
-27,Brett,Alex,Highland Hill Runners,M50,1:15:02
-28,MacDonald,Iain,Highland Hill Runners,M40,1:16:55
-29,Johnston,Philip,Unattached,M,1:16:58
-30,MacDonald,Hamish,Aberdeen AAC,M40,1:16:58
-31,Roberts,Neil,Skye & Lochalsh RC,M50,1:19:08
-32,Hazell,Mark,Skye & Lochalsh RC,M40,1:19:09
-33,Wilson,Colin,Lomond Hill Runners,M40,1:19:14
-34,Murdoch,Ray,Lochaber AC,M50,1:21:03
-35,Turner,Neil,Skye & Lochalsh RC,M,1:22:16
-36,Duncan,David,Ochil Hill Runners,M50,1:23:32
-37,MacDonald,Deborah,HBT,F40,1:23:45
-38,Johnston,Frank,Unattached,M40,1:25:29
-39,Campbell,Neil,Carnethy,M40,1:26:07
-40,Roberts,Rob,Unattached,M,1:26:19
-41,Hatton,Chris,Helsby,M50,1:26:24
-42,Campbell,Johnny,Unattached,M,1:26:45
-43,Gatehouse,Richard,Lomond Hill Runners,M50,1:27:09
-44,Wilson,Joan,Lomond Hill Runners,F40,1:28:26
-45,MacEwan,Linda,Lochaber AC,F40,1:28:03
-46,Daynes,Ed,Lochaber AC,M,1:28:41
-47,Johnstone,Derek,Cosmics,M40,1:28:47
-48,Larkin,Peter,Cosmics,M40,1:30:21
-49,Kirk,Katherine,ESOC,F,1:31:52
-50,Sneddon,Scott,Carnethy,M40,1:33:59
-51,Smith,Tilly,Deeside Runners,F50,1:34:10
-52,Newman,Jenny,Moray Road Runners,F,1:38:34
-53,Davidson,Paul,Unattached,M,1:38:52
-54,McLean,Neil,Unattached,M40,1:39:36
-55,Cowie,Willie,Unattached,M40,1:39:36
-56,O`Leary,Emily,Unattached,F,1:46:04
-57,MacDermid,Lisa,Strathearn Harriers,F50,1:46:48
-58,Finlayson,John,Unattached,M40,1:56:33
-59,Warby,Tony,Unattached,M50,2:00:49
-60,Goodman,Angela,Unattached,F40,2:05:04
-61,Diggle,Matthew,Dubai Creek Striders,M40,2:05:28
-62,MacLeod,Brian,Unattached,M,2:08:52
-63,Mackenzie,Malcolm,Unattached,M,2:17:13
-64,Winterbourne,Peter,Unattached,M,2:17:13
-65,Abrahamson,Mark,Unattached,M,2:20:38
-66,Kearney,Darren,Unattached,M,2:21:55
-67,Daughtry,DJ,Unattached,M,2:22:22
-68,Lamont,John,Unattached,M,2:22:53
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Marshall,Brian,HELP,MS,00:51:50
+2,Keith,Alec,HBT,MV,00:53:30
+3,Smith,Alan,Deeside Runners,MV,00:53:42
+4,Fallon,Steven,Carnethy,MV,00:55:44
+5,Shaw,Mark,Lochaber AC,MV,00:57:20
+6,Proctor,Billy,Helm Hill,MV,00:58:57
+7,Meikle,Alistair,Unattached,MS,00:59:08
+8,Simpson,Stuart,Ochil Hill Runners,MS,01:00:01
+9,Arnott,Neil,Lochaber AC,MS,01:00:15
+10,Brooks,Graham,Lochaber AC,MSV,01:00:57
+11,Maitland,John,Lochaber AC,MV,01:01:11
+12,Delaney,Kevin,Skye & Lochalsh,MV,01:01:33
+13,Tuson,Paul,Helm Hill,MV,01:02:07
+14,Gay,Jon,Lochaber AC,MS,01:02:31
+15,Bass,Owen,Deeside Runners,MV,01:04:02
+16,Munro,David,Lochaber AC,MV,01:05:05
+17,Macbeath,Niall,Lochaber AC,MS,01:06:09
+18,Scott,Dawn,Lochaber AC,FS,01:07:56
+19,Shepherd,Andrew,Carnethy,MV,01:09:38
+20,Macsween,Alistair,Skye & Lochalsh,MV,01:12:08
+21,Green,Colin,Moray Road Runners,MS,01:12:05
+22,Wilson,Alan,Skye & Lochalsh,MV,01:13:07
+23,Macpherson,Alistair,Unattached,MV,01:13:29
+24,Coghill,John,Unattached,MS,01:14:16
+25,Hardie,Raymond,Moray Road Runners,MV,01:14:33
+26,Bain,Gilbert,Moray Road Runners,MV,01:15:17
+27,Brett,Alex,Highland Hill Runners,MSV,01:15:02
+28,Macdonald,Iain,Highland Hill Runners,MV,01:16:55
+29,Johnston,Phil,Unattached,MS,01:16:58
+30,Macdonald,Hamish,Aberdeen AAC,MV,01:16:58
+31,Roberts,Neil,Skye & Lochalsh,MSV,01:19:08
+32,Hazel,Mark,Skye & Lochalsh,MV,01:19:09
+33,Wilson,Colin,Carnethy,MV,01:19:14
+34,Murdoch,Raymond,Lochaber AC,MSV,01:21:03
+35,Turner,Neil,Lochaber AC,MS,01:22:16
+36,Duncan,David,Ochil Hill Runners,MSV,01:23:32
+37,Macdonald,Deborah,HBT,FV,01:23:45
+38,Johnston,Frank,Unattached,MHV,01:25:29
+39,Campbell,Neil,Carnegie Harriers,MV,01:26:07
+40,Roberts,Rob,Unattached,MS,01:26:19
+41,Hatton,Chris,Helmsdale,MSV,01:26:24
+42,Campbell,Johnny,Unattached,MS,01:26:45
+43,Gatehouse,Richard,Lomond Hill Runners,MSV,01:27:09
+44,Wilson,Joan,Carnethy,FV,01:28:26
+45,MacEwen,Linda,Lochaber AC,FV,01:28:03
+46,Daynes,Ed,Lochaber AC,MS,01:28:41
+47,Johnstone,Derek,Cosmics,MV,01:28:47
+48,Larkin,Peter,Cosmics,MV,01:30:21
+49,Kirk,Katherine,Westerlands,FS,01:31:52
+50,Sneddon,Scott,Carnethy,MV,01:33:59
+51,Smith,Tilly,Unattached,FSV,01:34:10
+52,Newman,Jenny,Moray Road Runners,FS,01:38:34
+53,Davidson,Paul,Unattached,MS,01:38:52
+54,Mclean,Neil,Unattached,MV (L),01:39:36
+55,Cowie,Willie,Unattached,MV,01:39:36
+56,O`Leary,Emily,Unattached,FS,01:46:04
+57,Macdermid,Lisa,Highland Hill Runners,FSV,01:46:48
+58,Finlayson,John,Unattached,MV,01:56:33
+59,Warby,Tony,Unattached,MSV,02:00:49
+60,Goodman,Angela,Unattached,FV,02:05:04
+61,Diggle,Matthew,Dubai Creek Striders,MV,02:05:28
+62,Macleod,Brian,Unattached,MS,02:08:52
+64,Winterbourne,Peter,Unattached,MS,02:17:13
+63,Mackenzie,Malcolm,Unattached,MS,02:17:13
+65,Abrahamson,Mark,Unattached,MS (L),02:20:38
+66,Kearney,Darren,Unattached,MS,02:21:55
+67,Daughtry,Dj,Unattached,MS,02:22:22
+68,Lamont,John,Unattached,MS,02:22:53
+69,Powling,Lucy,Unattached,FS,00:04:00
+70,Marks,Justin,Unattached,MS,00:04:07
+71,Marks,Julian,Unattached,MS,00:04:07

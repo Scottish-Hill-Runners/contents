@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Craft,Gareth,Cuillin Dubh HRC,MV40,2:08:40
 2,Ward,Nic,Northern Fells RC,M,2:10:40
 3,Wallace,Ben,Unattached,MV40,2:11:16
@@ -12,7 +12,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Moffat,John,Highland HR,MV60,2:36:01
 12,Frake,Karen,Highland HR,FV40,2:36:59
 13,Taylor,Gordie,Highland HR,MV50,2:37:39
-14,CabreraValdes,FranciscoJavier,Highland HR,M,2:37:40
+14,Cabrera Valdes,Francisco Javier,Highland HR,M,2:37:40
 15,Jamieson,David,Cuillin Dubh HRC,MV50,2:37:46
 16,Macleod,John,Skye and Lochalsh RC,M,2:38:25
 17,Robertson,Hugh,Insch TR,MV40,2:42:05

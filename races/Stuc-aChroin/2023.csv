@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wilson,Felix,Carnethy HRC,MU23,02:13:00
 2,Fisher,Sam,Howgill Harriers,M,02:13:40
 3,Campbell,Alasdair,Cambuslang Harriers,M,02:15:10
@@ -110,7 +110,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 109,Jobling,Robert,Cosmics,M,03:25:18
 110,Garside,Richard,Ochil Hill Runners,M40,03:25:59
 111,Clarke,Daniel,Ochil Hill Runners,M40,03:26:43
-112,Hale,Gordon,St. Andrews Orienteering ,M,03:26:51
+112,Hale,Gordon,St. Andrews Orienteering,M,03:26:51
 113,Szafranska,Anna,Unattached,F40,03:27:09
 114,Omand,Elaine,Cosmics,F,03:27:39
 115,Lovegrove,John,Unattached,M40,03:27:56
@@ -156,7 +156,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 155,Moffat,John,Highland Hill Runners,M60,04:16:17
 156,Guthrie,Neil,Carnethy HRC,M40,04:19:23
 157,Mills,Owen,Keswick AC,M50,04:21:59
-158,Schøler,Mattias,Strathearn Harriers,M,04:29:11
+158,Sch?ler,Mattias,Strathearn Harriers,M,04:29:11
 159,Gallagher,Kevin,Unattached,M40,04:32:50
 160,Johnston,Dennis,Unattached,M,04:32:50
 161,Spenceley,Julie,Unattached,F50,04:33:19

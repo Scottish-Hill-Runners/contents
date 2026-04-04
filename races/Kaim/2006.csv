@@ -1,52 +1,52 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,McCall,Andrew,Greenock Glenpark Harriers,MU20,0:30:39
-2,Scott,Nigel,Westerlands,M,0:31:40
-3,Riach,David,Westerlands,M40,0:31:54
-4,Robertson,Brian,Arran Runners,M40,0:32:02
-5,Crowe,Des,Penicuik Harriers,M40,0:32:10
-6,Fallon,Steven,Carnethy,M40,0:32:33
-7,Simpson,Stuart,Stornoway AC,M,0:32:34
-8,Mudge,Angela,Carnethy,F,0:32:40
-9,Anderson,Adam,Hartfell HRC,M,0:32:56
-10,Arnott,Luke,Westerlands,M,0:33:04
-11,Glencorse,Colin,Kilmarnock Harriers,M,0:33:37
-12,Walder,Patrick,Shettleston Harriers,M,0:33:45
-13,Anderson,Russell,Moorfoot Runners,M40,0:34:04
-14,Brunton,Alastair,Shettleston Harriers,M,0:35:06
-15,Fitchie,Martin,Unattached,M,0:35:31
-16,McLaughlin,Danny,Greenock Glenpark Harriers,M40,0:35:43
-17,Taylor,Nat,Girvan Harriers,M50,0:35:46
-18,McCulloch,Tom,Ayr Seaforth,M50,0:36:18
-19,MacLeod,Murdo,Westerlands,M50,0:36:26
-20,Begley,Tommy,Irvine RC,M,0:36:46
-21,Palmer,Helen,Bellahouston RR,F,0:36:58
-22,McDonald,Ryan,Irvine RC,MU20,0:37:23
-23,Reid,Martin,Westerlands,M40,0:37:47
-24,Anderson,Ritchie,Unattached,M40,0:38:00
-25,Dunn,Mick,Greenock Glenpark Harriers,M50,0:38:07
-26,Morgan,William,Irvine RC,MU20,0:38:36
-27,Wilkinson,Jeremy,Calder Valley,M,0:39:40
-28,Whitehead,Jo,Edinburgh AC,F40,0:40:35
-29,Fraser,Iain,Troon Tortoises,M40,0:40:45
-30,Duncan,David,Ochil Hill Runners,M50,0:41:06
-31,Dowell,Finlay,Irvine RC,M40,0:41:23
-32,Mallet,Damien,Inverclyde AC,M,0:41:46
-33,Fisher,Catriona,Westerlands,F,0:42:34
-34,Anderson,Alan,Westerlands,M40,0:44:03
-35,MacDonald,Deborah,HBT,F40,0:44:27
-36,Smith,Donald,Westerlands,M60,0:44:36
-37,McAdam,Pauline,Teviotdale Harriers,F40,0:44:36
-38,Kirk,Katherine,ESOC,F,0:45:16
-39,McLelland,David,Irvine RC,M,0:45:28
-40,Nicol,Robert,Irvine RC,M60,0:45:29
-41,Taylor,Cameron,Bellahouston RR,M,0:46:39
-42,Maclean,Andrew,Greenock Glenpark Harriers,M,0:47:45
-43,Turnbull,Drew,Westerlands,M60,0:48:57
-44,Howie,David,Unattached,M40,0:49:17
-45,MacPherson,Helen,Westerlands,F40,0:49:13
-46,Padden,Dennis,Arran Runners,M50,0:49:57
-47,Rowney,Elaine,Girvan Harriers,F,0:51:19
-48,McAdam,Myra,Westerlands,F,0:53:13
-49,Thomson,Gerry,Unattached,M50,0:54:22
-50,Crockard,Rosie,Milburn Harriers,F40,0:58:10
-51,Benny,Graham,Westerlands,M50,0:59:15
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,McCall,Andrew,Greenock Glenpark,MU20,00:30:39
+2,Scott,Nigel,Westerlands,M,00:31:40
+3,Riach,David,Westerlands,M40,00:31:54
+4,Robertson,Brian,Arran Runners,M40,00:32:02
+5,Crowe,Des,Shettleston,M40,00:32:10
+6,Fallon,Steven,Carnethy,M40,00:32:33
+7,Simpson,Stuart,Ochil Hill Runners,M,00:32:34
+8,Mudge,Angela,Carnethy,F,00:32:40
+9,Anderson,Adam,Carnethy,M,00:32:56
+10,Arnott,Luke,Westerlands,M,00:33:04
+11,Glencorse,Colin,Perth Road Runners,M,00:33:37
+12,Walder,Patrick,Shettleston,M,00:33:45
+13,Anderson,Russell,Moorfoot Runners,M40,00:34:04
+14,Brunton,Alistair,Westerlands,M,00:35:06
+15,Fitchie,Martin,Banchory,M,00:35:31
+16,McLaughlin,Danny,Greenock Glenpark,M40,00:35:43
+17,Taylor,Nat,Girvan AAC,M50,00:35:46
+18,McCulloch,Tom,Ayr Seaforth,M50,00:36:18
+19,Mcleod,Murdo,Westerlands,M50,00:36:26
+20,Begley,Tommy,Irvine AC,M,00:36:46
+21,Palmer,Helen,Westerlands,F,00:36:58
+22,McDonald,Ryan,Irvine AC,MU20,00:37:23
+23,Reid,Martin,Westerlands,M40,00:37:47
+24,Anderson,Ritchie,Unattached,M40,00:38:00
+25,Dunn,Mick,Greenock Glenpark,M50,00:38:07
+26,Morgan,William,Irvine AC,MU20,00:38:36
+27,Wilkinson,Jeremy,Calder Valley,M,00:39:40
+28,Whitehead,Jo,City of Edinburgh,F40,00:40:35
+29,Fraser,Ian,Irvine AC,M40,00:40:45
+30,Duncan,David,Ochil Hill Runners,M50,00:41:06
+31,Dowell,Findlay,Irvine AC,M40,00:41:23
+32,Mallet,Damien,Inverclyde AC,M,00:41:46
+33,Miller,Catriona,Westerlands,F,00:42:34
+34,Anderson,Alan,Westerlands,M40,00:44:03
+35,Macdonald,Deborah,HBT,F40,00:44:27
+36,Smith,Donald,Westerlands,M60,00:44:36
+37,McAdam,Pauline,Westerlands,F40,00:44:36
+38,Kirk,Katherine,Westerlands,F,00:45:16
+39,Mclelland,David,Irvine AC,M,00:45:28
+40,Nichol,Bob,Irvine AC,M60,00:45:29
+41,Taylor,Cameron,Bellahouston Road Runners,M,00:46:39
+42,Mclean,Andrew,Greenock Glenpark,M,00:47:45
+43,Turnbull,Drew,Westerlands,M60,00:48:57
+45,Howie,David,Unattached,M40,00:49:17
+45,Mcpherson,Helen,Westerlands,F40,00:49:13
+46,Padden,Dennis,Arran Runners,M50,00:49:57
+47,Rowney,Elaine,Girvan AAC,F,00:51:19
+48,Mcadam,Myra,Westerlands,F,00:53:13
+49,Thomson,Gerry,Unattached,M50,00:54:22
+50,Crockard,Rosie,Westerlands,F40,00:58:10
+51,Benny,Graham,Westerlands,M50,00:59:15

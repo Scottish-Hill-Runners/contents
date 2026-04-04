@@ -1,10 +1,10 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,McConnell,Michael,Perth Road Runners,M,00:26:56
 2,Spalding,Ross,Ochil Hill Runners,M,00:27:09
-3,Drummond,Matthew,Dundee Hawkhill ,M,00:27:37
+3,Drummond,Matthew,Dundee Hawkhill,M,00:27:37
 4,Gilmore,Iain,Carnethy HRC,M,00:28:12
-5,McBain,Johnny,Dundee Hawkhill ,M40,00:29:03
-6,Stewart,Munro,Dundee Hawkhill ,M,00:29:49
+5,McBain,Johnny,Dundee Hawkhill,M40,00:29:03
+6,Stewart,Munro,Dundee Hawkhill,M,00:29:49
 7,Whitehead,Dan,Deeside Runners,M50,00:29:58
 8,Strachan,Scott,Kinross RR,M40,00:30:15
 9,Goddard,Roger,Central AC,M40,00:30:33
@@ -12,12 +12,12 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Collins,Elliot,Perth Road Runners,M,00:30:05
 12,Souter,Michael,Perth Road Runners,M,00:30:57
 13,Duffy,Sean,Unattached,M40,00:31:15
-14,Binmore,Euan,Dundee Hawkhill ,M,00:31:52
+14,Binmore,Euan,Dundee Hawkhill,M,00:31:52
 15,Roberts,Matthew,Unattached,M,00:32:06
 16,Lidstone,David,Unattached,M,00:32:07
 17,Newton,Matt,Kinross RR,M40,00:32:14
 18,Davie,Barry,Carnegie Harriers,M40,00:32:27
-19,Cairns,kenneth,Perth Road Runners,M40,00:32:53
+19,Cairns,Kenneth,Perth Road Runners,M40,00:32:53
 20,Smith,Barry,Kinross RR,M,00:32:59
 21,Collins,Brian,Unattached,M,00:33:04
 22,Mooney,Edel,Ochil Hill Runners,F40,00:33:06
@@ -46,11 +46,11 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Reid,Stewart,Perth Road Runners,M40,00:36:03
 46,Dick,Paul,Pitreavie PAAC,M40,00:36:34
 47,Abberley,Dean,Perth Road Runners,M,00:36:45
-48,Canavan,Fíona,Dundee RR,F,00:36:46
+48,Canavan,FÃ­ona,Dundee RR,F,00:36:46
 49,Jarvis,Emily,Unattached,F,00:36:47
 50,Henson,Jonathan,Unattached,M50,00:36:59
 51,Richmond,Mike,Unattached,M40,00:37:05
-52,McArthur,Ross,Falkland TR ,M,00:37:55
+52,McArthur,Ross,Falkland TR,M,00:37:55
 53,Woodhead,Charles,Perth Road Runners,M50,00:37:57
 54,Stewart,Craig,Unattached,M,00:38:02
 55,Wallen,Tony,Kinross RR,M50,00:38:02
@@ -65,21 +65,21 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 64,Mcintosh,John,Dundee RR,M50,00:39:46
 65,Myerscough,Christine,Kinross RR,F50,00:39:53
 66,Neillands,Stuart,Ochil Hill Runners,M50,00:39:54
-67,Allan,Lyle,Falkland TR ,M50,00:39:57
+67,Allan,Lyle,Falkland TR,M50,00:39:57
 68,Bethune,Julie,Miles Together,F40,00:39:59
 69,Gallagher,Rachel,Strathearn Harriers,F50,00:40:05
 70,Thompson,Fabienne,Perth Road Runners,F50,00:40:09
 71,Ritchie,Karen,Kinross RR,F,00:40:03
 72,Callaghan,Fiona,Dundee RR,F,00:40:04
-73,Mason,Liam,Falkland TR ,M40,00:40:43
+73,Mason,Liam,Falkland TR,M40,00:40:43
 74,Kellock,Celeste,Ochil Hill Runners,F,00:40:44
 75,Atkinson,Michael,Kinross RR,M,00:40:51
 76,Anderson,Laurie,Lomonds,M50,00:40:56
 77,Cleary,Richard,Dundee RR,M50,00:40:57
 78,Thomson,Monica,Strathearn Harriers,F40,00:40:59
-79,Pease,David,Falkland TR ,M50,00:41:00
+79,Pease,David,Falkland TR,M50,00:41:00
 80,Jarvis,Laura,Unattached,F40,00:41:02
-81,Cessford,Lee,Falkland TR ,M40,00:41:02
+81,Cessford,Lee,Falkland TR,M40,00:41:02
 82,Fettes,Heidi,Dundee RR,F50,00:41:09
 83,Finlay,Connor,Kinross RR,M,00:41:13
 84,Mckay,Lauren,Carnethy HRC,F,00:41:19
@@ -114,6 +114,6 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 113,Whisler,Sue,Strathearn Harriers,F50,00:50:12
 114,Gilligan,Amy,Dundee RR,F,00:50:15
 115,Young,Simone,Kinross RR,F50,00:52:46
-116,Gardener,Alan,Falkland TR ,M50,00:54:05
+116,Gardener,Alan,Falkland TR,M50,00:54:05
 117,Lopez,Hannah,Kinross RR,F,00:54:11
 118,McAdams,Catherine,Kinross RR,F40,00:54:13

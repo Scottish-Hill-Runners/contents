@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Owens,Tom,Shettleston Harriers,M40,02:58:06
 2,Hill,Alex,Lochaber AC,M,03:00:59
 3,Day,Tom,Keswick AC,M,03:06:56
@@ -14,7 +14,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 13,Chidambaram,Nitin,Unattached,M,03:53:11
 14,Ockenden,John,HBT,M,03:54:11
 15,Campbell,Ross,Unattached,M,04:00:34
-16,Spinks,Nicky,Dark Peak ,F50,04:02:22
+16,Spinks,Nicky,Dark Peak,F50,04:02:22
 17,Till,Niall,Cuillin Dubh HRC,M,04:05:31
 18,Deamer,Matt,Unattached,M,04:07:56
 19,Walmsley,Alex,Cuillin Dubh HRC,M,04:09:14

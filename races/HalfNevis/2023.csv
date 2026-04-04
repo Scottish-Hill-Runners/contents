@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Espie,James,Deeside Runners,M,00:57:50
 2,Fraser,Callum,Lochaber AC,M,00:59:13
 3,Thorburn,Ewan,Lochaber AC,M40,01:02:15

@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde AC,M,00:19:29
 2,Wright,Angus,Team E Lothian AC,M,00:20:55
 3,Martyn,Tom,HBT,M,00:21:25
@@ -7,7 +7,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 6,Oliver,Craig,Unattached,M40,00:22:17
 7,Gilmore,Iain,Carnethy HRC,M,00:22:21
 8,Umpleby,Richie,Carnethy HRC,M,00:23:12
-9,Grant,Christopher,Portobello ,M40,00:23:44
+9,Grant,Christopher,Portobello,M40,00:23:44
 10,Walsh,Chris,HBT,M40,00:23:49
 11,Lawson,Magnus,Team E Lothian AC,MU16,00:23:54
 12,Fraser,Andy,NB Runners,M,00:24:21
@@ -148,8 +148,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 147,Guthrie,Neil,Carnethy HRC,M50,00:33:01
 148,Dale,Euan,Unattached,M,00:33:03
 149,Nelson,David,Unattached,M,00:33:08
-150,Murdoch,Mike ,Falkland Trail Runners,M40,00:33:08
-151,Hutchison,Lee,Portobello ,M,00:33:12
+150,Murdoch,Mike,Falkland Trail Runners,M40,00:33:08
+151,Hutchison,Lee,Portobello,M,00:33:12
 152,Steele,Nathan,Tewkesbury RC,M,00:33:13
 153,Doggett,Sean,Unattached,M,00:33:21
 154,Patterson,Richard,Unattached,M40,00:33:23
@@ -177,7 +177,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 176,Haddow,Andrew,Unattached,M,00:34:57
 177,Dale,Tommy,Unattached,M40,00:34:57
 178,Mason,Liam,Falkland Trail Runners,M40,00:35:05
-179,Fry,Mark,Portobello ,M60,00:35:09
+179,Fry,Mark,Portobello,M60,00:35:09
 180,Chandler,Richard,Carnethy HRC,M60,00:35:15
 181,Laurie-Pile.,Penny,Unattached,F40,00:35:15
 182,Bird,Grace,Corstorphine AAC,F,00:35:21
@@ -186,13 +186,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 185,Allen,Gina,Gala Harriers,F40,00:35:26
 186,Hughes,Duncan,N Berwick Rowing Club,M40,00:35:26
 187,Cormack,Wade,HBT,M,00:35:31
-188,Yates,Robbie,Portobello ,M50,00:35:31
+188,Yates,Robbie,Portobello,M50,00:35:31
 189,Macgregor,Gavin,Unattached,M,00:35:37
 190,Dearnley,Linda,NB Runners,F40,00:35:41
 191,McPeak,Jess,Unattached,F,00:35:45
 192,Stewart,John,Hartree Harriers,M60,00:35:45
 193,Campbell,Lindsay,Unattached,F40,00:35:50
-194,Bryson,Sarah,Portobello ,F50,00:35:50
+194,Bryson,Sarah,Portobello,F50,00:35:50
 195,Smith,Sophie,Unattached,F40,00:36:07
 196,Brown,Norman,Carnethy HRC,M60,00:36:15
 197,Lockie,Paul,Teviotdale Harriers,M50,00:36:17

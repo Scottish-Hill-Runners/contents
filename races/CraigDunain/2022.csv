@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Howie,Robin,Highland Hill Runners,M,00:40:58
 2,Urquhart,Rob,Highland Hill Runners,M,00:42:13
 3,Gilmore,Andrew,Highland Hill Runners,M,00:42:20

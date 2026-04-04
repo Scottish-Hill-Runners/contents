@@ -1,21 +1,21 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,00:45:20
-2,Masson,Alistair,Carnethy ,M,00:49:42
+2,Masson,Alistair,Carnethy,M,00:49:42
 3,Simpson,Tom,Ambleside AC,M,00:51:25
 4,Cooling,Harry,Howgill Harriers,M,00:54:08
-5,Morgan,Tim,Carnethy ,M,00:54:39
+5,Morgan,Tim,Carnethy,M,00:54:39
 6,Gilmore,Andrew,Highland HR,M,00:54:43
 7,Thorburn,Ewan,Lochaber AC,M,00:54:56
 8,Ravenscroft,Jack,Howgill Harriers,M,00:55:24
 9,Fraser,Callum,Lochaber AC,M,00:56:05
-10,Wilson,Felix,Carnethy ,M,00:56:50
+10,Wilson,Felix,Carnethy,M,00:56:50
 11,Mann,Joe,Highland HR,M,00:57:31
 12,Crutchfield,Stuart,Westerlands CCC,M,00:57:45
 13,Marshall,Brian,Haddington,M50,00:58:24
 14,Gledhill,Gabriel,Unattached,M,00:59:10
 15,Urquhart,Rob,Highland HR,M,00:59:19
 16,Slimon,James,Highland HR,M,00:59:27
-17,Gilmore,Iain,Carnethy ,M,00:59:35
+17,Gilmore,Iain,Carnethy,M,00:59:35
 18,Anthony,Alasdair,Ochils,M40,01:00:28
 19,Davidson,Gregor,Lochaber AC,M40,01:01:21
 20,Cope,David,Howgill Harriers,M,01:01:49
@@ -29,7 +29,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 28,Halcrow,Bryony,Ambleside AC,F,01:05:16
 29,Baird,Colin,Moray RR,M,01:05:52
 30,Shaw,Ruairidh,Lochaber AC,M,01:07:59
-31,McDougall,Stephen,Carnethy ,M,01:09:33
+31,McDougall,Stephen,Carnethy,M,01:09:33
 32,Macfadyen,Anna,Forres Harriers,F,01:09:34
 33,Cameron,Angus,Lochaber AC,M,01:12:21
 34,Till,Niall,Skye and Lochalsh RC,M,01:12:59
@@ -40,13 +40,13 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 39,Malcolm,Stuart,Highland HR,M50,01:15:46
 40,Jamieson,Alex,Cuillin Dubh HRC,M,01:15:49
 41,Wheeler,Mark,Hamilton Harriers,M40,01:15:54
-42,Robson,Scott,Carnethy ,M,01:16:36
+42,Robson,Scott,Carnethy,M,01:16:36
 43,Inglis,Niall,Cuillin Dubh HRC,M,01:16:38
 44,Mackie,Eugene,Highland HR,M,01:16:48
 45,Lusink,Tom,Unattached,M,01:17:50
 46,Campbell,Garry,Unattached,M,01:17:53
 47,Munro,David,Lochaber AC,M50,01:18:05
-48,Shepherd,Andrew,Carnethy ,M60,01:18:23
+48,Shepherd,Andrew,Carnethy,M60,01:18:23
 49,Bakermans,Manouk,Highland HR,F,01:18:53
 50,Sutton,Sarah,Cuillin Dubh HRC,F,01:19:10
 51,MacBeath,Niall Alisdair,Lochaber AC,M50,01:19:40
@@ -57,7 +57,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 56,Jamieson,David,Cuillin Dubh HRC,M50,01:21:43
 57,Taylor,Gordie,Highland HR,M50,01:21:50
 58,Disher,Amy,Lochaber AC,F,01:21:54
-59,Simmonds,Guylee,Tromsø,M,01:22:05
+59,Simmonds,Guylee,Troms?,M,01:22:05
 60,Macphail,Catherine Joanne,Shettleston Harriers,F,01:22:31
 61,Macsween,Angus,Unattached,M,01:22:32
 62,MacDonald,Kira,Lochaber AC,F,01:23:06

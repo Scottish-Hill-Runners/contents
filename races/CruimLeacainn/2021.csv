@@ -1,5 +1,5 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Valdes,Francisco Javier Cabrera,Highland Hill Runners,M,00:48:27
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Valdes,Francisco Javier Cabrera,Highland Hill Runners,M,00:48:27
 2,Foggo,Iain,Lochaber AC,M,00:48:41
 3,Wilson,Peter,Lochaber AC,M,00:49:10
 4,Dent,Alex,Lochaber AC,M,00:49:26

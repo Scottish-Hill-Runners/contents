@@ -1,97 +1,97 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Symonds,Joe,Shettleston Harriers,M,0:28:47
-2,Stevenson,Jamie,Ochil Hill Runners,M,0:29:22
-3,Stewart,Gregor,Westerlands,M,0:29:47
-4,Bellamy,Gwyn,Westerlands,M,0:30:11
-5,Simpson,Robert,Shettleston Harriers,M,0:30:56
-6,Richmond,Kenny,Shettleston Harriers,M40,0:32:13
-7,Reid,Bob,Gala Harriers,M,0:32:27
-8,Mackie,Peter,Shettleston Harriers,M,0:32:40
-9,Glendinning,Greig,Bellahouston RR,M40,0:32:57
-10,Gilmore,Iain,Carnethy,M,0:33:23
-11,Baxter,Grant,Ochil Hill Runners,M40,0:33:40
-12,Stevenson,John,Ochil Hill Runners,M50,0:34:08
-13,Burt,Cameron,Westerlands,M,0:34:30
-14,Gilkison,Alan,Westerlands,M40,0:34:45
-15,O`Connell,Tommy,Bellahouston RR,M,0:34:51
-16,Coy,Thomas,Unattached,M,0:34:54
-17,Freshwater,Craig,HBT,M,0:35:13
-18,Riach,David,Westerlands,M40,0:35:33
-19,McNeill,Norry,Kirkintilloch Olympians,M40,0:35:39
-20,Upson,Chris,Westerlands,M50,0:35:43
-21,Gilmore,Neil,Carnethy,M50,0:35:46
-22,Smith,Bruce,Carnethy,M50,0:35:54
-23,Brown,Gareth,North Ayrshire AC,M,0:36:03
-24,Thurlbeck,Ian,Westerlands,M50,0:36:09
-25,Dickson,David,Westerlands,M50,0:36:37
-26,Walton,Finlay,Westerlands,M,0:36:40
-27,Watson,Dan,Lochtayside,M40,0:36:42
-28,Saltums,Arnis,Clydeside Orienteers,M,0:37:09
-29,Kravcovs,Robert,Westerlands,M,0:37:11
-30,Barr,Tom,HBT,M40,0:37:28
-31,Campbell,Donald,Unattached,M,0:37:37
-32,McKiddie,Christopher,Westerlands,M,0:37:40
-33,Mathieson,Stuart,Bellahouston RR,M,0:37:41
-34,Hughes,Ian,Calderglen Harriers,M40,0:37:44
-35,Davis,Duncan,Carnethy,M40,0:37:48
-36,Normand,Ivor,HBT,M50,0:37:50
-37,Wheeler,Mark,Hamilton Harriers,M,0:37:51
-38,Waters,Paul,Ochil Hill Runners,M,0:37:52
-39,Stephen,Jill,HBT,F,0:38:09
-40,Bloodworth,Jack,Ochil Hill Runners,M,0:38:18
-41,Orr,Johnston,Westerlands,M,0:38:19
-42,Eklund,Lars,Unattached,M40,0:38:31
-43,Brodie,Stuart,Ochil Hill Runners,M,0:38:33
-44,Rigmand,Derek,Bellahouston RR,M50,0:38:34
-45,Pugh,Roderick,Kilmarnock Harriers,M50,0:38:41
-46,Price,Aron,Westerlands,M,0:38:43
-47,McCallum,Alasdair,Norham RC,M40,0:39:09
-48,Cowper,Stephen,Milburn Harriers,M40,0:39:10
-49,Lampard,Stuart,Unattached,M40,0:39:19
-50,Houston,Val,Westerlands,F45,0:39:30
-51,MacLeod,Murdo,Westerlands,M60,0:40:48
-52,Cunningham,Roddy,Westerlands,M,0:40:50
-53,Morris,Alan,Unattached,M,0:40:52
-54,Hetherington,Michelle,Carnethy,F45,0:41:15
-55,Somerville,Elaine,Bellahouston RR,F35,0:41:18
-56,Watkinson,Bob,Ochil Hill Runners,M50,0:41:25
-57,Owen,Alan,Whitemoss,M40,0:41:26
-58,Tibbs,Brian,Mugdock Runners,M50,0:41:28
-59,Howie,Jamie,Bellahouston RR,M,0:41:34
-60,Edwards,Colin,Ochil Hill Runners,M40,0:41:36
-61,Robertson,Murray,Unattached,M,0:41:42
-62,Guevar,Julien,Trent Park,M,0:41:51
-63,Mcintosh,Mairi,Ochil Hill Runners,F40,0:42:02
-64,Kealey,Karen,Ochil Hill Runners,F35,0:42:20
-65,Reid,Don,Westerlands,M50,0:42:28
-66,Peplinski,George,Unattached,M50,0:42:36
-67,Johnston,Stephen,Milburn Harriers,M50,0:42:41
-68,Shaw,Trevor,Lochtayside,M50,0:43:21
-69,Douglas,George,Westerlands,M,0:43:23
-70,Brennan,Brian,Westerlands,M50,0:43:46
-71,Coy,Vicky,Unattached,F35,0:44:16
-72,Britton,Liz,Dark Peak,F,0:44:19
-73,McKendrick,Scott,North Ayrshire AC,M40,0:44:37
-74,O`Connell,Ciara,Bellahouston RR,F,0:44:40
-75,Flores,Leyre,Westerlands,F,0:45:00
-76,Kay,Emma,VP Glasgow,F,0:45:12
-77,Urquhart,William,Unattached,M50,0:45:35
-78,Provan,Jamie,Westerlands,M,0:45:56
-79,McMurray,Alan,Glasgow Tri Club,M40,0:46:07
-80,Ridyard,Alison,HBT,F35,0:46:17
-81,Sandbach,John,Bellahouston RR,M50,0:46:22
-82,Polak,Jo,Highland Hill Runners,F50,0:46:31
-83,Hamer,John,Westerlands,M50,0:46:33
-84,Houldsworth,Sandra,Kilbarchan,F,0:46:38
-85,Salin,Karine,Westerlands,F,0:46:59
-86,Midgley,Peter,Westerlands,M50,0:47:09
-87,Menhennet,Christine,Westerlands,F55,0:47:10
-88,MacPherson,Helen,Westerlands,F55,0:49:16
-89,Thompson,Iain,Unattached,M50,0:49:48
-90,Buchanan,Dawn,Westerlands,F35,0:51:26
-91,Martin,Carol,Westerlands,F45,0:53:59
-92,Edwards,Sara,Unattached,F35,0:57:54
-93,Bloodworth,Karin,Ochil Hill Runners,F,0:57:59
-94,Taylor,Sharon,Westerlands,F45,0:58:12
-95,Wilson,Rachel,Springburn Harriers,F35,0:58:28
-96,Larravide,Claire,Westerlands,F,1:01:04
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Symonds,Joe,Shettleston Harriers,M,00:28:47
+2,Stevenson,Jamie,Ochil Hill Runners,M,00:29:22
+3,Stewart,Gregor,Westerlands CCC,M,00:29:47
+4,Bellamy,Gwyn,Westerlands CCC,M,00:30:11
+5,Simpson,Robert,Westerlands CCC,M,00:30:56
+6,Richmond,Kenny,Shettleston Harries,M40,00:32:13
+7,Reid,Bob,Bellahouston RR,M,00:32:27
+8,Mackie,Peter,Shettleston Harriers,M,00:32:40
+9,Glendinning,Greig,Bellahouston RR,M40,00:32:57
+10,Gilmore,Iain,Carnethy,M,00:33:23
+11,Baxter,Grant,Ochil Hill Runners,M40,00:33:40
+12,Stevenson,John,Ochil Hill Runners,M50,00:34:08
+13,Burt,Cameron,Westerlands CCC,M,00:34:30
+14,Gilkison,Alan,Westerlands CCC,M40,00:34:45
+15,O'Connell,Tommy,Bellahouston RR,M,00:34:51
+16,Coy,Tom,Unattached,M,00:34:54
+17,Freshwater,Craig,Westerlands CCC,M,00:35:13
+18,Riach,David,Westerlands CCC,M40,00:35:33
+19,McNeill,Norman,Ochil Hill Runners,MV,00:35:39
+20,Upson,Chris,Westerlands CCC,M50,00:35:43
+21,Gilmore,Neil,Carnethy,M50,00:35:46
+22,Smith,Bruce,Carnethy,M50,00:35:54
+23,Brown,Gareth,North Ayrshire AC,M,00:36:03
+24,Thurlbeck,Ian,Westerlands CCC,M50,00:36:09
+25,Dickson,David,Westerlands CCC,M50,00:36:37
+26,Walton,Finlay,Westerlands CCC,M,00:36:40
+27,Watson,Dan,Lochtayside,M40,00:36:42
+28,Saltums,Arnis,Clydeside Orienteers,M,00:37:09
+29,Kravcovc,Robert,Westerlands CCC,M,00:37:11
+30,Barr,Tom,HBT,M40,00:37:28
+31,Campbell,Donald,Unattached,M,00:37:37
+32,McKiddie,Christopher,Westerlands CCC,M,00:37:40
+33,Mathieson,Stuart,Bellahouston RR,M,00:37:41
+34,Hughes,Ian,Calderglen Harriers,M40,00:37:44
+35,Davis,Duncan,Carnethy,M40,00:37:48
+36,Normand,Ivor,HBT,M50,00:37:50
+37,Wheeler,Mark,Hamilton Harriers,M,00:37:51
+38,Waters,Paul,Ochil Hill Runners,M,00:37:52
+39,Stephen,Jill,HBT,F,00:38:09
+40,Bloodworth,Jack,Ochil Hill Runners,M,00:38:18
+41,Orr,Johnston,Westerlands CCC,M,00:38:19
+42,Eklund,Lars,Unattached,M40,00:38:31
+43,Brodie,Stuart,Ochil Hill Runners,M,00:38:33
+44,Rigmand,Derek,Bellahouston RR,M50,00:38:34
+45,Pugh,Roderick,Kilmarnock Harriers,M50,00:38:41
+46,Price,Aron,Westerlands CCC,M,00:38:43
+47,McCallum,Alasdair,North Ayrshire AC,M40,00:39:09
+48,Cowper,Stephen,Milburn Harriers,M40,00:39:10
+49,Lampard,Stuart,Unattached,M40,00:39:19
+50,Houston,Val,Westerlands CCC,F45,00:39:30
+51,Macleod,Murdo,Westerlands CCC,M60,00:40:48
+52,Cunningham,Roddy,Westerlands CCC,M,00:40:50
+53,Morris,Alan,Unattached,M,00:40:52
+54,Hetherington,Michelle,Helensburgh AAC,F45,00:41:15
+55,Somerville,Euaine,Bellahouston RR,F35,00:41:18
+56,Watkinson,Bob,Unattached,M50,00:41:25
+57,Owen,Alan,Whitemoss AC,M40,00:41:26
+58,Tibbs,Brian,Mugdock Runners,M50,00:41:28
+59,Howie,Jamie,Bellahouston RR,M,00:41:34
+60,Edwards,Colin,Unattached,M40,00:41:36
+61,Robertson,Murray,Unattached,M,00:41:42
+62,Guevar,Julien,Trent Park,M,00:41:51
+63,McIntosh,Mairi,Ochil Hill Runners,F45,00:42:02
+64,Kealey,Karen,Ochil Hill Runners,F35,00:42:20
+65,Reid,Don,Westerlands CCC,M50,00:42:28
+66,Peplinski,Georff,Unattached,M50,00:42:36
+67,Johnston,Stephen,Milburn Harriers,M50,00:42:41
+68,Shaw,Trevor,Lochtayside,M50,00:43:21
+69,Douglas,George,Westerlands CCC,M,00:43:23
+70,Brennan,Brian,Westerlands CCC,M50,00:43:46
+71,Coy,Vicky,Unattached,F35,00:44:16
+72,Britton,Liz,Dark Peak,F,00:44:19
+73,McKendrick,Scott,North Ayrshire AC,M40,00:44:37
+74,O'Connell,Ciara,Bellahouston RR,F,00:44:40
+75,Flores,Leyre,Westerlands CCC,F,00:45:00
+76,Kay,Emma,Victoria Park,F,00:45:12
+77,Crovhart,William,Unattached,M50,00:45:35
+78,Provan,Jamie,Westerlands CCC,M,00:45:56
+79,McMurry,Alan,Glasgow Tri,M40,00:46:07
+80,Ridyard,Alison,Unattached,F35,00:46:17
+81,Sandbach,John,Bellahouston RR,M50,00:46:22
+82,Polak,Jo,Lomond Swimming and Triathlon,F50,00:46:31
+83,Hamer,John,Westerlands CCC,M50,00:46:33
+84,Houldsworth,Sandra,Kilbarchan AAC,F,00:46:38
+85,Salin,Karine,Westerlands CCC,F,00:46:59
+86,Midgley,Peter,Westerlands CCC,M50,00:47:09
+87,Menhennet,Christine,Westerlands CCC,F55,00:47:10
+88,Macpherson,Helen,Westerlands CCC,F55,00:49:16
+89,Thompson,Iain,Unattached,M50,00:49:48
+90,Buchannan,Dawn,Westerlands CCC,F35,00:51:26
+91,Martin,Carol,Unattached,F45,00:53:59
+92,Edwards,Sara,Unattached,F35,00:57:54
+93,Moore,Karin,Unattached,F,00:57:59
+94,Taylor,Sharon,Westerlands CCC,F45,00:58:12
+95,Wilson,Rachel,Unattached,F35,00:58:28
+96,Larravide,Claire,Westerlands CCC,F,01:01:04

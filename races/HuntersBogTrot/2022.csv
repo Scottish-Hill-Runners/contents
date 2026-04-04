@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Sasha,Carnethy,M,00:23:22
 2,Masson,Alistair,Carnethy,M,00:24:16
 3,Martyn,Tom,HBT,M,00:24:19
@@ -9,7 +9,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 8,Naylor,Donald,HBT,M50,00:25:45
 9,Malcolm,Gregor,Edinburgh Uni H&H,M,00:25:58
 10,Fraser,Scott,HBT,M,00:26:26
-11,Otton,Thomas  S,Carnethy,M,00:26:47
+11,Otton,Thomas S,Carnethy,M,00:26:47
 12,Henderson,Jonny,HBT,M,00:27:33
 13,Gay,Dan,HBT,M40,00:27:58
 14,Rigg,Will,Carnethy,M,00:28:02

@@ -1,0 +1,106 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Foster,George,Keswick AC,M,1:09:20
+2,Hooper,Samuel,Carnethy HRC,M,1:13:23
+3,Otton,Thomas,Carnethy HRC,M,1:13:39
+4,Downie,Robin,Lochaber Athletic Club,M,1:14:15
+5,McInally,Ralph,Strathearn harriers,M,1:14:37
+6,Concha,Jose,Helm Hill Runners,M,1:17:17
+7,McCall,Andrew,Westerlands CCC,M,1:18:11
+8,Ross,Alan,Lochaber Athletic club,M40,1:22:43
+9,Campbell,Garry,Lochaber Athletic Club,M,1:25:08
+10,Henderson,Scott,Westerlands CCC,M40,1:26:19
+11,Pringle,Stuart,Deeside Runners,M40,1:26:46
+12,Kenny,Conor,Westerlands CCC,M,1:26:54
+13,MacDonald,Catriona,Bellahouston Road Runners,F,1:27:55
+14,Waters,Donald,Westerlands CCC,M,1:28:39
+15,Peters,Ella,Westerlands CCC,F,1:28:47
+16,Drysdale,Simon,Lochaber Athletic Club,M,1:28:51
+17,Gordon,Neil,Carnethy HRC,M,1:29:26
+18,McMillan,Alan,Unattached,M,1:30:41
+19,Gaik,Natalia,Unattached,F,1:30:56
+20,Kenny,Jamie,Carnethy HRC,M,1:31:05
+21,MacDonald,John,Lochaber Athletic Club,M40,1:31:03
+22,Wosik,Arkadiusz,SORunning Club,M40,1:31:17
+23,Hunter,Chris,Victoria Park Glasgow,M50,1:31:28
+24,McInally,Hanna,Strathearn harriers,F,1:31:32
+25,Downie,Hugh,Unattached,M,1:31:46
+26,Anderson,Micky,Westerlands CCC,M60,1:31:47
+27,Wake,Ben,Unattached,M,1:31:52
+28,Wheeler,Mark,Hamilton harriers,M40,1:31:56
+29,Allsop,David,Kirkintilloch Olympians,M50,1:32:27
+30,O'Callaghan,Alan,Vegan Runners,M,1:34:19
+31,Redlica,Slawomir,VP Glasgow,M40,1:34:37
+32,Gray,Andrew,Unattached,M40,1:34:58
+33,Templeman,Simon,Ochil Hill Runners,M50,1:36:26
+34,Mcinally,Patch,strathearn harriers,M,1:36:44
+35,Frackowiak,Mateusz,Unattached,M,1:37:54
+36,Williams,David,Lochaber Athletic club,M,1:38:01
+37,Price,Daniel,Unattached,M40,1:38:01
+38,Shakespeare,Ed,Hyde Park Harriers,M,1:38:35
+39,Wells,Simon,Bellahouston road runners,M40,1:39:03
+40,Beardwood,Garry,Helm Hill Runners,M50,1:39:21
+41,Reid,Don,Westerlands CCC,M60,1:39:53
+42,Taggart,David,Hamilton Harriers,M40,1:40:33
+43,Foster,Paul,Westerlands CCC,M,1:41:11
+44,Preiss,Alastair,Ochil Hill Runners,M50,1:41:27
+45,Bienfait,Jamie,Lochaber Athletic Club,M,1:42:06
+46,Buchheim,Lana,Westerlands CCC,F,1:42:17
+47,Dick,Paul,west fife trail Clan,M40,1:42:20
+48,Gray,Connor,Unattached,M,1:42:22
+49,Janowski,Krzysztof,Unattached,M40,1:42:46
+50,Marr,Scott,Unattached,M,1:42:55
+51,Short,Kenneth,Teviotdale Harriers,M50,1:43:01
+52,Watkiss,Natasha,Unattached,F,1:43:09
+53,Mchenry,Martin,Kirkintilloch Olympians,M,1:43:53
+54,Turner,Simon,Tinto Hill Runners,M50,1:44:27
+55,Hennessey,Lee,Unattached,M,1:45:41
+56,McGlennon,Chris,Epic Runners,M50,1:45:53
+57,Allen,Lynne,Unattached,F,1:46:30
+58,Kelly,Graham,Westerlands CCC,M50,1:46:27
+59,Brown,Chris,Claymore,M,1:47:11
+60,Munro,Graham,Lochaber Athletic Club,M50,1:47:36
+61,Eckton,Ben,Poles and Crocs,M,1:48:11
+62,Williamson,Max,Westerlands CCC,M,1:48:27
+63,Kennedy,Michaela,Lochaber Athletic Club,F,1:49:16
+64,Matthewson,Alastair,Highland Hill Runners,M60,1:49:18
+65,Szafranska,Anna,Unattached,F50,1:49:58
+66,Bartlett,Patrick,interlopers,M50,1:50:50
+67,Pearce,Matt,Troon Tortoises,M50,1:51:19
+68,Jack,Tony,Unattached,M50,1:51:50
+69,Baillie,Charles,Unattached,M40,1:52:11
+70,White-Howe,Daniel,Unattached,M,1:52:10
+71,Wosik,Katarzyna,SORunning Club,F40,1:52:27
+72,Pugh,Roderick,Kilmarnock Harriers,M60,1:52:48
+73,Rafferty,Alistair,Unattached,M,1:54:01
+74,Williams,Naomi,Lochaber Athletic Club,F,1:54:21
+75,Speight,Chris,Helm Hill Runners,M60,1:55:46
+76,MacKenzie,Ross,Lochaber Athletic Club,M,1:56:18
+77,Furse,Chris,Westerlands CCC,M50,1:57:01
+78,Zolnowski,Mateusz,Lechia Gdansk,M,1:57:39
+79,Littler,Alice,Poles and Crocs,F,1:58:31
+80,Chrobot,Roksi,Unattached,F,1:58:38
+81,Dunn,Kevin,Kirkintilloch Olympians,M40,1:59:28
+82,Ziemianski,Maciej,SORunning Club,M40,2:01:54
+83,MacVarish,Christine,Lothian running club,F50,2:03:09
+84,Hill,Stuart,Tinto Hill Runners,M40,2:03:17
+85,McShane,Patrick,Jog scotland,M,2:03:19
+86,Ness,David,Unattached,M50,2:03:29
+87,Brown,Donald,Lomond Hill Runners,M50,2:03:33
+88,MacDonald,Robyn,Lothian running club,FU23,2:07:48
+89,Entwistle,Marie,Deeside Runners,F50,2:09:50
+90,McGreevy,Kay,Unattached,F60,2:10:17
+91,Blomkvist,Andrea,Westerlands CCC,F,2:11:24
+92,Stakes,David,Westerlands CCC,M60,2:12:56
+93,Zawila,Katarzyna,SORunning Club,F40,2:15:21
+94,Rybak,Radoslaw,SORunning Club,M40,2:15:21
+95,Douglaas,George,Westerlands CCC,M50,2:16:16
+96,McDougall,Simon,Bellahouston Harriers,M40,2:17:10
+97,Wiggins,Melissa,Marathoners Orlando FL,F40,2:17:28
+98,Little,Michael,Unattached,M40,2:18:05
+99,Hair,Steven,Unattached,M,2:23:47
+100,Lammers,Wiebke,Westerlands CCC,F40,2:23:56
+101,Devlin,Steph,Dundee Road Runners,F40,2:29:42
+102,Huntley,Chris,Tinto Hill Runners,M60,2:31:43
+103,Wall,Richard,Hunters Bog Trotters,M70,2:46:34
+104,Blazejczyk,Magdalena,parkrun,F40,3:13:59
+105,Ward,William,parkrun,M50,3:13:59

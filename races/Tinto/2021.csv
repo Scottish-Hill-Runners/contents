@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Chepelin,Alexander,Carnethy,M,00:31:31
 2,Brown,Ewan,Corstorphine AAC,M,00:31:51
 3,Espie,James,Deeside Runners,M,00:32:04
@@ -126,7 +126,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 125,Park,Archibald,Hartfell HRC,M60,00:55:27
 126,Godfrey,Kevin,Lothian Running Club,M50,00:55:50
 127,Mitchell,David,Kilmaurs,M50,00:56:04
-128,Alexander,Jim,Lothian ,M50,00:56:33
+128,Alexander,Jim,Lothian,M50,00:56:33
 129,Huntley,Chris,Tinto Hill Runners,M60,00:56:53
 130,Black,Stuart,Queensberry RC,M,00:57:34
 131,Hartree,Mark,Carnethy,M50,00:57:41

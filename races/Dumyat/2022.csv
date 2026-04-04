@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Knowles,Matthew,Edinburgh Uni H & H,M,00:32:36
 2,Stevenson,Jamie,Ochil Hill Runners,M,00:33:44
 3,Spencer,Daniel,EUOC,M,00:34:04
@@ -56,7 +56,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Newman,Richard,Unattached,M40,00:41:48
 56,Henderson,Scott,Westerlands CCC,M40,00:41:54
 57,Downs,Ellen,Westerlands CCC,F,00:41:56
-58,Stewart,Munro,Dundee Hawkhill ,M,00:42:01
+58,Stewart,Munro,Dundee Hawkhill,M,00:42:01
 59,Finch,Tom,Westerlands CCC,M,00:42:09
 60,Irvine,Mark,Glasgow Uni H & H,M,00:42:12
 61,Walker,Sean,Unattached,M,00:42:21
@@ -108,7 +108,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 107,Barraclough,Laura,Carnethy,F,00:45:57
 108,Roberts,Morris,Strathearn Harriers,M,00:46:02
 109,Callender,James,Westerlands CCC,M,00:46:11
-110,Borgeal,Romain,Dundee Hawkhill ,M,00:46:12
+110,Borgeal,Romain,Dundee Hawkhill,M,00:46:12
 111,Shepherd,Sorcha,Edinburgh AC,F,00:46:15
 112,Dudchenko,Paul,Linlithgow AC,M,00:46:20
 113,Preiss,Alastair,Ochil Hill Runners,M,00:46:22
@@ -290,7 +290,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 289,MacSween,Alastair,Wee County Harriers,M50,00:58:56
 290,Snow,Laurence,Unattached,M,00:59:01
 291,Scott,Mandy,Unattached,F50,00:59:02
-292,Gilburn,Andre´,Wee County Harriers,M50,00:59:08
+292,Gilburn,Andre?,Wee County Harriers,M50,00:59:08
 293,McDaid,Alice,Forth Valley Orienteers,F,00:59:18
 294,Briggs,Steve,Unattached,M50,00:59:23
 295,Paterson,Pippa,Unattached,F,00:59:35

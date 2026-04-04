@@ -1,7 +1,7 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Wild,Finlay,Lochaber AC,M,00:59:53
 2,Cartwright,Billy,Matlock AC,M,01:02:38
-3,Lennon,Eoin,Carnethy ,M,01:03:03
+3,Lennon,Eoin,Carnethy,M,01:03:03
 4,Espie,James,Deeside Runners,M,01:03:22
 5,Graves,Alastair,Ochils,M,01:03:58
 6,Vokes,Philip,Unattached,M,01:04:13
@@ -15,7 +15,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 14,Bartholomew,Douglas,Unattached,M,01:11:44
 15,Cooling,Harry,Howgill Harriers,M,01:11:51
 16,Crutchfield,Stuart,Lochaber AC,M,01:11:56
-17,Lunt,Mark,Carnethy ,M,01:12:46
+17,Lunt,Mark,Carnethy,M,01:12:46
 18,Fraser,Callum,Lochaber AC,M,01:12:49
 19,Ferguson,Norman,Stornoway R & AC,M,01:12:55
 20,Williams,Francis,Highland HR,M40,01:13:36
@@ -34,7 +34,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 33,Finch,Tom,Westerlands CCC,M,01:18:18
 34,Cameron,Angus,Lochaber AC,M,01:18:50
 35,Rogan,Kirstie,Highland HR,F,01:19:53
-36,McDougall,Stephen,Carnethy ,M,01:20:04
+36,McDougall,Stephen,Carnethy,M,01:20:04
 37,Bentley,Alfie,Lochaber AC,M,01:20:34
 38,Lorimer,Hayden,HBT,M50,01:20:39
 39,Kirk,Lachlan,Grampian Orienteers,M,01:21:23
@@ -64,7 +64,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,Oldham,Veronique,Cosmics,F50,01:27:40
 64,Padilla,Monica,Highland HR,F,01:27:49
 65,Gordon,Helen,Unattached,F,01:29:38
-66,Gillies,Sam,Carnethy ,M,01:29:48
+66,Gillies,Sam,Carnethy,M,01:29:48
 67,O'Neill,Owen,Westerlands CCC,M,01:30:40
 68,Krall,Richard,Unattached,M40,01:30:53
 69,Myatt,Rona,Westerlands CCC,F,01:30:58
@@ -105,8 +105,8 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 104,Haines,Lucy,Edinburgh Uni H&H,F,01:45:29
 105,Andrews,Margaret,Highland HR,F50,01:45:41
 106,Oliver,David,Deeside Runners,M60,01:46:39
-107,Gillien,Kenneth,Unattached,m,01:47:20
-108,Atkin,David,Westerlands CCC,,01:48:16
+107,Gillien,Kenneth,Unattached,M,01:47:20
+108,Atkin,David,Westerlands CCC,M,01:48:16
 109,Macpherson,Shona,Highland HR,F40,01:48:30
 110,Cameron,Kathleen,Lochaber AC,F,01:49:25
 111,Till,Dave,Skye & Lochalsh RC,M60,01:49:44
@@ -126,7 +126,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 125,Oliver,Jane,Deeside Runners,F60,01:59:19
 126,Clunas,Gillian,Cosmics,F60,02:00:18
 127,Eleftheriou,Katerina,University of Stirling TC,F,02:02:50
-128,Hay,Debz Way,Anster Haddies ,F50,02:02:50
+128,Hay,Debz Way,Anster Haddies,F50,02:02:50
 129,Fowler,Paul,Ochils,M40,02:11:58
 130,Oikkonen,Kaisa,Forres Harriers,F40,02:14:46
 131,Ellison,Chris,Cairngorm Runners,M40,02:15:02

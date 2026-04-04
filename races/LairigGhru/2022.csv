@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Stewart,Fraser,Cambuslang Harriers,M,03:08:48
 2,Yells,John,Lochaber AC,M,03:12:43
 3,Braby,Liam,Carnethy,M,03:21:31
@@ -26,7 +26,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Strachan,Scott,Kinross RR,M40,03:55:19
 26,Broderick,Phil,EH3-Milers,M,03:56:31
 27,Jannetta,Andrew,PH Racing Club,M,03:57:33
-28,Willox,Russell,Metro Aberdeen ,M40,03:58:55
+28,Willox,Russell,Metro Aberdeen,M40,03:58:55
 29,Rayne,James,Jog Scotland,M,03:59:22
 30,Sheridan,Marcus,Dundee RR,M,04:00:29
 31,Whiteside,Gavin,Highland Hill Runners,M40,04:01:16
@@ -63,7 +63,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 62,Bell,Martin,Lomonds,M40,04:24:56
 63,Barraclough,Laura,Carnethy,F,04:25:52
 64,Reeks,Gordon,Unattached,M40,04:25:44
-65,Borgeal,Romain,Dundee Hawkhill ,M,04:27:26
+65,Borgeal,Romain,Dundee Hawkhill,M,04:27:26
 66,Corbin,Matt,Unattached,M40,04:27:33
 67,Macpherson,Rory,Cosmics,M,04:28:50
 68,Fenton,Robert,Unattached,M,04:29:05
@@ -121,12 +121,12 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 120,Slater,Donald,Drummond Bears,M,04:58:25
 121,Torrance,John,Unattached,M,04:59:05
 122,Plowman,Russell,Unattached,M40,04:59:32
-123,Maxwell,Stewart,Metro Aberdeen ,M,04:59:50
+123,Maxwell,Stewart,Metro Aberdeen,M,04:59:50
 124,Milne,Jeremy,Carnethy,M50,05:00:15
 125,Smith,Matt,Unattached,M,05:00:48
 126,Tirbooman,Alice,Westerlands CCC,F,05:00:56
 127,King,Gillian,Cosmics,F40,05:01:43
-128,Canavan,Fíona,Dundee RR,F,05:02:00
+128,Canavan,F?ona,Dundee RR,F,05:02:00
 129,Howard,Christopher,Unattached,M40,05:03:02
 130,Duncan,Nicola,Carnethy,F40,05:03:49
 131,Orr,Jessica,Unattached,F,05:04:20
@@ -195,4 +195,4 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 194,Maxwell,Susie,Penicuik Harriers,F40,06:16:55
 195,Cumming,Graeme,Cosmics,M50,06:19:10
 196,Mearns,Vikki,Insch TRC,F40,06:19:43
-197,Mcleod,Roddy,Metro Aberdeen ,M50,06:23:53
+197,Mcleod,Roddy,Metro Aberdeen,M50,06:23:53

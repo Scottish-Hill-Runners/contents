@@ -1,5 +1,5 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Boyd,Nicholas ,Moorfoot Runners,M,00:23:37
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Boyd,Nicholas,Moorfoot Runners,M,00:23:37
 2,Lavin,Daniel,Moorfoot Runners,M,00:25:19
 3,McCarron,Christopher,Cambuslang Harriers,M,00:26:03
 4,Dickie,Adam,Dumfries RC,M40,00:26:44
@@ -22,7 +22,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Heycock,Lucy,Hartfell HRC,F50,00:37:00
 22,Lee,Jennifer,Hartfell HRC,F40,00:37:28
 23,Huntley,Chris,Tinto Hill Runners,M60,00:38:46
-24,Greighton,Alan ,Annan & District AC,M60,00:40:40
+24,Greighton,Alan,Annan & District AC,M60,00:40:40
 25,Richards,Carol,Hamilton Harriers,F40,00:41:34
 26,Lyall,Martin,Hartfell HRC,M40,00:43:04
 27,Simpson,Mark Scott,Hartfell HRC,M60,00:43:31

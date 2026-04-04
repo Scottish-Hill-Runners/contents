@@ -1,59 +1,59 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Waldie,James,HBT,M,1:07:35
-2,Davies,Phil,Borrowdale Fell Runners,M40,1:09:46
-3,Barrington,Andrew,Lochaber AC,M,1:13:36
-4,Gilmore,Iain,Carnethy,M,1:15:28
-5,McVey,Alex,Carnethy,M,1:16:12
-6,Jackson,Chris,Pennine Fell Runners,M,1:18:01
-7,Huggett,Chris,Royal Marines,M,1:18:22
-8,Shekleton,Nigel,Carnethy,M,1:19:01
-9,Curry,Matthew,Carnethy,M,1:19:27
-10,Hammond,John,Carnethy,M,1:19:58
-11,Knox,Thomas,Anster Haddies,M,1:20:58
-12,Dougal,Darin,Moorfoot Runners,M40,1:21:08
-13,Knox,Jonny,Anster Haddies,M50,1:22:25
-14,Hardie,James,Carnethy,M,1:23:35
-15,Matthews,Steve,Dundee Hawkhill,M40,1:23:40
-16,Ryan,John,Carnethy,M,1:24:11
-17,Thin,Jamie,HBT,M40,1:24:35
-18,Cox,Andrew,Moorfoot Runners,M,1:24:50
-19,Gilmore,Neil,Carnethy,M50,1:25:43
-20,Howett,Andrew,Carnethy,M,1:26:46
-21,Hemmings,Anthony,Carnethy,M,1:26:50
-22,Hewitt,John,Glossopdale,M50,1:27:14
-23,Renville,Alan,Carnethy,M40,1:28:06
-24,Burnett,Neil,Carnethy,M40,1:28:11
-25,Lynch,Mike,Carnethy,M40,1:28:56
-26,Gamble,Adam,Carnethy,M,1:29:07
-27,Greens,Michael,Penicuik Harriers,M,1:33:06
-28,O`Neill,Owen,Westerlands,M,1:34:28
-29,Yates,George,Dark Peak,M40,1:34:30
-30,Smith,Matthew,Forth Valley Orienteers,M40,1:34:36
-31,Farquhar,Jeff,Pitreavie,M50,1:36:13
-32,Swanson,Alan,Carnethy,M40,1:37:04
-33,Atkin,David,Westerlands,M50,1:37:20
-34,Anderson,Neil,Linlithgow Harriers,M50,1:37:40
-35,James,Mick,Carnethy,M40,1:38:09
-36,Richardson,Neil,Unattached,M50,1:38:50
-37,Green,John,Annan & District AC,M50,1:39:38
-38,Hind,Alasdair,Penicuik Harriers,M40,1:39:39
-39,Gorjanc,Gregor,Penicuik Harriers,M,1:39:40
-40,Milligan,Douglas,Solway,M70,1:42:05
-41,Molero,Luis,Lauderdale Limpers,M,1:42:42
-42,Adamson,Philip,Unattached,M,1:42:47
-43,Taylor,David,Unattached,M40,1:43:43
-44,Weir,Jonathan,Unattached,M,1:44:30
-45,Erskine,Alec,Cosmics,M50,1:45:02
-46,McAllister,Gina,Carnethy,F,1:45:20
-47,Kemp,Sadie,Penicuik Harriers,F40,1:53:29
-48,Law,David,Corstorphine,M50,1:53:40
-49,Lindsay,Warren,Unattached,M,1:54:29
-50,Cannon,Gerard,Unattached,M50,1:55:16
-51,Palmer,Lindsay,Glossopdale,F50,1:55:23
-52,Ru???,John,Dundee Road Runners,M40,1:57:43
-53,Maass,Digby,Carnethy,M60,1:58:16
-54,Howie,Brian,Carnethy,M60,1:58:52
-55,Moss,Alastair,Unattached,M,2:02:43
-56,McAleese,Rachel,Lauderdale Limpers,F,2:13:11
-57,Oliver,Margaret,Penicuik Harriers,F40,2:14:55
-58,Birch,Frank,Teviotdale Harriers,M70,2:25:37
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Waldie,James,Carnethy HRC,M,01:07:35
+2,Davies,Phil,Borrowdale H,M40,01:09:46
+3,Barrington,Andrew,Lochaber AC,M,01:13:36
+4,Gilmore,Iain,Carnethy HRC,M,01:15:28
+5,McVey,Alex,Carnethy HRC,M,01:16:12
+6,Jackson,Chris,Glossopdale H,M,01:18:01
+7,Huggett,Chris,Royal Marines RA,M,01:18:22
+8,Shekleton,Nigel,Carnethy HRC,M,01:19:01
+9,Curry,Matthew,Carnethy HRC,M,01:19:27
+10,Hammond,John,Carnethy HRC,M,01:19:58
+11,Knox,Thomas,Anster Haddies,M,01:20:58
+12,Dougal,Darin,Moorfoot R,M40,01:21:08
+13,Knox,Jonny,Anster Haddies,M50,01:22:25
+14,Hardie,James,Carnethy HRC,M,01:23:35
+15,Matthews,Steve,Dundee HH,M40,01:23:40
+16,Ryan,John,Carnethy HRC,M,01:24:11
+17,Thin,Jamie,HBT,M40,01:24:35
+18,Cox,Andrew,Moorfoot R,M,01:24:50
+19,Gilmore,Neil,Carnethy HRC,M50,01:25:43
+20,Howett,Andrew,Carnethy HRC,M,01:26:46
+21,Hemmings,Anthony,Carnethy HRC,M,01:26:50
+22,Hewitt,John,Glossopdale H,M50,01:27:14
+23,Renville,Alan,Carnethy HRC,M40,01:28:06
+24,Burnett,Neil,Carnethy HRC,M40,01:28:11
+25,Lynch,Mike,Carnethy HRC,M40,01:28:56
+26,Gamble,Adam,Carnethy HRC,M,01:29:07
+27,Greens,Michael,Penicuik H,M,01:33:06
+28,O'Neill,Owen,Westerlands CCC,M,01:34:28
+29,Yates,George,Dark Peak FR,M40,01:34:30
+30,Smith,Matthew,Forth Valley O,M40,01:34:36
+31,Farquhar,Jeff,Pitreavie AAC,M50,01:36:13
+32,Swanson,Alan,Carnethy HRC,M40,01:37:04
+33,Atkin,David,Westerlands CCC,M50,01:37:20
+34,Anderson,Neil,Linlithgow AC,M50,01:37:40
+35,James,Mick,Carnethy HRC,M40,01:38:09
+36,Richardson,Neil,Unattached,M50,01:38:50
+37,Green,John,ADAC,M50,01:39:38
+38,Hind,Alasdair,Penicuik H,M40,01:39:39
+39,Gorjanc,Gregor,Penicuik H,M,01:39:40
+40,Milligan,Douglas,Solway RC,M70,01:42:05
+41,Molero,Luis,Lauderdale Limpers,M,01:42:42
+42,Adamson,Philip,Unattached,M,01:42:47
+43,Taylor,David,Unattached,M40,01:43:43
+44,Weir,Jonathan,Unattached,M,01:44:30
+45,Erskine,Alec,Carnethy HRC,M50,01:45:02
+46,McAllister,Georgina,Carnethy HRC,F,01:45:20
+47,Kemp,Sadie,Penicuik H,F40,01:53:29
+48,Law,David,Corstorphine AAC,M50,01:53:40
+49,Lindsay,Warren,Unattached,M,01:54:29
+50,Cannon,Gerard,Unattached,M50,01:55:16
+51,Palmer,Lindsay,Glossopdale H,F50,01:55:23
+52,Ru???,John,Dundee RR,M40,01:57:43
+53,Maass,Digby,Carnethy HRC,M60,01:58:16
+54,Howie,Brian,Carnethy HRC,M60,01:58:52
+55,Moss,Alastair,Unattached,M,02:02:43
+56,McAleese,Rachel,Lauderdale Limpers,F,02:13:11
+57,Oliver,Margaret,Unattached,F40,02:14:55
+58,Birch,Frank,Teviotdale H,M70,02:25:37

@@ -1,86 +1,86 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Rees,Logan,Fife AC,MU17,0:21:24
-2,Rees,Tristan,Fife AC,MU15,0:21:26
-3,Gilmore,Andrew,Highland Hill Runners,M,0:21:31
-4,Gilmore,Iain,Carnethy,M,0:21:34
-5,Chepelin,Alexander,Carnethy,MU17,0:21:36
-6,Marshall,Brian,HELP,M40,0:21:43
-7,Knox,Jonny,Anster Haddies,M40,0:22:16
-8,Fraser,Gary,Ochil Hill Runners,M40,0:23:13
-9,Rees,George,Fife AC,MU15,0:23:19
-10,Knox,Thomas,Anster Haddies,MU20,0:23:20
-11,Traynor,James,Carnegie Harriers,M,0:23:37
-12,Love,Craig,Dundee Hawkhill,M40,0:23:44
-13,Morgan,Charlotte,Carnethy,F,0:24:02
-14,Woods,Ben,Unattached,M,0:24:16
-15,Gilmore,Neil,Carnethy,M50,0:24:17
-16,Bowden,James,HBT,M,0:24:27
-17,McKinstray,Ronan,Anster Haddies,MU17,0:24:40
-18,Ingledew,Fergus,Fife AC,MU17,0:25:07
-19,Brown,Kevin,Ochil Hill Runners,M,0:25:34
-20,Crozier,James,Lomond Hill Runners,M40,0:25:42
-21,Cooper,Brian,Perth Road Runners,M,0:25:50
-22,Anderson,Eck,Anster Haddies,M,0:26:15
-23,Taylor,Mike,HBT,M,0:26:23
-24,Anderson,Laurie,Lomond Hill Runners,M50,0:26:28
-25,Brown,Jamie,HBT,M,0:26:31
-26,Duffy,Sean,Unattached,M,0:26:36
-27,Hope-Jones,David,HBT,M,0:26:39
-28,Hope-Jones,Amelia,HBT,F,0:26:46
-29,Reid,Don,Westerlands,M50,0:27:02
-30,Kennedy,Robbie,Lothian,MU20,0:27:08
-31,Fernando,Sam,Fife AC,MU15,0:27:09
-32,Harrison,Jason,Lomond Hill Runners,M40,0:27:15
-33,Dales,Mike,Perth Road Runners,M50,0:27:21
-34,Turner,Dave,Lomond Hill Runners,M40,0:27:27
-35,Ritchie,Hilary,Fife AC,F50,0:27:34
-36,Morris,Craig,Fife AC,MU15,0:27:36
-37,Edward,Iain,Lomond Hill Runners,M,0:27:39
-38,MacPherson,Vince,Fife AC,M,0:27:50
-39,Cameron,Gordon,Carnethy,M50,0:27:54
-40,McKean,John,HBT,M50,0:28:03
-41,Wilson,Colin,Lomond Hill Runners,M50,0:28:04
-42,Reynolds,Colin,Carnegie Harriers,M40,0:28:05
-43,Recoquille,Marc,France,M40,0:28:06
-44,Kemp,Alan,Kinross Road Runners,M,0:28:07
-45,Weir,Jonathan,Unattached,M,0:28:28
-46,Landels,Brian,Lomond Hill Runners,M50,0:28:30
-47,Osborn,David,Lomond Hill Runners,M50,0:28:36
-48,Wilson,Joan,Lomond Hill Runners,F50,0:28:47
-49,Duff,Bill,Falkland Trail Runners,M60,0:28:54
-50,Grant,Michael,HBT,M,0:29:16
-51,Brennan,Brian,Westerlands,M50,0:29:29
-52,Lawson,Fraser,Unattached,MU17,0:29:44
-53,Duncan,David,Ochil Hill Runners,M50,0:29:52
-54,Manson,Fiona,Perth Road Runners,F50,0:30:02
-55,Nicoll,Melanie,Lomond Hill Runners,F40,0:30:13
-56,Cruickshanks,Ailsa,Fife AC,MU17,0:30:16
-57,Campbell,Neil,Carnethy,M50,0:30:24
-58,Cruickshanks,Jennifer,Fife AC,F,0:30:35
-59,Beveridge,Bob,Lomond Hill Runners,M70,0:30:59
-60,Hogan,Andrew,Unattached,M40,0:31:22
-61,Knox,Lizzie,Anster Haddies,FU17,0:31:46
-62,Greer,Stephen,Carnegie Harriers,M50,0:32:00
-63,Gaff,Melanie,Wester Ross Athletics,F,0:32:03
-64,Lambert,Jim,Unattached,M50,0:32:08
-65,Ledlie,Colin,Carnethy,M40,0:32:09
-66,Gordon,Jillian,Kinross Road Runners,F,0:32:10
-67,Knox,Tracy,Anster Haddies,F50,0:32:17
-68,Gardner,Peter,HBT,M,0:32:31
-69,Mallett,Patrick,Lomond Hill Runners,M40,0:32:57
-70,Knox,Rosie,Anster Haddies,FU15,0:33:14
-71,Davidson,Stewart,Fife AC,M60,0:33:38
-72,Dick,Euan,Unattached,M,0:33:51
-73,Craig,Carrie,HBT,F,0:33:57
-74,Whitelock,Chloe,Unattached,FU15,0:33:59
-75,Reynolds,Lesley,Carnegie Harriers,F40,0:34:23
-76,McLeod,Gordon,Unattached,M,0:34:35
-77,Coyle,Caroline,Unattached,F,0:35:18
-78,Lee,Rosemary,Falkland Trail Runners,F50,0:35:40
-79,Dick,Callum,Lomond Hill Runners,M40,0:37:06
-80,Bradburn,Chris,Unattached,M,0:37:53
-81,McAlpine,Roddy,Unattached,M50,0:38:44
-82,Dehn,Yvonne,Anster Haddies,F,0:39:03
-83,Fraser,Ronald,Dundee Road Runners,M50,0:41:06
-84,Scott,John,Fife AC,M70,0:41:18
-85,MacCalman,Sandy,Kinross Road Runners,M70,0:44:40
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Rees,Logan,Fife,u17,00:21:24
+2,Rees,Tristan,Fife,u15,00:21:26
+3,Gilmour,Andrew,Carnethy,s,00:21:31
+4,Gilmour,Iain,Carnethy,s,00:21:34
+5,Chepelin,Alexander,cosmics,u17,00:21:36
+6,Marshall,Brian,Help,v40,00:21:43
+7,Knox,Jonathon,Anster,v40,00:22:16
+8,Fraser,Gary,Ochils,v40,00:23:13
+9,Rees,George,Fife,u15,00:23:19
+10,Knox,Thomas,Anster,u20,00:23:20
+11,Trainer,James,Carnegie,s,00:23:37
+12,Love,Craig,Dundee H,V40,00:23:44
+13,Morgan,Charlotte,Carnethy,Ls,00:24:02
+14,Woods,Ben,u/a,s,00:24:16
+15,Gilmour,Neil,Carnethy,V50,00:24:17
+16,Boden,James,HBT,s,00:24:27
+17,McKinstray,Ronan,Fife,u17,00:24:40
+18,Ingledew,Fergus,Fife,u17,00:25:07
+19,Brown,Kevin,Ochils,s,00:25:34
+20,Crozier,James,u/a,v40,00:25:42
+21,Cooper,Brian,Perth RR,s,00:25:50
+22,Anderson,Eck,Anster,s,00:26:15
+23,Taylor,Mike,HBT,s,00:26:23
+24,Anderson,Laurie,Lomond,V50,00:26:28
+25,Brown,Jamie,HBT,s,00:26:31
+26,Duffy,Sean,u/a,s,00:26:36
+27,Hope-Jones,David,HBT,s,00:26:39
+28,Lloyd,Amelia,HBT,Ls,00:26:46
+29,Reid,Don,W CC,V50,00:27:02
+30,Kennedy,Robbie,Lothian,u20,00:27:08
+31,Fernando,Sam,Fife,u15,00:27:09
+32,Harrison,Jason,Lomond,v40,00:27:15
+33,Dales,Mike,Perth RR,v50,00:27:21
+34,Turner,Dave,Lomond,v40,00:27:27
+35,Ritchie,Hilary,Fife,LV50,00:27:34
+36,Morris,Craig,Fife,u15,00:27:36
+37,Edward,Iain,Lomond,s,00:27:39
+38,McPherson,Vince,Fife,s,00:27:50
+39,Cameron,Gordon,Carnethy,V50,00:27:54
+40,McKean,John,Fife,V50,00:28:03
+41,Wilson,Colin,Carnethy,MV50,00:28:04
+42,Reynolds,Colin,Lomond,V40,00:28:05
+43,Recoquille,Marc,France,V40,00:28:06
+44,Kemp,Allan,Kinross,s,00:28:07
+45,Weir,Jonathon,u/a,s,00:28:28
+46,Landels,Brian,Lomond,V50,00:28:30
+47,Osborn,David,Lomond,V50,00:28:36
+48,Wilson,Joan,Carnethy,LV50,00:28:47
+49,Duff,Bill,Carnegie,V60,00:28:54
+50,Grant,Michael,HBT,s,00:29:16
+51,Brennan,Brian,W C C,V50,00:29:29
+52,Lawson,Fraser,u/a,u17,00:29:44
+53,Duncan,David,Ochils,V50,00:29:52
+54,Manson,Fiona,Perth RR,LV50,00:30:02
+55,Nicol,Mel,Lomond,LV40,00:30:13
+56,Cruikshanks,Alisa,Fife,u17,00:30:16
+57,Campbell,Neil,Carnethy,V50,00:30:24
+58,Cruikshanks,Jennifer,Fife,L,00:30:35
+59,Beveridge,Bob,Lomond,V70,00:30:59
+60,Hogan,Andrew,u/a,V40,00:31:22
+61,Knox,Lizzie,Anster,Lu17,00:31:46
+62,Greer,Steven,Carnegie,V50,00:32:00
+63,Gaff,Melanie,u/a,Ls,00:32:03
+64,Lambert,Jim,u/a,V50,00:32:08
+65,Ledlie,Colin,Carnethy,V40,00:32:09
+66,Gordon,Jillian,Kinross,L,00:32:10
+67,Knox,Tracey,Anster,LV50,00:32:17
+68,Gardner,Peter,HBT,s,00:32:31
+69,Mallet,Pat,Lomond,V40,00:32:57
+70,Knox,Rosie,Anster,Lu15,00:33:14
+71,Davidson,Stewart,Fife,V60,00:33:38
+72,Dick,Euan,u/a,s,00:33:51
+73,Craig,Carrie,HBT,Ls,00:33:57
+74,Whitelock,Chloe,u/a,Lu15,00:33:59
+75,Halstead,Lesley,Lomond,LV40,00:34:23
+76,McLeod,Gordon,u/a,s,00:34:35
+77,Coyle,Caroline,u/a,L,00:35:18
+78,Lee,Rosemary,Fife,LV50,00:35:40
+79,Dick,Callum,u/a,V40,00:37:06
+80,Bradburn,Chris,u/a,s,00:37:53
+81,McAlpine,Roddy,u/a,V50,00:38:44
+82,Dehn,Yvonne,Anster,SL,00:39:03
+83,Fraser,Ron,Dundee RR,V50,00:41:06
+84,Scott,John,Fife,V70,00:41:18
+85,McCalaman,Sandy,Kinross RR,V70,00:44:40

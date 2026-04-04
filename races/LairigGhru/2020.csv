@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Simpson,Robbie,Deeside Runners,M,03:03:24
 2,Kelly,Jason,Metro Aberdeen RC,M,03:07:03
 3,Mosgrove,Mark,Banchory RC,M,03:10:27
@@ -8,7 +8,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 7,Coull,Eoin,Ross County AC,M40,03:33:59
 8,Gyurko,Fanni,Central AC,F,03:34:24
 9,Simpson,Alistair,Corstorphine AAC,M40,03:36:12
-10,Gibson,Billy,Dundee Hawkhill ,M40,03:37:52
+10,Gibson,Billy,Dundee Hawkhill,M40,03:37:52
 11,Haddow,Dan,Unattached,M,03:43:14
 12,Orr,Hollie,Unattached,F,03:44:57
 13,Tindley,Georgia,HBT,F,03:44:59
@@ -104,7 +104,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 103,Mottershead,Thomas,Unattached,M40,05:20:43
 104,McGaffney,Frank,Five Star Active,M40,05:23:06
 105,Main,Gordon Thomas,Nairn Road Runners,M60,05:24:19
-106,Canavan,F¡ona,Dundee RR,F,05:30:13
+106,Canavan,F?ona,Dundee RR,F,05:30:13
 107,Jervis,Scott,Unattached,M50,05:32:42
 108,Spence,Chris,Unattached,M,05:33:53
 109,Thomson,Iain,Strathearn Harriers,M70,05:38:21

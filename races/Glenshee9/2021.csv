@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Fallas,Andrew,Carnethy,M40,03:15:35
 2,Symonds,Joe,Shettleston Harriers,MSEN,03:15:51
 3,McCutcheon,Sam,Corstorphine AAC,MSEN,03:17:16
@@ -125,7 +125,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 124,Kinninmonth,Alexander,Carnethy,M40,05:30:05
 125,Plummer,Kevin,Hartfell HRC,M50,05:30:10
 126,Malcolmson,Craig,Hartfell HRC,M50,05:30:15
-127,Canavan,Fíona,Dundee Road RR,WSEN,05:31:19
+127,Canavan,F?ona,Dundee Road RR,WSEN,05:31:19
 128,Dickson,Stephen,Fife AC,M40,05:32:02
 129,Dudchenko,Paul,Linlithgow AC,M50,05:33:31
 130,Blackley,Lisa,Unattached,WSEN,05:35:07

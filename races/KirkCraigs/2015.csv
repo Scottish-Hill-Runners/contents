@@ -1,89 +1,89 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Anthony,Alasdair,Ochil Hill Runners,M,0:38:36
-2,Alexander,Sam,Westerlands,M,0:40:01
-3,Gay,Dan,HBT,M40,0:40:30
-4,Marshall,Brian,HELP,M40,0:40:45
-5,Gilmore,Iain,Carnethy,M,0:41:09
-6,Hammond,John,Carnethy,M,0:41:16
-7,Gilmore,Andrew,Highland Hill Runners,M,0:41:36
-8,Nash,Graham,Carnethy,M40,0:43:35
-9,Smith,Alan,Deeside Runners,M50,0:44:43
-10,O`Neill,Owen,Westerlands,M,0:45:08
-11,Buchanan,Catriona,Ochil Hill Runners,F,0:45:12
-12,Smith,Gavin,HBT,M,0:45:19
-13,Glencorse,Colin,Kilmarnock Harriers,M40,0:45:21
-14,Jack,Ewan,Ochil Hill Runners,M40,0:45:41
-15,Montgomery,James,Bellahouston RR,M,0:46:18
-16,Campbell,Graeme,Ochil Hill Runners,M40,0:46:36
-17,Archer,Steve,Ochil Hill Runners,M40,0:46:50
-18,Scheuerl,Stephan,Wee County Harriers,M40,0:47:02
-19,Wiseman,Sarah,Ochil Hill Runners,F,0:47:59
-20,Darling,Christopher,Lomond Hill Runners,M,0:48:08
-21,Gilmore,Neil,Carnethy,M50,0:49:51
-22,Coombs,Richard,Ochil Hill Runners,M40,0:49:55
-23,Donnelly,Joe,Carnegie Harriers,M,0:50:00
-24,Buchanan,Hugh,Central AC,M50,0:50:08
-25,Turner,Dave,Lomond Hill Runners,M40,0:50:27
-26,Telfer,Kenneth,Kinross Road Runners,M50,0:50:52
-27,McNeill,Norry,Kirkintilloch Olympians,M40,0:51:49
-28,Ingram,Richard,Cosmics,M40,0:51:55
-29,Scott,Neil,Unattached,M,0:52:58
-30,Watkinson,Bob,Ochil Hill Runners,M50,0:53:00
-31,Wilson,Colin,Lomond Hill Runners,M50,0:53:04
-32,Mitchell,Dave,Dundee Hawkhill,M50,0:53:08
-33,Hetherington,Michelle,Carnethy,F50,0:54:04
-34,Reid,Don,Westerlands,M50,0:54:27
-35,Munro,Frazer,Kinross Road Runners,M40,0:54:44
-36,Bowman,Angus,Lomond Hill Runners,M50,0:54:49
-37,Weir,Jonathan,Unattached,M,0:54:49
-38,Hawkins,Ian,Fife AC,M50,0:55:01
-39,Kealey,Philip,Unattached,M40,0:55:10
-40,Nellist,Pete,Unattached,M,0:55:17
-41,Brennan,Brian,Westerlands,M60,0:55:42
-42,Coull,Charles,Ochil Hill Runners,M50,0:55:46
-43,Legge,Sarah,Fife AC,F40,0:55:48
-44,Stakes,David,Unattached,M50,0:55:51
-45,Connor,Julia,Unattached,F40,0:56:01
-46,Fitzpatrick,Pat,Ochil Hill Runners,M60,0:56:21
-47,Shaw,Trevor,Lochtayside,M50,0:56:32
-48,McDonald,Lettie,Ochil Hill Runners,F,0:56:51
-49,Mcintosh,Mairi,Ochil Hill Runners,F40,0:57:15
-50,Wilson,Joan,Lomond Hill Runners,F50,0:57:15
-51,Beedie,Iain,Lomond Hill Runners,M40,0:57:31
-52,Ritchie,Hilary,Fife AC,F50,0:58:26
-53,Cullen,Stuart,Unattached,M50,0:58:34
-54,Dunn,Sandy,Wee County Harriers,M60,0:58:45
-55,Baxter,John,Central AC,M40,0:58:55
-56,Blackley,Lisa,Unattached,F,0:59:11
-57,Burns,Denise,Lomond Hill Runners,F40,1:00:02
-58,Doig,Lindsay,Carnethy,F,1:00:32
-59,Midgley,Peter,Westerlands,M50,1:00:57
-60,May,Iain,Unattached,M,1:01:07
-61,Nash,Paul,Carnethy,M,1:01:47
-62,Pettigrew,Iain,Ayr Seaforth,M40,1:02:22
-63,Davidson,Robert,Wee County Harriers,M50,1:02:32
-64,Bowman,Jean,Lomond Hill Runners,F50,1:02:48
-65,May,Timothy,ESOC,M50,1:02:51
-66,Anderson,Laurie,Lomond Hill Runners,M50,1:03:51
-67,Bowie,Tom,Unattached,M60,1:04:10
-68,Davidson,Jennifer,Wee County Harriers,F,1:04:17
-69,Longmuir,Claire,Unattached,F,1:04:19
-70,Gayle,Vernon,Forth Valley Orienteers,M40,1:05:57
-71,Holmes,Paul,Unattached,M40,1:06:01
-72,Taylor,Tony,Falkland Trail Runners,M50,1:07:03
-73,Abercrombe,Mary,Unattached,F40,1:08:49
-74,Couper,Stephen,Unattached,M40,1:09:34
-75,Reynolds,Chris,Unattached,M,1:09:51
-76,McDiarmid,Susan,Wee County Harriers,F40,1:11:52
-77,McDiarmid,Stewart,Wee County Harriers,M40,1:11:56
-78,Fujiwara,Tomoyo,Bellahouston RR,F40,1:12:14
-79,Lee,Rosemary,Falkland Trail Runners,F50,1:12:40
-80,MacRitchie,Neil,Peterhead Running Club,M,1:13:38
-81,Marshall,Duncan,Unattached,M,1:13:56
-82,Greer,Stephen,Carnegie Harriers,M50,1:21:24
-83,Lee,John,Falkland Trail Runners,M50,1:21:49
-84,Cooper,Gail,Unattached,F,1:24:30
-85,Whisler,Sue,Fife AC,F50,1:27:24
-86,Smith,Oscar,Unattached,M,1:27:25
-87,Taylor,Angela,Falkland Trail Runners,F50,1:48:17
-88,Spence,Karen,Falkland Trail Runners,F40,1:48:18
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Anthony,Alasdair,Ochil,MS,0:38:36
+2,Alexander,Sam,Westies,MS,0:40:01
+3,Gay,Dan,HBT,MV 40,0:40:30
+4,Marshall,Brian,Help,MV 40,0:40:45
+5,Gilmore,Iain,Carnethy,MS,0:41:09
+6,Hammond,John,Carnethy,MS,0:41:16
+7,Gilmore,Andrew,Carnethy,MS,0:41:36
+8,Nash,Graham,Carnethy,MV 40,0:43:35
+9,Smith,Alan,Deeside Runners,MV 50,0:44:43
+10,O'Neill,Owen,Westies,MS,0:45:08
+11,Buchanan,Catriona,Ochil,FS,0:45:12
+12,Smith,Gavin,HBT,MS,0:45:19
+13,Glencorse,Colin,Kilmarnock Harriers,MV40,0:45:21
+14,Jack,Ewan,Ochil,MV 40,0:45:41
+15,Montgomery,James,Bellahouston Road Runners,MS,0:46:18
+16,Campbell,Graeme,Ochil,MV 40,0:46:36
+17,Archer,Steve,Unattached,MV 40,0:46:50
+18,Scheuerl,Stephen,Wee County Harriers,MV 40,0:47:02
+19,Wiseman,Sarah,Ochil,FS,0:47:59
+20,Darling,Chris,Lomond Hill Runners,MS,0:48:08
+21,Gilmore,Neil,Carnethy,MV 50,0:49:51
+22,Coombs,Richard,Central A.C.,MV 40,0:49:55
+23,Donnelly,Joe,Carnegie Harriers,MS,0:50:00
+24,Buchanan,Hugh,Central A.C.,MV 50,0:50:08
+25,Turner,Dave,Lomond Hill Runners,MV 40,0:50:27
+26,Telfer,Ken,Kinross Road Runners,MV 50,0:50:52
+27,McNeill,Norry,Ochil,MV 40,0:51:49
+28,Ingram,Richard,Cosmic,MV 40,0:51:55
+29,Scott,Neil,Unattached,MS,0:52:58
+30,Watkinson,Bob,Ochil,MV 50,0:53:00
+31,Wilson,Colin,Lomond Hill Runners,MV 50,0:53:04
+32,Mitchell,Dave,Dundee Hawkhill Harriers,MV 50,0:53:08
+33,Hetherington,Michelle,Helensburgh AAC,FV 50,0:54:04
+34,Reid,Don,Westerlands,MV 50,0:54:27
+35,Munro,Fraser,Carnegie,MV 40,0:54:44
+36,Bowman,Angus,Lomond Hill Runners,MV 50,0:54:49
+37,Jonathan,Weir,Unattached,MS,0:54:49
+38,Hewking,Ian,Fife AC,MV 50,0:55:01
+39,Kealey,Phil,Unattached,MV 40,0:55:10
+40,Nellist,Pete,Unattached,MS,0:55:17
+41,Brennan,Brian,Westies,M60+,0:55:42
+42,Coull,Charles,Ochil,MV 50,0:55:46
+43,Legge,Sarah,Fife AC,FV 40,0:55:48
+44,Stakes,David,Bellahouston,MV 50,0:55:51
+45,Connor,Julia,Tinto Hill Runners,FV 40,0:56:01
+46,Fitzpatrick,Pat,Ochil,MV60,0:56:21
+47,Shaw,Trevor,Lochtayside,MV 50,0:56:32
+48,McDonald,Lettie,Ochil,FS,0:56:51
+49,McIntosh,Mairi,Ochil,FV 40,0:57:15
+50,Wilson,Joan,Lomond Hill Runners,FV 50,0:57:15
+51,Beedie,Iain,Lomond Hill Runners,MV 40,0:57:31
+52,Ritchie,Hilary,Fife AC,FV 50,0:58:26
+53,Cullen,Stuart,Unattached,MV 50,0:58:34
+54,Dunn,Sandy,Wee County Harriers,MV 60,0:58:45
+55,Baxter,John,Central AC,MV 40,0:58:55
+56,Blackley,Lisa,Unattached,FS,0:59:11
+57,Burns,Denise,Lomond Hill Runners,FV 40,1:00:02
+58,Doig,Lindsay,Carnethy,FS,1:00:32
+59,Midgley,Peter,Westies,MV 50,1:00:57
+60,May,Ian,Unattached,MS,1:01:07
+61,Nash,Paul,Carnethy,MS,1:01:47
+62,Pettigrew,Ian,Ayr Seaforth,MV 40,1:02:22
+63,Davidson,Robert,Wee County Harriers,MV 50,1:02:32
+64,Bowman,Jean,Lomond Hill Runners,FV 50,1:02:48
+65,May,Timothy,Unattached,MV 50,1:02:51
+66,Anderson,Laurie,Lomond Hill Runners,MV 50,1:03:51
+67,Bowie,Tom,Unattached,MV60,1:04:10
+68,Davidson,Jennifer,Wee County Harriers,FS,1:04:17
+69,Longmuir,Claire,Unattached,FS,1:04:19
+70,Gayle,Vernon,Unattached,MV 40,1:05:57
+71,Holmes,Paul,Unattached,MV 40,1:06:01
+72,Taylor,Tony,Falkland Trail runners,MV 50,1:07:03
+73,Abercrombe,Mary,Ochil mountain recue,FV 40,1:08:49
+74,Cooper,Stephen,Unattached,MV 40,1:09:34
+75,Reynolds,Chris,Unattached,MS,1:09:51
+76,McDiarmid,Susan,Wee County Harriers,FV 40,1:11:52
+77,McDiarrmid,Stewart,Wee County Harriers,MV 40,1:11:56
+78,Fujiwara,Tomoyo,Bellahouston,FV 40,1:12:14
+79,Lee,Rosemary,Falkland Trail runners,FV 50,1:12:40
+80,Macritchie,Neil,Peterhead Athletics Club,MS,1:13:38
+81,Marshall,Duncan,Unattached,MS,1:13:56
+82,Greer,Stephen,Carnegie,MV 50,1:21:24
+83,Lee,John,Falkland Trail runners,MV 50,1:21:49
+84,Cooper,Gail,Unattached,FS,1:24:30
+85,Whisler,Sue,Unattached,FV 50,1:27:24
+86,Smith,Oscar,Unattached,MS,1:27:25
+87,Taylor,Angela,Falkland Trail runners,FV 50,1:48:17
+88,Spence,Karen,Falkland Trail runners,FV 40,1:48:18

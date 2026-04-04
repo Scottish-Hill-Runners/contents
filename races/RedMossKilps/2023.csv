@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Dunn,James,Corstorphine AAC,M,00:40:58
 2,Wright,Angus,Team East Lothian,M,00:41:27
 3,Vokes,Philip,Howgill Harriers,M,00:41:55
@@ -70,7 +70,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 69,Steen,Anna,Carnethy HRC,F,01:04:43
 70,Neillands,Stuart,Ochil Hill Runners,M60,01:05:20
 71,Pugh,Roddy,Kilmarnock Harriers,M65,01:05:26
-72,Wastnedge,Lizzie,HBT,F,01:05:29
+72,Wastnedg,Lizzie,HBT,F,01:05:29
 73,Duncan,David,Ochil Hill Runners,M65,01:05:42
 74,Crawford,Sarah,HBT,F,01:05:47
 75,Threlfall,Ryan,Unattached,M,01:05:56
