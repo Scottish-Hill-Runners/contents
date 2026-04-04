@@ -1,4 +1,4 @@
-RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Owens,Tom,Shettleston Harriers,M,37:49
 2,Foster,George,Keswick AC,M,38:46
 3,Fellbaum,Matthew,Edinburgh University H&H,M,40:18
@@ -46,4 +46,4 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,Howie,Brian,Carnethy HR,M60,1:15:11
 46,Christie,Ninian,Unattached,M40,1:17:28
 47,Chalk,Gilly,York Athletics Club,F40,1:20:27
-
+,,,,,

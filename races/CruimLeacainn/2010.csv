@@ -1,4 +1,4 @@
-RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Mitchell,Craig,Shettleston,M,00:47:50
 2,Rodgers,David,Lochaber,M40,00:48:34
 3,Smith,Tom,Lochaber,M,00:48:41
@@ -47,4 +47,4 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 46,Adams,Ian,Lochaber,M50,01:25:11
 47,Morrison,Ellen,Lochaber,F40,01:27:39
 48,Murdoch,Elma,Lochaber,F60,01:27:40
-
+,,,,,

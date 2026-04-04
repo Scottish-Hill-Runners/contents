@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Crawford,Dylan,Greenock GH,M23,00:31:36
 2,McCall,Andy,Greenock GH,M,00:34:09
 3,Doherty,Daniel,Greenock GH,M40,00:35:10

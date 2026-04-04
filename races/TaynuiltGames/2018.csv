@@ -1,4 +1,4 @@
-RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Bodynk,Kyle,"""Ohio","USA""",M
 2,Sharkey,Dom,Cambleton,M,00:55:55
 3,Wolfe,Eric,Cork,M,01:00:45

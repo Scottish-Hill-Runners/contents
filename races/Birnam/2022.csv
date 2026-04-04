@@ -1,4 +1,4 @@
-FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Douglas,Andrew,Inverclyde AC,M,00:28:18
 2,Espie,James,Deeside Runners,M,00:29:56
 3,Cooper,Kieran,University of St Andrews XC,M,00:30:19
@@ -53,7 +53,7 @@ FinishPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 52,Simpson,Iain,Lomond Hill Runners,M,00:42:46
 53,Mackie,Eugene,Highland Hill Runners,M,00:42:58
 54,Moody,Paul,Highland Hill Runners,M60,00:43:07
-55,Schøler,Mattias,Strathearn Harriers,M,00:43:10
+55,Schï¿½ler,Mattias,Strathearn Harriers,M,00:43:10
 56,Walker,Grant,Unattached,M,00:43:28
 57,Murray,Kevin,Falkland Trail Runners,M50,00:43:52
 58,White,David,Helm Hill Runners,M50,00:44:05
