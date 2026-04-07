@@ -1,0 +1,272 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Stewart,Craig,Forfar Road Runners,M,07:45:13
+2,Loehndorf,Thomas,Greenock Glenpark Harriers,V,08:09:05
+3,Consani,Marco,Garscube Harriers,M,08:22:19
+4,Kemp,Ben,Portobello Running Club,M,08:28:05
+5,Colquhoun,Lucy,Carnethy Hill Runners,FV,08:37:29
+6,Valentine,Kenny,Carnethy Hill Runners,M,08:51:48
+7,Hamelinck,Wouter,Les Coureurs Celestes,M,09:01:03
+8,Bell,Richard,Carnethy Hill Runners,V,09:03:22
+9,Millen,John,Harpenden Aro Runners,M,09:03:39
+10,McCullough,Aengus,Northumberland Fell Runners,M,09:06:35
+11,McLaughlin,John,Springburn Harriers,V,09:10:24
+12,Harris,William,Shropshire Shufflers,V,09:18:50
+13,Greenaway,Roger,Central Athletic Club,SV,09:19:36
+14,Hutchinson,Charles,Hunters Bog Trotters,M,09:19:44
+15,Lucker,Alan,Bowland Fell Runners,M,09:20:18
+16,Kennedy,John,Clydesdale Harriers,V,09:23:05
+17,Buchanan,Peter,Portobello Running Club,V,09:30:19
+18,MacTavish,Kevin,Dundee Hawkhill,V,09:32:07
+19,Kerr,Sandy,Orkney Athletic Club,V,09:33:24
+20,Grundy,Lewis,Northumberland Fell Runners,V,09:35:32
+21,Neilson,Norman,Dumfries Running Club,SV,09:35:53
+22,Humphreys,Peter,Carnegie Harriers,V,09:37:58
+23,McQueen,Jeff,West Cheshire Athletics,V,09:39:09
+24,Kerr,Hugh,Central Athletic Club,V,09:39:53
+25,Law,Sharon,Garscube Harriers,FV,09:40:52
+26,Murray,Andrew,Unattached,M,09:41:35
+27,Caldwell,Mark,Fraserburgh Running Club,M,09:43:45
+28,Moreland,Ross,Anster Haddies,M,09:45:31
+29,Murray,Cameron,Carnethy Hill Runners,V,09:45:50
+30,McLaren,David,Unattached,M,09:48:17
+31,Martin-Consani,Debbie,Garscube Harriers,FV,09:48:36
+32,Steel,Bob,Central Athletic Club,V,09:48:57
+33,Houston,Paul,Harmeny Athletic Club,M,09:51:02
+34,Kelly,Graham,Westerlands CCC,V,09:51:25
+35,Aarons,Jamie,Unattached,F,09:52:48
+36,Birnie,Andy,Bellahouston Road Runners,V,09:53:21
+37,Bell,Stephen,Helensburgh A.C.,V,09:56:20
+38,Campbell,Donald,Unattached,M,09:57:30
+39,Johnson,Helen,Deeside Runners,FV,09:57:39
+40,Troman,Dave,Keswick Athletic Club,V,09:59:01
+41,Keely,Tom,Trail Runners Association,V,10:06:18
+42,Finlay,Alayne,Ochil Hill Runners,F,10:06:43
+43,Stewart,Craig I,Forfar Road Runners,M,10:07:22
+44,Fraser,Iain,Buchan Tri,V,10:07:35
+45,Wilson,Iain,Ranelagh Harriers,SV,10:08:24
+46,Cole,Andy,Unattached,M60,10:09:43
+47,Sinclair,Robert,Dundee Road Runners,M,10:09:56
+48,Allison,Bob,Fife Athletic Club,SV,10:12:19
+49,Kynaston,John,Kilbarchan A.A.C.,SV,10:13:09
+50,Simon,Ramon G-C,Carnethy Hill Runners,V,10:13:10
+51,Scott,Aileen,Helensburgh A.C.,FV,10:13:27
+52,Douglas,Dave,Awesome Walls,V,10:13:42
+53,McCraw,Ron,Ochil Hill Runners,SV,10:14:12
+54,Walker,Doug,Westbury Harriers,SV,10:14:40
+55,Walker,Iain,Helensburgh AC / Royal Navy,M,10:15:07
+56,Strachan,Graham,Aberdeen Metro,M,10:16:42
+57,Calder,Elaine,Strathaven Striders,FSV,10:17:46
+58,Mathers,Dale,Newry City Runners,V,10:18:38
+59,Bell,Rosie,Strathaven Striders,FV,10:19:13
+60,Greig,Tom,Unattached,SV,10:21:56
+61,Andersson,Jonas,Carnethy Hill Runners,M,10:22:14
+62,Hagenbach,Pascal,Team Roysports Ludwigsburg,V,10:22:34
+63,Egan,David,Unattached,M,10:23:24
+64,Buckingham-Burr,Will,Unattached,M,10:25:08
+65,Greig,David,Carnegie Harriers,V,10:25:15
+66,McIntosh,Brian,Shenley Striders,M,10:25:45
+67,Goodwin,Andrew,Unattached,V,10:27:13
+68,Appleby,Paul,Northumberland Fell Runners,V,10:32:32
+69,Turner,Bruce,Unattached,M,10:33:39
+70,Quigley,James,JOG Scotland,M,10:33:40
+71,Lister,Martin,Unattached,M,10:34:28
+72,McKinlay,Gavin,Dundee Road Runners,M,10:34:41
+73,Pulsford,Jo,Rugby & Northampton A.C.,F,10:36:06
+74,Williams,Richard,Galloway Harriers,V,10:36:17
+75,Sim,Andrew,Carnegie Harriers,V,10:37:44
+76,Begley,Tommy,Irvine Athletic Club,M,10:37:55
+77,Malcolmson,Craig,Dumfries Running Club,V,10:39:43
+78,Pflanz,Sebastian,Dumfries Running Club,V,10:39:44
+79,McAleer,George,Unattached,V,10:41:32
+80,Westaway,Robert,Serpentine RC,V,10:41:35
+81,Colhoun,Graeme,Unattached,M,10:42:02
+82,Duncan,David,Ochil Hill Runners,SV,10:42:07
+83,Kirkpatrick,Richie,Unattached,V,10:43:59
+84,McWhinnie,Janet,Carnethy Hill Runners,FV,10:46:06
+85,Kilhooley,Russell,Forfar Road Runners,V,10:46:12
+86,Foreman,Bill,Ripon Runners,V,10:46:13
+87,Johns,Andrew,Kinross Road Runners,M,10:47:13
+88,Turner Hammond,John,Unattached,M,10:47:35
+89,Colley,Alan,Carnethy Hill Runners,V,10:47:48
+90,Ratcliffe,Andrew,Wigan Phoenix,V,10:48:11
+91,Shelley,Claire,Serpentine Running Club,F,10:49:12
+92,Murdoch,Gail,Carnegie Harriers,FV,10:49:58
+93,Morrison,Graeme,Unattached,SV,10:50:22
+94,Reid,John,Unattached,V,10:50:23
+95,McPhail,Marian,Dumfries Running Club,F55,10:52:59
+96,Wilson,Alison,Dumfries Running Club,F,10:54:12
+97,McInroy,Ross,Helensburgh A.C.,SV,10:56:19
+98,Hughes,Keith,Thornlie Boys Club,V,10:56:52
+99,Rae,Ian,Calderglen Harriers,V,10:58:53
+100,Raffan,Mike,Stonehaven Running Club,M,11:00:19
+101,Gibbison,Ben,Dark Peak Fell Runners,M,11:01:12
+102,Pugh,Roderick,Kilmarnock Harriers,SV,11:01:58
+103,Todd,Catherine,ABRaS Athletic Club,F,11:03:46
+104,Davies,Ben,Unattached,M,11:05:27
+105,McDougall,Sandra,Harmeny Athletic Club,FV,11:05:33
+106,Casey,Marc,Dumbarton AAC,M,11:06:11
+107,Rutherford,Neil,Lasswade Athletic Club,M,11:07:37
+108,McCabe,Liam,Central Athletic Club,V,11:09:32
+109,Stewart,Ashleigh,Dundee Road Runners,F,11:09:34
+110,Tsai,Jany,Serpentine Running Club,FV,11:09:34
+111,Cockerell,Trevor,Unattached,M,11:09:37
+112,Nash,Graham,Unattached,V,11:10:23
+113,Robertson,Alan,Lothian Running Club,SV,11:10:26
+114,Thistlethwaite,Tony,Strathaven Striders,SV,11:12:08
+115,Bowman,Gus,Beacon Runners,SV,11:12:10
+116,Welsh,Ewan,Ilkley Harriers,V,11:12:14
+117,Treweeke,Andy,Unattached,V,11:13:01
+118,Ling,Kenneth,Unattached,M,11:14:02
+119,Reid,Graeme,Unattached,V,11:15:15
+120,Russell,Simon,Unattached,V,11:18:10
+121,Spiers,Stephen,Kilbarchan A.A.C.,V,11:18:11
+122,Thompson,Fabienne,Carnegie Harriers,FV,11:20:01
+123,Harris,Tim,Unattached,M,11:20:51
+124,Bonell,Simon,Larkfield Athletic Club,M,11:21:20
+125,Craig,Carrie,Hunters Bog Trotters,F,11:23:08
+126,Mathers,Denise,Newry City Runners,FV,11:23:56
+127,Thom,Lewis,Unattached,M,11:25:04
+128,Maxwell,Bill,Shettleston Harriers,SV,11:25:28
+129,Maguire,Kirsty,Fife Athletic Club,F,11:25:39
+130,Hughes,Malcolm,Linlithgow Athletic Club,SV,11:25:52
+131,Gall,Allan,Central Athletic Club,SV,11:26:08
+132,Bruce,Robbie,Orkney Athletic Club,SV,11:27:23
+133,Verbiest,Dirk,Keith & District A.A.C.,SV,11:27:30
+134,Sim,Helena,Carnegie Harriers,FSV,11:27:44
+135,Hart,Vicky,Dumfries Running Club,F,11:27:51
+136,Grundy,Jane,Northumberland Fell Runners,FSV,11:32:14
+137,Wishart,Rob,Unattached,M,11:32:20
+138,Miller,Bobby,Troon Tortoises,SV,11:32:26
+139,Rooney,Benny,Calderglen Harriers,SV,11:32:56
+140,MacPherson,Alyson,Unattached,FSV,11:36:46
+141,Currie,Ian,Milburn Harriers,V,11:37:09
+142,Pullin,Natalie,BRAT,F,11:38:09
+143,Ward,James,Forres Harriers,M,11:40:10
+144,Muir,Jonathan,Unattached,M,11:40:11
+145,Calderwood,Craig,Clydesdale Harriers,M,11:40:13
+146,Forde,Stephen,Unattached,M,11:40:42
+147,Barrett,David,Unattached,V,11:40:54
+148,Clawson,Paul,Unattached,M,11:42:26
+149,King,Ian,Carnethy Hill Runners,V,11:43:51
+150,Palmer,David,Vegetarian Cycle & Ath. Club,V,11:44:54
+151,Beattie,Ian,Strathearn Harriers,V,11:47:14
+152,Skachill,Frank,Dumfries Running Club,SV,11:48:49
+153,Hunter,Mary,Portobello Running Club,FV,11:50:28
+154,Kerekgyarto,Zoltan,Unattached,M,11:50:32
+155,MacKintosh,David,Kilbarchan A.A.C.,M,11:51:23
+156,McIlvenna,Karen,Garscube Harriers,FV,11:51:55
+157,Cheesewright,Kate,Unattached,F,11:53:21
+158,McVey,Ellen,Helensburgh A.C.,FSV,11:53:24
+159,Collins,Stewart,Bellahouston Harriers,V,11:54:53
+160,Dean,Dave,Larkfield Athletic Club,SV,11:55:45
+161,Kamphuis,Paul,Leiden Atletiek,SV,11:56:51
+162,Yule,Steven,Unattached,M,11:58:53
+163,Smith,Philip,Unattached,V,11:59:44
+164,Duncan,Norman,Unattached,V,11:59:45
+165,McCollum,Simon,Unattached,M,12:00:20
+166,Robertson,Karen,Troon Tortoises,FV,12:00:58
+167,Thompson,Stephen,Unattached,V,12:02:16
+168,Walker,Sarah,Helensburgh A.C.,F,12:04:09
+169,Phillips,Ben,Unattached,M,12:05:25
+170,Wells,Matthew,Unattached,M,12:05:25
+171,Henderson,Jon,Stubbington Green Runners,M,12:09:07
+172,Erskine,Alec,Unattached,V,12:11:00
+173,Downie,Tim,Troon Tortoises,SV,12:11:18
+174,Smart,Fraser,Unattached,V,12:12:24
+175,Conlin,John,Unattached,V,12:13:42
+176,Jones,Owen,Unattached,SV,12:16:28
+177,Brown,Rick,Lochaber Athletic Club,SV,12:17:38
+178,Leigh-Brown,Ben,Unattached,M,12:18:21
+179,McLachlan,Ann,Helensburgh A.C.,FSV,12:19:24
+180,Gray,Barney,Unattached,M,12:19:37
+181,Greener,Nev,Unattached,M,12:19:37
+182,Pickard,John,Portobello Running Club,V,12:19:49
+183,Currie,Geraldine,Milburn Harriers,FV,12:19:54
+184,Reid,Rob,West Loch Wanderers,M60,12:20:02
+185,Garry,Brian,Milburn Harriers,V,12:21:23
+186,Kinnaird,Robert,Portobello Running Club,V,12:21:27
+187,Sandeman,Donald,Harmeny Athletic Club,SV,12:23:02
+188,Nisbet,Stephen,Selkirk Track & Field,V,12:24:39
+189,Morrison,Gary,Cosmic Hillbashers,V,12:26:32
+190,Halpin,Peter,Clydesdale Harriers,V,12:27:47
+191,Boom,Andre,SV Kombijsport,SV,12:30:39
+192,Prentice,Steven,Dumbarton AAC,M,12:31:16
+193,Rhule,Des,Kent Athletic Club,V,12:34:19
+194,Donoghue,Karen,Unattached,FV,12:39:37
+195,Reid,George,Stonehaven Running Club,SV,12:39:38
+196,Stevenson,Rachel,Garscube Harriers,FV,12:40:17
+197,Kerr,Mary,Central Athletic Club,FV,12:40:18
+198,Minty,Ian,Unattached,V,12:41:58
+199,Wells,Sophie,Unattached,FV,12:41:58
+200,Coull,Charles,Ochil Hill Runners,V,12:42:58
+201,Shanks,Victoria,Stonehaven Running Club,V,12:44:44
+202,Dunn,Gavin,Unattached,M,12:45:10
+203,Thomson,Derek,Unattached,M,12:45:19
+204,Laing,Ross,Unattached,V,12:45:26
+205,Cummings,Andrew,Unattached,M,12:47:49
+206,Donaghue,David,Staffs Moorlands Running Club,V,12:49:46
+207,Doyle,Tim,Penecuik Harriers,V,12:49:53
+208,Broome,Chris,Anster Haddies,SV,12:50:15
+209,Knox,Colin,JOG Scotland,M,12:51:12
+210,Mee,Steve,Awesome Walls,M,12:51:21
+211,Cole,Andrew,Unattached,M,12:52:09
+212,MacRitchie,Neil,Peterhead Running Club,M,12:54:49
+213,Redmond,Paula,Serpentine Running Club,FV,12:55:13
+214,Miller,Kevin,Unattached,M,12:59:34
+215,Williams,Jon,Unattached,M,13:01:23
+216,Nelson,Sam,Unattached,M,13:01:23
+217,Owen,Flip,Elvet Striders,V,13:01:33
+218,Kiddell,David,Unattached,V,13:01:35
+219,Chalmers,George,Unattached,V,13:02:28
+220,Halewood,Bridget,Oban Athletics,FV,13:02:43
+221,McDowall,Alan,Unattached,V,13:04:02
+222,Masterton,Lorna,Helensburgh A.C.,FSV,13:07:00
+223,Shepherd,Robington,Unattached,M,13:09:16
+224,Smith,Adam,Unattached,M,13:09:17
+225,Boother,Tom,Trail Runners Association,M,13:12:56
+226,Darroch,Richard,Milburn Harriers,M,13:16:26
+227,Cole,Stephen,Milburn Harriers,M,13:16:27
+228,Donnelly,Ian,Scottish Veteran Harriers Club,M60,13:21:01
+229,Gilmore,Anna,Unattached,F,13:21:32
+230,Loehndorf,Silke,Greenock Glenpark Harriers,FV,13:22:56
+231,Wardlaw,Grahame,Unattached,V,13:25:17
+232,Campbell,Neil,Carnegie Harriers,V,13:28:35
+233,McIntosh,Ian,Westside Runners,V,13:30:31
+234,Nichol,Paul,Moorfoot Runners,V,13:30:39
+235,McHendry,Andrew,Unattached,V,13:33:04
+236,Knox,David,Selkirk Track & Field,V,13:33:06
+237,Lynan,David,Penny Lane Striders,M,13:38:01
+238,Moore,Andy,Reading Road Runners,SV,13:43:56
+239,Fitzsimmons,Alan,JOG Scotland,V,13:44:26
+240,Wilson,Isobel,Unattached,FSV,13:44:54
+241,Holliday,Jill,Blackheath Old Girls,FV,13:47:14
+242,Martin,Graham,Strathearn Harriers,V,13:47:46
+243,Wilkinson,Graham,Northumberland Fell Runners,V,13:48:18
+244,Sime,Andy,Unattached,M,13:51:26
+245,Walker,David,Unattached,M,13:51:27
+246,O'Reilly,Thomas,Unattached,V,13:52:33
+247,Douglas,George,Unattached,V,13:52:52
+248,Alexander,Jim,Lothian Running Club,V,13:53:11
+249,Shield,Ian,Anster Haddies,M60,13:59:40
+250,Bowman,Jeanie,Beacon Runners,FSV,14:01:21
+251,Hetherington,Dave,Unattached,V,14:07:45
+252,Mark,Alan,Unattached,V,14:09:50
+253,MacDonald,Hamish,Aberdeen A.A.C.,SV,14:13:05
+254,Bryant,Margaret,Unattached,FSV,14:15:02
+255,Turnbull,Mags,Lothian Running Club,FSV,14:15:15
+256,Wishart,Robbie,Kelvin Runners,SV,14:17:34
+257,Jackson,Jen,Fetch Everyone Running Club,F,14:19:12
+258,Tunna,Elizabeth,Unattached,F,14:29:07
+259,Currie,Joan,Unattached,F,14:31:59
+260,Fyffe,Christine,Milburn Harriers,FSV,14:34:28
+261,Summers,Marion,Milburn Harriers,FSV,14:34:30
+262,Wardlaw,Catherine,Milburn Harriers,FV,14:34:31
+263,Cadogan,Iain,Unattached,V,14:38:04
+264,McLeod,Alistair,Unattached,SV,14:38:45
+265,Ritchie,Peter,Perth Road Runners,V,14:39:39
+266,Grant,Allan,Unattached,SV,14:40:18
+267,Smart,Sarah,Unattached,FV,14:41:26
+268,O'Reilly,Victoria,Unattached,FV,14:52:31
+269,Drummond,Jim,Central Athletic Club,SV,14:52:34
+270,McCurdy,Ray,Hundred Marathon Club,SV,15:09:58
+271,Coyne,Chris,Milburn Harriers,M60,15:28:54

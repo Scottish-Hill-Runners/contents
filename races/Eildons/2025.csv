@@ -1,0 +1,113 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Pryde,Moray,Lothian RC,M,00:33:58
+2,Wright,Angus,Edinburgh Uni H&H,M,00:36:44
+3,Taylor,Rowan,Lasswade AC,MU20,00:37:46
+4,Thomas,Lachlan,Ross County AC,MU20,00:37:57
+5,Sparks,Robert,HBT,M,00:38:36
+6,Thomas,Kaeden,Ross County AC,MU20,00:39:39
+7,Wotherspoon,James,Harmeny,MU20,00:41:41
+8,Dunlop,Alex,Central AC,MU20,00:41:50
+9,Daff,Euan,Dunbar RC,MU20,00:42:19
+10,Wilkinson,Marc,Lauderdale Limpers RC,M,00:42:23
+11,Carter-Brown,David,Moorfoot Runners,M40,00:42:30
+12,Stewart,Iain,Gala Harriers,M40,00:42:49
+13,Crawford,Ewan,HBT,M,00:43:02
+14,Marshall,Brian,Haddington ,M50,00:43:43
+15,Watters,Archie,Springwell Harriers,MU20,00:43:47
+16,Grant Chris,Pantrey,Shettleston Harriers,M40,00:44:07
+17,Macdonald,Catriona,Bellahouston RR,F,00:44:24
+18,Stringer,Joe,Northumberland FR,M40,00:44:38
+19,Philip,Jack,Moorfoot Runners,M,00:44:42
+20,Warren,Graeme,Strathearn Harriers,M40,00:45:32
+21,Armin,Andrew,Saltwell Harriers,M,00:45:41
+22,McBean,Calum,Strathearn Harriers,MU20,00:46:02
+23,Donnelly,Colin,Cambuslang,M60,00:46:05
+24,Allan,David,Unattached,M40,00:46:06
+25,Cox,Andrew,Gala Harriers,M40,00:46:09
+26,Jones,Huw,HBT,M40,00:46:23
+27,Atkinson,Emily,Haddington,FU20,00:46:26
+28,Sillito,Roger,Northumberland FR,M40,00:46:33
+29,Trewartha,Gary,Gala Harriers,M40,00:46:39
+30,Meek,Katie,Unattached,FU20,00:46:44
+31,Murray,Declan,Edinburgh AC,M,00:47:00
+32,Czebreszuk,Hania,AAAC,FU20,00:47:39
+33,Rankine,Kirsty,Gala Harriers,FU20,00:48:09
+34,Harley,Bridget,Durham University,F,00:48:46
+35,Dickson,Stephen,Fife AC,M50,00:48:52
+36,Adamson,Simon,Gala Harriers,M40,00:48:57
+37,Dowse,David,Strathearn Harriers,M40,00:48:59
+38,Long,Simon,Saltwell Harriers,M50,00:49:00
+39,Taylor,James,Unattached,M40,00:49:26
+40,O'Donnell,Craig,Dunbar RC,M40,00:49:42
+41,Konig,Eliza,Fife AC,FU20,00:50:01
+42,Hitchcock,Finn,Gala Harriers,M,00:50:05
+43,Robertson,Karen,Northumberland FR,F50,00:50:19
+44,Bell,Iain,Gala Harriers,M60,00:50:25
+45,Lunn,Poppy,Gala Harriers,FU20,00:50:36
+46,Fletcher,Aaron,Saltwell Harriers,M,00:50:46
+47,Evans,Jessica,Dunfermline Track & Filed,FU20,00:50:58
+48,Robertson,Sam,Gala Harriers,MU20,00:51:18
+49,Meek,Ian,Unattached,M60,00:51:30
+50,Clark,Ross,HBT,M40,00:51:47
+51,Normand,Ivor,HBT,M60,00:51:55
+52,Dijkman,Naomi,Lauderdale Limpers RC,F40,00:51:59
+53,Brown,Louisa,Garscube Harriers,F,00:52:09
+54,Foster,Russell,Unattached, M,00:52:35
+55,Gilbert,James,Saltwell Harriers,M50,00:52:41
+56,Winter,Mike,Morpeth Harriers,M50,00:52:42
+57,Richardson,Ava,Gala Harriers,FU20,00:52:45
+58,Neilson,Greig,Unattached,M50,00:52:47
+59,Conlon,Jonathan,Saltwell Harriers,M40,00:52:56
+60,Tait,Nikita,Gala Harriers,F,00:52:58
+61,Padmanabhan,Nina,Garscube Harriers,FU20,00:52:58
+62,Mestecky,Phil,Strathearn Harriers,M50,00:53:23
+63,Fraser,Mitchell,Portobello,M50,00:53:45
+64,Mccarthy,Colm,Gala Harriers,M40,00:54:15
+65,Gibson,Peter,Unattached,M40,00:54:27
+66,Alcorn,Steve,Unattached, M40,00:54:51
+67,Williamson,Coll,HBT,M,00:55:08
+68,Tollitt,John,Northumberland FR,M60,00:55:46
+69,Burke,Emma,Northumberland FR,F,00:55:54
+70,Jackson,Hope,Unattached,F,00:56:19
+71,Goodwin-Smith,Charlie,Unattached,M,00:57:47
+72,Wells,William,Unattached,MU20,00:58:42
+73,Stark,Richard,Unattached,M40,00:59:18
+74,Ness,David,Unattached,M50,00:59:42
+75,Bagness,Claire,Northumberland FR,F60,01:00:00
+76,Thomson,Monica,Strathearn Harriers,F40,01:00:08
+77,Kerr,Elizabeth,Unattached,F40,01:00:23
+78,Gonasalves,Inaes,Edinburgh Uni H&H,F,01:00:25
+79,Mcneill,Joanna,Saltwell Harriers,F,01:00:36
+80,Gordon,Robert,Dumfries RC,M50,01:00:36
+81,Finlayson,Sarah,Unattached,F40,01:00:50
+82,Nightingale,David,Gala Harriers,M70,01:00:54
+83,Carrigan,Laurie,Saltwell Harriers,M40,01:01:18
+84,Jones,Stephen,Unattached,M60,01:01:30
+85,Purves,James,Gala Harriers,M60,01:02:59
+86,Elliott,Jane,Lauderdale Limpers RC,F50,01:03:27
+87,Orduna,Andrea,Gala Harriers,F50,01:04:18
+88,Wilkinson,Jill,Lauderdale Limpers RC,F,01:04:39
+89,Beck,Sharon,Unattached,F50,01:04:39
+90,Keefe,Caroline,Unattached,F60,01:05:59
+91,Lockie,Paul,Teviotdale Harriers,M50,01:06:39
+92,Robertson,Ross,Northumberland FR,M40,01:08:03
+93,Hetherington,Lynsey,Saltwell Harriers,F40,01:08:35
+94,Richard,Lionel,Unattached, M50,01:08:38
+95,Calder,Denny,Gala Harriers,M50,01:09:03
+96,Brewster,Fiona,Unattached,F50,01:09:08
+97,Dowse,Gill,Strathearn Harriers,F40,01:09:32
+98,Bennett,Daniel,Unattached,M,01:09:51
+99,Bain,Lynne, Sharp Shufflers,F40,01:12:09
+100,Thomson,Iain,Strathearn Harriers,M70,01:15:00
+101,Mcaree,Simon,Gala Harriers,M50,01:15:21
+102,Young,Lorna,Lauderdale Limpers RC,F40,01:15:47
+103,Ravindran,Vineeth,Unattached, M50,01:17:56
+104,Long,Oliver,Saltwell Harriers,M,01:18:02
+105,Jackson,Andrew,Gala Harriers,M50,01:18:13
+106,King,Shelagh,Gala Harriers,F70,01:18:33
+107,Shaw,Hilary,Saltwell Harriers,F60,01:20:50
+108,Oliver,Margaret,Moorfoot Runners,F50,01:25:21
+109,Macdonald,Margaret,Morpeth Harriers,F60,01:26:38
+110,Wells,Heather,Saltwell Harriers,F40,01:30:58
+111,Birch,Frank,Lauderdale Limpers RC,M70,01:40:35
+112,Murray,Robert,Unattached, M70,01:45:38

@@ -1,0 +1,103 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Davis,Adrian,Carnethy HRC,M40,01:27:32
+2,Simpson,Geoff,Hunters Bog Trotters,M40,01:29:14
+3,Axon,Simon,Hunters Bog Trotters,M40,01:35:55
+4,Allan,Gordon,U/A,M40,01:36:54
+5,Livingstone,Robin,Hunters Bog Trotters,M50,01:38:02
+6,Jones,Robin,U/A,M,01:38:54
+7,Sullivan,David,Deeside Runners,M50,01:39:43
+8,Scott-Park,Chris,U/A,M,01:41:36
+9,Riddle,Roddy,U/A,M40,01:42:34
+10,Norgate,Mike,U/A,M40,01:42:34
+11,Bulmer,Carol,Jog Scotland (Gairloch),F40,01:44:29
+12,Douglas,George,U/A,M40,01:45:37
+13,Barrington,Colin,U/A,M,01:46:14
+14,Baxter,Dan,U/A,M,01:46:24
+15,Allan,Chris,U/A,M50,01:47:46
+16,Provan,Louise,Hunters Bog Trotters,F,01:47:51
+17,Walton,Charlie,U/A,M40,01:48:05
+18,Macrae,Ritchie,U/A,M,01:48:23
+19,Jarvie,Charles,Inverness Harriers,M60,01:49:16
+20,Smith,Bill,U/A,M50,01:49:32
+21,McGill,Alison,U/A,F,01:49:47
+22,Preece,Ben,Deeside Runners,M60,01:49:47
+23,Summers,Bob,U/A,M40,01:53:03
+24,Gilmour,Colin,U/A,M40,01:53:25
+25,Petty,Anne,U/A,F,01:53:34
+26,Barr,Andrew,Mid Argyll AC,M40,01:54:14
+27,Small,Andrew,Tain Runners,M40,01:54:21
+28,Whiteside,Kate,U/A,F,01:55:34
+29,Ross,William,U/A,M50,01:55:34
+30,Walker,Bruce,Troon Tortoises,M60,01:58:26
+31,Cartwright,Ian,U/A,M40,01:58:57
+32,Kirkwood,Aileen,U/A,F40,01:58:57
+33,Ross,Mark,U/A,M,01:59:04
+34,Jenkins,Dan,U/A,M,01:59:25
+35,Murray,Steven,U/A,M,02:01:12
+36,Thomson,John,U/A,M50,02:02:25
+37,Blake,Philip,Highland Hill Runners,M50,02:03:51
+38,Hyland,Liam,U/A,M,02:03:54
+39,Pumphrey,Cherie,U/A,F,02:03:58
+40,Viblanc,Paul,Muir of Ord Jog Scotland,M,02:04:45
+41,Breant,Lise,France,F,02:04:45
+42,Urquhart,Jim,U/A,M60,02:07:47
+43,Mitchell,Stephen,U/A,M40,02:09:12
+45,Osbourne,Becky,Nairn Road Runners,F,02:09:24
+44,Sutherland,Duncan,U/A,M40,02:09:12
+46,Schooling,Peter,U/A,M50,02:11:49
+47,Haddock,Richard,U/A,M,02:12:20
+48,Urquhart,Shona,U/A,F40,02:13:17
+49,Bowker,Margot,Jog Scotland,F50,02:14:48
+50,Smart,Ernest,Muir Jog Scotland,M50,02:14:56
+51,Peat,Jim,U/A,M60,02:16:17
+52,Dignan,Mike,Muir Jog Scotland,M40,02:17:51
+53,Strachan,Alison,Dundee Road Runners,F50,02:18:53
+54,Masterton,Lucy,Muir Jog Scotland,F,02:20:05
+55,Miller,David,U/A,M,02:20:19
+56,Collins,Lynsey,U/A,F,02:20:26
+57,Martin,Sally,Muir Jog Scotland,F,02:20:46
+58,Johnston,Alison,Hunters Bog Trotters,F40,02:20:49
+59,Spicer,Lucinda,Muir Jog Scotland,F50,02:21:08
+60,Wentworth,Maghaidh,U/A,F50,02:21:43
+61,Taylor,Tes,U/A,M50,02:23:08
+62,Murray,James,U/A,M40,02:23:27
+63,Lowe,Juliet,U/A,F40,02:24:29
+64,Livingstone,Cath,Hunters Bog Trotters,F40,02:24:46
+65,Sloan,Liz,Glasgow Ladies Running Network,F,02:24:58
+66,Dempster,Ian,Muir Jog Scotland,M60,02:25:08
+67,Stark,Bob,Fife AC,M60,02:25:23
+68,Cole,Pat,Muir Jog Scotland,F50,02:26:01
+69,Magee,Chris,Muir Jog Scotland,F,02:26:01
+70,Ritchie,Sheena,Muir Jog Scotland,F40,02:26:08
+71,Haro,Lea,Womens Jogging,F,02:28:04
+72,Mackenzie,Morven,U/A,F,02:28:10
+73,Lister,Ann,Glasgow Running Network,F60,02:28:15
+74,McGurdy,Julie,Glasgow Running Network,F,02:28:22
+75,Hunter,Nicola,U/A,F40,02:28:43
+76,Waldron,Rebecca,U/A,F,02:29:40
+77,Williamson,Fiona,Muir Jog Scotland,F40,02:31:16
+78,Smith,Alison,U/A,F,02:31:16
+79,Moore,Margaret,U/A,F50,02:32:16
+80,Ritchie,Elizabeth,Tain Runners,F,02:33:42
+81,Murphy,Kenneth,U/A,M70,02:34:59
+82,Grant,Elisabeth,U/A,F50,02:36:05
+83,Richardson,Meghann,U/A,F,02:36:18
+84,Ross,Helen,Tain RC,F40,02:40:13
+85,Johnston,Emma,Tain Runners,F,02:40:13
+86,Glass,Ruth,Pro Life RC,F40,02:44:03
+87,Irving,Jill,Glasgow Jogging Network,F,02:44:03
+88,Maciver,Anna,U/A,F40,02:44:08
+89,Sullivan,Elizabeth,U/A,F,02:44:25
+90,Wright,Joanna,Glasgow Womens Jogging Network,F40,02:44:25
+91,Williamson,Alexander,Fleet Fleet,M70,02:44:55
+92,Mackenzie,Diana,Muir Jog Scotland,F50,02:48:30
+93,Vickerstaff,Kirsty,U/A,F40,02:50:14
+94,Paul,Christine,Muir Jog Scotland,F40,02:50:52
+95,Flint,Alexandra,Muir Jog Scotland,F50,02:50:52
+96,Fraser,Rhona,U/A,F50,02:57:48
+97,Tracey,Sarah,U/A,F,02:59:17
+98,Whyte,Alex,Highland Hill Runners,M60,03:01:38
+99,Munro,Joan,Muir Jog Scotland,F60,03:04:53
+100,Johnson,Trevor,Muir Jog Scotland,M60,03:09:10
+101,Smith,Alison,U/A,F,03:09:10
+102,Christie,Joolz,Muir Jog Scotland,M40,03:09:44

@@ -1,0 +1,123 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Simpson,Robbie,Deeside Runners,M,00:50:55
+2,Douglas,Andrew,Inverclyde AC,M,00:51:33
+3,Hodkinson,Peter,HBT,M,00:53:21
+4,Gristwood,Graham,Ochil Hill Runners,M,00:54:07
+5,Lennon,Eoin,Carnethy ,M,00:54:13
+6,Tosh,Samuel,Carnethy ,M,00:54:18
+7,Gollan,Ross,Shettleston Harriers,M,00:54:29
+8,McLeod,Alasdair,Shettleston Harriers,M,00:56:01
+9,Bell,John,Inverclyde AC,M,00:56:18
+10,Fisher,Luke,Cambridge Uni HH,MU23,00:56:27
+11,Malcolm,Gregor,Edinburgh Uni HH,MU23,00:56:34
+12,Campbell,Alasdair,Cambuslang Harriers,M,00:56:54
+13,MacMillan,Louis,Edinburgh Uni HH,MU23,00:56:58
+14,Barrington,Andrew,Lochaber AC,M,00:57:07
+15,Sutherland,Matthew,Central AC,M,00:57:09
+16,Stewart,Ryan,Shettleston Harriers,M,00:57:39
+17,Paterson,Stuart,Carnegie Harriers,M,00:57:46
+18,Cooper,Kieran,St Andrews Uni,MU23,00:57:53
+19,Johnstone,Andrew,Edinburgh Uni HH,MU23,00:58:13
+20,Wolfe,Hamish,Carnethy ,MU23,00:58:26
+21,Brown,Ewan,Corstorphine AAC,M,00:58:51
+22,Battle,Hamish,Metro Aberdeen ,M,00:58:56
+23,Bradford,Daniel,Shettleston Harriers,M,00:59:03
+24,Wright,Andrew,PH Racing Club,M40,00:59:06
+25,Young,Cameron,Inverness Harriers,MU23,00:59:20
+26,MacCorquodale,Iain,Cambuslang Harriers,M,00:59:29
+27,Lydon,Finn,Carnethy ,MU23,00:59:49
+28,Wilson,Thomas,Garscube Harriers,M,01:00:01
+29,Wright,Joseph,Deeside Runners,MU23,01:00:09
+30,Ackland,James,Cambridge Uni HH,MU23,01:00:23
+31,Callan,Thomas,Westerlands CCC,M,01:00:38
+32,Mon-Williams,Ruaridh,Edinburgh Uni HH,MU23,01:01:00
+33,Mcpartlin,Donald,Garscube Harriers,M,01:01:08
+34,Bax,Myles,Edinburgh AC,M,01:01:32
+35,Adkin,Scout,Moorfoot Runners,F,01:01:57
+36,Cheskin,Lucas,Shettleston Harriers,M,01:02:03
+37,Russell,Robert,Central Ac,M,01:02:30
+38,Carter,Justin,Cambuslang Harriers,M40,01:02:46
+39,McGavock,Russell,Harrow AC,M,01:03:03
+40,Bryce,Andy,Royal Navy AC,M ,01:03:29
+41,Page,Holly,Edinburgh Uni HH,FU23,01:03:57
+42,Millar,Lewis,Central AC,M,01:04:34
+43,Gardner,Peter,HBT,M,01:04:34
+44,Gemmell,Nicholas,Inverclyde AC,M40,01:05:00
+45,Callender,James,Westerlands CCC,M,01:05:07
+46,Dickson,Kirsty,Carnethy ,F,01:05:10
+47,Lambert,Caroline,Middlesbrough AC,F,01:05:13
+48,Macrae,Andrew,Carnethy ,M50,01:05:39
+49,Graves,Catriona,Edinburgh Uni HH,F,01:06:00
+50,Oldfield,Ifan Gruff,Edinburgh Uni HH,MU23,01:06:01
+51,Robinson,Alex,St Andrews Uni,MU23,01:06:03
+52,Smith,Tom,Lochaber AC,M40,01:06:56
+53,Bowers,William,Ochil Hill Runners,M,01:07:06
+54,Pedley,Alasdair,Edinburgh Uni HH,MU23,01:07:24
+55,Cooper,Richard,Cambuslang Harriers,M40,01:07:36
+56,Molloy,Grace,Linlithgow AC,FU23,01:07:55
+57,Goodall,Alice,Edinburgh Uni HH,FU23,01:08:14
+58,Horrocks,Sophie,Carnethy ,F,01:09:00
+59,Low,Matthew,Shettleston Harriers,M,01:09:16
+60,Allsop,David,Kirkintilloch Olympians,M40,01:09:33
+61,Worsley,Steven,Inverness Harriers,M50,01:09:35
+62,Riddell,Kevin,Perth RR,M,01:09:36
+63,McConnell,Michael,PH Racing Club,M,01:09:50
+64,Macleod,Iain,Corstorphine AAC,M50,01:09:51
+65,Bunn,Fiona,Edinburgh Uni HH,FU23,01:10:00
+66,Mcneill,Norman,Kirkintilloch Olympians,M40,01:10:03
+67,Johnston,Fergus,Gala Harriers,M,01:10:14
+68,Sheridan,Marcus,Dundee RR,M,01:10:25
+69,MacDonald,Grant,Garscube Harriers,M40,01:10:36
+70,Joss,Ruth,Shettleston Harriers,F,01:10:46
+71,Torrie,Eddie,Perth RR,M50,01:10:49
+72,Darlow,Tim,Gala Harriers,M40,01:11:20
+73,Cormack,Gemma,Inverness Harriers,F,01:11:22
+74,McLure,Neil,Carnethy ,M50,01:11:32
+75,Anderson,Heather,Fife AC,F40,01:11:32
+76,Downs,Juliet,Edinburgh Uni HH,FU23,01:12:05
+77,Mowat,Rhona,Giffnock North AC,FU23,01:12:24
+78,Karowicz,Marcin,Portobello RC,M,01:13:22
+79,Marwick,Caroline,Inverness Harriers,F,01:13:55
+80,Tullie,John,Teviotdale Harriers,M60,01:14:59
+81,Reis,Rodrigo,Shettleston Harriers,M40,01:15:28
+82,McNairn,Yvonne,Giffnock North AC,F,01:15:50
+83,Upson,Chris,Cambuslang Harriers,M50,01:15:57
+84,Chong,Allie,Giffnock North AC,F40,01:16:32
+85,Frake,Rebecca,Edinburgh AC,F,01:17:03
+86,Davie,Kevin,Carnegie Harriers,M40,01:17:08
+87,King,Laura,Edinburgh Uni HH,FU23,01:17:49
+88,Williams,Mandy,Central AC,F40,01:19:21
+89,Dudchenko,Paul,Linlithgow AC,M50,01:19:26
+90,Burza,Bartosz,Carnethy ,M,01:19:32
+91,Watson,Madeleine,Strathclyde Uni,F,01:19:36
+92,Dickson,Stephen,Fife AC,M40,01:21:09
+93,Wilson,Emma,Edinburgh Uni HH,FU23,01:21:40
+94,Brydon,Jessica,Shettleston Harriers,F,01:21:54
+95,Blaikie,Andrew,Unattached,M50,01:21:58
+96,Hunter,Niamh,Edinburgh Uni HH,FU23,01:22:17
+97,Ferenbach,Barry,Cambridge Uni HH,MU23,01:22:38
+98,Findlay,Isobel,Ochil Hill Runners,FU23,01:22:49
+99,Holland,Arianne,Edinburgh Uni HH,FU23,01:23:07
+100,Burt,Louise,Fife AC,F50,01:23:37
+101,Dickson,Lauren,Lasswade AC,FU23,01:23:41
+102,Worton,Howard,Helensburgh AAC,M40,01:23:58
+103,Campbell,Kirsty,Deeside Runners,FU23,01:24:02
+104,Irvine,Gill,Highland Hill Runners,F60,01:24:43
+105,Thompson,Fabienne,Perth RR,F50,01:24:47
+106,Stewart,Michael,PH Racing Club,M50,01:25:50
+107,Pryde,Gordon,Lomonds,M60,01:26:01
+108,Graham,Rosina,Edinburgh Uni HH,FU23,01:26:06
+109,Laing,Catriona,Dundee Uni,FU23,01:26:14
+110,Berry,Hannah,Dundee Uni,FU23,01:26:52
+111,Best,Michelle,Carnegie Harriers,F40,01:28:42
+112,McArthur,Claire,Hamilton Harriers,F40,01:29:35
+113,Dales,Mike,Perth RR,M60,01:30:02
+114,Williamson,Sima,Carnethy ,F,01:30:43
+115,Ward,Ausrine,Kirkintilloch Olympians,F40,01:31:02
+116,Wilson,Stephen,Garscube Harriers,M50,01:31:54
+117,Eades,Mairi,Edinburgh Uni HH,FU23,01:32:31
+118,Canavan,FA-ona,Dundee RR,F,01:35:12
+119,Dodds,Wendy,Dallam,F60,01:38:37
+120,Loots,Fran,Strathearn Harriers,F60,01:39:29
+121,Manson,Fiona,Perth RR,F50,01:40:11
+122,Collins,Rachel,Edinburgh Uni HH,FU23,01:42:17

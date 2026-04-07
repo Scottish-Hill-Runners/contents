@@ -1,0 +1,115 @@
+RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
+1,Chebbout,Ryad,Shettleston Harriers,M,00:29:59
+2,Goodge,Jamie,Carnethy HRC,M,00:30:08
+3,Espie,James,Deeside Runners,M,00:30:23
+4,Downie,Robin,Lochaber AC,M,00:31:04
+5,Thomson,Fearghas,Granite City Harriers,M,00:31:22
+6,Hardie,Kieran,Harmeny AC,MU20,00:31:29
+7,Dunlop,Alex,Central AC,MU20,00:31:35
+8,Duguid,Finn,Birnam Beavers,MU20,00:31:36
+9,Britton,James,Carnethy HRC,M40,00:32:22
+10,Watters,Archie,Springburn Harriers,MU20,00:32:58
+11,Grant Pantrey,Chris,Shettleston Harriers,M40,00:33:03
+12,Gilmore,Andrew,Highland Hill Runners,M,00:33:13
+13,McGonigle,Aedan,Shettleston Harriers,MU20,00:33:56
+14,Cunnah,Harrison,Strathearn Harriers,M,00:34:11
+15,Stevens,Ben,Carnethy HRC,M,00:34:43
+16,Stewart,Iain,Gala Harriers,M40,00:34:55
+17,MacCorquodale,Iain,Cambuslang Harriers,M40,00:35:06
+18,Crutchfield,Stuart,Westerlands CCC,M40,00:35:22
+19,Gough,Nick,Strathearn Harriers,M40,00:36:00
+20,Atkinson,Emily,Haddington RC,FU20,00:36:26
+21,McBean,Calum,Strathearn Harriers,MU20,00:36:35
+22,Silkstone,Thomas,Strathearn Harriers,M,00:37:04
+23,Mackie,Peter,Shettleston Harriers,M40,00:37:08
+24,Winter,Stephen,Shettleston Harriers,M40,00:37:11
+25,Shepherd,Oscar,Edinburgh Uni H&H,M,00:37:26
+26,Breckenridge,Bill,Shettleston Harriers,M50,00:37:53
+27,Niblock,Iain,Perth Road Runners,M40,00:38:04
+28,Konig,Eliza,Fife AC,FU20,00:38:10
+29,Newton,Matt,Kinross Road Runners,M50,00:38:15
+30,Elder,Callum,Unattached,M,00:38:38
+31,Mudge,Angela,Ochil Hill Runners,F50,00:38:43
+32,Pringle,Alastair,Shettleston Harriers,M50,00:38:45
+33,Cox,Hannah,Edinburgh AC,F,00:38:44
+34,Mayers,James,Musselburgh ,M60,00:38:51
+35,Hunter,Niamh,Carnethy HRC,F,00:38:55
+36,Crowe,Des,Penicuik Harriers,M60,00:39:05
+37,Fullarton,Scot,Unattached,M,00:39:06
+38,Mackinnon,Gordon,Lochaber AC,M40,00:39:21
+39,Weir,Jonathan,Unattached,M40,00:39:29
+40,Dowse,Dave,Strathearn Harriers,M40,00:39:31
+41,Macdonald,Ally,Bellahouston Road Runners,M60,00:39:43
+42,Gray,Andrew,Unattached,M40,00:39:46
+43,Fielding,Sam,Edinburgh Uni Orienteering,M,00:39:51
+44,Meek,Katie,Inverness Harriers,FU20,00:40:03
+45,Han,Andrew,Fulham Running Club,M40,00:40:13
+46,Johnson,Stephanie,Kinross Road Runners,F,00:40:42
+47,Johnson,Hugh,Kinross Road Runners,M,00:40:47
+48,Brown,Louisa,Garscube Harriers,F,00:40:52
+49,Breckenridge,Myrtle,Shettleston Harriers,F,00:41:05
+50,Mooney,Edel,Ochil Hill Runners,F50,00:41:33
+51,Wolfe,Patrick,Unattached,M60,00:41:38
+52,Heron,Rosalind,Carnethy HRC,F,00:41:54
+53,Ensoll,Jess,Carnethy HRC,F,00:41:52
+54,Oliver,Susannah,Unattached,F,00:42:01
+55,Gilmore,Neil,Carnethy HRC,M60,00:42:21
+56,Robertson,Sam,Gala Harriers,MU20,00:42:28
+57,Shah,Rashmi,Kinross Road Runners,M50,00:42:40
+58,Smith,Bruce,Lomond Hill Runners,M60,00:42:40
+59,Laycock,Andy,Kinross Road Runners,M50,00:42:49
+60,Padmanabhan,Nina,Garscube harriers,FU20,00:42:55
+61,Fullarton,Aaron,Greenock Glenpark H,M,00:42:54
+62,Hamilton,Iona,Nevis Triathlon Club,F,00:42:54
+63,Hall,Stephen,Unattached,M40,00:42:54
+64,Hedges,Katie,Falkirk Victoria Harriers,FU20,00:43:17
+65,Dyer,Pete,Edinburgh AC,M,00:43:47
+66,Mchenry,Martin,Kirkintilloch Olympians,M,00:43:46
+67,Thomson,Mike,Strathearn Harriers,M50,00:44:27
+68,Heron,Kyle,Carnethy HRC,M,00:44:32
+69,Sutherland,Jamie,Shettleston Harriers,M,00:44:39
+70,Cave,Andrew,Unattached,M40,00:45:16
+71,Stansfield,Lizzie,Edinburgh Uni H&H,F,00:45:48
+72,Stevenson,John,Ochil Hill Runners,M60,00:46:08
+73,Turvey,Brendan,Unattached,M50,00:46:17
+74,Goodall,Alice,Carnethy HRC,F,00:46:19
+75,Aitken,Emma,Shettleston Harriers,F,00:46:44
+76,Maxwell,Bill,Ochil Hill Runners,M60,00:46:59
+77,Pryde,Gordon,Lomond Hill Runners,M60,00:47:11
+78,McNaughton,Ross,Strathearn Harriers,M40,00:47:21
+79,Neillands,Stuart,Ochil Hill Runners,M60,00:47:23
+80,Janeczko,Adam,Unattached,M,00:47:50
+81,Cunningham,Alison,Strathearn Harriers,F60,00:47:55
+82,Wilson,Joan,Lomond Hill Runners,F60,00:48:10
+83,Donaldson,Laura,Birnam Beavers,F,00:48:30
+84,Warland,Peter,Stowmarket Striders,M60,00:49:03
+85,Butler,Thomas,Ochil Hill Runners,M50,00:49:08
+86,Thomson,Monica,Strathearn Harriers,F40,00:49:25
+87,Paterson,Fiona,Strathearn Harriers,F,00:49:26
+88,Gallagher,Rachel,Strathearn Harriers,F50,00:49:43
+89,George,Paul,Unattached,M50,00:49:57
+90,Hope,Alison,Unattached,F40,00:50:22
+91,Lindsay,Susan,Ochil Hill Runners,F50,00:50:48
+92,Kincaid,Amy,Unattached,F,00:50:50
+93,McAdam,Sarah,Portobello RC,F40,00:50:51
+94,Beck,Sharon,Highland Hill Runners,F50,00:50:57
+95,Breckenridge,Susan,Shettleston Harriers,F50,00:51:06
+96,Wilson,Joel,Birnam Beavers ,M,00:51:42
+97,Henderson,Martyn,Unattached,M40,00:52:13
+98,Padmanabhan,Catriona,Garscube harriers,F50,00:52:33
+99,Williamson,Philip,Ochil Hill Runners,M60,00:52:31
+100,Spenceley,Hilary,Carnethy HRC,F60,00:53:15
+101,Barrie,Adam,Edinburgh Uni Orienteering,M,00:53:23
+102,Ritchie,Karen,Kinross Road Runners,F40,00:53:57
+103,Brown,Jasmine,HBT,F,00:54:07
+104,Finbow,Gavin,Shettleston Harriers,M40,00:54:29
+105,McMahon,James,Birnam Beavers,M,00:54:38
+106,Atkinson,Jennifer,Unattached,F40,00:54:46
+107,Riddell,Kerry,Unattached,F40,00:54:48
+108,Dowse,Gill,Strathearn Harriers,F40,00:56:41
+109,Fraser,Ronald,Dundee Road Runners,M60,00:56:47
+110,Blackbourn,Emma,Unattached,F,00:59:26
+111,Thomson,Iain,Strathearn Harriers,M70,01:00:56
+112,Henderson,David,Alnwick Harriers,M60,01:03:43
+113,McAdam,Pauline,Kinross Road Runners,F60,01:05:05
+114,Featch,Jemma,Blairgowrie runners,F40,01:07:41
