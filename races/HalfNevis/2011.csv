@@ -38,7 +38,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,BENZ,Sean,Unattached,M40,01:18:50
 38,MACKENZIE,Sarah,Lochaber Athletic Club,F,01:19:14
 39,THOMPSON,Fabrenne,Carnegie Harriers,F40,01:20:02
-40,DENNY,Ryan,Lochaber Athletic Club,Junior Man,01:20:17
+40,DENNY,Ryan,Lochaber Athletic Club,M18,01:20:17
 41,ROSS,Susan Jane,Lochaber Athletic Club,F40,01:20:24
 42,MACLELLAN,Laura,Highland Hill Runners,F40,01:24:10
 43,TAYLOR,Gordie,Highland Hill Runners,M40,01:24:14
@@ -53,7 +53,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 52,METHOLD,Henry,Lochaber Athletic Club,M40,01:29:18
 53,OLIVER,David,Deeside runners,M50,01:29:37
 54,CAMERON,Andrew,Lochaber Athletic Club,M40,01:29:37
-55,EVANS,Ros,Unattached,female Vet 60 +,01:31:09
+55,EVANS,Ros,Unattached,FV60,01:31:09
 56,HUNTER,Lia,Lochaber Athletic Club,F,01:31:25
 57,TOMLINSON,David,Lochaber Athletic Club,M60,01:31:52
 58,HAMILTON,Jim,Lochaber Athletic Club,M40,01:32:23

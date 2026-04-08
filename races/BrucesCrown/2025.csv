@@ -1,6 +1,11 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Jo Scott,Nigel Wright &,Team Flapjack,M,15:37:18
-2,Alasdair McCallum,Alasdair Meldrum &,Double Trouble,M,17:05:00
-3,Alison McGill,Fiona Horsfield &,Sweaty A.F.,F,20:32:00
-4,Sarah Wheeler,Mike Brooks &,The Moopsters,Mixed,21:06:00
-5,Steve Sanders,Steve Burgess &,Over t' ill,M,25:06:00
+1,Scott,Jo,Team Flapjack,M,15:37:18
+1,Wright,Nigel,Team Flapjack,M,15:37:18
+2,McCallum,Alasdair,Double Trouble,M,17:05:00
+2,Meldrum,Alasdair,Double Trouble,M,17:05:00
+3,McGill,Alison,Sweaty A.F.,F,20:32:00
+3,Horsfield,Fiona,Sweaty A.F.,F,20:32:00
+4,Wheeler,Sarah,The Moopsters,F,21:06:00
+4,Brooks,Mike,The Moopsters,M,21:06:00
+5,Sanders,Steve,Over t'ill,M,25:06:00
+5,Burgess,Steve,Over t'ill,M,25:06:00

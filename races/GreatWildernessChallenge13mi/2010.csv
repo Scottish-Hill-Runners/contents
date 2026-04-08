@@ -1,9 +1,9 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Scott-Park,Chris,Unattached,U/21,01:46:03
+1,Scott-Park,Chris,Unattached,M21,01:46:03
 2,Laing,Graham,Inverness Harriers,M50,01:49:15
 3,Axon,Simon,Hunters Bog Trotters,M40,01:55:42
 4,Norgate,Mike,Unattached,M40,01:56:19
-5,Grant,Tom,Unattached,U/21,01:56:34
+5,Grant,Tom,Unattached,M21,01:56:34
 6,Fraser,Brian,Para Res AC,MS,01:59:11
 7,Macrae,Megan,Highland Hill Runners,FS,02:00:48
 8,Sullivan,David,Deeside Runners,M50,02:01:08
@@ -67,8 +67,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 66,Morton,Kathryn,Unattached,F50,02:57:55
 67,Brown,Julie,Glasgow Running Network,F40,02:58:32
 68,Cosgrove,John,Unattached,M60,02:59:48
-69,Boag,Gavin,Unattached,U/21,03:01:32
-70,Johnston,Emma,Tain Runners,FS,03:01:42
+69,Boag,Gavin,Unattached,M21,03:01:32
+70,Johnston,Emma,Tain Runners,F,03:01:42
 71,Barr,Nick,Forres Harriers,M40,03:02:34
 72,Lander Stow,Richard,Unattached,MS,03:02:34
 73,Moore,Margaret,Running Network,F50,03:05:58

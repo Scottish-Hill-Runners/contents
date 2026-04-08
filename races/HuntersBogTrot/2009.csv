@@ -7,8 +7,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 6,Townsend,Will,HBT,M,00:31:48
 7,Thin,Jame,HBT,M40,00:32:05
 8,Askham,John,U/A,M,00:32:15
-9,Robertson,Alastair,Lothian RC,M Jnr,00:32:17
-10,Harris,Adam,Fife AC,M Jnr,00:32:18
+9,Robertson,Alastair,Lothian RC,M16,00:32:17
+10,Harris,Adam,Fife AC,M16,00:32:18
 11,Warman,Julian,HBT,M40,00:32:25
 12,Craighead,Scott,U/A,M,00:32:37
 13,Buchanan,Peter,Portobello,M40,00:32:38
@@ -19,16 +19,16 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 18,Sims,Andy,HBT,M,00:34:01
 19,Mair,Will,HBT,M,00:34:10
 20,Murray,Doug,HBT,M,00:34:12
-21,Wood,Jack,Edinburgh Univeristy,M,00:34:14
+21,Wood,Jack,Edinburgh University,M,00:34:14
 22,Hart,Jane,HBT,F,00:34:32
 23,Clements,Dan,HBT,M,00:34:37
 24,Clark,Ross,U/A,M,00:34:39
 25,Denovan,John,U/A,M,00:35:00
 26,Wilson,Rob,Penicuik Harriers,M,00:35:19
 27,Wright,Graham,HBT,M40,00:35:20
-28,Ashley,George,Edinburgh Univeristy,M,00:35:24
+28,Ashley,George,Edinburgh University,M,00:35:24
 29,Matthews,Steve,U/A,M,00:35:50
-30,Quaile,Ali,Edinburgh Univeristy,M,00:35:52
+30,Quaile,Ali,Edinburgh University,M,00:35:52
 31,Blake,Sarah,Penicuik Harriers,F,00:36:07
 32,Minto,Billy,HBT,M40,00:36:15
 33,Wardlaw,Eilidh,HBT,F,00:36:20
@@ -39,7 +39,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 38,Phillips,Ruth,U/A,F,00:37:32
 39,Chapman,Mark,Carnethy,M,00:37:51
 40,O'Neil,Eilis,HBT,F,00:37:52
-41,Fulton,Dave,Edinburgh Univeristy,M,00:38:08
+41,Fulton,Dave,Edinburgh University,M,00:38:08
 42,Miller,Catriona,Westerlands,F,00:38:23
 43,Hunter,Alan,Ochils HR,M40,00:38:26
 44,McIntosh,Heather,Garscube,F40,00:38:30

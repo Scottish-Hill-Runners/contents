@@ -46,7 +46,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Mcgaff,Tom,Cheshire Hill Racers,M40,01:26:04
 46,Wiseman,Bob,Central AC,M,01:26:22
 47,Johnston,Mark,Carnethy,M,01:26:22
-48,Spedding,David,Keswick AC,MSV60+,01:26:30
+48,Spedding,David,Keswick AC,M60,01:26:30
 49,Ascroft,John,Carnethy,M,01:26:40
 50,Riach,David,Westerlands,M,01:26:47
 51,Taylor,Ken,Rossendale,M40,01:26:59
@@ -178,7 +178,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 177,Hodge,Margaret,Unattached,F,02:12:46
 178,Williamson,Jennifer,Eryri,F,02:05:15
 179,Duffy,Lorna,Unattached,F,02:17:22
-180,Turnbull,Drew,Westerlands,MSV60+,02:18:02
+180,Turnbull,Drew,Westerlands,M60,02:18:02
 181,Low,Sandy,Carnethy,M,02:18:49
 182,Mottram,Jane,Cumberland Fell Runners,F40,02:21:52
 183,Patton,Dot,Cumberland Fell Runners,F40,02:21:53

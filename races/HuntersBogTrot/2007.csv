@@ -38,7 +38,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Fox,Simon,Carnethy HRC,M40,00:37:11
 38,Buchanan,Peter,Ochil HR,M40,00:37:30
 39,Denovan,John,U/A,M,00:37:31
-40,Burns,Keith,Carnethy HRC,SV60+,00:37:35
+40,Burns,Keith,Carnethy HRC,M60,00:37:35
 41,MacKay,Bom,HBT,M40,00:37:44
 42,Wadsworth,Andy,HBT,M40,00:37:59
 43,Hawkins,Connor,Fife AC,M16,00:38:22
@@ -55,7 +55,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Bruce,Jim,Stornoway R+AC,M50,00:40:35
 55,Mitchell,Phyllis,Corstorphine AAC,F40,00:40:39
 56,Orr,Graeme,Westerlands CCC,M50,00:40:49
-57,Magee,Billy,Larne AC,SV60+,00:40:50
+57,Magee,Billy,Larne AC,M60,00:40:50
 58,Murray,Rory,Civil Service Strollers,M,00:40:52
 59,McGee,Steven,U/A,M,00:40:56
 60,Rathjen,Sandra,HBT,F,00:40:59
@@ -68,17 +68,17 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 67,Duffy,John,Shettleston Harriers,M40,00:42:09
 68,McDonald,Eddie,Ferranti AC,M50,00:42:13
 69,Clark,Philip,U/A,M,00:42:20
-70,McManus,Ian,Irvine AC,SV60+,00:42:29
+70,McManus,Ian,Irvine AC,M60,00:42:29
 71,Knox,Lindsay,Teviotdale,F40,00:42:41
 72,Spalding,Maggie,HBT,F,00:42:46
 73,Cox,Byron,HBT,M40,00:44:03
-74,Stapley,Tony,Portobello RC,SV60+,00:44:09
+74,Stapley,Tony,Portobello RC,M60,00:44:09
 75,Low,Sandy,Carnethy HRC,M40,00:44:15
-76,Smith,Donald,Westerlands CCC,SV60+,00:44:15
+76,Smith,Donald,Westerlands CCC,M60,00:44:15
 77,Nicholson,Rose,EUH&H,F,00:45:01
 78,Buckley,Christine,HBT,F,00:46:04
-79,Gould,Norman,HBT,SV60+,00:46:36
-80,Turnbull,Drew,Westerlands CCC,SV60+,00:47:35
+79,Gould,Norman,HBT,M60,00:46:36
+80,Turnbull,Drew,Westerlands CCC,M60,00:47:35
 81,Nixon,Nixon,HBT,M50,00:47:50
 82,Trotter Ali J,Golden,HBT,F40,00:51:57
 83,Forrest,Margaret,Carnethy HRC,F40,00:56:50

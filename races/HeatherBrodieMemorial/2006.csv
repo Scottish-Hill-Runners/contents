@@ -1,13 +1,13 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Reid,Forbes,Metro Aberdeen,M,00:31:59
 2,Musgrave,Jon,Deeside Runners,MV,00:32:11
-3,Ferguson,Andrew,Banchory Stonehaven Ac,Mjunior,00:32:12
-4,Hirst,David,Deeside Runners,MV,00:32:27
+3,Ferguson,Andrew,Banchory Stonehaven Ac,M16,00:32:12
+4,Hirst,David,Deeside Runners,M40,00:32:27
 5,Sheridan,Bob,Cosmics,M,00:32:34
-6,Armitage,David,Cosmics,MSV,00:32:57
+6,Armitage,David,Cosmics,M50,00:32:57
 7,Lang,Richard,Unattached,M,00:33:47
-8,Copeland,Barry,Stonehaven Splash N Dash,MV,00:33:56
-9,Bass,Owen,Deeside Runners,MV,00:34:08
+8,Copeland,Barry,Stonehaven Splash N Dash,M40,00:33:56
+9,Bass,Owen,Deeside Runners,M40,00:34:08
 10,Hunter,Stewart,Cosmics,M,00:34:20
 11,Redman,Andy,Fleet Feet,MV,00:34:22
 12,Sullivan,David,Deeside Runners,MSV,00:34:37
@@ -54,7 +54,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 53,Ferguson,Andrew,Banchory Stonehaven Ac,MV,00:42:32
 54,Clarke,Mark,Deeside Runners,MSV,00:42:39
 55,Dickie,June,Fleet Feet,FSV,00:42:40
-56,Tubby,William,Banchory Stonehaven Ac,13,00:42:51
+56,Tubby,William,Banchory Stonehaven Ac,M13,00:42:51
 57,Tubby,Tim,Banchory Stonehaven Ac,MV,00:42:53
 58,Harrison,David,Ythan CC,MSV,00:43:10
 59,Thomson,Ronald,Three Peaks Triathletes,MV,00:43:16
@@ -69,7 +69,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 68,Oliver,Jane,Deeside Runners,FV,00:45:23
 69,Macaulay,Ewan,Unattached,MV,00:45:45
 70,Wombwell,Anna,Unattached,F,00:46:29
-71,Lake,Gareth,Unattached,12,00:46:56
+71,Lake,Gareth,Unattached,M12,00:46:56
 72,Fernandez,Roshan,Unattached,M,00:47:04
 73,McIntosh,Bert,Stonehaven Splash N Dash,M60,00:47:05
 74,Macwilliam,Dave,NME,MV,00:47:05
@@ -87,17 +87,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 86,Taylor,Karen,Unattached,FV,00:51:55
 87,Cook,Jennifer,Northeast Mountain Trust,FV,00:52:27
 88,Cloggie,Jane,Banchory Stonehaven Ac,FV,00:52:48
-89,Cloggie,Emma,Banchory Stonehaven Ac,Fjunior,00:52:49
-90,Brodie,Steph,Deeside Runners,Fjunior,00:53:17
+89,Cloggie,Emma,Banchory Stonehaven Ac,F16,00:52:49
+90,Brodie,Steph,Deeside Runners,F16,00:53:17
 91,Brodie,Lim,Unattached,MSV,00:53:24
 92,Ingram,Arthur,Banchory Stonehaven Ac,MV,00:54:51
 93,Simpson,Anna,Independent,F,00:55:43
 94,Morrison,Lily,Unattached,F60,00:56:10
 95,Marshall,Shirley,Unattached,FV,00:56:30
-96,Langan,Phillipa,Deeside Runners,Fjunior,00:57:39
-97,Buchan,Abbie,Aberdeen AAC,Fjunior,00:57:52
+96,Langan,Phillipa,Deeside Runners,F16,00:57:39
+97,Buchan,Abbie,Aberdeen AAC,F16,00:57:52
 98,Buchan,Rhona,Aberdeen AAC,F,00:57:53
-99,Buchan,Ellie,Aberdeen AAC,Fjunior,00:57:55
+99,Buchan,Ellie,Aberdeen AAC,F16,00:57:55
 100,Pirie,Diane,Banchory Running Group,F,00:59:41
 101,Kelman,May,Deeside Runners,F60,01:01:31
 102,Fowkes,Sheila,Banchory Running Group,FV,01:01:33

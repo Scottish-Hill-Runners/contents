@@ -64,7 +64,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 63,Foster,George,Unattached,M,00:45:06
 64,Wardlaw,Eilidh,HBT,F,00:45:11
 65,Booth,Alastair,Stirling Uni,M,00:45:16
-66,Kelly,Frank,Ochil Hill Runners,MUniv50,00:45:20
+66,Kelly,Frank,Ochil Hill Runners,M50,00:45:20
 67,Smith,Nick,Carnegie Harriers,M,00:45:30
 68,Zeiger,Bastian,Stirling Uni,M,00:45:38
 69,Murray,Alex,Stirling Uni,M,00:45:39
@@ -74,7 +74,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 73,Field,Steven,Central AC,M40,00:45:47
 74,Galloway,Stuart,Stirling Uni,M,00:45:51
 75,Poolman,Ian,Fife AC,M,00:45:53
-76,Bavers,John,Ochil Hill Runners,MUniv40,00:46:00
+76,Bavers,John,Ochil Hill Runners,M40,00:46:00
 77,Wombwall,Peter,Beacon Runners,M,00:46:11
 78,Hynes,Stephen,Stirling Uni,M,00:46:29
 79,Batterham,Jessica,HBT,F,00:46:31
@@ -83,7 +83,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 82,Adamson,Richie,Unattached,M40,00:46:44
 83,Mathieson,Phillip,Stirling Uni,M,00:46:47
 84,Angus,Jonny,Unattached,M,00:46:48
-85,Hanley,Nick,Unattached,MUniv40,00:46:49
+85,Hanley,Nick,Unattached,M40,00:46:49
 86,Duncan,David,Ochil Hill Runners,M50,00:46:57
 87,Winter,Stephen,Stirling Uni,M,00:47:22
 88,Robertson,David,Ochil Hill Runners,M,00:47:00
@@ -96,13 +96,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 95,Mcewan,John,Ochil Hill Runners,M,00:47:39
 96,Biggin,David,Stirling Uni,M,00:47:42
 97,Lees,George,Pitreavie,M40,00:47:59
-98,Dudcherko,Paul,Unattached,MUniv40,00:48:02
+98,Dudcherko,Paul,Unattached,M40,00:48:02
 99,Cross,Jon,Forth Valley Orienteers,M,00:48:04
 100,Lobb,John,Stirling Uni,M,00:48:06
 101,Doherty,Martin,Unattached,M,00:48:07
 102,Mcnicholl,Justin,Stirling Uni,M,00:48:09
 103,Jones,Colwyn,SMC,M40,00:48:29
-104,Gardener,David,Unattached,MUniv40,00:48:31
+104,Gardener,David,Unattached,M40,00:48:31
 105,Walker,Mark,Kendal AC,M40,00:48:32
 106,Melling,Ewan,Unattached,M40,00:48:35
 107,Payne,David,Ochil Hill Runners,M40,00:48:35
@@ -140,8 +140,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 139,Marshall,Gilly,Unattached,F,00:52:17
 140,Runner1,Unknown,Unattached,M50,00:00:00
 141,Grant,Sandy,Ochil Hill Runners,M40,00:52:18
-142,Eggun,Elianne,Stirling Uni,FUniv,00:52:24
-143,Bullen,Brian,Forth Valley Orienteers,MUniv50,00:52:26
+142,Eggun,Elianne,Stirling Uni,F,00:52:24
+143,Bullen,Brian,Forth Valley Orienteers,M50,00:52:26
 144,Marshall,Jonathan,Unattached,M,00:52:30
 145,Mcwinnie,Jim,Unattached,M40,00:52:30
 146,Abercrombie,Mary,Ochil Hill Runners,F,00:52:31
@@ -151,18 +151,18 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 150,Smith,Gavin,Unattached,M,00:52:40
 151,Lindsay,Susan,Ochil Hill Runners,F,00:52:44
 152,MacDonald,Deborah,HBT,F40,00:52:49
-153,Braid,Peter,Unattached,MUniv40,00:52:50
+153,Braid,Peter,Unattached,M40,00:52:50
 154,Sandercock,David,Stirling Uni,M,00:52:52
-155,Mathers,John,Unattached,MUniv40,00:52:57
+155,Mathers,John,Unattached,M40,00:52:57
 156,Graham,Ian,Stirling Uni,M,00:52:58
-157,Booth,Simon,Unattached,MUniv40,00:53:13
+157,Booth,Simon,Unattached,M40,00:53:13
 158,Leask,Lawrence,Unattached,M50,00:53:14
 159,Steven,Colin,Stirling Uni,M,00:53:24
 160,Cox,Byron,Unattached,M40,00:53:32
 161,Tabner,Isaac,Stirling Uni,M,00:53:43
 162,Drewett,David,Unattached,M,00:53:47
 163,McAdam,Pauline,Westerlands,F50,00:54:20
-164,Bertram,Christine,Stirling Uni,FUniv,00:54:22
+164,Bertram,Christine,Stirling Uni,F,00:54:22
 165,Drummond,Jim,Central AC,M50,00:54:29
 166,Gayle,Vernon,Stirling Uni,M,00:54:34
 167,Buchanan-Smith,Beppo,Unattached,M,00:54:35
@@ -180,7 +180,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 179,McIlwraith,Lesley,Lomond Hill Runners,F,00:57:13
 180,Beedie,Ian,Unattached,M,00:57:44
 181,Randfield,Helen,Unattached,F,00:57:53
-182,Stewart,Danielle,Stirling Uni,FUniv,00:57:54
+182,Stewart,Danielle,Stirling Uni,F,00:57:54
 183,Sinclair,Colin,Unattached,M,00:57:54
 184,Poinsu,Thomas,Unattached,M,00:57:57
 185,Mcpherson,Helen,Westerlands,F40,00:57:58
@@ -188,15 +188,15 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 187,Crighton,Shelagh,Strathearn Harriers,F40,00:58:34
 188,Appelbe,Susan,Central AC,F,00:59:00
 189,King,Alex,Ochil Hill Runners,M40,00:59:07
-190,Caldwell,Christine,Unattached,FUniv,00:59:20
+190,Caldwell,Christine,Unattached,F,00:59:20
 191,Bowman,Jean,Beacon Runners,F40,00:59:23
 192,Morrison,David,Stirling Tri,M50,01:00:27
-193,Lyons,Emma,Stirling Uni,FUniv,01:00:52
-194,Griffen,Alexandra,Unattached,FUniv,01:01:01
+193,Lyons,Emma,Stirling Uni,F,01:00:52
+194,Griffen,Alexandra,Unattached,F,01:01:01
 195,Leishman,Andrew,Unattached,M,01:01:16
 196,Davie,John,Pitreavie,M50,01:01:23
 197,Mcwhinnie,Janet,Carnethy,F40,01:01:24
-198,Kelly,Steph,Unattached,FUniv,01:01:26
+198,Kelly,Steph,Unattached,F,01:01:26
 199,Hughes,Thomas,Stirling Uni,M,01:02:06
 200,Crockard,Rosie,Westerlands,F40,01:02:25
 201,Mclaughlin,Patricia,Westerlands,F50,01:02:29
@@ -206,6 +206,6 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 205,Donnelly,Mark,Unattached,M50,01:04:38
 206,Benny,Graham,Westerlands,M50,01:06:26
 207,Miller,Irene,Pitreavie,F40,01:07:09
-208,Halsall,Christine,Unattached,M50,01:10:14
+208,Halsall,Christine,Unattached,F50,01:10:14
 210,Mcneillage,Alison,HBT,F,00:00:00
 211,Hood,Sarah,Edinburgh Uni H&H,F,00:00:00

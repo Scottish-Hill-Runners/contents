@@ -36,7 +36,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 35,Turner,Neil,Lochaber AC,M,01:22:16
 36,Duncan,David,Ochil Hill Runners,M40,01:23:32
 37,Macdonald,Deborah,HBT,F,01:23:45
-38,Johnston,Frank,Unattached,MHV,01:25:29
+38,Johnston,Frank,Unattached,M40,01:25:29
 39,Campbell,Neil,Carnegie Harriers,M,01:26:07
 40,Roberts,Rob,Unattached,M,01:26:19
 41,Hatton,Chris,Helmsdale,M40,01:26:24
@@ -52,7 +52,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 51,Smith,Tilly,Unattached,F40,01:34:10
 52,Newman,Jenny,Moray Road Runners,F,01:38:34
 53,Davidson,Paul,Unattached,M,01:38:52
-54,Mclean,Neil,Unattached,MV (L),01:39:36
+54,Mclean,Neil,Unattached,M40,01:39:36
 55,Cowie,Willie,Unattached,M,01:39:36
 56,O`Leary,Emily,Unattached,F,01:46:04
 57,Macdermid,Lisa,Highland Hill Runners,F40,01:46:48
@@ -63,7 +63,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 62,Macleod,Brian,Unattached,M,02:08:52
 64,Winterbourne,Peter,Unattached,M,02:17:13
 63,Mackenzie,Malcolm,Unattached,M,02:17:13
-65,Abrahamson,Mark,Unattached,MS (L),02:20:38
+65,Abrahamson,Mark,Unattached,M,02:20:38
 66,Kearney,Darren,Unattached,M,02:21:55
 67,Daughtry,Dj,Unattached,M,02:22:22
 68,Lamont,John,Unattached,M,02:22:53

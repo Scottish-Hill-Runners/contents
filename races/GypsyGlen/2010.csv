@@ -1,25 +1,25 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,McGovern,Mike,Moorfoot,"M1, MV1",00:33:35
-2,Green,Gareth,Portobello,M2,00:34:13
-3,Dougal,Darin,Leithen Burn,M3,00:34:19
-4,Mason,John,Wakefield,MV2,00:34:31
+1,McGovern,Mike,Moorfoot,"M40",00:33:35
+2,Green,Gareth,Portobello,M,00:34:13
+3,Dougal,Darin,Leithen Burn,M,00:34:19
+4,Mason,John,Wakefield,M40,00:34:31
 5,Reid,Michael,Moorfoot,M,00:34:42
 6,Burt,Cameron,Unattached,M,00:34:53
 7,Martin,Richard,Carnethy,M,00:35:15
-8,Buchanan,Peter,Portobello,MV3,00:35:33
+8,Buchanan,Peter,Portobello,M40,00:35:33
 9,Hobbs,Tom,Moorfoot,M,00:35:47
 10,Nash,Graham,Unattached,M,00:36:10
 11,Jessiman,Andy,Peebles Tri,M,00:36:21
 12,Brooks,Mike,Penicuik,M,00:37:12
 13,Martin,Stephen,Moorfoot,M,00:37:39
 14,Hendry,Robert,Unattached,M40,00:37:42
-15,Ridley,Susan,Edinburgh AC,"F1, FV1",00:37:47
+15,Ridley,Susan,Edinburgh AC,"F40",00:37:47
 16,Fletcher,Graeme,Corstorphine,M40,00:37:54
 17,Jenkins,Kate,HBT,F2,00:38:08
 18,Davidson,Kenneth,Moorfoot,M,00:38:26
 19,Munro,Ian,Moorfoot,M60,00:38:31
 20,Gwynne,Neal,Unattached,M,00:38:40
-21,Fagan,Rachael,Gala Harriers,"F3, FV2",00:38:58
+21,Fagan,Rachael,Gala Harriers,"F40",00:38:58
 22,Anderson,John,Penicuik,M,00:39:06
 23,Adkin,Scout,Moorfoot,F17,00:39:10
 24,Patterson,Robert,Unattached,M,00:39:25
@@ -40,7 +40,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 39,McIntyre,Gordon,Unattached,M,00:42:48
 40,Nichol,Paul,Moorfoot,M,00:42:59
 41,Bailey,Brian,Gala Harriers,M,00:44:02
-42,O'Brien,Phyllis,HBT,FV3,00:44:23
+42,O'Brien,Phyllis,HBT,F50,00:44:23
 43,Stark,Fraser,Glasgow Academy,M16,00:44:37
 44,Constance,S,Unattached,M,00:44:41
 45,Tait,Gail,Motherwell,F,00:44:42

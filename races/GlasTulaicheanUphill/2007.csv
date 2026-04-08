@@ -4,7 +4,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 3,Anthony,Alasdair,Ochil Hill Runners,M20,00:35:47
 4,Whitlie,Stuart,Carnethy,M40,00:37:14
 5,Quinn,Robert,Kilbarchan,M40,00:37:18
-6,Weir,Dave,Fife AC,MM40,00:37:51
+6,Weir,Dave,Fife AC,M40,00:37:51
 7,Cummins,Dave,Shettleston,M40,00:38:44
 8,Bell,Matt,Edinburgh AC,M20,00:38:58
 9,Paterson,Ewan,Moray RR,M50,00:39:50
@@ -28,8 +28,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 27,Scott,Dawn,Lochaber,F20,00:48:39
 28,McEwan,Murdo,Carnethy,M50,00:48:39
 29,Gemmell,Clare,Springburn Harriers,F20,00:49:04
-30,Mitchell,Dave,Dundee Hawhhill,M40,00:49:13
-31,Fowler,Nigel,Fife A C,M20,00:49:45
+30,Mitchell,Dave,Dundee Hawkhill,M40,00:49:13
+31,Fowler,Nigel,Fife AC,M20,00:49:45
 32,Winton,Simon,Dalmunzie,M50,00:49:56
 33,Gamble,Lisa,Fife AC,F20,00:50:29
 34,McKinlay,Gavin,Dundee Road Runners,M20,00:50:45
@@ -41,7 +41,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 40,Love,Charlie,Dundee Hawkhill,M60,00:52:36
 41,Hay,Bruce,-,M20,00:52:42
 42,Fraser,Gary,-,M20,00:54:34
-43,Johnson,Dina,Dundee Road Runners,F0,00:55:25
+43,Johnson,Dina,Dundee Road Runners,F40,00:55:25
 44,Cromar,Steve,Dundee Hawikhill,M60,00:55:58
 45,Noble,Lois,Cosmic Hill Bashers,F40,00:57:14
 46,Stewart,Elaine,Cosmic Hill Bashers,F50,00:57:44

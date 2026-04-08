@@ -1,11 +1,11 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Rogan,Paul,Forres Harriers,M1,00:33:59
-2,Thorburn,Ewan,Lochaber AC,M2,00:34:18
-3,MacRae,Andrew,Inverness Harriers,M3,00:34:51
-4,Cummins,Dave,Highland Hill Runners,MV1,00:35:13
-5,Dobbs,Simon,Moray Road runners,MV2,00:35:16
+1,Rogan,Paul,Forres Harriers,M,00:33:59
+2,Thorburn,Ewan,Lochaber AC,M,00:34:18
+3,MacRae,Andrew,Inverness Harriers,M,00:34:51
+4,Cummins,Dave,Highland Hill Runners,M40,00:35:13
+5,Dobbs,Simon,Moray Road runners,M40,00:35:16
 6,Nixon,Ross,Inverness Harriers,M,00:35:41
-7,Farquhar,Keith,U/A,MV3,00:35:45
+7,Farquhar,Keith,U/A,M40,00:35:45
 8,Bannerman,Ross,Highland Hill Runners,M,00:35:46
 9,Green,Colin,Moray Road runners,M,00:36:39
 10,Gallie,David,Inverness Harriers,M,00:37:31
@@ -21,8 +21,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 20,Bath,Simon,Highland Hill Runners,M,00:39:16
 21,Mitchell,George,Inverness Harriers,M60,00:39:32
 22,Cowie,Paddy,U/A,M,00:39:56
-23,Reid,Eleanor,Inverness Harriers,F1,00:40:16
-24,Bannrman,Roxy,Highland Hill Runners,F2,00:40:29
+23,Reid,Eleanor,Inverness Harriers,F,00:40:16
+24,Bannrman,Roxy,Highland Hill Runners,F,00:40:29
 25,Wilson,Stewart,Inverness Harriers,M,00:40:30
 26,Hague,Peter,Cairngorm Runners,M40,00:41:16
 27,Tinsley,Mark,U/A,M,00:41:31
@@ -31,7 +31,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 30,Roberts,Richard,U/A,M,00:42:43
 31,White,Robert,U/A,M,00:43:25
 32,Aitken,Richard,U/A,M,00:43:43
-33,Rogan,Kirstie,U/A,F3,00:44:03
+33,Rogan,Kirstie,U/A,F,00:44:03
 34,Halley,Dereck,U/A,M,00:44:07
 35,MacLennan,Mairi,U/A,F,00:44:24
 36,Macrae,Megan,Highland Hill Runners,F,00:44:44

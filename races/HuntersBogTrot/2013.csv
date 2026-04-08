@@ -7,8 +7,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 6,Gierjatowicz,Patryk,Haries,M,00:29:24
 7,McCormack,Sarah,Moorfoot,F,00:29:24
 8,Reid,Michael,Carnethy,M,00:29:34
-9,Mason,Callum,Haries,MJnr - Student,00:29:44
-10,Campbell,Ross,Haries,MJnr - Student,00:29:52
+9,Mason,Callum,Haries,M16,00:29:44
+10,Campbell,Ross,Haries,M16,00:29:52
 11,Waldie,James,Haries,M,00:30:17
 12,Gilmore,Andrew,Carnethy,M,00:30:47
 13,Bucciarello,Gabriele,Edinburgh A.C.,M,00:30:58
@@ -107,7 +107,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 106,Baker,Emma,HBT,F40,00:43:20
 107,Golding,Katherine,HBT,F,00:43:39
 108,Khan,Mohammed,Dumfries RC,M,00:44:09
-109,Shepherd,Rozy,Haries,FJnr - Student,00:44:10
+109,Shepherd,Rozy,Haries,F16,00:44:10
 110,Dunn,Nicola,Carnethy,F40,00:44:15
 111,Kemp,Sadie,Penicuik Harriers,F,00:44:20
 112,Garside,Derek,NA,M,00:45:02

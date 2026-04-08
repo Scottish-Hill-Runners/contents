@@ -11,7 +11,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 10,Knox,Thomas,Anster,M20,00:23:20
 11,Trainer,James,Carnegie,M,00:23:37
 12,Love,Craig,Dundee H,M40,00:23:44
-13,Morgan,Charlotte,Carnethy,Ls,00:24:02
+13,Morgan,Charlotte,Carnethy,F,00:24:02
 14,Woods,Ben,u/a,M,00:24:16
 15,Gilmour,Neil,Carnethy,M50,00:24:17
 16,Boden,James,HBT,M,00:24:27
@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Brown,Jamie,HBT,M,00:26:31
 26,Duffy,Sean,u/a,M,00:26:36
 27,Hope-Jones,David,HBT,M,00:26:39
-28,Lloyd,Amelia,HBT,Ls,00:26:46
+28,Lloyd,Amelia,HBT,F,00:26:46
 29,Reid,Don,W CC,M50,00:27:02
 30,Kennedy,Robbie,Lothian,M20,00:27:08
 31,Fernando,Sam,Fife,M15,00:27:09
@@ -59,20 +59,20 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 58,Cruikshanks,Jennifer,Fife,F,00:30:35
 59,Beveridge,Bob,Lomond,M70,00:30:59
 60,Hogan,Andrew,u/a,M40,00:31:22
-61,Knox,Lizzie,Anster,Lu17,00:31:46
+61,Knox,Lizzie,Anster,F17,00:31:46
 62,Greer,Steven,Carnegie,M50,00:32:00
-63,Gaff,Melanie,u/a,Ls,00:32:03
+63,Gaff,Melanie,u/a,F,00:32:03
 64,Lambert,Jim,u/a,M50,00:32:08
 65,Ledlie,Colin,Carnethy,M40,00:32:09
 66,Gordon,Jillian,Kinross,F,00:32:10
 67,Knox,Tracey,Anster,F50,00:32:17
 68,Gardner,Peter,HBT,M,00:32:31
 69,Mallet,Pat,Lomond,M40,00:32:57
-70,Knox,Rosie,Anster,Lu15,00:33:14
+70,Knox,Rosie,Anster,F15,00:33:14
 71,Davidson,Stewart,Fife,M60,00:33:38
 72,Dick,Euan,u/a,M,00:33:51
-73,Craig,Carrie,HBT,Ls,00:33:57
-74,Whitelock,Chloe,u/a,Lu15,00:33:59
+73,Craig,Carrie,HBT,F,00:33:57
+74,Whitelock,Chloe,u/a,F15,00:33:59
 75,Halstead,Lesley,Lomond,F40,00:34:23
 76,McLeod,Gordon,u/a,M,00:34:35
 77,Coyle,Caroline,u/a,F,00:35:18
