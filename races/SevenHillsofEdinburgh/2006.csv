@@ -14,7 +14,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 13,Picksley,Mark,Portobello,M,01:59:22
 14,Simpson,Geoff,HBT,M40,01:59:25
 15,Roberts,Mark,HBT,M,01:59:42
-16,Hulme,Martin,Corstorphine AAC,1st S,01:59:50
+16,Hulme,Martin,Corstorphine AAC,M,01:59:50
 17,Phillips,Derek,Perth Road Runners,M40,01:59:59
 18,Buchanan,Peter,Portobello,M40,02:01:32
 19,Mykura,Willie,Carnethy,M40,02:02:03
@@ -23,7 +23,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 22,Cameron,Gordon,Carnethy,M40,02:04:20
 23,Logan,Ron,Gala Harriers,M,02:04:28
 24,Chadwick,Will,Unattached,M,02:04:32
-25,Threadgall,Kim,City of Edinburgh,F 1st,02:04:55
+25,Threadgall,Kim,City of Edinburgh,F,02:04:55
 26,Davies,Chris,Carnethy,M,02:05:10
 27,Mayfield,Keith,Portobello,M40,02:05:26
 28,Garland,Charles,Unattached,M40,02:05:29
@@ -34,20 +34,20 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 33,Mason,David,Unattached,M50,02:08:36
 34,Paterson,Barry,Unattached,M,02:09:20
 35,Barrie,Stuart,Carnethy,M,02:09:55
-36,Beal,Marietta,City of Edinburgh,F 2nd,02:12:36
+36,Beal,Marietta,City of Edinburgh,F,02:12:36
 37,Overton,Gareth,Unattached,M,02:13:55
 38,Lamont,Mike,Standard Life,M,02:14:18
 39,Carr,Dean,Corstorphine AAC,M,02:14:54
-40,Smithard,Phil,Carnegie Harriers,2nd S,02:17:10
+40,Smithard,Phil,Carnegie Harriers,M,02:17:10
 41,Van Den Berg,Jan-Bert,Corstorphine AAC,M,02:18:01
-42,Young,Karen,Portobello,F 3rd,02:18:24
+42,Young,Karen,Portobello,F,02:18:24
 43,Colver,Keith,Unattached,M,02:18:56
 44,Harper,Keith,Portobello,M50,02:19:31
-45,Kittel,Werner,Portobello,S,02:19:34
+45,Kittel,Werner,Portobello,M,02:19:34
 46,Olsen,Paul,Unattached,M,02:19:37
-47,Macgregor,Jim,Moray Road Runners,S,02:20:00
+47,Macgregor,Jim,Moray Road Runners,M,02:20:00
 48,Thomas,Neil,HBT,M,02:20:16
-49,Scott,Jim,Portobello,S,02:21:11
+49,Scott,Jim,Portobello,M,02:21:11
 50,Thornton,Jeff,Lothian,M,02:21:31
 51,Armstrong,Ian,Unattached,M,02:21:36
 52,Goodyear,Matthew,Unattached,M,02:22:20

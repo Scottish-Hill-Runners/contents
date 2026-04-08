@@ -37,7 +37,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 36,Phin,Laurence,Unattached,M,00:23:23
 37,Clement,Daniel,Unattached,M,00:23:35
 38,Turnbull,Les,Norham,M40,00:23:27
-39,Cameron,Gordon,Carnethy H.R,M. O40,00:23:29
+39,Cameron,Gordon,Carnethy H.R,M40,00:23:29
 40,Adkin,Scout,Moorfoot,F,00:23:29
 41,McPherson,John,H.B.T,M,00:23:33
 42,Millard,Andy,Carnethy H.R,M,00:23:42
@@ -99,9 +99,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 98,Craigie,Douglas,Unattached,M,00:26:45
 99,Kynoch,Gavin,Unattached,M40,00:26:47
 100,Faulkner,Paul,Portobello R.C,M40,00:26:48
-101,Brennan,Brian,Westerlands,M.,00:26:50
+101,Brennan,Brian,Westerlands,M,00:26:50
 102,Baird,Graham,Unattached,M,00:26:52
-103,Thomson,Neil,Unattached,M.,00:26:54
+103,Thomson,Neil,Unattached,M,00:26:54
 104,Stevenson,Fraser,Unattached,M16,00:27:00
 105,Semple,Michael,Giffnock North,M16,00:27:03
 106,Evans,Nathan,Unattached,M16,00:27:14

@@ -1,5 +1,5 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Gilmour,Mairi ,Glasgow University H & H,U/21,1:44:11
+1,Gilmour,Mairi ,Glasgow University H & H,F21,1:44:11
 2,Skinner,William ,Inverness Harriers,MV40,1:48:10
 3,Gilmour,Colin ,Ross County Athletics,MV50,1:50:52
 4,Macrae,Willie ,Highland Hill Runners,MV60,1:56:02
@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,MacSween,Roddy ,U/A Tain,MV50,2:13:54
 19,Ross,Mark ,U/A Inverness,MV40,2:16:59
 20,Walker,Bruce ,Troon Tortoises,MV70,2:18:18
-21,Dale,Megan ,U/A Garve,U/21,2:18:32
+21,Dale,Megan ,U/A Garve,F21,2:18:32
 22,Grist,Rachael ,U/A Inverness,FV40,2:18:55
 23,Johnston,Emma ,Tain Runners,FV40,2:19:05
 24,Middleton,Beccy ,Wester Ross Athletics,FS,2:19:59

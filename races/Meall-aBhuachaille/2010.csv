@@ -94,7 +94,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 40,Sutherland,Hazel,U/A,F40,01:09:41
 41,Sheridan,Bob,Cosmic,M40,01:09:45
 42,Pott,Tim,Forres,M40,01:09:59
-43,Mackenzie,Ruth,Deeside,MF40,01:10:15
+43,Mackenzie,Ruth,Deeside,F40,01:10:15
 44,Thompson,Fabienne,Carnegie,M40,01:10:31
 45,Grigor,Sandy,Cairngorm,M,01:10:34
 46,Reynolds,Colin,Carnegie,M,01:10:37
@@ -112,6 +112,6 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 58,Millard,Andy,Carnethy,M40,01:12:43
 59,Bremnar,Brian,Westies,M50,01:12:45
 60,Macnab,Graham S,Lochaber,M40,01:13:04
-61,Rennie,Nick,U/A,MF40,01:13:41
+61,Rennie,Nick,U/A,M,01:13:41
 62,Nicoll,Grahame,Tayside,M50,01:13:57
 63,Gillies,Eric,Lochaber,M40,01:14:00

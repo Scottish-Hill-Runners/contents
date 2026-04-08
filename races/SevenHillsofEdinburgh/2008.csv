@@ -19,7 +19,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 18,Small,Derek,Unattached,M,01:59:26
 19,Wilkie,Grant,Corstorphine,M40,01:59:45
 20,Barr,Tom,H.B.T.,M,02:00:43
-21,Hulme,Martin,Corstorphine,50+,02:01:58
+21,Hulme,Martin,Corstorphine,M50,02:01:58
 22,Salmond,George,Portobello,M,02:02:04
 23,McColl,Tim,Norham,M,02:02:07
 24,Ferguson,Scott,Portobello,M,02:02:37
@@ -32,16 +32,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 31,Mykura,Jill,Carnethy HR,F,02:04:59
 32,Johnston,Fergus,Gala H.,M,02:06:04
 33,Thornton,Jeff,Footworks,M,02:06:12
-34,Caldwell,Martin,Corstorphine,50+,02:06:28
+34,Caldwell,Martin,Corstorphine,M50,02:06:28
 35,Pearson,Stephen,Edinburgh University,M,02:06:36
 36,Henry,Graham,Portobello,M40,02:06:42
-37,Mack,Phil,Unattached,50+,02:06:43
+37,Mack,Phil,Unattached,M50,02:06:43
 38,Brydie,Chris,Unattached,M,02:06:47
 39,Rawlik,Konrad,Unattached,M,02:07:00
 40,Paterson,Barry,Unattached,M,02:08:19
 41,Mykura,Willie,Carnethy HR,M,02:08:22
 42,Ford,Alasdair,Unattached,M,02:09:41
-43,Balfour,Scott,Lothian RC,60+,02:09:45
+43,Balfour,Scott,Lothian RC,M60,02:09:45
 44,Balancier,Sarah,Edinburgh AC,F,02:09:49
 45,Taylor,Ken,Unattached,M,02:09:55
 46,Nield,David,Aegon,M,02:10:11
@@ -53,17 +53,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 52,Marshall,Alistair,Unattached,M,02:12:01
 53,Mapp,Stuart,Edinburgh HHH,M,02:12:15
 54,Henderson,Amanda,Portobello,F,02:12:45
-55,Howie,Brian,Carnethy HR,50+,02:13:17
+55,Howie,Brian,Carnethy HR,M50,02:13:17
 56,Waugh,Hannah,Kilbarchan,F,02:13:28
 57,Bush,Richard,Carnethy HR,M,02:13:58
 58,Hunter,Stewart,Unattached,M,02:14:11
 59,Colombo,Cedric,Unattached,M,02:16:09
 60,Ross,Graeme,Unattached,M40,02:18:17
 61,Eunson,Paul,Portobello,M50,02:19:01
-62,Sandeman,Donald,Unattached,50+,02:19:12
+62,Sandeman,Donald,Unattached,M50,02:19:12
 63,Beal,Marietta,Edinburgh AC,F,02:19:35
 64,Sjoestedt,Ola,Orienteering),F,02:19:44
-65,Macgregor,Jim,Moray RR,50+,02:19:53
+65,Macgregor,Jim,Moray RR,M50,02:19:53
 66,Turner,Jason,Unattached,M,02:19:57
 67,Masson,Derek,Unattached,M50,02:21:54
 68,Gabriel,Neil,Unattached,M,02:21:57
@@ -73,7 +73,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 72,Johnston,Susan,Corstorphine,F,02:24:04
 73,Kell,Pauline,Corstorphine,F,02:24:07
 74,Barnes,Jerry,York Acorn,M,02:24:47
-75,Dobson,Judith,Kinross RR,F45+,02:25:07
+75,Dobson,Judith,Kinross RR,F45,02:25:07
 76,Drewette,David,Unattached,M50,02:25:25
 77,Curle,Simon,Unattached,M,02:25:50
 78,Colman,David,Corstorphine,M,02:26:11
@@ -82,14 +82,14 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 81,Sanderson,Mark,Unattached,M40,02:26:58
 82,Colver,Keith,Unattached,M,02:27:24
 83,Baruch,Ed,Unattached,M,02:27:42
-84,Murray,Bob,Edinburgh Road Club,50+,02:28:27
+84,Murray,Bob,Edinburgh Road Club,M50,02:28:27
 85,Rius-Vilarrasa,Elisenda,Edinburgh AC,F,02:29:28
 86,Brown,Nicholas,Corstorphine,M,02:29:42
 87,Hunter,Mary,Portobello,F,02:30:06
 88,Edwards,Paul,Portobello,M,02:30:12
 89,Little,Martin,Edinburgh AC,M,02:30:31
 90,Lewis,George,Unattached,M,02:30:36
-91,Mackelvie,Gillian,Portobello,F45+,02:31:38
+91,Mackelvie,Gillian,Portobello,F45,02:31:38
 92,Hooke,Andrew,Unattached,M,02:31:48
 93,Horrocks,Stephen,Unattached,M50,02:34:39
 94,Law,David John,Corstorphine,M,02:34:41
@@ -98,22 +98,22 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 97,Castle,Andy,Unattached,M,02:35:32
 98,Reed,Scott,Edinburgh AC,M,02:36:21
 99,Maish,Alastair,Unattached,M,02:36:23
-100,Gunstone,Doug,Fife AC,50+,02:36:33
-101,Gould,David,Trail Running Assoc ,50+,02:36:53
+100,Gunstone,Doug,Fife AC,M50,02:36:33
+101,Gould,David,Trail Running Assoc ,M50,02:36:53
 102,Wilkinson,Michael,Carnethy HR,M,02:38:42
-103,Denholm,John,Falkirk Vic.,50+,02:39:06
+103,Denholm,John,Falkirk Vic.,M50,02:39:06
 104,Thomson,George,Falkirk Vic.,M,02:39:14
-105,O'Hara,John,Corstorphine,Vet,02:39:28
-106,Dewar,Lorna,Falkirk Vic.,F45+,02:39:59
-107,Bunyan,David,Falkirk Vic.,50+,02:40:02
+105,O'Hara,John,Corstorphine,M,02:39:28
+106,Dewar,Lorna,Falkirk Vic.,F45,02:39:59
+107,Bunyan,David,Falkirk Vic.,M50,02:40:02
 108,Stewart,Ash,Unattached,F,02:40:49
 109,Sinclair,Rob,Unattached,M40,02:40:51
 110,Seekamp,Ulf,Unattached,M,02:41:43
 111,Robertson,David,Unattached,M,02:42:40
-112,Crane,Calvin,Lothian RC,50+,02:43:00
+112,Crane,Calvin,Lothian RC,M50,02:43:00
 113,Robertson,Craig,Unattached,M,02:43:09
 114,Armstrong,Ian,Unattached,M,02:43:13
-115,Armstrong,George,H.E.L.P.,60+,02:43:14
-116,Dalitz,Rod,Carnethy HR,60+,02:43:17
+115,Armstrong,George,H.E.L.P.,M60,02:43:14
+116,Dalitz,Rod,Carnethy HR,M60,02:43:17
 117,Jackson,Sandy,Unattached,M,02:50:05
 118,Donaghey,Matthew,Unattached,M,03:18:40

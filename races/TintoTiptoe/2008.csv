@@ -1,17 +1,17 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Foss,Luke,Law & District,11,00:07:44
-2,Maclean,Lachlan,-,10,00:09:05
-3,Arbuckle,Lauren,Lothian R C,12,00:09:12
-4,Horsburgh,Alice,Lothian R C,11,00:09:34
-5,Sloan,David,East Kilbride A C,12,00:09:40
-6,Nelson,Bethany,Lothian R C,10,00:09:49
-7,Duncan,Zara,-,10,00:10:40
-8,Lawrence,Cameron,-,7,00:14:28
-9,Lawrence,Lewis,-,5,00:15:11
-10,Fulham,Rhona,-,5,00:15:24
-11,Bennet,Ailsa,Carnegie A C,5,00:16:37
-12,Bennet,Struan,Carnegie A C,3,00:17:14
-13,McKay,Bess,Lothian R C,9,00:19:16
-14,Bülow,Matthew,Lothian R C,9,00:19:16
-15,Sloan,David,East Kilbride A C,12,00:20:07
-16,Fulham,Shaun,-,2,00:21:07
+1,Foss,Luke,Law & District,M11,00:07:44
+2,Maclean,Lachlan,-,M10,00:09:05
+3,Arbuckle,Lauren,Lothian R C,F12,00:09:12
+4,Horsburgh,Alice,Lothian R C,F11,00:09:34
+5,Sloan,David,East Kilbride A C,M12,00:09:40
+6,Nelson,Bethany,Lothian R C,F10,00:09:49
+7,Duncan,Zara,-,F10,00:10:40
+8,Lawrence,Cameron,-,M7,00:14:28
+9,Lawrence,Lewis,-,M5,00:15:11
+10,Fulham,Rhona,-,F5,00:15:24
+11,Bennet,Ailsa,Carnegie A C,F5,00:16:37
+12,Bennet,Struan,Carnegie A C,M3,00:17:14
+13,McKay,Bess,Lothian R C,F9,00:19:16
+14,Bülow,Matthew,Lothian R C,M9,00:19:16
+15,Sloan,David,East Kilbride A C,M12,00:20:07
+16,Fulham,Shaun,-,M2,00:21:07

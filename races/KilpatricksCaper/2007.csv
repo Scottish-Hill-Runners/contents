@@ -39,7 +39,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 38,Begley,Tommy,Irvine A.C.,M,01:00:29
 39,Abram,Michael,Arran Runners,M50,01:01:13
 40,Orr,Johnston,Unattached,M,01:01:13
-41,Buchanan,Andrina,Central A.C.,Vet 40 L,01:01:56
+41,Buchanan,Andrina,Central A.C.,F40,01:01:56
 42,Adams,David,Hamilton A.C.,M60,01:02:05
 43,Johnston,Stephen,Milburn Harriers,M40,01:02:55
 44,Orr,Robin,Clydeside Orienteers,M40,01:03:04
@@ -55,11 +55,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Clough,Andrew,F.R.A.,M40,01:09:52
 55,Smith,Donald,Westerlands Cross Country Club,M60,01:10:00
 56,McManus,Ian,Irvine A.C.,M60,01:10:23
-57,MacPherson,Helen,Westerlands Cross Country Club,Vet 50 L,01:10:32
-58,McAdam,Pauline,Westerlands Cross Country Club,Vet 50 L,01:11:24
+57,MacPherson,Helen,Westerlands Cross Country Club,F50,01:10:32
+58,McAdam,Pauline,Westerlands Cross Country Club,F50,01:11:24
 59,Reynolds,Andrew,Milocarion A.C.,M40,01:12:02
 60,Laurie,Warl,Unattached,M40,01:12:16
-61,Screiber,Jo,Pudsey and Bramley,Vet 40 L,01:12:46
+61,Screiber,Jo,Pudsey and Bramley,F40,01:12:46
 62,King,Alex,Ochil Hill Runners,M40,01:13:31
 63,Taylor,Andy,Unattached,M40,01:13:59
 64,Wilson,Stevie,Clydeside Orienteers,M40,01:14:35

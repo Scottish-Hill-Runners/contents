@@ -90,7 +90,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 89,Mallett,Patrick,Lomond Hill Runners,M,00:35:28
 90,Smith,Bill,Fife AC,M,00:35:30
 91,Thomson,Fabian,Carnegie,F,00:35:40
-92,Graham,Allan,Lomond Hill Runners,MVS,00:35:41
+92,Graham,Allan,Lomond Hill Runners,M40,00:35:41
 93,Morrison,Gordon,Strathearn,M50,00:35:43
 94,Wilson,Colin,Perth RR,M,00:35:47
 95,Milne,Ron,Forfar RR,M50,00:35:48
@@ -105,7 +105,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 104,Crowe,Nicola,Perth RR,F,00:36:33
 105,Bussey,James,Strathearn,M,00:36:34
 106,Lindsay,Susan,Ochil,F,00:36:40
-107,Scott,Jacqueline,Fife AC,FVS,00:36:52
+107,Scott,Jacqueline,Fife AC,F50,00:36:52
 108,Davidson,Chris,Carnegie,M,00:36:53
 109,Provan,Louise,Fife AC,F,00:36:58
 110,Campbell,Neil,Carnegie,M,00:37:01
@@ -115,7 +115,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 114,Leask,Patrick,Beacon,M50,00:37:31
 115,Nicoll,Alastair,Strathearn,M,00:37:43
 116,Smith,Jacqui,Kinross,F,00:37:37
-116,West,Alison,Carnegie,FVS,00:37:45
+116,West,Alison,Carnegie,F50,00:37:45
 118,Stewart,Kenneth,Perth RR,M50,00:37:47
 119,Gillon,7William,Unattached,M,00:37:48
 120,McMillan,Robert,Unattached,M,00:37:57

@@ -94,13 +94,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 93,Curtis,Mike,Banchory,M40,45:10
 94,Finbow,Malcolm,Shettleston,M40,45:16
 95,Gordon,Nick,Dumfries,M,45:19
-96,Gauld,Bill,Carnethy,SSSV,45:20
+96,Gauld,Bill,Carnethy,M70,45:20
 97,Milner,Jim,Unatt Edinburgh,M,45:28
 98,Near,Pilar,Eryri,F,45:29
 99,Davidson,Iain,Girvin,M,45:31
 100,Armstrong,George,HELP,M40,45:35
 101,Wilson,Colin,Carnethy,M,45:37
-102,Francis,David,Fife,VS,45:42
+102,Francis,David,Fife,M40,45:42
 103,Priestley,Nigel,Solway,M,45:57
 104,Greer,Stephen,EZ Carnegie,M,45:59
 105,Wilson,Joan,Carnethy,F,46:02
@@ -125,8 +125,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 124,Sullivan,Mike,Unatt Carluke,M,48:39
 125,Miller,Jane,Unatt Carluke,F,48:39
 126,Gray,Susan,Carnethy,F,48:49
-127,Lennox,Chris,Law & Dist,VS,49:00
-128,MacDonald,Rory,Unatt Carlops,VS,49:31
+127,Lennox,Chris,Law & Dist,M40,49:00
+128,MacDonald,Rory,Unatt Carlops,M40,49:31
 129,Smith,Janice,HBT,F,49:31
 130,Marriott,Ivor,Dumfries,M40,49:41
 131,Huntly,Chris,Unatt Carnwarth,M,49:44
@@ -144,7 +144,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 143,Pearson,Mike,Penicuick,M40,53:19
 144,Wesencraft,Janine,Unatt Biggar,F,53:50
 145,Wesencraft,David,Unatt Biggar,M,53:50
-146,Calder,Mandy,City of Edinburgh,FDS,54:03
+146,Calder,Mandy,City of Edinburgh,F,54:03
 147,Steward,Philippa,,F,54:03
 148,Bennet,Bill,Penicuick,M40,54:10
 149,Dobbin,John,Unatt Carluke,M40,56:12

@@ -22,7 +22,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Macleod,Murdo,Westerlands,M50,00:56:11
 22,Triger,Simon,Westerlands,M,00:57:05
 23,Donelly,John,Westerlands,M40,00:57:15
-24,Houston,Valerie,Westerlands,LVet 40,00:58:05
+24,Houston,Valerie,Westerlands,F40,00:58:05
 25,Cortial,Johnannes,Westerlands,M,00:58:05
 26,Diver,Michael,Clydesdale Harriers,M40,00:58:14
 27,Millen,Blair,Westerlands,M,01:00:34
@@ -40,16 +40,16 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 39,Kirk,Katherine,Westerlands,F,01:06:56
 40,Adams,David,Hamilton Harriers,M60,01:07:22
 41,Broni,David,Westerlands,M40,01:08:01
-42,Calder,Muffy,Westerlands,Lvet 40,01:08:21
+42,Calder,Muffy,Westerlands,F40,01:08:21
 43,Willis,Simon,Westerlands,M40,01:08:42
 44,Tweedie,Hilary,Westerlands,F,01:09:06
 45,Macfarlane,Brian,Unattached,M,01:10:11
-46,McAdam,Pauline,Westerlands,LVet 50,01:10:22
+46,McAdam,Pauline,Westerlands,F50,01:10:22
 47,Talbot,Anna,Westerlands,F,01:10:35
 48,Rudzinski,Peter,Clydesdale Harriers,M50,01:12:14
 49,Turnbull,Drew,Westerlands,M60,01:13:00
-50,Macpherson,Helen,Westerlands,LVet 40,01:13:09
-51,Mclaughlin,Pat,Westerlands,LVet 50,01:21:50
-52,Crockard,Rosie,Westerlands,LVet 40,01:27:10
+50,Macpherson,Helen,Westerlands,F40,01:13:09
+51,Mclaughlin,Pat,Westerlands,F50,01:21:50
+52,Crockard,Rosie,Westerlands,F40,01:27:10
 53,Benny,Graham,Westerlands,M50,01:27:41
 54,Spark,William,Scottish Vet Harriers,M60,01:28:03

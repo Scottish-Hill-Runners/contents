@@ -43,7 +43,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 42,Pollock,Kenny,Standard Life,M40,01:23:41
 43,McPherson,Hugh,Tinto Hill Runners,M60,01:24:04
 44,Orr,Kyla,Unattached,F,01:24:18
-45,Love,Charlie,Dundee Hawkhill Harriers,M Over 65,01:24:20
+45,Love,Charlie,Dundee Hawkhill Harriers,M65,01:24:20
 46,Toberman,Matthew,Unattached,M,01:25:19
 47,Epton,Ronald,Garioch Roadrunners,M50,01:25:28
 48,Lawlor,Katherine,Dundee Roadrunners,F,01:25:51
@@ -56,7 +56,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Matthews,Catherine,Unattached,F,01:30:51
 56,Winning,Jim,Lomond Hill Runners,M50,01:36:38
 57,Beaumont,Susan,Lochtayside,F50,01:37:44
-58,McManus,Ian,Irvine Athletic,M Over 65,01:38:19
+58,McManus,Ian,Irvine Athletic,M65,01:38:19
 59,Forster,Kate,Lochtayside,F40,01:43:33
 999,Winning,Jennifer,Lomond Hill Runners,F,00:00:00
 999,Treasurer,Claire,Lochaber AC,F,00:00:00

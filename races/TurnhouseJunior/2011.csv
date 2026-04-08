@@ -1,8 +1,8 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Smith,Nathan,CFR,MJ10,00:08:58
-2,McIlwraith,Fin,Unattached,MJ10,00:09:51
-3,Campbell,Callum,Corstorphine,MJ12,00:10:11
-4,Campbell,Fergus,Corstorphine,MJ9,00:10:54
-5,Smith,Abi,CFR,FJ9,00:12:02
-6,Bennet,Ailsa,Carnegie,MJ8,00:12:55
-7,Bennet,Struan,Carnegie,MJ6,00:13:18
+1,Smith,Nathan,CFR,M10,00:08:58
+2,McIlwraith,Fin,Unattached,M10,00:09:51
+3,Campbell,Callum,Corstorphine,M12,00:10:11
+4,Campbell,Fergus,Corstorphine,M9,00:10:54
+5,Smith,Abi,CFR,F9,00:12:02
+6,Bennet,Ailsa,Carnegie,F8,00:12:55
+7,Bennet,Struan,Carnegie,M6,00:13:18

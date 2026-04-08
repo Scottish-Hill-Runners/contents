@@ -46,7 +46,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Phil,Mowbray,HBT,M,00:45:06
 46,Megan,Mowbray,HBT,F,00:45:10
 47,Triger,Simon,Westerlands,M,00:45:27
-48,Val,Houston,Westies,L40,00:45:27
+48,Val,Houston,Westies,F40,00:45:27
 49,Richard,Bush,U/A,M40,00:46:01
 50,Johnston,Orr,Westies,M,00:46:27
 51,Jacques,Penderis,Westies,M,00:46:36
@@ -61,11 +61,11 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 60,Stuart,Matheson,Bellahouston RR,M,00:47:52
 61,John,Telfer,Keswick,M40,00:47:56
 62,Alasdair,Gray,U/A,M40,00:49:15
-63,Andrina,Buchanan,Central AC,L40,00:49:50
+63,Andrina,Buchanan,Central AC,F40,00:49:50
 64,Tim,?,U/A,M,00:50:36
 65,Matthew,Ashcroft,U/A,M,00:51:45
 66,Donald,Smith,Westies,M60,00:52:33
-67,Deborah,MacDonald,HBT,L40,00:52:33
+67,Deborah,MacDonald,HBT,F40,00:52:33
 68,Louise,Provan,HBT,F,00:55:07
 69,Byron,Cox,HBT,M40,00:55:13
 70,Tony,Stapely,Portobello,M60,00:55:26
@@ -75,5 +75,5 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 74,Colin,Pritchard,Carnethy,M60,01:03:25
 75,Brenda,Paul,U/A,F,01:06:09
 76,Ali,McNeil,HBT,F,01:09:47
-77,Phyllis,Mitchell,CAAC,L40,01:17:29
-78,GT Ali,Johnston,HBT,L40,01:17:29
+77,Phyllis,Mitchell,CAAC,F40,01:17:29
+78,GT Ali,Johnston,HBT,F40,01:17:29

@@ -46,7 +46,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Leason,Elizabeth,Carnethy,F,00:49:41
 46,Cuthbertson,Mark,Ochil Hill Runners,M50,00:49:44
 47,Hammond,Simon,Moorfoot Runners,M,00:49:47
-48,Goodall,Alice,Edinburgh Uni H&H,WU21,00:50:13
+48,Goodall,Alice,Edinburgh Uni H&H,F21,00:50:13
 49,Eng,Sean,Edinburgh AC,M,00:50:30
 50,Owen,Rob,Carnethy,M,00:50:40
 51,Mclure,Neil,Carnethy,M50,00:50:45
@@ -55,12 +55,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 54,Crowe,Des,Penicuik Harriers,M60,00:51:02
 55,Mcclelland,Morag,HBT,F,00:51:02
 56,Carrick,Andrew,Edinburgh Uni H&H,M,00:51:10
-57,Dence,Bridget,Edinburgh Uni H&H,WU23,00:51:16
+57,Dence,Bridget,Edinburgh Uni H&H,F23,00:51:16
 58,Macqueen,Douglas,Carnethy,M,00:51:28
-59,Holland,Arianne,Edinburgh Uni H&H,WU23,00:51:30
+59,Holland,Arianne,Edinburgh Uni H&H,F23,00:51:30
 60,O'brien,Christopher,Corstorphine AAC,M40,00:51:34
-61,Dickson,Lauren,Lasswade AC,WU23,00:51:46
-62,Velicer,Sophia,Unattached,WU23,00:51:50
+61,Dickson,Lauren,Lasswade AC,F23,00:51:46
+62,Velicer,Sophia,Unattached,F23,00:51:50
 63,Pugh,Dan,Carnethy,M,00:51:59
 64,Riggans,Liam,Carnethy,M,00:52:10
 65,Mcgovern,Michael,Moorfoot Runners,M50,00:52:18
@@ -68,14 +68,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 67,Mccarthy,Rory,Pentland Triathletes,M,00:52:48
 68,Reis,Rodrigo,Shettleston Harriers,M40,00:52:54
 69,Bullen,Paul,Unattached,M40,00:52:57
-70,Campbell,Kirsty,Deeside Runners,WU21,00:53:01
+70,Campbell,Kirsty,Deeside Runners,F21,00:53:01
 71,Gilmore,Neil,Carnethy,M55,00:53:11
 72,Anderson,Ross,Westerlands CCC,M,00:53:39
 73,Duncan,Nicola,Carnethy,F,00:53:49
 74,Porteous,Douglas,Harmeny AC,M40,00:53:58
 75,Watson,Madeleine,Strathclyde University,F,00:54:07
 76,Wilson,Rob,Penicuik Harriers,M50,00:54:33
-77,Downs,Juliet,Edinburgh Uni H&H,WU23,00:54:35
+77,Downs,Juliet,Edinburgh Uni H&H,F23,00:54:35
 78,Kennedy,Brian,Carnethy,M40,00:54:41
 79,Holland,Lee,Carnegie Harriers,M50,00:54:51
 80,Black,Ali,Carnethy,M,00:54:59
@@ -110,7 +110,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 109,Macvarish,Christine,Lothian,F45,00:59:53
 110,Upward,Mark,Portobello RC,M55,01:00:19
 111,Cameron,Gordon,Carnethy,M60,01:00:29
-112,Holschbach,Kora,Edinburgh Uni H&H,WU21,01:00:30
+112,Holschbach,Kora,Edinburgh Uni H&H,F21,01:00:30
 113,Carr,Gillian,Moorfoot Runners,F45,01:00:50
 114,Stable,Charles,Musselburgh,M50,01:00:56
 115,Pugh,Roderick,Kilmarnock Harriers,M65,01:00:58
@@ -123,7 +123,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 122,Ritchie,Bozza,Unattached,M40,01:02:09
 123,Smith,Nick,Carnethy,M45,01:02:17
 124,Macwilliam,Craig,Kirkintilloch Olympians,M55,01:02:50
-125,Adams,Louise,Edinburgh Uni H&H,WU23,01:03:38
+125,Adams,Louise,Edinburgh Uni H&H,F23,01:03:38
 126,Fortune,Carole,Gala Harriers,F55,01:03:56
 127,Mcmillan,Stuart,Carnethy,M45,01:03:57
 128,Elder,Alan,Moorfoot Runners,M55,01:04:00

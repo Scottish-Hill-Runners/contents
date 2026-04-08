@@ -1,19 +1,19 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Rees,Logan,Fife A.C,12,00:04:58
-2,Galloway,Samuel,Lothian A.C,10,00:05:30
-3,MacCorquodale,Eilidh,Central A.C,12,00:05:53
-4,Randfield,Ewen,FVO,9,00:05:54
-5,Harris,Cameron,-,11,00:06:06
-6,Rees,George,Fife A.C,8,00:06:33
-7,Rees,Roger,Fife A.C,Snr,00:06:34
-8,Harris,Elliot,-,9,00:06:41
-9,Rogan,Hannah,Forres Harriers,13,00:07:13
-10,Rogan,Emma,Forres Harriers,8,00:07:14
-11,Knox,Rosie,Anster Haddies,10,00:07:55
-12,Anderson,Charly,Lothian,9,00:08:41
-13,Banks,Jennifer,Lothian,Snr,00:08:41
-14,Richardson,Eoin,Lothian,5,00:08:46
-15,Harris,Alexander,-,6,00:08:54
-16,Anderson,Ashley,Lothian,7,00:10:30
-17,Anderson,Ann,Lothian,Snr,00:10:30
-18,Richardson,Kate,Lothian,3,00:12:03
+1,Rees,Logan,Fife A.C,M12,00:04:58
+2,Galloway,Samuel,Lothian A.C,M10,00:05:30
+3,MacCorquodale,Eilidh,Central A.C,F12,00:05:53
+4,Randfield,Ewen,FVO,M9,00:05:54
+5,Harris,Cameron,-,M11,00:06:06
+6,Rees,George,Fife A.C,M8,00:06:33
+7,Rees,Roger,Fife A.C,M,00:06:34
+8,Harris,Elliot,-,M9,00:06:41
+9,Rogan,Hannah,Forres Harriers,F13,00:07:13
+10,Rogan,Emma,Forres Harriers,F8,00:07:14
+11,Knox,Rosie,Anster Haddies,F10,00:07:55
+12,Anderson,Charly,Lothian,M9,00:08:41
+13,Banks,Jennifer,Lothian,F,00:08:41
+14,Richardson,Eoin,Lothian,M5,00:08:46
+15,Harris,Alexander,-,M6,00:08:54
+16,Anderson,Ashley,Lothian,M7,00:10:30
+17,Anderson,Ann,Lothian,F,00:10:30
+18,Richardson,Kate,Lothian,F3,00:12:03

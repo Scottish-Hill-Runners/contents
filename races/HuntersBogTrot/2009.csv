@@ -54,7 +54,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 53,Smith,Brian R,Fife AC,M50,00:40:32
 54,Law,David,Corstorphine AAC,M40,00:40:42
 55,Sellar,Grant,Ferranti,M40,00:40:53
-56,Graham,Robyn,Fife AC,F Jnr,00:40:55
+56,Graham,Robyn,Fife AC,F21,00:40:55
 57,Pickard,John,Portobello,M40,00:41:16
 58,Oliver,Chris,HBT,M60,00:41:33
 59,Dowell,Finlay,Irvine AC,M40,00:41:38
@@ -66,13 +66,13 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 65,Downie,Chris,L+B Police AC,M40,00:42:39
 66,Knox,Bill,Teviotdale,M50,00:42:48
 67,Brown,Martin,Penicuik Harriers,M40,00:42:51
-68,Wilson,Andrea,Penicuik Harriers,F,00:42:54
+68,Wilson,Andrea,Penicuik Harriers,F40,00:42:54
 69,Jack,Jim,U/A,M40,00:43:02
 70,Maxwell,Susie,Penicuik Harriers,F,00:43:11
 71,Duffy,John,Shettleston Harriers,M40,00:45:30
 72,Fraser,Vivien,Kirkintilloch,F40,00:45:30
 73,Coltman,Alan,Teviotdale,M40,00:46:04
-74,Athorne,Katie,Garscube,F Jnr,00:51:34
+74,Athorne,Katie,Garscube,F18,00:51:34
 75,Marshall,Ian,HBT,M60,00:51:34
 76,King,Sheila,Gala,F50,00:51:40
 77,Fletcher,Aileen,HBT,F50,00:51:47

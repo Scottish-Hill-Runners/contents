@@ -5,14 +5,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 4,Whitehead,Dan,,M50,1:23:37
 5,Smith,Alan,,M60,1:26:22
 6,Ritchie,Colin,,M,1:28:00
-7,Whitehead,Ranolph,,Junior (18-20),1:28:23
+7,Whitehead,Ranolph,,M20,1:28:23
 8,Gillanders,Charles,,M40,1:28:38
 9,Gallier,Jonny,,M40,1:28:54
 10,Goodlad,Martin,,M50,1:29:28
 11,Davis,Adrian,,M60,1:30:31
-12,Rankin,Jacob,,Junior (18-20),1:30:39
-13,Elias,Tess,,M,1:30:40
-14,Rendall,Samantha,,M40,1:31:18
+12,Rankin,Jacob,,M20,1:30:39
+13,Elias,Tess,,F,1:30:40
+14,Rendall,Samantha,,F40,1:31:18
 15,Templeman,Simon,,M50,1:32:44
 16,Scheuerl,Stephan,,M50,1:33:03
 17,Kidner,Alfred,,M,1:33:12
@@ -43,7 +43,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 42,Emslie,Jane,,M40,1:49:08
 43,Nimmo,Callum,,M,1:49:20
 44,Peters,Pim,,M40,1:51:15
-45,Mackenzie,Thomas,,Junior (18-20),1:52:00
+45,Mackenzie,Thomas,,M20,1:52:00
 46,Eadsforth,Denise,,M50,1:52:29
 47,Preiss,Alastair,,M50,1:53:54
 48,Wilson,Colin,,M50,1:54:02

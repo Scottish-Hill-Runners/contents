@@ -1,146 +1,146 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Owens,Tom,Shettleston,MO,02:07:52
-2,Lennox,Jethro,Shettleston,MO,02:09:26
-3,Jebb,Rob,Bingley,MO,02:10:18
-4,Pearce,Graham,Pudsey & Bramley A.C,MO,02:10:47
-5,Bardsley,Ben,Borrowdale FR,MV40,02:11:10
-6,Hope,Rob,Pudsey & Bramley A.C,MV35,02:11:39
-7,Gray,Karl,Calder Valley Fell Runners,MV40,02:12:06
-8,Palmer,Mark,Mynydd Du,MV45,02:12:22
-9,Davies,Timothy,Mercia Fell Runners,MO,02:12:53
-10,Davies,Jim,Borrowdale FR,MV40,02:13:01
-11,Mounsey,Ben,Calder Valley Fell Runners,MO,02:13:40
-12,Woods,Des,Mourne Runners,MV40,02:13:54
-13,Richmond,Kenny,Bellahouston RR,MV40,02:14:35
-14,Roberts,Richard,Eryri Harriers,MO,02:15:11
-15,Mikkaelsen-Barrow,Michael,Borrowdale FR,MO,02:15:30
-16,Cale,Steve,Mercia Fell Runners,MO,02:16:50
-17,Findlay-Robinson,Rhys,Dark Peak Fell Runners,MO,02:18:02
+1,Owens,Tom,Shettleston,M,02:07:52
+2,Lennox,Jethro,Shettleston,M,02:09:26
+3,Jebb,Rob,Bingley,M,02:10:18
+4,Pearce,Graham,Pudsey & Bramley A.C,M,02:10:47
+5,Bardsley,Ben,Borrowdale FR,M40,02:11:10
+6,Hope,Rob,Pudsey & Bramley A.C,M35,02:11:39
+7,Gray,Karl,Calder Valley Fell Runners,M40,02:12:06
+8,Palmer,Mark,Mynydd Du,M45,02:12:22
+9,Davies,Timothy,Mercia Fell Runners,M,02:12:53
+10,Davies,Jim,Borrowdale FR,M40,02:13:01
+11,Munsey,Ben,Calder Valley Fell Runners,M,02:13:40
+12,Woods,Des,Murne Runners,M40,02:13:54
+13,Richmond,Kenny,Bellahouston RR,M40,02:14:35
+14,Roberts,Richard,Eryri Harriers,M,02:15:11
+15,Mikkaelsen-Barrow,Michael,Borrowdale FR,M,02:15:30
+16,Cale,Steve,Mercia Fell Runners,M,02:16:50
+17,Findlay-Robinson,Rhys,Dark Peak Fell Runners,M,02:18:02
 18,Addison,Tony,Helme Hill,M23,02:18:42
-19,Fanning,Michael,Borrowdale FR,MV40,02:19:26
-20,Roberts,Mark,Borrowdale FR,MV40,02:20:34
-21,Birkinshaw,Steve,Borrowdale FR,MV40,02:21:31
-22,Pyke,Stephen,Stafford Moorland,MV40,02:22:27
-23,Steele,Chris,Borrowdale FR,MO,02:22:47
-24,Steede,Jonny,Ballymena Runners AC,MO,02:22:55
-25,Annett,Andrew,Mourne Runners,MJ,02:23:57
-26,Taylor,Dave,Dark Peak Fell Runners,MV45,02:24:39
-27,Bailey,Gary,Mourne Runners,MO,02:24:48
-28,Scofield,Andrew,Borrowdale FR,MV40,02:24:55
-29,Ward,Alan,Dark Peak Fell Runners,MV45,02:25:00
-30,Robinson,Mike,Dark Peak Fell Runners,MV40,02:25:27
-31,Logue,James,Calder Valley Fell Runners,MV40,02:26:56
-32,Ridgway,Iain,Eryri Harriers,MO,02:27:27
-33,Kay,Darren,Pudsey & Bramley A.C,MV40,02:28:00
-34,Fortes,Matthew,Eryri Harriers,MO,02:28:37
-35,Stevens,Jason,Calder Valley Fell Runners,MV40,02:28:59
-36,Green,Michael,Horwich RMI,MV45,02:29:05
-37,Holroyd,Martin,Borrowdale FR,MV40,02:29:24
-38,Vale,Pete,Mercia Fell Runners,MV35,02:29:43
-39,Herron,Sam,Mourne Runners,MO,02:30:04
-40,Sullivan,Matthew,Shettleston,MO,02:30:41
-41,Maddams,Pippa,u/a,FO,02:31:20
-42,Mathers,Dale,Newry City Runners AC,MV45,02:32:59
-43,Thorpe,Andy,Calder Valley Fell Runners,MV40,02:35:00
-44,Ashcroft,Neil,Ambleside AC,MV40,02:35:01
-45,Roberts,Matthew,Eryri Harriers,MO,02:36:06
-46,Hulley,Matthew,Dark Peak Fell Runners,MO,02:36:17
-47,Stenton,Mick,Dark Peak Fell Runners,MV50,02:36:44
-48,Gamble,Ed,Cheshire Hill racers,MV45,02:36:57
-49,Bailey,Clive,Mourne Runners,MO,02:38:03
-50,Fines,Helen,Calder Valley Fell Runners,FV35,02:38:11
-51,Carty,Neil,North Belfast H,MV40,02:38:56
-52,Ward,Dave,Pennine Fell Runners,MO,02:39:54
-53,Werrett,Tim,Mercia Fell Runners,MV35,02:40:18
-54,Alexander,Mark,Ballymena Runners AC,MV40,02:40:32
-55,Ridgeway,Sarah,Eryri Harriers,FO,02:40:37
-56,Jenkinson,Paul,Eryri Harriers,MV40,02:41:22
-57,Moore,Jonathan,u/a,MV40,02:41:23
-58,Titmuss,James,Pudsey & Bramley A.C,MV35,02:41:32
-59,Jepson,Judith,Dark Peak Fell Runners,FV40,02:41:43
-60,O'Donnell,Rory,Eryri Harriers,MO,02:41:54
-61,Urwin,Corey,Larne AC,MV40,02:41:59
-62,Grant,Ben,Harrowgate,MV60,02:42:12
-63,Graham,Jonathan,Mourne Runners,M23,02:43:40
-64,Jones,Paul,Mercia Fell Runners,MV40,02:46:32
-65,Patterson,Jim,Newcastle & District AC,MV60,02:47:22
-66,Reeve,Simon,FERMO,MV35,02:49:24
-67,Pearce,Nick,Ilkley Harriers,MV55,02:49:26
-68,Alexander,Karen,Sperrin Harriers,FO,02:49:30
-69,O'Kane,Shileen,Lagan Valley AC,FV40,02:50:18
-70,Shepherd,Neil,Bowland fell runners,MV40,02:50:37
-71,McGaff,Tom,Cheshire Hill racers,MV55,02:50:48
-72,G. Holmes,Keith,Dark Peak Fell Runners,MV55,02:50:56
-73,Bartlett,Anna,Shrewsbury Athletic Club,FV40,02:51:09
-74,O'Brien,Peter,Eryri Harriers,MV40,02:51:45
-75,Booth,Vincent,Cheshire Hill racers,MV40,02:52:00
-76,Raw,Aly,Bingley,FV40,02:52:03
-77,Grant,Pete,Newry City Runners AC,MV40,02:52:22
-78,Maxwell,Justin,Larne AC,MO,02:53:15
-79,McCollam,Ian,North Belfast H,MO,02:54:48
-80,Wilson,Tim,BARF,MV35,02:55:21
-81,Brown,Jim,BARF,MV50,02:58:45
-82,Hutchinson,William,Mourne Runners,M23,02:59:07
-83,Foster,Dale,Otley AC,MV40,02:59:24
-84,Dickson,David,Westerlands CCC,MV50,02:59:37
-85,Barton,Mike,Mourne Runners,MV55,02:59:41
-86,Scarf,Phil,Calder Valley Fell Runners,MV40,03:00:06
+19,Fanning,Michael,Borrowdale FR,M40,02:19:26
+20,Roberts,Mark,Borrowdale FR,M40,02:20:34
+21,Birkinshaw,Steve,Borrowdale FR,M40,02:21:31
+22,Pyke,Stephen,Stafford Moorland,M40,02:22:27
+23,Steele,Chris,Borrowdale FR,M,02:22:47
+24,Steede,Jonny,Ballymena Runners AC,M,02:22:55
+25,Annett,Andrew,Murne Runners,MJ,02:23:57
+26,Taylor,Dave,Dark Peak Fell Runners,M45,02:24:39
+27,Bailey,Gary,Murne Runners,M,02:24:48
+28,Scofield,Andrew,Borrowdale FR,M40,02:24:55
+29,Ward,Alan,Dark Peak Fell Runners,M45,02:25:00
+30,Robinson,Mike,Dark Peak Fell Runners,M40,02:25:27
+31,Logue,James,Calder Valley Fell Runners,M40,02:26:56
+32,Ridgway,Iain,Eryri Harriers,M,02:27:27
+33,Kay,Darren,Pudsey & Bramley A.C,M40,02:28:00
+34,Frtes,Matthew,Eryri Harriers,M,02:28:37
+35,Stevens,Jason,Calder Valley Fell Runners,M40,02:28:59
+36,Green,Michael,Horwich RMI,M45,02:29:05
+37,Holroyd,Martin,Borrowdale FR,M40,02:29:24
+38,Vale,Pete,Mercia Fell Runners,M35,02:29:43
+39,Herron,Sam,Murne Runners,M,02:30:04
+40,Sullivan,Matthew,Shettleston,M,02:30:41
+41,Maddams,Pippa,u/a,F,02:31:20
+42,Mathers,Dale,Newry City Runners AC,M45,02:32:59
+43,Thorpe,Andy,Calder Valley Fell Runners,M40,02:35:00
+44,Ashcroft,Neil,Ambleside AC,M40,02:35:01
+45,Roberts,Matthew,Eryri Harriers,M,02:36:06
+46,Hulley,Matthew,Dark Peak Fell Runners,M,02:36:17
+47,Stenton,Mick,Dark Peak Fell Runners,M50,02:36:44
+48,Gamble,Ed,Cheshire Hill racers,M45,02:36:57
+49,Bailey,Clive,Murne Runners,M,02:38:03
+50,Fines,Helen,Calder Valley Fell Runners,F35,02:38:11
+51,Carty,Neil,North Belfast H,M40,02:38:56
+52,Ward,Dave,Pennine Fell Runners,M,02:39:54
+53,Werrett,Tim,Mercia Fell Runners,M35,02:40:18
+54,Alexander,Mark,Ballymena Runners AC,M40,02:40:32
+55,Ridgeway,Sarah,Eryri Harriers,F,02:40:37
+56,Jenkinson,Paul,Eryri Harriers,M40,02:41:22
+57,More,Jonathan,u/a,M40,02:41:23
+58,Titmuss,James,Pudsey & Bramley A.C,M35,02:41:32
+59,Jepson,Judith,Dark Peak Fell Runners,F40,02:41:43
+60,O'Donnell,Rory,Eryri Harriers,M,02:41:54
+61,Urwin,Corey,Larne AC,M40,02:41:59
+62,Grant,Ben,Harrowgate,M60  ,02:42:12
+63,Graham,Jonathan,Murne Runners,M23,02:43:40
+64,Jones,Paul,Mercia Fell Runners,M40,02:46:32
+65,Patterson,Jim,Newcastle & District AC,M60,02:47:22
+66,Reeve,Simon,FERMO,M35,02:49:24
+67,Pearce,Nick,Ilkley Harriers,M55,02:49:26
+68,Alexander,Karen,Sperrin Harriers,F,02:49:30
+69,O'Kane,Shileen,Lagan Valley AC,F40,02:50:18
+70,Shepherd,Neil,Bowland fell runners,M40,02:50:37
+71,McGaff,Tom,Cheshire Hill racers,M55,02:50:48
+72,G. Holmes,Keith,Dark Peak Fell Runners,M55,02:50:56
+73,Bartlett,Anna,Shrewsbury Athletic Club,F40,02:51:09
+74,O'Brien,Peter,Eryri Harriers,M40,02:51:45
+75,Booth,Vincent,Cheshire Hill racers,M40,02:52:00
+76,Raw,Aly,Bingley,F40,02:52:03
+77,Grant,Pete,Newry City Runners AC,M40,02:52:22
+78,Maxwell,Justin,Larne AC,M,02:53:15
+79,McCollam,Ian,North Belfast H,M,02:54:48
+80,Wilson,Tim,BARF,M35,02:55:21
+81,Brown,Jim,BARF,M50,02:58:45
+82,Hutchinson,William,Murne Runners,M23,02:59:07
+83,Fster,Dale,Otley AC,M40,02:59:24
+84,Dickson,David,Westerlands CCC,M50,02:59:37
+85,Barton,Mike,Murne Runners,M55,02:59:41
+86,Scarf,Phil,Calder Valley Fell Runners,M40,03:00:06
 87,Harris,Lucy,Pennine Fell Runners,F23,03:01:36
-88,Keeling,David,Cheshire Hill racers,MV45,03:03:00
-89,Pollitt,Martyn,Burnden Road Runners,MV50,03:03:27
-90,Brentnall,Alan,Pennine Fell Runners,MV60,03:03:44
-91,Magee,Bryan,Larne AC,MV35,03:03:59
-92,Largey,Ciara,NIMRA,FO,03:04:08
-93,Rimmer,Greg,Dark Peak Fell Runners,MV45,03:04:42
-94,Bell,David,Mourne Runners,MV50,03:08:01
-95,Carter,Julie,u/a,FV45,03:08:12
+88,Keeling,David,Cheshire Hill racers,M45,03:03:00
+89,Pollitt,Martyn,Burnden Road Runners,M50,03:03:27
+90,Brentnall,Alan,Pennine Fell Runners,M60,03:03:44
+91,Magee,Bryan,Larne AC,M35,03:03:59
+92,Largey,Ciara,NIMRA,F,03:04:08
+93,Rimmer,Greg,Dark Peak Fell Runners,M45,03:04:42
+94,Bell,David,Murne Runners,M50,03:08:01
+95,Carter,Julie,u/a,F45,03:08:12
 96,Wilson,Jason,Ballymena Runners AC,M23,03:08:47
-97,Taylor,Robert,Pennine Fell Runners,MV60,03:09:05
-98,Kingston,Gerry,BARF,MV45,03:09:43
-99,McCullough,Cecil,Mourne Runners,MV50,03:10:15
-100,Watson,Neville,u/a,MV35,03:11:16
-101,Bolton,Simon,Cheshire Hill racers,MV40,03:11:23
-102,Smith,Dale,Larne AC,MV40,03:11:33
-103,Teggarty,Harry,Mourne Runners,MV60,03:11:58
-104,McCann,Eugene,Newcastle & District AC,MV50,03:12:35
-105,Bell,Richard,Newcastle & District AC,MV35,03:12:52
-106,Howells,Judy,Wharfedale Harriers,FV40,03:13:31
-107,Metcalfe,Ruth,Eryri Harriers,FO,03:14:00
-108,Brierley,Kathleen,Todmorden Harriers,FV45,03:15:02
-109,Gibson,Willie,Carnethy,MV50,03:20:52
-110,Mulholland,Leslie,u/a,MV50,03:21:16
-111,Scarf,Jackie,Calder Valley Fell Runners,FV40,03:21:32
-112,Anderson,Joanne,Carnethy,FV40,03:21:38
-113,Hughes,Isaline,Burnden Road Runners,FV45,03:21:50
-114,Cadman,Paul,Mercia Fell Runners,MV45,03:22:18
-115,Leonard,Jane,Todmorden Harriers,FV50,03:22:29
-116,Suffern,Hugh,NoththeSundayRun,MV50,03:24:00
-117,Mccoy,Taryn,BARF,FV35,03:25:12
+97,Taylor,Robert,Pennine Fell Runners,M60,03:09:05
+98,Kingston,Gerry,BARF,M45,03:09:43
+99,McCullough,Cecil,Murne Runners,M50,03:10:15
+100,Watson,Neville,u/a,M35,03:11:16
+101,Bolton,Simon,Cheshire Hill racers,M40,03:11:23
+102,Smith,Dale,Larne AC,M40,03:11:33
+103,Teggarty,Harry,Murne Runners,M60,03:11:58
+104,McCann,Eugene,Newcastle & District AC,M50,03:12:35
+105,Bell,Richard,Newcastle & District AC,M35,03:12:52
+106,Howells,Judy,Wharfedale Harriers,F40,03:13:31
+107,Metcalfe,Ruth,Eryri Harriers,F,03:14:00
+108,Brierley,Kathleen,Todmorden Harriers,F45,03:15:02
+109,Gibson,Willie,Carnethy,M50,03:20:52
+110,Mulholland,Leslie,u/a,M50,03:21:16
+111,Scarf,Jackie,Calder Valley Fell Runners,F40,03:21:32
+112,Anderson,Joanne,Carnethy,F40,03:21:38
+113,Hughes,Isaline,Burnden Road Runners,F45,03:21:50
+114,Cadman,Paul,Mercia Fell Runners,M45,03:22:18
+115,Leonard,Jane,Todmorden Harriers,F50,03:22:29
+116,Suffern,Hugh,NoththeSundayRun,M50,03:24:00
+117,Mccoy,Taryn,BARF,F35,03:25:12
 118,Mcclelland-Thomas,Tom,Calder Valley Fell Runners,M23,03:27:42
-119,Mckeown,Gareth,u/a,MV45,03:28:06
-120,Mathers,Denise,Newry City Runners AC,FV45,03:29:35
-121,Goodall,Pat,Totley AC,FV55,03:29:53
-122,Kenny,Clare,Calder Valley Fell Runners,FV50,03:30:40
-123,Mclaughlin,Hazel,Lagan Valley AC,FV35,03:33:02
-124,Linton,Violet,LVO,FV35,03:35:55
-125,Thomas,Geoff,u/a,MV50,03:36:07
-126,Wilson,Trevor,BARF,MV50,03:39:12
-127,Hamilton,Laurence,Newcastle & District AC,MV40,03:40:12
-128,Smyth,David,u/a,MO,03:40:34
-129,Rowlands,Dilwyn,Eryri Harriers,MV40,03:40:37
-130,Mcclenaghan,Peter,BARF,MV50,03:42:38
-131,John Brown,Willie,Mourne Runners,MV50,03:43:58
-132,Brentnall,Alison,Pennine Fell Runners,FV60,03:47:55
-133,Roberts,Sue,Todmorden Harriers,FV45,03:52:18
-134,Monteverde,Kathleen,BARF,FV45,03:53:46
-135,Cowan,Ricky,Mourne Runners,MV60,03:56:12
-136,Linton,Brian,BARF,MV35,03:57:39
-137,Douglas,Noel,Mourne Runners,MV50,04:03:51
-138,Wood,Emily,Eryri Harriers,FV40,04:09:49
-139,Muldoon,Cormac,Armagh,MV50,04:11:55
-140,Dugan,Richard,Rowallan Ramblers,MV50,04:14:31
-141,Knox,Jeremy,u/a,MV40,04:14:31
-142,McGibbon,Andrew,BARF,MV40,04:19:40
-143,Goth,Mandy,Todmorden Harriers,FV50,04:19:57
-144,Bowen,Jo,Pennine Fell Runners,FO,04:23:25
-145,Spence,Brian,Larne AC,MV40,04:30:06
+119,Mckeown,Gareth,u/a,M45,03:28:06
+120,Mathers,Denise,Newry City Runners AC,F45,03:29:35
+121,Goodall,Pat,Totley AC,F55,03:29:53
+122,Kenny,Clare,Calder Valley Fell Runners,F50,03:30:40
+123,Mclaughlin,Hazel,Lagan Valley AC,F35,03:33:02
+124,Linton,Violet,LVO,F35,03:35:55
+125,Thomas,Geoff,u/a,M50,03:36:07
+126,Wilson,Trevor,BARF,M50,03:39:12
+127,Hamilton,Laurence,Newcastle & District AC,M40,03:40:12
+128,Smyth,David,u/a,M,03:40:34
+129,Rowlands,Dilwyn,Eryri Harriers,M40,03:40:37
+130,Mcclenaghan,Peter,BARF,M50,03:42:38
+131,John Brown,Willie,Murne Runners,M50,03:43:58
+132,Brentnall,Alison,Pennine Fell Runners,F60,03:47:55
+133,Roberts,Sue,Todmorden Harriers,F45,03:52:18
+134,Mnteverde,Kathleen,BARF,F45,03:53:46
+135,Cowan,Ricky,Murne Runners,M60,03:56:12
+136,Linton,Brian,BARF,M35,03:57:39
+137,Douglas,Noel,Murne Runners,M50,04:03:51
+138,Wood,Emily,Eryri Harriers,F40,04:09:49
+139,Muldoon,Cormac,Armagh,M50,04:11:55
+140,Dugan,Richard,Rowallan Ramblers,M50,04:14:31
+141,Knox,Jeremy,u/a,M40,04:14:31
+142,McGibbon,Andrew,BARF,M40,04:19:40
+143,Goth,Mandy,Todmorden Harriers,F50,04:19:57
+144,Bowen,Jo,Pennine Fell Runners,F,04:23:25
+145,Spence,Brian,Larne AC,M40,04:30:06

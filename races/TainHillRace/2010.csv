@@ -6,7 +6,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 5,Johnson,Graham,Inverness,M,00:38:00
 6,Mackay,Saunders,Kildary,M,00:38:48
 7,Mackintosh,Fraser,Inverness,M,00:39:08
-8,Lyons,Karen,Inverness,1st Lady,00:39:59
+8,Lyons,Karen,Inverness,F,00:39:59
 9,Murray,Finlay,East Sutherland,M,00:40:17
 10,Beharrell,Malcolm,Nairn Road Runners,M50,00:41:14
 11,Maclean,Robert,Alness,M,00:41:31
@@ -17,7 +17,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 16,Clancy,David,Dewsbury Road Runners,M,00:43:44
 17,Mathieson,Thomas,Ross County AC,M,00:44:05
 18,Small,Andrew,Tain Runners,M,00:44:13
-19,Hoskins,Emily,Tain Runners,2nd Lady,00:44:20
+19,Hoskins,Emily,Tain Runners,F,00:44:20
 20,Weir,Mark,Tain Runners,M40,00:44:35
 21,Cook,Alan,Tain Runners,M40,00:45:26
 22,Sanger,Malcolm,Brora/Canada,M,00:46:17

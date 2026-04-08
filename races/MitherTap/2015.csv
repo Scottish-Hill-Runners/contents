@@ -38,7 +38,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Attridge,Will,U/A,M,00:43:03
 38,Bain,Katie,U/A,F,00:43:12
 39,Roy,Scott,U/A,M,00:43:24
-40,Duncan,David,Ochill Hillrunners,MUV,00:43:48
+40,Duncan,David,Ochill Hillrunners,M60,00:43:48
 41,Baxter,Tim,Forres Harriers,M,00:43:55
 42,Aitken,Graham,Garioch Gazelles,M,00:43:59
 43,Mathieson,Anthony,U/A,M,00:44:26
@@ -46,7 +46,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 45,Paxman,Jim,Dark Peak Fell Runners,M40,00:45:19
 46,Anderson,Fiona,U/A,F,00:45:20
 47,McDonald,Ross,U/A,M,00:45:26
-48,Gutteridge,Gary,Cosmics,MUV,00:45:44
+48,Gutteridge,Gary,Cosmics,M50,00:45:44
 49,Stewart,Elaine,Cosmics,F40,00:47:50
 50,Munro,Eleanor,Keith & District AAC,F,00:48:09
 51,Oliver,David,Deeside Runners,M40,00:48:23
@@ -58,4 +58,4 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 57,Larmour,Pauline,Cosmics,F40,00:54:30
 58,Moloney,Susan,U/A,F,00:56:03
 59,Garnett,Jeff,U/A,M,01:02:31
-60,Taylor,Sue,Cosmics,FUV,01:04:10
+60,Taylor,Sue,Cosmics,F60,01:04:10

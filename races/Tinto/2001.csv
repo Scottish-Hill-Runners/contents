@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Godfree,David,Lothian,M,38:06
 26,McLaughlin,Danny,Greenock GH,M40,38:10
 27,Robertson,Gordon,Westerlands,M40,38:28
-28,Goldsworthy,Richard,Galloway,Jnr,38:41
+28,Goldsworthy,Richard,Galloway,M18,38:41
 29,Douglas,Alan,E K Tri,M40,38:50
 30,Arnott,Luke,Unatt,M,39:14
 31,Reid,Don,Westerlands,M40,39:28
@@ -47,7 +47,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 46,Godfree,Chris,Lothian,M,41:06
 47,Diver,Mike,Clydesdale,M,41:10
 48,McIntosh,Euan,Lothian,M,41:12
-49,Jenkins,Kate,Carnethy,S/L,41:20
+49,Jenkins,Kate,Carnethy,F,41:20
 50,Kerr,George,JW Kilmarnock,M40,41:33
 51,Ballantyne,Andy,JW Kilmarnock,M,41:48
 52,Duncan,David,Ochil,M40,41:49
@@ -56,16 +56,16 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 55,Baird,James,JW Kilmarnock,M,42:06
 56,Robertson,Stewart,Strathaven S,M,42:20
 57,Lennie,Andrew,Carnethy,M40,42:25
-58,Robertson,Jane,Westerlands,S/L,42:30
+58,Robertson,Jane,Westerlands,F,42:30
 59,Russell,Scott,JW Kilmarnock,M,42:32
 60,Wright,Graham,Carnethy,M,42:33
 61,Ross,Alistair,Unatt,M,42:33
-62,Holden,Jo,Fife,M40,42:47
+62,Holden,Jo,Fife,F40,42:47
 63,Westbury,Tony,Harmeny,M,42:52
-64,Tait,Jill,Eyemouth,S/L,42:55
+64,Tait,Jill,Eyemouth,F40,42:55
 65,Howie,Brian,City of Edinburgh,M40,43:01
 66,Priestley,Nigel,Solway,M,43:08
-67,Godfree,Gillian,Lothian,S/L,43:12
+67,Godfree,Gillian,Lothian,F40,43:12
 68,Meiklejohn,Alan,Fife,M40,43:16
 69,Brown,Ian,Dumfries,M40,43:21
 70,Morris,Paul,Carnethy,M40,43:26
@@ -90,33 +90,33 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 89,McKay,Robert,Giffnock N,M40,47:28
 90,McBride,Ken,Unatt/Edinburgh,M40,47:33
 91,Lennox,Chris,Unatt,M40,48:14
-92,Egerton,Thorlene,Bellahouston RR,L/S,48:16
+92,Egerton,Thorlene,Bellahouston RR,F40,48:16
 93,Wright,Steve,Strathaven S,M40,48:25
 94,Thomson,Robert,Strathaven,M,48:28
 95,Coon,John,Lothian,M40,48:45
-96,Knox,Isobel,HBT,L/S,48:54
+96,Knox,Isobel,HBT,F40,48:54
 97,Chard,Stephen,JW Kilmarnock,M40,48:57
 98,Brown,Mike,Carnethy,M40,49:12
 99,Ormeod,Paul,Sheen S,M40,49:29
 100,Jackson,Ian,Carnethy,M40,49:35
-101,Embree,Renee,Solway,L/S,49:53
+101,Embree,Renee,Solway,F40,49:53
 102,Mateer,David,Strathaven S,M,50:27
 103,Gill,Ronald,Unatt/Carnwarth,M,50:36
-104,McCrae,Laurie,Penicuick,L/S,50:57
+104,McCrae,Laurie,Penicuick,F40,50:57
 105,Taylor,Cameron,Bellahouston RR,M,51:54
-106,Bennet,Bill,Penicuick,Over60,52:12
-107,Duffy,Peter,Northern Vets,Over60,52:24
+106,Bennet,Bill,Penicuick,M60,52:12
+107,Duffy,Peter,Northern Vets,M60,52:24
 108,Pearson,Mike,Carnethy,M40,52:56
 109,Grierson,Alan,Lothian,M,52:57
 110,Osmond,Chris,Westerlands,M40,54:02
-111,Cassidy,Juillette,Strathaven S,S/L,54:28
+111,Cassidy,Juillette,Strathaven S,F40,54:28
 112,Shiell,Doug,Carnethy,M40,54:41
 113,Davidson,Sean,Penicuick,M,55:13
 114,Crane,Calvin,Lothian,M40,56:18
 115,Haddow,Ken,Carnethy,M40,56:26
 116,Short,Graham,JW Kilmarnock,M40,57:30
-117,Paul,Gillian,Carnethy,L/Vet,57:43
-118,Robertson,Bridget,JW Kilmarnock,L/S,57:48
-119,Boyle,Lindsey,Harmeny,L/Vet,58:09
+117,Paul,Gillian,Carnethy,F40,57:43
+118,Robertson,Bridget,JW Kilmarnock,F,57:48
+119,Boyle,Lindsey,Harmeny,F40,58:09
 120,Murray,Ian,Westerlands,M40,60:00
 121,Hamilton,Ian,Beith H,M40,60:11

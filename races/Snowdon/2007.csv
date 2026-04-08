@@ -1,41 +1,41 @@
 RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 1,Jones,Andi,Salford Harriers,MSEN,01:05:38
 2,Holmes,Ian,Bingley Harriers,M40,01:08:16
-3,Bardsley,Ben,England,MELITE,01:08:26
-4,Bailey,Simon,England,MELITE,01:08:34
+3,Bardsley,Ben,England,M,01:08:26
+4,Bailey,Simon,England,M,01:08:34
 5,Cornthwaite,Thomas,Blackburn H&AC,MSEN,01:08:44
-6,Lennox,Jethro,Scotland,MELITE,01:09:17
-7,Hope,Rob,England,MELITE,01:09:56
+6,Lennox,Jethro,Scotland,M,01:09:17
+7,Hope,Rob,England,M,01:09:56
 8,Birchall,Chris,Leeds City AC,MSEN,01:10:19
-9,Mckenna,Eoin,Ireland A,MELITE,01:10:33
-10,Gatti,Silvio,Italy A,MELITE,01:10:46
-11,Whitlie,Stewart,Scotland,MELITE,01:12:30
+9,Mckenna,Eoin,Ireland A,M,01:10:33
+10,Gatti,Silvio,Italy A,M,01:10:46
+11,Whitlie,Stewart,Scotland,M,01:12:30
 12,Breaks,Adam,Calder Valley FR,MSEN,01:12:43
-13,Peachey,Simon,Scotland,MELITE,01:12:58
-14,Collins,Matthew,Cymru A,MELITE,01:13:52
-15,Ciaponi,Fabio,Italy A,MELITE,01:14:00
-16,Roberts,Richard,Cymru A,MELITE,01:14:28
-17,Gahan,Owen,Ireland A,MELITE,01:14:35
-18,Matthews,Harry,Cymru A,MELITE,01:14:59
+13,Peachey,Simon,Scotland,M,01:12:58
+14,Collins,Matthew,Cymru A,M,01:13:52
+15,Ciaponi,Fabio,Italy A,M,01:14:00
+16,Roberts,Richard,Cymru A,M,01:14:28
+17,Gahan,Owen,Ireland A,M,01:14:35
+18,Matthews,Harry,Cymru A,M,01:14:59
 19,Hunt,John,DPFR,M40,01:15:10
 20,Robertshaw,Andrew,Otley AC,MSEN,01:16:57
-21,Daly,Keith,Ireland B,MELITE,01:17:03
+21,Daly,Keith,Ireland B,M,01:17:03
 22,Vaughan,Alun,Eryri Harriers,MSEN,01:17:14
 23,Bouldstridge,Mike,Mercia FR,MSEN,01:17:29
-24,Pargoni,Ivano,Italy A,MELITE,01:17:44
-25,Bradshaw,Martin,Ireland A,MELITE,01:18:00
-26,Houston,Ian,Cymru A,MELITE,01:18:17
-27,Jones,Andy,Cymru B,MELITE,01:18:25
-28,Fortune,Bernard,Ireland B,MELITE,01:18:32
-29,Peyronel,Francesco,Italy,MELITE,01:18:47
+24,Pargoni,Ivano,Italy A,M,01:17:44
+25,Bradshaw,Martin,Ireland A,M,01:18:00
+26,Houston,Ian,Cymru A,M,01:18:17
+27,Jones,Andy,Cymru B,M,01:18:25
+28,Fortune,Bernard,Ireland B,M,01:18:32
+29,Peyronel,Francesco,Italy,M,01:18:47
 30,Peace,Martin,Bingley Harriers,MSEN,01:18:56
-31,Stafford,Roland,Cymru B,MELITE,01:19:07
+31,Stafford,Roland,Cymru B,M,01:19:07
 32,Jones,Dylan Wynn,Eryri Harriers,MSEN,01:19:12
 33,Maycock,Stuart Thomas,Hallamshire Harriers,MSEN,01:19:48
-34,Conroy,Cormac,Ireland A,MELITE,01:19:56
-35,Wilkinson,Mary,England,FELITE,01:20:36
+34,Conroy,Cormac,Ireland A,M,01:19:56
+35,Wilkinson,Mary,England,F,01:20:36
 36,Flower,Crispin,Mynydd Du,MSEN,01:20:51
-37,McIver,Janet,England,FELITE,01:21:07
+37,McIver,Janet,England,F,01:21:07
 38,Willliams,Jason,Owls AC,MSEN,01:21:08
 39,Senior,James,Bingley,MSEN,01:21:37
 40,Cringle,Tom,Manx Fell Runners,MSEN,01:22:44
@@ -46,17 +46,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 45,McQueen,James,Eryri Harriers,MSEN,01:23:34
 46,Williams,Dafydd,Eryri Harriers,M40,01:24:03
 47,Smith,Alan,Deeside Runners,M40,01:24:08
-48,Morton,Iwan,Cymru B,MELITE,01:24:12
-49,McCall,Andy,Scotland,MELITE,01:24:15
+48,Morton,Iwan,Cymru B,M,01:24:12
+49,McCall,Andy,Scotland,M,01:24:15
 50,Jones,Graham,Shrewsbury AC,M50,01:24:20
 51,Banton,Lewis,Clowne RR,MSEN,01:24:35
 52,Speight,Chris,Helm Hill Runners,M40,01:24:42
 53,Miller,David,Teignbridge Trotters,MSEN,01:24:43
-54,Walwyn,Olivia,England,FELITE,01:24:47
+54,Walwyn,Olivia,England,F,01:24:47
 55,Balderson,Christopher,Clayton le Moors,M40,01:25:02
 56,Fines,Helen,Bristol & West AC,FSEN,01:25:21
 57,Gurney,Chris,South West RR,M40,01:25:24
-58,Mykura,Jill,Scotland,FELITE,01:25:36
+58,Mykura,Jill,Scotland,F,01:25:36
 59,Ryall,Samuel,Unattached,MSEN,01:25:38
 60,Jones,Craig,WFRA,MSEN,01:25:41
 61,Hulley,Matthew,DPFR,MSEN,01:25:54
@@ -66,16 +66,16 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 65,Edgar,Iwan,Eryri Harriers,M50,01:26:39
 66,Gladwell,Ian,West End Runners,M40,01:26:41
 67,Newham,Peter,Congleton Harriers,MSEN,01:26:50
-68,Collins,Tony,Ireland B,MELITE,01:26:56
+68,Collins,Tony,Ireland B,M,01:26:56
 69,McAra,Graham,Cheshire Hill Runners,M50,01:26:59
-70,Greenwood,Rob,Cymru B,MELITE,01:27:02
+70,Greenwood,Rob,Cymru B,M,01:27:02
 71,ab Elwyn,Rhys,Eryri Harriers,M40,01:27:03
 72,Edwards,Simon,Buckley Runners,MSEN,01:27:20
 73,Naughton,David,Darwen Dashers,M40,01:27:43
 74,Jones,Stephen,Wrexham AC,MSEN,01:27:44
-75,Bartlett,Anna,Cymru F,FELITE,01:27:45
+75,Bartlett,Anna,Cymru F,F,01:27:45
 76,Craine,Noel,Eryri Harriers,M40,01:27:53
-77,Armitage,Sonia,Scotland,FELITE,01:28:06
+77,Armitage,Sonia,Scotland,F,01:28:06
 78,Gudger,Ben,Unattached,MSEN,01:28:12
 79,Stinton,Paul,Clwydian Range Runners,MSEN,01:28:16
 80,Kelly,Michael,Leighton FR,MSEN,01:28:19
@@ -83,7 +83,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 82,Williams,Don,Eryri Harriers,M60,01:28:37
 83,Lewis,Arwel,Eryri Harriers,M40,01:28:44
 84,Roberts,Richard,Bowland Fell Runners,M40,01:28:46
-85,O'Rourke,Shane,Ireland B,MELITE,01:28:53
+85,O'Rourke,Shane,Ireland B,M,01:28:53
 86,Williams,Gareth Wyn,Cybi,MSEN,01:29:03
 87,Dryden,John,Unattached,M40,01:29:20
 88,Wilson,Julie,DPFR,FSEN,01:29:38
@@ -102,12 +102,12 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 101,Norman,Jeff,Altrincham & Dist,M60,01:31:19
 102,Muir,Jonny,Nene Valley Harriers,MSEN,01:31:46
 103,Croft,Tony,Lytham St Annes RR,M40,01:32:11
-104,Roberts,Andrea,Cymru F,FELITE,01:32:13
+104,Roberts,Andrea,Cymru F,F,01:32:13
 105,Webber,Dylan,Unattached,MSEN,01:32:15
 106,Salkild,Mark,DPFR,M40,01:32:17
-107,Scott,Dawn,Scotland,FELITE,01:32:19
+107,Scott,Dawn,Scotland,F,01:32:19
 108,Thompson,John,Skelmersdale BH,MSEN,01:32:30
-109,Mazzoni,Marco,Italy,MELITE,01:32:36
+109,Mazzoni,Marco,Italy,M,01:32:36
 110,Cunliffe,Nick,Unattached,M40,01:32:36
 111,Mason,Gary,Bournville Harriers,M40,01:32:40
 112,Burton,David,Stroud and Dist AC,M40,01:32:45
@@ -130,7 +130,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 129,Fletcher,Glyn,Maldwyn Harriers,M40,01:34:16
 130,Powell,Ross,Mercia FR,M50,01:34:23
 131,Broughton,Adair,Helsby RC,MSEN,01:34:35
-132,Bonacina,Cristina,Italy,FELITE,01:34:35
+132,Bonacina,Cristina,Italy,F,01:34:35
 133,Williams,Richard Wyn,Eryri Harriers,MSEN,01:34:41
 134,Spurge,Paul,Portsmouth Joggers,M50,01:34:42
 135,Jones,Peter MW,Unattached,M40,01:34:45
@@ -168,7 +168,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 167,Russell,James,Stroud and Dist AC,MSEN,01:38:12
 168,Barnes,Simon,Stroud and Dist AC,MSEN,01:38:12
 169,Littlewood,Stephen,Hereford Couriers,M50,01:38:15
-170,McCann,Tish,Ireland A,FELITE,01:38:15
+170,McCann,Tish,Ireland A,F,01:38:15
 171,Orrells,Steve,Maldwyn Harriers,M50,01:38:19
 172,Woodhead,Peter,Unattached,MSEN,01:38:26
 173,Prytherch,Tom,N.W. Police,MSEN,01:38:29
@@ -188,7 +188,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 187,Williams,Gwion,Unattached,MSEN,01:40:17
 188,Jones,Michael,Unattached,M40,01:40:18
 189,Morris,John,Buckley Runners,M60,01:40:22
-190,Riou,Michael,France,MELITE,01:40:22
+190,Riou,Michael,France,M,01:40:22
 191,Regan,Sean,Unattached,MSEN,01:40:23
 192,Jones,Stephen Ll,Eryri Harriers,M50,01:40:26
 193,Dalton,Andrew,Skelmersdale BH,M40,01:40:54
@@ -215,7 +215,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 214,Morris,Kevin John,Unattached,M40,01:42:59
 215,Beckett,Mark,Wallasey AC,MSEN,01:43:04
 216,Emanuel,David,Unattached,MSEN,01:43:06
-217,Aoife,Joyce,Ireland A,FELITE,01:43:07
+217,Aoife,Joyce,Ireland A,F,01:43:07
 218,Malpass,Tim,Deal Tri,MSEN,01:43:23
 219,Slimane,Karim,West End Runners,MSEN,01:43:25
 220,Richards,Stephen,Unattached,MSEN,01:43:28
@@ -232,8 +232,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 231,Cumming,Trevallyan,Unattached,MSEN,01:44:29
 232,Thomas,Dean,Unattached,MSEN,01:44:39
 233,Lee,Nathan,Unattached,M40,01:44:49
-234,Moores,Sarah,Ireland B,FELITE,01:44:53
-235,Botta,Gianpietro,Italy,MELITE,01:44:54
+234,Moores,Sarah,Ireland B,F,01:44:53
+235,Botta,Gianpietro,Italy,M,01:44:54
 236,McGuire,Estelle,Stockport Harriers,FSEN,01:44:55
 237,Urquhart,Dawn,Buckley Runners,FSEN,01:44:56
 238,Langler,Ian,Teignbridge Trotters,MSEN,01:44:59
@@ -252,8 +252,8 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 251,Snaith,Thomas,Belle Vue Racers,M40,01:46:06
 252,Horney,Nigel,Unattached,M40,01:46:14
 253,Edwards,Kevin O,Unattached,MSEN,01:46:19
-254,Guillerm,Sylvain,France,MELITE,01:46:23
-255,Acquistapace,Michela,Italy,FELITE,01:46:23
+254,Guillerm,Sylvain,France,M,01:46:23
+255,Acquistapace,Michela,Italy,F,01:46:23
 256,Jones,Arwel,Prestatyn RC,M40,01:46:30
 257,Davies,Brian,Croft Ambrey,M60,01:46:35
 258,Russell,Steve,Wilmslow RC,M40,01:46:36
@@ -266,7 +266,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 265,Hicks,Tim,Unattached,M40,01:47:00
 266,Jones,Robert,Clwydian Range Runners,M50,01:47:01
 267,Jones,Stephen,Islwyn RC,M40,01:47:04
-268,Bayliss,Emma,Cymru F,FELITE,01:47:08
+268,Bayliss,Emma,Cymru F,F,01:47:08
 269,Doyle,Felicity,Congleton Harriers,F40,01:47:11
 270,Wilcox,Chris,Clwydian Range Runners,M50,01:47:17
 271,Matthews,John,Ambleside,M40,01:47:23
@@ -307,9 +307,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 306,Walsh,Martin,Lytham St Annes RR,M50,01:51:42
 307,Jones,Philip,Prestatyn RC,M60,01:51:55
 308,Hughes,Isaline,Skelmersdale BH,F40,01:51:58
-309,Hogan,Dena,Ireland B,FELITE,01:52:02
+309,Hogan,Dena,Ireland B,F,01:52:02
 310,Brown,Philip,Unattached,M40,01:52:02
-311,Kermarec,Lean Luc,France,MELITE,01:52:21
+311,Kermarec,Lean Luc,France,M,01:52:21
 312,Newham,Judith,Congleton Harriers,FSEN,01:52:22
 313,Cross,Rich,Unattached,MSEN,01:52:32
 314,Shaw,Kyle,Concordia,MSEN,01:52:35
@@ -366,7 +366,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 365,Codling,Tony,Blackpool WF AC,M40,01:58:23
 366,Edwards,Richard,Unattached,M40,01:58:36
 367,Aston,Peter,Teignbridge Trotters,MSEN,01:58:44
-368,Duggan,Karen,Ireland B,FELITE,01:58:49
+368,Duggan,Karen,Ireland B,F,01:58:49
 369,Hovers,Kate,Brecon,F40,01:59:03
 370,Lymer,Peter,Droitwich AC,M40,01:59:11
 371,Hefferman,Terry,Stroud and Dist AC,M50,01:59:21
@@ -416,7 +416,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 415,Batchelor,Glen,Unattached,M40,02:07:50
 416,Johnston,Kim,Stratford on Avon,M40,02:08:24
 417,Davies,Caryl,Sarn Helen,FSEN,02:08:39
-418,Merour,Roger,France,MELITE,02:08:42
+418,Merour,Roger,France,M,02:08:42
 419,Saer,Dylan,RNLI,MSEN,02:08:43
 420,Jones,Rhian,Eryri Harriers,FSEN,02:08:59
 421,Briggs,Michael,Wirksworth RC,M60,02:09:21
@@ -452,7 +452,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 451,Coxall,Owen,Unattached,MSEN,02:21:23
 452,Frith,G,Evenwood RR,MSEN,02:22:04
 453,Pollard,Phil,Portsmouth Joggers,M60,02:22:43
-454,Leon,Gerald,France,MELITE,02:22:46
+454,Leon,Gerald,France,M,02:22:46
 455,Palmer,Jeff,Unattached,M60,02:23:13
 456,Samuels,Paul S.,Unattached,MSEN,02:25:02
 457,Samuels,Stephen,Wrexham AC,M50,02:25:02

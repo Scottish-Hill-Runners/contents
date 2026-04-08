@@ -13,7 +13,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 12,Ridley,Susan,Edinburgh AC,FV,00:37:40
 13,Devoy,Bernard,Edinburgh/Unatt.,MV,00:37:58
 14,Dowling,Marc,Nottingham/Unatt.,MS,00:39:06
-15,Pryde,Gordon,Lomond HR Fife,MSV,00:39:33
+15,Pryde,Gordon,Lomond HR Fife,M50,00:39:33
 16,Norwood,Tim,Corstorphine AAC,MS,00:39:58
 17,Patterson,Robert,Borders,MS,00:40:07
 18,Mackay,Robert,Canada,MS,00:40:26
@@ -28,9 +28,9 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 27,Wright Snr.,Graham,HBT,MV,00:43:54
 28,Nash,Rupert,HBT,MS,00:44:38
 29,Law,David,Corstorphine AAC,MV,00:44:44
-30,Ross,Hilary,Newcastle/Unatt.,FSV,00:44:56
+30,Ross,Hilary,Newcastle/Unatt.,F50,00:44:56
 31,Carter,Ben,Portobello RC,MS,00:45:00
-32,Baker,Duncan,HBT,MSV,00:45:09
+32,Baker,Duncan,HBT,M50,00:45:09
 33,Manley,Andrew,Edinburgh/Unatt.,MS,00:45:20
 34,Thom,Jeremy,London/Unatt.,MS,00:45:23
 35,Heal,Matthew,Edinburgh AC,MV,00:45:25
@@ -40,7 +40,7 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 39,McPartland,Frank,HELP,MSV,00:46:02
 40,Graham,Kevin,Edinburgh/Unatt.,MS,00:46:37
 41,Heal,Kate,Edinburgh AC,FS,00:46:50
-42,Simpson,Scot,USA,MSSV,00:48:15
+42,Simpson,Scot,USA,M,00:48:15
 43,Mackay,Michael,Edinburgh/Unatt.,MV,00:48:33
 44,MacLean,Angus,Edinburgh/Unatt.,MS,00:48:38
 45,Kitchin,Kate,Lothian RC,FS,00:49:05
@@ -63,17 +63,17 @@ RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
 62,Noel,Penny,Tayport,FS,00:55:29
 63,Russell,Jane,Aberdeen,FS,00:55:29
 64,De Klee,Fiona,Errol/Unatt.,FV,00:56:42
-65,Strain ,Sheila,Tranent/Unatt.,FSSV,00:57:00
-66,McManus,Ian,Irvine AC,MSSV,00:57:20
+65,Strain ,Sheila,Tranent/Unatt.,F60,00:57:00
+66,McManus,Ian,Irvine AC,M60,00:57:20
 67,Johnston,Simon,Linlithgow Bridge,MS,00:58:24
-68,Willis,Raymond,USA,MSSV,01:00:13
+68,Willis,Raymond,USA,M60,01:00:13
 69,Chamberlain,Adam,USA,MS,01:00:18
 70,McKown,Lauren,USA,FS,01:00:22
-71,Douglas,David,Forfar RR,MSSV,01:00:54
+71,Douglas,David,Forfar RR,M60,01:00:54
 72,Douglas,Katherine,Edinburgh/Unatt.,FJ,01:01:24
 73,Douglas,Jenny,Edinburgh/Unatt.,FJ,01:01:24
 74,Cummings,Chris,USA,MS,01:01:33
-75,Stapley,Tony,Portobello RC,FSSV,01:05:01
+75,Stapley,Tony,Portobello RC,F60,01:05:01
 76,Mullen,Stacy,Dunfermline/Unatt.,FV,01:05:24
 77,Walker,Fred,USA,MS,01:05:54
 78,Puri,Shrijana,USA,FS,01:06:32

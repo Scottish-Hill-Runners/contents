@@ -4,7 +4,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 3,Anthony,Alasdair,Ochil Hill Runners,M,02:53:14
 4,Whitlie,Stewart,Carnethy Hill Running Club,M50,02:54:49
 5,Faulkner,Paul,Carnethy Hill Running Club,M40,02:57:56
-6,Campbell,Ross,Edinburgh University Hare and Hounds,Junior 18+,02:58:53
+6,Campbell,Ross,Edinburgh University Hare and Hounds,M18,02:58:53
 7,Reid,Michael,Carnethy Hill Running Club,M,02:59:36
 8,Eiser,Dave,Ochil Hill Runners,M,03:00:43
 9,Harris,Mark,Fife AC,M40,03:01:38
@@ -54,8 +54,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 53,Donnelly,John,Westerlands Cross Country Club,M40,04:01:01
 54,Freshwater,Craig,Westerlands Cross Country Club,M,04:01:08
 55,Naylor,Marcus,Gala Harriers,M40,04:01:44
-56,Burt,Louise,Fife AC,M40,04:02:36
-57,Gilmore,Iain,Carnethy Hill Running Club,Junior 18+,04:03:44
+56,Burt,Louise,Fife AC,F40,04:02:36
+57,Gilmore,Iain,Carnethy Hill Running Club,M18,04:03:44
 58,Garland,Charles,,M40,04:04:14
 59,Tait,Alan,Tinto Hill Runners,M40,04:04:34
 60,Ritchie,Hilary,Fife AC,M50,04:05:03

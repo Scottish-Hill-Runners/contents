@@ -1,20 +1,20 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Wylie,Stephen,Girvan AAC,M40,00:24:16
 2,Glencorse,Colin,Strathearn Harriers,M40,00:24:37
-3,Cherry,Alan,Ayr Seaforth,Male U/18,00:25:40
+3,Cherry,Alan,Ayr Seaforth,M18,00:25:40
 4,Reid,Don,Westerlands,M50,00:26:08
-5,Emsley,Nick,Arran Runners,Male U/18,00:27:10
+5,Emsley,Nick,Arran Runners,M18,00:27:10
 6,McKendrick,Scott,Westerlands,M40,00:27:29
-7,Paul,Cameron,Arran Runners,Male U/16,00:28:09
+7,Paul,Cameron,Arran Runners,M16,00:28:09
 8,McCulloch,Tom,Ayr Seaforth,M50,00:28:16
 9,Moore,John,Irvine AC,M40,00:28:41
 10,Hamilton,Gordon,Girvan AAC,M40,00:28:53
 11,Murphy,Craig,Girvan AAC,M40,00:29:05
 12,Noble,Stephen,-,M40,00:29:22
-13,Jenks,Christopher,Arran Runners,Male U/14,00:29:30
+13,Jenks,Christopher,Arran Runners,M14,00:29:30
 14,Fulton,Kevan,Ayr Seaforth,M40,00:30:14
 15,Drain,Alex,Troon Tortoises,M50,00:30:17
-16,Girvan,Andrew,Girvan AAC,Male U/18,00:30:17
+16,Girvan,Andrew,Girvan AAC,M18,00:30:17
 17,Davidson,Iain,Girvan AAC,M40,00:30:18
 18,Dowell,Finlay,Irvine AC,M40,00:30:35
 19,Pugh,Rod,Kilmarnock Harriers,M50,00:30:56
@@ -23,9 +23,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 22,Emsley,Paul,Arran Runners,M50,00:32:35
 23,Fraser,Iain,Irvine AC,M40,00:32:57
 24,Rennie,John,Girvan AAC,M40,00:35:56
-25,Wilson,Caine,Girvan AAC,Male U/14,00:36:12
-26,Robertson,Sandy,Girvan AAC,Male U/12,00:36:53
+25,Wilson,Caine,Girvan AAC,M14,00:36:12
+26,Robertson,Sandy,Girvan AAC,M12,00:36:53
 27,McManus,Ian,Irvine AC,M60,00:37:19
 28,Noble,Alastair,Girvan AAC,M50,00:38:49
-29,McGeechan,Craig,Girvan AAC,Male U/14,00:48:50
+29,McGeechan,Craig,Girvan AAC,M14,00:48:50
 30,Hamilton,Iain,Beith Harriers,M60,00:48:53

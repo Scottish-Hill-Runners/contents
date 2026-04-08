@@ -5,7 +5,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 4,Anthony,Alisdair,Ochil HR,M,02:53:49
 5,Whitlie,Stewart,Carnethy HRC,M40,02:54:11
 6,Donnelly,Colin,Lochaber AC,M50,02:55:57
-7,Britton,James,Moorfoot Runners,MSNR L,03:02:27
+7,Britton,James,Moorfoot Runners,M,03:02:27
 8,Ashcroft,Jon,Carnethy Hill Runners,M,03:03:22
 9,Gay,Dan,Hunters Bog Trotters,M,03:05:07
 10,Gorman,Manny,Westerlands,M40,03:05:48
@@ -13,12 +13,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 12,Fallas,Andrew,Carnethy Hill Runners,M,03:09:47
 13,Hart,Al,Hunters Bog Trotters,M,03:11:01
 14,Upson,Chris,Westerlands,M40,03:15:40
-15,Davis,Matthew,Carnethy,MSNR L,03:16:35
+15,Davis,Matthew,Carnethy,M,03:16:35
 16,Raich,David,Westerlands CCC,M40,03:17:08
 17,Mon-Williams,Mark,Ilkley Harriers,M40,03:18:31
 18,Knox,Jonny,Anster Haddies RC,M40,03:20:24
 19,Stewart,Gordon,Unattached,M50,03:20:43
-20,Hynd,Wull,Moorfoot Runners,MV40L,03:20:58
+20,Hynd,Wull,Moorfoot Runners,M40,03:20:58
 21,Love,Craig,Dundee Hawkhill Harriers,M,03:24:37
 22,Mills,Ian,Anster Haddies RC,M40,03:25:52
 23,Buchanan,Peter,Portobello Running Club,M40,03:26:00
@@ -38,9 +38,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 37,Allison,Murray,Unattached,M40,03:42:23
 38,Anderson,Russell,Moorfoot Runners,M50,03:43:04
 39,Hendry,Graham,Portobello Running Club,M40,03:43:39
-40,McGovern,Michael,Moorfoot Runners,MV40L,03:44:50
+40,McGovern,Michael,Moorfoot Runners,M40,03:44:50
 41,Higginbottom,Jacqui,Carnethy,F40,03:46:53
-42,Williams,Colin,Moorfoot Runners,MSNR L,03:47:18
+42,Williams,Colin,Moorfoot Runners,M,03:47:18
 43,Mitchell,John,Carnethy Hill Runners,M,03:47:49
 44,McInroy,Ross,Helensburgh AAC,M50,03:48:24
 45,Appleby,Paul,Northumberland FR,M40,03:48:52
@@ -48,7 +48,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 47,Brannan,Tosh,Lothian,M40,03:50:28
 48,Burt,Louise,Fife AC,F40,03:50:43
 49,Gorgas,Steffen,Westerlands CCC,M,03:51:09
-50,Davidson,Kenneth,Moorfoot Runners,MV40 L,03:52:10
+50,Davidson,Kenneth,Moorfoot Runners,M40,03:52:10
 51,McDonald,Gio,Carnethy Hill Runners,M40,03:52:27
 52,Adams,Robert,Unattached,M,03:52:46
 53,O'Sullivan,Sean,Cosmic Hill bashers,M,03:53:09
@@ -58,21 +58,21 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 57,Scott,Cameron,Carnethy HRC,M40,03:56:48
 58,MacMillan,Susannah,Unattached,F40,03:57:26
 59,Homewood,Ellie,Westerlands,F,03:58:20
-60,Barrie,Stewart,HBT - Hunters Bog Trotters,MV40L,03:58:20
-61,Hall,Johnny,Moorfoot Runners,MSNR L,04:01:22
+60,Barrie,Stewart,HBT - Hunters Bog Trotters,M40,03:58:20
+61,Hall,Johnny,Moorfoot Runners,M,04:01:22
 62,Pugh,Roderick,Kilmarnock Harriers,M50,04:03:01
 63,Lyon,David,Beacon Runners,M40,04:04:25
 64,Allison,Bob,Fife AC,M50,04:04:47
 65,McClelland,Peter,Hunters Bog Trotters,M,04:05:03
 66,McCracken,Morag,HBT - Hunters Bog Trotters,F,04:06:25
 67,Dallinson,John,NFR,M50,04:07:04
-68,Connor,Julia,Moorfoot Runners,FSNR L,04:07:06
+68,Connor,Julia,Moorfoot Runners,F,04:07:06
 69,Kemp,Alexander,N/A,M,04:07:03
 70,Gutteridge,Gary,Cosmic Hillbashers,M50,04:07:48
-71,Martin,Steven,Moorfoot Runners,MSNR L,04:08:04
+71,Martin,Steven,Moorfoot Runners,M,04:08:04
 72,Arthur,Graham,Ilkley Harriers,M60,04:09:18
 73,Thompson,Fabienne,Carnegie Harriers,F40,04:09:23
-74,Balfour,Edward,Unattached,MV40 L,04:10:27
+74,Balfour,Edward,Unattached,M40,04:10:27
 75,Telfer,John,Northumberland FR,M40,04:11:04
 76,Matthews,Steve,unnattached,M,04:11:32
 77,Paul,Alistair,Northumberland FR,M50,04:13:14
@@ -96,7 +96,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 95,Stankiewicz,Robin,Norham,M50,04:37:10
 96,Main,Alasdair,Dundee Hawkhill Harriers,M40,04:44:09
 97,Bartlett,Pat,Interlopers,M40,04:46:50
-98,Wall,Dick,Hunters Bog Trotters,MV50 L,04:56:47
+98,Wall,Dick,Hunters Bog Trotters,M50,04:56:47
 99,Grundy,Jane,NFR,F40,04:57:09
 100,Coyle,Caroline,N/A,F,04:57:53
 101,Bland,Stan,Troon Tortoises,M50,04:59:53
@@ -104,4 +104,4 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 103,Polak,Jo,Unattached,F40,05:11:20
 104,Purves,James,Selkirk,M50,05:11:20
 105,Macdonald,Deborah,Hunters Bog Trotters,F50,05:17:44
-106,Chalmers,Hugh,Unattached,MV40L,05:27:58
+106,Chalmers,Hugh,Unattached,M40,05:27:58

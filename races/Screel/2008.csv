@@ -26,7 +26,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 25,Scott,Cameron,Carnethy,M40,00:45:03
 26,Cartner,Julie,U/A,F,00:47:07
 27,Emsley,Paul,Arran Runners,M50,00:48:15
-28,Buchanan,Jim,ADAC,MV60+,00:48:26
+28,Buchanan,Jim,ADAC,MV60,00:48:26
 29,Thompson,Debbie,Keswick AC,F50,00:48:27
 30,Patterson,Kenny,U/A,M60,00:48:28
 31,Taylor,Jim,Fife AC,M50,00:48:28
@@ -35,5 +35,5 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 34,Robson,Jean,ADAC,F50,00:53:49
 35,Campbell,Graham,U/A,M40,00:56:31
 36,Anderson (Sen),Adam,Dumfries RC,M60,00:56:43
-37,Bennet,Bill,Penicuik,MV60+,00:57:35
+37,Bennet,Bill,Penicuik,MV60,00:57:35
 38,McQuillen,Alison,Forth Valley Orent,F,01:00:00
