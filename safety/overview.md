@@ -4,9 +4,9 @@
 
 Scottish Hill Runners take the issue of safety very seriously and in 2014 concluded a review of its safety code. A major development for 2015 is that the same safety code will apply to all hill races run in Scotland whether insured through SHR or Scottish Athletics. This should avoid any confusion amongst competitors and race organisers as to which safety requirements apply. The new safety code (last revision made 16.10.14) consists of generic safety rules and safety guidelines for race organisers and competitors and can be found in full at the following links:
 
-- [SHR generic safety rules](generic-rules)
-- [SHR safety guidelines](safety-guidelines)
-- [SHR - Guidance for Race Organisers - Bad Weather Warnings](race-organisers)
+- [SHR generic safety rules](safety/generic-rules)
+- [SHR safety guidelines](safety/safety-guidelines)
+- [SHR - Guidance for Race Organisers - Bad Weather Warnings](safety/race-organisers)
 
 ## Mandatory safety rules for competitors
 
