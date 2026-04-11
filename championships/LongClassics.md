@@ -1,4 +1,5 @@
 ---
+title: Scottish Long Classics Series
 2026: HeartOfGranite; BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; SliochHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; TwoBreweries; CarnethySkyloop
 2025: BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; HeartOfGranite; TwoBreweries; CarnethySkyloop
 2024: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; MoffatChase; Ochil2000s; TwoBreweries; PentlandSkyline
@@ -20,13 +21,11 @@
 2008: n/a
 ---
 
-# Scottish Long Classics Series
-
 ## Overview
 
 The Scottish Long Classics Series is a series of 13 long hill races across Scotland. The best 5 results count towards the final championship ranking.
 
-## 2026 Race Schedule
+## 2026 race schedule
 
 The 13 races in the 2026 Scottish Long Classics Series are:
 
@@ -58,7 +57,7 @@ Trophies are awarded to:
 - 2nd and 3rd place male and female runners
 - First M40, M50, M60, F40, F50, and F60
 
-## Previous Winners
+## Previous winners
 
 | Year | Men's Winner | Women's Winner |
 | ---- | ------------ | -------------- |
@@ -81,19 +80,6 @@ Trophies are awarded to:
 | 2009 | Andy Symonds | Ellen Homewood |
 | 2008 | Simon Peachey | Kate Jenkins |
 
-## Historical Championship Races by Year
+## Further information
 
-| Year | Races |
-| ---- | ----- |
-| 2026 | Heart Of Granite; Ben Chonzie; Stuc a'Chroin; Jura; Trotternish Ridge; Glen Rosa Horseshoe; Slioch Horseshoe; Arrochar Alps; Ben Rinnes; Lomonds Of Fife; Ochil 2000s; Two Breweries; Carnethy Skyloop |
-| 2025 | Ben Chonzie; Stuc a'Chroin; Jura; Trotternish Ridge; Glen Rosa Horseshoe; Arrochar Alps; Ben Rinnes; Glenshee 9; Ochil 2000s; Heart Of Granite; Two Breweries; Carnethy Skyloop |
-| 2024 | Stuc a'Chroin; Jura; Trotternish Ridge; Arrochar Alps; Ben Rinnes; Moffat Chase; Ochil 2000s; Two Breweries; Pentland Skyline |
-| 2023 | Stuc a'Chroin; Jura; Trotternish Ridge; Arrochar Alps; Ben Rinnes; Glenshee 9; Ochil 2000s; Two Breweries |
-| 2022 | Stuc a'Chroin; Jura; Trotternish Ridge; Arrochar Alps; Ben Rinnes; Ochil 2000s; Two Breweries; Pentland Skyline |
-| 2021 | No championship held due to COVID-19 |
-| 2020 | No championship held due to COVID-19 |
-| 2019–2008 | Race names not available from result files |
-
-## Further Information
-
-For more information about the Scottish Long Classics Series or if you have comments/suggestions, please contact Stewart Whitlie at [stewartwhitlie@virginmedia.com](mailto:stewartwhitlie@virginmedia.com).
+For more information about the Scottish Long Classics Series or if you have comments/suggestions, please contact Stewart Whitlie at <mailto:stewartwhitlie@virginmedia.com>
