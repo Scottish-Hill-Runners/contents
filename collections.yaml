@@ -39,6 +39,48 @@ collections:
       - path: "Pictures/002_Bishop_in_the_snow.jpg"
         tier: mosaic-only
         tags: [snow, landscape, winter, archive]
+      - path: "Pictures/Jura Paps.jpg"
+        tier: strong
+        tags: [coast, mountains, mist, landscape, atmosphere]
+      - path: "Pictures/GoatfellProspect.jpg"
+        tier: strong
+        tags: [mountains, Arran, landscape, atmosphere, wide]
+      - path: "Pictures/Merrick.jpg"
+        tier: strong
+        tags: [hills, Galloway, landscape, winter, summit]
+      - path: "Pictures/Rosa HorseshoeMorssCollection.jpg"
+        tier: strong
+        tags: [mountains, Arran, snow, coast, landscape]
+      - path: "Pictures/RA-0769-2022_MaG from Pony Path.jpg"
+        tier: strong
+        tags: [mountains, trail, landscape, modern]
+      - path: "Pictures/_MaG summit panorama 5.jpg"
+        tier: strong
+        tags: [mountains, panorama, lochs, landscape, modern]
+      - path: "Pictures/_MaG summit panorama 7.jpg"
+        tier: strong
+        tags: [mountains, panorama, landscape, modern]
+      - path: "Pictures/_MaG whole route.jpg"
+        tier: strong
+        tags: [mountains, panorama, lochs, landscape, modern]
+      - path: "Pictures/_MaG summit panorama 8.jpg"
+        tier: mosaic-only
+        tags: [mountains, panorama, landscape, modern]
+      - path: "Pictures/Lairig Ghru 2004.jpg"
+        tier: mosaic-only
+        tags: [mountains, Cairngorms, landscape, trail, classic]
+      - path: "Pictures/IMGP3772GlenAmpleStuc06.jpg"
+        tier: mosaic-only
+        tags: [glen, mountains, trail, atmosphere]
+      - path: "Pictures/arthurseat.jpg"
+        tier: mosaic-only
+        tags: [hills, Edinburgh, landscape, urban, atmosphere]
+      - path: "Pictures/Ben Nevis aerial.jpg"
+        tier: mosaic-only
+        tags: [mountains, aerial, landscape, archive, wide]
+      - path: "Pictures/PoolsOfDee.jpg"
+        tier: mosaic-only
+        tags: [mountains, Cairngorms, water, atmosphere]
 
   - id: committee-portraits-draft
     label: Committee portraits draft
