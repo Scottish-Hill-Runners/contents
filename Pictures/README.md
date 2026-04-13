@@ -2,8 +2,8 @@
 
 This folder now has a first-pass curation layer for website use.
 
-The source archive remains in place. The approved subsets for website work live in `collections.json` as named collections that a frontend or build step can consume later.
-The collections manifest now lives at the repository root in `../collections.json` so build pipelines can fetch it without cloning the full `Pictures` folder.
+The source archive remains in place. The approved subsets for website work live in `collections.yaml` as named collections that a frontend or build step can consume later.
+The collections manifest now lives at the repository root in `../collections.yaml` so build pipelines can fetch it without cloning the full `Pictures` folder.
 
 ## Current collections
 
@@ -21,7 +21,7 @@ The collections manifest now lives at the repository root in `../collections.jso
 - Keep committee portraits separate from decorative imagery.
 - Avoid `-sidebar` variants.
 - Avoid batch exports, UUID-style names, merchandise graphics, calendars, maps, scans, and crowd-heavy start or finish photos in the first pass.
-- Treat anything not in `../collections.json` as unreviewed.
+- Treat anything not in `../collections.yaml` as unreviewed.
 
 ## Notes for implementation
 
