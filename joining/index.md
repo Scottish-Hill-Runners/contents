@@ -17,7 +17,7 @@ Join online via SiEntries:
 
 Membership of Scottish Hill Runners provides the following benefits:
 
-- A comprehensive calendar of almost 200 races, published in hard copy and online.
+- A comprehensive calendar of almost 200 races, published in hard copy and [online](/calendar).
 - The Scottish Hill Runners Championship, based on your best 4 results from 6 races.
 - A regular newsletter and annual journal.
 - Public liability insurance protection, including when acting as a race organiser.

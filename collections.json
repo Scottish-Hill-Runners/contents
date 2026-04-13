@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "homepage-decorative-draft",
+      "label": "Homepage decorative draft",
+      "status": "draft",
+      "usage": [
+        "background-mosaic",
+        "image-wall",
+        "section-background-band"
+      ],
+      "doNotUseFor": [
+        "full-width-hero",
+        "text-heavy-overlays",
+        "automatic-race-page-imagery"
+      ],
+      "items": [
+        {
+          "path": "Pictures/RA-0769-2022_MaG summit panorama 1.jpg",
+          "tier": "strong",
+          "tags": ["mountains", "panorama", "modern", "landscape"]
+        },
+        {
+          "path": "Pictures/RA-0769-2022_MaG summit panorama 6.jpg",
+          "tier": "strong",
+          "tags": ["mountains", "panorama", "modern", "landscape"]
+        },
+        {
+          "path": "Pictures/Narnain to Cobbler.jpg",
+          "tier": "strong",
+          "tags": ["mountains", "sunrise", "landscape", "atmosphere"]
+        },
+        {
+          "path": "Pictures/JuraPapsfromsound.jpg",
+          "tier": "strong",
+          "tags": ["coast", "mountains", "landscape", "wide"]
+        },
+        {
+          "path": "Pictures/ArranGlenRosa.jpg",
+          "tier": "strong",
+          "tags": ["mountains", "Arran", "landscape", "wide"]
+        },
+        {
+          "path": "Pictures/Luibeg.jpg",
+          "tier": "mosaic-only",
+          "tags": ["river", "Cairngorms", "landscape", "forest"]
+        },
+        {
+          "path": "Pictures/DumyatSunset.jpg",
+          "tier": "mosaic-only",
+          "tags": ["hills", "sunset", "landscape", "atmosphere"]
+        },
+        {
+          "path": "Pictures/Dumyat.jpg",
+          "tier": "mosaic-only",
+          "tags": ["hills", "landscape", "trail", "atmosphere"]
+        },
+        {
+          "path": "Pictures/002_Bishop_in_the_snow.jpg",
+          "tier": "mosaic-only",
+          "tags": ["snow", "landscape", "winter", "archive"]
+        }
+      ]
+    },
+    {
+      "id": "committee-portraits-draft",
+      "label": "Committee portraits draft",
+      "status": "draft",
+      "usage": [
+        "committee-pages",
+        "office-holder-profiles",
+        "governance-pages"
+      ],
+      "doNotUseFor": [
+        "decorative-backgrounds",
+        "homepage-mosaics"
+      ],
+      "items": [
+        {
+          "path": "Pictures/Committee/CM-SHRme.jpg",
+          "tier": "profile",
+          "tags": ["portrait", "committee", "modern"]
+        },
+        {
+          "path": "Pictures/Committee/KirstyDicksonCropped.jpg",
+          "tier": "profile",
+          "tags": ["portrait", "committee", "cropped"]
+        },
+        {
+          "path": "Pictures/Committee/PeterMackieCropped.jpg",
+          "tier": "profile",
+          "tags": ["portrait", "committee", "cropped"]
+        },
+        {
+          "path": "Pictures/Committee/StewartWhitlieCropped.jpg",
+          "tier": "profile",
+          "tags": ["portrait", "committee", "cropped"]
+        }
+      ]
+    }
+  ]
+}
