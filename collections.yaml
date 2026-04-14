@@ -1,4 +1,4 @@
-version: 1
+version: 2
 collections:
   - id: homepage-decorative-draft
     label: Homepage decorative draft
@@ -105,3 +105,691 @@ collections:
       - path: "Pictures/Committee/StewartWhitlieCropped.jpg"
         tier: profile
         tags: [portrait, committee, cropped]
+
+raceImageConfig:
+  status: draft
+  defaultCollectionId: homepage-decorative-draft
+  includeSidebarVariants: false
+  notes:
+    - Slug-keyed for direct /races/[slug] lookup in shr-web.
+    - Seeded from picture-race-matches-high-confidence.csv.
+
+raceImagesBySlug:
+  Allermuir:
+    hero:
+      - path: "Pictures/Allermuir2Pentlands05.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  ArrocharAlps:
+    hero:
+      - path: "Pictures/RA-0405-2022_ArrocharFinish1.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  BeinnLee:
+    hero:
+      - path: "Pictures/BeinnLee2005p1.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  BeinnLora:
+    hero:
+      - path: "Pictures/5_Beinn Lora 08leaders.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  BenLomond:
+    hero:
+      - path: "Pictures/58_Ben-Lomond-01.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/58_Ben-Lomond-02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/58_Ben-Lomond-03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/58_Ben-Lomond-04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/58_Ben-Lomond-05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/AliEBenLomond1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Ben Lomond 05descent.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Ben Lomond inversion.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/BenLomond2005.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/BenLomondFull.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/BrindleyBenLomond.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Flying down Ben Lomond 04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/gordonbenlomond.jpg"
+        confidence: high
+        source: filename-match
+  Bennachie:
+    hero:
+      - path: "Pictures/Bennachie.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/Bennachie05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CosmicsBennachie1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CosmicsBennachie2.jpg"
+        confidence: high
+        source: filename-match
+  BenNevis:
+    hero:
+      - path: "Pictures/858_BenNevis20102nd.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/858_BenNevis2010winner.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/858_BenNevis2010winner2.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/858_BenNevis2010winner3.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/AnthonyBenNevis2004.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Ben Nevis aerial.jpg"
+        confidence: high
+        source: filename-match
+  BenRinnes:
+    hero:
+      - path: "Pictures/BenRinnes2.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  BishopHill:
+    hero:
+      - path: "Pictures/002_Bishop_in_the_snow.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/12_BishopHill_01.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/12_BishopHill_02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/12_BishopHill_03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/12_BishopHill_04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/12_BishopHill_05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/1701_12_BishopHill_04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/1714_12_BishopHill_01.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/DTurnbullBishopHill05.jpg"
+        confidence: high
+        source: filename-match
+  BishopHillJunior:
+    hero:
+      - path: "Pictures/bishop_jun1.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/BishopHilljunior05.jpg"
+        confidence: high
+        source: filename-match
+  CaerkettonDownhill:
+    hero:
+      - path: "Pictures/154_Caerketton-Downhill-2007-01.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/154_Caerketton-Downhill-2007-02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/154_Caerketton-Downhill-2007-03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/154_Caerketton-Downhill-2007-04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/caerkettondownhillv2.jpg"
+        confidence: high
+        source: filename-match
+  CaerkettonHillRace:
+    hero:
+      - path: "Pictures/578_Caerketton09-1.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/578_Caerketton2009Climb.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/578_Caerketton2009Leaders.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CaerkettonCrowe.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CaerkettonHills.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CaerkettonPack.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CaerkettonPearson.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/CaerkettonWomen.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/578_Caerketton2009Juniors.jpg"
+        confidence: high
+        source: filename-match
+  CaerkettonJunior:
+    hero:
+      - path: "Pictures/CaerkettonJunior1.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  CairnTable:
+    hero:
+      - path: "Pictures/Cairn Table Race 05.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  Carnethy5:
+    hero:
+      - path: "Pictures/13_carnethy5_2007-01.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/13_carnethy5_2007-02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/13_carnethy5_2007-03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/179_Carnethy5_2007-web.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/R BoswellCarnethy 5.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/WatsonCarnethyFive2005.jpg"
+        confidence: high
+        source: filename-match
+  Chapelgill:
+    hero:
+      - path: "Pictures/BreastingChapelgill.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/Chapelgill0105.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill0205.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill0305.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill0405.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill0505.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill06.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill07.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Chapelgill09.jpg"
+        confidence: high
+        source: filename-match
+  Clachnaben:
+    hero:
+      - path: "Pictures/Clachnaben & MtShade.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/Clachnaben&MtShade.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/ClachnabenMtShade.jpg"
+        confidence: high
+        source: filename-match
+  Cort-maLaw:
+    hero:
+      - path: "Pictures/graemecampbell_cortmalaw06.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  CulterFellHorseshoe:
+    hero:
+      - path: "Pictures/Culter fell.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  EagleCrag:
+    hero:
+      - path: "Pictures/eaglecrag2006donnellycummins.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/eaglecrag2006jardine.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/eaglecrag2006no92.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/eaglecrag2006smith.jpg"
+        confidence: high
+        source: filename-match
+  FalklandHillRace:
+    hero:
+      - path: "Pictures/Falkland Village.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/GallagherFalkland2005Web.jpg"
+        confidence: high
+        source: filename-match
+  GlasTulaicheanUphill:
+    hero:
+      - path: "Pictures/glas_tulaichean.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  GlenRosaHorseshoe:
+    hero:
+      - path: "Pictures/ArranGlenRosa.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  Goatfell:
+    hero:
+      - path: "Pictures/69_Goatfell2007-01.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/69_Goatfell2007-02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-06.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-07.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-08.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-09.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-10.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-12.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-13.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/69_Goatfell2007-14.jpg"
+        confidence: high
+        source: filename-match
+  GreenmantleDash:
+    hero:
+      - path: "Pictures/206_GreenmantleDash2008-climb.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/festive greenmantle 03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Greenmantle03.05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/greenmantledash2007startpearson.jpg"
+        confidence: high
+        source: filename-match
+  HuntersBogTrot:
+    hero:
+      - path: "Pictures/RA-0029-2015_HBT1.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  Jura:
+    hero:
+      - path: "Pictures/Jura Paps.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  LairigGhru:
+    hero:
+      - path: "Pictures/Lairig Ghru 2004.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  LargoLaw:
+    hero:
+      - path: "Pictures/573_LargoLaw2009-1s.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/573_LargoLaw2009-2s.jpg"
+        confidence: high
+        source: filename-match
+  ManorWater:
+    hero:
+      - path: "Pictures/manorwater2006_1.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/manorwater2006_2.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/manorwater2006_3.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/manorwater2006_4.jpg"
+        confidence: high
+        source: filename-match
+  Meall-aBhuachaille:
+    hero:
+      - path: "Pictures/Jamie Thin descends Meall a Bhuachaille.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  Meall-aGhiuthais:
+    hero:
+      - path: "Pictures/RA-0769-2022_50d8941e-91dd-4f5f-83f2-8fd32127a2c2.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/RA-0769-2022_aa644a35-7110-4415-a78c-fddd51d67a79.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/RA-0769-2022_MaG from Pony Path.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/RA-0769-2022_MaG summit panorama 1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/RA-0769-2022_MaG summit panorama 6.jpg"
+        confidence: high
+        source: filename-match
+  Melantee:
+    hero:
+      - path: "Pictures/Gill Tait Melantee 2004.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/Helen Murray descends at Melantee 2004.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Tracey Brindley descends Melantee 2004b.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/WardlawMelantee2004.jpg"
+        confidence: high
+        source: filename-match
+  Merrick:
+    hero:
+      - path: "Pictures/Merrick.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  MitherTap:
+    hero:
+      - path: "Pictures/552_MitherTapRaceHoney.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  MoffatChase:
+    hero:
+      - path: "Pictures/moffatchase01.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/moffatchase02.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase03.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase04.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase05.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase06.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase07.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase08.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase09.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase10.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase11.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/moffatchase12.jpg"
+        confidence: high
+        source: filename-match
+  NormansLaw:
+    hero:
+      - path: "Pictures/26_NormansLaw_view.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/39_Alex_Jones_@_Norman's_Law.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/456_NormansLaw2009_Donnelly_web.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/456_NormansLaw2009_Windram-Gedd.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Normans Law.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/NormansLaw1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/Normanslaw2006CRussell.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/NormansLaw3.jpg"
+        confidence: high
+        source: filename-match
+  PentlandSkyline:
+    hero:
+      - path: "Pictures/169_Pentland-Skyline-2007-AS.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/169_Pentland-Skyline-2007-Hwood.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/169_Pentland-Skyline-2007-leade.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/169_Pentland-Skyline-2007-Young.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/888_PentlandSkyline20101010_1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/888_PentlandSkyline20101010_2.jpg"
+        confidence: high
+        source: filename-match
+  RedMossKilps:
+    hero:
+      - path: "Pictures/RA-0666-2022_1d582f3d-22c8-4b14-ab28-479de101cb7b.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/RA-0666-2022_IMG-8560.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/RA-0666-2022_IMG-8592.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/RA-0666-2022_RedMossKipa2022Winner.jpg"
+        confidence: high
+        source: filename-match
+  Scolty:
+    hero:
+      - path: "Pictures/75_Scolty_Armitage.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/75_Scolty_Whitehead.jpg"
+        confidence: high
+        source: filename-match
+  SevenHillsChallenge:
+    hero:
+      - path: "Pictures/85_Seven-Hills-2007-Marshall.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/85_Seven-Hills-2007-Mykura.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/85_Seven-Hills-2007-Peachey.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/85_Seven-Hills-2007-Stott.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-1.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-10.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-11.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-12.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-13.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-14.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-2.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-3.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/sevenhills-4.jpg"
+        confidence: high
+        source: filename-match
+  SouthBlackHillRace:
+    hero:
+      - path: "Pictures/93_South-Black-Crowe.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/93_South-Black-Leaders.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/93_South-Black-Quarry.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/93_South-Black-QuarryDescent.jpg"
+        confidence: high
+        source: filename-match
+  Tinto:
+    hero:
+      - path: "Pictures/agm pic of tinto.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  TraprainLaw:
+    hero:
+      - path: "Pictures/traprainlaw0606-1.jpg"
+        confidence: high
+        source: filename-match
+    gallery:
+      - path: "Pictures/traprainlaw0606-2.jpg"
+        confidence: high
+        source: filename-match
+      - path: "Pictures/traprainlaw0606-3.jpg"
+        confidence: high
+        source: filename-match
+  WhangieWhizz:
+    hero:
+      - path: "Pictures/466_Whangie Whizz 2009.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
+  WhiteHillJunior:
+    hero:
+      - path: "Pictures/white.jpg"
+        confidence: high
+        source: filename-match
+    gallery: []
