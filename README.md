@@ -2,13 +2,20 @@
 
 This repository stores editorial content for Scottish Hill Runners.
 
+A companion repository, `site-builder` constructs a static web site
+for the contents, and should be re-deployed after any content changes.
+
 The admin app at <https://admin.scottishhillrunners.uk> creates pull requests against this repository for:
 
 - News posts
-- Race index files
-- Race results CSV files
+- Uploading and correcting race results
+- Race information
+- Calendar updates
+- Image uploads
+- Club information
+- Long distance challenge information
 
-## Repository Layout
+## Repository layout
 
 - news/
   - One markdown file per news post
@@ -17,13 +24,13 @@ The admin app at <https://admin.scottishhillrunners.uk> creates pull requests ag
 - races/
   - One folder per race
   - Each race folder contains:
-    - index.md (race metadata and markdown description)
+    - index.md (race metadata in markdown format)
     - YEAR.csv files (results data)
 - clubs/
 - info/
 - long-distance/
 
-## News Content
+## News
 
 Path pattern:
 
@@ -45,10 +52,11 @@ Markdown body content goes here.
 Rules:
 
 - date should use YYYY-MM-DD
-- Use -suffix only when multiple posts share the same date
+- Use -suffix only when multiple posts share the same date.
+  This will usually be inserted automatically, based on existing content.
 - Keep excerpt concise for listing pages
 
-## Race Index Content
+## Race descriptions
 
 Path pattern:
 
@@ -74,7 +82,7 @@ Markdown race description and event notes go here.
 
 Distance and climb must be in metric units; the UI will convert to imperial when requested.
 
-## Race Results Content
+## Race results
 
 Path pattern:
 
@@ -86,14 +94,14 @@ CSV rules:
 - Header names and required columns must match SHR validation rules used by the admin app
 - Keep values clean and consistently formatted; e.g. times should be hh:mm:ss, without omitting leading 0s.
 
-## Editorial Workflow
+## Editorial workflow
 
 1. Open or create content in the admin app
 2. Submit draft changes
 3. Admin app opens a pull request against this repository
 4. Review, discuss, and merge in GitHub
 
-## Pull Request Guidance
+## Pull request guidance
 
 Please include:
 
@@ -101,7 +109,7 @@ Please include:
 - Why it changed
 - Any source links or notes for reviewers
 
-## Branch and Merge Policy
+## Branch and merge policy
 
 - Default branch: main
 - Changes should be merged via pull request
@@ -109,4 +117,4 @@ Please include:
 
 ## Ownership
 
-Maintained by Scottish Hill Runners editors and maintainers.
+Maintained by the Scottish Hill Runners association and hill running community.

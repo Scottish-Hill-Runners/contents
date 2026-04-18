@@ -26,13 +26,15 @@ Membership of Scottish Hill Runners provides the following benefits:
 - A clear policy of encouraging and defending open access for hill racing throughout Scotland.
 - An annual prize giving and social event at the end of the season.
 
-## Race Organisers Pack
+## Quick Links by Audience
 
-The page also links to a [Race Organisers Pack](/joining/race-organisers-pack-2020), including information on insurance, safety and environmental issues.
+- Members: [Insurance](/safety/insurance)
+- Parents and juniors: [Juniors and Parents](/joining/juniors)
+- Race organisers: [Organisers guidance](/safety/organisers)
 
 ## Related Links
 
 - [Online calendar](/calendar)
 - [Scottish Hill Runners Championship](/championships)
-- [Insurance](/joining/insurance)
+- [Safety](/safety)
   
