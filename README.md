@@ -1,9 +1,12 @@
 # Scottish Hill Runners Content Repository
 
-This repository stores editorial content for Scottish Hill Runners.
+This repository stores race results and general information for Scottish Hill Runners.
 
-A companion repository, `site-builder` constructs a static web site
-for the contents, and should be re-deployed after any content changes.
+A companion repository, `site-builder` constructs a static web site for the contents.
+
+Content merges to `main` automatically trigger a production re-build of `site-builder` via a Vercel Deploy Hook.
+
+If a rebuild needs to be retried without further content changes, run the `Trigger site-builder production rebuild` workflow manually from the GitHub Actions tab.
 
 The admin app at <https://admin.scottishhillrunners.uk> creates pull requests against this repository for:
 
@@ -119,6 +122,25 @@ Please include:
 - Default branch: main
 - Changes should be merged via pull request
 - Avoid direct commits to main
+
+## Deployment trigger setup
+
+This repository triggers production deploys for `site-builder` through a
+GitHub Actions workflow at `.github/workflows/rebuild-site-builder.yml`.
+
+Required repository secret:
+
+- `VERCEL_DEPLOY_HOOK_URL`: Production deploy hook URL from the Vercel
+  `site-builder` project.
+
+Trigger behaviour:
+
+- Automatic: on push to `main`
+- Manual fallback: `workflow_dispatch`
+
+Reliability controls:
+
+- Concurrency enabled to avoid overlapping trigger runs.
 
 ## Ownership
 

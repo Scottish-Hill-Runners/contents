@@ -1,0 +1,37 @@
+name: Trigger site-builder production rebuild
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: site-builder-production-rebuild
+  cancel-in-progress: true
+
+jobs:
+  trigger-vercel-deploy:
+    name: Trigger Vercel deploy hook
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Validate deploy hook secret
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$VERCEL_DEPLOY_HOOK_URL" ]; then
+            echo "VERCEL_DEPLOY_HOOK_URL is not configured."
+            echo "Add it in repository Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - name: Trigger production rebuild
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          curl --fail --silent --show-error \
+            --retry 3 \
+            --retry-delay 2 \
+            --max-time 30 \
+            -X POST "$VERCEL_DEPLOY_HOOK_URL"
