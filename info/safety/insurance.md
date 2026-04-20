@@ -4,7 +4,7 @@ Public liability cover is provided as a benefit of Scottish Hill Runners members
 
 This page gives a practical overview for runners and race organisers. Always rely on the current policy documents and forms provided by SHR for final requirements.
 
-## Policy Summary
+## Policy summary
 
 The SHR policy provides:
 
@@ -13,7 +13,7 @@ The SHR policy provides:
 
 The cover applies to SHR members, officers, and volunteer helpers in relation to hill running activities, subject to policy terms and conditions.
 
-## Who Is Covered
+## Who is covered
 
 The cover applies to:
 
@@ -23,13 +23,13 @@ The cover applies to:
 
 The policy is restricted to permanent UK residents, valid in the UK, and local UK law applies.
 
-## Scope and Limitations
+## Scope and limitations
 
 Insurance is intended for hill races in the conventional sense. Activities outside policy scope may not be covered.
 
 Race organisers are responsible for checking that event format and event operations are compatible with policy terms before race day.
 
-## Race Organiser Requirements
+## Race organiser requirements
 
 To use SHR insurance for a race:
 
@@ -38,7 +38,7 @@ To use SHR insurance for a race:
 - The organiser must complete and submit the insurance safety sign-off process in advance.
 - The organiser must provide event safety information and retirement procedures.
 
-## Competitor Responsibilities
+## Competitor responsibilities
 
 Competitors are responsible for their own safety in hill races and must:
 
@@ -47,13 +47,13 @@ Competitors are responsible for their own safety in hill races and must:
 - Follow retirement procedures if they do not start or abandon
 - Support other runners in difficulty
 
-## Key Safety Documents
+## Key safety documents
 
 - [SHR Generic Safety Rules](/info/safety/generic-rules)
 - [SHR Safety Guidelines](/info/safety/safety-guidelines)
 - [Race organiser weather guidance](/info/safety/race-organisers)
 
-## Pre-Race Checklist
+## Pre-race checklist
 
 Use this quick checklist:
 
@@ -62,6 +62,6 @@ Use this quick checklist:
 - Check the latest forms and submit required sign-off
 - Ensure race-specific safety information is communicated
 
-## Current Documents and Forms
+## Current documents and forms
 
 Current forms and policy documents are published on the SHR website download pages and may change by season. Always use the latest versions provided by SHR before your event.

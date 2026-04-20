@@ -1,22 +1,18 @@
----
-title: "What we do"
----
+# What We Do
 
 ## Introduction
-
-[How to join the SHR](/info/joining)
 
 Scottish Hill Runners is an independent organisation providing services for hill runners in Scotland. We are not a sports governing body. Membership benefits include a regular newsletter, an annual journal and a Race Calendar which includes all hill races in Scotland.  
   
 We aim to provide accurate up-to-date information on all aspects of hill racing, training, long distance challenges, and non-competitive hill running in Scotland.
 
-## Our Objectives
+## Our objectives
 
 * To keep Scottish hill runners informed of issues relevant to the sport by producing appropriate material.
 * To promote or organise (or assist others delivering) events for Scottish hill runners.
 * To consider, and if appropriate, act upon any other proposals from hill runners in Scotland in respect of activities not catered for by other organisations.
 
-## Membership Benefits
+## Membership benefits
 
 * A comprehensive printed Race Calendar (including highland games races).
 * [Public liability insurance](/info/safety/insurance) protection (including when acting as a race organiser).
@@ -31,6 +27,13 @@ We aim to provide accurate up-to-date information on all aspects of hill racing,
 * An annual prize-giving and social event at the end of the season.
 * A [Race Organisers Pack](/info/safety/organisers/race-organisers-pack), including information on insurance, safety and environmental issues.
 
-## Our Income
+## Our income
 
 Our income comes from membership subscriptions, sale of advertising space in the race calendar, calendar sales to non-members and website sponsorship. Proceeds are fed back into the sport.
+
+## More information
+
+* [How to join the SHR](/info/joining)
+* [Safety](/info/safety/)
+* [Insurance](/info/safety/insurance)
+* [Calendar](/calendar)

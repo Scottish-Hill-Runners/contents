@@ -2,18 +2,18 @@
 
 This section brings together practical guidance and documents for race organisers.
 
-## Start Here
+## Start here
 
 - [SHR Insurance overview](/info/safety/insurance)
 - [SHR Generic Safety Rules](/info/safety/generic-rules)
 - [SHR Safety Guidelines](/info/safety/safety-guidelines)
 - [Bad weather warnings guidance](/info/safety/race-organisers)
 
-## Organiser Pack
+## Organiser pack
 
 - [Race Organisers Pack](/info/safety/organisers/race-organisers-pack)
 
-## Key Notes
+## Key notes
 
 - Confirm insurance route early and complete required forms.
 - Build event-specific safety information and retirement procedures.

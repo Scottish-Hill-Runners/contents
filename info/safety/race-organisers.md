@@ -20,11 +20,11 @@ Weather warnings are given a colour (yellow, amber or red) depending on a combin
 
 Generally speaking it should be fine to proceed with caution with a yellow warning, amber it is likely you will have to significantly change or cancel your plans and red you should not go ahead.
 
-## SHR Race Insurance
+## SHR race insurance
 
 There is nothing specific regarding weather conditions in the Liability section of our insurance policy. The Insurer would expect each race to be risk assessed and for that assessment to consider what to do in the event of adverse weather. That could be changing the route, advising on what clothing to wear or cancelling the race in the event that conditions were deemed to be dangerous.
 
-## Local or National
+## Local or national
 
 Weather warnings tend to cover local areas, however you also need to consider where people may be travelling from, especially if it is a popular race attracting runners from across the country, including championship races. If this is the case you need to look at weather warnings from across the country.
 

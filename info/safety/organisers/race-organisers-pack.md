@@ -15,7 +15,7 @@ This page is an evergreen guide for organising hill races with safety, access, a
 - Sponsorship
 - Key contacts and further information
 
-## Calendar Entry and Results
+## Calendar entry and results
 
 Race organisers should send calendar updates as early as possible and provide race results promptly after each event.
 
@@ -27,7 +27,7 @@ Race organisers must ensure suitable insurance is in place for the race. Options
 
 For SHR-insured races, organisers must register the race with SHR and complete the required sign-off process.
 
-## Event Information and Safety Plan
+## Event information and safety plan
 
 Before opening entries, prepare event information that covers:
 
@@ -39,7 +39,7 @@ Before opening entries, prepare event information that covers:
 
 An event safety plan should also define who is responsible for key decisions and actions on race day.
 
-## Key Safety Documents
+## Key safety documents
 
 Organisers must understand and apply current SHR safety rules and guidelines.
 
@@ -47,7 +47,7 @@ Organisers must understand and apply current SHR safety rules and guidelines.
 - [SHR Safety Guidelines](/info/safety/safety-guidelines)
 - [Race organiser weather guidance](/info/safety/race-organisers)
 
-## Weather and Contingency Planning
+## Weather and contingency planning
 
 Set cancellation and bad-weather plans early. Consider:
 
@@ -56,23 +56,23 @@ Set cancellation and bad-weather plans early. Consider:
 - Landowner and local-agency advice
 - Travel disruption risk for participants
 
-## Environmental and Route Planning
+## Environmental and route planning
 
 Organisers should plan routes with landowner permissions, erosion risk, sensitive habitats, and local constraints in mind.
 
 Prefer robust lines, avoid vulnerable ground, and use existing paths where practical.
 
-## Wildlife and Livestock
+## Wildlife and livestock
 
 Consult landowners and relevant agencies where routes cross sensitive areas, and plan to minimize disturbance.
 
 Take extra care around nesting seasons, grazing areas, and protected habitats.
 
-## Practical Organisation
+## Practical organisation
 
 Cover marshalling, first aid, retirement procedures, runner accounting, parking, litter, and toilets in event plans.
 
-## Pre-Race Checklist
+## Pre-race checklist
 
 Use this quick checklist before start time:
 
@@ -83,7 +83,7 @@ Use this quick checklist before start time:
 - Registration, start, and finish procedures in place
 - Parking, litter, and toilets ready
 
-## Post-Race Checklist
+## Post-race checklist
 
 After the event:
 
