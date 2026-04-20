@@ -2,13 +2,13 @@
 
 This page is the main starting point for junior hill running information.
 
-## Getting Started
+## Getting started
 
 Hill running for juniors is a fun way to build fitness, confidence, and mountain skills in varied terrain. Most junior races are short and designed to be age-appropriate, but conditions can still be challenging.
 
 Always read event information before travelling, especially for age limits, race format, terrain, and required kit.
 
-## What Is Junior Hill Running?
+## What is junior hill running?
 
 Hill running is running on hilly or mountainous terrain, usually on paths, grass, rough ground, or a mix of surfaces.
 
@@ -20,7 +20,7 @@ Junior races are commonly:
 
 Some events include separate junior races, while others allow eligible juniors in selected main races.
 
-## Junior Age Limits
+## Junior age limits
 
 UK Athletics rules set maximum race distances for juniors:
 
@@ -33,7 +33,7 @@ Race organisers may apply tighter limits for safety depending on terrain, climb,
 
 Age groups are determined by date-of-birth rules set by governing bodies. Always use the event's published age rules for eligibility.
 
-## Race Categories and Course Difficulty
+## Race categories and course difficulty
 
 Hill races are often described using:
 
@@ -42,7 +42,7 @@ Hill races are often described using:
 
 These categories help indicate how demanding a race may be. Juniors are generally suited to shorter races and dedicated junior events.
 
-## Equipment and Safety
+## Equipment and safety
 
 Conditions can change quickly on the hill. Juniors should arrive ready for wet, windy, and cold weather even when forecasts look reasonable.
 
@@ -59,7 +59,7 @@ For some events, a map and compass may be required.
 
 Race organisers set the minimum kit for their event. Bring more than the minimum when needed.
 
-## Parent and Guardian Responsibilities
+## Parent and guardian responsibilities
 
 A responsible adult should:
 
@@ -70,7 +70,7 @@ A responsible adult should:
 
 For younger athletes, adult oversight is essential for kit and safety decisions.
 
-## Pre-Race Checklist
+## Pre-race checklist
 
 Use this quick checklist:
 
@@ -80,7 +80,7 @@ Use this quick checklist:
 - Prepare required and backup kit
 - Know start location, registration times, and retirement procedure
 
-## Competitions and Pathways
+## Competitions and pathways
 
 Junior opportunities usually include:
 
@@ -91,14 +91,14 @@ Junior opportunities usually include:
 
 The exact calendar and criteria vary each season, so use current race pages and official announcements.
 
-## Key Safety Documents
+## Key safety documents
 
 Read:
 
 - [SHR Safety Guidelines](/info/safety/safety-guidelines)
 - [SHR Generic Safety Rules](/info/safety/generic-rules)
 
-## Scottish Athletics Membership
+## Scottish Athletics membership
 
 Some championships and league standings require scottishathletics membership.
 
@@ -106,7 +106,7 @@ Check current guidance:
 
 - [scottishathletics membership](https://www.scottishathletics.org.uk/membership/)
 
-## Related Links
+## Related links
 
 - [Join SHR](/info/joining)
 - [Insurance](/info/safety/insurance)
