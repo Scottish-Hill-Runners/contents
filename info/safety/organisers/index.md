@@ -4,14 +4,14 @@ This section brings together practical guidance and documents for race organiser
 
 ## Start Here
 
-- [SHR Insurance overview](/safety/insurance)
-- [SHR Generic Safety Rules](/safety/generic-rules)
-- [SHR Safety Guidelines](/safety/safety-guidelines)
-- [Bad weather warnings guidance](/safety/race-organisers)
+- [SHR Insurance overview](/info/safety/insurance)
+- [SHR Generic Safety Rules](/info/safety/generic-rules)
+- [SHR Safety Guidelines](/info/safety/safety-guidelines)
+- [Bad weather warnings guidance](/info/safety/race-organisers)
 
 ## Organiser Pack
 
-- [Race Organisers Pack](/safety/organisers/race-organisers-pack)
+- [Race Organisers Pack](/info/safety/organisers/race-organisers-pack)
 
 ## Key Notes
 

@@ -95,8 +95,8 @@ The exact calendar and criteria vary each season, so use current race pages and 
 
 Read:
 
-- [SHR Safety Guidelines](/safety/safety-guidelines)
-- [SHR Generic Safety Rules](/safety/generic-rules)
+- [SHR Safety Guidelines](/info/safety/safety-guidelines)
+- [SHR Generic Safety Rules](/info/safety/generic-rules)
 
 ## Scottish Athletics Membership
 
@@ -108,6 +108,6 @@ Check current guidance:
 
 ## Related Links
 
-- [Join SHR](/joining)
-- [Insurance](/safety/insurance)
+- [Join SHR](/info/joining)
+- [Insurance](/info/safety/insurance)
 - [Calendar](/calendar)

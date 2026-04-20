@@ -43,9 +43,9 @@ An event safety plan should also define who is responsible for key decisions and
 
 Organisers must understand and apply current SHR safety rules and guidelines.
 
-- [SHR Generic Safety Rules](/safety/generic-rules)
-- [SHR Safety Guidelines](/safety/safety-guidelines)
-- [Race organiser weather guidance](/safety/race-organisers)
+- [SHR Generic Safety Rules](/info/safety/generic-rules)
+- [SHR Safety Guidelines](/info/safety/safety-guidelines)
+- [Race organiser weather guidance](/info/safety/race-organisers)
 
 ## Weather and Contingency Planning
 

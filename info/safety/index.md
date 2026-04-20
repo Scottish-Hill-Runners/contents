@@ -4,17 +4,17 @@ Scottish Hill Runners takes safety seriously. This section contains the core doc
 
 ## Core Safety Documents
 
-- [SHR Generic Safety Rules](/safety/generic-rules)
-- [SHR Safety Guidelines](/safety/safety-guidelines)
+- [SHR Generic Safety Rules](/info/safety/generic-rules)
+- [SHR Safety Guidelines](/info/safety/safety-guidelines)
 
 ## Insurance and Compliance
 
-- [Insurance for SHR members and race organisers](/safety/insurance)
+- [Insurance for SHR members and race organisers](/info/safety/insurance)
 
 ## Race Organisers
 
-- [Organisers guidance index](/safety/organisers)
-- [Bad weather warnings guidance](/safety/race-organisers)
+- [Organisers guidance index](/info/safety/organisers)
+- [Bad weather warnings guidance](/info/safety/race-organisers)
 
 ## For Competitors
 

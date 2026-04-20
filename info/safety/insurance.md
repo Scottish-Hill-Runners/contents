@@ -49,9 +49,9 @@ Competitors are responsible for their own safety in hill races and must:
 
 ## Key Safety Documents
 
-- [SHR Generic Safety Rules](/safety/generic-rules)
-- [SHR Safety Guidelines](/safety/safety-guidelines)
-- [Race organiser weather guidance](/safety/race-organisers)
+- [SHR Generic Safety Rules](/info/safety/generic-rules)
+- [SHR Safety Guidelines](/info/safety/safety-guidelines)
+- [Race organiser weather guidance](/info/safety/race-organisers)
 
 ## Pre-Race Checklist
 

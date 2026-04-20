@@ -1,8 +1,7 @@
 version: 2
 collections:
-  - id: homepage-decorative-draft
-    label: Homepage decorative draft
-    status: draft
+  - id: homepage-decorative
+    label: Homepage decorative
     usage:
       - background-mosaic
       - image-wall
@@ -82,9 +81,8 @@ collections:
         tier: mosaic-only
         tags: [mountains, Cairngorms, water, atmosphere]
 
-  - id: committee-portraits-draft
-    label: Committee portraits draft
-    status: draft
+  - id: committee-portraits
+    label: Committee portraits
     usage:
       - committee-pages
       - office-holder-profiles
@@ -107,12 +105,10 @@ collections:
         tags: [portrait, committee, cropped]
 
 raceImageConfig:
-  status: draft
-  defaultCollectionId: homepage-decorative-draft
+  defaultCollectionId: homepage-decorative
   includeSidebarVariants: false
   notes:
-    - Slug-keyed for direct /races/[slug] lookup in shr-web.
-    - Seeded from picture-race-matches-high-confidence.csv.
+    - Slug-keyed for direct /races/[slug] lookup by the site-builder.
 
 raceImagesBySlug:
   Allermuir:

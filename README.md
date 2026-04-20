@@ -27,8 +27,13 @@ The admin app at <https://admin.scottishhillrunners.uk> creates pull requests ag
     - index.md (race metadata in markdown format)
     - YEAR.csv files (results data)
 - clubs/
+  - One markdown file per club
+- championships/
+  - One markdown file per race series
 - info/
+  - arbitrary nested folders of markdown files
 - long-distance/
+  - One markdown file per long-distance challenge
 
 ## News
 
@@ -90,7 +95,7 @@ Path pattern:
 
 CSV rules:
 
-- File must be valid CSV
+- File must be valid CSV (use double-quotes if e.g. a club contains a comma)
 - Header names and required columns must match SHR validation rules used by the admin app
 - Keep values clean and consistently formatted; e.g. times should be hh:mm:ss, without omitting leading 0s.
 

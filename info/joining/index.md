@@ -28,13 +28,13 @@ Membership of Scottish Hill Runners provides the following benefits:
 
 ## Quick Links by Audience
 
-- Members: [Insurance](/safety/insurance)
-- Parents and juniors: [Juniors and Parents](/joining/juniors)
-- Race organisers: [Organisers guidance](/safety/organisers)
+- Members: [Insurance](/info/safety/insurance)
+- Parents and juniors: [Juniors and Parents](/info/joining/juniors)
+- Race organisers: [Organisers guidance](/info/safety/organisers)
 
 ## Related Links
 
 - [Online calendar](/calendar)
 - [Scottish Hill Runners Championship](/championships)
-- [Safety](/safety)
+- [Safety](/info/safety)
   

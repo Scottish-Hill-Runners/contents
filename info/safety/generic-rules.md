@@ -19,7 +19,7 @@ The Race Organiser (RO) has a duty of care to competitors in their race. However
 
 Breach of a rule by a competitor may result in disqualification from future SHR races for a period determined by the SHR Committee. A set of safety guidelines for ROs and competitors is also available to help all to comply with these rules. An appeal procedure is available for resolving disputed decisions. 
 SHR will audit compliance with these Rules.
- 
+
 > Approved for SHR Safety Sub-group:
 > Al Anthony, Peter Baxter,
 > Keith Burns, Ronnie Gallagher,
