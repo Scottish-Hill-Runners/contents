@@ -1,0 +1,3 @@
+---
+name: Kirkintilloch Olympians
+---

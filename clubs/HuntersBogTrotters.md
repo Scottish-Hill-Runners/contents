@@ -1,6 +1,9 @@
 ---
 name: Hunters Bog Trotters
-aka: Hunters Bog Trotters, HBT
+aka:
+  - Hunters Bog Trotters
+  - HBT
+
 web: https://huntersbogtrotters.com
 ---
 
