@@ -5,4 +5,5 @@ aka:
   - Rossendale H
   - Rossendale Harriers
   - Rossendale Harriers AC
+  - Rossendale H AC
 ---

@@ -6,4 +6,8 @@ aka:
   - Skye & Lochalsh
   - Skye & Lochalsh Running Club
   - Skye and Lochalsh Running Club
+  - Skye & Lochalsh AC
+  - Skye & Lochalsh Harriers
+  - Skye and Lochalsh AC
+  - Skye and Lochalsh Runners
 ---

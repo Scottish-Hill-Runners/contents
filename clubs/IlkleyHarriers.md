@@ -4,4 +4,5 @@ aka:
   - Ilkley Harriers AC
   - Ilkley H
   - Ilkley
+  - Ilkley Hill Runners
 ---

@@ -7,4 +7,11 @@ aka:
   - Keith Jog Scotland
   - Keith & District
   - Keith and District
+  - Keith
+  - Keith  & District
+  - Keith &District AAC
+  - Keith AAC
+  - Keith Runners
+  - Keith and District AC
+  - Keith&District
 ---

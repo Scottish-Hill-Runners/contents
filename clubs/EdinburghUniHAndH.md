@@ -2,4 +2,22 @@
 name: Edinburgh Uni H&H
 aka:
   - Edinburgh Uni H & H
+  - Edinburgh Uni H& H
+  - Edinburgh University H & H
+  - Edinburgh Uni
+  - Edinburgh Unin H & H
+  - Edinburgh University Hare & Hounds
+  - Edinburgh Uni Hares & Hound
+  - Edin Uni H & H
+  - Edin Uni H&H
+  - CUH&H
+  - Edinburgh Uni Hare & Hounds
+  - Edin. Uni H&H
+  - Edinburgh Uni Hare And Hounds
+  - Edinburgh Uni Tri Club
+  - Edinburgh Uni.
+  - Edinburgh University H&H
+  - Edinburgh University Hare And Hounds
+  - Edinburgh University Hare and Hounds
+  - Edinburgh University Hare&Hounds
 ---

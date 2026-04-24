@@ -5,4 +5,8 @@ aka:
   - Perth RR
   - Perth
   - Perth Triathlon Club
+  - Perth RoadRunners
+  - Perth Roadrunners
+  - Perth Tri-Club
+  - Perth tri-club
 ---

@@ -4,6 +4,7 @@ aka:
   - Westerlands
   - Westies
   - Westerlands Cross Country Club
+  - Westerlands CC
 
 web: http://www.westerlands.co.uk
 ---
