@@ -2,7 +2,8 @@
 name: Carnethy Hill Running Club
 aka:
   - Carnethy
-
+  - Carnethy HRC
+  - Carnethy Hill Racing Club
 web: https://www.carnethy.com
 ---
 
