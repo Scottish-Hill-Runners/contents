@@ -17,7 +17,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 16,Ramsdale,Ralph,Carnethy,M,36:14
 17,Scott,Dominic,Norham,M16,36:23
 18,Shields,Jimmy,Clydesdale,M,36:35
-19,Colvin,Gordon,East  Kilbride,,36:48
+19,Colvin,Gordon,East Kilbride,,36:48
 20,Turnbull,Les,Norham,M,36:51
 21,Calder,Dave,Westerlands,,36:58
 22,Edridge,Brian,Clydesdale,M40,37:21
@@ -45,14 +45,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 44,Shaw,Peter,HBT,,40:07
 45,Gibson,Willie,Carnethy,,40:18
 46,Fleming,Gibson,Westerlands,M40,40:24
-47,Smith,Bruce,Standard  Life,,40:29
+47,Smith,Bruce,Standard Life,,40:29
 48,Morris,Paul,Carnethy,,40:43
 49,Stout,Russell,Carnethy,,40:54
 50,Macleod,Charlie,Lomond,,40:59
 51,Anderson,Laurie,Fife,,41:03
 52,Pritchard,Colin,Carnethy,M40,41:14
 53,Baxter,Peter,Westerlands,,41:20
-54,Lennox,Chris,Law  & District,M,41:22
+54,Lennox,Chris,Law & District,M,41:22
 55,Pritchard,Matthew,Carnethy,M16,41:23
 56,Short,Andrew,Unattached,,41:25
 57,Rother,Penny,Livingston,F,41:27
@@ -71,21 +71,21 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 70,Farmer,Julie,Lochaber,F,42:33
 71,Hughes,Bob,Ochil,M,42:20
 72,McGregor,David,Livingston,,42:49
-73,Taylor,Jim,100km  Assoc,,42:53
+73,Taylor,Jim,100km Assoc,,42:53
 74,Gauld,Bill,Carnethy,M40,42:58
 75,Pigg,John,Norham,,42:59
 76,Daly,Ken,Livingston,,43:12
-77,McGrogan,William,Valley  Striders,,43:22
-78,Blisborough,Peter,Stirling  Univ,M,43:47
+77,McGrogan,William,Valley Striders,,43:22
+78,Blisborough,Peter,Stirling Univ,M,43:47
 79,Gatehouse,Richard,Lomond,M,43:51
 80,Mallett,Patrick,Lomond,,44:20
 81,Scott,David,HELP,M,44:36
 82,MacLachlan,Malcolm,Carnethy,M,44:39
 83,Robertson,Jane,Westerlands,F,44:38
-84,Turnbull,Drew,East  Kilbride,M40,44:49
+84,Turnbull,Drew,East Kilbride,M40,44:49
 85,Dunn,Michael,Unattached,,44:54
 86,Dalitz,Rod,Ferranti,M,44:57
-87,Schreiber,Jo,Pudsey  & Bramley,F,44:58
+87,Schreiber,Jo,Pudsey & Bramley,F,44:58
 88,West,Nick,Carnethy,M,45:04
 89,Hedley,Brian,Lomond,M,45:12
 90,MacDonald,Debbie,Lasswade,F,45:13
@@ -115,17 +115,17 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 114,Benny,Graham,Westerlands,M,50:06
 115,Jordan,John,Shettleston,M,50:48
 116,Paul,Gillian,Carnethy,F,51:01
-117,Dick,Geirge,Scottish  Vets,M,52:12
-118,Wilkins,John,Arbroath  Footers,M40,52:20
+117,Dick,Geirge,Scottish Vets,M,52:12
+118,Wilkins,John,Arbroath Footers,M40,52:20
 119,Suess,N.,Unattached,M,52:34
 120,Irons,Martin,Unattached,M,53:11
 121,Drouet,Paula,Carnethy,F,53:18
 122,Robertson,Richard,Carnethy,M40,53:32
 123,Pearson,Mike,Carnethy,M,53:41
-124,Greenslade,David,Larkhall  Triathlon,M,55:50
+124,Greenslade,David,Larkhall Triathlon,M,55:50
 125,Corr,Benny,Unattached,,56:25
 126,Cairney,John,Shettleston,M40,56:52
 127,Tarbit,Derek,Unattached,M40,63:18
 128,King,Shelagh,Clydesdale,F,66:30
 129,Micalizzi,Serena,Carnethy,F,66:30
-130,Thompson,Jim,Forth  RR,M40,?
+130,Thompson,Jim,Forth RR,M40,?

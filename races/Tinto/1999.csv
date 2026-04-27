@@ -12,7 +12,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,MacInnes,Gary,Carnethy,,33:24
 12,Keith,Alex,HBT,,34:04
 13,Johnston,Mark,Carnethy,,34:12
-14,Bennet,Sandy,Kinross  RR,,34:17
+14,Bennet,Sandy,Kinross RR,,34:17
 15,Simmons,Dave,Livingston,,34:25
 16,McLoone,Steven,Westerlands,,34:39
 17,Spenceley,Andy,Carnethy,M,34:43
@@ -23,7 +23,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 22,Brown,Craig,Ochil,,36:08
 23,Anderson,Adam,Solway,,36:09
 24,Hill,Les,Dumfries,M,36:11
-25,Calvin,Gordon,East  Kilbride,M,36:18
+25,Calvin,Gordon,East Kilbride,M,36:18
 26,James,Mark,Carnethy,,36:33
 27,Knox,Jim,Teviotdale,M40,36:34
 28,Ward,Adam,Carnethy,,36:36
@@ -41,15 +41,15 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 40,Duncan,David,Ochil,M,38:08
 41,Shields,Jim,Clydesdale,M40,38:13
 42,Goldsworthy,John,Galloway,M,38:21
-43,O'Malley,Steve,East  Kilbride,M,38:24
-44,Watson,Gordon,Dundee  HH,M,38:29
+43,O'Malley,Steve,East Kilbride,M,38:24
+44,Watson,Gordon,Dundee HH,M,38:29
 45,Mathieson,Alastair,Livingston,,38:36
 46,Gallacher,John,Ochil,,38:41
 47,Robinson,Gordon,Westerlands,,38:42
-48,Kerr,Stewart,Dundee  HH,,38:46
+48,Kerr,Stewart,Dundee HH,,38:46
 49,Pryde,Gordon,Lomond,M,39:01
 50,McCraw,Ron,Ochil,,39:05
-51,Love,Charlie,Dundee  HH,M40,39:11
+51,Love,Charlie,Dundee HH,M40,39:11
 52,Anderson,Murray,Fife,M40,39:15
 53,Harley,Tom,HELP,M,39:16
 54,McLaghlan,Danny,Greenock,M,39:18
@@ -62,7 +62,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 61,Diver,Mike,Clydesdale,,40:01
 62,Graham,Alan,Lomond,M,40:08
 63,Adam,David,Hamilton,,40:14
-64,Howie,Brian,City  of Edin,M,40:31
+64,Howie,Brian,City of Edin,M,40:31
 65,Robson,John,FRA,M,40:33
 66,Roberts,Nigel,Unattached,,40:36
 67,Cameron,Gordon,Carnethy,M,40:44
@@ -70,17 +70,17 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 69,Reid,Don,Westerlands,M,40:51
 70,Little,Colin,Dumfries,M,40:54
 71,Priestley,Nigel,Annan,M,41:03
-72,Brydon,Chris,East  Kilbride,,41:06
+72,Brydon,Chris,East Kilbride,,41:06
 73,Myatt,Martin,Unattached,M,41:12
 74,Knowles,Stewart,Fife,M,41:21
 75,Laws,Alison,Carnethy,F16,41:23
-76,Abraham,Syril,East  Kilbride,,41:29
+76,Abraham,Syril,East Kilbride,,41:29
 77,Finbow,Malcolm,Shettleston,M,41:23
 78,Ferguson,Cameron,Unattached,,41:39
 79,Robertson,Stewart,Unattached,,41:44
 80,Powell,Alison,Carnethy,F,41:49
 81,Pritchard,Colin,Carnethy,M40,41:49
-82,Hunter,Bill,L  & B Police,M,42:24
+82,Hunter,Bill,L & B Police,M,42:24
 83,Ritchie,Tony,Westerlands,,42:27
 84,Dalitz,Rod,Carnethy,M,42:41
 85,Burt,Louise,Fife,F,42:43
@@ -95,7 +95,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 94,Volwerk,Leen,Lochaber,M40,44:31
 95,Murdoch,Fletcher,Maryhill,M40,44:32
 96,Baird,James,Unattached,,44:34
-97,Clements,Craig,East  Kilbride,,44:41
+97,Clements,Craig,East Kilbride,,44:41
 98,Macdonald,Debbie,HBT,F,44:45
 99,Noble,Alastair,Girvan,M,45:12
 100,Wood,Angela,Carnethy,F,45:19
@@ -106,7 +106,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 105,Cunnane,James,Livingston,,46:15
 106,Weir,Fiona,Livingston,F,46:18
 107,McIntosh,Mhairi,Ochil,F,46:28
-108,Goldie,Martin,Giffnock  North,M,46:36
+108,Goldie,Martin,Giffnock North,M,46:36
 109,Godfrey,Kevin,Kinross,,46:39
 110,Menarry,Alex,Carnethy,M40,46:41
 111,Wall,Dick,HBT,M,46:47
@@ -115,7 +115,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 114,Carton,Peter,Shettleston,M,47:17
 115,Jackson,Ian,Carnethy,M,47:21
 116,Morton,Jim,Irvine,M,47:25
-117,Hunter,Peter,L  & B Police,M,47:29
+117,Hunter,Peter,L & B Police,M,47:29
 118,Gilchrist,Suzanne,Gala,F,47:31
 119,Anderson,Joanne,Carnethy,F,47:32
 120,Douglas,John,Unattached,M40,47:41

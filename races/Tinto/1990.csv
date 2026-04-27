@@ -1,5 +1,5 @@
 RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,McGonigle,Dermot,Dundee  HH,,31:43
+1,McGonigle,Dermot,Dundee HH,,31:43
 2,Wilkinson,John,Gala,,32:54
 3,Rodgers,Dave,Lochaber,,32:58
 4,Pilbeam,Rod,Keswick,,33:20
@@ -24,7 +24,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 23,Meek,Colin,Whitburn,,36:58
 24,Hughes,Phil,Lochaber,,37:01
 25,Rennie,Ewan,Aberdeen,M,37:03
-26,Jones,G.,Glasgow  Univ,,37:13
+26,Jones,G.,Glasgow Univ,,37:13
 27,Holden,Joe,Fife,M,37:14
 28,Coyle,John,Carnethy,,37:25
 29,Ramsbottom,Will,Livingston,,37:30
@@ -39,15 +39,15 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 38,Murray,Dave,Berwick,,38:30
 39,Graham,Alan,Lomond,,38:33
 40,Campbell,S.,Lochaber,M16,38:36
-41,Fleming,G.,Scots  Vets,M,38:44
+41,Fleming,G.,Scots Vets,M,38:44
 42,Ross,J.,Motherwell,,38:52
 43,Holden,G.,Lancaster,,38:55
 44,McGinley,Hugh,Lomond,,39:07
 45,McKinnon,G.,Lochaber,M16,39:09
-46,Adams,D.,Hamilton  H,M40,39:28
+46,Adams,D.,Hamilton H,M40,39:28
 47,Bolland,Claire,Livingston,F,39:35
 48,Gauld,Bill,Carnethy,M40,39:37
-49,Salmond,R.,Head  RNR,M16,39:40
+49,Salmond,R.,Head RNR,M16,39:40
 50,Mair,Jim,Carnethy,,39:48
 51,MacDonald,Nick,Carnethy,,39:59
 52,Thomas,Chris,Carnethy,,40:01
@@ -65,7 +65,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 64,Smith,C.,Penicuik,,40:52
 65,Mackin,A.,Solway,,41:08
 66,Reid,Don,Clydesdale,,41:12
-67,Boal,J.,Victoria  Park,,41:18
+67,Boal,J.,Victoria Park,,41:18
 68,Hall,J.,Unattached,,41:18
 69,Buchan,P.,Fife,,41:24
 70,Turnbull,Ron,Unattached,,41:25
@@ -77,17 +77,17 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 76,Gillespie,Eddie,Carnethy,M,41:44
 77,Hope,Lesley,Lochaber,F,41:45
 78,Anderson,M.,Unattached,,41:47
-79,,N.Mendum,Head  RNR,M16,41:59
+79,,N.Mendum,Head RNR,M16,41:59
 80,Forrest,S.,Unattached,,42:03
-81,Gray,D.,Scots  Vets,M,42:15
+81,Gray,D.,Scots Vets,M,42:15
 82,Kassyk,Mark,Livingston,,42:26
-83,Laird,R.,Hamilton  H,,42:37
+83,Laird,R.,Hamilton H,,42:37
 84,Coleman,Michelle,Livingston,F,42:48
 85,,Marshall,HELP,,42:49
-86,Harrison,N.,Law  & District,,42:51
+86,Harrison,N.,Law & District,,42:51
 87,Pigat,O.,Unattached,,43:02
 88,Mitchell,R.,Teviotdale,M40,43:05
-89,Jamieson,R.,Head  RNR,M16,43:15
+89,Jamieson,R.,Head RNR,M16,43:15
 90,Leyland,M.,Unattached,,43:16
 91,Cant,R.,Lochaber,M,43:20
 92,McGrogan,W.,Unattached,M,43:24
@@ -95,7 +95,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 94,Dougan,J.,Lochaber,M,43:34
 95,Lorimer,E,Unattached,M16,43:35
 96,Coon,John,Livingston,,43:54
-97,Dodson,Brian,Law  & District,M,44:00
+97,Dodson,Brian,Law & District,M,44:00
 98,Buchanan,J.,Annan,M40,44:20
 99,Fleming,K.,Strathkelvin,F,44:30
 100,MacLachlan,Malcolm,Livingston,M,44:32
@@ -109,9 +109,9 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 108,Knowles,Mitchell,Carnethy,,45:40
 109,McGinley,P.,Lomond,,45:42
 110,Allison,D.,Livingston,,45:51
-111,Downie,Chris,Lothian  & B Police,,45:55
+111,Downie,Chris,Lothian & B Police,,45:55
 112,McLachlan,R.,Lochaber,F,46:02
-113,Tingley,M.,Leeds  Univ,,46:04
+113,Tingley,M.,Leeds Univ,,46:04
 114,Bennie,Graham,Unattached,M,46:06
 115,Campbell,D.,Livingston,F16,46:11
 116,Gatehouse,Richard,Lomond,,46:13
@@ -128,7 +128,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 127,McIntyre,I.,Lochaber,M16,47:46
 128,Watson,D.,SRC,,47:53
 129,Rose,Nigel,Carnethy,M,47:57
-130,Murray,J.,Scots  Vets,M,47:59
+130,Murray,J.,Scots Vets,M,47:59
 131,Leslie,F.,Carnethy,,48:03
 132,Reguiski,P.,Clydesdale,,48:15
 133,McIntosh,N.,Solway,,48:20
@@ -136,14 +136,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 135,Owens,Denis,Carnethy,M,48:54
 136,Osmond,C.,Unattached,M,49:07
 137,Struthers,I.,Westerlands,,49:15
-138,Dodson,Kay,Law  & District,F,49:24
+138,Dodson,Kay,Law & District,F,49:24
 139,Morgan,P.,SRC,,49:29
 140,Schierloh,Nick,Carnethy,M,49:44
 141,Lawson,Harry,Carnethy,M40,50:04
 142,Trenchard,Peter,Girvan,M,50:17
-143,King,S.,Eureka  (Aust),F,50:20
+143,King,S.,Eureka (Aust),F,50:20
 144,Crane,Calvin,Livingston,,50:44
-145,Brook,N.,Stago  Orient,M,50:52
+145,Brook,N.,Stago Orient,M,50:52
 146,King,Shelagh,Clydesdale,F,51:14
 147,Jeremy,R.,Livingston,F,52:21
 148,Hislop,G.,Harmony,F16,52:22

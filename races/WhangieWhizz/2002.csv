@@ -1,0 +1,91 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Murphy,Ian,Clydesdale Harriers,M,0:28:25
+2,Lewis,Ian,Shettleston Harriers,MS,0:28:34
+3,Lennox,Jethro,Shettleston Harriers,MS,0:28:34
+4,Stevenson,John,Ochil Hill Runners,MV,0:29:12
+5,MacInnes,Garry,Carnethy Hill Running Club,MS,0:29:50
+6,Simpson,Stewart,Ochil Hill Runners,MS,0:29:52
+7,Rodwell,Damon,Westerlands CCC,MS,0:31:18
+8,Kennedy,John,Maryhill Harriers,MV,0:31:19
+9,MacKay,Euan,Ochil Hill Runners,MV,0:31:57
+10,Scott,Nigel,Westerlands CCC,MS,0:32:13
+11,Upson,Chris,Westerlands CCC,MS,0:32:31
+12,Cunningham,Lindsay,Garscube Harriers,MS,0:32:50
+13,McGuire,Alex,Fife AC,MV,0:32:53
+14,Gallacher,Brian,Clydesdale Harriers,MS,0:32:54
+15,McCraw,Ron,Ochil Hill Runners,MV,0:33:10
+16,Pryde,Gordon,Lomond Hill Runners,M40,0:33:17
+17,Bowen,Nick,U/A,MS,0:33:19
+18,Reid,Don,Westerlands CCC,MV,0:33:20
+19,Ross,Alistair,U/A,MS,0:33:44
+20,Shields,James,Clydesdale Harriers,MV,0:33:45
+21,Galbraith,Jim,Giffnock North Athletic Club,MV,0:33:49
+22,MacLeod,Murdo,Westerlands CCC,MV,0:33:52
+23,Buchan,Peter,Ochil Hill Runners,MV,0:34:23
+24,Campbell,Charles,Westerlands CCC,M,0:34:27
+25,Shaw,Charlie,Westerlands CCC,MV,0:34:30
+26,Fleming,Gibson,Westerlands CCC,MV,0:34:35
+27,Houston,Val,U/A,FV,0:34:49
+28,Jenkins,Kate,Carnethy Hill Running Club,FS,0:34:56
+29,Owen,Stephen,U/A,MV,0:35:17
+30,Young,M,Drumchapel,MJ,0:35:17
+31,Duncan,David,Ochil Hill Runners,MV,0:35:19
+32,Mennie,Ian,Garscube Harriers,MV,0:35:38
+33,Robertson,Stewart,Strathaven Striders,MS,0:35:48
+34,Wild,Matt,U/A,MS,0:35:54
+35,Gauguan,Adrian,Milburn Harriers,MV,0:36:12
+36,Baker,Duncan,Hunters Bog Trotters,MV,0:36:23
+37,Lindsay,Stephen,Drumchapel,MJ,0:36:40
+38,Kilpatrick,R,Drumchapel,MJ,0:36:40
+39,Brown,Craig,Clydesdale Harriers,M40,0:36:47
+40,Lennox,Helen,Drumchapel,FS,0:36:57
+41,Walker,Robert,Penicuick Harriers,MS,0:36:58
+42,Andrew,P,Drumchapel,MJ,0:36:58
+43,Dowell,Findlay,Irvine RC,M40,0:37:07
+44,Finbow,Malcolm,Shettleston Harriers,MV,0:37:14
+45,Johnston,Stephen,Milburn Harriers,MV,0:37:26
+46,Meiklejohn,Alan,Fife AC,MV,0:37:30
+47,A McKenzie,J,U/A,MV,0:37:39
+48,Lambert,Jim,U/A,MV,0:37:40
+49,Wilson,Alan,Westerlands CCC,MS,0:37:47
+50,Lennie,Andrew,Carnethy Hill Running Club,MV,0:37:54
+51,Gilhooly,John,U/A,MV,0:37:55
+52,Blake,Sarah,Hunters Bog Trotters,FJ,0:37:59
+53,Dealtry,Eddie,Ochil Hill Runners,MV,0:38:09
+54,Cameron,Archie,Westerlands CCC,MV,0:38:24
+55,Adams,David,Hamilton Harriers,MV,0:38:34
+56,MacDonald,Debbie,Hunters Bog Trotters,FV,0:38:40
+57,Anderson,Judith,U/A,FS,0:39:12
+58,Robertson,Struan,U/A,MS,0:39:20
+59,Gorgas,Steffen,Westerlands CCC,MS,0:39:39
+60,Scott,Elspeth,Westerlands CCC,FV,0:40:07
+61,Thin,Jamie,Carnethy Hill Running Club,MS,0:40:09
+62,Hughes,Bob,Ochil Hill Runners,M40,0:40:12
+63,Smith,Donald,Westerlands CCC,MV,0:40:19
+64,Bushrod,Eddie,Milburn Harriers,MV,0:40:25
+65,Knox,I,Hunters Bog Trotters,FS,0:40:32
+66,Waters,Archie,Drumchapel,MV,0:40:48
+67,Brunton,Val,U/A,FV,0:41:03
+68,Orr,Graeme,Westerlands CCC,MV,0:41:27
+69,Pearson,Mike,Penicuick Harriers,MV,0:41:42
+70,McManus,I,Irvine RC,MV,0:42:06
+71,Smith,J,Hunters Bog Trotters,FV,0:42:17
+72,Drummond,Jim,Central Region Athletic Club,MV,0:42:20
+73,Lennox,Chris,Law District Athletic Club,MV,0:42:36
+74,Horton,Sue,U/A,FS,0:43:33
+75,Clarke,G,Ochil Hill Runners,MV,0:43:41
+76,Robert,Nicol,Irvine RC,MV,0:43:44
+77,Semple,Susanna,Bellahouston RR,FS,0:43:49
+78,Turnbull,Drew,Westerlands CCC,M60,0:44:01
+79,Taylor,C,Bellahouston RR,MS,0:44:03
+80,Wall,D,Hunters Bog Trotters,MV,0:44:33
+81,Polak,J,Milburn Harriers,FV,0:44:38
+82,Akers,Heather,U/A,FV,0:44:56
+83,Davidson,Sean,Penicuick Harriers,MS,0:45:04
+84,Bennett,Bill,Penicuick Harriers,MV,0:45:05
+85,McLaughlin,Patricia,Westerlands CCC,FV,0:45:56
+86,Burgess,Leanne,Drumchapel,FJ,0:46:45
+87,Salmon,Robert,U/A,MV,0:46:45
+88,Gurley,Andrew,U/A,MS,0:47:05
+89,Thin,Joanne,Carnethy Hill Running Club,FV,0:48:00
+90,Robertson,Jim,Milburn Harriers,MV,0:49:25

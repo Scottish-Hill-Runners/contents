@@ -1,0 +1,94 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Stevenson,Jamie,Dark Peak,M,2:25:22
+2,McGonnigal,Dermot,Shettleston Harriers,M,2:33:10
+3,Donnelly,Colin,Eryri Harriers,M,2:35:36
+4,Hobbs,Tom,Clayton,M,2:40:06
+5,Riemersma,Gordon,Livingston,M,2:41:26
+6,Crowe,Des,Shettleston Harriers,M,2:41:58
+7,Griffin,Tim,Cosmics,M,2:43:09
+8,Whitlie,Stewart,Carnethy Hill Running Club,M,2:43:26
+11,Naylor,Donald,Hunters Bog Trotters,M,2:47:03
+12,Mudge,Angela,Carnethy Hill Running Club,F,2:47:06
+13,Lee,Rob,Livingston,M,2:48:21
+14,Eades,Colin,Livingston,M,2:54:13
+15,Godfree,David,Livingston,M,2:54:27
+16,Blair-fish,John,Carnethy Hill Running Club,MV,2:54:37
+17,Higginbottom,Mark,Carnethy Hill Running Club,M,2:56:35
+18,Smith,Alan,Deeside Runners,M,2:57:03
+19,Laing,Martin,Fife AC,MV,2:58:06
+20,Gorman,Manuel,Westerlands CCC,M,2:58:13
+21,Hart,Alastair,Hunters Bog Trotters,M,3:01:33
+22,Gallacher,Ronnie,Westerlands CCC,M,3:02:24
+23,Simmons,David,Livingston,M,3:02:28
+24,Gibson,Willie,Carnethy Hill Running Club,MV,3:02:33
+25,Haughton,Greg,Calder Valley,MSV,3:02:43
+26,Worsley,Steven,Inverness Harriers,M,3:03:49
+27,Mykura,Willie,Carnethy Hill Running Club,M,3:04:44
+28,Smith,Bruce,Standard Life Athletic Club,M,3:04:48
+31,Buchanan,Peter,Ochil Hill Runners,M,3:06:19
+32,Donnelly,John,Shettleston Harriers,M,3:07:54
+33,Love,Charlie,Dundee Hawkhill,MSV,3:09:12
+34,Bell,Steven,Westerlands CCC,M,3:10:16
+35,Orr,Peter,Highland Hill Runners,M,3:10:38
+36,Law,David,Corstorphine Athletic Club,M,3:10:52
+37,O`brien,Paul,Corstorphine Athletic Club,MV,3:11:55
+38,Alford,Joe,U/a,M,3:12:56
+39,Balfour,Eddie,Mdc (s. Wales),M,3:13:42
+40,Murray,Stephen,Ochil Hill Runners,M,3:13:50
+41,Dunn,Chris,Standard Life Athletic Club,M,3:14:01
+42,Pryce,Carl,Cosmics,M,3:14:03
+43,Cooper,Mark,City Of Edin,M,3:14:09
+44,Stewart,Gavin,Carnethy Hill Running Club,M,3:15:17
+45,Forte,Phil,Dundee Hawkhill,MV,3:16:01
+46,Bell,Roger,Ambleside,MSV,3:16:22
+47,Lennie,Andrew,U/a,M,3:16:54
+48,McLean,Donald,Lomond Hill Runners,M,3:17:03
+49,Higginbottom,Jacquie,Carnethy Hill Running Club,F,3:17:18
+50,Duncan,David,Ochil Hill Runners,MV,3:18:10
+51,Preece,Ben,Deeside Runners,MSV,3:19:49
+52,Mills,Lan,Anster Haddies,M,3:20:18
+53,McGuire,Alex,Fife AC,MV,3:21:00
+54,Jenkins,Kate,Carnethy Hill Running Club,F,3:21:45
+55,Whyte,Ken,Lochaber AC,MV,3:22:09
+56,Howie,Brian,City Of Edin,MV,3:22:42
+57,Crompton,Martin,U/a,MV,3:24:53
+58,Templeman,Simon,Ochil Hill Runners,M,3:25:06
+59,Hadden,Joe,Fife AC,MSV,3:25:23
+60,James,Mark,Carnethy Hill Running Club,M,3:27:21
+61,Baxter,Peter,Westerlands CCC,MV,3:27:56
+62,Stevenson,Bill,U/a,MV,3:28:53
+63,Campbell,Charlie,Westerlands CCC,M,3:30:31
+64,Hay,Shirley,Carnethy Hill Running Club,FV,3:30:35
+65,Boocock,Katey,Cosmics,F,3:31:47
+66,Littlewood,John,Carnethy Hill Running Club,MSV,3:32:58
+67,Ferguson,Peter,Inverness Harriers,MV,3:34:09
+68,McGregor,Neil,Shettleston Harriers,MSV,3:34:22
+69,Priest,Nigel,Annan & District AC,MV,3:35:26
+70,Cameron,Gordon,Carnethy Hill Running Club,MV,3:37:39
+71,Morris,Paul,Carnethy Hill Running Club,MV,3:38:04
+72,Walker,Robert,Penicuick Harriers,M,3:39:21
+73,Law,Lan,Calder Valley,MV,3:39:56
+74,Mowat,Raymond,Deeside Runners,MV,3:40:43
+75,Addiwell,Lan,Kosb,M,3:43:01
+76,McEwan,Murdo,U/a,MV,3:45:23
+77,Kirkwood,Gillian,Carnethy Hill Running Club,F,3:46:11
+78,Dalitz,Rod,Carnethy Hill Running Club,MSV,3:48:21
+79,Graham,Alan,Lomond Hill Runners,MV,3:50:03
+80,Daly,Ken,Carnethy Hill Running Club,M,3:50:06
+81,Stafford,Margaret,Cosmics,FV,3:55:27
+82,Barbour,Brian,Standard Life Athletic Club,M,3:55:33
+83,McManus,Ian,Irvine RC,MSV,3:59:01
+84,Watson,Nell,Cosmics,M,4:01:03
+85,Stone,Mike,Cosmics,M,4:01:04
+86,Browne,Mike,Penicuick Harriers,MSV,4:04:34
+87,Scott,David,Help,MV,4:10:54
+88,Hogg,Alan,Carnethy Hill Running Club,MV,4:11:01
+89,Dodd,Eric,Perth Strathtay Harriers,M,4:12:06
+90,Arnold,Dave,Helensburgh AAC,MV,4:13:27
+91,Clark,Gordon,Arbroath Footers,M,4:14:47
+92,Anderson,Joanne,Carnethy Hill Running Club,F,4:19:57
+93,Drocet,Paula,Carnethy Hill Running Club,FV,4:20:25
+94,Halliday,Peter,Help,MV,4:23:42
+95,Reid,Ian,Help,MV,4:24:04
+96,Corrie,Malcolm,Elo,MSV,4:51:22
+97,Wilkins,John,Arbroath Footers,MSV60,5:11:56

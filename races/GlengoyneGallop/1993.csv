@@ -1,0 +1,92 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Brooks,John,Lochaber Athletic Club,J,0:23:32
+2,Wilkinson,John,Gala Harriers,S,0:23:34
+3,Rigby,Mark,Westerlands Cross Country Club,S,0:24:15
+4,Veitch,Ian,Gala Harriers,M,0:24:32
+5,Hepburn,John,Dundee Hawkhill Harriers,S,0:24:51
+6,Bell,Denis,HELP,V,0:24:54
+7,Davis,Adrian,Fife AC,S,0:24:38
+8,Cameron,Steven,Lochaber Athletic Club,J,0:25:12
+9,Bennet,Sandy,Westerlands Cross Country Club,S,0:25:19
+10,Spenceley,Andy,Carnethy Hill Running Club,S,0:25:45
+11,James,Mark,Carnethy Hill Running Club,M,0:25:52
+12,Wallace,Iain,Hunters Bog Trotters,S,0:26:08
+13,Davenhill,Anesti,Solway,S,0:26:23
+14,Hughes,Phillip,Lochaber Athletic Club,M,0:26:26
+15,Wells,Steve,Westerlands Cross Country Club,S,0:26:34
+16,Ward,Adam,Edinburgh Athletic College,S,0:26:40
+17,Jeffrey,Paul,Lochaber Athletic Club,J,0:26:43
+18,Shaw,Charlie,Westerlands Cross Country Club,V,0:26:47
+19,Miller,J,Victoria Park Athletic Club,S,0:26:48
+20,Scott,Dave,Westerlands Cross Country Club,S,0:27:16
+21,Shields,James,Clydesdale Harriers,V,0:27:19
+22,Buchanan,P,Ochil Hill Runners,S,0:27:27
+23,Knox,Bill,Teviotdale Harriers,V,0:27:38
+24,McFarlane,R,Fife AC,J,0:27:38
+25,Diamantides,Helene,Westerlands Cross Country Club,S,0:27:42
+26,Murray,David R,Carnethy Hill Running Club,S,0:27:30
+27,McGraw,Ron,Ochil Hill Runners,S,0:27:32
+28,Gorman,Manuel,Westerlands Cross Country Club,S,0:28:00
+29,MacIntyre,R,Clydesdale Harriers,S,0:28:03
+30,Ross,Tom,Fife AC,V,0:28:12
+31,Diver,Michael,Clydesdale Harriers,M,0:28:18
+32,Williamson,Hugh,Carnethy Hill Running Club,S,0:28:33
+33,Redfern,B,Carnethy Hill Running Club,S,0:28:45
+34,Reid,George,Westerlands Cross Country Club,M,0:28:50
+35,Briggs,Stuart,Ochil Hill Runners,S,0:29:12
+36,Salvona,Joyce,Livingston and District Athletic Club,S,0:29:24
+37,McGuire,Alex,Fife AC,V,0:29:26
+38,Jackson,Colin,Ochil Hill Runners,S,0:29:26
+39,Adams,Keith,Westerlands Cross Country Club,V,0:29:29
+40,MacPherson,V,Fife AC,J,0:29:32
+41,Whitelaw,D,U/A,S,0:30:08
+42,Donnelly,John,Shettleston Harriers,M,0:30:12
+43,Reid,Don,Clydesdale Harriers,S,0:30:23
+44,McConnell,Joseph M,Irvine RC,S,0:30:26
+45,Murray,A,U/A,S,0:30:29
+46,Munro,M,Edinburgh Athletic College,J,0:30:48
+47,Ritchie,Tony,Westerlands Cross Country Club,V,0:31:22
+48,Chrystal,C,Lochaber Athletic Club,V,0:31:22
+49,McGillivray,Alan,Fife AC,V,0:31:33
+50,Menhennet,Christine,Clydesdale Harriers,S,0:31:35
+51,Jones,G,Leeds University Athletic Club,S,0:32:13
+52,Francis,D,Fife AC,V,0:32:22
+53,Greig,G,Fife AC,V,0:32:37
+54,Middlemiss,J,U/A,V,0:32:36
+55,Low,P,Fife AC,V,0:32:59
+56,Harper,J,Police - Strathclyde,V,0:33:05
+57,Abram,Stephen,Westerlands Cross Country Club,M,0:33:09
+58,Gatehouse,Richard,Lomond Hill Runners,V,0:33:20
+59,Turnbull,Drew,East Kilbride Athletic Club,M50,0:33:42
+60,Scott,Elspeth,Westerlands Cross Country Club,S,0:33:56
+61,Cameron,Archie,Westerlands Cross Country Club,V,0:34:25
+62,Fulton,R,U/A,S,0:34:40
+63,Jones,N,Glasgow University Hare & Hounds,S,0:35:10
+64,Bias,F,East Kilbride Athletic Club,V,0:35:12
+65,Bennet,Bill,Penicuick Harriers,V,0:35:34
+66,Struthers,Ian,Westerlands Cross Country Club,V,0:36:07
+67,Lorimer,J,U/A,S,0:36:14
+68,McKirdy,D,East Kilbride Athletic Club,V,0:36:45
+69,Benny,Graham,Westerlands Cross Country Club,V,0:37:09
+70,Osmond,Chris,U/A,V,0:37:20
+71,McCourt,Tom,Fire Brigade - Cheshire,S,0:37:26
+72,Blair,A,U/A,S,0:37:57
+73,Dick,George,U/A,V,0:38:22
+74,Spenceley,Hilary,Carnethy Hill Running Club,V,0:38:45
+75,Campbell,Rodger,Loudon Runners,S,0:38:49
+76,Robinson,P,U/A,S,0:39:01
+77,Morrison,D,Fire Brigade - Cheshire,V,0:39:15
+78,Stuart,M,U/A,S,0:41:44
+79,Edgan,A,U/A,V,0:43:03
+80,King,Sheila,Clydesdale Harriers,V,0:43:03
+81,McQueen,A,U/A,S,0:43:55
+82,Wokke,W,Glengoyne,S,0:43:55
+83,Bower,M,Clydesdale Harriers,S,0:44:22
+84,Robb,K,U/A,S,0:45:54
+85,Nicol,Robert,U/A,S,0:47:05
+86,Nicol,B,Irvine RC,V,0:47:05
+87,Symes,R,U/A,S,0:47:26
+88,Eegholm,C,Glengoyne,S,0:47:43
+89,Robb,L,U/A,S,0:50:08
+90,Harper,G,Police - Strathclyde,V,0:50:29
+91,Ackers,M,U/A,S,0:53:37

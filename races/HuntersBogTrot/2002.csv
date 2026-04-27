@@ -1,0 +1,87 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Brooks,John,Lochaber AC,MS,0:27:11
+2,Donnan,Ian,Lothian,MJ,0:27:43
+3,McDonald,Jamie,Central Region Athletic Club,MS,0:27:48
+4,Anthony,Alasadair,Edinburgh Uni H&H,MS,0:28:04
+5,Bee,Graham,Fife AC,MJ,0:28:20
+6,Davis,Phil,Borrowdale Fell Runners,MS,0:28:49
+7,Wellock,Ian,Edinburgh Uni H&H,MS,0:29:23
+8,McColl,Chris,Glenpark,MJ,0:29:33
+9,Blackie,Dave,City Of Edinburgh,MS,0:29:33
+10,Ottermoller,Lars,City Of Edinburgh,MS,0:30:10
+11,Fraser,Scott,Lothian,MJ,0:30:36
+12,MacKay,Chris,Glenpark,MJ,0:30:46
+13,McLoone,Stephen,Glenpark,MV,0:30:52
+14,Glencourse,Colin,Strath,MS,0:31:35
+15,Jarvis,James,Hunters Bog Trotters,MS,0:31:42
+16,Hart,Al,Hunters Bog Trotters,MS,0:31:44
+17,Farquharson,Colin,Hunters Bog Trotters,MV,0:31:55
+18,Scott,Tom,Fife AC,MV,0:32:00
+19,Wardlaw,Angus,City Of Edinburgh,MS,0:32:17
+20,Anderson,Lawrie,Fife AC,MV,0:32:46
+21,Scott,Dominic,Norham RC,MS,0:33:18
+22,Diver,Michael,Clydesdale Harriers,M,0:33:26
+23,Dixon,Nicholas,Standard Life Athletic Club,MS,0:33:30
+24,Kerr,Tony,Unnat,MS,0:33:30
+25,Watson,Robin,Ochil Hill Runners,MV,0:33:34
+26,Reid,Don,Westerlands CCC,MV,0:33:36
+27,McIntosh,Toni,Edinburgh Uni H&H,FS,0:33:36
+28,Wilson,Lynne,Carnethy Hill Running Club,FS,0:33:39
+29,Lamb,James,Fife AC,MJ,0:33:50
+30,Hall,Bruce,Standard Life Athletic Club,MS,0:34:06
+31,Wright,Graham,Hunters Bog Trotters,MJ,0:34:16
+32,Baker,Duncan,Hunters Bog Trotters,MV,0:34:17
+33,Burgess,Phil,Edinburgh Uni H&H,MS,0:34:28
+34,Burns,Keith,Carnethy Hill Running Club,MV,0:34:47
+35,Robb,Jim,Ez Carnegie,MS,0:34:54
+36,Ross,Tom,Fife AC,MV,0:34:57
+37,McKay,Neil,Edinburgh Uni H&H,MS,0:35:17
+38,Beech,John,Hunters Bog Trotters,MV,0:35:21
+39,Lang,James,Ez Carnegie,MS,0:35:34
+40,Cameron,James,Carnethy Hill Running Club,MV,0:35:39
+41,Aitken,David,Garscube Harriers,MV,0:35:56
+42,Howie,Brian,City Of Edinburgh,MV,0:36:05
+43,Payne,Mark,Unnat,MS,0:36:08
+44,McLachlan,Roy,Fife AC,MV,0:36:13
+45,McGregor,Jim,Moray Road Runners,MV,0:36:37
+46,Williamson,James,Edinburgh Uni H&H,MJ,0:36:42
+47,Armstrong,Ian,Ez Carnegie,MS,0:36:46
+48,Bell,Callum,Anster,MS,0:36:54
+49,Bowie,Tom,Carnegie Harriers,MV,0:37:23
+50,Baile,John,Carnethy Hill Running Club,MS,0:37:33
+51,Rees,Erin,Edinburgh Uni H&H,FS,0:37:41
+52,Cuthbert,Peter,Unnat,MS,0:37:47
+53,Knox,Isobel,Hunters Bog Trotters,FS,0:37:55
+54,Meiklejohn,Alan,Fife AC,MV,0:38:04
+55,McDonald,Debbie,Hunters Bog Trotters,FV,0:38:37
+56,Legge,Sarah,Ez Carnegie,FS,0:38:51
+57,Lambert,Jim,Unnat,MV,0:38:59
+58,Sinclair,Cathy,Fife AC,FV,0:39:08
+59,Campbell,Ian,Hunters Bog Trotters,MS,0:39:10
+60,Lieberman,Mike,Lothian,MV,0:39:24
+61,Wood,Angela,Carnethy Hill Running Club,FS,0:39:36
+62,Blake,Sarah,Hunters Bog Trotters,FS,0:39:53
+63,Orr,Graham,Westerlands CCC,MV,0:39:55
+64,Jeffrey,Michelle,Hunters Bog Trotters,FS,0:39:55
+65,Francis,Dave,Fife AC,MV,0:40:04
+66,Greer,Stephen,Ez Carnegie,MV,0:40:08
+67,Logan,Steve,Unnat,MS,0:40:17
+68,Wardlaw,Eilidh,Edinburgh Uni H&H,FJ,0:41:09
+69,Prudie,Douglas,City Of Edinburgh,MV,0:41:35
+70,Crane,Calvin,Lothian,MV,0:41:42
+71,West,Alison,Ez Carnegie,FV,0:41:58
+72,Woods,Jonathan,Westerlands CCC,MS,0:42:10
+73,Smith,Janice,Hunters Bog Trotters,FS,0:42:40
+74,Clover,Sarah,Edinburgh Uni H&H,FS,0:42:44
+75,McDonald,Eddie,Ferranti Athletic Club,MV,0:42:49
+76,Cation,Frank,Fife AC,MV,0:43:20
+77,Bee,David,Fife AC,MV,0:43:46
+78,MacReady,Graham,Hunters Bog Trotters,MV,0:43:48
+79,Talbot,Anna,Unnat,FV,0:43:51
+80,Gracie,Neil,Standard Life Athletic Club,MS,0:44:13
+81,McCrae,Lori,Penicuick Harriers,FS,0:45:09
+82,Pearson,Mike,Penicuick Harriers,MV,0:45:20
+83,Ingham,Cali,Carnethy Hill Running Club,MS,0:46:48
+84,Davidson,Sean,Penicuick Harriers,MS,0:48:42
+85,Robertson,Richard,Carnethy Hill Running Club,MV,0:55:24
+86,Webb,Daniel,Standard Life Athletic Club,MS,0:65:46

@@ -1,0 +1,138 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Rigby,Mark,Westerlands Cross Country Club,M,2:03:00
+2,Rodgers,David,Lochaber Athletic Club,M,2:09:00
+3,Ackland,Graeme,Livingston and District Athletic Club,M,2:09:00
+4,Weir,Dave,Perth Strathtay Harriers,M,2:12:00
+5,Wilkinson,John,Gala Harriers,M,2:13:00
+6,Hepburn,John,Dundee Hawkhill Harriers,M,2:14:00
+7,Bartlett,Graeme,Forres Harriers,M,2:14:00
+8,Crowe,Des,Shettleston Harriers,M,2:15:00
+9,Thin,Jamie,Carnethy Hill Running Club,M,2:16:00
+10,Ward,Adam,Edinburgh Athletic College,M,2:16:00
+11,Veitch,Lan,Gala Harriers,M,2:17:00
+12,Boswell,Roger,Lochaber Athletic Club,V,2:18:00
+13,V N Bell,Denis,Help,V,2:18:00
+14,Burns,Stephen,Lochaber Athletic Club,M,2:18:00
+15,Keith,Alex,Hunters Bog Trotters,M,2:19:00
+16,Blairfish,John,Carnethy Hill Running Club,V,2:20:00
+17,Wallace,Lain,Hunters Bog Trotters,M,2:20:00
+18,Jones,T,Eryri Harriers,M,2:23:00
+19,Gallagher,John,Ochil Hill Runners,M,2:23:00
+20,Hughes,Phillip,Lochaber Athletic Club,M,2:23:00
+21,Powell,Ifor,Wrekin Orienteers,M,2:23:00
+22,Kirkland,J,Dundee Hawkhill Harriers,M,2:24:00
+23,Davis,Adrian,Fife AC,M,2:24:00
+24,McGonigle,Dermot,U/A,M,2:25:00
+25,Forrest,Mark,Claremont Road Runners,M,2:25:00
+26,Hartill,Mark,Macclesfield Harriers,M,2:25:00
+27,Knox,Bill,Teviotdale Harriers,V,2:27:00
+28,Shaw,Charlie,Westerlands Cross Country Club,V,2:28:00
+29,Longmore,Richard,Solway,M,2:28:00
+30,McInroy,Ross,Clydesdale Harriers,V,2:29:00
+31,Baxter,Peter,Westerlands Cross Country Club,M,2:30:00
+32,Adams,Keith,Westerlands Cross Country Club,M40,2:30:00
+33,Buchanan,P,Ochil Hill Runners,M,2:30:00
+34,Channon,Mike,Claremont Road Runners,M,2:30:00
+35,Jones,S,Eryri Harriers,M,2:33:00
+36,Smith,J,Calder Valley Fell Runners,M,2:33:00
+37,Scott,Dave,Westerlands Cross Country Club,M,2:33:00
+38,Lawrie,Brian,Aberdeen Athletic Club,V,2:34:00
+39,Brown,Douglas,U/A,M,2:35:00
+40,Edridge,Brian,Clydesdale Harriers,V,2:35:00
+41,Burns,Keith,Carnethy Hill Running Club,SV,2:35:00
+42,McGraw,R,Ochil Hill Runners,M,2:36:00
+43,Spenceley,Andy,Carnethy Hill Running Club,M,2:36:00
+44,Simpson,Geoff,Perth Strathtay Harriers,M,2:37:00
+45,Diamantides,Helene,Westerlands Cross Country Club,F,2:37:00
+46,Schofield,Andrew,Borrowdale Fell Runners,M,2:38:00
+47,Ross,Tom,Fife AC,V,2:38:00
+48,Armour,Dick,Highland Hill Runners,SV,2:39:00
+54,Curtis,Andy,Claremont Road Runners,M,2:43:00
+55,Hyslop,Scott,Livingston and District Athletic Club,M,2:43:00
+56,Briggs,Steve,Ochil Hill Runners,M,2:44:00
+57,Hirst,Martin,Den Bydale Travellers,V,2:44:00
+58,Love,Charlie,Dundee Hawkhill Harriers,SV,2:44:00
+59,Young,Alan,Arbroath Footers,M,2:46:00
+60,Flynn,Martin,Edinburgh Southern Harriers,M,2:48:00
+61,Kelly,Frank,Ochil Hill Runners,M,2:48:00
+62,Hope,Lesley,Lochaber Athletic Club,F,2:49:00
+63,Salvona,Joyce,Livingston and District Athletic Club,F,2:50:00
+64,Powell,Ross,Eryri Harriers,M,2:50:00
+65,Wake,Adrian,Strathearn Harriers,M,2:51:00
+66,Mair,James,Carnethy Hill Running Club,V,2:51:00
+67,Gage,Andrew,Pennine Fell Runners,V,2:51:00
+68,Harvey,Eddie,Carnethy Hill Running Club,SV,2:51:00
+69,Dallinson,John,Claremont Road Runners,V,2:51:00
+70,Durnin,John,Dundee Hawkhill Harriers,M,2:52:00
+71,Chrystal,Lan,Lochaber Athletic Club,SV,2:52:00
+72,Millet,Jonathan,Victoria Park Athletic Club,M,2:53:00
+73,Miller,Simon,Ochil Hill Runners,M,2:53:00
+74,Scott,Elspeth,Westerlands Cross Country Club,F,2:53:00
+75,Tedcastle,S,Perth Road Runners,V,2:53:00
+76,Lardner,Ewan,Perth Road Runners,M,2:54:00
+77,MacKie,Aiastair,Carnethy Hill Running Club,V,2:54:00
+78,Reid,Don,Clydesdale Harriers,M,2:55:00
+79,Lewis,Jonathan,Ochil Hill Runners,M,2:55:00
+80,Henderson,David,Ainwick Harriers,M,2:56:00
+81,Davies,Owesyn,Tarren Hendre Fellrunners,M,2:56:00
+82,Griffiths,Neville,Northern Vets Athletic Club,V,2:56:00
+83,Miller,D,Irvine RC,V,2:57:00
+84,Bryanjones,Kirsty,Dark Peak Fell Runners,F,2:57:00
+85,Stephen,Jack,Ochil Hill Runners,V,2:57:00
+86,Kammer,Philip,Aberdeen Athletic Club,M,2:58:00
+87,Williamson,Hugh,Carnethy Hill Running Club,M,2:58:00
+88,Mitchell,R,Teviotdale Harriers,SV,2:58:00
+89,Linley,John,Northern Vets Athletic Club,V,2:58:00
+90,Clark,G,Arbroath Footers,SV,2:58:00
+91,Tavendale,Roger,Dundee Hawkhill Harriers,M,2:58:00
+92,Paterson,Archie,Calderglen Harriers,V,2:59:00
+93,MacLachlan,Malcolm,Carnethy Hill Running Club,V,2:59:00
+94,Forte,Philip,Dundee Hawkhill Harriers,M,3:00:00
+95,Leslie,P,Ochil Hill Runners,M,3:00:00
+96,Schreiber,Jo,Westerlands Cross Country Club,F,3:00:00
+97,Banks,John,Lochaber Athletic Club,V,3:00:00
+98,Brooks,Peter,Lochaber Athletic Club,V,3:01:00
+99,Sloan,Bill,Claremont Road Runners,M,3:01:00
+100,Meguire,Alex,Fife AC,V,3:02:00
+101,Munro,A,Ochil Hill Runners,M,3:03:00
+102,Henderson,Bill,Henderson,V,3:04:00
+103,Pritchard,Colin,Carnethy Hill Running Club,SV,3:04:00
+104,McGillivray,Alan,Fife AC,CV,3:04:00
+105,Harris,Nick,Northern Vets Athletic Club,V,3:05:00
+106,P Marsh,John,Teviotdale Harriers,V,3:07:00
+107,Low,P,Fife AC,V,3:08:00
+108,Angus,George,Dundee Hawkhill Harriers,SV,3:10:00
+109,Irvine,Gill,Highland Hill Runners,F,3:11:00
+110,Boal,John,Victoria Park Athletic Club,V,3:11:00
+111,Benham,Frank,Arbroath Footers,SV,3:11:00
+112,McOrogan,Bill,Valley Striders,V,3:16:00
+113,Rankcation Rankcation,F,Fife AC,V,3:17:00
+114,Cromar,Steve,Cromar,SV,3:18:00
+115,Pringle,Bill,Teviotdale Harriers,SV,3:18:00
+116,Morgan,O,Dundee Hawkhill Harriers,SV,3:19:00
+117,Scads,Hilary,Lochaber Athletic Club,F,3:19:00
+118,Cummins,J,Fife AC,SV,3:21:00
+119,Kassik,Mark,Livingston and District Athletic Club,M,3:22:00
+120,Long More,Linda,Solway,F,3:22:00
+121,Downie,C,Lothian Borders Police Athletic Club,M,3:22:00
+122,Gowrie,E,Carnethy Hill Running Club,M,3:27:00
+123,Dowell,Flnlay,Irvine RC,M,3:27:00
+124,Getehouse,Richard,Lomond Hill Runners,V,3:27:00
+125,Saul,Jane,Claremont Road Runners,F,3:27:00
+126,McGill,David,Cambuslang Harriers,SV,3:28:00
+127,Nixon,K,Black Combe Runners,CV,3:30:00
+128,Leslie,Judith,Eryn,F,3:33:00
+129,M Lloyd,Sheila,Eryri Harriers,-,3:36:00
+130,Clark,I,Arbroath Footers,-,3:36:00
+131,Ellison,Ian,Stewartry Athletic Club,M,3:39:00
+132,McLaughlin,Patricia,Westerlands Cross Country Club,F,3:41:00
+133,Neil,Edward,U/A,M,3:42:00
+134,Spenceley,Hilary,Carnethy Hill Running Club,F,3:42:00
+135,Robertson,James,Milburn Harriers,CV,3:46:00
+136,Melaragni,Dade,Harlequins Athletic Club,M,3:46:00
+137,Taylor,Sue,Garioch Road Runners,F,3:46:00
+138,Benny,Graham,Westerlands Cross Country Club,V,3:53:00
+139,Leiper,Douglas,Aberdeen Athletic Club,M,4:00:00
+140,Woodman,Marie,Carnethy Hill Running Club,F,4:06:00
+141,S Sneddon,Matthew,Carnethy Hill Running Club,M,4:06:00
+142,King,Shelagh,Clydesdale Harriers,F,4:29:00

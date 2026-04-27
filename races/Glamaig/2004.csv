@@ -1,0 +1,87 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Marshall,Brian,HELP,0.49.08,S
+2,Lenton,Tim,Lothian,0.49.34,S
+3,Keith,Alec,Hunters Bog Trotters,0.52.27,V
+4,Smith,Alan,Deeside Runners,0.52.43,V
+5,Lorimer,Haydn,Hunters Bog Trotters,0.57.11,SV
+6,O'Donnghaile,Alasdair,Skye Lochalsh (local),0.58.43,J17
+7,Limbu,Kumar,Nepal AAC,0.58.49,S
+8,Munro,David,Lochaber AC,0.59.11,V
+9,Scott,Alastair,U/A (local),0.59.37,SV
+10,Simpson,Stuart,Uochil HR,0.59.55,S
+11,Delaney,Kevin,Skye Lochalsh (local),1.00.46,V
+12,Fudge,Steven,Lochaber AC,1.02.24,S
+13,Maitland,John,Lochaber AC,1.02.30,V
+14,Mclean,Paul,Lochaber AC,1.04.43,S
+15,Lancaster,Nick,Skye Lochalsh (local),1.04.53,SV
+16,Bearhop,Derek,Carnethy Hill Running Club,1.05.16,V
+17,Rogers,David,Westerlands CCC,1.06.26,V
+18,Brett,Alex,Highland Hill Runners,1.07.36,SV
+19,Mccallum,Tom,Lochaber AC,1.08.24,S
+20,Cope,Alan,U/A (local),1.08.57,S
+21,Edge,Glen,Skye Lochalsh (local),1.09.38,V
+22,Butterworth,Nick,U/A,1.09.45,V
+23,Holding,Robert,Portree U/A,1.10.35,V
+24,Smith,Donald,Westerlands CCC,1.10.40,SV
+25,Mckiggan,Graeme,BB's Fitness Centre (local),1.11.27,S
+26,Shepherd,Andrew,Carnethy Hill Running Club,1.11.27,V
+27,Macnab,Graham,Lochaber AC,1.11.49,V
+28,Wilson,Alan,Skye Lochalsh (local),1.12.36,V
+29,Murray,Helen,Lothian,1.12.45,LV
+30,Bowie,Tom,EZ Carnegie,1.12.59,SV
+31,Stewart,Jim,Lochaber AC,1.14.05,SV
+32,Wall,Dick,Hunters Bog Trotters,1.15.29,V
+33,Bevins,Martin,Wisley Gdns,1.15.46,S
+34,Miller,Alice,Cosmics,1.17.35,LS
+35,Webb,Roger,U/A,1.17.58,V
+36,Noble,Lois,Cosmics,1.18.04,LV
+37,Mcsween,Alastair,Skye Lochalsh (local),1.18.25,V
+38,Nicolson,Ali,Braes,1.18.32,S
+39,Macdonald,Hamish,Aberdeen AAC,1.18.41,V
+40,Hetherton,Michael,Nestle Acorn York,1.19.33,SV
+41,Maciver,John,U/A (local),1.20.39,V
+42,Jolly,John,Portree Fire Stn (local),1.21.39,S
+43,Lorenz,Michael,U/A,1.21.40,S
+44,Larmer,Colin,Cosmics,1.22.00,S
+45,Coghill,John,Mental Health Ass,1.22.40,J19
+46,Hanly,Tony,Mental Health Ass,1.23.36,V
+47,Clark,Andrew,Kyle of Lochalsh,1.24.05,S
+48,Riddell,Duncan,Skye Lochalsh (local),1.24.25,SV
+49,Macdonald,Nicky,Lochaber AC,1.24.42,LS
+50,Jack,Mike,Wisley Gdns,1.24.57,S
+51,Srewart,Elaine,Cosmics,1.25.03,LV
+52,Finlay,Graham,U/A (local),1.25.04,S
+53,Beveridge,Michael,U/A,1.25.23,S
+54,Logan,Bill,U/A (local),1.25.29,V
+55,Gatehouse,Richard,Lomond Hill Runners,1.25.36,SV
+56,Hope,Ben,Wisley Gdns,1.25.59,S
+57,Gow,Elizabeth,Lochaber AC,1.26.27,LS
+58,Benson,Martin,Broadford (local),1.26.39,V
+59,Hide,David,Wisley Gdns,1.28.59,S
+60,Donnelly,Wendy,Skye Lochalsh,1.29.18,LS
+61,Sneddon,Matthew,Carnethy Hill Running Club,1.29.27,V
+62,Dodd,Eric,Mainland Meals,1.30.01,V
+63,Hesford,Neil,U/A,1.30.01,S
+64,Kirkwood,Jamie,U/A (local),1.30.32,S
+65,Lorimer,Alistair,Hunters Bog Trotters,1.34.59,SV
+66,Maclennan,Lynn,Lochaber AC,1.35.28,LS
+67,Berry,Graham,Westerlands CCC,1.35.45,SV
+68,Simmons,Robert,Mental Health Ass,1.35.52,S
+69,Spaney,Owen,Wisley Gdns,1.36.20,S
+70,Mclean,Neil,Skye Lochalsh,1.36.43,V
+71,Harris,Daniel,U/A (local),1.39.14,V
+72,Wilson,Alan,Skye Lochalsh (local),1.41.27,V
+73,Whitehead,Joe,Wisley Gdns,1.41.46,S
+74,Marlow,Steve,U/A,1.42.35,V
+75,Sepic,Meta,Wisley Gdns,1.43.06,LS
+76,Binning,Graeme,Edinbane,1.44.04,S
+77,O'Donnghaile,Peter,U/A (local),1.46.04,V
+78,Hayward,Paul,U/A (local),1.48.28,V
+79,Birrell,Paco,Mental Health Ass,1.55.23,S
+80,Mckay,John,Portree (local),1.59.29,S
+81,Kirkpatrick,Fiona,BB's Fitness Centre (local),2.03.00,LS
+82,Macnab,Donald,Skye Lochalsh,2.03.03,SV
+83,Jagger,Lesley,Portree (local),2.03.08,LS
+84,H Ross,Iain,Inverness Harriers,2.19.49,V
+85,Hearn,David,Skye Pensioners,2.22.10,SV
+86,Sinclair,Lindsey,U/A,3.03.35,LV

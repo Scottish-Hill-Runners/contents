@@ -1,0 +1,52 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Smith,Alan,Deeside Runners,MV40,0:58:10
+2,Cummins,Dave,Shetelston Harriers,M,0:59:26
+3,Smith,Bruce,Standard Life,MV40,1:00:09
+4,Maclean,Paul,Lochaber AC,M,1:00:44
+5,Macrae,John,Lochaber AC,MV40,1:02:12
+6,Arnott,Neil,Lochaber AC,M,1:02:26
+7,Williamson,Jason,Cosmics,M,1:02:30
+8,Bennet,Sandy,Carnegie Harriers,MV40,1:02:40
+9,Paterson,Donald,Lochaber AC,M,1:03:00
+10,Macbeath,Niall,Lochaber AC,M,1:05:08
+11,R Maitland,John,Lochaber AC,MV40,1:05:40
+12,Rumgay,Ken,Lochaber AC,MV40,1:08:12
+13,Forster,Damien,Lochaber AC,M,1:08:33
+14,Boa,William,UA,M,1:09:09
+15,Steffen,Gorgas,Westerlands CCC,M,1:09:27
+16,Murray,Alasdair,Kilmarnock Harriers,M,1:09:35
+17,Craig,Andrew,Lochaber AC,M,1:10:41
+18,Legge,Sarah,Carnegie Harriers,F,1:13:31
+19,Verbiest,Dirk,Keith & District AAC,MV40,1:13:53
+20,Bowie,Tom,Carnegie Harriers,MV50,1:14:39
+21,Cant,Stephen,Lochaber AC,M,1:14:55
+22,Ford,Dave,Lochaber AC,MV50,1:18:15
+23,Irvine,Raymond,UA,M,1:18:52
+24,Sheill,Dougie,Carnethy Hill Running Club,MV40,1:19:29
+25,Finnimore,Andrew,Lochaber AC,MV50,1:21:15
+26,Jardine,Jimmy,Lochaber AC,MV60,1:21:16
+27,Orr,Ernie,Lochaber AC,MV60,1:21:22
+28,Ross,Colin,Lochaber AC,M,1:22:19
+29,Thornley,Gavin,Carnethy Hill Running Club,M,1:22:50
+30,Walker,David,Lochaber AC,MV50,1:22:59
+31,Pearce,Emma,Lochaber AC,FV40,1:23:14
+32,Forster,Nix,Lochaber AC,F,1:26:01
+33,Macdonald,Nicky,Lochaber AC,F,1:26:35
+34,Stapley,Tony,Portobello,MV60,1:27:11
+35,Cassidy,Caroline,Lochaber AC,F,1:28:57
+36,Macewan,Linda,Lochaber AC,F,1:29:00
+37,Ness,Jo,Lochaber AC,FV40,1:29:20
+38,Galbraith,Andrew,Lochaber AC,M,1:35:24
+39,Shaw,Lyndsey,Lochaber AC,F,1:35:31
+40,Hoole,Keith,Lochaber AC,MV50,1:36:20
+41,Treasurer,Claire,Lochaber AC,F,1:36:32
+42,Macintosh,Willie,Nithsdale AC,MV50,1:37:47
+43,Aitken,Morag,Lochaber AC,FV40,1:42:12
+44,Macdonald,Samantha,Lochaber AC,F,1:42:59
+45,Macdiarmid,Arlene,Lochaber AC,F,1:45:52
+46,Duncan,Aileen,Lochaber AC,F,1:48:12
+47,Higginson,James,Lochaber AC,M,1:49:27
+48,Waugh,Ross,Lochaber AC,M,1:56:51
+49,Waugh,Melanie,Lochaber AC,FV40,1:56:51
+50,Fullarton,Iain,UA,MV50,2:03:27
+51,Morrison,Ellen,Lochaber AC,F,2:06:52

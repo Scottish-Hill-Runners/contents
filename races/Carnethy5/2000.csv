@@ -1,0 +1,445 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Duncan,John,Cosmics,,0:48:53
+2,Milligan,Alan,Fife AC,,0:49:40
+3,Rigby,Mark,Ambleside,,0:49:41
+4,Bland,Gavin,Borrowdale Fell Runners,,0:50:08
+5,Schofield,Andrew,Borrowdale Fell Runners,,0:50:15
+6,Davies,Jim,Borrowdale Fell Runners,M,0:50:22
+7,Davies,A,Borrowdale Fell Runners,,0:50:35
+8,Whitehead,Dan,Cosmics,,0:51:09
+9,McQueen,James,Eryri Harriers,,0:51:27
+10,Stainer,Simon,Ambleside,,0:51:32
+11,Oldfield,Steve,Bradford Airedale,V,0:51:37
+12,Bracegirdle,Thomas,Cosmics,,0:51:43
+13,Lenton,Tim,Livingston,,0:52:06
+14,Kitchin,Andy,Livingston,,0:52:35
+15,Lee,Rob,Livingston,,0:52:43
+16,Lorimer,H,Hunters Bog Trotters,,0:52:50
+17,Ward,Adam,Carnethy Hill Running Club,,0:52:52
+18,Gallagher,Ronnie,Westerlands CCC,V,0:53:14
+19,Davenhill,Anesti,Shettleston Harriers,,0:54:06
+20,Barbour,Greg,Cosmics,,0:54:28
+21,Walder,Patrick,Kilbarchan Athletic Club,,0:54:56
+22,Stevenson,John,Ochil Hill Runners,,0:55:01
+23,Heath,Peter,Shettleston Harriers,,0:55:06
+24,Mudge,Angela,Carnethy Hill Running Club,F,0:55:09
+25,Whitlie,Stewart,Carnethy Hill Running Club,,0:55:27
+26,Higginbottom,Mark,Carnethy Hill Running Club,,0:55:30
+27,Cummins,Dave,Shettleston Harriers,,0:55:54
+28,Meek,Jim,Fife AC,,0:55:57
+29,Hicks,Stephen,Borrowdale Fell Runners,V,0:56:08
+30,Diamantides,Helene,Carnethy Hill Running Club,F,0:56:14
+31,Brand,Tim,Livingston,,0:56:23
+32,Procter,Billy,Kendal Athletic Club,V,0:56:41
+33,Seeley,Jonny,Fife AC,J,0:56:45
+34,MacKay,Euan,Ochil Hill Runners,V,0:56:49
+35,Thin,Jamie,Carnethy Hill Running Club,,0:56:54
+36,Laing,Martin,Fife AC,V,0:56:55
+37,Flynn,Douglas,U/A,,0:56:58
+38,Wright,Nigel,Livingston,,0:57:06
+39,Law,William,Aberdeen AAC,,0:57:28
+40,Bennet,Sandy,Kinross Road Runners,,0:57:50
+41,Spenceley,A,Carnethy Hill Running Club,V,0:58:12
+42,Forrest,Mark,Frontrunners,,0:58:17
+43,Armstrong,David,Northumberland FR,,0:58:33
+44,Emeleus,John,Shettleston Harriers,,0:58:40
+45,MacInnes,Gary,Carnethy Hill Running Club,,0:58:44
+46,Russell,Chris,Fife AC,,0:58:49
+47,Simmons,David,Livingston,,0:58:49
+48,Hood,Keith,Corstorphine Athletic Club,,0:58:51
+49,Dymoke,Peter,Livingston,,0:58:54
+50,Campbell,Ruairidh,Arbroath Footers,,0:59:00
+51,Andrews,Stephen,U/A,,0:59:13
+52,Campbell,Scott,George Heriots Cross Country,J,0:59:15
+53,Prescott,Sean,U/A,,0:59:17
+54,Knox,Jim,Teviotdale Harriers,SV,0:59:18
+55,Busuttil,Walter,Corstorphine Athletic Club,,0:59:19
+56,Tompsett,Gary,U/A,,0:59:23
+57,Paterson,D,Lochaber AC,,0:59:30
+58,Smith,Alan,Deeside Runners,,0:59:31
+59,Clavey,Paul,U/A,,0:59:33
+60,Wardlaw,Angus,Carnethy Hill Running Club,J,0:59:39
+61,Smart,John,U/A,,0:59:41
+62,Crossland,Richard,Bradford Airedale,V,0:59:44
+63,Wilby,Raymond,Highland Hill Runners,SV,0:59:45
+64,Fish,John,Carnethy Hill Running Club,V,0:59:45
+65,Anderson,Adam,Solway Athletic Club,,0:59:47
+66,Balfour,Scott,Livingston,SV,0:59:56
+67,Durn,Chris,Standard Life Athletic Club,,0:59:58
+68,Brown,Douglas,Solway Athletic Club,V,0:60:05
+69,McLean,D,Lomond Hill Runners,,0:60:09
+70,Bonnyman,Brian,Westerlands CCC,,0:60:25
+71,Paton,N,Carnethy Hill Running Club,V,0:60:39
+72,Miller,Clare,Cosmics,F,0:60:41
+73,Hunter,A,Carnegie Harriers,,0:61:13
+74,Duguid,F,Deeside Runners,V,0:61:15
+75,Donnelly,John,Shettleston Harriers,M,0:61:22
+76,Boswell,Roger,U/A,V,0:61:31
+77,Warren,Rupert,Carnethy Hill Running Club,,0:61:33
+78,White,David,U/A,,0:61:34
+79,Alves,William,Totley Athletic Club,V,0:61:37
+80,Owens,Garry,Northumberland FR,V,0:61:38
+81,Powell,K,Carnethy Hill Running Club,F,0:61:41
+82,Smith,Bruce,Standard Life Athletic Club,,0:61:46
+83,Broxap,Jonathan,Kendal Athletic Club,V,0:61:50
+84,Rogers,David,Westerlands CCC,M,0:61:52
+85,Pryce,Carl,Cosmics,M40,0:61:56
+86,Harley,T,Help,V,0:61:59
+87,Dawson,Roy,Northumberland FR,SV,0:62:01
+88,Law,David,Corstorphine Athletic Club,,0:62:05
+89,Waldie,Brian,Carnethy Hill Running Club,SV+,0:62:12
+90,Teahan,Bill,Cosmics,,0:62:13
+91,Brown,Craig,Ochil Hill Runners,,0:62:23
+92,Davies,Jim,Borrowdale Fell Runners,M,0:62:25
+93,Sheridan,Bob,Cosmics,,0:62:26
+94,Hope,R,Help,,0:62:27
+95,Rae,Jennifer,Ambleside,F,0:62:32
+96,Patience,Andrew,Carnethy Hill Running Club,,0:62:32
+97,Newman,Karen,City Of Edinburgh,F,0:62:50
+98,Allsop,David,Penicuick Harriers,,0:63:16
+99,Hunter,Angus,Dundee Road Runners,V,0:63:17
+100,Ross,Tom,Fife AC,SV,0:63:18
+101,Pryde,Gordon,Lomond Hill Runners,M40,0:63:24
+102,Mykura,William,Carnethy Hill Running Club,V,0:63:34
+103,Duke,Tom,U/A,,0:63:45
+104,Templeman,Simon,Ochil Hill Runners,,0:63:47
+105,McLaughlin,John,Springburn Harriers,,0:63:49
+106,Cant,Stephen,Penicuick Harriers,,0:63:53
+107,Gibson,Willie,Carnethy Hill Running Club,V,0:63:58
+108,Connor,Stephen,Forfar Road Runners,,0:64:01
+109,Nutter,Mark,Clayton Le Moors,,0:64:08
+110,MacLeod,Murdo,Westerlands CCC,V,0:64:09
+111,Robinson,Gordon,Westerlands CCC,SV,0:64:17
+112,Gebbie,John,Johnnie Walker Kilmarnock Harriers,SV,0:64:18
+113,Milligan,Douglas,Solway Athletic Club,SV,0:64:23
+114,Thompson,Gordon,Preston Harriers,,0:64:24
+115,Stout,Russell,Carnethy Hill Running Club,,0:64:25
+116,Buchanan,P,Ochil Hill Runners,V,0:64:27
+117,Bartlett,Pat,Interlopers Orienteering Club,,0:64:31
+118,McGarry,Douglas,M Carnegie Harriers,,0:64:36
+119,Irving,Roger,Annan Athletic Club,,0:64:37
+120,Love,Charles,Dundee Hawkhill,SV,0:64:38
+121,Nally,Michael,U/A,,0:64:44
+122,Murray,Robin,Gala Harriers,V,0:64:53
+123,Curtis,Andy,Northumberland FR,V,0:65:08
+124,Runciman,George,Gala Harriers,V,0:65:11
+125,Weaving,Paul,Cumberland Fell Runners,,0:65:13
+126,Barrie,Stewart,Dundee Hawkhill,,0:65:14
+127,Anderson,Laurie,Fife AC,V,0:65:17
+128,Brannan,Tosh,Livingston,V,0:65:17
+129,Jenkins,Kate,Carnethy Hill Running Club,F,0:65:19
+130,Hall,Bruce,Standard Life Athletic Club,,0:65:26
+131,Caldwell,Martin,Corstorphine Athletic Club,V,0:65:31
+132,Cunningham,Richard,U/A,,0:65:34
+133,Coles,Rob,Tayside Athletic Club,V,0:65:39
+134,Goldsworthy,John,Galloway Harriers,V,0:65:42
+135,Holden,Joe,Fife AC,SV,0:65:43
+136,Hepburn,Ian,Corstorphine Athletic Club,,0:65:44
+137,Laycock,Andy,City Of Edinburgh,,0:65:50
+138,Tullie,John,Teviotdale Harriers,V,0:65:53
+139,Edridge,Brian,Westerlands CCC,SV,0:65:54
+140,Conway,Steve,Livingston,,0:65:57
+141,Knowles,Stuart,Fife AC,V,0:65:58
+142,McCarthy,Ewan,U/A,,0:66:01
+143,Ryall,Mark,U/A,,0:66:01
+144,Davis,Duncan,Edinburgh Triathletes,,0:66:02
+145,Davis,G,Northumberland FR,V,0:66:19
+146,McAlinden,Vincent,Barf,,0:66:28
+147,Bryan-jones,Kirsty,Dark Peak,F,0:66:35
+148,Cairns,D,Penicuick Harriers,SV,0:66:37
+149,Muresan,Gheorghe,Cosmics,,0:66:38
+150,Lean,Hamish,Ochil Hill Runners,,0:66:55
+151,Walker,Robert,Penicuick Harriers,,0:67:01
+152,Burt,Louise,Fife AC,F,0:67:08
+153,Brown,Owen,Annan Athletic Club,,0:67:10
+154,Oliphant,Crawford,Pudsey & Bramley,,0:67:22
+155,Morris,Robin,Carnethy Hill Running Club,M50,0:67:23
+156,Rowley,James,Law District Athletic Club,SV,0:67:32
+157,Beech,John,Carnethy Hill Running Club,V,0:67:40
+158,Forte,P,Dundee Hawkhill,V,0:67:48
+159,Scott,Dawn,Lochaber AC,F,0:67:55
+160,Neill,Timothy,U/A,,0:68:02
+161,Barker,G,Fife AC,V,0:68:03
+162,Lang,James,M Carnegie Harriers,V,0:68:08
+163,Bennett,Kevin,U/A,,0:68:08
+164,Creber,Maggie,Carnethy Hill Running Club,F,0:68:08
+165,Owen,D,Ambleside,V,0:68:09
+166,Graham,A,Lomond Hill Runners,V,0:68:10
+167,Shaw,R,Anster Haddies,V,0:68:13
+168,Green,Bob,Solway Athletic Club,V,0:68:20
+169,Collins,Trevor,Carnethy Hill Running Club,V,0:68:25
+170,O'brien,Paul,Corstorphine Athletic Club,V,0:68:41
+171,Bate,Ben,Carnethy Hill Running Club,SV,0:68:48
+172,Gutteridge,Gary,Cosmics,V,0:68:52
+173,Pennington,Toby,U/A,,0:69:02
+174,Geany,Peter,U/A,V,0:69:06
+175,Humble,John,Northumberland FR,V,0:69:20
+176,Richardson,D,Helm Hill Runners,V,0:69:29
+177,Firth,Andrew,Clayton Le Moors,V,0:69:35
+178,Hall,J,U/A,,0:69:39
+179,Marsh,J,Teviotdale Harriers,V,0:69:44
+180,Brett,Alex,Highland Hill Runners,V,0:69:47
+181,Hamond,Fred,Barf,V,0:70:00
+182,McCrae,R,Penicuick Harriers,,0:70:08
+183,McEwan,Murdo,Carnethy Hill Running Club,V,0:70:11
+184,Priestley,Nigel,Annan Athletic Club,V,0:70:17
+185,Scott,Peter,Northumberland FR,V,0:70:17
+186,Howie,Brian,City Of Edinburgh,V,0:70:19
+187,Baxter,Peter,Westerlands CCC,V,0:70:28
+188,Amour,Dick,Highland Hill Runners,SV+,0:70:48
+189,Rankin,Alan,Carnethy Hill Running Club,V,0:70:48
+190,Turnbull,Les,Carnethy Hill Running Club,V,0:70:53
+191,Pritchard,Colin,Carnethy Hill Running Club,V,0:70:56
+192,Beavitt,Nicky,U/A,,0:70:58
+193,Linden,Marietta,City Of Edinburgh,F,0:71:04
+194,Forster,Nicola,Lochaber AC,F,0:71:21
+195,Finbow,Malcolm,Shettleston Harriers,V,0:71:23
+196,Forrest,Anna,Carnethy Hill Running Club,F,0:71:27
+197,Waugh,Ian,U/A,,0:71:46
+198,Evans,Ben,Ambleside,,0:71:49
+199,Murray,A,Johnnie Walker Kilmarnock Harriers,,0:71:55
+200,Powell,A,Carnethy Hill Running Club,F,0:71:57
+201,Magill,Stewart,U/A,,0:71:57
+202,MacGillivray,Andrew,Lochaber AC,,0:72:01
+203,MacKin,Andrew,Galloway Harriers,V,0:72:03
+204,Dalitz,Rod,Carnethy Hill Running Club,SV,0:72:03
+205,Ballantyne,A,Johnnie Walker Kilmarnock Harriers,,0:72:04
+206,Miller,D,Irvine RC,SV,0:72:05
+207,Tunstall,Martyn,Corstorphine Athletic Club,,0:72:06
+208,Smith,Calum,George Heriots Cross Country,J,0:72:08
+209,Broadley,Drew,Lochaber AC,V,0:72:10
+210,Smith,Gordon,Lochaber AC,SV,0:72:12
+211,McMurray,Ian,Barf,V,0:72:16
+212,Harvey,Eddie,Carnethy Hill Running Club,SV,0:72:20
+213,Schleijpen,Paul,Norham RC,V,0:72:24
+214,Collins,Richard,Highland Hill Runners,SV,0:72:26
+215,Stevenson,J,Carnethy Hill Running Club,F,0:72:27
+216,Stevenson,B,Carnethy Hill Running Club,SV,0:72:28
+217,Garnett,Roger,U/A,V,0:72:33
+218,MacEwen,Alex,City Of Edinburgh,V,0:72:34
+219,Pugh,R,Johnnie Walker Kilmarnock Harriers,V,0:72:38
+220,Watson,Willie,Cosmics,SV,0:72:39
+221,Haynes,Ray,Northumberland FR,SV+,0:72:39
+222,Meiklejohn,Alan,Fife AC,SV,0:72:40
+223,Barker,A,Fife AC,SV,0:72:55
+224,Knox,I,Hunters Bog Trotters,F,0:72:55
+225,Donnelly,Shileen,Barf,F,0:72:57
+226,Brown,Richard,Carnethy Hill Running Club,V,0:72:58
+227,Millen,Blair,U/A,M,0:73:07
+228,MacCaulay,Allan,M Carnegie Harriers,V,0:73:13
+229,Ruby,Laurent,U/A,,0:73:28
+230,McNaught,Andrew,Girvan Harriers,,0:73:28
+231,Strachan,Paul,Westerlands CCC,V,0:73:28
+232,Cation,Frank,Fife AC,SV,0:73:29
+233,Walker,Norman,Ambleside,V,0:73:42
+234,Saddler,David,U/A,,0:73:45
+235,Hofmann,Kate,Livingston,F,0:73:50
+236,Hawkins,Liz,U/A,F,0:73:51
+237,Attwood,David,Mid Argyll Athletic Club,,0:74:00
+238,Boocock,Katy,Cosmics,F,0:74:04
+239,McGinley,Hugh,Lomond Hill Runners,V,0:74:07
+240,Cameron,Gordon,Carnethy Hill Running Club,V,0:74:08
+241,Powell,Ross,Eryri Harriers,V,0:74:18
+242,O'kane,Donal,Barf,,0:74:29
+243,Tavendale,Roger,Dundee Hawkhill,V,0:74:30
+244,Anderson,Dorothy,U/A,,0:74:34
+245,Leslie,Howard,Wee County Harriers,,0:74:35
+246,Kerr,Colin,Standard Life Athletic Club,V,0:74:38
+247,Wood,Angela,Carnethy Hill Running Club,F,0:74:41
+248,Diver,Michael,Clydesdale Harriers,M,0:74:44
+249,Shuttleworth,Dylan,U/A,,0:74:49
+250,Reed,Peter,Northumberland FR,V,0:74:50
+251,Lavery,Colin,U/A,SV,0:74:51
+252,Wright,Jim,U/A,,0:74:52
+253,Hogg,Alan,Carnethy Hill Running Club,V,0:74:53
+254,McIntosh,Mairi,Ochil Hill Runners,F,0:75:03
+255,Francis,D,Fife AC,SV,0:75:07
+256,Marshall,R,U/A,V,0:75:12
+257,Howie,Laura,Gala Harriers,F,0:75:14
+258,Hughes,Bob,Ochil Hill Runners,V,0:75:24
+259,Duff,B,M Carnegie Harriers,SV,0:75:33
+260,Hunter,Bill,Police - L,V,75:??
+261,Hunter,Pete,Hunters Bog Trotters,V,0:75:38
+262,Reid,Hamish,U/A,,0:75:44
+263,Brooks,Michael,U/A,,0:75:51
+264,MacDonald,D,Hunters Bog Trotters,FV,0:75:53
+265,Ballantyne,S,Johnnie Walker Kilmarnock Harriers,F,0:75:59
+266,Buchanan,Jim,Annan Athletic Club,SV+,0:76:09
+267,O'hara,John,Corstorphine Athletic Club,,0:76:10
+268,Stein,Uwe,U/A,,0:76:21
+269,Eunson,Paul,Portobello,V,0:76:25
+270,McCaskey,Walter,City Of Edinburgh,SV+,0:76:33
+271,Hay,Shirley,Carnethy Hill Running Club,FV+,0:76:39
+272,Oakland,Grahame,U/A,,0:76:42
+273,Doyle,Tim,Fairlands Valley Spartans,,0:76:44
+274,Nimmo,Anne,Carnethy Hill Running Club,FV,0:76:49
+275,Downie,C,Police - L & B,,0:76:56
+276,McWhinnie,Jim,Carnethy Hill Running Club,V,0:76:59
+277,Baird,James,U/A,,0:77:07
+278,Milmoe,Michael,Forres Harriers,V,0:77:13
+279,Cockburn,Doug,Northumberland FR,SV,0:77:27
+280,Johnstone,Derek,Cosmics,,0:77:29
+281,Mowbray,Ian,Concordia,SV,0:77:31
+282,Byrne,Sara,Lochaber AC,F,0:77:32
+283,Coon,John,Livingston,V,0:77:33
+284,Weir,Fiona,Livingston,F,0:77:55
+285,Gledhill,Sarah,U/A,F,0:77:57
+286,Gatehouse,Richard,Lomond Hill Runners,V,0:77:58
+287,Adam,Don,Fife AC,SV,0:78:09
+288,Pearson,Mike,Carnethy Hill Running Club,SV,0:78:11
+289,Hunter,Charles,Pitreavie Athletic Club,SV+,0:78:14
+290,Lee,Thomas,Standard Life Athletic Club,,0:78:15
+291,Slyth,Stanley,Help,SV,0:78:18
+292,Coltman,Alan,Teviotdale Harriers,,0:78:22
+293,Ferguson,Peter,Inverness Harriers,V,0:78:29
+294,Armstrong,George,Help,SV+,0:78:37
+295,Mallett,P,Lomond Hill Runners,,0:78:46
+296,Spenceley,H,Carnethy Hill Running Club,FV,0:78:49
+297,Orr,Graeme,Westerlands CCC,SV,0:78:56
+298,Noble,Lois,Cosmics,F,0:79:01
+299,Tomlin,James,Morpeth Harriers,SV,0:79:02
+300,Rose,Nigel,Carnethy Hill Running Club,SV,0:79:15
+301,Flynn,Alisdair,U/A,,0:79:15
+302,McManus,Ian,Irvine RC,SV,0:79:15
+303,Saul,Jane,Northumberland FR,F,0:79:17
+304,Roberton,Billy,Johnnie Walker Kilmarnock Harriers,V,0:79:20
+305,Finney,Stephen,U/A,,0:79:31
+306,Sandford,Anne,Ballydrain Harriers,F,0:79:31
+307,Brown,Matilda,U/A,F,0:79:37
+308,Barraclough,Cliff,U/A,,0:79:39
+309,Hutchinson,Wilf,Concordia,V,0:79:39
+310,Anderson,Joanne,Carnethy Hill Running Club,F,0:79:50
+311,Cairns,Jean,Westerlands CCC,FV,0:79:51
+312,McManus,Francis,U/A,SV+,0:79:53
+313,Small,Marjorie,Clydesdale Harriers,FV+,0:80:06
+314,Anderson,Adam,Solway Athletic Club,SV,0:80:15
+315,Cant,Robert,Lochaber AC,SV,0:80:24
+316,Wharam,Lynne,Kinross Road Runners,F,0:80:28
+317,Taylor,A,Carnethy Hill Running Club,,0:80:49
+318,Wall,D,Hunters Bog Trotters,SV,0:80:50
+319,McKelvie,Gillian,U/A,FV,0:80:57
+320,Hampshire,Kate,Interlopers Orienteering Club,F,0:81:00
+321,Sneddon,M,Carnethy Hill Running Club,V,0:81:10
+322,Davidson,I,U/A,V,0:81:15
+323,Simms,Matthew,Northumberland FR,,0:81:31
+324,Bennet,Bill,Penicuick Harriers,SV+,0:81:59
+325,Feragen,Pernille,U/A,F,0:82:17
+326,Stewart,Elaine,Cosmics,FV,0:82:29
+327,Pottie,John,Nairn Road Runners,SV,0:82:37
+328,Murray,Helen,Livingston,F,0:82:46
+329,McLaren,F,Fife AC,V,0:82:56
+330,Wilson,J,U/A,,0:83:04
+331,McLachlan,R,Fife AC,V,0:83:16
+332,Frost,Ian,Carnethy Hill Running Club,V,0:83:22
+333,Gorman,Manuel,Westerlands CCC,,0:83:24
+334,Gorman,Lesley,Lochaber AC,FV,0:83:29
+335,Hope,Iain,U/A,,0:83:29
+336,Bee,David,Fife AC,V,0:83:30
+337,Jarvis,Nicholas,U/A,,0:82:32
+338,Cavner,Richard,Northumberland FR,V,0:83:35
+339,Taylor,John,U/A,SV,0:83:36
+340,Rudzinski,Peter,Clydesdale Harriers,V,0:83:44
+341,Barnfather,Ewan,Annan Athletic Club,,0:83:50
+342,McLaren,M,Fife AC,FV,0:83:52
+343,Allan,Ian,Carnethy Hill Running Club,V,0:84:10
+344,Gilchrist,Suzanne,Gala Harriers,F,0:84:11
+345,Jackson,Ian,Carnethy Hill Running Club,V,0:84:24
+346,Fletcher,Ruth,Northumberland FR,FV,0:84:28
+347,Forbes,Allan,U/A,SV,0:84:32
+348,Jarvis,Kathy,Carnethy Hill Running Club,F,0:84:53
+349,Ritchie,Karen,Fife AC,FV,0:84:54
+350,Jennison,Noreen,Westerlands CCC,FV,0:85:09
+351,Paterson,C,Lochaber AC,F,0:85:19
+352,Young,Jane,U/A,F,0:85:20
+353,Lemoncello,P,Fife AC,FV+,0:85:28
+354,Graham,Colin,Penicuick Harriers,V,0:85:29
+355,Prior,Steve,Cosmics,V,0:85:43
+356,Beaney,David,Claremont Road Runners,V,0:85:52
+357,Turnbull,Drew,Westerlands CCC,M50,0:86:42
+358,Davis,S,Northumberland FR,FV,0:87:06
+359,Hall,Chris,U/A,SV,0:87:07
+360,Cooper,Keith,Northumberland FR,V,0:87:18
+361,Ibbotson,Sally,Dundee Road Runners,F,0:87:21
+362,Beavitt,Tommy,U/A,,0:87:43
+363,Wolfendale,David,Fra,V,0:88:00
+364,Crane,Calvin,Livingston,V,0:88:00
+365,Chambers,Darren,Lochaber AC,,0:88:02
+366,Moffat,T,Carnethy Hill Running Club,SV+,0:88:07
+367,Noble,Alastair,Girvan Harriers,V,0:88:09
+368,Ogilvy,Tanya,Carnethy Hill Running Club,F,0:88:19
+369,Adams,Richard,Norham RC,V,0:88:20
+370,Greenwood,Eve,Edinburgh Triathletes,F,0:88:31
+371,Kidd,Matt,U/A,,0:88:33
+372,Laird,John,M Carnegie Harriers,V,0:88:33
+373,Wilkinson,James,Northumberland FR,SV,0:88:56
+374,Searle,Ian,Cosmics,V,0:88:57
+375,May,Timothy,U/A,,0:89:05
+376,Smith,Donald,Westerlands CCC,SV,0:89:07
+377,McBeth,Colin,Concordia,SV,0:89:07
+378,McIlwraith,Ewan,Lomond Hill Runners,,0:89:16
+379,Miller,A,Irvine RC,FV+,0:89:23
+380,Blenkinsop,Harry,Keswick AC,SV+,0:89:41
+381,King,Shelagh,Clydesdale Harriers,FV,0:89:48
+382,Anderson,Charles,Dundee Road Runners,V,0:90:18
+383,Morton,George,Johnnie Walker Kilmarnock Harriers,V,0:90:40
+384,Wilkins,John,Arbroath Footers,SV+,0:90:57
+385,Daniels,Ken,M Carnegie Harriers,SV+,0:91:13
+386,Thomas,R,Hunters Bog Trotters,V,0:91:23
+387,Kitson,Aileen,Lochaber AC,FV,0:91:32
+388,McCrae,L,Penicuick Harriers,F,0:91:34
+389,McLaughlin,Patricia,Westerlands CCC,FV,0:91:48
+390,Ogden,Caroline,City Of Edinburgh,F,0:91:58
+391,McGuire,Stephen,Dundee Hawkhill,J,0:91:58
+392,McGuire,Duncan,Fife AC,SV,0:92:32
+393,Parsons,Carol,Totley Athletic Club,F,0:92:33
+394,McQueen,Tina,U/A,,0:92:42
+395,Ellison,David,Fife AC,SV,0:92:45
+396,MacKie,Helen,Cosmics,F,0:93:04
+397,Graham,A,Johnnie Walker Kilmarnock Harriers,SV,0:93:04
+398,Pollard,Isobel,City Of Edinburgh,FV,0:93:12
+399,McLachlan,E,Fife AC,FV,0:93:57
+400,Jardine,James,Lochaber AC,SV,0:94:13
+401,Jarvis,Katie,Ambleside,F,0:94:26
+402,Robertson,Alastair,Fife AC,SV,0:94:39
+403,Lane,Carl,Road Runners Club,SV,0:94:40
+404,Horton,Liz,Cosmics,F,0:94:41
+405,Nicol,Robert,Irvine RC,SV,0:94:43
+406,Drysdale,William,Law District Athletic Club,SV+,0:94:51
+407,MacDermid,Lisa,Wolves Of Badenoch,FV,0:94:57
+408,Short,G,Johnnie Walker Kilmarnock Harriers,V,0:95:26
+409,Hensler,Kelly,Help,F,0:95:27
+410,Harley,K,Help,FV,0:95:30
+411,Cogan,Helen,U/A,F,0:95:32
+412,Paul,Gillian,Carnethy Hill Running Club,FV+,0:95:36
+413,Salmon,R,U/A,,0:95:46
+414,Flinn,Michael,Irvine RC,V,0:96:02
+415,Owen,S,Ambleside,F,0:96:31
+416,Black,Edward,U/A,,0:96:42
+417,Ingham,Cali,U/A,FV,0:97:08
+418,Robertson,Richard,Carnethy Hill Running Club,SV+,0:98:04
+419,Phelps,Genevieve,City Of Edinburgh,F,0:98:38
+420,Jarvis,Margaret,U/A,FV+,0:98:53
+421,Knox,Lindsey,Teviotdale Harriers,FV,0:99:11
+422,Fox,Aiden,Concordia,V,0:99:35
+423,Davidson,W,Dundee Road Runners,FV,0:99:41
+424,Davidson,R,Dundee Road Runners,V,0:99:42
+425,Granger,Penny,U/A,F,0:100:38
+426,Pearson,Anne,U/A,FV+,0:102:37
+427,Unsworth,G,Kendal Athletic Club,SV,0:103:36
+428,Unsworth,E,Kendal Athletic Club,FV,0:103:36
+429,Wood,Aileen,City Of Edinburgh,FV,0:104:24
+430,Pybus,Ruth,Carnethy Hill Running Club,F,0:105:42
+431,Clarke,Karen,U/A,F,0:105:43
+432,Taylor,Andrew,U/A,F,0:105:43
+433,Davidson,Sean,Penicuick Harriers,,0:105:56
+434,Archibold,Scott,Quakers,,0:108:30
+435,Forrest,Mark,U/A,F,0:108:39
+436,Kinnear,Sandra,Kinross Road Runners,FV,0:110:32
+437,Hamill,Anne,Kinross Road Runners,FV,0:110:33
+438,MacCalman,Alexander,Lomond Hill Runners,SV,0:110:34
+439,Hanley,Lynn,Portobello,F,0:111:48
+440,Gemmell,Fiona,City Of Edinburgh,F,0:116:06
+441,Hood,Mike,Livingston,SV+,0:116:35
+442,Twissell,Su,Interlopers Orienteering Club,F,0:117:49
+443,Gobourn,Guy,Interlopers Orienteering Club,,0:118:34
+444,Murdoch,Gillian,City Of Edinburgh,F,0:119:16

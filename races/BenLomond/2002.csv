@@ -1,0 +1,141 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Brooks,John,Lochaber AC,S,0:66:00
+2,Rigby,Mark,Ambleside,S,0:69:16
+3,Coyle,John,Carnethy Hill Running Club,S,0:70:52
+4,Sheard,Paul,Cosmics,S,0:71:04
+5,Taggart,Lloyd,Buxton and District Athletic Club,S,0:71:10
+6,Davenhill,Anesti,Shettleston Harriers,S,0:71:34
+7,Weir,Dave,Fife AC,V,0:71:44
+8,Lewis,Ian,Shettleston Harriers,S,0:71:50
+9,McGonagle,Dermot,Shettleston Harriers,V,0:72:13
+10,Comings,David,Shettleston Harriers,S,0:72:25
+11,Lennox,Jethro,Shettleston Harriers,S,0:74:27
+12,Ottemoller,Lars,Carnethy Hill Running Club,S,0:74:33
+13,Anderson,Adam,Solway,S,0:74:55
+14,Ferguson,Angus,Shettleston Harriers,S,0:76:07
+15,Simpson,Stuart,Ochil Hill Runners,S,0:76:20
+16,Johnston,Mark,Carnethy Hill Running Club,S,0:77:43
+17,Carracher,Graham,Carnethy Hill Running Club,V,0:78:15
+18,Templeman,Simon,Ochil Hill Runners,S,0:78:25
+19,Stevenson,Jim,Irvine RC,V,0:78:42
+20,Bennet,Sandy,Carnegie Harriers,S,0:78:47
+21,McDonald,Dennis,Cosmics,S,0:78:53
+22,McGuire,Alex,Fife AC,SV,0:79:14
+23,Davies,Chris,U/A,S,0:79:17
+24,Logan,Ron,Gala Harriers,S,0:80:04
+25,Scott,Nigel,Westerlands CCC,S,0:80:20
+26,Hulme,Martin,Corstorphine Athletic Club,SV,0:80:26
+27,Theaker,Damien,U/A,V,0:80:57
+28,Hood,Keith,Corstorphine Athletic Club,S,0:81:15
+29,Wombwell,Stephen,Pitreavie Athletic Club,V,0:81:55
+30,MacInnes,Steven,Carnethy Hill Running Club,S,0:82:09
+31,Robinson,Gordon,Westerlands CCC,SV,0:82:17
+32,Smith,Bruce,Standard Life Athletic Club,S,0:82:26
+33,MacLeod,Murdo,Westerlands CCC,SV,0:82:32
+34,Gray,Stuart,Lochaber AC,V,0:83:45
+35,Blairfish,John,Carnethy Hill Running Club,SV,0:84:08
+36,Powell,Karen,Carnethy Hill Running Club,S,0:84:14
+37,Watson,Robin,Ochil Hill Runners,V,0:84:59
+38,Cunningham,Richie,Ochil Hill Runners,S,0:85:17
+39,Walker,Adrian,Navy - Royal Naval Athletic Club,S,0:85:18
+40,Pryde,Gordon,Lomond Hill Runners,M40,0:85:31
+41,Adams,Keith,Westerlands CCC,SV,0:86:11
+42,Douglas,Alan,Strathaven Striders,V,0:86:28
+43,Holden,Joe,Fife AC,SV,0:86:41
+44,Campbell,Charles,Westerlands CCC,M,0:87:01
+45,Irving,Roger,Solway,V,0:87:16
+46,Yeoman,Frank,Dumbarton Athletic Club,SV,0:87:23
+47,Lang,James,Carnegie Harriers,V,0:87:36
+48,White,Kenneth,U/A,SV,0:87:37
+49,Ward,David,Ronhill Cambuslang,S,0:87:39
+50,Ross,Tom,Fife AC,SV,0:87:40
+51,Donaldson,Andrew,Ochil Hill Runners,S,0:87:43
+52,Mykura,William,Carnethy Hill Running Club,V,0:88:14
+53,Abram,Michael,Arran Runners,V,0:88:20
+54,O`brien,Paul,Corstorphine Athletic Club,V,0:88:57
+55,McCraw,Ron,Ochil Hill Runners,V,0:88:59
+56,Nicholson,David,Dundee Hawkhill,V,0:89:16
+57,Duncan,David,Ochil Hill Runners,V,0:89:36
+58,Gutteridge,Gary,Cosmics,V,0:89:45
+59,Allison,Bob,Fife AC,V,0:89:56
+60,Beech,John,Hunters Bog Trotters,V,0:89:59
+61,McInroy,Ross,Helensburgh AAC,SV,0:90:01
+62,Speirs,Stephen,Kilbarchan Athletic Club,S,0:90:30
+63,Matheson,Ian,Forfar Road Runners,S,0:90:39
+64,McLachlan,Roy,Fife AC,SV,0:90:51
+65,Dealtry,Eddie,Ochil Hill Runners,,0:90:59
+66,Lennie,Andrew,Carnethy Hill Running Club,V,0:91:12
+67,Jenkins,Kate,Carnethy Hill Running Club,S,0:91:20
+68,Rowley,Andy,U/A,S,0:91:48
+69,Fraser,Garry,U/A,S,0:92:11
+70,Shaw,Richard,Lochaber AC,S,0:92:27
+71,Smith,Gordon,Lochaber AC,SV,0:92:32
+72,Meiklejohn,Alan,Fife AC,SV,0:92:44
+73,Hunter,Stuart,Cosmics,S,0:93:06
+74,Reid,Brendan,U/A,S,0:93:18
+75,Allan,Geoff,U/A,S,0:93:18
+76,Robb,Jim,U/A,S,0:93:29
+77,Shaw,Lyndsay,Lochaber AC,S,0:93:43
+78,Priestley,Nigel,Solway,V,0:93:54
+79,Robertson,Stewart,U/A,S,0:94:25
+80,Ford,Dave,Lochaber AC,SV,0:94:31
+81,Adams,David,Hamilton Harriers,M50,0:94:48
+82,Stewart,Jim,Lochaber AC,SV,0:94:55
+83,Broadley,Drew,Lochaber AC,V,0:95:26
+84,Abram,Stephen,Arran Runners,V,0:95:35
+85,Murdoch,Fletcher,Maryhill Harriers,SV,0:95:55
+86,Scott,Jocelyn,Fife AC,FSV,0:96:03
+87,Wright,Graham,Rossendale,SV,0:96:47
+88,Osborn,David,Lomond Hill Runners,V,0:96:48
+89,MacDonald,Debbie,Hunters Bog Trotters,FV,0:97:33
+90,Smithard,Phil,Carnegie Harriers,SV,0:97:51
+91,Bowie,Tom,Carnegie Harriers,SV,0:98:04
+92,Blackhall,Amanda,Lochaber AC,S,0:98:09
+93,Whitty,Craig,U/A,S,0:98:10
+94,Campbell,Ian,Hunters Bog Trotters,S,0:98:13
+95,Diver,Michael,Clydesdale Harriers,M,0:99:34
+96,Stewart,Colin,U/A,S,0:99:39
+97,Wright,Jim,U/A,S,0:99:47
+98,Tiplady,Simon,U/A,S,0:99:58
+99,Ritchie,Tony,Westerlands CCC,SV,0:100:02
+100,Johnston,Stephen,Milburn Harriers,V,0:100:05
+101,Muir,Gregor,Lochaber AC,S,0:100:18
+102,Wilson,Alan,Westerlands CCC,MS,0:100:21
+103,Hughes,Bob,Ochil Hill Runners,V,0:100:23
+104,Copeland,Barry,U/A,V,0:100:42
+105,Horton,Liz,Cosmics,S,0:100:49
+106,Lockwood,David,U/A,S,0:101:31
+107,Collins,Richard,Ochil Hill Runners,SV,0:101:35
+108,Tunstall,Martin,Corstorphine Athletic Club,S,0:101:53
+109,Haig,Jim,Fife AC,SV,0:101:59
+110,Frankiss,John,U/A,S,0:102:32
+111,Gorgas,Steffen,Westerlands CCC,S,0:102:45
+112,Provan,Louise,Fife AC,F,0:104:08
+113,MacDonald,Nicky,Lochaber AC,S,0:104:25
+114,Schleijpen,Paul,Norham RC,V,0:104:27
+115,Noble,Lois,Cosmics,S,0:104:50
+116,Davidson,Iain,U/A,V,0:104:56
+117,West,Alison,Carnegie Harriers,FV,0:105:18
+118,Burns,Pat,U/A,FV,0:105:53
+119,Crane,Calvin,Lothian,V,0:106:13
+120,Turnbull,Drew,Westerlands CCC,M60,0:106:34
+121,Nicol,Robert,U/A,S,0:108:29
+122,Brunton,Val,U/A,S,0:108:45
+123,Daniels,Ken,Carnegie Harriers,SV,0:109:14
+124,Greer,Stephen,Carnegie Harriers,V,0:109:29
+125,Drummond,Jim,Central Region Athletic Club,SV,0:112:23
+126,Cation,Frank,Fife AC,SV,0:112:35
+127,Sherlock,David,U/A,V,0:113:04
+128,Taylor,Cameron,Bellahouston RR,S,0:113:48
+129,Micalizzi,Serena,Carnethy Hill Running Club,S,0:113:54
+130,McLaughlin,Patricia,Westerlands CCC,FSV,0:114:14
+131,Frankland,Ann-marie,U/A,S,0:115:24
+132,McDermid,Lisa,U/A,S,0:115:42
+133,Tracey,Jim,U/A,V,0:116:25
+134,Kitson,Aileen,Lochaber AC,FV,0:118:12
+135,Stewart,Carolyn,Lochaber AC,S,0:118:37
+136,McLachlan,Elizabeth,Fife AC,FV,0:120:24
+137,Wall,Dick,Hunters Bog Trotters,V,0:120:54
+138,Lennox,Chris,Law District Athletic Club,SV,0:120:58
+139,Nicol,Robert,Irvine RC,SV,0:121:13
+140,Robertson,Jim,Milburn Harriers,SV,0:122:47

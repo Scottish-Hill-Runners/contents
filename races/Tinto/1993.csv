@@ -2,7 +2,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 1,Wilkinson,John,Gala,,30:39
 2,McGonigle,Dermod,Shettleston,,30:48
 3,Rigby,Mark,Westerlands,,31:39
-4,Pyrah,J.,Edin  Univ,,31:49
+4,Pyrah,J.,Edin Univ,,31:49
 5,Patterson,Malcolm,Shettleston,,32:32
 6,Cummins,Dave,Ochil,,32:52
 7,Crowe,Des,Shettleston,,33:01
@@ -12,8 +12,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 11,Thin,Jamie,Carnethy,,34:12
 12,Blair-Fish,John,Carnethy,M,34:17
 13,O'Brien,J.,Gala,,34:18
-14,Flynn,Martin,Edin  SH,,34:25
-15,Godfree,Dave,Edin  Univ,,35:02
+14,Flynn,Martin,Edin SH,,34:25
+15,Godfree,Dave,Edin Univ,,35:02
 16,Shaw,Charlie,Westerlands,M,35:12
 17,Longmore,R.,Solway,,35:16
 18,Boswell,Roger,Lochaber,M,35:20
@@ -22,14 +22,14 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 21,Bloor,R.,Westerlands,,35:50
 22,McLean,D.,Lomond,,35:52
 23,Shiell,Doug,Carnethy,,35:53
-24,Rienersma,R.,Edin  Univ,,36:03
+24,Rienersma,R.,Edin Univ,,36:03
 25,McPherson,V.,Fife,M16,36:20
 26,Thompsett,Gary,Westerlands,,36:24
 27,Fixwen,M.,Unattached,,36:29
 28,Murray,A.,Unattached,,36:47
 29,Bain,M.,Stornaway,,36:47
 30,Turnbull,Les,Norham,,36:53
-31,Barr,W.,Forth  RR,M16,37:05
+31,Barr,W.,Forth RR,M16,37:05
 32,Ross,J.,Unattached,,37:06
 33,Quinn,S.,Fife,,37:08
 34,Holden,Joe,Fife,M,37:10
@@ -59,7 +59,7 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 58,Rogerson,P.,Annan,,40:06
 59,MacDonald,Nick,Carnethy,,40:07
 60,Rutherford,C.,Norham,,40:14
-61,Hunter,B.,L  & B Police,,40:21
+61,Hunter,B.,L & B Police,,40:21
 62,Munro,R.,Ochil,,41:00
 63,Pritchard,Colin,Carnethy,M40,41:03
 64,Gillespie,Eddie,Carnethy,M,41:04
@@ -67,12 +67,12 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 66,Cairns,P.,Westerlands,,41:21
 67,Kettles,B.,Lasswadw,M40,41:21
 68,Brennan,B.,Westerlands,,41:27
-69,McHugh,T.,Glasgow  Univ,,41:36
+69,McHugh,T.,Glasgow Univ,,41:36
 70,Anderson,Mike,Carnethy,,41:39
 71,Darling,P.,HELP,,41:42
 72,Fraser,Paul,Carnethy,,41:46
 73,Thompson,Alistair,Carnethy,,41:53
-74,Grogan,B.,Valley  Services,M,41:54
+74,Grogan,B.,Valley Services,M,41:54
 75,Buchanan,J.,Annan,M40,41:55
 76,Cation,Frank,Fife,M,41:57
 77,Collins,Trevor,Carnethy,,41:58
@@ -87,22 +87,22 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 86,Shaw,Pete,HBT,,43:36
 87,Pritchard,Matthew,Carnethy,M16,43:39
 88,Duffy,Pete,Aberdeen,M40,43:41
-89,Johnston,W.,Keith  & District,,43:43
+89,Johnston,W.,Keith & District,,43:43
 90,Rose,Nigel,Carnethy,M40,44:06
 91,Knox,Isobel,Teviotdale,F16,44:07
 92,Greenwood,K.,Cosmic,M,44:19
 93,Mitchell,R.,Teviotdale,M40,44:21
 94,Wadsworth,Andy,HBT,,44:26
-95,Hall,C.,Roxburgh  Reivers,M,44:31
+95,Hall,C.,Roxburgh Reivers,M,44:31
 96,Barton,Jim,Carnethy,M,44:33
-97,Boal,J.,Victoria  Park,M,44:40
+97,Boal,J.,Victoria Park,M,44:40
 98,Lang,M,Unattached,,44:50
-99,Balfour,Gail,Edin  WM,F16,44:54
+99,Balfour,Gail,Edin WM,F16,44:54
 100,Scott,D.,HELP,,45:02
 101,Charles,Kate,Carnethy,F,45:06
 102,Smith,B.,Unattached,,45:12
-103,Frietey,M.,Glasgow  Univ,,45:15
-104,Beattie,Ian,Troon  Tortoises,,45:19
+103,Frietey,M.,Glasgow Univ,,45:15
+104,Beattie,Ian,Troon Tortoises,,45:19
 105,McManus,I.,Irvine,M40,45:27
 106,Dalitz,Rod,Ferranti,M,46:01
 107,Johnston,D.,Dumfries,M,46:07
@@ -111,8 +111,8 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 110,Pringle,B.,Teviotdale,M40,46:15
 111,Wess,T.,Unattached,,46:18
 112,Smith,A.,Lasswade,M,46:39
-113,West,M.,Perth  Strathtay,M,46:44
-114,Turnbull,Drew,East  Kilbride,M40,46:47
+113,West,M.,Perth Strathtay,M,46:44
+114,Turnbull,Drew,East Kilbride,M40,46:47
 115,Scroggie,M.,Unattached,F,46:52
 116,Searle,Hilary,Lochaber,F,47:05
 117,McDonald,P.,HELP,M,47:16
@@ -120,10 +120,10 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 119,Spenceley,Hilary,Carnethy,F,47:53
 120,Halliday,P.,HELP,,47:57
 121,Grove,D.,Unattached,M,48:44
-122,Bias,F.,East  Kilbride,M40,49:06
+122,Bias,F.,East Kilbride,M40,49:06
 123,Barton,P.,Unattached,,49:09
-124,Cunningham,W.,Forth  RR,M,49:27
-125,Garfagnini,A.,Law  & District,M16,49:49
+124,Cunningham,W.,Forth RR,M,49:27
+125,Garfagnini,A.,Law & District,M16,49:49
 126,Benny,G.,Westerlands,M,50:19
 127,Osmond,C.,Unattached,,50:24
 128,West,Alison,Carnethy,F,50:55
@@ -134,6 +134,6 @@ RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
 133,McLaughlin,Pat,Westerlands,F,53:13
 134,Neill,J.,Lasswade,F,53:45
 135,Cairney,J.,Shettleston,M40,53:49
-136,Cunningham,M.,Forth  RR,F,54:54
+136,Cunningham,M.,Forth RR,F,54:54
 137,Meikle,Karen,Livingston,F,60:13
-138,Light,O.,Troon  Tortoises,M40,61:32
+138,Light,O.,Troon Tortoises,M40,61:32
