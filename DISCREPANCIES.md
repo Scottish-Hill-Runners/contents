@@ -246,3 +246,56 @@ These appeared as statistical outliers but investigation confirmed they are real
 - **`races/BenLomondFunRun` (1997, 1998, 2000)**: Mapped from archive "Ben Lomond Junior Race". BenLomondFunRun is itself a short (1.5 distance, 80m climb) open/fun event, so these junior results are appropriate here.
 - **`races/DevilsBeeftub` (1996–2000)**: Mapped from archive "Moffat Beeftub". Winning times and entry counts are consistent across all years including 2001–2005, supporting that this is the same race.
 - **`races/TwoMamores` (2001–2002)**: Mapped from archive "Two Buachailles". Entry counts (32 and 23) are low but winning times (1:38:37 and 1:35:57) are consistent. Two Buachailles and Two Mamores are different races — **these should be moved to a new `TwoBuachailles` folder**.
+
+---
+
+## Shortened Course Detection (April 2026)
+
+Statistical analysis of winning times and field medians across all races. Years significantly faster than the race's historical baseline were flagged as likely shortened courses and renamed to `YEAR*.csv`.
+
+### Files renamed to `YEAR*.csv` (isolated short-course years)
+
+| File | Win time | Baseline win | Notes |
+|------|----------|-------------|-------|
+| `races/Dumyat/1991*.csv` | 23:10 | ~33:30 (31% faster) | |
+| `races/Goatfell/1993*.csv` | 45:33 | ~1:18:40 (42% faster) | |
+| `races/AberfoyleDash/1995*.csv` | 11:34 | ~20:00 (43% faster) | |
+| `races/IsleOfMull/2013*.csv` | 1:04:11 | ~1:55:00 (44% faster) | |
+| `races/TwoMamores/2024*.csv` | 47:04 | ~1:20:00 (41% faster) | |
+| `races/Dunnydeer/2008*.csv` | 17:41 | ~29:20 (40% faster) | |
+| `races/KirkCraigs/2022*.csv` | 22:32 | ~37:00 (39% faster) | 2023 reverts to 36:00 |
+| `races/KirkCraigs/2024*.csv` | 22:39 | ~37:00 (39% faster) | 2025 reverts to 35:17 |
+| `races/DruimFadaChase/2002*.csv` | 31:59 | ~47:00 (33% faster) | See note below |
+| `races/Morven/2023*.csv` | 32:20 | ~47:30 (32% faster) | 2024 reverts to 58:47 |
+| `races/GreatWildernessChallenge/2016*.csv` | 2:06:30 | ~3:02:00 (30% faster) | |
+| `races/TrotternishRidge/2021*.csv` | 2:08:40 | ~2:50:00 (24% faster) | 2015 already marked `*` |
+| `races/DeucharyHillCanter/2010*.csv` | 1:03:58 | ~1:22:42 (23% faster) | |
+| `races/AonachMhor/1996*.csv` | 17:07 | ~23:26 (27% faster) | |
+| `races/AonachMhor/2000*.csv` | 18:07 | ~23:26 (23% faster) | |
+| `races/DumyatDash/2014*.csv` | 29:58 | ~41:24 (28% faster) | |
+| `races/DumyatDash/2015*.csv` | 32:07 | ~41:24 (22% faster) | |
+| `races/Knockargety/2022*.csv` | 24:39 | ~37:00 (33% faster) | Only 3 years of data |
+
+### DruimFadaChase / CruimLeacainn 2002 coincidence
+
+Both `races/DruimFadaChase/2002*.csv` and `races/CruimLeacainn/2002.csv` have exactly the same winning time of 31:59. This strongly suggests the same raw results were attributed to both race IDs. Only DruimFadaChase is renamed as a short course (it is clearly anomalous in that series); CruimLeacainn's early years (1997–2005) as a whole appear to be a different/shorter course than 2006+.
+
+### Permanent course changes (NOT renamed — different era, not one-off)
+
+| Race | Era | Notes |
+|------|-----|-------|
+| `WestHighlandWay` | 1992, 1994 | Times shown as 13–17 min — data format error (MM:SS stored where HH:MM:SS expected). Actual WHW times should be ~17–19 hours. |
+| `Glenshee9` | 1996 | Win shown as 21:42 — same format error; Glenshee 9 normally takes ~3 hours. |
+| `Dollar` | 1983–1997 | All years consistently ~38–43 min winning time; from 1998 onwards consistently ~1:17–1:22. Course was substantially changed (extended) around 1997/1998. |
+| `KilpatricksCaper` | 2018–2025 | Consistently ~28–30 min from 2018; previously ~43–52 min (1992–2017). Permanent course change from 2018. |
+| `LomondsOfFife` | 1992–2005 | Consistently ~1:03–1:08 win; from 2006+ consistently ~1:22–1:40. Course was extended around 2006. |
+| `CruimLeacainn` | 1997–2005 | Early era ~31–37 min win; 2006+ era ~41–51 min win. Course extended around 2006. |
+
+### Uncertain (needs human verification)
+
+| Race | Year(s) | Notes |
+|------|---------|-------|
+| `Meall-aBhuachaille` | 1993, 1997 | Both faster than 2001–2009 norm (~50–53 min). Could be short courses, or race hadn't yet settled into its later format. |
+| `Cairnsmore` | 2021 | 56:37 vs ~1:03–1:12 for other years, but only 4 years of data total. |
+| `Clachnaben` | 2012, 2019 | ~1:02–1:03 wins just at the 20% threshold; several recent years also fast; likely within normal variation. |
+| `DumyatDash` | 2016–2017 | Winning times (35–38 min) between the short-course era (2014–2015, ~30–32 min) and original course (2010–2013, ~49–53 min) — may represent a third partial course. |
