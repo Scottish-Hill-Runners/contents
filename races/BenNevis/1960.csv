@@ -1,0 +1,98 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Spencer,D A,Barrow,X,01:52:22
+2,Vickers,M,Barrow,X,01:52:23
+3,Conn,J,Lochaber,ADK,01:54:08
+4,Severen,J,Tipton,V,01:54:45
+5,Dawson,F,SalfordH.,L,01:54:58
+6,Campbell,E,Lochaber,X,01:55:19
+7,Cameron,M,Lochaber,E,01:55:38
+8,O,’Reilly T,Springburn,,01:56:03
+9,Logie,M,Springburn,,01:56:58
+10,Garnet,G,Bingley,A,01:57:23
+11,Smith,B Hamilton,Olympia(Canada),S,01:57:52
+12,Bell,H,Morpeth,,01:58:56
+13,MacKenzie,D,Clydesdale,A,02:00:32
+14,Barrow,G,Preston,,02:00:44
+15,Goodair,G,Wakefield,X,02:01:17
+16,Hall,P,Barrow,,02:02:07
+17,Holmes,E,BurnRoad,M,02:02:50
+18,Wilkie,S,Gateshead,X,02:03:05
+19,Bell,D,Liverpool,X,02:03:16
+20,Bradshaw,G,Blackpool&Fylde,,02:04:00
+21,Boylen,M,VauxhallMotors,,02:04:31
+22,Grundie,C P,Salford,,02:05:18
+23,Moore,M,H.M.S.Caledonia,,02:06:05
+24,Norrie,A,Kinlochleven,X,02:06:37
+25,Soper,H,VauxhallMotors,J,02:06:58
+26,Lindsay,WA R,Pitreavie,E,02:07:18
+27,Paton,A,Clayton-Ie-Moors,X,02:07:32
+28,Duffy,P,Aberdeen,,02:07:45
+29,Donald,I,Shettleston,XN,02:07:48
+30,Chisholm,N,Lochaber,X,02:07:59
+31,Westwood,A B,Dudley,XN,02:08:10
+32,Duncan,R,Aberdeen,V,02:08:59
+33,Heaton,K,Clayton-Ie-Moors,X,02:10:23
+34,Whittle,A J,Tipton,,02:11:16
+35,Poultney,R,Tipton,N,02:11:16
+36,Moan,M,Lochaber,X,02:11:19
+37,Hatch,B,Lochaber,,02:12:58
+38,Bonner,A,Maidstone,LJ,02:13:34
+39,Johnstone,A,Clayton-Ie-Moors,XV,02:14:04
+40,Lawson,C,Unattached,,02:14:07
+41,Silk,E,Tipton,,02:14:30
+42,Anderson,D L,Bingley,,02:14:49
+43,Greenlees,C,Perth,A,02:15:29
+44,Craven,R,Bingley,,02:16:17
+45,Shackley,J,Barrow,X,02:16:50
+46,Foley,C W,Pitreavie,X,02:17:14
+47,Puckrin,T R,Middlesborough,,02:17:59
+48,Wilson,R,Bellahouston,XV,02:18:52
+49,Slocket,J,Clayton-Ie-Moors,XJ,02:20:06
+50,Bradshaw,S,Clayton-le-Moors,,02:20:47
+51,Layton,A,VauxhallMotors,AG,02:22:01
+52,Morrison,I,Aberdeen,E,02:23:14
+53,Morrison,A,Lochaber,,02:23:29
+54,Large,D,Barrow,,02:25:29
+55,Day,J G,Dudley,X,02:25:34
+56,Geddes,J,Monkland,,02:25:35
+57,Barrett,R J,Pitreavie,,02:25:35
+58,Simpson,H,Barrow,X,02:25:43
+59,Lewis,A,UnitedHospitals,A,02:25:50
+60,Cox,K,Jun.MountaineeringClubofScot.,,02:26:52
+61,Lawson,D,Bingley,XN,02:26:54
+62,Cook,B,Unattached,L,02:28:05
+63,Lewney,R,Barrow,,02:28:50
+64,Goodfellow,B,Pitreavie,X,02:29:12
+65,Bowman,D,Clydesdale,,02:29:32
+66,Hannan,W J,Barrow,XNJ,02:29:58
+67,Gill,C/fn,R.A.TrainingRegt.,EG,02:34:39
+68,Armstrong,J,Dudley,X,02:34:58
+69,Mcintyre,W,Monkland,M,02:35:52
+70,Betney,J,Sefton,,02:36:21
+71,Slaughter,E,Morpeth,X,02:36:40
+72,Charnley,G,Clayton-Ie-Moors,,02:37:08
+73,West,R,Middlesborough,XN,02:37:10
+74,Hawkes,M C,Maidstone,,02:38:33
+75,Thomson,D,Lochaber,,02:39:48
+76,Gow,I D,Inverness,,02:40:40
+77,Cox,T J,R.A.F.Waddington,J,02:40:44
+78,Malpass,Gnr,R.A.TrainingRegt.,XV,02:41:29
+79,Cartwright,J M,Weymouth,X,02:41:41
+80,Fleming,A,Cambuslang,X,02:42:34
+81,Laing,C,Inverness,,02:43:19
+82,Hume,J S,Unattached,,02:43:27
+83,Evans,R,Darlington,,02:43:34
+84,Boyd,R,Clydesdale,X,02:48:57
+85,Vine,E J,Maidstone,,02:50:36
+86,MacEachern,J,Shettleston,,02:52:52
+87,Edwards,D,Unattached,,02:53:17
+88,MacFarlane,M,Unattached,,02:53:23
+89,Seabrook,G,VauxhallMotors,XCE,02:54:50
+90,Hill,R,Clayton-Ie-Moors,X,02:56:57
+91,Rowley,A,Unattached,,02:57:56
+92,Haydon,J,Dudley,X,02:58:08
+93,Neil,G,Dundee,X,03:02:25
+94,Stewart,J M,Clydesdale,,03:03:56
+95,Wilson,G,Unattached,,03:06:09
+96,Hutchison,L,Springburn,ABEG,03:08:14
+97,Moon,N,Maidstone,,03:38:00

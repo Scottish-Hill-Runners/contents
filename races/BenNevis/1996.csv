@@ -1,0 +1,383 @@
+RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
+1,Rodgers,David A,LochaberAC,K,01:31:23
+2,Brooks,John,LochaberAC,MV,01:32:21
+3,Keys,Mervyn,RossendaleHarriers&AC,XC,01:36:42
+4,Rodgers,Billy,LochaberAC,XN,01:37:14
+5,Jebb,Robert,BingleyHarriers&AC,C,01:37:25
+6,Wilkinson,Garry R,Clayton-le-MoorsHarriers,,01:41:30
+7,Cummins,Dave,ShettlestonHarriers,,01:42:12
+8,Horrocks,Mark,CalderValleyFellFunners,E,01:42:56
+9,Moses,Colin,BingleyHarriers&AC,,01:43:21
+10,Brooks,Graham,LochaberAC,D,01:43:40
+11,Bland,Gavin,BorrowdaleFellRunners,XV,01:44:56
+12,Sheard,Paul,Pudsey&BramleyAC,V,01:45:24
+13,Hepburn,John,LochaberAC,,01:45:44
+14,Brooks,Billy(Jun),LochaberAC,CE,01:46:21
+15,Moffat,Graham,HowgillHarriers,DF,01:47:03
+16,Macleod,Stephen C,WesterlandsCrossCountry,,01:47:12
+17,Devine,Gary,Pudsey&BramleyAC,F,01:47:25
+18,Green,ShaneChristopher,Pudsey&BramleyAC,ACD,01:48:17
+19,Bland,Anthony,BorrowdaleFellRunners,,01:48:19
+20,Rodgers,Jim,EastHullHarriers,N,01:49:19
+21,Whittet,Jeremy,PerthStrathtayHarriers,VF,01:50:16
+22,Jackson,Steve,HorwichRMIHarriers,P,01:50:58
+23,Wright,Jonathan,TodmordenHarriers,NJ,01:51:13
+24,Maclennan,Alastair,LochaberAC,,01:51:21
+25,Orr,David,LochaberAC,XN,01:51:29
+26,Life,Alan,Clayton-le-MoorsHarriers,,01:52:40
+27,Mackay,Euan G,OchilHillRunners,XE,01:52:47
+28,Holt,Jack,Clayton-le-MoorsHarriers,LNS,01:52:48
+29,Carr,Kieran,Clayton-le-MoorsHarriers,LV,01:53:15
+30,Horsfall,Andrew Glen,TodmordenHarriers,,01:53:23
+31,Thompson,Duncan,CalderValleyFellFunners,C,01:53:25
+32,Cant,Robbie,LochaberAC,CD,01:53:37
+33,Dobson,Kevin,BingleyHarriers&AC,C,01:53:50
+34,Mackinnon,GordonJohn,LochaberAC,X,01:54:23
+35,Elliott,Simon,NottsAC,XVS,01:55:38
+36,Orr,AndrewNeil,Clayton-le-MoorsHarriers,DE,01:56:22
+37,Thompson,Lee,Clayton-le-MoorsHarriers,,01:56:27
+38,Bastow,Gary,SwaledaleAC,EI,01:56:30
+39,Burns,Stephen,LochaberAC,,01:56:59
+40,Mawhirt,Paul,NewcastleAC,C,01:57:05
+41,McGUIRE,Alex,FifeAC,CDI,01:57:08
+42,Leslie,Philip,OchilHillRunners,MVV+,01:57:16
+43,Richardson,Colin,NorthShieldsPolytechnicAC,XVF,01:57:27
+44,Hicks,Stephen G,BorrowdaleFellRunners,AC,01:57:37
+45,Lanaghan,Nigel,AmblesideAC,,01:57:46
+46,Maitland,JohnRobert,LochaberAC,,01:58:06
+47,Mitchell,Paul,BingleyHarriers&AC,,01:58:15
+48,Cumming,Mike,HuntersBogTrotters,CD,01:58:35
+49,Beaty,Andrew,CumberlandFellRunners,AC,01:58:48
+50,Ross,Tom,FifeAC,XV,01:58:49
+51,Greenwood,Ian,Clayton-le-MoorsHarriers,XV21,01:59:07
+52,Wilby,Raymond,HighlandHillRunners,D,01:59:18
+53,Neill,StevenMark,Pudsey&BramleyAC,DE,01:59:43
+54,Pepper,SimonRichard,ForresHarriers,AC,01:59:48
+55,Covell,Marcus,KildaltonAC,,01:59:57
+56,Sawyer,Howard L,SkyracAC,AEG,02:00:05
+57,Kearns,Dennis,BoltonUnitedHarriers,X,02:00:20
+58,McLOONE,Stephen Greenock,GlenparkHarriers,,02:00:43
+59,Higginbottom,DMark,CarnethyHillRunning,C,02:00:54
+60,Kelly,Tim,BlackburnHarriers&AC,,02:01:06
+61,Kammer,Philip,CosmicHillbashers,,02:01:28
+62,Horsley,Brian J,WestYorksFireServiceAC,A,02:01:35
+63,Clark,Jonny,OchilHillRunners,CJ,02:01:47
+64,Doonan,Kevin,WesterlandsCrossCountry,VN,02:02:00
+65,Powell,Alun,Pudsey&BramleyAC,,02:02:12
+66,Campbell,Ruairidh,LochaberAC,XAE,02:02:22
+67,Love,CraigJames,DundeeHawhillHarriers,N,02:02:24
+68,Craig,Andrew,LochaberAC,CJ,02:02:26
+69,Macnab,Graham S,LochaberAC,CE,02:02:33
+70,Jaques,RossAnthony,Clayton-le-MoorsHarriers,,02:02:37
+71,Lawrie,Brian,CosmicHillbashers,,02:02:42
+72,Judge,Francis,Clayton-le-MoorsHarriers,,02:02:45
+73,Kirkbright,RNigel,SkyracAC,CJ,02:02:49
+74,Peden,Andy,CumberlandFellRunners,MJN,02:02:52
+75,Gamble,Dave,MandaleHarriers,,02:02:53
+76,Browning,Peter,Clayton-le-MoorsHarriers,,02:02:57
+77,Mudge,Angela,CarnethyHillRunning,C,02:03:08
+78,McMAHON,Gary,NottsAC,C,02:03:35
+79,Warman,Ralph,SkyracAC,DE,02:03:46
+80,Allsopp,Gary,SwaledaleAC,,02:04:25
+81,Sanderson,Nicholas,WoodkirkValleyAC,C,02:05:10
+82,Ross,Colin,LochaberAC,,02:05:37
+83,Shaw,Mark,IsleofJuraAC,Y,02:05:39
+84,Boler,Neville,DarkPeakFellRunners,ML,02:05:41
+85,Love,Charlie,DundeeHawhillHarriers,H,02:05:45
+86,Hodgson,Sara,HorsforthFellandale,XN,02:05:51
+87,Rodgers,Richard,NewcastleAC,C,02:06:22
+88,Morrison,Alex,ArbroathFooters,,02:06:30
+89,Davey,Brian,L'poolPembroke&Sefton H,C,02:06:33
+90,Stephen,Jack,OchilHillRunners,AC,02:06:48
+91,Carr,Matthew,Clayton-le-MoorsHarriers,CD,02:07:08
+92,Bridge,Darian,BorrowdaleFellRunners,XC,02:07:25
+93,Murphy,Paul,CumberlandFellRunners,XVF,02:07:44
+94,Nield,DavidLeslie,Clayton-le-MoorsHarriers,DE,02:07:48
+95,Walmsley,Andrew J,Clayton-le-MoorsHarriers,E,02:07:52
+96,Armstrong,David,TynedaleHarriers,,02:07:57
+97,Sutcliffe,Rod,CalderValleyFellFunners,C,02:08:00
+98,Murray,Paul,HorwichRMIHarriers,CE,02:08:07
+99,Brannan,T,WhitburnAC,,02:08:13
+100,Clark,Gordon,ArbroathFooters,,02:08:18
+101,Thornber,Andrew,BingleyHarriers&AC,,02:08:55
+102,Anderton,Mark,TodmordenHarriers,CEL,02:08:59
+103,Banks,John,LochaberAC,CE,02:09:04
+104,Brittleton,Peter,HowgillHarriers,MV,02:09:13
+105,Buchanan,PeterMacKintosh,OchilHillRunners,M,02:09:15
+106,Beaty,Kate,CumberlandFellRunners,CD,02:09:30
+107,Weeden,Brett,KeighleyHillRunners,L,02:09:37
+108,Brown,Richard,LochaberAC,M,02:09:45
+109,Lee,AndrewBeighton,RochdaleHarriers&AC,XV,02:10:07
+110,Greig,Gordon,FifeAC,L,02:10:09
+111,Sadula,Mike,RochdaleHarriers&AC,CD,02:11:16
+112,Kruger,Steve,KeswickAC,,02:11:57
+113,Verden,AndrewJohn,Lancaster&MorecambeAC,,02:12:04
+114,Colver,Keith,CarnethyHillRunning,CH,02:12:15
+115,Wilson,Stephen K,CumberlandFellRunners,ACD,02:12:19
+116,Horsfield,Richard,DarkPeakFellRunners,,02:12:25
+117,Davis,Stephen,MandaleHarriers,,02:12:38
+118,Dowd,Jonathan,RoyalNavyAC,,02:12:46
+119,Wyndham-Lewis,Jason,RydeHarriers,C,02:12:49
+120,Greenwood,CarlJohn,CalderValleyFellFunners,,02:12:50
+121,Giltrow-Shaw,Chris,LancashireConstabularyAC,C,02:13:04
+122,Robinson,K,BingleyHarriers&AC,CD,02:13:13
+123,Gorman,Manuel,WesterlandsCrossCountry,CD,02:13:24
+124,Clayton,Neil,SkyracAC,XN,02:13:26
+125,Helliwell,P S,BingleyHarriers&AC,E,02:13:40
+126,Brooks,Billy(Sen),LochaberAC,,02:13:49
+127,McDONOUGH,David,AccringtonRoadRunners,CJ,02:13:53
+128,Walker,Norman,AmblesideAC,CH,02:14:00
+129,Todd,Colin,HarrogateAC,C,02:14:01
+130,Bland,Neil,KeighleyHillRunners,,02:14:03
+131,Clarke,Gavin,OchilHillRunners,,02:14:10
+132,Corris,Phil,LancashireConstabularyAC,N,02:14:14
+133,Powell,Ross,EryriHarriers,VF,02:14:20
+134,Rasgauski,KMartin,EryriHarriers,,02:14:21
+135,Eccles,Graham,Clayton-le-MoorsHarriers,,02:14:27
+136,Nichol,Colin,TeviotdaleHarriers,,02:14:34
+137,Mitchell,RobertWilson,Clayton-le-MoorsHarriers,AC,02:14:45
+138,Murdoch,Fletcher,MaryhillHarriers,E,02:15:15
+139,Cook,AndrewDavid,SkyracAC,,02:15:26
+140,Lean,Hamish,OchilHillRunners,,02:15:40
+141,Fish,JohnMorrison,LochaberAC,N,02:15:49
+142,Anderson,Julie K,LochaberAC,,02:15:51
+143,Macdonald,Duncan,LochaberAC,DL,02:15:57
+144,Donnelly,John,ShettlestonHarriers,C,02:16:13
+145,Bettney,Philip,AmblesideAC,X,02:16:20
+146,Slinn,Jim,Lancaster&MorecambeAC,,02:16:23
+147,Lamb,James,LomondHillRunners,F,02:16:26
+148,Bellaries,Richard,Clayton-le-MoorsHarriers,CDE,02:16:33
+149,Hastings,Eamon,KeighleyHillRunners,CD,02:16:37
+150,McBURNEY,Brian,NewcastleAC,XVF,02:16:41
+151,Forte,Philip,DundeeHawhillHarriers,XV,02:16:45
+152,Jones,Allan,WestYorksFireServiceAC,I,02:16:52
+153,Newell,Mark,CambridgeHarriers,,02:16:55
+154,Durnin,John,DundeeHawhillHarriers,,02:17:52
+155,Crofts,Clare,DarkPeakFellRunners,AJL,02:17:58
+156,Diver,Michael,ClydesdaleHarriers,XV,02:17:59
+157,Johnson,Peter,WoodkirkValleyAC,C,02:18:07
+158,Callander,Brenda Jn,GreigBuildersCentralAC,CEJ,02:18:09
+159,Williamson,Graeme,InvernessHarriers,X,02:18:32
+160,Troup,Steve,NorthShieldsPolytechnicAC,NJF,02:18:54
+161,Miller,David J,IrvineAC,,02:19:02
+162,Shotter,Jean,Pudsey&BramleyAC,,02:19:06
+163,Graham,Alan,LomondHillRunners,BE,02:19:15
+164,Brady,Peter,Clayton-le-MoorsHarriers,CD,02:19:36
+165,Holden,Joe,FifeAC,L,02:19:50
+166,Brown,Philip K,HighlandHillRunners,,02:19:58
+167,Anderson,Laurie,FifeAC,CD,02:20:13
+168,Macrae,John A,LochaberAC,VF,02:20:44
+169,Knox,William J,TeviotdaleHarriers,DK,02:20:58
+170,Unsworth,GeorgeFrederick,KendalAC,F,02:21:09
+171,Hargreaves,William,WestYorksPoliceAC,NS,02:21:18
+172,Firth,AndrewPeter,Clayton-le-MoorsHarriers,,02:21:39
+173,Bonnyman,Brian,WesterlandsCrossCountry,M,02:21:46
+174,Bellis,PeterAlan,BoltonUnitedHarriers,C,02:21:53
+175,Thompson,Katy,Clayton-le-MoorsHarriers,X,02:22:03
+176,Sharples,Jon,Clayton-le-MoorsHarriers,,02:22:14
+177,Neill,Simon,DundeeUniversityHarriers,CD,02:22:22
+178,Cave,MichaelJames,Tyne&WearMetroFBAS,,02:22:28
+179,Calvert,WilliamJohn,BingleyHarriers&AC,C,02:22:34
+180,Worsley,Steven,InvernessHarriers,,02:22:52
+181,Hunter,Bill,Lothian&BordersPoliceAC,V,02:23:01
+182,McCULLOUGH,Paul,NewcastleAC,DE,02:23:05
+183,Smith,Jack,Lancaster&MorecambeAC,C,02:23:17
+184,Tindale,Steven,SouthShieldsHarriers,CE,02:23:21
+185,Martin,Paul,BoltonUnitedHarriers,C,02:23:28
+186,Breeze,G W,SkyracAC,,02:23:31
+187,Jones,Iorwerth,BroDysynni,C,02:23:42
+188,Kenyon,J,Clayton-le-MoorsHarriers,C,02:23:57
+189,Brady,Martin,Clayton-le-MoorsHarriers,C,02:23:59
+190,Marshall,Ian,CambridgeHarriers,S,02:24:05
+191,Weir,Jason,NewcastleAC,XN,02:24:13
+192,Saunders,Mick,MerciaFellRunners,XCD,02:24:20
+193,Biltcliffe,Alan L,ArbroathFooters,XVF,02:24:24
+194,Kirkdale,Brian G,101(London)EngineerRegt,CDE,02:24:28
+195,Gardner,StewartJames,CalderValleyFellFunners,,02:24:44
+196,Milner,Stephen,WoodkirkValleyAC,,02:24:44
+197,Hodgson,Michael,HorsforthFellandale,F,02:24:47
+198,Coughlan,Paul,CalderValleyFellFunners,C,02:25:05
+199,Jones,K D,101(London)EngineerRegt,,02:25:06
+200,Hill,David,SkyracAC,XN,02:25:19
+201,Lees,George,BabcockPitreavieAC,,02:25:20
+202,Barnfather,Ewan,Annan&DistrictAC,LN,02:25:26
+203,Sawyer,Henry,CambridgeTriathlon,XAC,02:25:37
+204,McALLISTER,Kenneth,LochaberAC,,02:25:43
+205,Dougan,JohnRobertson,LochaberAC,CD,02:25:49
+206,Brett,,AlexanderMackenzieIsleofJuraAC,E,02:26:00
+207,Bridge,Ken,AccringtonRoadRunners,DE,02:26:18
+208,McGUIRE,Kenneth,FifeAC,F,02:26:30
+209,Rogan,Paul,KeighleyHillRunners,CD,02:26:45
+210,Webber,PaulAnthony,KeighleyHillRunners,,02:27:14
+211,Chapman,Barry,TodmordenHarriers,V,02:27:15
+212,Poulter,Ray,TodmordenHarriers,C,02:27:16
+213,Johnson,Philip,DudleyKingswinfordRC,,02:27:19
+214,Bradshaw,Norman,StrathclydePoliceAC,E,02:27:28
+215,Scuffins,Ian,SkyracAC,,02:27:30
+216,Denver,Keith,BlackburnHarriers&AC,,02:27:33
+217,O'Connor,Tommy,LochaberAC,,02:27:39
+218,Maughan,Doug,OchilHillRunners,MVS,02:27:49
+219,Farquharson,David R,ArbroathFooters,,02:28:13
+220,Smith,Peter,MandaleHarriers,C,02:28:33
+221,Morgan,Frank,NewcastleAC,L,02:28:35
+222,Coffey,MichaelAnthony,BingleyHarriers&AC,L,02:28:42
+223,Logan,Tony,Lancaster&MorecambeAC,,02:28:54
+224,Benton,J,RydeHarriers,XN,02:29:00
+225,Brown,Douglas,Clayton-le-MoorsHarriers,XNS,02:29:06
+226,Macpherson,Bryan,LochaberAC,,02:29:10
+227,McGUIRE,DuncanR R,DundeeHawhillHarriers,,02:29:16
+228,Whyte,AlexanderDuthie MinoltaBlack,IsleAC,,02:29:32
+229,Evans,Brian,PrestatynAC,I,02:29:48
+230,Anderson,John,TayvallichHillRunners,MNP,02:30:00
+231,Downie,Chris,Lothian&BordersPoliceAC,,02:30:05
+232,Asquith,Duncan,SkyracAC,N,02:30:07
+233,Benham,Frank,ArbroathFooters,I,02:30:08
+234,Ramsay,Charlie,CarnethyHillRunning,C,02:30:24
+235,Sidebottom,Eric W,StrathearnHarriers,CH,02:30:40
+236,McNULTY,Ian,DundeeHawhillHarriers,D,02:30:43
+237,Laycock,Andrew M,CityofEdinburghAC,XVF,02:31:03
+238,Callander,Gordon Jn,GreigBuildersCentralAC,,02:31:33
+239,Cant,Robert,LochaberAC,CDI,02:31:49
+240,Bradley,Tony,CalderValleyFellFunners,MN,02:31:54
+241,Ruffell,Stuart,CarnethyHillRunning,C,02:31:57
+242,Woodward,Graeme,CalderValleyFellFunners,,02:32:09
+243,Walmsley,Neil J,AmblesideAC,D,02:32:23
+244,Orr,Ernie,LochaberAC,CD,02:32:44
+245,Bates,Paul,HolmfirthHarriers,CD,02:32:50
+246,Ashton,David,TodmordenHarriers,E,02:32:58
+247,Walker,David,LochaberAC,C,02:33:04
+248,Mackenzie,Iain,DeesideRunners,I,02:33:11
+249,Batley,S,SkyracAC,XNJP,02:33:14
+250,Conway,P,DewsburyRoadRunners,XP,02:33:24
+251,Ford,Mike,BingleyHarriers&AC,,02:33:28
+252,Gatehouse,Richard,LomondHillRunners,,02:33:32
+253,Coltman,Alan J,TeviotdaleHarriers,,02:33:36
+254,Isdale,Amanda,BingleyHarriers&AC,,02:33:40
+255,York,Andrew,ForfarRoadRunners,,02:33:42
+256,Harvey,Nigel,TodmordenHarriers,,02:33:43
+257,Doyle,J F,Lancaster&MorecambeAC,V,02:33:54
+258,Gibbons,David,LostockAC,MP,02:34:07
+259,Thompson,Harry,Clayton-le-MoorsHarriers,,02:34:12
+260,Pugh,Tj L,NewtownAC,XVF,02:34:16
+261,Hughes,Bob,OchilHillRunners,C,02:34:41
+262,Trowbridge,Tony,DarkPeakFellRunners,CJ,02:34:52
+263,Ashworth,KieronDavid,Clayton-le-MoorsHarriers,CE,02:35:23
+264,Rogan,Kevin,KeighleyHillRunners,C,02:35:29
+265,Hindle,Peter,Clayton-le-MoorsHarriers,MN,02:35:31
+266,Sykes,Andrew,WoodkirkValleyAC,,02:36:19
+267,Robinson,Mick,NottsAC,,02:36:25
+268,Shaw,Jonathan,LancashireConstabularyAC,CE,02:38:01
+269,Quinn,John,FifeAC,,02:38:18
+270,Dobson,Frank,BingleyHarriers&AC,E,02:38:24
+271,Turnbull,Drew,EastKilbrideAC,EL,02:38:50
+272,Slater,Sandy,LochaberAC,XV,02:38:56
+273,Balmforth,Joseph,BingleyHarriers&AC,,02:39:02
+274,Connolly,Mike,LochaberAC,MVN,02:39:22
+275,Mackintosh,William,CarnethyHillRunning,,02:40:08
+276,Macleod,Jack,InvernessHarriers,C,02:40:16
+277,Wolfendale,David,Lancaster&MorecambeAC,,02:40:49
+278,Illidge,Andy,MerseyFellRunners,V,02:41:29
+279,Bates,Paul,Lancaster&MorecambeAC,VN,02:41:56
+280,McVEIGH,Martin J,NewcastleAC,XV,02:42:09
+281,Wood,Max,SkyracAC,,02:42:10
+282,Stewart,James,CalderglenHarriers,,02:42:25
+283,Hodgson,Philip,AccringtonRoadRunners,C,02:42:26
+284,Gilthorpe,David,SaltwellHarriers,XS,02:42:56
+285,Blenkinsop,Harry,KeswickAC,L,02:43:19
+286,Wilkinson,Peter,SaltwellHarriers,,02:43:32
+287,Hayler,Mark,Lancaster&MorecambeAC,C,02:44:13
+288,Dyson,Neil,MandaleHarriers,DE,02:44:59
+289,Holden,GrahamDavid,Lancaster&MorecambeAC,,02:45:08
+290,Austin,Patrick,CambridgeHarriers,C,02:45:09
+291,Pringle,Bill,TeviotdaleHarriers,ML,02:45:10
+292,Clark,Isobel,ArbroathFooters,D,02:45:11
+293,Campbell,Ian,Lothian&BordersPoliceAC,CD,02:45:12
+294,Furness,Leigh,DudleyKingswinfordRC,E,02:45:30
+295,Greenwood,WilliamK J,CosmicHillbashers,DE,02:45:47
+296,Hirst,RobertJames,Clayton-le-MoorsHarriers,E,02:45:50
+297,Peoples,David,OchilHillRunners,C,02:45:57
+298,Brown,Derrick,Clayton-le-MoorsHarriers,,02:46:10
+299,Bridge,Maureen,KeswickAC,CEL,02:46:50
+300,Thomson,Grant,CarnethyHillRunning,EI,02:47:41
+301,O'Neill,D,TodmordenHarriers,C,02:49:30
+302,Osmond,Chris,WesterlandsCrossCountry,M,02:49:38
+303,Rosenberg,Colin,WoodkirkValleyAC,C,02:49:52
+304,Beveridge,Bob,LomondHillRunners,CE,02:49:55
+305,Coope,Edwin,HorwichRMIHarriers,CD,02:50:15
+306,Frost,Michael A,Clayton-le-MoorsHarriers,,02:50:30
+307,Reale,Paolo,KeswickAC,,02:50:32
+308,Pullen,Les,CambridgeHarriers,C,02:50:37
+309,Hunter,Pete,Lothian&BordersPoliceAC,,02:50:54
+310,Watson,Michael,BingleyHarriers&AC,,02:50:59
+311,Shotter,Neal,Pudsey&BramleyAC,C,02:51:01
+312,Leathley,Brian,Clayton-le-MoorsHarriers,CD,02:51:31
+313,Gorman,Richard M,WesterlandsCrossCountry,XNS,02:51:38
+314,Richardson,Sara,LochaberAC,,02:52:11
+315,Bradley,Jim,Buxton&DistrictAC,CE,02:52:13
+316,Mason,PeterStuart,HalifaxHarriers,M,02:52:18
+317,Dodd,Paul,WestYorksFireServiceAC,N,02:52:30
+318,Parker,Andrew,DudleyKingswinfordRC,DEG,02:52:53
+319,Robinson,Peter,NorthernVeteransAC,E,02:53:14
+320,Goth,Mandy,TodmordenHarriers,D,02:53:34
+321,Schofield,Brian,TodmordenHarriers,XN,02:53:46
+322,White,Andrew,CosmicHillbashers,DE,02:54:01
+323,Rogerson,Colin,Lothian&BordersPoliceAC,MVN,02:54:05
+324,O'Brien,David,Clayton-le-MoorsHarriers,,02:54:27
+325,Marsh,JohnPoulson,TeviotdaleHarriers,CDL,02:54:34
+326,Mitchell,Robert,TeviotdaleHarriers,X,02:54:35
+327,Atkinson,Harry,BingleyHarriers&AC,,02:54:59
+328,Whalley,Neil,Clayton-le-MoorsHarriers,CD,02:55:20
+329,Dawson,Roger,SkyracAC,,02:55:46
+330,Thompson,George,Clayton-le-MoorsHarriers,XV,02:56:02
+331,Cottam,N J 8th,InfantryBrigadeAC,,02:56:28
+332,Pluck,DanielLewis 8th,InfantryBrigadeAC,D,02:56:28
+333,Ralston,Stephen,FellRunnersAssociation,E,02:56:32
+334,Gaston,Paul,SteyningAC,MN,02:56:50
+335,Smith,Lyn,LochaberAC,E,02:57:12
+336,Cash,FrederickJohn,LoughtonAC,F,02:57:25
+337,Nicol,Robert,IrvineAC,C,02:57:42
+338,Balding,R Raf,Orienteers,XN,02:57:52
+339,Soper,Hugo A,VauxhallMotorsRC,,02:58:22
+340,Pryor,Stephen W,CosmicHillbashers,MV,02:58:31
+341,Tinker,Michael A,TeviotdaleHarriers,V,02:59:38
+342,Johnston,RobertDavid,InvernessHarriers,AL,03:00:19
+343,Hodge,A W,CambridgeHarriers,,03:00:25
+344,Mackey,Tim,DarkPeakFellRunners,X,03:00:30
+345,Tait,Richard,MerciaFellRunners,CD,03:01:47
+346,Callan,Julie,CarnethyHillRunning,,03:02:09
+347,Henderson,John C,Clayton-le-MoorsHarriers,XNV,03:02:17
+348,Topham,Stephen,SaltwellHarriers,XV,03:04:11
+349,Bailey,DavidPaul,Clayton-le-MoorsHarriers,CE,03:05:34
+350,Allemano,Ralph,HighgateHarriers,XV,03:06:11
+351,Clapperton,Robert,RetfordAC,,03:06:29
+352,Pedley,Andrew,RetfordAC,LV,03:06:29
+353,Morton,Derek,BerwickHarriers,,03:07:19
+354,Smith,James,TodmordenHarriers,MV,03:07:34
+355,Richardson,Francis,TodmordenHarriers,AI,03:10:03
+356,Barclay,William,RAMCRunning,CD,03:10:13
+357,Dowling,Joanne,TodmordenHarriers,AK,03:11:10
+358,Mullins,Phil,Hi-TechUK,LVF,03:11:19
+359,Parker,Fiona,Hi-TechUK,DE,03:11:19
+360,Mitchell,Eric,DarkPeakFellRunners,,03:11:42
+361,Grundy,CharlesPatrick,Buxton&DistrictAC,,03:12:31
+362,Becconsall,Alec,TodmordenHarriers,CH,03:14:41
+363,Heffer,MartinJames,101(London)EngineerRegt,,03:15:00
+364,Smith,Jean Greenock,GlenparkHarriers,E,03:15:12
+365,Williams,DNoel,LochaberAC,,03:15:13
+366,Anderson,John,LochaberAC,C,03:15:23
+367,Swift,ColinDavid 8th,InfantryBrigadeAC,A,03:15:40
+368,Hughes,Peter,Clayton-le-MoorsHarriers,C,03:16:26
+369,Hartley,Harry,NorthernVeteransAC,MN,03:18:48
+370,Benny,Graham,WesterlandsCrossCountry,,03:19:19
+371,Taylor,Nat,GirvanAC,X,03:20:00
+372,Turner,H,MidlandsVeteransAC,D,03:21:53
+373,Morris,Max,NeathHarriers,XE,03:25:03
+374,Young,HenrySwan,InvernessHarriers,,03:26:07
+375,Jardine,Jimmy,LochaberAC,,03:30:16
+376,Jensen,Charles T,BayAreaUltrarunners(USA),BE,03:30:38
+377,Ross,Malcolm,InvernessHarriers,C,03:31:00
+378,McNEILLY,William,NewcastleAC,MV,03:36:01
+379,Mitchell,Stewart,LochaberAC,,03:36:16
+380,Smith,Allan,Lothian&BordersPoliceAC,CK,03:39:34
+381,Lloyd,Sheila M,EryriHarriers,EL,03:43:18
+382,Smith,AlanRaymond,CastelPointJoggers,MV,04:04:00
