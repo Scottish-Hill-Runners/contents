@@ -5,5 +5,4 @@ aka:
   - Nairn
   - Nairn  RR
   - Nairn Roadrunners
-  - Nairn roadrunners
 ---

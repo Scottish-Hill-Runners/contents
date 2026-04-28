@@ -5,6 +5,5 @@ aka:
   - Solway HR
   - Solway Harriers
   - Solway RC
-  - Solway Rc
   - Solway Runners
 ---

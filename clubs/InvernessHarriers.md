@@ -6,5 +6,4 @@ aka:
   - (Inverness)
   - Inverness Harriers AAC
   - Inverness Harriers AC
-  - Inverness harriers AAC
 ---

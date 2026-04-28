@@ -2,6 +2,7 @@
 name: Lomond Hill Runners
 aka:
   - Lomond
+  - Lomonds
   - Lomond HR
   - LOMOND HILL RUNNER
   - Lomond FR

@@ -6,5 +6,4 @@ aka:
   - Linlithgow AAC
   - Linlithgow Athletic Club
   - Linlithgow Athletics Club
-  - linlithgow aac
 ---

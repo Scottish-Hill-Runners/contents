@@ -6,7 +6,6 @@ aka:
   - Carnethy Hill Racing Club
   - Carnethy HR
   - Carnethy Hill Runners
-  - Carnethy Hill runners
   - Carnethy Hill RC
   - CHRC
 web: https://www.carnethy.com

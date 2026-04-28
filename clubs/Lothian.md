@@ -8,7 +8,6 @@ aka:
   - Lothian Runners
   - Lothian R.C
   - Lothian r/c
-  - lothian r/c
   - Lothian R C
   - Lothian R.C.
 ---

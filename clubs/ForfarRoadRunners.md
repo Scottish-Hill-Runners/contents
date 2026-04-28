@@ -5,5 +5,4 @@ aka:
   - Forfar
   - Forfar AC
   - Forfar Roadrunners
-  - Forfar roadrunners
 ---

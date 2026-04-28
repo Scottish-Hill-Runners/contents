@@ -3,7 +3,6 @@ name: Deeside Runners
 aka:
   - Deeside
   - Deeside Jog Scotland
-  - DEESIDE HILL RUNNERS
   - Deeside AAC
   - Deeside HR
   - Deeside Harriers

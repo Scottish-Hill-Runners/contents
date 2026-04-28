@@ -17,7 +17,6 @@ aka:
   - Edinburgh Uni Tri Club
   - Edinburgh Uni.
   - Edinburgh University H&H
-  - Edinburgh University Hare And Hounds
   - Edinburgh University Hare and Hounds
   - Edinburgh University Hare&Hounds
 ---
