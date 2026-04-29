@@ -3,6 +3,7 @@ title: Dollar Hill Race
 venue: Dollar Academy
 distance: 15
 climb: 960
+eras: pre–1998; 1998-present
 record: Simon Bailey, 1:11:27 (2014)
 femaleRecord: Pippa Maddams, 1:24:01 (2010)
 web: www.ochilhillrunners.org.uk

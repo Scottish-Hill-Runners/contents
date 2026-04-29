@@ -78,7 +78,17 @@ Rules:
   This will usually be inserted automatically, based on existing content.
 - Keep excerpt concise for listing pages
 
-## Race descriptions
+## Races
+
+What constitutes a "race"? Glad you asked! Technically, a race groups together a collection of results that are meaningful to display together. Typically, a race will be held annually, and will take place over (roughly) the same course, certainly in the same location, usually around the same time each year. Many of the same runners will appear in multiple results over the years.
+
+Results from two given years may not be strictly comparable, due to differing weather conditions and route adjustments (e.g. due to forestry works), etc. However, the notion of a "course record" should make some sense, and the race information should be fairly constant from year to year.
+
+Things that are _not_ the same race include junior races held at the same location on the same day, and events that happen to be held at the same location but follow different routes.
+
+Sometimes an established race has a major route change. Results pre- and post- the change won't be comparable, but the race title and other details remain. These cases are represented by defining race "eras", such as "pre-2018" and "2018-present". The UI uses eras to allow results from a given year range to be selected. Note, a temporary one-off route change (typically a bad-weather route) doesn't require an era - use the `*` result convention explained below.
+
+## Race information
 
 Path pattern:
 
@@ -104,7 +114,9 @@ Markdown race description and event notes go here.
 
 Distance and climb must be in metric units; the UI will convert to imperial when requested.
 
-## Race results
+If the race route changed permanently at some point, include an "eras" item in the frontmatter. E.g. `eras: pre-2018; 2018-present`.
+
+## Results
 
 Path pattern:
 
@@ -115,8 +127,10 @@ CSV rules:
 - File must be valid CSV (use double-quotes if e.g. a club contains a comma)
 - Header names and required columns must match SHR validation rules used by the admin app
 - Keep values clean and consistently formatted; e.g. times should be hh:mm:ss, without omitting leading 0s.
-- Prefer using canonical club names where possible (e.g. `Westerlands CCC` in preference to `Westies`).
+- Prefer using canonical club names where possible; e.g. `Westerlands CCC` in preference to `Westies`.
 - Runner categories should start with `M` (for Male), `F` (for Female), `NB` or `A` (for Non-binary) followed (optionally) by an age. E.g. `F40` for female 40-49. The age can be omitted for senior (23-39 years) runners. Recognised categories are `x23`, `x`, `x40`, `x50`, `x55`, `x60`, etc. where `x` is the sex designator.
+- If the race is held more than once in the same calendar year, add a suffix after the year. Say, `2026-s.csv` for a summer edition and `2026-w.csv` for winter. Or a race series might be named `2023-1.csv`, `2023-2.csv`, etc.
+- If the course was shortened then append an asterisk after the year. These results will be displayed at the end when sorting results by time. E.g. `2018*.csv`.
 
 ## Editorial workflow
 

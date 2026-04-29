@@ -3,6 +3,7 @@ title: Lomonds of Fife Hill Race
 venue: Strathmiglo Village Hall
 distance: 16.76
 climb: 823
+eras: pre-2006; 2006-present
 maleRecord: Alexander Chelpelin, 1:16:05 (2022)
 femaleRecord: Heather Anderson, 1:45:46 (2022)
 web: www.lomondhillrunners.co.uk
