@@ -1,0 +1,43 @@
+# GitHub Actions workflow for the Scottish-Hill-Runners/contents repository
+#
+# Prerequisites (one-time setup in the contents repo):
+#   1. Create an "auto-merge" label (colour suggestion: #0e8a16).
+#   2. Create a "staging" branch from main if it does not already exist.
+#   3. Ensure the GITHUB_TOKEN has write access to pull requests and contents
+#      (the default Actions token is sufficient for public repos; for private
+#      repos enable "Read and write permissions" in Settings > Actions > General).
+#
+# Behaviour:
+#   - When a PR targeting the "staging" branch is opened or labelled, and the
+#     "auto-merge" label is present, this workflow:
+#       1. Waits for any required status checks to pass.
+#       2. Squash-merges the PR automatically.
+#   - PRs targeting "main" (the staging → main publish PR) are never touched
+#     by this workflow and always require manual review.
+
+name: Auto-merge minor corrections
+
+on:
+  pull_request:
+    types: [opened, labeled, synchronize, reopened]
+    branches:
+      - staging          # Only runs for PRs that target staging
+
+jobs:
+  auto-merge:
+    if: contains(github.event.pull_request.labels.*.name, 'auto-merge')
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+
+    steps:
+      - name: Enable auto-merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ github.event.pull_request.number }}" \
+            --repo "${{ github.repository }}" \
+            --squash \
+            --auto \
+            --delete-branch
