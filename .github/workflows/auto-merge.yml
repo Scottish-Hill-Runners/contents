@@ -32,12 +32,27 @@ jobs:
       contents: write
 
     steps:
-      - name: Enable auto-merge
+      - name: Enable auto-merge (idempotent)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
         run: |
-          gh pr merge "${{ github.event.pull_request.number }}" \
-            --repo "${{ github.repository }}" \
+          set -euo pipefail
+
+          # If auto-merge is already enabled (or a merge is already in progress), do nothing.
+          auto_merge_enabled=$(gh pr view "$PR" --repo "$REPO" --json autoMergeRequest --jq '.autoMergeRequest != null')
+          if [ "$auto_merge_enabled" = "true" ]; then
+            echo "Auto-merge already enabled for PR #$PR; nothing to do."
+            exit 0
+          fi
+
+          gh pr merge "$PR" \
+            --repo "$REPO" \
             --squash \
             --auto \
             --delete-branch
+
+concurrency:
+  group: auto-merge-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
