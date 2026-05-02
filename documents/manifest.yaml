@@ -1,0 +1,6 @@
+documents:
+  - path: "blobs/documents/new-SHR-web-site.pdf"
+    tier: document
+    tags: [document, presentation, archive]
+    title: "SHR community website content plan"
+    description: "Content plan for the SHR community website."

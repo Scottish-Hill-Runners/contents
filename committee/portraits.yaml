@@ -1,0 +1,13 @@
+portraits:
+  - path: "blobs/portraits/CM-SHRme.jpg"
+    tier: profile
+    tags: [portrait, committee, modern]
+  - path: "blobs/portraits/KirstyDicksonCropped.jpg"
+    tier: profile
+    tags: [portrait, committee, cropped]
+  - path: "blobs/portraits/PeterMackieCropped.jpg"
+    tier: profile
+    tags: [portrait, committee, cropped]
+  - path: "blobs/portraits/StewartWhitlieCropped.jpg"
+    tier: profile
+    tags: [portrait, committee, cropped]
