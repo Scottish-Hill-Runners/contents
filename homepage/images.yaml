@@ -1,70 +1,176 @@
-images:
-  - path: "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG summit panorama 1.jpg"
-    tier: strong
-    tags: [mountains, panorama, modern, landscape]
-  - path: "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG summit panorama 6.jpg"
-    tier: strong
-    tags: [mountains, panorama, modern, landscape]
-  - path: "blobs/homepage/Narnain to Cobbler.jpg"
-    tier: strong
-    tags: [mountains, sunrise, landscape, atmosphere]
-  - path: "blobs/races/JuraPapsfromsound.jpg"
-    tier: strong
-    tags: [coast, mountains, landscape, wide]
-  - path: "blobs/races/GlenRosaHorseshoe/ArranGlenRosa.jpg"
-    tier: strong
-    tags: [mountains, Arran, landscape, wide]
-  - path: "blobs/homepage/Luibeg.jpg"
-    tier: mosaic-only
-    tags: [river, Cairngorms, landscape, forest]
-  - path: "blobs/homepage/DumyatSunset.jpg"
-    tier: mosaic-only
-    tags: [hills, sunset, landscape, atmosphere]
-  - path: "blobs/homepage/Dumyat.jpg"
-    tier: mosaic-only
-    tags: [hills, landscape, trail, atmosphere]
-  - path: "blobs/races/BishopHill/002_Bishop_in_the_snow.jpg"
-    tier: mosaic-only
-    tags: [snow, landscape, winter, archive]
-  - path: "blobs/races/Jura/Jura Paps.jpg"
-    tier: strong
-    tags: [coast, mountains, mist, landscape, atmosphere]
-  - path: "blobs/homepage/GoatfellProspect.jpg"
-    tier: strong
-    tags: [mountains, Arran, landscape, atmosphere, wide]
-  - path: "blobs/races/Merrick/Merrick.jpg"
-    tier: strong
-    tags: [hills, Galloway, landscape, winter, summit]
-  - path: "blobs/homepage/Rosa HorseshoeMorssCollection.jpg"
-    tier: strong
-    tags: [mountains, Arran, snow, coast, landscape]
-  - path: "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG from Pony Path.jpg"
-    tier: strong
-    tags: [mountains, trail, landscape, modern]
-  - path: "blobs/homepage/_MaG summit panorama 5.jpg"
-    tier: strong
-    tags: [mountains, panorama, lochs, landscape, modern]
-  - path: "blobs/homepage/_MaG summit panorama 7.jpg"
-    tier: strong
-    tags: [mountains, panorama, landscape, modern]
-  - path: "blobs/homepage/_MaG whole route.jpg"
-    tier: strong
-    tags: [mountains, panorama, lochs, landscape, modern]
-  - path: "blobs/homepage/_MaG summit panorama 8.jpg"
-    tier: mosaic-only
-    tags: [mountains, panorama, landscape, modern]
-  - path: "blobs/races/LairigGhru/Lairig Ghru 2004.jpg"
-    tier: mosaic-only
-    tags: [mountains, Cairngorms, landscape, trail, classic]
-  - path: "blobs/homepage/IMGP3772GlenAmpleStuc06.jpg"
-    tier: mosaic-only
-    tags: [glen, mountains, trail, atmosphere]
-  - path: "blobs/homepage/arthurseat.jpg"
-    tier: mosaic-only
-    tags: [hills, Edinburgh, landscape, urban, atmosphere]
-  - path: "blobs/races/BenNevis/Ben Nevis aerial.jpg"
-    tier: mosaic-only
-    tags: [mountains, aerial, landscape, archive, wide]
-  - path: "blobs/homepage/PoolsOfDee.jpg"
-    tier: mosaic-only
-    tags: [mountains, Cairngorms, water, atmosphere]
+"images":
+  - "path": "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG summit panorama 1.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "modern"
+      - "landscape"
+  - "path": "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG summit panorama 6.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "modern"
+      - "landscape"
+  - "path": "blobs/homepage/Narnain to Cobbler.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "sunrise"
+      - "landscape"
+      - "atmosphere"
+  - "path": "blobs/races/JuraPapsfromsound.jpg"
+    "tier": "strong"
+    "tags":
+      - "coast"
+      - "mountains"
+      - "landscape"
+      - "wide"
+  - "path": "blobs/races/GlenRosaHorseshoe/ArranGlenRosa.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "Arran"
+      - "landscape"
+      - "wide"
+  - "path": "blobs/homepage/Luibeg.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "river"
+      - "Cairngorms"
+      - "landscape"
+      - "forest"
+  - "path": "blobs/homepage/DumyatSunset.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "hills"
+      - "sunset"
+      - "landscape"
+      - "atmosphere"
+  - "path": "blobs/homepage/Dumyat.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "hills"
+      - "landscape"
+      - "trail"
+      - "atmosphere"
+  - "path": "blobs/races/BishopHill/002_Bishop_in_the_snow.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "snow"
+      - "landscape"
+      - "winter"
+      - "archive"
+  - "path": "blobs/races/Jura/Jura Paps.jpg"
+    "tier": "strong"
+    "tags":
+      - "coast"
+      - "mountains"
+      - "mist"
+      - "landscape"
+      - "atmosphere"
+  - "path": "blobs/homepage/GoatfellProspect.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "Arran"
+      - "landscape"
+      - "atmosphere"
+      - "wide"
+  - "path": "blobs/races/Merrick/Merrick.jpg"
+    "tier": "strong"
+    "tags":
+      - "hills"
+      - "Galloway"
+      - "landscape"
+      - "winter"
+      - "summit"
+  - "path": "blobs/homepage/Rosa HorseshoeMorssCollection.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "Arran"
+      - "snow"
+      - "coast"
+      - "landscape"
+  - "path": "blobs/races/Meall-aGhiuthais/RA-0769-2022_MaG from Pony Path.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "trail"
+      - "landscape"
+      - "modern"
+  - "path": "blobs/homepage/_MaG summit panorama 5.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "lochs"
+      - "landscape"
+      - "modern"
+  - "path": "blobs/homepage/_MaG summit panorama 7.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "landscape"
+      - "modern"
+  - "path": "blobs/homepage/_MaG whole route.jpg"
+    "tier": "strong"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "lochs"
+      - "landscape"
+      - "modern"
+  - "path": "blobs/homepage/_MaG summit panorama 8.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "mountains"
+      - "panorama"
+      - "landscape"
+      - "modern"
+  - "path": "blobs/races/LairigGhru/Lairig Ghru 2004.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "mountains"
+      - "Cairngorms"
+      - "landscape"
+      - "trail"
+      - "classic"
+  - "path": "blobs/homepage/IMGP3772GlenAmpleStuc06.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "glen"
+      - "mountains"
+      - "trail"
+      - "atmosphere"
+  - "path": "blobs/homepage/arthurseat.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "hills"
+      - "Edinburgh"
+      - "landscape"
+      - "urban"
+      - "atmosphere"
+  - "path": "blobs/races/BenNevis/Ben Nevis aerial.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "mountains"
+      - "aerial"
+      - "landscape"
+      - "archive"
+      - "wide"
+  - "path": "blobs/homepage/PoolsOfDee.jpg"
+    "tier": "mosaic-only"
+    "tags":
+      - "mountains"
+      - "Cairngorms"
+      - "water"
+      - "atmosphere"
+  - "path": "blobs/homepage/heather.jpg"
+    "tier": "strong"
+    "tags":
+      - "landscape"
+      - "mountains"
