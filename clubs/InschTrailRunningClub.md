@@ -9,5 +9,6 @@ aka:
   - Insch Trail Runners Club
   - Insch Trail RC
   - Insch Trail
+  - Insch TRC
 ---
-Inch Trail Running Club&#x20;
+Insch Trail Running Club&#x20;
