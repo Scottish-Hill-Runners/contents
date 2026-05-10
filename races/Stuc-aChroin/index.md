@@ -1,12 +1,14 @@
 ---
 title: Stuc a`Chroin Hill Race
-venue: Strathyre, nr Callander
+venue: 'Strathyre, nr Callander'
 distance: 22
 climb: 1500
-maleRecord: Finlay Wild, 2:06:20 (2019)
-femaleRecord: Jasmin Paris, 2:40:43 (2015)
-web: http://www.stucachroin5000.org.uk
+maleRecord: 'Finlay Wild, 2:06:20 (2019)'
+femaleRecord: 'Jasmin Paris, 2:40:43 (2015)'
+web: 'http://www.stucachroin5000.org.uk'
 organiser: Steve Respinger <stuc5000@gmail.com>
+latitude: 56.3241178
+longitude: -4.3289099
 ---
 
 One of the first Category AL races in the calendar, and called the

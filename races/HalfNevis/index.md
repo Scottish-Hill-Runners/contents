@@ -1,12 +1,14 @@
 ---
 title: Half Ben Nevis Race
-venue: New Town Park, Fort William
+venue: 'New Town Park, Fort William'
 distance: 9.6
 climb: 670
-maleRecord: Colin Donnelly, 0:47:39 (1983)
-femaleRecord: Karen Skog, 1:01:51 (1998)
+maleRecord: 'Colin Donnelly, 0:47:39 (1983)'
+femaleRecord: 'Karen Skog, 1:01:51 (1998)'
 web: www.lochaberac.co.uk
 organiser: Lochaber Secretary <lochaberac@gmail.com>
+latitude: 51.8778941
+longitude: -0.4150819
 ---
 
 **Please note that for environmental reasons the 2016 Half Ben Nevis

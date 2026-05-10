@@ -1,12 +1,14 @@
 ---
 title: Dess Woods Night Race
-venue: Dess Woods, between Kincardine O`Neil and Aboyne (NJ5700)
+venue: 'Dess Woods, between Kincardine O`Neil and Aboyne (NJ5700)'
 distance: 8
 climb: 200
-maleRecord: Hamish Battle, 00:32:11 (2020)
-femaleRecord: Stephanie Provan, 00:39:40 (2018)
-web: http://www.deesiderunners.com/night-race-series/
+maleRecord: 'Hamish Battle, 00:32:11 (2020)'
+femaleRecord: 'Stephanie Provan, 00:39:40 (2018)'
+web: 'http://www.deesiderunners.com/night-race-series/'
 organiser: David Hirst <david.hirst@nr.no>
+latitude: 57.0922608
+longitude: -2.7067848
 ---
 
 Third race in Deeside’s notorious Night Race Series. Prizes galore

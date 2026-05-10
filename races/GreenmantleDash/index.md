@@ -1,12 +1,14 @@
 ---
 title: Greenmantle Dash
-venue: Broughton Village Hall, near Biggar
+venue: 'Broughton Village Hall, near Biggar'
 distance: 3.2
 climb: 200
-maleRecord: Scott Fraser, 0:15:06 (2009)
-femaleRecord: Charlotte Morgan, 0:18:45 (2013)
-web: https://penicuikharriers.org.uk/greenmantle-dash
+maleRecord: 'Scott Fraser, 0:15:06 (2009)'
+femaleRecord: 'Charlotte Morgan, 0:18:45 (2013)'
+web: 'https://penicuikharriers.org.uk/greenmantle-dash'
 organiser: Juliane Friedrich <j-friedrich2@web.de>
+latitude: 55.61606
+longitude: -3.4111734
 ---
 
 **Photos -** [2010 race](http://www.flickr.com/photos/chrisupson/sets/72157622998364401/)

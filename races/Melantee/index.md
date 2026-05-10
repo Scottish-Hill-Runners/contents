@@ -1,12 +1,14 @@
 ---
 title: Meall an t-Suidhe
-venue: New Town Park, Fort William
+venue: 'New Town Park, Fort William'
 distance: 5.6
 climb: 460
-maleRecord: Gavin Bland, 0:27:48 (1999)
-femaleRecord: Angela Mudge, 0:33:44 (1999)
+maleRecord: 'Gavin Bland, 0:27:48 (1999)'
+femaleRecord: 'Angela Mudge, 0:33:44 (1999)'
 web: www.lochaberac.com
 organiser: Lochaber Secretary <lochaberac@gmail.com>
+latitude: 51.8778941
+longitude: -0.4150819
 ---
 
 Registration: 10am at New Town Park, Claggan Fort William.

@@ -1,11 +1,13 @@
 ---
 title: Cort-ma Law Hill Race
-venue: Crow Road car park, Lennoxtown
+venue: 'Crow Road car park, Lennoxtown'
 distance: 10
 climb: 470
-record: Joe Symonds, 0:47:04 (2015)
-femaleRecord: Angela Mudge, 0:53:17 (2007)
+record: 'Joe Symonds, 0:47:04 (2015)'
+femaleRecord: 'Angela Mudge, 0:53:17 (2007)'
 web: westerlandsccc.co.uk/races.php
+latitude: 55.9731494
+longitude: -4.1992427
 ---
 **Runners must carry map of the route, compass, whistle and full waterproof body cover.**
 

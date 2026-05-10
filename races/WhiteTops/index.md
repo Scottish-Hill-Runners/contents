@@ -1,12 +1,14 @@
 ---
 title: White Tops Hill Race
-venue: Kirkton of Auchterhouse Village Hall, Angus
+venue: 'Kirkton of Auchterhouse Village Hall, Angus'
 distance: 10.4
 climb: 364
-maleRecord: Kristian Jones, 0:40:27 (2017)
-femaleRecord: Heather Anderson, 0:51:11 (2019)
+maleRecord: 'Kristian Jones, 0:40:27 (2017)'
+femaleRecord: 'Heather Anderson, 0:51:11 (2019)'
 web: www.dundeehawks.co.uk
 organiser: Billy Gibson <calumruaridh@googlemail.com>
+latitude: 56.666667
+longitude: -2.916667
 ---
 
 The White Tops Hill race usually takes place on a Friday evening in

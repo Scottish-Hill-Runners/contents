@@ -3,9 +3,11 @@ title: Lairig Ghru
 venue: Braemar to Aviemore
 distance: 43
 climb: 640
-maleRecord: Murray Strain, 2:58:10 (2017)
-femaleRecord: Lucy Colquhoun, 3:32:38 (2006)
+maleRecord: 'Murray Strain, 2:58:10 (2017)'
+femaleRecord: 'Lucy Colquhoun, 3:32:38 (2006)'
 web: deesiderunners.com/?page_id=27
+latitude: 57.0798248
+longitude: -3.6961676
 ---
 
 The Lairig Ghru is a category C Long Hill Race run over 43km between

@@ -1,13 +1,15 @@
 ---
 title: Kilpatricks Kaper
-venue: Sports Ground, Old Kilpatrick, G60 5LX
+venue: 'Sports Ground, Old Kilpatrick, G60 5LX'
 distance: 6.8
 climb: 350
 eras: pre-2018; 2018-present
-maleRecord: Thomas Callan, 29:16 (2022)
-femaleRecord: Ellen Downs, 34:30 (2022)
+maleRecord: 'Thomas Callan, 29:16 (2022)'
+femaleRecord: 'Ellen Downs, 34:30 (2022)'
 web: westerlandsccc.co.uk/club-races
 organiser: James Callender <james.callender1@icloud.com>
+latitude: 55.835621
+longitude: -4.2857484
 ---
 
 **New race route for 2018 due to forestry operations**

@@ -3,9 +3,11 @@ title: Glas Tulaichean Uphill
 venue: Dalmunzie Hotel (near Spittal of Glenshee)
 distance: 7.2
 climb: 670
-maleRecord: Kristian Jones, 0:33:28 (2018)
-femaleRecord: Angela Mudge, 0:38:50 (2003)
+maleRecord: 'Kristian Jones, 0:33:28 (2018)'
+femaleRecord: 'Angela Mudge, 0:38:50 (2003)'
 web: www.dundeehawks.co.uk
+latitude: 56.8236724
+longitude: -3.4905535
 ---
 
 Uphill only route to the summit of Glas Tulaichean (1051m) on good

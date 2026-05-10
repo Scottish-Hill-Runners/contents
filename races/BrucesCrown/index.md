@@ -1,11 +1,13 @@
 ---
 title: Bruce`s Crown
-venue: Caldons Campsite, Glentrool, Galloway
+venue: 'Caldons Campsite, Glentrool, Galloway'
 distance: 74
 climb: 4200
-record:
-femaleRecord:
-web:
+record: null
+femaleRecord: null
+web: null
+latitude: 55.083333
+longitude: -3.833333
 ---
 
 Category: AL

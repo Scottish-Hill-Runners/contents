@@ -1,11 +1,13 @@
 ---
 title: Slioch Horseshoe
-venue: Incheril, near Kinlochewe
+venue: 'Incheril, near Kinlochewe'
 distance: 20
 climb: 1180
-record: Finlay Wild, 1:54:17 (2012)
-femaleRecord: Angela Mudge, 2:28:11 (2012)
+record: 'Finlay Wild, 1:54:17 (2012)'
+femaleRecord: 'Angela Mudge, 2:28:11 (2012)'
 web: facebook.com/sliochrace
+latitude: 57.6057904
+longitude: -5.2900995
 ---
 [![Race Profile](http://chris-upson.com/raceprofiles/Slioch_Profile_tn.jpg)](http://chris-upson.com/raceprofiles/Slioch_Profile.jpg) [![Slioch from Loch Maree](http://farm4.static.flickr.com/3164/2544543798_56df57331a_t.jpg)](http://www.flickr.com/photos/scottishhillrunners/2544543798/ "Slioch from Loch Maree") [![2008 race winner - Simon Peachey](http://farm4.static.flickr.com/3099/2544215511_5a1ecb6598_t.jpg)](http://www.flickr.com/photos/scottishhillrunners/2544215511/ "2008 race winner - Simon Peachey")
 

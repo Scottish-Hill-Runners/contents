@@ -1,11 +1,13 @@
 ---
 title: The Brack
-venue: Ardgartan, near Arrochar
+venue: 'Ardgartan, near Arrochar'
 distance: 7
 climb: 750
-record: Gwyn Bellamy, 0:55:16 (2016)
-femaleRecord: Angela Mudge, 1:03:45 (2019)
-web: 
+record: 'Gwyn Bellamy, 0:55:16 (2016)'
+femaleRecord: 'Angela Mudge, 1:03:45 (2019)'
+web: null
+latitude: 56.1893679
+longitude: -4.7819154
 ---
 Start time 1pm. Registration from 11.30. SHR insurance. Max 150 entrants. Entry on day only. £6.
 

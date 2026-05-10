@@ -1,12 +1,14 @@
 ---
 title: Isle of Jura Fell Race
-venue: Craighouse, Jura
+venue: 'Craighouse, Jura'
 distance: 28
 climb: 2370
-maleRecord: Finlay Wild, 2:58:09 (2022)
-femaleRecord: Jasmin Paris, 3:38:43 (2015)
+maleRecord: 'Finlay Wild, 2:58:09 (2022)'
+femaleRecord: 'Jasmin Paris, 3:38:43 (2015)'
 web: www.jurafellrace.org.uk
 organiser: Jenn Ruddick <organiser@isleofjurafellrace.co.uk>
+latitude: 55.8333177
+longitude: -5.9507615
 ---
 
 The Isle of Jura Fell Race is a classic on many a fell runner's wish

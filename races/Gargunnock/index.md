@@ -1,11 +1,13 @@
 ---
 title: Gargunnock Hill Race
-venue: Gargunnock, near Stirling
+venue: 'Gargunnock, near Stirling'
 distance: 7.5
 climb: 300
-maleRecord: Graham Gristwood, 0:27:35 (2016)
-femaleRecord: Fanni Gyurko, 0:33:24 (2016)
-web: 
+maleRecord: 'Graham Gristwood, 0:27:35 (2016)'
+femaleRecord: 'Fanni Gyurko, 0:33:24 (2016)'
+web: null
+latitude: 56.1244452
+longitude: -4.0828296
 ---
 The overall winner will be presented with the David Hay Memorial Trophy
 
