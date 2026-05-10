@@ -1,11 +1,13 @@
 ---
 title: Clachnaben Hill Race
-venue: Near Strachan, South Deeside
+venue: 'Near Strachan, South Deeside'
 distance: 13.6
 climb: 690
-record: Joe Symonds, 1:02:43 (2012)
-femaleRecord: Stephanie Provan, 1:17:40 (2017)
+record: 'Joe Symonds, 1:02:43 (2012)'
+femaleRecord: 'Stephanie Provan, 1:17:40 (2017)'
 web: cosmics.org.uk/text/text.php?p=clachnaben
+latitude: 55.8793484
+longitude: -4.3848736
 ---
 [**New route details in PDF format (2.3MB)**](http://www.scottishhillracing.co.uk/info/2012/Clachnaben_new_2012.pdf)
 

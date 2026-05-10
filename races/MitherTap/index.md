@@ -3,10 +3,12 @@ title: Mither Tap
 venue: Bennachie Visitor Centre
 distance: 6.4
 climb: 365
-maleRecord: Robbie Simpson, 0:29:11 (2018)
-femaleRecord: Clare Whitehead, 0:36:06 (2016)
+maleRecord: 'Robbie Simpson, 0:29:11 (2018)'
+femaleRecord: 'Clare Whitehead, 0:36:06 (2016)'
 web: www.cosmics.org.uk
 organiser: Ian Hamilton <corrennie@myphone.coop>
+latitude: 57.2908241
+longitude: -2.5287737
 ---
 
 From the visitor centre the race follows the old turnpike road before

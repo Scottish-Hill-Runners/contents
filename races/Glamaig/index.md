@@ -1,11 +1,13 @@
 ---
 title: David Shepherd Memorial Glamaig Hill Race
-venue: Sligachan Hotel, Skye
+venue: 'Sligachan Hotel, Skye'
 distance: 7
 climb: 760
-record: Finlay Wild, 0:44:22 (2018)
-femaleRecord: Jill Stephen, 0:56:09 (2018)
+record: 'Finlay Wild, 0:44:22 (2018)'
+femaleRecord: 'Jill Stephen, 0:56:09 (2018)'
 web: carnethy.com/glamaig
+latitude: 57.2898328
+longitude: -6.1749502
 ---
 
 Enter £5 online, via [SI Entries](https://www.sientries.co.uk).

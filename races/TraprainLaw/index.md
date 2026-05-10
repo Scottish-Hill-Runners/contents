@@ -1,12 +1,14 @@
 ---
 title: Traprain Law Race
-venue: Memorial Park, School Road, East Linton
+venue: 'Memorial Park, School Road, East Linton'
 distance: 10.4
 climb: 310
-record: Gregor Booth, 0:37:26 (1996)
-femaleRecord: Angela Mudge, 0:41:13 (2002)
-web: http://carnethy.com/carnethy-organised-races/traprain-law-hill-race/
+record: 'Gregor Booth, 0:37:26 (1996)'
+femaleRecord: 'Angela Mudge, 0:41:13 (2002)'
+web: 'http://carnethy.com/carnethy-organised-races/traprain-law-hill-race/'
 organiser: Dorothy Elliott <Traprainchr@gmail.com>
+latitude: 55.7768643
+longitude: -3.9003027
 ---
 
 Traprain Law is a typical Lothian volcanic hill rising from the

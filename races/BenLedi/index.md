@@ -3,9 +3,11 @@ title: Ben Ledi Hill Race
 venue: Forest Holidays between Callander and Strathyre
 distance: 10
 climb: 750
-record: Jacob Atkin, 0:50.05 (2017)
-femaleRecord: Fanni Gristwood, 1:03:33 (2016)
+record: 'Jacob Atkin, 0:50.05 (2017)'
+femaleRecord: 'Fanni Gristwood, 1:03:33 (2016)'
 web: skidaddle.org
+latitude: 55.6606092
+longitude: -3.1532131
 ---
 The route is approximately 10k - a loop which heads up Ben Ledi over the summit and down Stank Glen.
 

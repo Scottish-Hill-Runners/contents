@@ -1,11 +1,13 @@
 ---
 title: Ben Sheann Hill Race
-venue: Strathyre, Perthshire
+venue: 'Strathyre, Perthshire'
 distance: 3.4
 climb: 380
-record: James Espie, 0:25:19 (2018)
-femaleRecord: Catriona Buchanan, 0:31:57 (2010)
+record: 'James Espie, 0:25:19 (2018)'
+femaleRecord: 'Catriona Buchanan, 0:31:57 (2010)'
 web: stucachroin5000.org.uk
+latitude: 56.3241178
+longitude: -4.3289099
 ---
 [![](http://chris-upson.com/2008/BenSheann/BenSheannMidgeHell_tn.jpg "Midge Hell")](http://chris-upson.com/2008/BenSheann/BenSheannMidgeHell.jpg)
 

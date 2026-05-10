@@ -1,11 +1,13 @@
 ---
 title: Aonach Mor Uphill (New Year)
-venue: Nevis Range Ski Centre, Torlundy, Fort William
+venue: 'Nevis Range Ski Centre, Torlundy, Fort William'
 distance: 4
 climb: 610
-record: Robbie Simpson, 0:21:13 (2014)
-femaleRecord: Nicola Meekin, 0:26:28 (2009)
+record: 'Robbie Simpson, 0:21:13 (2014)'
+femaleRecord: 'Nicola Meekin, 0:26:28 (2009)'
 web: www.sientries.co.uk
+latitude: 56.8178257
+longitude: -5.1109516
 ---
 Online entry only. **NO** entry on the day.
 

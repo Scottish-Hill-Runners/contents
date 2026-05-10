@@ -1,12 +1,14 @@
 ---
 title: Yetholm Hill Race
-venue: Halterburn, near Kirk Yetholm
+venue: 'Halterburn, near Kirk Yetholm'
 distance: 12.8
 climb: 762
-maleRecord: Morgan Donnelly, 1:00:19 (2013)
-femaleRecord: Victoria Wilkinson, 1:11:33 (2013)
-web: 
+maleRecord: 'Morgan Donnelly, 1:00:19 (2013)'
+femaleRecord: 'Victoria Wilkinson, 1:11:33 (2013)'
+web: null
 organiser: Les Turnbull <les1984@btinternet.com>
+latitude: 55.5360326
+longitude: -2.2530584
 ---
 
 Registration at start/finish area at Halterburn.

@@ -1,12 +1,14 @@
 ---
 title: Trotternish Ridge
-venue: Flodigarry, Isle of Skye
+venue: 'Flodigarry, Isle of Skye'
 distance: 28
 climb: 2000
-maleRecord: Finlay Wild, 02:37:12 (2022)
-femaleRecord: Miranda Grant, 3:11:21 (2017)
-web: 
+maleRecord: 'Finlay Wild, 02:37:12 (2022)'
+femaleRecord: 'Miranda Grant, 3:11:21 (2017)'
+web: null
 organiser: Neil Turner <neilsturner@btinternet.com>
+latitude: 57.6615412
+longitude: -6.251435
 ---
 
 Online entry at [SiEntries](https://www.sientries.co.uk).

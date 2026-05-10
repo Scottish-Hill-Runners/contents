@@ -1,11 +1,13 @@
 ---
 title: Durisdeer Hill Race
-venue: Durisdeer, near Thornhill
+venue: 'Durisdeer, near Thornhill'
 distance: 16
 climb: 1240
-record: Rob Jebb, 1:21:53 (2008)
-femaleRecord: Angela Mudge, 1:34:43 (2008)
-web: 
+record: 'Rob Jebb, 1:21:53 (2008)'
+femaleRecord: 'Angela Mudge, 1:34:43 (2008)'
+web: null
+latitude: 55.3146195
+longitude: -3.7444293
 ---
 
 [2008 Photos](http://flickr.com/photos/scottishhillrunners/sets/72157605622055693/)

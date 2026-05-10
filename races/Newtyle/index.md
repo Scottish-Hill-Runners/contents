@@ -1,12 +1,14 @@
 ---
 title: Newtyle Hill Race
-venue: 	Registration at the field, up Brae Street
+venue: 'Registration at the field, up Brae Street'
 distance: 7.8
 climb: 300
-maleRecord: Jamie Crowe, 26:59 (2023)
-femaleRecord: Catriona Morrison, 0:35:01 (2019)
+maleRecord: 'Jamie Crowe, 26:59 (2023)'
+femaleRecord: 'Catriona Morrison, 0:35:01 (2019)'
 web: www.thetaybankdunkeld.com
 organiser: Adrian Davis <wildoutdoorscotland@gmail.com>
+latitude: 56.115728
+longitude: -3.1525675
 ---
 
 Registration from 6pm at the Taybank Pub

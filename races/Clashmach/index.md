@@ -1,11 +1,13 @@
 ---
 title: Clashmach Hill Race
-venue: Huntly Auction Mart, Huntly. AB54 4QU.
+venue: 'Huntly Auction Mart, Huntly. AB54 4QU.'
 distance: 6
 climb: 375
-maleRecord: Caiden Thom, 00:23:40 (2022)
-femaleRecord: Ellen Paton, 00:27:54 (2023)
-web: https://fraserburghrunningclub.co.uk/event/clashmach-hill-race-huntly-2/
+maleRecord: 'Caiden Thom, 00:23:40 (2022)'
+femaleRecord: 'Ellen Paton, 00:27:54 (2023)'
+web: 'https://fraserburghrunningclub.co.uk/event/clashmach-hill-race-huntly-2/'
+latitude: 57.4474806
+longitude: -2.7864246
 ---
 
 The race was resumed in 2017 after a break of 25 years. The route

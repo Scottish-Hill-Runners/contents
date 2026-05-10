@@ -1,11 +1,13 @@
 ---
 title: Bishop Hill Race
-venue: Portmoak Village Hall, Scotlandwell, Fife
+venue: 'Portmoak Village Hall, Scotlandwell, Fife'
 distance: 3.5
 climb: 300
-maleRecord: Jamie Crowe, 00:16:59 (2023)
-femaleRecord: Clare Whitehead, 0:20:32 (2011)
+maleRecord: 'Jamie Crowe, 00:16:59 (2023)'
+femaleRecord: 'Clare Whitehead, 0:20:32 (2011)'
 web: www.lomondhillrunners.co.uk
+latitude: 56.3333331
+longitude: -3.0000001
 ---
 Photos: [2008](http://www.flickr.com/photos/scottishhillrunners/sets/72157604036442955/)
 
