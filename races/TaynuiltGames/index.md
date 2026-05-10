@@ -3,9 +3,11 @@ title: Taynuilt Games Hill Race
 venue: Taynuilt
 distance: 10
 climb: 310
-record: Callum Fraser, 0:50:27 (2015)
-femaleRecord: Ruth Joss, 1:10:22 (2013)
+record: 'Callum Fraser, 0:50:27 (2015)'
+femaleRecord: 'Ruth Joss, 1:10:22 (2013)'
 web: taynuilthighlandgames.com
+latitude: 56.4308516
+longitude: -5.2398162
 ---
 Register: from 1.30pm. Entry fee: £2.
 

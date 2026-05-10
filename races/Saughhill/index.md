@@ -1,12 +1,14 @@
 ---
 title: Saughhill Race
-venue: Victory Park, Girvan, Ayrshire
+venue: 'Victory Park, Girvan, Ayrshire'
 distance: 4.5
 climb: 265
-maleRecord: Iain MacCorquodale , 0:20:38 (2017)
-femaleRecord: Katie Rourke, 0:26:31 (2018)
-web: 
+maleRecord: 'Iain MacCorquodale , 0:20:38 (2017)'
+femaleRecord: 'Katie Rourke, 0:26:31 (2018)'
+web: null
 organiser: Craig Murphy <erowney12@gmail.com>
+latitude: 55.2395902
+longitude: -4.8495698
 ---
 
 Part of the Carrick Lowland Gathering at Victory Park, accompanied by

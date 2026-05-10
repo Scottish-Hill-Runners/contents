@@ -1,11 +1,13 @@
 ---
 title: Killin Highland Games Race
-venue: Breadalbane Park, Killin
+venue: 'Breadalbane Park, Killin'
 distance: 2.5
 climb: 400
-maleRecord: Graeme Bartlett, 0:21:02 (1998)
-femaleRecord: Diana MacDonald, 0:27:24 (2017)
+maleRecord: 'Graeme Bartlett, 0:21:02 (1998)'
+femaleRecord: 'Diana MacDonald, 0:27:24 (2017)'
 web: www.killingames.co.uk
+latitude: 56.4687542
+longitude: -4.3192672
 ---
 
 A short race with a bit of everything. The route is well marked. From

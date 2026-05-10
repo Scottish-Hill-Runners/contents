@@ -1,11 +1,13 @@
 ---
 title: Broughton Junior Races
 venue: Broughton
-distance:
-climb:
-record:
-femaleRecord:
-web:
+distance: null
+climb: null
+record: null
+femaleRecord: null
+web: null
+latitude: 55.9605152
+longitude: -3.1887833
 ---
 
 ## Race Notes

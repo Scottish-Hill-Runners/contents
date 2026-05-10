@@ -1,12 +1,14 @@
 ---
 title: Morven Hill Race
-venue: Dinnet, Aboyne
+venue: 'Dinnet, Aboyne'
 distance: 8
 climb: 640
-record: Tom Owens, 0:43:22 (2015)
-femaleRecord: Angela Mudge, 0:49:47 (2006)
-web: http://www.deesiderunners.com/races/morven/
+record: 'Tom Owens, 0:43:22 (2015)'
+femaleRecord: 'Angela Mudge, 0:49:47 (2006)'
+web: 'http://www.deesiderunners.com/races/morven/'
 organiser: Warren Burgess <warrenhburgess@gmail.com>
+latitude: 57.0734535
+longitude: -2.7859982
 ---
 
 An AS category hill race. Third Race of the Aberdeenshire Hill Race Series

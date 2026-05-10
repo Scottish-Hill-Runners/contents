@@ -1,12 +1,14 @@
 ---
 title: Bennachie Hill Race
-venue: Back O`Bennachie, Oyne, Aberdeenshire
+venue: 'Back O`Bennachie, Oyne, Aberdeenshire'
 distance: 12.8
 climb: 550
-maleRecord: Rob Sinclair, 52:00 (2022)
-femaleRecord: Clare Whitehead, 1:01:25 (2002)
+maleRecord: 'Rob Sinclair, 52:00 (2022)'
+femaleRecord: 'Clare Whitehead, 1:01:25 (2002)'
 web: www.gariochroadrunners.com
 organiser: Garioch Road Runners <secretary.gariochroadrunners@gmail.com>
+latitude: 57.3099628
+longitude: -2.5632597
 ---
 
 The Bennachie Hill Race is firmly established in the calendar as one

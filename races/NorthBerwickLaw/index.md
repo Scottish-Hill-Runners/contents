@@ -1,12 +1,14 @@
 ---
 title: North Berwick Law Race
-venue: 	North Berwick Harbour
+venue: North Berwick Harbour
 distance: 4.5
 climb: 187
-maleRecord: Andrew Douglas, 00:19:29 (2023)
-femaleRecord: Anna Aitken, 00:25:00 (1999)
-web: 
-organiser: 
+maleRecord: 'Andrew Douglas, 00:19:29 (2023)'
+femaleRecord: 'Anna Aitken, 00:25:00 (1999)'
+web: null
+organiser: null
+latitude: 56.0612787
+longitude: -2.7185739
 ---
 
 Entries on-line, via

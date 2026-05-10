@@ -3,9 +3,11 @@ title: Glen Rosa Horseshoe
 venue: Brodick Castle Ranger Centre
 distance: 19.6
 climb: 1540
-record: Finlay Wild, 2:18:20 (2012)
-femaleRecord: Trish Calder, 2:42:17 (1990)
-web: 
+record: 'Finlay Wild, 2:18:20 (2012)'
+femaleRecord: 'Trish Calder, 2:42:17 (1990)'
+web: null
+latitude: 55.5950495
+longitude: -5.152878
 ---
 Start at Rangers Centre. Head west along castle drive for about 1km and follow marked path into Glen Rosa, staying on north side of burn until footbridge (982388). Climb to summit of Beinn a’ Chliabhain (CP1 970407)
 

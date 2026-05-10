@@ -1,12 +1,14 @@
 ---
 title: Gypsy Glen Hill Race
-venue: Gytes Leisure Centre, Peebles
+venue: 'Gytes Leisure Centre, Peebles'
 distance: 8.2
 climb: 306
-maleRecord: Alexander Chepelin, 0:29:15 (2019)
-femaleRecord: Sarah McCormack, 0:35:27 (2011)
+maleRecord: 'Alexander Chepelin, 0:29:15 (2019)'
+femaleRecord: 'Sarah McCormack, 0:35:27 (2011)'
 web: www.moorfootrunners.co.uk
 organiser: Mike Pearson <mike@kingsmeadows.co.uk>
+latitude: 55.6502118
+longitude: -3.183751
 ---
 
 A gruelling 10k race up and down the Gypsy Glen in Peebles.

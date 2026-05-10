@@ -1,12 +1,14 @@
 ---
 title: The Krunce Race Series
-venue: 	Kirkhill Forest, Aberdeen
+venue: 'Kirkhill Forest, Aberdeen'
 distance: 7.5
 climb: 140
-maleRecord: Ben Hukins, 22:16 (2014)
-femaleRecord: Clare Whitehead, 26:03 (2014)
-web: http://www.cosmics.org.uk
-organiser: 
+maleRecord: 'Ben Hukins, 22:16 (2014)'
+femaleRecord: 'Clare Whitehead, 26:03 (2014)'
+web: 'http://www.cosmics.org.uk'
+organiser: null
+latitude: 57.2092734
+longitude: -2.2480465
 ---
 
 A six-race series, held on the 1st Tuesday of the month.

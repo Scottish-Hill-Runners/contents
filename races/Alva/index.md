@@ -1,11 +1,13 @@
 ---
 title: Alva Games Hill Race
-venue: Johnstone Park, Alva
+venue: 'Johnstone Park, Alva'
 distance: 2.6
 climb: 385
-record: Kenny Stuart, 0:18:39 (1981)
-femaleRecord: Christina Rankin, 0:25:12 (2012)
+record: 'Kenny Stuart, 0:18:39 (1981)'
+femaleRecord: 'Christina Rankin, 0:25:12 (2012)'
 web: www.bofra.co.uk/Alva.php
+latitude: 56.1539953
+longitude: -3.8068503
 ---
 The race is organised by [**BOFRA**](http://www.bofra.co.uk/Alva.php)
 

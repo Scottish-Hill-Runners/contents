@@ -1,11 +1,13 @@
 ---
 title: Seven Hills of Edinburgh Race
-venue: Calton Hill, Edinburgh
+venue: 'Calton Hill, Edinburgh'
 distance: 22.4
 climb: 670
-record: Mike Lindsay, 1:32:40 (1987)
-femaleRecord: Angela Mudge, 1:48:15 (2002)
+record: 'Mike Lindsay, 1:32:40 (1987)'
+femaleRecord: 'Angela Mudge, 1:48:15 (2002)'
 web: www.seven-hills.org.uk
+latitude: 55.9553527
+longitude: -3.1823966
 ---
 
 Grid ref: SH 619669

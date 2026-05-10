@@ -1,11 +1,13 @@
 ---
 title: Criffel Hill Race
-venue: New Abbey, Dumfries
+venue: 'New Abbey, Dumfries'
 distance: 10.5
 climb: 550
-record: Mark Croasdale, 0:47:34 (1993)
-femaleRecord: Angela Mudge, 0:56:47 (2000)
-web: 
+record: 'Mark Croasdale, 0:47:34 (1993)'
+femaleRecord: 'Angela Mudge, 0:56:47 (2000)'
+web: null
+latitude: 54.9792329
+longitude: -3.6207031
 ---
 **Note:** In 2007, a shortened course was run due to poor weather. The 2007 route turned at the top of Knockendoch.
 

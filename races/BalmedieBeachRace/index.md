@@ -3,9 +3,11 @@ title: Balmedie Beach Race
 venue: Balmedie
 distance: 5.5
 climb: 30
-maleRecord: 
-femaleRecord: 
-web: https://www.cosmics.org.uk
+maleRecord: null
+femaleRecord: null
+web: 'https://www.cosmics.org.uk'
+latitude: 57.246473
+longitude: -2.0571418
 ---
 
 The 2nd race in the Cosmic/Deeside Hill runners Summer Series 2023 and

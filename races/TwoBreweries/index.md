@@ -3,11 +3,13 @@ title: Two Breweries Hill Race
 venue: Traquair to Broughton
 distance: 30
 climb: 1500
-maleRecord: John Taylor, 2:33:57 (1992)
-femaleRecord: Angela Mudge, 2:53:56 (2000)
+maleRecord: 'John Taylor, 2:33:57 (1992)'
+femaleRecord: 'Angela Mudge, 2:53:56 (2000)'
 club: Westerlands
-web: http://www.twobreweries.org.uk
+web: 'http://www.twobreweries.org.uk'
 organiser: John Hamer <twobreweries@gmail.com>
+latitude: 55.9596977
+longitude: -3.1904218
 ---
 
 The Two Breweries Hill Race was the brainchild of Frank Smith, brewer at Broughton Ales and keen fell runner, with the support of both Sir David Younger of Broughton Ales and Peter Maxwell Stuart, the twentieth Laird of Traquair. This much-loved race has been held every year since 1983 with the exception of 2001 (due to the foot and mouth outbreak), and 2020 (due to Covid). As well as bringing experienced hill runners to explore the local hills, it celebrates the beers and ales produced in the local breweries, and all those who make it to the finish line are rewarded with a bottle of ale, IPA or lager.

@@ -3,10 +3,12 @@ title: Arrochar Alps
 venue: Arrochar
 distance: 25
 climb: 2400
-record: Ben Bardsley, 3:07:19 (2012)
-femaleRecord: Jasmin Paris, 3:42:02 (2012)
-web: https://westerlandsccc.co.uk/club-races/arrochar-alps-hill-race/
+record: 'Ben Bardsley, 3:07:19 (2012)'
+femaleRecord: 'Jasmin Paris, 3:42:02 (2012)'
+web: 'https://westerlandsccc.co.uk/club-races/arrochar-alps-hill-race/'
 organiser: Ally MacInnes <alasdair.macinnes@yahoo.com>
+latitude: 56.1954653
+longitude: -4.7480746
 ---
 
 [![Arrochar Alps Race Profile](http://chris-upson.com/raceprofiles/ArrocharProfile_tn.jpg)](http://chris-upson.com/raceprofiles/ArrocharProfile.jpg)

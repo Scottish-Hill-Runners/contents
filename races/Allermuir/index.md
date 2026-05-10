@@ -1,12 +1,14 @@
 ---
 title: Allermuir
-venue: Lothianburn, Edinburgh
+venue: 'Lothianburn, Edinburgh'
 distance: 7
 climb: 400
-maleRecord: Lewis Taylor, 0:32:04 (2023)
-femaleRecord: Pippa Dakin, 00:40:37 (2023)
-web: https://carnethy.com/carnethy-organised-races/allermuir-hill-race/
+maleRecord: 'Lewis Taylor, 0:32:04 (2023)'
+femaleRecord: 'Pippa Dakin, 00:40:37 (2023)'
+web: 'https://carnethy.com/carnethy-organised-races/allermuir-hill-race/'
 organiser: Jonny Muir <jonny_muir@hotmail.com>.
+latitude: 55.8891717
+longitude: -3.2119165
 ---
 The race features three checkpoints:
 

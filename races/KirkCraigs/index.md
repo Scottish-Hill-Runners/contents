@@ -1,12 +1,14 @@
 ---
 title: Kirk Craigs Christmas Cracker
-venue: Centenary Hall, Hamilton Street, Tillicoultry
+venue: 'Centenary Hall, Hamilton Street, Tillicoultry'
 distance: 6.8
 climb: 536
-maleRecord: Josh Boyle, 00:36:50 (2018)
-femaleRecord: Angela Mudge, 00:43:39 (2018)
-web:
+maleRecord: 'Josh Boyle, 00:36:50 (2018)'
+femaleRecord: 'Angela Mudge, 00:43:39 (2018)'
+web: null
 organiser: Grant Baxter <grant.katy@btinternet.com>
+latitude: 56.1545495
+longitude: -3.7425947
 ---
 
 Registration starts 9.30am at Centenary Hall, Hamilton Street, Tillicoultry.

@@ -3,10 +3,12 @@ title: Snow Running Glenshee
 venue: Glenshee
 distance: 11.5
 climb: 950
-maleRecord: Ralph Mcinally, 01:05:48 (2022)
-femaleRecord: Erin McFadden, 01:15:55 (2022)
-web: https://www.ski-glenshee.co.uk/Snow-Running
+maleRecord: 'Ralph Mcinally, 01:05:48 (2022)'
+femaleRecord: 'Erin McFadden, 01:15:55 (2022)'
+web: 'https://www.ski-glenshee.co.uk/Snow-Running'
 organiser: Encarna Maturana <encarna@dymlab.com>
+latitude: 56.7533107
+longitude: -3.3997243
 ---
 
 A winter hill running event hosted at Glenshee Ski Centre with two
