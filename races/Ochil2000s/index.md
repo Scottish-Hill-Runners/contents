@@ -1,12 +1,14 @@
 ---
 title: Ochil 2000s
-venue: Stirling University, Bridge of Allan
+venue: 'Stirling University, Bridge of Allan'
 distance: 31.2
 climb: 1200
-maleecord: Kris Jones, 2:47:44 (2023)
-femaleRecord: Catriona Buchanan, 3:20:55 (2018)
+maleecord: 'Kris Jones, 2:47:44 (2023)'
+femaleRecord: 'Catriona Buchanan, 3:20:55 (2018)'
 web: www.ochilhillrunners.org.uk
 organiser: Alex King <dollar@ochilhillrunners.org.uk>
+latitude: 56.1451154
+longitude: -3.9173938
 ---
 
 On-line entry: [SiEntries](https://www.sientries.co.uk/event.php?event_id=11793)

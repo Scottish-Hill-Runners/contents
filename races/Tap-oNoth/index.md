@@ -1,12 +1,14 @@
 ---
 title: Tap o`Noth Hill Race
-venue: Rhynie, Aberdeenshire
+venue: 'Rhynie, Aberdeenshire'
 distance: 7.9
 climb: 390
-maleRecord: James Espie, 0:33:18 (2016)
-femaleRecord: Angela Mudge, 0:36:35 (2013)
+maleRecord: 'James Espie, 0:33:18 (2016)'
+femaleRecord: 'Angela Mudge, 0:36:35 (2013)'
 web: inschtrailrunningclub.co.uk/2017/07/10/tap-onoth-hill-race
 organiser: Graham Aitken <inschtrailrunningclub@gmail.com>
+latitude: 57.3319132
+longitude: -2.8347464
 ---
 
 The race will start at the playing fields in the centre of Rhynie.

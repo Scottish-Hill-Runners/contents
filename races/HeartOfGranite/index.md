@@ -1,11 +1,13 @@
 ---
 title: Heart Of Granite
-venue: Glentrool, Galloway, DG8 6SU
+venue: 'Glentrool, Galloway, DG8 6SU'
 distance: 32
 climb: 1850
-record: Gregor Stewart, 4:09:15 (2025)
-femaleRecord: Emma Stuart, 4:31:14 (2025)
-web:
+record: 'Gregor Stewart, 4:09:15 (2025)'
+femaleRecord: 'Emma Stuart, 4:31:14 (2025)'
+web: null
+latitude: 55.0729467
+longitude: -4.5729632
 ---
 
 Category: AL

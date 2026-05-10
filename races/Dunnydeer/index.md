@@ -1,11 +1,13 @@
 ---
 title: Dunnydeer Hill Race
-venue: Insch Hospital, Insch, Aberdeenshire
+venue: 'Insch Hospital, Insch, Aberdeenshire'
 distance: 7
 climb: 275
-maleRecord: Rob Sinclair, 00:27:11 (2016)
-femaleRecord: Sarah Milne, 00:36:17 (2019)
-web: https://inschtrailrunningclub.co.uk
+maleRecord: 'Rob Sinclair, 00:27:11 (2016)'
+femaleRecord: 'Sarah Milne, 00:36:17 (2019)'
+web: 'https://inschtrailrunningclub.co.uk'
+latitude: 57.3404038
+longitude: -2.6140974
 ---
 
 The race starts and finishes at the Insch Hospital.

@@ -1,11 +1,13 @@
 ---
 title: Ballater Games Race
-venue: Monaltrie Park, Ballater
+venue: 'Monaltrie Park, Ballater'
 distance: 4
 climb: 190
-record: Fred Reeves, 0:16:59 (1978)
-femaleRecord: Clare Whitehead, 0:20:38 (2015)
+record: 'Fred Reeves, 0:16:59 (1978)'
+femaleRecord: 'Clare Whitehead, 0:20:38 (2015)'
 web: www.ballaterhighlandgames.com
+latitude: 57.0524235
+longitude: -3.0379329
 ---
 **There will be a cash prize for anyone beating either of the existing records - £10 for every year the record has been in place starting at £50 minimum. So for 2016, there will be a £380 prize for breaking Fred's record, in both instances the prize will go to the person setting the new record.**
 

@@ -1,12 +1,14 @@
 ---
 title: Two Mamores Hill Race
-venue: Lower Falls, Glen Nevis.
+venue: 'Lower Falls, Glen Nevis.'
 distance: 13
 climb: 1300
-maleRecord: Finlay Wild, 01:15:33 (2022)
-femaleRecord: Caroline Marwick, 01:47:20 (2022)
-web: 
+maleRecord: 'Finlay Wild, 01:15:33 (2022)'
+femaleRecord: 'Caroline Marwick, 01:47:20 (2022)'
+web: null
 organiser: Stuart Crutchfield <stu.crutchfield@gmail.com>
+latitude: 56.7695215
+longitude: -5.0373423
 ---
 
 A hill race across two Munro summits in the Western Mamores, Glen

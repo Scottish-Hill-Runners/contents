@@ -1,11 +1,13 @@
 ---
 title: Cademuir Rollercoaster
-venue: Peebles High School, Peebles
+venue: 'Peebles High School, Peebles'
 distance: 6
 climb: 274
-maleRecord: James Dunn, 0:25:14 (2019)
-femaleRecord: Catriona Buchanan, 0:29:53 (2015)
-web: https://www.moorfootrunners.com/
+maleRecord: 'James Dunn, 0:25:14 (2019)'
+femaleRecord: 'Catriona Buchanan, 0:29:53 (2015)'
+web: 'https://www.moorfootrunners.com/'
+latitude: 55.6456764
+longitude: -3.1934463
 ---
 
 Short but testing pair of hill races on the open grassy slopes of

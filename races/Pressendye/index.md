@@ -3,10 +3,12 @@ title: Pressendye Hill Race
 venue: Tarland
 distance: 9.5
 climb: 450
-maleRecord: Robbie Simpson, 0:38:29 (2019)
-femaleRecord: Anna MacFadyen, 0:46:43 (2017)
-web: https://www.cosmics.org.uk/summer-series-19-pressendye
+maleRecord: 'Robbie Simpson, 0:38:29 (2019)'
+femaleRecord: 'Anna MacFadyen, 0:46:43 (2017)'
+web: 'https://www.cosmics.org.uk/summer-series-19-pressendye'
 organiser: David Hirst <david.hirst@nr.no>
+latitude: 57.1274514
+longitude: -2.8588658
 ---
 
 Up and back by the same route, it’s a tough climb but the paths are

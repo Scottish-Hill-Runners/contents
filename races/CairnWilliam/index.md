@@ -1,12 +1,14 @@
 ---
 title: Cairn William Hill Race
-venue: Monymusk, Inverurie
+venue: 'Monymusk, Inverurie'
 distance: 11
 climb: 430
-maleRecord: Dan Whitehead, 0:46:18 (2007)
-femaleRecord: Clare Whitehead, 0:50:07 (2012)
+maleRecord: 'Dan Whitehead, 0:46:18 (2007)'
+femaleRecord: 'Clare Whitehead, 0:50:07 (2012)'
 web: www.cosmics.org.uk
 organiser: Christopher Hill <geophys_chris@yahoo.co.uk>
+latitude: 57.2287934
+longitude: -2.5170863
 ---
 
 Aberdeenshire Hill Race series - Race 2

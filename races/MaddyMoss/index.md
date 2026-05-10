@@ -1,12 +1,14 @@
 ---
 title: Maddy Moss Hill Race
-venue: Woolpack Inn, Tillicoultry
+venue: 'Woolpack Inn, Tillicoultry'
 distance: 10
 climb: 760
-maleRecord: Billy Rodgers, 0:47:39 (1996)
-femaleRecord: Angela Mudge, 0:53:10 (1999)
+maleRecord: 'Billy Rodgers, 0:47:39 (1996)'
+femaleRecord: 'Angela Mudge, 0:53:10 (1999)'
 web: www.ochilhillrunners.org.uk
 organiser: Tom Vas <tommyvaspo@hotmail.com>
+latitude: 56.1569708
+longitude: -3.7488814
 ---
 
 Registration will be upstairs in the Woolpack Inn, 1-3 Glassford

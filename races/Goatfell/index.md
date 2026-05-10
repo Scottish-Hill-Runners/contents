@@ -1,12 +1,14 @@
 ---
 title: Goatfell Race
-venue: Brodick, Arran
+venue: 'Brodick, Arran'
 distance: 13
 climb: 880
-maleRecord: Murray Strain, 1:12:11 (2017)
-femaleRecord: Angela Mudge, 1:26:21 (2001)
-web: http://shettlestonharriers.org.uk
+maleRecord: 'Murray Strain, 1:12:11 (2017)'
+femaleRecord: 'Angela Mudge, 1:26:21 (2001)'
+web: 'http://shettlestonharriers.org.uk'
 organiser: Peter Mackie <pmackie77@aol.com>
+latitude: 55.5939276
+longitude: -5.1507477
 ---
 
 The Goatfell Race is a classic with a bit of everything: road, trail,

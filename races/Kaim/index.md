@@ -1,12 +1,14 @@
 ---
 title: Kaim Hill Race
-venue: Primary School, Fairlie, North Ayrshire
+venue: 'Primary School, Fairlie, North Ayrshire'
 distance: 5.7
 climb: 380
-maleRecord: Mark Rigby, 0:25:52 (1995)
-femaleRecord: Helene Diamantides, 0:32:24 (1995)
-web: 
+maleRecord: 'Mark Rigby, 0:25:52 (1995)'
+femaleRecord: 'Helene Diamantides, 0:32:24 (1995)'
+web: null
 organiser: Alasdair McCallum <alasdairmccallum@outlook.com>
+latitude: 55.7605688
+longitude: -4.8520718
 ---
 
 This is the first race in the Scottish Hill Runners Bog and Burn

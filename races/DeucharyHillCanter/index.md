@@ -1,11 +1,13 @@
 ---
 title: Deuchary Hill Canter
-venue: Birnam, Dunkeld
+venue: 'Birnam, Dunkeld'
 distance: 18.4
 climb: 700
-maleRecord: Andrew Douglas, 1:13:44 (2019)
-femaleRecord: Catriona Morrison, 1:31:00 (2019)
-web: 
+maleRecord: 'Andrew Douglas, 1:13:44 (2019)'
+femaleRecord: 'Catriona Morrison, 1:31:00 (2019)'
+web: null
+latitude: 56.5435587
+longitude: -3.575807
 ---
 
 Start at Hilton Hotel car park – (NO010426),

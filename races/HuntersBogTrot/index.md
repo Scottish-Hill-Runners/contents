@@ -1,12 +1,15 @@
 ---
 title: Hunters Bog Trot
-venue: Holyrood Park, Edinburgh
+venue: 'Holyrood Park, Edinburgh'
 distance: 6.1
 climb: 268
-maleRecord: Phil Mowbray, 0:25:20 (1999)
-femaleRecord: Sarah McCormack, 0:29:24 (2013)
-web: https://huntersbogtrotters.com/the-bog-trot-hill-race/
+maleRecord: 'Phil Mowbray, 0:25:20 (1999)'
+femaleRecord: 'Sarah McCormack, 0:29:24 (2013)'
+web: 'https://huntersbogtrotters.com/the-bog-trot-hill-race/'
 organiser: Bog Trotters Hunters <disorganiser@huntersbogtrotters.com>
---- 
+latitude: 55.9456399
+longitude: -3.1638003
+---
+ 
 
 Starts at western end of St Margaret's Loch on Queen's Drive.

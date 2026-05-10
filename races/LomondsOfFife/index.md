@@ -4,10 +4,12 @@ venue: Strathmiglo Village Hall
 distance: 16.76
 climb: 823
 eras: pre-2006; 2006-present
-maleRecord: Alexander Chelpelin, 1:16:05 (2022)
-femaleRecord: Heather Anderson, 1:45:46 (2022)
+maleRecord: 'Alexander Chelpelin, 1:16:05 (2022)'
+femaleRecord: 'Heather Anderson, 1:45:46 (2022)'
 web: www.lomondhillrunners.co.uk
 organiser: Laurie Anderson <laurieanderson1@hotmail.co.uk>
+latitude: 56.2747157
+longitude: -3.2739676
 ---
 
 Start time 1pm.

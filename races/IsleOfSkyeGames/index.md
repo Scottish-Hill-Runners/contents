@@ -4,6 +4,8 @@ venue: Portree
 distance: 4
 climb: 200
 web: www.skye-highland-games.co.uk
+latitude: 57.4130532
+longitude: -6.194446
 ---
 The race starts in a natural amphitheatre near the centre of Portree. Once you leave the games field you must choose which route to take to the foot of the hill. Longer and safer via the road, or an obstacle course via the foreshore. Most people take the shorter route. This goes over a low wall with an 8 foot drop into a cemetery, through a graveyard, over barbed wire fence, down grassy bank avoiding the nets drying, over a gate and onto the beach, then across seaweed, mud, stones, a couple of paddles through burn outlets, then back up to the road beside the petrol station.
 
