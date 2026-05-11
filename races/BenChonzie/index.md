@@ -3,6 +3,8 @@ title: Ben Chonzie Hill Race
 venue: Comrie Croft
 distance: '22.9'
 climb: '1435'
+maleRecord: '1:53:43'
+femaleRecord: '2:14:47'
 web: 'https://www.strathearnharriers.org.uk/our-races/ben-chonzie-hill-race'
 organiser: Ralph McInally
 ---
