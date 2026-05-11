@@ -1,5 +1,14 @@
 ---
 title: Scottish Long Classics Series
+rules:
+  default:
+    points: time-ratio
+    referenceTime: min-winner-record
+    scale: 1000
+    count: 5
+    minimum: 5
+  "pre-2026":
+	  referenceTime: winner
 2026: HeartOfGranite; BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; SliochHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; TwoBreweries; CarnethySkyloop
 2025: BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; HeartOfGranite; TwoBreweries; CarnethySkyloop
 2024: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; MoffatChase; Ochil2000s; TwoBreweries; PentlandSkyline
@@ -25,23 +34,7 @@ title: Scottish Long Classics Series
 
 The Scottish Long Classics Series is a series of 13 long hill races across Scotland. The best 5 results count towards the final championship ranking.
 
-## 2026 race schedule
-
-The 13 races in the 2026 Scottish Long Classics Series are:
-
-- Heart Of Granite - 11 Apr
-- Ben Chonzie - 18 Apr
-- Stuc a'Chroin - 02 May
-- Jura - 23 May
-- Trotternish Ridge - 06 Jun
-- Glen Rosa Horseshoe - 13 Jun
-- Slioch Horseshoe - 13 Jun
-- Arrochar Alps - 27 Jun
-- Ben Rinnes - 25 Jul
-- Lomonds Of Fife - 15 Aug
-- Ochil 2000s - 22 Aug
-- Two Breweries - 26 Sep
-- Carnethy Skyloop - 11 Oct
+@Schedule
 
 ## Rules
 

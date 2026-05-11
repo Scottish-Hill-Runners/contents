@@ -1,5 +1,15 @@
 ---
 title: SHR Championship
+rules:
+  default:
+    points: position-bonus
+    count: 4
+    minimum: 4
+    distanceSlots:
+      short: 1
+      medium: 1
+      long: 1
+      ageExemption: 60
 2026: BenChonzie; Durisdeer; LawBreaker; Glamaig; TwoBreweries; RunOfTheMill
 2025: Screel; Morven; Yetholm; BenNevis; Stuc-aChroin; Glenshee9
 2024: TheCobbler; Tap-oNoth; TwoMamores; RunOfTheMill; ArrocharAlps; MoffatChase
@@ -58,14 +68,7 @@ For categories under 60, those 4 counting races must include:
 
 For 60+ categories, competitors may complete any 4 of the 6 races.
 
-## 2026 race schedule
-
-- Ben Chonzie (Long) - 18 April
-- Durisdeer (Medium) - 30 May
-- The Law Breaker (Short) - 20 June
-- Glamaig (Short) - 11 July
-- Two Breweries (Long) - 26 September
-- Run Of The Mill (Medium) - 24 October
+@Schedule
 
 ## Key rules
 

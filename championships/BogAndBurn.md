@@ -1,5 +1,10 @@
 ---
 title: Bog 'n Burn
+rules:
+  default:
+    points: raw-position
+    count: 6
+    minimum: 6
 2026: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; GypsyGlen; RedMossKilps; Turnhouse; Cort-maLaw; KilpatricksCaper; MaddyMoss; CairnTable; CaerkettonHillRace
 2025: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; KilpatricksCaper; RedMossKilps; Turnhouse; Cort-maLaw; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
 2024: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; KilpatricksCaper; Cort-maLaw; RedMossKilps; Turnhouse; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
@@ -34,23 +39,7 @@ title: Bog 'n Burn
 
 The Bog & Burn Series consists of Wednesday night hill races across Central Scotland during the summer months. The best 6 results count.
 
-## 2026 Race Schedule
-
-The 13 races listed for 2026 are:
-
-- Kaim - 15 April
-- Beinn Dubh (Luss) - 22 April
-- Whangie Whizz - 29 April
-- Dumyat - 06 May
-- Ben Sheann - 13 May (TBC)
-- Gypsy Glen - 27 May
-- Red Moss Kips - 03 June
-- Turnhouse - 10 June
-- Cort-ma Law - 17 June
-- Kilpatricks - 01 July
-- Maddy Moss - 08 July
-- Cairn Table - 15 July
-- Caerketton - 12 August
+@Schedule
 
 ## Rules
 
