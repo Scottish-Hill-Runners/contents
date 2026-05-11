@@ -1,5 +1,10 @@
 ---
 title: SHR Under 23 Championship
+rules:
+  default:
+    points: position-bonus
+    count: 3
+    minimum: 3
 2026: Dumyat; Durisdeer; LawBreaker; Glamaig; RunOfTheMill
 2025: Screel; Morven; Yetholm; BenNevis; Stuc-aChroin; Glenshee9
 2024: TheCobbler; Tap-oNoth; TwoMamores; RunOfTheMill; ArrocharAlps; MoffatChase
@@ -26,13 +31,7 @@ title: SHR Under 23 Championship
 
 Runners must be under 23 on race day and complete any 3 out of 5 races.
 
-## 2026 race schedule
-
-- Dumyat (Short) - 6 May
-- Durisdeer (Medium) - 30 May
-- The Law Breaker (Short) - 20 June
-- Glamaig (Short) - 11 July
-- Run Of The Mill (Medium) - 24 October
+@Schedule
 
 ## Rules
 
