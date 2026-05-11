@@ -1,5 +1,6 @@
 ---
 title: SHR Championship
+2026: BenChonzie; Durisdeer; LawBreaker; Glamaig; TwoBreweries; RunOfTheMill
 2025: Screel; Morven; Yetholm; BenNevis; Stuc-aChroin; Glenshee9
 2024: TheCobbler; Tap-oNoth; TwoMamores; RunOfTheMill; ArrocharAlps; MoffatChase
 2023: Birnam; Melantee; Goatfell; Merrick; BenRinnes; Ochil2000s
