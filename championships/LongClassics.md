@@ -3,12 +3,19 @@ title: Scottish Long Classics Series
 rules:
   default:
     points: time-ratio
-    referenceTime: min-winner-record
+    referenceTime: mf-record
     scale: 1000
     count: 5
-    minimum: 5
-  "pre-2026":
-	  referenceTime: winner
+  2022-2025:
+    referenceTime: mf-winner
+  pre-2022:
+    referenceTime: overall-winner
+  2008:
+    count: 4
+  2013:
+    count: 4
+  2017-2024:
+    count: 4
 2026: HeartOfGranite; BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; SliochHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; TwoBreweries; CarnethySkyloop
 2025: BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; HeartOfGranite; TwoBreweries; CarnethySkyloop
 2024: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; MoffatChase; Ochil2000s; TwoBreweries; PentlandSkyline
