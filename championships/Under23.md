@@ -5,26 +5,133 @@ rules:
     points: position-bonus
     count: 3
     minimum: 3
-2026: Dumyat; Durisdeer; LawBreaker; Glamaig; RunOfTheMill
-2025: Screel; Morven; Yetholm; BenNevis; Stuc-aChroin; Glenshee9
-2024: TheCobbler; Tap-oNoth; TwoMamores; RunOfTheMill; ArrocharAlps; MoffatChase
-2023: Birnam; Melantee; Goatfell; Merrick; BenRinnes; Ochil2000s
-2022: Meall-aGhiuthais; YetholmBordersShepherdsShow; Clachnaben; Durisdeer; Stuc-aChroin; TrotternishRidge
+2026:
+  - Dumyat
+  - Durisdeer
+  - Glamaig
+  - LawBreaker
+  - RunOfTheMill
+2025:
+  - BenNevis
+  - Glenshee9
+  - Morven
+  - Screel
+  - Stuc-aChroin
+  - Yetholm
+2024:
+  - ArrocharAlps
+  - MoffatChase
+  - RunOfTheMill
+  - Tap-oNoth
+  - TheCobbler
+  - TwoMamores
+2023:
+  - BenRinnes
+  - Birnam
+  - Goatfell
+  - Melantee
+  - Merrick
+  - Ochil2000s
+2022:
+  - Clachnaben
+  - Durisdeer
+  - Meall-aGhiuthais
+  - Stuc-aChroin
+  - TrotternishRidge
+  - YetholmBordersShepherdsShow
 2021: n/a
 2020: n/a
-2019: Screel; CreagDhubh; AnTeallach; Meall-aBhuachaille; ArrocharAlps; TwoBreweries
-2018: Chapelgill; Glamaig; Yetholm; BeinnResipol; BenRinnes; Ochil2000s
-2017: Strathpeffer; DevilsBeeftub; Criffel; Goatfell; Stuc-aChroin; TrotternishRidge
-2016: Eildons; CreagDhubh; Clachnaben; Merrick; Jura; PentlandSkyline
-2015: Birnam; Morven; BenLomond; Durisdeer; SliochHorseshoe; TwoInns
-2014: Scolty; Meall-nanTarmachan; Dollar; LomondsOfFife; Glenshee9; TwoBreweries
-2013: Carnethy5; Tap-oNoth; Goatfell; RunOfTheMill; Stuc-aChroin; Ochil2000s
-2012: Glamaig; CreagDhubh; Clachnaben; Durisdeer; ArrocharAlps; PentlandSkyline
-2011: Birnam; Eildons; Yetholm; BenVenue; SliochHorseshoe; BenRinnes
-2010: Chapelgill; Tom-naBat; BenLomond; Dollar; GlenRosaHorseshoe; Glenshee9
-2009: Screel; Melantee; Clachnaben; Meall-aBhuachaille; Stuc-aChroin; ArrocharAlps
-2008: BishopHill; Knockfarrel; Durisdeer; IsleOfMull; Ochil2000s; TwoBreweries
-2007: DevilsBeeftub; Morven; LomondsOfFife; Merrick; Stuc-aChroin; GlenClova
+2019:
+  - AnTeallach
+  - ArrocharAlps
+  - CreagDhubh
+  - Meall-aBhuachaille
+  - Screel
+  - TwoBreweries
+2018:
+  - BeinnResipol
+  - BenRinnes
+  - Chapelgill
+  - Glamaig
+  - Ochil2000s
+  - Yetholm
+2017:
+  - Criffel
+  - DevilsBeeftub
+  - Goatfell
+  - Strathpeffer
+  - Stuc-aChroin
+  - TrotternishRidge
+2016:
+  - Clachnaben
+  - CreagDhubh
+  - Eildons
+  - Jura
+  - Merrick
+  - PentlandSkyline
+2015:
+  - BenLomond
+  - Birnam
+  - Durisdeer
+  - Morven
+  - SliochHorseshoe
+  - TwoInns
+2014:
+  - Dollar
+  - Glenshee9
+  - LomondsOfFife
+  - Meall-nanTarmachan
+  - Scolty
+  - TwoBreweries
+2013:
+  - Carnethy5
+  - Goatfell
+  - Ochil2000s
+  - RunOfTheMill
+  - Stuc-aChroin
+  - Tap-oNoth
+2012:
+  - ArrocharAlps
+  - Clachnaben
+  - CreagDhubh
+  - Durisdeer
+  - Glamaig
+  - PentlandSkyline
+2011:
+  - BenRinnes
+  - BenVenue
+  - Birnam
+  - Eildons
+  - SliochHorseshoe
+  - Yetholm
+2010:
+  - BenLomond
+  - Chapelgill
+  - Dollar
+  - GlenRosaHorseshoe
+  - Glenshee9
+  - Tom-naBat
+2009:
+  - ArrocharAlps
+  - Clachnaben
+  - Meall-aBhuachaille
+  - Melantee
+  - Screel
+  - Stuc-aChroin
+2008:
+  - BishopHill
+  - Durisdeer
+  - IsleOfMull
+  - Knockfarrel
+  - Ochil2000s
+  - TwoBreweries
+2007:
+  - DevilsBeeftub
+  - GlenClova
+  - LomondsOfFife
+  - Merrick
+  - Morven
+  - Stuc-aChroin
 ---
 
 ## Overview

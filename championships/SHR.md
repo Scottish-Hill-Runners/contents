@@ -10,49 +10,307 @@ rules:
       medium: 1
       long: 1
       ageExemption: 60
-2026: BenChonzie; Durisdeer; LawBreaker; Glamaig; TwoBreweries; RunOfTheMill
-2025: Screel; Morven; Yetholm; BenNevis; Stuc-aChroin; Glenshee9
-2024: TheCobbler; Tap-oNoth; TwoMamores; RunOfTheMill; ArrocharAlps; MoffatChase
-2023: Birnam; Melantee; Goatfell; Merrick; BenRinnes; Ochil2000s
-2022: Meall-aGhiuthais; YetholmBordersShepherdsShow; Clachnaben; Durisdeer; Stuc-aChroin; TrotternishRidge
-2021: Eildons; Dollar; CiochMhor; Glenshee9; TwoBreweries
-2019: Screel; CreagDhubh; AnTeallach; Meall-aBhuachaille; ArrocharAlps; TwoBreweries
-2018: Chapelgill; Glamaig; Yetholm; BeinnResipol; BenRinnes; Ochil2000s
-2017: Strathpeffer; DevilsBeeftub; Criffel; Goatfell; Stuc-aChroin; TrotternishRidge
-2016: Eildons; CreagDhubh; Clachnaben; Merrick; Jura; PentlandSkyline
-2015: Birnam; Morven; BenLomond; Durisdeer; SliochHorseshoe; TwoInns
-2014: Scolty; Meall-nanTarmachan; Dollar; LomondsOfFife; Glenshee9; TwoBreweries
-2013: Carnethy5; Tap-oNoth; Goatfell; RunOfTheMill; Stuc-aChroin; Ochil2000s
-2012: Glamaig; CreagDhubh; Clachnaben; Durisdeer; ArrocharAlps; PentlandSkyline
-2011: Birnam; Eildons; Yetholm; BenVenue; SliochHorseshoe; BenRinnes
-2010: Chapelgill; Tom-naBat; BenLomond; Dollar; GlenRosaHorseshoe; Glenshee9
-2009: Screel; Melantee; Clachnaben; Meall-aBhuachaille; Stuc-aChroin; ArrocharAlps
-2008: BishopHill; Knockfarrel; Durisdeer; IsleOfMull; Ochil2000s; TwoBreweries
-2007: DevilsBeeftub; Morven; LomondsOfFife; Merrick; Stuc-aChroin; GlenClova
-2006: Scolty; CreagDhubh; BenLomond; Dollar; GlenRosaHorseshoe; MoffatChase
-2005: BishopHill; Glamaig; Yetholm; CulterFellHorseshoe; BenRinnes; GlenClova
-2004: Screel; Melantee; Carnethy5; Clachnaben; TwoBreweries; PentlandSkyline
-2003: Chapelgill; Knockfarrel; Durisdeer; Dollar; Stuc-aChroin; Jura
-2002: BenLomond; CulterFellHorseshoe; IsleOfMull; Eildon; Morven
-2001: GlenRosaHorseshoe; Melantee; HalfNevis; BenRinnes; CreagDhubh; Meall-aBhuachaille
+2026:
+  - BenChonzie
+  - Durisdeer
+  - Glamaig
+  - LawBreaker
+  - RunOfTheMill
+  - TwoBreweries
+2025:
+  - BenNevis
+  - Glenshee9
+  - Morven
+  - Screel
+  - Stuc-aChroin
+  - Yetholm
+2024:
+  - ArrocharAlps
+  - MoffatChase
+  - RunOfTheMill
+  - Tap-oNoth
+  - TheCobbler
+  - TwoMamores
+2023:
+  - BenRinnes
+  - Birnam
+  - Goatfell
+  - Melantee
+  - Merrick
+  - Ochil2000s
+2022:
+  - Clachnaben
+  - Durisdeer
+  - Meall-aGhiuthais
+  - Stuc-aChroin
+  - TrotternishRidge
+  - YetholmBordersShepherdsShow
+2021:
+  - CiochMhor
+  - Dollar
+  - Eildons
+  - Glenshee9
+  - TwoBreweries
+2019:
+  - AnTeallach
+  - ArrocharAlps
+  - CreagDhubh
+  - Meall-aBhuachaille
+  - Screel
+  - TwoBreweries
+2018:
+  - BeinnResipol
+  - BenRinnes
+  - Chapelgill
+  - Glamaig
+  - Ochil2000s
+  - Yetholm
+2017:
+  - Criffel
+  - DevilsBeeftub
+  - Goatfell
+  - Strathpeffer
+  - Stuc-aChroin
+  - TrotternishRidge
+2016:
+  - Clachnaben
+  - CreagDhubh
+  - Eildons
+  - Jura
+  - Merrick
+  - PentlandSkyline
+2015:
+  - BenLomond
+  - Birnam
+  - Durisdeer
+  - Morven
+  - SliochHorseshoe
+  - TwoInns
+2014:
+  - Dollar
+  - Glenshee9
+  - LomondsOfFife
+  - Meall-nanTarmachan
+  - Scolty
+  - TwoBreweries
+2013:
+  - Carnethy5
+  - Goatfell
+  - Ochil2000s
+  - RunOfTheMill
+  - Stuc-aChroin
+  - Tap-oNoth
+2012:
+  - ArrocharAlps
+  - Clachnaben
+  - CreagDhubh
+  - Durisdeer
+  - Glamaig
+  - PentlandSkyline
+2011:
+  - BenRinnes
+  - BenVenue
+  - Birnam
+  - Eildons
+  - SliochHorseshoe
+  - Yetholm
+2010:
+  - BenLomond
+  - Chapelgill
+  - Dollar
+  - GlenRosaHorseshoe
+  - Glenshee9
+  - Tom-naBat
+2009:
+  - ArrocharAlps
+  - Clachnaben
+  - Meall-aBhuachaille
+  - Melantee
+  - Screel
+  - Stuc-aChroin
+2008:
+  - BishopHill
+  - Durisdeer
+  - IsleOfMull
+  - Knockfarrel
+  - Ochil2000s
+  - TwoBreweries
+2007:
+  - DevilsBeeftub
+  - GlenClova
+  - LomondsOfFife
+  - Merrick
+  - Morven
+  - Stuc-aChroin
+2006:
+  - BenLomond
+  - CreagDhubh
+  - Dollar
+  - GlenRosaHorseshoe
+  - MoffatChase
+  - Scolty
+2005:
+  - BenRinnes
+  - BishopHill
+  - CulterFellHorseshoe
+  - Glamaig
+  - GlenClova
+  - Yetholm
+2004:
+  - Carnethy5
+  - Clachnaben
+  - Melantee
+  - PentlandSkyline
+  - Screel
+  - TwoBreweries
+2003:
+  - Chapelgill
+  - Dollar
+  - Durisdeer
+  - Jura
+  - Knockfarrel
+  - Stuc-aChroin
+2002:
+  - BenLomond
+  - CulterFellHorseshoe
+  - Eildon
+  - IsleOfMull
+  - Morven
+2001:
+  - BenRinnes
+  - CreagDhubh
+  - GlenRosaHorseshoe
+  - HalfNevis
+  - Meall-aBhuachaille
+  - Melantee
 2000: n/a
-1999: BenLomond; GlasTulaicheanUphill; GlenRosaHorseshoe; Melantee; BenRinnes; Strathpeffer
+1999:
+  - BenLomond
+  - BenRinnes
+  - GlasTulaicheanUphill
+  - GlenRosaHorseshoe
+  - Melantee
+  - Strathpeffer
 1998: n/a
-1997: BishopHill; Meall-aBhuachaille; Glamaig; WorldTrialSeniorMen; Stuc-aChroin; TwoBreweries
-1996: Criffel; AonachMhor; Eildon; BenRinnes; Morven; PentlandSkyline
-1995: Stuc-aChroin; Kaim; MoffatChase; Melantee; GlenClova; BenNevis
-1994: CreagDhubh; Clachnaben; Glamaig; CulterFellHorseshoe; PentlandSkyline
-1993: Eildons; Melantee; Criffel; Meall-aBhuachaille; LomondsOfFife; Stuc-aChroin; TwoBreweries; no-slug(Four Tops)
-1992: Dollar; CulterFellHorseshoe; Melantee; ArrocharAlps; Merrick
-1991: Stuc-aChroin; AonachMhor; no-slug(Cairngorm); no-slug(Dalchully); PentlandSkyline
-1990: CulterFellHorseshoe; Eildon; Glamaig; CreagDhubh; PentlandSkyline
-1989: no-slug(Glengoyne); CreagDhubh; Criffel; Dollar; Glamaig; MoffatChase; ArrocharAlps; TwoBreweries
-1988: Kaim; Melantee; Carnethy5; BenLomond; LomondsOfFife; MoffatChase; GlenClova; ArrocharAlps
-1987: CreagDhubh; no-slug(Dalchully); Criffel; BenLomond; Dollar; PentlandSkyline; MoffatChase; TwoBreweries
+1997:
+  - BishopHill
+  - Glamaig
+  - Meall-aBhuachaille
+  - Stuc-aChroin
+  - TwoBreweries
+  - WorldTrialSeniorMen
+1996:
+  - AonachMhor
+  - BenRinnes
+  - Criffel
+  - Eildon
+  - Morven
+  - PentlandSkyline
+1995:
+  - BenNevis
+  - GlenClova
+  - Kaim
+  - Melantee
+  - MoffatChase
+  - Stuc-aChroin
+1994:
+  - Clachnaben
+  - CreagDhubh
+  - CulterFellHorseshoe
+  - Glamaig
+  - PentlandSkyline
+1993:
+  - Criffel
+  - Eildons
+  - LomondsOfFife
+  - Meall-aBhuachaille
+  - Melantee
+  - no-slug(Four Tops)
+  - Stuc-aChroin
+  - TwoBreweries
+1992:
+  - ArrocharAlps
+  - CulterFellHorseshoe
+  - Dollar
+  - Melantee
+  - Merrick
+1991:
+  - AonachMhor
+  - no-slug(Cairngorm)
+  - no-slug(Dalchully)
+  - PentlandSkyline
+  - Stuc-aChroin
+1990:
+  - CreagDhubh
+  - CulterFellHorseshoe
+  - Eildon
+  - Glamaig
+  - PentlandSkyline
+1989:
+  - ArrocharAlps
+  - CreagDhubh
+  - Criffel
+  - Dollar
+  - Glamaig
+  - MoffatChase
+  - no-slug(Glengoyne)
+  - TwoBreweries
+1988:
+  - ArrocharAlps
+  - BenLomond
+  - Carnethy5
+  - GlenClova
+  - Kaim
+  - LomondsOfFife
+  - Melantee
+  - MoffatChase
+1987:
+  - BenLomond
+  - CreagDhubh
+  - Criffel
+  - Dollar
+  - MoffatChase
+  - no-slug(Dalchully)
+  - PentlandSkyline
+  - TwoBreweries
 1986: n/a
-1985: Eildon; CreagDhubh; Carnethy5; BenLomond; BenNevis; Jura; TwoBreweries; MoffatChase
-1984: Melantee; CreagDhubh; Carnethy5; BenLomond; Goatfell; Dollar; Criffel; BenNevis; Jura; TwoBreweries; MoffatChase
-1983: Melantee; Eildon; CreagDhubh; Carnethy5; BenLomond; Goatfell; BenNevis; Dollar; HalfNevis; LomondsOfFife; no-slug(Glenelg); Criffel; Jura; TwoBreweries; MoffatChase
+1985:
+  - BenLomond
+  - BenNevis
+  - Carnethy5
+  - CreagDhubh
+  - Eildon
+  - Jura
+  - MoffatChase
+  - TwoBreweries
+1984:
+  - BenLomond
+  - BenNevis
+  - Carnethy5
+  - CreagDhubh
+  - Criffel
+  - Dollar
+  - Goatfell
+  - Jura
+  - Melantee
+  - MoffatChase
+  - TwoBreweries
+1983:
+  - BenLomond
+  - BenNevis
+  - Carnethy5
+  - CreagDhubh
+  - Criffel
+  - Dollar
+  - Eildon
+  - Goatfell
+  - HalfNevis
+  - Jura
+  - LomondsOfFife
+  - Melantee
+  - MoffatChase
+  - no-slug(Glenelg)
+  - TwoBreweries
 ---
 
 ## Overview
