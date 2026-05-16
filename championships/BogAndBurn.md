@@ -5,26 +5,233 @@ rules:
     points: raw-position
     count: 6
     minimum: 6
-2026: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; GypsyGlen; RedMossKilps; Turnhouse; Cort-maLaw; KilpatricksCaper; MaddyMoss; CairnTable; CaerkettonHillRace
-2025: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; KilpatricksCaper; RedMossKilps; Turnhouse; Cort-maLaw; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2024: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; KilpatricksCaper; Cort-maLaw; RedMossKilps; Turnhouse; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2023: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; RedMossKilps; Turnhouse; LawBreaker; MaddyMoss; CairnTable; Cort-maLaw
-2022: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; RedMossKilps; Cort-maLaw; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
+2026:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - GypsyGlen
+  - Kaim
+  - KilpatricksCaper
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2025:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2024:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2023:
+  - BeinnDubh
+  - BenSheann
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2022:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
 2021: n/a
 2020: n/a
-2019: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; RedMossKilps; Cort-maLaw; LawBreaker; KilpatricksCaper; MaddyMoss; CairnTable; CaerkettonHillRace
-2018: Kaim; BeinnDubh; WhangieWhizz; Dumyat; BenSheann; KilpatricksCaper; Cort-maLaw; RedMossKilps; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2017: Kaim; BeinnDubh; Dumyat; WhangieWhizz; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2016: Kaim; BeinnDubh; WhangieWhizz; Dumyat; KilpatricksCaper; Cort-maLaw; RedMossKilps; BenSheann; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2015: BeinnDubh; Kaim; Dumyat; WhangieWhizz; KilpatricksCaper; Cort-maLaw; RedMossKilps; BenSheann; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2014: BeinnDubh; Kaim; Dumyat; WhangieWhizz; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; LawBreaker; MaddyMoss; CairnTable; CaerkettonHillRace
-2013: Kaim; BeinnDubh; Dumyat; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; LawBreaker; Turnhouse; MaddyMoss; CairnTable; CaerkettonHillRace
-2012: Kaim; Dumyat; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; LawBreaker; MaddyMoss; CaerkettonHillRace; Turnhouse; CairnTable
-2011: Kaim; WhangieWhizz; Dumyat; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; LawBreaker; MaddyMoss; Turnhouse; CaerkettonHillRace
-2010: Kaim; WhangieWhizz; Dumyat; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; MaddyMoss; Turnhouse; CaerkettonHillRace
-2009: WhangieWhizz; Kaim; Dumyat; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; MaddyMoss; Turnhouse; CaerkettonHillRace
-2008: WhangieWhizz; Dumyat; Kinnoull; KilpatricksCaper; Cort-maLaw; BenSheann; RedMossKilps; MaddyMoss; Turnhouse; CaerkettonHillRace
-2007: WhangieWhizz; Dumyat; Kinnoull; KilpatricksCaper; BenSheann; Cort-maLaw; MaddyMoss; Turnhouse; CaerkettonHillRace; RedMossKilps
+2019:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2018:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2017:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2016:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2015:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2014:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - WhangieWhizz
+2013:
+  - BeinnDubh
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+2012:
+  - BenSheann
+  - CaerkettonHillRace
+  - CairnTable
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+2011:
+  - BenSheann
+  - CaerkettonHillRace
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - LawBreaker
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2010:
+  - BenSheann
+  - CaerkettonHillRace
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2009:
+  - BenSheann
+  - CaerkettonHillRace
+  - Cort-maLaw
+  - Dumyat
+  - Kaim
+  - KilpatricksCaper
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2008:
+  - BenSheann
+  - CaerkettonHillRace
+  - Cort-maLaw
+  - Dumyat
+  - KilpatricksCaper
+  - Kinnoull
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
+2007:
+  - BenSheann
+  - CaerkettonHillRace
+  - Cort-maLaw
+  - Dumyat
+  - KilpatricksCaper
+  - Kinnoull
+  - MaddyMoss
+  - RedMossKilps
+  - Turnhouse
+  - WhangieWhizz
 2004: n/a
 2002: n/a
 2001: n/a

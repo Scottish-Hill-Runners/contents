@@ -16,11 +16,61 @@ rules:
     count: 4
   2017-2024:
     count: 4
-2026: HeartOfGranite; BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; SliochHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; TwoBreweries; CarnethySkyloop
-2025: BenChonzie; Stuc-aChroin; Jura; TrotternishRidge; GlenRosaHorseshoe; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; HeartOfGranite; TwoBreweries; CarnethySkyloop
-2024: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; MoffatChase; Ochil2000s; TwoBreweries; PentlandSkyline
-2023: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; Glenshee9; Ochil2000s; TwoBreweries
-2022: Stuc-aChroin; Jura; TrotternishRidge; ArrocharAlps; BenRinnes; Ochil2000s; TwoBreweries; PentlandSkyline
+2026:
+  - ArrocharAlps
+  - BenChonzie
+  - BenRinnes
+  - CarnethySkyloop
+  - GlenRosaHorseshoe
+  - Glenshee9
+  - HeartOfGranite
+  - Jura
+  - Ochil2000s
+  - SliochHorseshoe
+  - Stuc-aChroin
+  - TrotternishRidge
+  - TwoBreweries
+2025:
+  - ArrocharAlps
+  - BenChonzie
+  - BenRinnes
+  - CarnethySkyloop
+  - GlenRosaHorseshoe
+  - Glenshee9
+  - HeartOfGranite
+  - Jura
+  - Ochil2000s
+  - Stuc-aChroin
+  - TrotternishRidge
+  - TwoBreweries
+2024:
+  - ArrocharAlps
+  - BenRinnes
+  - Jura
+  - MoffatChase
+  - Ochil2000s
+  - PentlandSkyline
+  - Stuc-aChroin
+  - TrotternishRidge
+  - TwoBreweries
+2023:
+  - ArrocharAlps
+  - BenRinnes
+  - Glenshee9
+  - Jura
+  - Ochil2000s
+  - Stuc-aChroin
+  - TrotternishRidge
+  - TwoBreweries
+2022:
+  - ArrocharAlps
+  - BenRinnes
+  - Jura
+  - Ochil2000s
+  - PentlandSkyline
+  - Stuc-aChroin
+  - TrotternishRidge
+  - TwoBreweries
 2021: n/a
 2020: n/a
 2019: n/a
