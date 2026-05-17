@@ -1,109 +1,110 @@
-RunnerPosition,Surname,Firstname,Club,RunnerCategory,FinishTime
-1,Whitlie,Stewart,Carnethy Hill Running Club,,1 41 52
-2,Ackland,Graeme,Lothian,,1 44 49
-3,Ward,Ray,Hunters Bog Trotters,,1 46 23
-4,Ward,Adam,Carnethy Hill Running Club,,1 47 47
-5,Hood,Keith,Corstorphine,,1 47 55
-6,Lenton,Tim,Lothian,,1 50 48
-7,Smith,Bruce,Standard Life,,1 51 46
-8,Scott,Dominic R.,Norham RC,,1 52 05
-9,Thin,Jamie,Carnethy Hill Running Club,,1 54 13
-10,Macinnes,Garry,Carnethy Hill Running Club,,1 55 35
-11,Godfree,David,Lothian,,1 57 42
-12,Young,Nicholas,Bristol Univ X-C,,1 58 37
-13,Caldwell,Martin,Corstorphine,1st 50+,1 58 48
-14,Oliphant,Crawford,Carnethy Hill Running Club,,1 59 16
-15,Buchanan,Peter,Portobello,,1 59 19
-16,Stephenson,Olly,Carnethy Hill Running Club,,1 59 29
-17,Hulme,Martin,Corstorphine,2nd 50+,1 59 51
-18,Henry,Graham,Portobello,,2 00 03
-19,Logan,Bert,Portobello,,2 02 04
-20,Clarke,Martin,Gala Harriers,,2 02 20
-21,Godfree,Gillian,Lothian,1st F,2 03 01
-22,Graham,Malcolm,L & B Police,,2 04 14
-23,Barnett,Tertia,,2nd F,2 04 29
-24,Blair-Fish,John,Carnethy Hill Running Club,3rd 50+,2 05 19
-25,Jarvie,Willie,Portobello,,2 05 33
-26,Taylor,Kenneth,,,2 06 18
-27,Mason,David,Linlithgow Harriers,,2 06 48
-28,Cumming,Ian,Corstorphine,50+,2 07 08
-29,Macdonald,G.,Kinlochleven,,2 07 46
-30,Walker,Paul,Corstorphine,,2 08 09
-31,Gordon,Claire,Hunters Bog Trotters,3rd F,2 09 31
-32,Thomas,Neil,Hunters Bog Trotters,,2 09 38
-33,James,Nick,Carnethy Hill Running Club,,2 09 53
-34,Brooks,Michael,,,2 10 04
-35,Law,David J.,Corstorphine,,2 10 12
-36,Kittel,Werner,Portobello,50+,2 10 17
-37,Cameron,Gordon,Carnethy Hill Running Club,,2 10 44
-38,Robertson,Garry,City of Edin.,,2 11 47
-39,Spence,Barry,Teviotdale Harriers,50+,2 12 59
-40,Scullion,Gerry,Portobello,,2 13 28
-41,Ruskin,James,,,2 13 53
-42,Keegan,Maggie,,F,2 14 42
-43,Mcewan,Murdo,Carnethy Hill Running Club,50+,2 15 31
-44,Paterson,Barry,,,2 15 44
-45,Nichol,Colin,Teviotdale Harriers,,2 16 27
-46,Macgregor,Jim,Moray Road Runners,50+,2 16 32
-47,Eunson,Paul,Portobello,,2 16 37
-48,Normand,Ivor,Hunters Bog Trotters,,2 17 06
-49,Vivian,Brent,Corstorphine,,2 17 49
-50,Cranston,Robert,Teviotdale Harriers,,2 17 55
-51,Poyner,David,,,2 17 58
-52,Boyce,Stephen,E. Kilbride AAC,,2 18 19
-53,Macdonald,Deborah,Hunters Bog Trotters,F,2 19 29
-54,Harper,K.,,,2 20 27
-55,O'Hare,Alan,,,2 20 49
-56,Stott,Shyamala,Sri Chinmoy,F,2 22 01
-57,Fowler,Martin,Musselburgh AC,,2 22 18
-58,Copeland,Barry,Lathallan sch.,,2 22 20
-59,Bushby,R.,,,2 22 29
-60,Jarvie,Scott,Portobello,,2 22 42
-61,Young,John,E R C,,2 22 46
-62,Partridge,M.,,,2 22 51
-63,Ennington,?,,,2 22 55
-64,Mckelvie,Gillian,Portobello,1st F 45+,2 23 11
-65,Young,Karen,Portobello,F,2 23 17
-66,Gauld,Bill,Carnethy Hill Running Club,1st 70+,2 23 21
-67,Downie,Chris,L & B Police,,2 24 57
-68,Fife,Andy,City of Edin.,,2 25 07
-69,Blair,John,Portobello,,2 26 09
-70,Horrocks,Stephen,Merchiston sch.,,2 26 36
-71,Felstead,James,,,2 27 18
-72,Reed,Scott S. A.,L & B Fire B.,,2 27 43
-73,Wall,Dick,Hunters Bog Trotters,,2 27 50
-74,Hope,John,,,2 28 14
-75,O'Hara,John,Corstorphine,,2 28 21
-76,Calder,Gavin,Cosmics,,2 29 28
-77,Spear,Derek,Moray Road Runners,,2 30 20
-78,Anderson,Joanne,Carnethy Hill Running Club,F,2 30 30
-79,Dobson,Judith,Kinross Road Runners,F 45+,2 31 10
-80,Duff,Billy,Carnegie H.,50+,2 31 49
-81,Williams,Colin,,,2 31 51
-82,Carmichael,Douglas,,,2 31 55
-83,Allen,Keiran S.,,,2 31 58
-84,West,Alison,Carnegie H.,F 45+,2 32 08
-85,Griffiths,Andrew,City of Edin.,50+,2 32 10
-86,Eadie,Gordon,Musselburgh AC,,2 32 49
-87,Edgar,David M.,Portobello,,2 33 21
-88,Low,Sandy,Carnethy Hill Running Club,,2 33 37
-89,Spenceley,Hilary,Carnethy Hill Running Club,F 45+,2 33 39
-90,Brodie,Ian,Portobello,,2 34 54
-91,Mitchell,Phyllis,CAAC,F,2 36 19
-92,Johnstone,Derek L.,,,2 36 48
-93,Stewart,Graham,,,2 36 50
-94,Innes,Nicki,Carnethy Hill Running Club,F,2 38 09
-95,Bloor,Rob,Interlopers,,2 39 01
-96,Thin,Joanne,Carnethy Hill Running Club,F,2 40 58
-97,Wilkinson,Michael,Carnethy Hill Running Club,,2 41 31
-98,Rathjen,Jon,Hunters Bog Trotters,,2 42 21
-99,Rathjen,Sandra,Hunters Bog Trotters,F,2 42 21
-100,Kolehmainen,Niina,,F,2 44 14
-101,Pattison,Steve,Musselburgh AC,,2 46 01
-102,Campbell,Ian,Hunters Bog Trotters,,2 47 41
-103,Stevenson,Eric,City of Edin.,50+,2 48 08
-104,Marshall,Ian,Hunters Bog Trotters,50+,2 50 27
-105,Mcarthur,John,Carnegie H.,1st 60+,2 53 56
-106,Daniels,Ken,Carnegie H.,60+,2 54 02
-107,Mcdonald,Gordon,Scot Vets,,3 00 59
-108,Kelly,Iain,Hunters Bog Trotters,,3 01 05
+Position,Name,Club,Category,Time
+1,Stewart Whitlie,Carnethy,M,01:41:52
+2,Graeme Ackland,Lothian RC,M,01:44:49
+3,Ray Ward,HBT,M,01:46:23
+4,Adam Ward,Carnethy,M,01:47:47
+5,Keith Hood,Corstorphine,M,01:47:55
+6,Tim Lenton,Lothian RC,M,01:50:48
+7,Bruce Smith,Standard Life,M,01:51:46
+8,Dominic R. Scott,Norham,M,01:52:05
+9,Jamie Thin,Carnethy,M,01:54:13
+10,Garry Macinnes,Carnethy,M,01:55:35
+11,David Godfree,Lothian RC,M,01:57:42
+12,Nicholas Young,Bristol Univ X-C,M,01:58:37
+13,Martin Caldwell,Corstorphine,M50,01:58:48
+14,Crawford Oliphant,Carnethy,M,01:59:16
+15,Peter Buchanan,Portobello,M,01:59:19
+16,Olly Stephenson,Carnethy,M,01:59:29
+17,Martin Hulme,Corstorphine,M50,01:59:51
+18,Graham Henry,Portobello,M,02:00:03
+19,Bert Logan,Portobello,M,02:02:04
+20,Martin Clarke,Gala H.,M,02:02:20
+21,Gillian Godfree,Lothian RC,F,02:03:01
+22,Malcolm Graham,L & B Police,M,02:04:14
+23,Tertia Barnett,,F,02:04:29
+24,John Blair-Fish,Carnethy,M50,02:05:19
+25,Willie Jarvie,Portobello,M,02:05:33
+26,Kenneth Taylor,,M,02:06:18
+27,David Mason,Linlithgow,M,02:06:48
+28,Ian Cumming,Corstorphine,M50,02:07:08
+29,G. Macdonald,Kinlochleven,M,02:07:46
+30,Paul Walker,Corstorphine,M,02:08:09
+31,Claire Gordon,HBT,F,02:09:31
+32,Neil Thomas,HBT,M,02:09:38
+33,Nick James,Carnethy,M,02:09:53
+34,Michael Brooks,,M,02:10:04
+35,David J. Law,Corstorphine,M,02:10:12
+36,Werner Kittel,Portobello,M50,02:10:17
+37,Gordon Cameron,Carnethy,M,02:10:44
+38,Garry Robertson,City of Edin.,M,02:11:47
+39,Barry Spence,Teviotdale,M50,02:12:59
+40,Gerry Scullion,Portobello,M,02:13:28
+41,James Ruskin,,M,02:13:53
+42,Maggie Keegan,,F,02:14:42
+43,Murdo Mcewan,Carnethy,M50,02:15:31
+44,Barry Paterson,,M,02:15:44
+45,Colin Nichol,Teviotdale,M,02:16:27
+46,Jim Macgregor,Moray RR,M50,02:16:32
+47,Paul Eunson,Portobello,M,02:16:37
+48,Ivor Normand,HBT,M,02:17:06
+49,Brent Vivian,Corstorphine,M,02:17:49
+50,Robert Cranston,Teviotdale,M,02:17:55
+51,David Poyner,,M,02:17:58
+52,Stephen Boyce,E. Kilbride AAC,M,02:18:19
+53,Deborah Macdonald,HBT,F,02:19:29
+54,K. Harper,,M,02:20:27
+55,Alan O'Hare,,M,02:20:49
+56,Shyamala Stott,Sri Chinmoy,F,02:22:01
+57,Martin Fowler,Musselburgh,M,02:22:18
+58,Barry Copeland,Lathallan sch.,M,02:22:20
+59,R. Bushby,,M,02:22:29
+60,Scott Jarvie,Portobello,M,02:22:42
+61,John Young,E R C,M,02:22:46
+62,M. Partridge,,M,02:22:51
+63,? Ennington,,M,02:22:55
+64,Gillian Mckelvie,Portobello,F45,02:23:11
+65,Karen Young,Portobello,F,02:23:17
+66,Bill Gauld,Carnethy,M70,02:23:21
+67,Chris Downie,L & B Police,M,02:24:57
+68,Andy Fife,City of Edin.,M,02:25:07
+69,John Blair,Portobello,M,02:26:09
+70,Stephen Horrocks,Merchiston sch.,M,02:26:36
+71,James Felstead,,M,02:27:18
+72,Scott S. A. Reed,L & B Fire B.,M,02:27:43
+73,Dick Wall,HBT,M,02:27:50
+74,John Hope,,M,02:28:14
+75,John O'Hara,Corstorphine,M,02:28:21
+76,Gavin Calder,Cosmics,M,02:29:28
+77,Derek Spear,Moray RR,M,02:30:20
+78,Joanne Anderson,Carnethy,F,02:30:30
+79,Judith Dobson,Kinross RR,F45,02:31:10
+80,Billy Duff,Carnegie H.,M50,02:31:49
+81,Colin Williams,,M,02:31:51
+82,Douglas Carmichael,,M,02:31:55
+83,Keiran S. Allen,,M,02:31:58
+84,Alison West,Carnegie H.,F45,02:32:08
+85,Andrew Griffiths,City of Edin.,M50,02:32:10
+86,Gordon Eadie,Musselburgh,M,02:32:49
+87,David M. Edgar,Portobello,M,02:33:21
+88,Sandy Low,Carnethy,M,02:33:37
+89,Hilary Spenceley,Carnethy,F45,02:33:39
+90,Ian Brodie,Portobello,M,02:34:54
+91,Phyllis Mitchell,CAAC,F,02:36:19
+92,Derek L. Johnstone,,M,02:36:48
+93,Graham Stewart,,M,02:36:50
+94,Nicki Innes,Carnethy,F,02:38:09
+95,Rob Bloor,Interlopers,M,02:39:01
+96,Joanne Thin,Carnethy,F,02:40:58
+97,Michael Wilkinson,Carnethy,M,02:41:31
+98,Jon Rathjen,HBT,M,02:42:21
+99,Sandra Rathjen,HBT,F,02:42:21
+100,Niina Kolehmainen,,F,02:44:14
+101,Steve Pattison,Musselburgh,M,02:46:01
+102,Ian Campbell,HBT,M,02:47:41
+103,Eric Stevenson,City of Edin.,M50,02:48:08
+104,Ian Marshall,HBT,M50,02:50:27
+105,John Mcarthur,Carnegie H.,M60,02:53:56
+106,Ken Daniels,Carnegie H.,M60,02:54:02
+107,Gordon Mcdonald,Scot Vets,M,03:00:59
+108,Iain Kelly,HBT,M,03:01:05
+,,,,
