@@ -1,11 +1,11 @@
-RunnerPosition,Surname,FirstName,Club,RunnerCategory,FinishTime
-1,Scott,Jo,Team Flapjack,M,15:37:18
-1,Wright,Nigel,Team Flapjack,M,15:37:18
-2,McCallum,Alasdair,Double Trouble,M,17:05:00
-2,Meldrum,Alasdair,Double Trouble,M,17:05:00
-3,McGill,Alison,Sweaty A.F.,F,20:32:00
-3,Horsfield,Fiona,Sweaty A.F.,F,20:32:00
-4,Wheeler,Sarah,The Moopsters,F,21:06:00
-4,Brooks,Mike,The Moopsters,M,21:06:00
-5,Sanders,Steve,Over t'ill,M,25:06:00
-5,Burgess,Steve,Over t'ill,M,25:06:00
+RunnerPosition,Surname,FirstName,Team,Club,RunnerCategory,FinishTime
+1,Scott,Jo,Team Flapjack,Fife AC,M,15:37:18
+1,Wright,Nigel,Team Flapjack,,M,15:37:18
+2,McCallum,Alasdair,Double Trouble,North Ayrshire AC,M,17:05:00
+2,Meldrum,Alasdair,Double Trouble,Ayr Seaforth,M,17:05:00
+3,McGill,Alison,Sweaty A.F.,Kinross Road Runners,F,20:32:00
+3,Horsfield,Fiona,Sweaty A.F.,Kinross Road Runners,F,20:32:00
+4,Wheeler,Sarah,The Moopsters,,F,21:06:00
+4,Brooks,Mike,The Moopsters,Penicuik Harriers,M,21:06:00
+5,Sanders,Steve,Over t'ill,,M,25:06:00
+5,Burgess,Steve,Over t'ill,,M,25:06:00

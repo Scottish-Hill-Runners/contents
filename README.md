@@ -132,6 +132,35 @@ CSV rules:
 - If the race is held more than once in the same calendar year, add a suffix after the year. Say, `2026-s.csv` for a summer edition and `2026-w.csv` for winter. Or a race series might be named `2023-1.csv`, `2023-2.csv`, etc.
 - If the course was shortened then append an asterisk after the year. These results will be displayed at the end when sorting results by time. E.g. `2018*.csv`.
 
+## Team and relay events
+
+Results for team events, where two or more runners complete the event together, should include a `Team` column, giving a unique name for the team (e.g., `Carnethy A`; although the team name does not need to include the club name). Each member of the team must appear on a separate row. The time for each team member should be identical. This allows results to be viewed either by individual or by team.
+
+For example,
+
+```csv
+Position,Name,Team,Club,Category,Time
+1,Nicky Spinks,Tussocks Galore,Dark Peak,F,11:21:00
+1,Emma Stuart,Tussocks Galore,,F,11:21:00
+2,Joe Farnell,The Bogdashians,Lochaber AC,M,12:00:00
+2,Despina Berdeni,The Bogdashians,Dark Peak,F,12:00:00
+2,Lisa Watson,The Bogdashians,,F,12:00:00
+```
+
+Relay events in addition require a `Leg` column (usually a number, `1`, `2`, etc.).
+
+For example,
+
+```csv
+Position,Name,Club,Category,Time,Team,Leg
+1,Niall McAlinden,Westerlands CCC,M,00:26:44,Westies A,1
+1,Thomas Callan,Westerlands CCC,M,01:04:36,Westies A,2
+1,Sam Alexander,Westerlands CCC,M,01:04:36,Westies A,2
+1,Gregor Stewart,Westerlands CCC,M,00:46:40,Westies A,3
+1,Mark Sutherland,Westerlands CCC,M,00:46:40,Westies A,3
+1,Steven Halsall,Westerlands CCC,M,00:29:04,Westies A,4
+```
+
 ## Championships
 
 Path pattern:
